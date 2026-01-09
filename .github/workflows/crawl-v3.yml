@@ -15,6 +15,9 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   crawl-and-deploy:
     runs-on: ubuntu-latest
