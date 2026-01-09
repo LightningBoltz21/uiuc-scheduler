@@ -1,0 +1,58 @@
+@import '../../variables';
+
+.date-container {
+  width: 320px;
+  overflow-y: auto;
+  overflow-x: hidden;
+
+  @media (max-width: 900px) {
+    width: 220px;
+  }
+
+  @media (max-width: 500px) {
+    width: 100%;
+    height: 180px;
+    border-bottom: 4px solid var(--theme-bg);
+  }
+
+  .date {
+    @include card;
+
+    // Include theme switch transition
+    transition-duration: $theme-switch-transition-duration;
+    transition-property: color, background-color;
+
+    .dropdown-content {
+      border-top: 1px solid rgba(black, 0.2);
+
+      // Include theme switch transition
+      transition-duration: $theme-switch-transition-duration;
+      transition-property: border-top-color;
+
+      @include dark {
+        border-top-color: rgba(white, 0.2);
+      }
+
+      .course-content {
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        align-items: stretch;
+        padding: 8px;
+
+        .course-id {
+          font-weight: bold;
+        }
+
+        .course-row {
+          padding: 0 4px;
+          display: flex;
+        }
+
+        & > :not(:last-child) {
+          margin-bottom: 4px;
+        }
+      }
+    }
+  }
+}

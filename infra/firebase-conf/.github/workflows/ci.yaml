@@ -1,0 +1,30 @@
+name: Continuous Integration
+on: [pull_request]
+
+jobs:
+  lint:
+    name: Lint
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: functions
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Setup Node
+        uses: actions/setup-node@v2
+        with:
+          node-version: 22
+
+      - name: Install
+        run: yarn install --frozen-lockfile
+        id: install
+
+      - name: Run prettier
+        run: yarn run format:check
+
+      - name: Run ESLint
+        run: yarn run lint
+        # Always run the linter, even if prettier failed
+        if: ${{ steps.install.outcome == 'success' }}

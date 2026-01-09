@@ -1,0 +1,69 @@
+@import '../../variables';
+
+.header-action-bar {
+  display: flex;
+  align-items: stretch;
+  justify-content: flex-end;
+
+  .invite-button {
+    .circle {
+      margin: 4px 0px 0px 8px;
+      width: 8px;
+      color: #ff7337;
+    }
+  }
+
+  @media (max-width: $desktop-breakpoint) {
+    flex: 1;
+    margin-left: 0;
+  }
+
+  @media (max-width: $large-mobile-breakpoint) {
+    height: 64px;
+    justify-content: flex-start;
+    padding-left: 4px;
+  }
+
+  &__export-dropdown-content {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+    // Add a 4px gap between each item (icon, text, caret)
+    & > :not(:last-child) {
+      margin-right: 4px;
+    }
+  }
+
+  &__button {
+    @media (max-width: $desktop-breakpoint) {
+      padding-left: 18px;
+      padding-right: 18px;
+    }
+  }
+
+  // Add a gap when an icon comes before a text label
+  &__button-icon + &__button-text {
+    margin-left: 8px;
+  }
+
+  &__button-text {
+    // Make the text hidden on all buttons
+    // at sufficiently-small screen sizes
+    @media screen and (max-width: 1200px) {
+      display: none;
+    }
+  }
+
+  &__button-icon {
+    // Scale up the icons on large mobile (< desktop)
+    // and small mobile (< large mobile).
+    @media (max-width: $desktop-breakpoint) {
+      transform: scale(1.25);
+
+      @media (max-width: $large-mobile-breakpoint) {
+        transform: scale(1.3);
+      }
+    }
+  }
+}

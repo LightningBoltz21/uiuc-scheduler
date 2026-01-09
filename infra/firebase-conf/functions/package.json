@@ -1,0 +1,48 @@
+{
+  "name": "functions",
+  "scripts": {
+    "lint": "eslint \"**/*.{js,jsx,ts,tsx}\"",
+    "lint:fix": "eslint \"**/*.{js,jsx,ts,tsx}\" --fix",
+    "format": "prettier \"**/*.{js,jsx,ts,tsx,json}\" --write",
+    "format:check": "prettier \"**/*.{js,jsx,ts,tsx,json}\" -l",
+    "build": "tsc",
+    "build:watch": "tsc -w",
+    "serve": "npm run build && firebase emulators:start --project dev --only functions",
+    "serve:debug": "npm run build && firebase emulators:start --project dev --only functions --inspect-functions",
+    "shell": "npm run build && firebase functions:shell --project dev",
+    "start": "npm run shell",
+    "deploy": "firebase deploy --only functions",
+    "logs": "firebase functions:log",
+    "secrets:windows": "set /p BW_PASSWORD=Enter Bitwarden Password:&& (bw logout || VER>NUL) && npm run secrets:login",
+    "secrets:login": "FOR /F %a IN ('bw login product@bitsofgood.org %BW_PASSWORD% --raw') DO SET BW_SESSION=%a && npm run secrets:get",
+    "secrets:get": "bw sync && bw get item gt-scheduler/firebase-conf/.env | fx .notes > \".env\""
+  },
+  "engines": {
+    "node": "22"
+  },
+  "main": "lib/src/index.js",
+  "dependencies": {
+    "@google-cloud/firestore": "^4.15",
+    "@types/nodemailer": "^6.4.7",
+    "date-and-time": "^2.0",
+    "firebase-admin": "^9.8",
+    "firebase-functions": "^3.14",
+    "node-fetch": "^2",
+    "nodemailer": "^6.9.1",
+    "yarn": "^1.22.19"
+  },
+  "devDependencies": {
+    "@types/date-and-time": "^0.13.0",
+    "@types/node-fetch": "^2",
+    "@typescript-eslint/eslint-plugin": "^6.8.0",
+    "@typescript-eslint/parser": "^6.8.0",
+    "eslint": "^7.6.0",
+    "eslint-config-google": "^0.14.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.22.0",
+    "firebase-functions-test": "^0.2.0",
+    "prettier": "^2.4.1",
+    "typescript": "^5.2.2"
+  },
+  "private": true
+}

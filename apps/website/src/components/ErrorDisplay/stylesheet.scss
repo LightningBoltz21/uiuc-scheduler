@@ -1,0 +1,29 @@
+@import '../../variables';
+
+.error-display-outer {
+  font-size: 0.9rem;
+  margin: 0;
+  text-align: left;
+  line-height: 1.1rem;
+
+  @include dark {
+    color: rgba($theme-dark-foreground, 0.75);
+  }
+
+  @include light {
+    color: rgba($theme-light-foreground, 0.75);
+  }
+
+  & :not(:last-child) {
+    margin-bottom: 8px;
+  }
+
+  // Include colored links
+  @extend %colored-link-container;
+
+  pre {
+    width: 100%;
+    overflow-x: auto;
+    font-size: 0.8rem;
+  }
+}

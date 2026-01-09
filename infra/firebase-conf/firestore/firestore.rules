@@ -1,0 +1,16 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    match /schedules/{userId}/{documents=**} {
+      allow read, write: if request.auth != null && request.auth.uid == userId
+    }
+
+    match /course_critique_course_data_cache/{document=**} {
+      allow read, write: if false;
+    }
+
+    match /friends/{userId}/{documents=**} {
+      allow read, write: if request.auth != null && request.auth.uid == userId
+    }
+  }
+}

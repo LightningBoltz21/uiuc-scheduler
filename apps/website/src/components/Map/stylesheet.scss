@@ -1,0 +1,10 @@
+.map-content {
+  display: flex;
+  flex-grow: 1;
+  overflow: hidden;
+  flex: 1;
+
+  @media (max-width: 500px) {
+    flex-direction: column;
+  }
+}

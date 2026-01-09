@@ -1,0 +1,12 @@
+@import '../../variables';
+
+.capture-container {
+  position: absolute;
+  top: 0;
+  left: 100vw;
+  background-color: inherit;
+
+  .fake-calendar {
+    width: $calendar-width;
+  }
+}

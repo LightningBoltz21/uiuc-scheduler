@@ -1,0 +1,175 @@
+@import '../../variables';
+
+// Create a wrapper with a solid background color
+// so that hover states properly lighten the button
+.FeedbackButtonWrapper {
+  border-radius: 5px;
+  position: absolute;
+  bottom: 24px;
+  right: 24px;
+  width: 60px;
+  height: 60px;
+
+  @include popup;
+  @extend %common;
+}
+
+%common {
+  @include dark {
+    --feedback-outer-color: #{$theme-dark-card-background};
+    --feedback-inner-color: #{$theme-dark-background};
+  }
+
+  @include light {
+    --feedback-outer-color: #{$theme-light-background};
+    --feedback-inner-color: #{$theme-light-card-background};
+  }
+
+  background-color: var(--feedback-outer-color);
+
+  // Include theme switch transition
+  transition-duration: $theme-switch-transition-duration;
+  transition-property: background-color;
+}
+
+.FeedbackButton {
+  width: 60px;
+  height: 60px;
+  border-radius: 5px;
+}
+
+.FeedbackForm {
+  position: absolute;
+  bottom: 24px;
+  right: 24px;
+  width: 300px;
+  min-height: 350px;
+  display: flex;
+  flex-direction: column;
+
+  @include popup;
+  @extend %common;
+
+  .container {
+    margin: 20px;
+    flex-grow: 1;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .text {
+    margin-top: 10px;
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+
+  .FeedbackTitle {
+    font-size: 24px;
+    margin-bottom: 16px;
+    margin-top: 0;
+  }
+
+  .FormButtons {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+
+    & div {
+      display: inline-block;
+      justify-content: space-around;
+      background-color: var(--feedback-inner-color);
+      text-align: center;
+
+      // Include theme switch transition
+      transition-duration: $theme-switch-transition-duration;
+      transition-property: background-color;
+    }
+  }
+
+  .FormButton {
+    vertical-align: middle;
+    height: 40px;
+    width: 40px;
+    border-radius: 5px;
+    &.active {
+      background-color: #429bda;
+      color: white;
+    }
+  }
+
+  .ScoreLabels {
+    margin-top: 8px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+  }
+
+  .score {
+    font-size: 14px;
+    color: $color-neutral;
+  }
+
+  .FeedbackTextArea {
+    margin-top: 20px;
+    border: none;
+    overflow: auto;
+    outline: none;
+    height: 85px;
+    width: 260px;
+    font-size: 16px;
+    resize: none;
+    border-radius: 5px;
+    background-color: var(--feedback-inner-color);
+    color: currentColor;
+    padding: 8px;
+
+    // Include theme switch transition
+    transition-duration: $theme-switch-transition-duration;
+    transition-property: background-color;
+
+    &::placeholder {
+      color: $color-neutral;
+    }
+  }
+
+  .SubmitButton {
+    position: relative;
+    width: 100px;
+    height: 32px;
+    background-color: #429bda;
+    font-size: 16px;
+    margin-top: 13px;
+    text-align: center;
+    border-radius: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+  }
+
+  .CloseIcon {
+    position: absolute;
+    top: 0;
+    right: 0;
+    opacity: 0.5;
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+  }
+
+  .submitted {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+
+    & .submitted-thanks {
+      flex-grow: 1;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+    }
+  }
+}

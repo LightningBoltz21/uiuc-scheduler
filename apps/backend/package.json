@@ -1,0 +1,74 @@
+{
+  "name": "gt-scheduler-backend",
+  "version": "0.2.0",
+  "private": true,
+  "homepage": "https://gt-scheduler.org/",
+  "description": "Express API server used to augment the functionality provided in the GT scheduler website/crawler",
+  "main": "server.js",
+  "scripts": {
+    "start": "yarn serve",
+    "build": "yarn build-ts",
+    "serve": "export NODE_EXTRA_CA_CERTS=\"$PWD/intermediate.pem\" && node dist/server.js",
+    "serve:windows": "set NODE_EXTRA_CA_CERTS=%cd%/intermediate.pem && node dist/server.js",
+    "watch": "concurrently -k -p \"[{name}]\" -n \"TypeScript,Node\" -c \"cyan.bold,green.bold\" \"yarn watch-ts\" \"yarn watch-node\"",
+    "watch-node": "export NODE_EXTRA_CA_CERTS=\"$PWD/intermediate.pem\" && nodemon dist/server.js",
+    "watch-node:windows": "set NODE_EXTRA_CA_CERTS=%cd%/intermediate.pem && nodemon dist/server.js",
+    "build-ts": "tsc",
+    "watch-ts": "tsc -w",
+    "debug": "yarn build && yarn watch-debug",
+    "serve-debug": "export NODE_EXTRA_CA_CERTS=\"$PWD/intermediate.pem\" && nodemon --inspect dist/server.js",
+    "serve-debug:windows": "set NODE_EXTRA_CA_CERTS=%cd%/intermediate.pem && nodemon --inspect dist/server.js",
+    "watch-debug": "concurrently -k -p \"[{name}]\" -n \"TypeScript,Node\" -c \"cyan.bold,green.bold\" \"yarn watch-ts\" \"yarn serve-debug\"",
+    "typecheck": "tsc --noEmit",
+    "lint": "eslint \"src/**/*.{js,ts}\"",
+    "lint:fix": "eslint \"src/**/*.{js,ts}\" --fix",
+    "format": "prettier \"src/**/*.{js,ts,md,json}\" \"*.{js,ts,md,json}\" --write",
+    "format:check": "prettier \"src/**/*.{js,ts,md,json}\" \"*.{js,ts,md,json}\" -l"
+  },
+  "dependencies": {
+    "airtable": "^0.10.1",
+    "axios": "^0.21.1",
+    "celebrate": "^14.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.16.2",
+    "http-errors": "^1.7.1",
+    "morgan": "^1.9.1"
+  },
+  "devDependencies": {
+    "@types/airtable": "^0.8.1",
+    "@types/cors": "^2.8.10",
+    "@types/express": "^4.11.0",
+    "@types/http-errors": "^1.6.1",
+    "@types/morgan": "^1.7.35",
+    "@types/node": "^9.4.0",
+    "@typescript-eslint/eslint-plugin": "^4.1.0",
+    "@typescript-eslint/parser": "^4.1.0",
+    "concurrently": "^3.5.1",
+    "eslint": "^7.2.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-import": "^2.20.2",
+    "husky": "^4.0.0",
+    "lint-staged": "^10.5.4",
+    "nodemon": "^1.14.11",
+    "prettier": "^2.1.1",
+    "typescript": "^4.0.2"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "src/**/*.{js,ts}": [
+      "eslint"
+    ],
+    "src/**/*.{js,ts,md,json}": [
+      "prettier --write"
+    ],
+    "*.{js,ts,md,json}": [
+      "prettier --write"
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+@import "../../variables";
+
+.mapbox {
+  height: 100%;
+  width: 100%;
+
+  .pin-text {
+    // right: svg width
+    // up: 3/2 * svg height + 0.5 * text height
+    transform: translate(18px, -65px);
+    font-weight: bold;
+    cursor: pointer;
+    padding: 8px;
+    margin: 0;
+
+    @extend %floating-box;
+  }
+
+  .pin {
+    display: flex;
+    align-items: center;
+
+    svg {
+      filter: drop-shadow(0px 0px 3px #00000080);
+    }
+  }
+
+  .pin-icon {
+    // svg icon is 18px x 32px
+    transform: translate(-9px, -32px);
+    cursor: pointer;
+    font-size: 2rem;
+    color: #c54848;
+  }
+
+  .unknown-container {
+    padding: 15px;
+    margin-top: 20px;
+    margin-left: 20px;
+    width: max-content;
+    position: relative;
+    font-size: 14px;
+    z-index: 0;
+
+    @extend %floating-box;
+
+    @media (max-width: 900px) {
+      margin-top: 8px;
+      margin-left: 8px;
+    }
+
+    .class:first-of-type {
+      margin-top: 8px;
+    }
+    .class:not(:first-of-type) {
+      margin-top: 3px;
+    }
+  }
+
+  .navigation {
+    position: absolute;
+    bottom: 30px;
+    right: 10px;
+  }
+}
+
+%floating-box {
+  border-radius: 8px;
+  box-shadow: 0px 0px 3px #00000080;
+  background: white;
+  color: #333333;
+
+  // Include theme switch transition
+  transition-duration: $theme-switch-transition-duration;
+  transition-property: color, background-color;
+
+  @include dark {
+    background: #111111;
+    color: #eeeeee;
+  }
+}
