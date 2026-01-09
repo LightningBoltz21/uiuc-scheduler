@@ -1,0 +1,72 @@
+{
+  "courses": {
+    "CS 100": [
+      "CS 100",
+      {
+        "AL1": [
+          "30094",
+          [
+            [
+              0,
+              "F",
+              "THEAT Lincoln Hall",
+              0,
+              [
+                "Shaffer, E",
+                "Tychonievich, L"
+              ],
+              0,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          0,
+          0,
+          [],
+          0,
+          "CS 100",
+          {
+            "restrictions": [
+              {
+                "type": "general",
+                "values": [
+                  "Restricted to Computer Science or Statistics & Computer Science or Math & Computer Science or Computer Sci & Anthropology or Computer Sci & Astronomy or Computer Sci & Chemistry or Computer Sci & Linguistics or Computer Science&Crop Sciences or Computer Science and Music or Computer Science & Economics or Computer Science & Advertising or Computer Science & Geog & GIS or Computer Science & Philosophy or Computer Sci & Animal Sci or Computer Science & Education or Computer Science and Physics or ComputerScience&Bioengineering major(s). Restricted to Undergrad - Urbana-Champaign.Restricted to First Time Freshman students."
+                ]
+              }
+            ],
+            "status": "success"
+          }
+        ]
+      },
+      [],
+      "Introduction to Computer Science as a field and career for incoming first year and external transfer students in the computer science majors. Overview of the field and specific examples of problem areas and methods of solution.",
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "03:00 PM - 03:50 PM"
+    ],
+    "dateRanges": [
+      "Meets 08/25/25-10/17/25"
+    ],
+    "scheduleTypes": [
+      "Lecture"
+    ],
+    "campuses": [
+      "Urbana-Champaign"
+    ],
+    "attributes": [],
+    "gradeBases": [
+      "Letter Grade"
+    ],
+    "locations": [
+      "THEAT Lincoln Hall"
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  },
+  "updatedAt": "2026-01-09T23:34:44.865Z",
+  "version": 3
+}
