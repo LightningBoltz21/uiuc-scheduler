@@ -1,0 +1,54 @@
+name: UIUC Crawler v3
+
+on:
+  # Manual trigger for testing
+  workflow_dispatch:
+  
+  # Scheduled runs (every 6 hours)
+  schedule:
+    - cron: '0 */6 * * *'
+  
+  # Run on pushes to crawler-v3 code
+  push:
+    paths:
+      - 'apps/crawler-v3/**'
+    branches:
+      - main
+
+jobs:
+  crawl-and-deploy:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Checkout gh-pages branch to data folder
+        uses: actions/checkout@v4
+        with:
+          ref: gh-pages
+          path: ./apps/crawler-v3/data
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          cache-dependency-path: apps/crawler-v3/package-lock.json
+      
+      - name: Install dependencies
+        working-directory: ./apps/crawler-v3
+        run: npm ci
+      
+      - name: Run crawler
+        working-directory: ./apps/crawler-v3
+        run: npm start
+      
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: gh-pages
+          folder: ./apps/crawler-v3/data
+          clean: false
+          commit-message: 'Update UIUC course data'
