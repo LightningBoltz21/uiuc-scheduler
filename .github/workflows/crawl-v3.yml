@@ -23,8 +23,9 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
       
-      - name: Checkout gh-pages branch to data folder
+      - name: Checkout gh-pages branch to data folder (if exists)
         uses: actions/checkout@v4
+        continue-on-error: true
         with:
           ref: gh-pages
           path: ./apps/crawler-v3/data
