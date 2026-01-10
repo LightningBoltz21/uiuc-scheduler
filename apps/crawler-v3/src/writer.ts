@@ -224,11 +224,4 @@ export class DataWriter {
     
     console.log(`✅ Written: ${filepath}`);
   }
-
-  /**
-   * Get current caches
-   */
-  public getCaches(): Caches {
-    return this.caches;
-  }
 }

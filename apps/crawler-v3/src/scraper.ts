@@ -5,21 +5,23 @@ import { ScrapedCourse, ScrapedSection, ScrapedMeeting } from './types';
 const UIUC_BASE_URL = 'https://courses.illinois.edu';
 
 /**
- * Realistic browser headers to avoid bot detection
+ * Standard headers for HTTP requests
  */
-const BROWSER_HEADERS = {
-  'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-  'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
-  'Accept-Language': 'en-US,en;q=0.9',
-  'Accept-Encoding': 'gzip, deflate, br',
-  'Connection': 'keep-alive',
-  'Upgrade-Insecure-Requests': '1',
-  'Sec-Fetch-Dest': 'document',
-  'Sec-Fetch-Mode': 'navigate',
-  'Sec-Fetch-Site': 'none',
-  'Sec-Fetch-User': '?1',
-  'Cache-Control': 'max-age=0'
-};
+function getHeaders(): Record<string, string> {
+  return {
+    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
+    'Accept-Language': 'en-US,en;q=0.9',
+    'Accept-Encoding': 'gzip, deflate, br',
+    'Connection': 'keep-alive',
+    'Upgrade-Insecure-Requests': '1',
+    'Sec-Fetch-Dest': 'document',
+    'Sec-Fetch-Mode': 'navigate',
+    'Sec-Fetch-Site': 'none',
+    'Sec-Fetch-User': '?1',
+    'Cache-Control': 'max-age=0'
+  };
+}
 
 /**
  * Interface for a course listing
@@ -44,7 +46,7 @@ export async function scrapeSubjects(
 
   try {
     const response = await axios.get(url, {
-      headers: BROWSER_HEADERS
+      headers: getHeaders()
     });
     const html = response.data;
     const $ = cheerio.load(html);
@@ -87,7 +89,7 @@ export async function scrapeCourseList(
 
   try {
     const response = await axios.get(url, {
-      headers: BROWSER_HEADERS
+      headers: getHeaders()
     });
     const html = response.data;
     const $ = cheerio.load(html);
@@ -135,9 +137,7 @@ export async function scrapeCourse(
 
   try {
     const response = await axios.get(url, {
-      headers: {
-        'User-Agent': 'uiuc-scheduler/crawler-v3 (educational project)'
-      }
+      headers: getHeaders()
     });
     const html = response.data;
     const $ = cheerio.load(html);
@@ -311,18 +311,6 @@ export async function scrapeCourse(
 }
 
 // ===== Helper Functions =====
-
-function extractScheduleType(sectionId: string): string {
-  if (/^[A-Z]+L\d*$/i.test(sectionId)) return 'Lab';
-  if (/^[A-Z]+D\d*$/i.test(sectionId)) return 'Discussion';
-  if (/online/i.test(sectionId)) return 'Online Lecture';
-  return 'Lecture';
-}
-
-function extractDays(text: string): string {
-  const daysMatch = text.match(/\b([MTWRFSU]+)\b/);
-  return daysMatch ? daysMatch[1] : '';
-}
 
 function parseTimeToMinutes(timeStr: string): number {
   // Parse "03:00 PM" -> 900 minutes from midnight (15 * 60)

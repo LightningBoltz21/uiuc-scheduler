@@ -30,9 +30,9 @@ export interface IndexData {
 export type Course = [
   string,                           // 0: Full course name
   Record<string, Section>,          // 1: Sections map (key: section ID like "A", "B", "AL1")
-  Prerequisites,                    // 2: Prerequisites tree
+  [],                               // 2: Prerequisites tree (empty for MVP)
   string | null,                    // 3: Course description
-  Corequisites                      // 4: Corequisites
+  []                                // 4: Corequisites (empty for MVP)
 ];
 
 /**
@@ -63,38 +63,6 @@ export type Meeting = [
   number,                           // 6: Index into caches.finalDates (-1 if none)
   number                            // 7: Index into caches.finalTimes (-1 if none)
 ];
-
-// ===== Prerequisites & Corequisites =====
-
-export type Prerequisites = PrerequisiteTree | [];
-
-export type PrerequisiteTree = 
-  | ["and", ...PrerequisiteTree[]]
-  | ["or", ...PrerequisiteTree[]]
-  | PrerequisiteCourse;
-
-export interface PrerequisiteCourse {
-  id: string;
-  grade?: string;
-}
-
-export type Corequisites = Corequisite[];
-
-export interface Corequisite {
-  id: string;
-}
-
-// ===== Section Restrictions =====
-
-export interface SectionRestrictions {
-  restrictions: Restriction[];
-  status: "success" | "error";
-}
-
-export interface Restriction {
-  type: string;
-  values: string[];
-}
 
 // ===== Caches (Shared Data) =====
 
