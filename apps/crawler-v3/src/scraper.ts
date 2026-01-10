@@ -162,23 +162,39 @@ function extractDays(text: string): string {
   return daysMatch ? daysMatch[1] : '';
 }
 
-function parseTime(timeText: string): { startTime: string; endTime: string } {
-  // Match patterns like "8:00 AM - 8:50 AM" or "08:00-08:50"
+function parseTimeToMinutes(timeStr: string): number {
+  // Parse "03:00 PM" -> 900 minutes from midnight (15 * 60)
+  const match = timeStr.match(/(\d{1,2}):(\d{2})\s*(AM|PM)/i);
+  if (!match) return 0;
+  
+  let hours = parseInt(match[1]);
+  const minutes = parseInt(match[2]);
+  const period = match[3].toUpperCase();
+  
+  // Convert to 24-hour format
+  if (period === 'PM' && hours !== 12) hours += 12;
+  if (period === 'AM' && hours === 12) hours = 0;
+  
+  return hours * 60 + minutes;
+}
+
+function parseTime(timeText: string): { startTime: number; endTime: number } {
+  // Match patterns like "8:00 AM - 8:50 AM" or "08:00-08:50" or "03:00PM - 03:50PM"
   const match = timeText.match(/(\d{1,2}:\d{2})\s*(AM|PM)?\s*-\s*(\d{1,2}:\d{2})\s*(AM|PM)?/i);
   
   if (match) {
     const start = match[1];
-    const startPeriod = match[2] || 'AM';
+    const startPeriod = (match[2] || 'AM').toUpperCase();
     const end = match[3];
-    const endPeriod = match[4] || match[2] || 'PM';
+    const endPeriod = (match[4] || match[2] || 'PM').toUpperCase();
     
-    return {
-      startTime: `${start} ${startPeriod}`,
-      endTime: `${end} ${endPeriod}`
-    };
+    const startTime = parseTimeToMinutes(`${start} ${startPeriod}`);
+    const endTime = parseTimeToMinutes(`${end} ${endPeriod}`);
+    
+    return { startTime, endTime };
   }
   
-  return { startTime: 'TBA', endTime: 'TBA' };
+  return { startTime: 0, endTime: 0 };
 }
 
 function extractBuilding(room: string): string {

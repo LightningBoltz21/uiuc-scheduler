@@ -101,7 +101,7 @@ export interface Restriction {
 // ===== Caches (Shared Data) =====
 
 export interface Caches {
-  periods: string[];              // ["8:00 am - 8:50 am", "TBA"]
+  periods: [number, number][];    // [[480, 530], [540, 590]] - start/end in minutes from midnight
   dateRanges: string[];           // ["Aug 21, 2025 - Dec 10, 2025"]
   scheduleTypes: string[];        // ["Lecture", "Lab", "Discussion"]
   campuses: string[];             // ["Urbana-Champaign"]
@@ -142,8 +142,8 @@ export interface ScrapedSection {
 
 export interface ScrapedMeeting {
   days: string;                   // e.g., "MWF", "TR"
-  startTime: string;              // e.g., "8:00 AM"
-  endTime: string;                // e.g., "8:50 AM"
+  startTime: number;              // e.g., 480 (8:00 AM in minutes from midnight)
+  endTime: number;                // e.g., 530 (8:50 AM in minutes from midnight)
   room: string;                   // e.g., "Siebel Center 1404"
   building: string;               // e.g., "Siebel Center"
   instructors: string[];          // e.g., ["John Smith (P)"]

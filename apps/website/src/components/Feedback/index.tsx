@@ -5,7 +5,7 @@ import { faCommentAlt, faTimes } from '@fortawesome/free-solid-svg-icons';
 
 import { Button } from '..';
 import { classes } from '../../utils/misc';
-import { BACKEND_BASE_URL } from '../../constants';
+// import { BACKEND_BASE_URL } from '../../constants'; // Backend disabled
 
 import './stylesheet.scss';
 
@@ -131,6 +131,13 @@ async function submitFeedback({
   rating: number;
   feedback: string;
 }): Promise<void> {
+  // Backend disabled - feedback submission not available
+  console.log('Feedback submission disabled (no backend):', {
+    rating,
+    feedback,
+  });
+  return Promise.resolve();
+  /* Original backend call disabled:
   const url = `${BACKEND_BASE_URL}/feedback`;
   await axios({
     method: 'post',
@@ -143,4 +150,5 @@ async function submitFeedback({
       'Content-Type': 'application/json;charset=UTF-8',
     },
   });
+  */
 }

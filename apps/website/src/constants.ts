@@ -78,7 +78,8 @@ const COURSE_TABS = ['Courses', 'Recurring Events'];
 const COURSES = 0;
 const RECURRING_EVENTS = 1;
 
-const BACKEND_BASE_URL = 'https://gt-scheduler.azurewebsites.net';
+// Backend disabled - no longer using backend services
+// const BACKEND_BASE_URL = 'https://gt-scheduler.azurewebsites.net';
 const FIREBASE_PROJECT_ID = firebaseConfig.projectId || `gt-scheduler-web-dev`;
 const CLOUD_FUNCTION_BASE_URL = `https://us-east1-${FIREBASE_PROJECT_ID}.cloudfunctions.net`;
 
@@ -86,7 +87,7 @@ const CLOUD_FUNCTION_BASE_URL = `https://us-east1-${FIREBASE_PROJECT_ID}.cloudfu
 // eg. http://localhost:8080
 const CUSTOM_CRAWLER_URL = process.env['REACT_APP_LOCAL_CRAWLER_URL'];
 const CRAWLER_BASE_URL =
-  CUSTOM_CRAWLER_URL || 'https://gt-scheduler.github.io/crawler-v2';
+  CUSTOM_CRAWLER_URL || 'https://lightningboltz21.github.io/scheduler';
 
 const DONATE_LINK = 'https://opencollective.com/georgia-tech';
 
@@ -107,7 +108,7 @@ export {
   ASYNC_DELIVERY_MODE,
   DELIVERY_MODES,
   CAMPUSES,
-  BACKEND_BASE_URL,
+  // BACKEND_BASE_URL, // Backend disabled
   CLOUD_FUNCTION_BASE_URL,
   DONATE_LINK,
   DESKTOP_BREAKPOINT,

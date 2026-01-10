@@ -46,6 +46,24 @@ export class DataWriter {
   }
 
   /**
+   * Add period (time range) to cache and return its index
+   */
+  private addPeriodToCache(startTime: number, endTime: number): number {
+    // Check if this exact period already exists
+    for (let i = 0; i < this.caches.periods.length; i++) {
+      const [start, end] = this.caches.periods[i];
+      if (start === startTime && end === endTime) {
+        return i;
+      }
+    }
+
+    // Add new period
+    const index = this.caches.periods.length;
+    this.caches.periods.push([startTime, endTime]);
+    return index;
+  }
+
+  /**
    * Add item to cache and return its index
    */
   private addToCache<T extends keyof CacheBuilder>(
@@ -73,11 +91,8 @@ export class DataWriter {
     for (const scrapedSection of scraped.sections) {
       // Convert meetings to tuple format
       const meetings: Meeting[] = scrapedSection.meetings.map(meeting => {
-        // Build period string
-        const period = meeting.startTime === 'TBA' 
-          ? 'TBA' 
-          : `${meeting.startTime} - ${meeting.endTime}`;
-        const periodIndex = this.addToCache('periods', period);
+        // Add period using minute offsets
+        const periodIndex = this.addPeriodToCache(meeting.startTime, meeting.endTime);
 
         // Add date range
         const dateRangeIndex = this.addToCache('dateRanges', meeting.dateRange);

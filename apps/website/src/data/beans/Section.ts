@@ -3,7 +3,7 @@ import cheerio from 'cheerio';
 import { decode } from 'html-entities';
 
 import { unique } from '../../utils/misc';
-import { DELIVERY_MODES, BACKEND_BASE_URL } from '../../constants';
+import { DELIVERY_MODES } from '../../constants';
 import Course from './Course';
 import Oscar from './Oscar';
 import { CrawlerMeeting, Meeting } from '../../types';
@@ -150,6 +150,11 @@ export default class Section {
   }
 
   async fetchSeating(term: string): Promise<Seating> {
+    // Backend disabled - returning cached seating data only
+    // Real-time seat availability is no longer fetched
+    return Promise.resolve(this.seating);
+
+    /* Original backend implementation (disabled):
     const prevDate = this.seating[1];
     const currDate = Date.now();
 
@@ -211,5 +216,6 @@ export default class Section {
         });
     }
     return this.seating;
+    */
   }
 }
