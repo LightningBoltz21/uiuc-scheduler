@@ -1,6 +1,12 @@
 import { scrapeCourse, scrapeSubjects, scrapeCourseList, CourseInfo } from './scraper';
 import { DataWriter } from './writer';
 import { getIntConfig, discoverLatestTerms, getTermCode, getTermName } from './utils';
+import { 
+  ProgressManager, 
+  writeIndexTemp, 
+  promoteIndexTemp
+} from './progress';
+import { Course } from './types';
 import asyncPool from 'tiny-async-pool';
 import * as path from 'path';
 
@@ -15,6 +21,7 @@ const SPECIFIED_TERMS = process.env.SPECIFIED_TERMS?.split(',').map(termStr => {
 const CONCURRENCY = getIntConfig('CONCURRENCY') ?? 2;
 const REQUEST_DELAY_MS = getIntConfig('REQUEST_DELAY_MS') ?? 500;
 const COURSES_PER_SUBJECT = getIntConfig('COURSES_PER_SUBJECT') ?? null; // null = all courses
+const SUBJECT_SAVE_INTERVAL = getIntConfig('SUBJECT_SAVE_INTERVAL') ?? 100; // Save every N courses
 const OUTPUT_DIR = path.join(__dirname, '..', 'data');
 
 /**
@@ -29,10 +36,8 @@ function sleep(ms: number, jitterPercent: number = 0.3): Promise<void> {
   return new Promise(resolve => setTimeout(resolve, actualDelay));
 }
 
+// Global state for rate limiting tracking
 let totalRequests = 0;
-let rateLimitCount = 0;
-let forbidden403Count = 0;
-const MAX_403_ERRORS = 1; // Abort on first 403 and save progress
 let abortRequested = false;
 
 /**
@@ -42,11 +47,12 @@ async function scrapeWithDelay(
   year: string,
   term: string,
   course: CourseInfo,
-  delayMs: number = 500
-): Promise<{ course: CourseInfo; data: any; success: boolean }> {
+  delayMs: number = 500,
+  abortController?: AbortController
+): Promise<{ course: CourseInfo; data: any; success: boolean; errorType?: string }> {
   // Check if abort was requested
   if (abortRequested) {
-    return { course, data: null, success: false };
+    return { course, data: null, success: false, errorType: 'aborted' };
   }
 
   // Add delay before EACH request for rate limiting (with jitter)
@@ -54,35 +60,199 @@ async function scrapeWithDelay(
   totalRequests++;
   
   try {
-    const scraped = await scrapeCourse(year, term, course.subject, course.number);
+    const scraped = await scrapeCourse(
+      year,
+      term,
+      course.subject,
+      course.number,
+      abortController?.signal
+    );
     return { course, data: scraped, success: true };
   } catch (error: any) {
     // Check for 403 Forbidden errors
     if (error.response?.status === 403) {
-      forbidden403Count++;
       console.error(`\n❌ 403 Forbidden on ${course.subject} ${course.number}`);
       console.error(`🛑 ABORTING: UIUC server blocked request`);
-      console.error(`   Stopping scraper...\n`);
       abortRequested = true;
-      return { course, data: null, success: false };
+      // Abort any in-flight requests
+      try { abortController?.abort('403 Forbidden - abort all requests'); } catch {}
+      return { course, data: null, success: false, errorType: '403' };
     }
     
     if (error.response?.status === 429) {
-      rateLimitCount++;
       console.log(`  ⚠️  Rate limited on ${course.subject} ${course.number}`);
-      
-      if (rateLimitCount > 5) {
-        console.warn(`\n⚠️⚠️⚠️  EXCESSIVE RATE LIMITING! (${rateLimitCount} times)`);
-        console.warn(`Consider stopping and reducing CONCURRENCY or increasing REQUEST_DELAY_MS\n`);
-      }
+      return { course, data: null, success: false, errorType: '429' };
     }
     
+    // Treat canceled requests quietly
+    if (error?.code === 'ERR_CANCELED' || error?.name === 'CanceledError') {
+      return { course, data: null, success: false, errorType: 'canceled' };
+    }
+
     // Don't spam errors if we're aborting
     if (!abortRequested) {
       console.error(`  ❌ Failed to scrape ${course.subject} ${course.number}:`, error.message);
     }
-    return { course, data: null, success: false };
+    return { course, data: null, success: false, errorType: 'error' };
   }
+}
+
+/**
+ * Scrape all courses for a single subject with write-through caching
+ */
+async function scrapeSubjectCourses(
+  year: string,
+  term: string,
+  subject: string,
+  allCoursesInSubject: CourseInfo[],
+  existingCourses: Record<string, Course>,
+  progressManager: ProgressManager,
+  writer: DataWriter,
+  subjectIndex: number,
+  totalSubjects: number
+): Promise<{ success: boolean; aborted: boolean; courses: Record<string, Course> }> {
+  // Determine which courses still need to be scraped
+  const existingKeys = new Set(Object.keys(existingCourses));
+  const coursesToScrape = allCoursesInSubject.filter(course => {
+    const key = `${course.subject} ${course.number}`;
+    return !existingKeys.has(key);
+  });
+  
+  const alreadyScraped = existingKeys.size;
+  const totalForSubject = allCoursesInSubject.length;
+  
+  // If all courses already scraped, skip
+  if (coursesToScrape.length === 0) {
+    console.log(`  ✅ ${subject}: Already complete (${alreadyScraped}/${totalForSubject} courses)`);
+    return { success: true, aborted: false, courses: existingCourses };
+  }
+  
+  // Log resume info if resuming
+  if (alreadyScraped > 0) {
+    console.log(`  📂 ${subject}: Resuming from course #${alreadyScraped + 1} (${alreadyScraped}/${totalForSubject} already scraped)`);
+  } else {
+    console.log(`  🔍 ${subject}: Scraping ${totalForSubject} courses...`);
+  }
+  
+  // Start with existing courses
+  const coursesMap: Record<string, Course> = { ...existingCourses };
+  let successThisRun = 0;
+  let failedThisRun = 0;
+  let lastSaveCount = alreadyScraped;
+  
+  // Create abort controller for this subject
+  const abortController = new AbortController();
+  
+  // Reset abort flag
+  abortRequested = false;
+  
+  const startTime = Date.now();
+  let completed = 0;
+  
+  // Scrape courses in parallel
+  const results = await asyncPool(CONCURRENCY, coursesToScrape, async (course: CourseInfo) => {
+    if (abortRequested) {
+      return { course, data: null, success: false, errorType: 'aborted' };
+    }
+    return await scrapeWithDelay(year, term, course, REQUEST_DELAY_MS, abortController);
+  });
+  
+  // Process results
+  for await (const result of results) {
+    completed++;
+    
+    if (result.success && result.data) {
+      const convertedCourse = writer.convertCourse(result.data);
+      const courseKey = `${result.course.subject} ${result.course.number}`;
+      coursesMap[courseKey] = convertedCourse;
+      successThisRun++;
+      progressManager.incrementSuccess();
+    } else {
+      failedThisRun++;
+      progressManager.incrementFailure();
+      
+      if (result.errorType === '429') {
+        progressManager.incrementRateLimit();
+      }
+    }
+    
+    const totalScraped = Object.keys(coursesMap).length;
+    
+    // Write-through save every SUBJECT_SAVE_INTERVAL courses
+    if (totalScraped - lastSaveCount >= SUBJECT_SAVE_INTERVAL) {
+      console.log(`  📦 ${subject}: Saving progress (${totalScraped} courses)...`);
+      const currentCaches = writer.generateTermData(coursesMap).caches;
+      progressManager.saveSubjectFile(subject, coursesMap, currentCaches);
+      progressManager.markSubjectPartial(subject, totalScraped, totalForSubject, `${result.course.subject} ${result.course.number}`);
+      lastSaveCount = totalScraped;
+    }
+    
+    // Progress display every 10 courses
+    if (completed % 10 === 0 || completed === coursesToScrape.length) {
+      const elapsed = (Date.now() - startTime) / 1000;
+      const rate = completed / elapsed;
+      const eta = coursesToScrape.length > completed 
+        ? ((coursesToScrape.length - completed) / rate).toFixed(0)
+        : '0';
+      const overallProgress = progressManager.getTotalCoursesScraped();
+      const overallTotal = progressManager.getTotalCoursesExpected();
+      const overallPercent = overallTotal > 0 ? ((overallProgress / overallTotal) * 100).toFixed(1) : '?';
+      
+      console.log(`    Progress: ${completed}/${coursesToScrape.length} in ${subject} (${rate.toFixed(1)}/s, ETA: ${eta}s)`);
+      console.log(`    Session: +${successThisRun} this run | Overall: ${overallProgress}/${overallTotal} (${overallPercent}%)`);
+    }
+    
+    // Check for abort
+    if (abortRequested) {
+      break;
+    }
+  }
+  
+  // Handle abort - save progress before exit
+  if (abortRequested) {
+    const totalScraped = Object.keys(coursesMap).length;
+    console.log(`\n💾 Saving progress before abort...`);
+    const currentCaches = writer.generateTermData(coursesMap).caches;
+    progressManager.saveSubjectFile(subject, coursesMap, currentCaches);
+    progressManager.markSubjectPartial(subject, totalScraped, totalForSubject, 'ABORTED');
+    progressManager.saveProgress();
+    
+    console.log(`  ✓ ${subject}.json saved (${totalScraped}/${totalForSubject} courses)`);
+    console.log(`  ✓ progress.json updated\n`);
+    
+    logResumeInstructions(progressManager, subject, totalScraped, totalForSubject);
+    
+    return { success: false, aborted: true, courses: coursesMap };
+  }
+  
+  // Subject complete - final save
+  const currentCaches = writer.generateTermData(coursesMap).caches;
+  progressManager.saveSubjectFile(subject, coursesMap, currentCaches);
+  progressManager.markSubjectCompleted(subject);
+  
+  const totalScraped = Object.keys(coursesMap).length;
+  console.log(`  ✅ ${subject} complete! (${totalScraped} courses, +${successThisRun} this run, ${failedThisRun} failed)`);
+  
+  return { success: true, aborted: false, courses: coursesMap };
+}
+
+/**
+ * Log resume instructions after abort
+ */
+function logResumeInstructions(
+  progressManager: ProgressManager,
+  currentSubject: string,
+  scrapedInSubject: number,
+  totalInSubject: number
+): void {
+  const overallProgress = progressManager.getTotalCoursesScraped();
+  const overallTotal = progressManager.getTotalCoursesExpected();
+  
+  console.log(`📋 Resume instructions:`);
+  console.log(`  - Wait before retrying (24 hours recommended)`);
+  console.log(`  - Run same command again to resume`);
+  console.log(`  - Progress: ${scrapedInSubject}/${totalInSubject} courses in ${currentSubject}`);
+  console.log(`  - Overall: ${overallProgress}/${overallTotal} courses total\n`);
 }
 
 /**
@@ -93,6 +263,7 @@ async function main() {
   console.log(`Configuration:`);
   console.log(`  - CONCURRENCY: ${CONCURRENCY}`);
   console.log(`  - REQUEST_DELAY_MS: ${REQUEST_DELAY_MS}`);
+  console.log(`  - SUBJECT_SAVE_INTERVAL: ${SUBJECT_SAVE_INTERVAL}`);
   if (COURSES_PER_SUBJECT !== null) {
     console.log(`  - COURSES_PER_SUBJECT: ${COURSES_PER_SUBJECT} (testing mode)`);
   } else {
@@ -114,177 +285,248 @@ async function main() {
   });
   console.log();
 
-  // Write index.json immediately with discovered terms
-  console.log('📝 Writing index.json with discovered terms...');
-  const writer = new DataWriter();
+  // Write indextemp.json with discovered terms
+  console.log('📝 Writing indextemp.json with discovered terms...');
   const terms = termsToScrape.map(({ year, term }) => ({
     term: getTermCode(year, term),
     name: getTermName(year, term)
   }));
-  writer.writeIndex(terms, OUTPUT_DIR);
-  console.log('✅ index.json written\n');
+  writeIndexTemp(terms, OUTPUT_DIR);
+  console.log('✅ indextemp.json written (will promote to index.json when ALL terms complete)\n');
 
-  const allTermData: Array<{ termCode: string; termName: string; data: any }> = [];
+  const completedTerms: string[] = [];
+  let anyTermFailed = false;
 
   for (const { year, term } of termsToScrape) {
+    const termCode = getTermCode(year, term);
+    const termName = getTermName(year, term);
+    
     console.log(`\n${'='.repeat(60)}`);
-    console.log(`📅 Processing ${getTermName(year, term).toUpperCase()}...`);
+    console.log(`📅 Processing ${termName.toUpperCase()}...`);
     console.log('='.repeat(60) + '\n');
+    
+    // Initialize progress manager for this term
+    const progressManager = new ProgressManager(OUTPUT_DIR, termCode, termName, year, term);
+    
+    // Check for existing progress
+    console.log('🔍 Checking for existing progress...');
+    progressManager.logResumeStatus();
     
     try {
       // Step 1: Get all subjects
-      console.log('🔍 Step 1: Discovering subjects...');
-      const subjects = await scrapeSubjects(year, term);
+      console.log('\n🔍 Step 1: Discovering subjects...');
+      let subjects: string[];
+      
+      // Check if we have cached subjects in progress
+      const cachedSubjects = progressManager.getCachedSubjects();
+      if (cachedSubjects && cachedSubjects.length > 0) {
+        subjects = cachedSubjects;
+        console.log(`  ✓ Loaded ${subjects.length} subjects from cache (skipped HTTP request)`);
+      } else {
+        subjects = await scrapeSubjects(year, term);
+        console.log(`  ✓ Discovered ${subjects.length} subjects`);
+        
+        // Cache subjects in progress file
+        progressManager.cacheSubjects(subjects);
+      }
       
       if (subjects.length === 0) {
         console.log(`  ⚠️  No subjects found for ${term} ${year}, skipping...`);
         continue;
       }
 
-      // Step 2: Get all courses for each subject
-      console.log('\n🔍 Step 2: Discovering courses...');
-      const allCourses: CourseInfo[] = [];
-      let subjectIndex = 0;
-      const totalSubjects = subjects.length;
+      // Step 2: Get all courses for each subject (discovery phase)
+      console.log('\n🔍 Step 2: Discovering courses per subject...');
+      let subjectCourseMap = new Map<string, CourseInfo[]>();
+      let totalCoursesDiscovered = 0;
       
-      for (const subject of subjects) {
-        subjectIndex++;
-        const courses = await scrapeCourseList(year, term, subject);
+      // Check if we have cached course lists
+      const cachedCourseLists = progressManager.getCachedCourseLists();
+      if (cachedCourseLists && Object.keys(cachedCourseLists).length > 0) {
+        // Load from cache
+        for (const [subject, courses] of Object.entries(cachedCourseLists)) {
+          subjectCourseMap.set(subject, courses);
+          totalCoursesDiscovered += courses.length;
+        }
+        console.log(`  ✓ Loaded course lists from cache (${totalCoursesDiscovered} courses, skipped HTTP requests)`);
+      } else {
+        // Discover courses from HTTP
+        let subjectIndex = 0;
         
-        if (COURSES_PER_SUBJECT !== null && courses.length > 0) {
-          // Take first N courses from this subject
-          const coursesToTake = courses.slice(0, COURSES_PER_SUBJECT);
-          allCourses.push(...coursesToTake);
-          console.log(`    ✓ Found ${courses.length} courses in ${subject}, taking first ${coursesToTake.length}`);
-        } else {
-          allCourses.push(...courses);
-          console.log(`    ✓ Found ${courses.length} courses in ${subject}`);
+        for (const subject of subjects) {
+          subjectIndex++;
+          
+          const courses = await scrapeCourseList(year, term, subject);
+          
+          let coursesToStore = courses;
+          if (COURSES_PER_SUBJECT !== null && courses.length > 0) {
+            coursesToStore = courses.slice(0, COURSES_PER_SUBJECT);
+            console.log(`    ✓ ${subject}: ${courses.length} courses (taking first ${coursesToStore.length})`);
+          } else {
+            console.log(`    ✓ ${subject}: ${courses.length} courses`);
+          }
+          
+          subjectCourseMap.set(subject, coursesToStore);
+          totalCoursesDiscovered += coursesToStore.length;
+          
+          // Show progress every 20 subjects
+          if (subjectIndex % 20 === 0 || subjectIndex === subjects.length) {
+            console.log(`  📊 Discovery: ${subjectIndex}/${subjects.length} subjects (${totalCoursesDiscovered} courses found)`);
+          }
+          
+          // Delay between subject discovery requests
+          await sleep(500, 0.3);
         }
         
-        // Show progress every 20 subjects
-        if (subjectIndex % 20 === 0 || subjectIndex === totalSubjects) {
-          console.log(`  📊 Progress: ${subjectIndex}/${totalSubjects} subjects (${allCourses.length} courses found)`);
-        }
+        console.log(`\n  📚 Total courses discovered: ${totalCoursesDiscovered}`);
         
-        // Conservative delay between subjects (with jitter)
-        await sleep(1000, 0.3);
+        // Cache the course lists
+        const courseListsObj: Record<string, CourseInfo[]> = {};
+        subjectCourseMap.forEach((courses, subject) => {
+          courseListsObj[subject] = courses;
+        });
+        progressManager.cacheCourseLists(courseListsObj);
       }
       
-      console.log(`\n  📚 Total courses discovered: ${allCourses.length}`);
-      if (COURSES_PER_SUBJECT !== null) {
-        console.log(`  ⚠️  COURSES_PER_SUBJECT mode: Testing with ${COURSES_PER_SUBJECT} courses per subject`);
-      }
-
-      if (allCourses.length === 0) {
+      // Update progress with totals
+      progressManager.updateTotals(subjects.length, totalCoursesDiscovered);
+      
+      if (totalCoursesDiscovered === 0) {
         console.log(`  ⚠️  No courses found for ${term} ${year}, skipping...`);
         continue;
       }
 
-      // Scrape all courses for this term
-      const termCode = getTermCode(year, term);
-      const coursesToScrape = allCourses;
-
-      // Step 3: Scrape remaining courses in parallel
-      console.log('🔍 Step 3: Scraping courses in parallel...');
-      const writer = new DataWriter();
-      const coursesMap: Record<string, any> = {};
-      let successCount = 0;
-      let failureCount = 0;
-
-      // Progress tracking
-      let completed = 0;
-      const startTime = Date.now();
-
-      // Reset abort flag for each term
-      abortRequested = false;
-      forbidden403Count = 0;
+      // Step 3: Scrape courses per subject with write-through caching
+      console.log('\n🔍 Step 3: Scraping courses per subject (with write-through caching)...\n');
       
-      // Collect all results from parallel scraping
-      const results = await asyncPool(CONCURRENCY, coursesToScrape, async (course: CourseInfo) => {
-        // Skip if abort requested
-        if (abortRequested) {
-          return { course, data: null, success: false };
-        }
-        return await scrapeWithDelay(year, term, course, REQUEST_DELAY_MS);
-      });
-
-      // Process all results (asyncPool returns AsyncIterableIterator)
-      for await (const result of results) {
-        completed++;
+      const writer = new DataWriter();
+      let termAborted = false;
+      let subjectIndex = 0;
+      
+      for (const subject of subjects) {
+        subjectIndex++;
         
-        if (result.success && result.data) {
-          const convertedCourse = writer.convertCourse(result.data);
-          const courseKey = `${result.course.subject} ${result.course.number}`;
-          coursesMap[courseKey] = convertedCourse;
-          successCount++;
-        } else {
-          failureCount++;
-        }
-
-        // Log progress every 10 courses in test mode, 50 in full mode
-        const progressInterval = COURSES_PER_SUBJECT !== null ? 10 : 50;
-        if (completed % progressInterval === 0 || completed === coursesToScrape.length) {
-          const elapsed = ((Date.now() - startTime) / 1000).toFixed(1);
-          const rate = (completed / (Date.now() - startTime) * 1000).toFixed(1);
-          const eta = coursesToScrape.length > completed 
-            ? ((coursesToScrape.length - completed) / parseFloat(rate)).toFixed(0)
-            : '0';
-          console.log(`  Progress: ${completed}/${coursesToScrape.length} (${rate}/s, ETA: ${eta}s, Rate limits: ${rateLimitCount})`);
+        // Skip completed subjects
+        if (progressManager.isSubjectCompleted(subject)) {
+          console.log(`  ⏭️  ${subject}: Skipping (already complete)`);
+          continue;
         }
         
-        // Check if we should abort
-        if (abortRequested) {
+        const coursesInSubject = subjectCourseMap.get(subject) || [];
+        if (coursesInSubject.length === 0) {
+          progressManager.markSubjectCompleted(subject);
+          continue;
+        }
+        
+        // Load existing courses for this subject (resume support)
+        const existingCourses = progressManager.getScrapedCourses(subject);
+        
+        console.log(`\n📦 Processing ${subject} (${subjectIndex}/${subjects.length} subjects)...`);
+        
+        // Scrape this subject
+        const result = await scrapeSubjectCourses(
+          year,
+          term,
+          subject,
+          coursesInSubject,
+          existingCourses,
+          progressManager,
+          writer,
+          subjectIndex,
+          subjects.length
+        );
+        
+        if (result.aborted) {
+          termAborted = true;
+          anyTermFailed = true;
           break;
         }
       }
       
-      // Handle abort scenario
-      if (abortRequested) {
-        console.error(`\n❌ Scraping aborted due to 403 Forbidden error`);
-        console.error(`   Successfully scraped this run: ${successCount} courses`);
-        console.error(`   Failed/Skipped: ${failureCount} courses`);
-        console.error(`   No data written - term incomplete\n`);
-        
-        // Exit with error code so GitHub Actions knows it failed
+      // If term was aborted, exit
+      if (termAborted) {
+        console.error(`\n❌ Term ${termName} aborted due to 403 error`);
+        console.error(`   Run again to resume from where you left off\n`);
         process.exit(1);
       }
 
-      // Step 4: Generate and write output (merge with existing)
-      console.log('\n📦 Step 4: Building term data...');
+      // Step 4: Merge all subject files and generate final term JSON
+      console.log('\n📦 Step 4: Merging all subjects and building final term data...');
       
-      const termData = writer.generateTermData(coursesMap);
-      const termName = getTermName(year, term);
+      // Merge all subject files - includes courses and caches
+      const merged = progressManager.mergeAllSubjects();
+      const allCourses = merged.courses;
+      const mergedCaches = merged.caches;
       
-      const totalCourses = Object.keys(coursesMap).length;
+      // Build final term data with merged caches
+      const termData = {
+        courses: allCourses,
+        caches: mergedCaches,
+        updatedAt: new Date().toISOString(),
+        version: 3
+      };
+      
+      const totalCourses = Object.keys(allCourses).length;
+      const stats = progressManager.getStats();
       
       console.log(`  ✓ Total courses: ${totalCourses}`);
-      console.log(`  ✓ Success: ${successCount}, Failed: ${failureCount}`);
-      console.log(`  ✓ Cached periods: ${termData.caches.periods.length}`);
-      console.log(`  ✓ Cached locations: ${termData.caches.locations.length}`);
-      console.log(`  ✓ Cached scheduleTypes: ${termData.caches.scheduleTypes.length}`);
+      console.log(`  ✓ Success: ${stats.successfulCourses}, Failed: ${stats.failedCourses}`);
+      console.log(`  ✓ Rate limits encountered: ${stats.rateLimitCount}`);
+      console.log(`  ✓ Cached periods: ${mergedCaches.periods.length}`);
+      console.log(`  ✓ Cached locations: ${mergedCaches.locations.length}`);
+      console.log(`  ✓ Cached scheduleTypes: ${mergedCaches.scheduleTypes.length}`);
 
-      // Write term data JSON
-      console.log('\n💾 Writing output file...');
-      writer.writeTermData(termData, termCode, OUTPUT_DIR);
+      // Write final term data JSON
+      console.log('\n💾 Writing final output file...');
+      const finalWriter = new DataWriter();
+      finalWriter.writeTermData(termData, termCode, OUTPUT_DIR);
+      
+      // Cleanup temporary files
+      console.log('🧹 Cleaning up temporary files...');
+      progressManager.cleanup();
 
-      allTermData.push({ termCode, termName, data: termData });
-
-      const totalTime = ((Date.now() - startTime) / 1000).toFixed(1);
-      console.log(`\n✨ ${getTermName(year, term)} complete in ${totalTime}s!`);
+      completedTerms.push(termCode);
+      console.log(`\n✨ ${termName} complete!`);
 
     } catch (error: any) {
       console.error(`\n❌ Failed to process ${term} ${year}:`, error.message);
       console.error(error);
+      anyTermFailed = true;
     }
   }
 
-  console.log('\n✨ All crawling complete!\n');
+  // Final index.json handling
+  console.log('\n' + '='.repeat(60));
+  
+  if (completedTerms.length === termsToScrape.length && !anyTermFailed) {
+    // All terms completed successfully - promote index
+    console.log('✅ All terms completed successfully!');
+    console.log('📝 Promoting indextemp.json → index.json...');
+    
+    if (promoteIndexTemp(OUTPUT_DIR)) {
+      console.log('✅ index.json updated');
+    } else {
+      console.error('❌ Failed to promote index.json');
+    }
+  } else {
+    console.log(`⚠️  Not all terms completed (${completedTerms.length}/${termsToScrape.length})`);
+    console.log('   indextemp.json NOT promoted to index.json');
+    console.log('   Existing index.json (if any) remains unchanged');
+  }
+  
+  console.log('='.repeat(60));
+
+  console.log('\n✨ Crawling session complete!\n');
   console.log(`📂 Output directory: ${OUTPUT_DIR}`);
-  console.log(`📄 Files created:`);
-  allTermData.forEach(t => {
-    console.log(`   - ${t.termCode}.json (${t.termName})`);
+  console.log(`📄 Files created/updated:`);
+  completedTerms.forEach(termCode => {
+    console.log(`   - ${termCode}.json`);
   });
-  console.log(`   - index.json`);
+  if (completedTerms.length === termsToScrape.length && !anyTermFailed) {
+    console.log(`   - index.json`);
+  } else {
+    console.log(`   - indextemp.json (not promoted)`);
+  }
 }
 
 // Run the crawler

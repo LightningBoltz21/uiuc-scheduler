@@ -130,14 +130,16 @@ export async function scrapeCourse(
   year: string,
   term: string,
   subject: string,
-  courseNumber: string
+  courseNumber: string,
+  signal?: AbortSignal
 ): Promise<ScrapedCourse> {
   const url = `${UIUC_BASE_URL}/schedule/${year}/${term}/${subject}/${courseNumber}`;
   console.log(`Fetching: ${url}`);
 
   try {
     const response = await axios.get(url, {
-      headers: getHeaders()
+      headers: getHeaders(),
+      signal
     });
     const html = response.data;
     const $ = cheerio.load(html);
@@ -210,48 +212,58 @@ export async function scrapeCourse(
     const sections: ScrapedSection[] = [];
 
     for (const sectionObj of sectionData) {
-      // Parse HTML-encoded fields
+      // Parse HTML-encoded fields - each field may have multiple .app-meeting elements
       const $type = cheerio.load(sectionObj.type);
-      const scheduleType = $type('.app-meeting').text().trim() || 'Lecture';
-
       const $section = cheerio.load(sectionObj.section);
-      const sectionId = $section('.app-meeting').text().trim();
-
       const $time = cheerio.load(sectionObj.time);
-      const timeText = $time('.app-meeting').text().trim();
-
       const $day = cheerio.load(sectionObj.day);
-      let days = $day('.app-meeting').text().trim();
-      
-      // Handle n.a. for days (online/arranged classes)
-      if (days === 'n.a.' || days === 'n.a') {
-        days = '';
-      }
-
       const $location = cheerio.load(sectionObj.location);
-      let location = $location('.app-meeting').text().trim() || 'TBA';
-      
-      // Detect online/arranged classes
-      const isOnlineOrArranged = location === 'n.a.' || location === 'n.a' || 
-                                  scheduleType.toLowerCase().includes('online') ||
-                                  timeText === 'ARRANGED';
-      
-      if (isOnlineOrArranged) {
-        location = 'ONLINE';
-      }
-
       const $instructor = cheerio.load(sectionObj.instructor);
+
+      // Get arrays of values for each field (one per meeting)
+      const scheduleTypes: string[] = [];
+      $type('.app-meeting').each((_, el) => {
+        scheduleTypes.push($type(el).text().trim() || 'Lecture');
+      });
+      if (scheduleTypes.length === 0) scheduleTypes.push('Lecture');
+
+      const sectionIds: string[] = [];
+      $section('.app-meeting').each((_, el) => {
+        sectionIds.push($section(el).text().trim());
+      });
+      if (sectionIds.length === 0) sectionIds.push('');
+
+      const timeTexts: string[] = [];
+      $time('.app-meeting').each((_, el) => {
+        timeTexts.push($time(el).text().trim());
+      });
+      if (timeTexts.length === 0) timeTexts.push('');
+
+      const daysArray: string[] = [];
+      $day('.app-meeting').each((_, el) => {
+        let d = $day(el).text().trim();
+        if (d === 'n.a.' || d === 'n.a') d = '';
+        daysArray.push(d);
+      });
+      if (daysArray.length === 0) daysArray.push('');
+
+      const locations: string[] = [];
+      $location('.app-meeting').each((_, el) => {
+        locations.push($location(el).text().trim() || 'TBA');
+      });
+      if (locations.length === 0) locations.push('TBA');
+
+      // Instructors are shared across all meetings
       const instructorText = $instructor('.app-meeting').html() || '';
       const instructors = instructorText
         .split('<br>')
         .map(i => cheerio.load(i).text().trim())
         .filter(i => i && i !== 'TBA');
 
-      // Parse time
-      const { startTime, endTime } = parseTime(timeText);
-
-      // Extract building from location
-      const building = isOnlineOrArranged ? 'ONLINE' : extractBuilding(location);
+      // Use the first section ID as the canonical one
+      const sectionId = sectionIds[0];
+      // Use the first schedule type as the canonical one
+      const scheduleType = scheduleTypes[0];
 
       // Get date range
       const dateRange = sectionObj.sectionDateRange || 
@@ -270,17 +282,41 @@ export async function scrapeCourse(
       // Get section title
       const sectionTitle = sectionObj.sectionTitle || courseTitle;
 
-      // Create meeting
-      const meeting: ScrapedMeeting = {
-        days,
-        startTime,
-        endTime,
-        room: location,
-        building,
-        instructors: instructors.length > 0 ? instructors : ['Staff'],
-        dateRange,
-        isOnline: isOnlineOrArranged
-      };
+      // Create meetings array - one for each meeting time
+      const numMeetings = Math.max(timeTexts.length, daysArray.length, locations.length);
+      const meetings: ScrapedMeeting[] = [];
+
+      for (let i = 0; i < numMeetings; i++) {
+        const timeText = timeTexts[i] || timeTexts[0] || '';
+        const days = daysArray[i] || daysArray[0] || '';
+        let location = locations[i] || locations[0] || 'TBA';
+
+        // Detect online/arranged classes
+        const isOnlineOrArranged = location === 'n.a.' || location === 'n.a' || 
+                                    (scheduleTypes[i] || scheduleType).toLowerCase().includes('online') ||
+                                    timeText === 'ARRANGED';
+        
+        if (isOnlineOrArranged) {
+          location = 'ONLINE';
+        }
+
+        // Parse time
+        const { startTime, endTime } = parseTime(timeText);
+
+        // Extract building from location
+        const building = isOnlineOrArranged ? 'ONLINE' : extractBuilding(location);
+
+        meetings.push({
+          days,
+          startTime,
+          endTime,
+          room: location,
+          building,
+          instructors: instructors.length > 0 ? instructors : ['Staff'],
+          dateRange,
+          isOnline: isOnlineOrArranged
+        });
+      }
 
       sections.push({
         crn: sectionObj.crn,
@@ -290,7 +326,7 @@ export async function scrapeCourse(
         campus: 'Urbana-Champaign',
         attributes: [],
         gradeBase: 'Letter Grade',
-        meetings: [meeting],
+        meetings,
         restrictions
       });
     }

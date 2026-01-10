@@ -86,31 +86,18 @@ export class DataWriter {
   }
   /**
    * Add location to cache and return its index
-   * For online classes, stores null instead of coordinates
+   * Stores the room text string for physical locations, or empty string for online
    */
-  private addLocationToCache(isOnline: boolean): number {
-    if (isOnline) {
-      // Check if null already exists in cache
-      const existingIndex = this.caches.locations.findIndex(loc => loc === null);
-      if (existingIndex !== -1) {
-        return existingIndex;
-      }
-      
-      // Add null for online classes
-      const index = this.caches.locations.length;
-      this.caches.locations.push(null);
-      return index;
-    }
-    
-    // For physical locations, we don't have coordinates from UIUC data yet
-    // Store null for now (could be enhanced with a building->coordinates mapping)
-    const existingIndex = this.caches.locations.findIndex(loc => loc === null);
+  private addLocationToCache(room: string): number {
+    // Find existing location with same room text
+    const existingIndex = this.caches.locations.findIndex(loc => loc === room);
     if (existingIndex !== -1) {
       return existingIndex;
     }
     
+    // Add new location
     const index = this.caches.locations.length;
-    this.caches.locations.push(null);
+    this.caches.locations.push(room);
     return index;
   }
   /**
@@ -125,11 +112,9 @@ export class DataWriter {
         // Add period using minute offsets
         const periodIndex = this.addPeriodToCache(meeting.startTime, meeting.endTime);
 
-        // Add date range
-        const dateRangeIndex = this.addToCache('dateRanges', meeting.dateRange);
-
-        // Add location (null for online classes, null for physical locations without coordinates)
-        const locationIndex = this.addLocationToCache(meeting.isOnline);
+        // Add location (room text for physical, empty string for online)
+        const locationRoom = meeting.isOnline ? '' : meeting.room;
+        const locationIndex = this.addLocationToCache(locationRoom);
 
         // Create meeting tuple
         return [
@@ -138,7 +123,7 @@ export class DataWriter {
           meeting.room,
           locationIndex,
           meeting.instructors,
-          dateRangeIndex,
+          -1, // dateRangeIndex (not stored)
           -1, // finalDateIndex (not implemented)
           -1  // finalTimeIndex (not implemented)
         ];
@@ -146,12 +131,10 @@ export class DataWriter {
 
       // Get cache indices
       const scheduleTypeIndex = this.addToCache('scheduleTypes', scrapedSection.scheduleType);
-      const campusIndex = this.addToCache('campuses', scrapedSection.campus);
       
-      // Grade base: use index if valid, -1 otherwise
-      const gradeBaseIndex = scrapedSection.gradeBase 
-        ? this.addToCache('gradeBases', scrapedSection.gradeBase)
-        : -1;
+      // Campus and grade base: not stored in cache, use -1
+      const campusIndex = -1;
+      const gradeBaseIndex = -1;
       
       const attributeIndices = scrapedSection.attributes.map(attr => 
         this.addToCache('attributes', attr)
@@ -190,6 +173,97 @@ export class DataWriter {
       caches: this.caches,
       updatedAt: new Date().toISOString(),
       version: 3
+    };
+  }
+
+  /**
+   * Rebuild caches from tuple-format courses (for merged data)
+   * This extracts unique values from courses already in tuple format
+   */
+  public rebuildCachesFromTuples(courses: Record<string, Course>): void {
+    // Reset caches
+    this.cacheBuilder = {
+      periods: new Map(),
+      dateRanges: new Map(),
+      scheduleTypes: new Map(),
+      campuses: new Map(),
+      attributes: new Map(),
+      gradeBases: new Map(),
+      locations: new Map(),
+      finalDates: new Map(),
+      finalTimes: new Map()
+    };
+
+    // Process each course to rebuild caches
+    for (const [_, course] of Object.entries(courses)) {
+      const sections = course[1]; // sections object
+      
+      for (const [_, section] of Object.entries(sections)) {
+        // Section is [crn, meetings, creditHours, scheduleTypeIndex, campusIndex, attributeIndices, gradeBaseIndex]
+        const scheduleTypeIndex = section[3]; // scheduleType index
+        const meetings = section[1]; // meetings array
+        
+        // Build scheduleTypes from section data
+        // We only have indices, so create entries for each unique index seen
+        if (typeof scheduleTypeIndex === 'number' && scheduleTypeIndex >= 0) {
+          // Use index as key to track unique schedule types
+          const indexKey = `${scheduleTypeIndex}`;
+          if (!this.cacheBuilder.scheduleTypes.has(indexKey)) {
+            this.cacheBuilder.scheduleTypes.set(indexKey, scheduleTypeIndex);
+          }
+        }
+        
+        for (const meeting of meetings) {
+          // meeting is [periodIndex, days, room, locationIndex, instructors, dateRangeIndex, finalDateIndex, finalTimeIndex]
+          const [periodIndex, days, room] = meeting;
+          
+          // Period: extract from days + time string (combined format like "F      TR")
+          if (typeof days === 'string' && days.trim()) {
+            if (!this.cacheBuilder.periods.has(days)) {
+              this.cacheBuilder.periods.set(days, this.cacheBuilder.periods.size);
+            }
+          }
+          
+          // Location: room is stored as string
+          if (typeof room === 'string' && room.trim()) {
+            if (!this.cacheBuilder.locations.has(room)) {
+              this.cacheBuilder.locations.set(room, this.cacheBuilder.locations.size);
+            }
+          }
+        }
+        
+        // Handle section-level caches
+        const attributes = section[5]; // attributes array
+        if (Array.isArray(attributes)) {
+          for (const attr of attributes) {
+            if (typeof attr === 'string') {
+              if (!this.cacheBuilder.attributes.has(attr)) {
+                this.cacheBuilder.attributes.set(attr, this.cacheBuilder.attributes.size);
+              }
+            }
+          }
+        }
+        
+        const gradeBase = section[6]; // grade base
+        if (typeof gradeBase === 'string') {
+          if (!this.cacheBuilder.gradeBases.has(gradeBase)) {
+            this.cacheBuilder.gradeBases.set(gradeBase, this.cacheBuilder.gradeBases.size);
+          }
+        }
+      }
+    }
+    
+    // Convert Maps to arrays
+    this.caches = {
+      periods: Array.from(this.cacheBuilder.periods.keys()),
+      dateRanges: Array.from(this.cacheBuilder.dateRanges.keys()),
+      scheduleTypes: Array.from(this.cacheBuilder.scheduleTypes.keys()),
+      campuses: Array.from(this.cacheBuilder.campuses.keys()),
+      attributes: Array.from(this.cacheBuilder.attributes.keys()),
+      gradeBases: Array.from(this.cacheBuilder.gradeBases.keys()),
+      locations: Array.from(this.cacheBuilder.locations.keys()),
+      finalDates: Array.from(this.cacheBuilder.finalDates.keys()),
+      finalTimes: Array.from(this.cacheBuilder.finalTimes.keys())
     };
   }
 

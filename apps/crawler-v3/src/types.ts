@@ -73,7 +73,7 @@ export interface Caches {
   campuses: string[];             // ["Urbana-Champaign"]
   attributes: string[];           // ["Online", "Honors"]
   gradeBases: string[];           // ["Letter Grade", "Pass/Fail"]
-  locations: (Location | null)[]; // Building coordinates
+  locations: string[];            // ["THEAT Lincoln Hall", "Siebel Center 1404"]
   finalDates: string[];           // ["Dec 12, 2025"]
   finalTimes: string[];           // ["1:30 pm - 4:30 pm"]
 }
