@@ -146,6 +146,7 @@ export interface ScrapedMeeting {
   building: string;               // e.g., "Siebel Center"
   instructors: string[];          // e.g., ["John Smith (P)"]
   dateRange: string;              // e.g., "Aug 21, 2025 - Dec 10, 2025"
+  isOnline: boolean;              // true for online/arranged classes
 }
 
 // ===== Cache Builder Utilities =====

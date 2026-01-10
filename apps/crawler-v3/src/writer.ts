@@ -84,7 +84,35 @@ export class DataWriter {
     (this.caches[cacheName] as string[]).push(value);
     return index;
   }
-
+  /**
+   * Add location to cache and return its index
+   * For online classes, stores null instead of coordinates
+   */
+  private addLocationToCache(isOnline: boolean): number {
+    if (isOnline) {
+      // Check if null already exists in cache
+      const existingIndex = this.caches.locations.findIndex(loc => loc === null);
+      if (existingIndex !== -1) {
+        return existingIndex;
+      }
+      
+      // Add null for online classes
+      const index = this.caches.locations.length;
+      this.caches.locations.push(null);
+      return index;
+    }
+    
+    // For physical locations, we don't have coordinates from UIUC data yet
+    // Store null for now (could be enhanced with a building->coordinates mapping)
+    const existingIndex = this.caches.locations.findIndex(loc => loc === null);
+    if (existingIndex !== -1) {
+      return existingIndex;
+    }
+    
+    const index = this.caches.locations.length;
+    this.caches.locations.push(null);
+    return index;
+  }
   /**
    * Convert scraped course to tuple format
    */
@@ -100,11 +128,8 @@ export class DataWriter {
         // Add date range
         const dateRangeIndex = this.addToCache('dateRanges', meeting.dateRange);
 
-        // Add location (null for now, can be enhanced with coordinates)
-        const locationIndex = this.addToCache('locations', meeting.building || 'TBA');
-        if (!this.caches.locations[locationIndex]) {
-          this.caches.locations[locationIndex] = null;
-        }
+        // Add location (null for online classes, null for physical locations without coordinates)
+        const locationIndex = this.addLocationToCache(meeting.isOnline);
 
         // Create meeting tuple
         return [

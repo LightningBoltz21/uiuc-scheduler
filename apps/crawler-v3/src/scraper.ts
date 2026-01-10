@@ -129,14 +129,45 @@ export async function scrapeCourse(
     const html = response.data;
     const $ = cheerio.load(html);
 
-    // Extract course title from h1
-    const courseTitle = $('h1.app-inline').first().text().trim() || `${subject} ${courseNumber}`;
+    // Extract course title from the span inside #app-course-info
+    // HTML structure: <span class="app-label app-text-engage">Introduction to Advertising</span>
+    let courseTitle = $('#app-course-info span.app-text-engage').first().text().trim();
+    if (!courseTitle) {
+      // Try without the parent selector
+      courseTitle = $('span.app-text-engage').first().text().trim();
+    }
+    if (!courseTitle) {
+      // Try the class separately
+      courseTitle = $('.app-text-engage').first().text().trim();
+    }
+    if (!courseTitle) {
+      // Fallback to subject + number
+      courseTitle = `${subject} ${courseNumber}`;
+    }
+    
+    console.log(`    Title extracted: "${courseTitle}"`);
     
     // Extract course description
-    const description = $('#app-course-info p').filter((i, el) => {
-      const text = $(el).text();
-      return text.length > 50 && !text.includes('Credit:');
-    }).first().text().trim() || null;
+    let description: string | null = null;
+    $('#app-course-info p').each((i, el) => {
+      const text = $(el).text().trim();
+      
+      // Skip short text, credit info, and GenEd boilerplate
+      if (text.length < 30) return true; // continue to next
+      if (text.includes('Credit:')) return true;
+      if (text.startsWith('This course satisfies')) return true;
+      if (text.includes('General Education Criteria')) return true;
+      if (text.includes('Winter 2025') || text.includes('Spring 2026') || text.includes('Fall 2025')) return true;
+      
+      // Skip text that's mostly whitespace/formatting artifacts
+      const cleanText = text.replace(/\s+/g, ' ').trim();
+      if (cleanText.length < 30) return true;
+      
+      // Found a real description
+      if (!description) {
+        description = cleanText;
+      }
+    });
 
     // Extract credit hours
     let creditHours = 3; // Default
@@ -177,10 +208,24 @@ export async function scrapeCourse(
       const timeText = $time('.app-meeting').text().trim();
 
       const $day = cheerio.load(sectionObj.day);
-      const days = $day('.app-meeting').text().trim();
+      let days = $day('.app-meeting').text().trim();
+      
+      // Handle n.a. for days (online/arranged classes)
+      if (days === 'n.a.' || days === 'n.a') {
+        days = '';
+      }
 
       const $location = cheerio.load(sectionObj.location);
-      const location = $location('.app-meeting').text().trim() || 'TBA';
+      let location = $location('.app-meeting').text().trim() || 'TBA';
+      
+      // Detect online/arranged classes
+      const isOnlineOrArranged = location === 'n.a.' || location === 'n.a' || 
+                                  scheduleType.toLowerCase().includes('online') ||
+                                  timeText === 'ARRANGED';
+      
+      if (isOnlineOrArranged) {
+        location = 'ONLINE';
+      }
 
       const $instructor = cheerio.load(sectionObj.instructor);
       const instructorText = $instructor('.app-meeting').html() || '';
@@ -193,7 +238,7 @@ export async function scrapeCourse(
       const { startTime, endTime } = parseTime(timeText);
 
       // Extract building from location
-      const building = extractBuilding(location);
+      const building = isOnlineOrArranged ? 'ONLINE' : extractBuilding(location);
 
       // Get date range
       const dateRange = sectionObj.sectionDateRange || 
@@ -220,7 +265,8 @@ export async function scrapeCourse(
         room: location,
         building,
         instructors: instructors.length > 0 ? instructors : ['Staff'],
-        dateRange
+        dateRange,
+        isOnline: isOnlineOrArranged
       };
 
       sections.push({

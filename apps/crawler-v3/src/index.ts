@@ -1,6 +1,6 @@
 import { scrapeCourse, scrapeSubjects, scrapeCourseList, CourseInfo } from './scraper';
 import { DataWriter } from './writer';
-import { getIntConfig, generateTermsToScrape, getTermCode, getTermName } from './utils';
+import { getIntConfig, discoverLatestTerms, getTermCode, getTermName } from './utils';
 import asyncPool from 'tiny-async-pool';
 import { backOff } from 'exponential-backoff';
 import * as path from 'path';
@@ -88,8 +88,13 @@ async function main() {
   console.log(`  - OUTPUT_DIR: ${OUTPUT_DIR}\n`);
   
   // Determine which terms to scrape
-  const termsToScrape = SPECIFIED_TERMS || generateTermsToScrape(NUM_TERMS);
+  const termsToScrape = SPECIFIED_TERMS || await discoverLatestTerms(NUM_TERMS);
   
+  if (termsToScrape.length === 0) {
+    console.error('❌ No terms to scrape');
+    return;
+  }
+
   console.log(`📅 Terms to scrape:`);
   termsToScrape.forEach(({ year, term }) => {
     console.log(`  - ${getTermName(year, term)} (${year}/${term})`);

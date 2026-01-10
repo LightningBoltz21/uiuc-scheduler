@@ -2,6 +2,11 @@
  * Utility functions for UIUC Crawler v3
  */
 
+import axios from 'axios';
+import * as cheerio from 'cheerio';
+
+const UIUC_BASE_URL = 'https://courses.illinois.edu';
+
 /**
  * Get integer config from environment variable
  */
@@ -14,6 +19,118 @@ export function getIntConfig(key: string): number | null {
     console.error(`Invalid integer config value provided for ${key}: ${value}`);
     return null;
   }
+}
+
+/**
+ * Scrape all available years from UIUC
+ */
+async function scrapeAvailableYears(): Promise<string[]> {
+  try {
+    const response = await axios.get(`${UIUC_BASE_URL}/schedule`, {
+      headers: {
+        'User-Agent': 'uiuc-scheduler/crawler-v3 (educational project)'
+      }
+    });
+    const html = response.data;
+    const $ = cheerio.load(html);
+
+    const years: string[] = [];
+    $('table tbody tr td a').each((i, element) => {
+      const href = $(element).attr('href');
+      if (href) {
+        const match = href.match(/\/schedule\/(\d{4})$/);
+        if (match && match[1]) {
+          years.push(match[1]);
+        }
+      }
+    });
+
+    return years.sort().reverse(); // Most recent first
+  } catch (error) {
+    console.error('Error fetching available years:', error);
+    return [];
+  }
+}
+
+/**
+ * Scrape all available terms for a given year
+ */
+async function scrapeAvailableTermsForYear(year: string): Promise<Array<{ year: string; term: string }>> {
+  try {
+    const response = await axios.get(`${UIUC_BASE_URL}/schedule/${year}`, {
+      headers: {
+        'User-Agent': 'uiuc-scheduler/crawler-v3 (educational project)'
+      }
+    });
+    const html = response.data;
+    const $ = cheerio.load(html);
+
+    const terms: Array<{ year: string; term: string }> = [];
+    $('table tbody tr td a').each((i, element) => {
+      const href = $(element).attr('href');
+      if (href) {
+        const match = href.match(/\/schedule\/\d{4}\/(\w+)$/);
+        if (match && match[1]) {
+          terms.push({ year, term: match[1] });
+        }
+      }
+    });
+
+    return terms;
+  } catch (error) {
+    console.error(`Error fetching terms for ${year}:`, error);
+    return [];
+  }
+}
+
+/**
+ * Auto-discover the N most recent terms available on UIUC
+ */
+export async function discoverLatestTerms(numTerms: number): Promise<Array<{ year: string; term: string }>> {
+  console.log(`🔍 Auto-discovering ${numTerms} most recent terms from UIUC...\n`);
+
+  const years = await scrapeAvailableYears();
+  if (years.length === 0) {
+    console.error('❌ Could not discover any years');
+    return [];
+  }
+
+  console.log(`  Found years: ${years.join(', ')}`);
+
+  const allTerms: Array<{ year: string; term: string; order: number }> = [];
+
+  // Term order for sorting (most recent first)
+  const termOrder: Record<string, number> = {
+    'fall': 3,
+    'summer': 2,
+    'spring': 1,
+    'winter': 0
+  };
+
+  // Check the most recent 2-3 years to find available terms
+  for (const year of years.slice(0, 3)) {
+    const terms = await scrapeAvailableTermsForYear(year);
+    
+    for (const term of terms) {
+      const order = parseInt(year) * 100 + (termOrder[term.term] ?? 0);
+      allTerms.push({ ...term, order });
+    }
+    
+    // Small delay between requests
+    await new Promise(resolve => setTimeout(resolve, 500));
+  }
+
+  // Sort by order (most recent first) and take top N
+  allTerms.sort((a, b) => b.order - a.order);
+  const selectedTerms = allTerms.slice(0, numTerms).map(({ year, term }) => ({ year, term }));
+
+  console.log(`\n  ✓ Selected ${selectedTerms.length} most recent terms:`);
+  selectedTerms.forEach(({ year, term }) => {
+    console.log(`    - ${getTermName(year, term)}`);
+  });
+  console.log();
+
+  return selectedTerms;
 }
 
 /**
