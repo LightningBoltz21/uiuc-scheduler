@@ -8,8 +8,7 @@ import {
   Meeting,
   Caches,
   CacheBuilder,
-  ScrapedCourse,
-  SectionRestrictions
+  ScrapedCourse
 } from './types';
 
 /**
@@ -49,8 +48,10 @@ export class DataWriter {
    * Add period (time range) to cache and return its index
    */
   private addPeriodToCache(startTime: number, endTime: number): number {
-    // Format as string "900 - 950" to match expected format
-    const periodString = `${startTime} - ${endTime}`;
+    // Format as string "0900 - 0950" with 4-digit padding
+    const startStr = startTime.toString().padStart(4, '0');
+    const endStr = endTime.toString().padStart(4, '0');
+    const periodString = `${startStr} - ${endStr}`;
     
     // Check if this exact period already exists
     for (let i = 0; i < this.caches.periods.length; i++) {
@@ -121,22 +122,17 @@ export class DataWriter {
       // Get cache indices
       const scheduleTypeIndex = this.addToCache('scheduleTypes', scrapedSection.scheduleType);
       const campusIndex = this.addToCache('campuses', scrapedSection.campus);
-      const gradeBaseIndex = this.addToCache('gradeBases', scrapedSection.gradeBase);
+      
+      // Grade base: use index if valid, -1 otherwise
+      const gradeBaseIndex = scrapedSection.gradeBase 
+        ? this.addToCache('gradeBases', scrapedSection.gradeBase)
+        : -1;
       
       const attributeIndices = scrapedSection.attributes.map(attr => 
         this.addToCache('attributes', attr)
       );
 
-      // Create restriction data
-      const restrictionData: SectionRestrictions = {
-        restrictions: scrapedSection.restrictions.map(r => ({
-          type: 'general',
-          values: [r]
-        })),
-        status: 'success'
-      };
-
-      // Create section tuple
+      // Create section tuple (7 elements)
       const section: Section = [
         scrapedSection.crn,
         meetings,
@@ -144,9 +140,7 @@ export class DataWriter {
         scheduleTypeIndex,
         campusIndex,
         attributeIndices,
-        gradeBaseIndex,
-        scrapedSection.sectionTitle,
-        restrictionData
+        gradeBaseIndex
       ];
 
       sectionsMap[scrapedSection.sectionId] = section;

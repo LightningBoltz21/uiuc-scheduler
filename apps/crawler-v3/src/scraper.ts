@@ -205,20 +205,20 @@ function extractBuilding(room: string): string {
 
 function getTermStartDate(year: string, term: string): string {
   const dates: Record<string, string> = {
-    spring: `Jan 15, ${year}`,
-    summer: `Jun 1, ${year}`,
-    fall: `Aug 21, ${year}`,
-    winter: `Jan 3, ${year}`
+    spring: `01/15/${year}`,
+    summer: `06/01/${year}`,
+    fall: `08/25/${year}`,
+    winter: `01/03/${year}`
   };
-  return dates[term.toLowerCase()] || `${term} ${year}`;
+  return dates[term.toLowerCase()] || `01/01/${year}`;
 }
 
 function getTermEndDate(year: string, term: string): string {
   const dates: Record<string, string> = {
-    spring: `May 10, ${year}`,
-    summer: `Aug 5, ${year}`,
-    fall: `Dec 10, ${year}`,
-    winter: `Jan 20, ${year}`
+    spring: `05/10/${year}`,
+    summer: `08/05/${year}`,
+    fall: `12/10/${year}`,
+    winter: `01/20/${year}`
   };
-  return dates[term.toLowerCase()] || `${term} ${year}`;
+  return dates[term.toLowerCase()] || `12/31/${year}`;
 }

@@ -37,7 +37,7 @@ export type Course = [
 
 /**
  * Section tuple structure:
- * [crn, meetings, creditHours, scheduleTypeIndex, campusIndex, attributeIndices, gradeBaseIndex, sectionTitle, restrictionData]
+ * [crn, meetings, creditHours, scheduleTypeIndex, campusIndex, attributeIndices, gradeBaseIndex]
  */
 export type Section = [
   string,                           // 0: CRN (Course Reference Number)
@@ -46,9 +46,7 @@ export type Section = [
   number,                           // 3: Index into caches.scheduleTypes
   number,                           // 4: Index into caches.campuses
   number[],                         // 5: Indices into caches.attributes
-  number,                           // 6: Index into caches.gradeBases
-  string,                           // 7: Section-specific title
-  SectionRestrictions               // 8: Enrollment restrictions
+  number                            // 6: Index into caches.gradeBases (-1 if none)
 ];
 
 /**
