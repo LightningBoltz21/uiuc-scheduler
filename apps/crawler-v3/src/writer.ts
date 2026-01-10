@@ -48,13 +48,21 @@ export class DataWriter {
 
   /**
    * Add period (time range) to cache and return its index
+   * Converts minutes from midnight to HHMM format
    */
   private addPeriodToCache(startTime: number, endTime: number): number {
-    // Format as string "0900 - 0950" with 4-digit padding
-    const startStr = startTime.toString().padStart(4, '0');
-    const endStr = endTime.toString().padStart(4, '0');
+    // Convert minutes from midnight to HHMM format
+    // e.g., 720 minutes (12:00 PM) -> 1200
+    const minutesToHHMM = (minutes: number): string => {
+      const hours = Math.floor(minutes / 60);
+      const mins = minutes % 60;
+      return (hours * 100 + mins).toString().padStart(4, '0');
+    };
+
+    const startStr = minutesToHHMM(startTime);
+    const endStr = minutesToHHMM(endTime);
     const periodString = `${startStr} - ${endStr}`;
-    
+
     // Check if this exact period already exists
     for (let i = 0; i < this.caches.periods.length; i++) {
       if (this.caches.periods[i] === periodString) {
