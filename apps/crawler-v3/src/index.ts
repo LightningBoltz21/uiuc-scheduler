@@ -23,14 +23,22 @@ const ONE_COURSE_PER_SUBJECT = getIntConfig('ONE_COURSE_PER_SUBJECT') === 1;
 const OUTPUT_DIR = path.join(__dirname, '..', 'data');
 
 /**
- * Sleep for specified milliseconds
+ * Sleep for specified milliseconds with optional jitter to appear more human
+ * @param ms - Base milliseconds to sleep
+ * @param jitterPercent - Percentage of jitter (0-1), default 0.3 = ±30%
  */
-function sleep(ms: number): Promise<void> {
-  return new Promise(resolve => setTimeout(resolve, ms));
+function sleep(ms: number, jitterPercent: number = 0.3): Promise<void> {
+  // Add random jitter to make requests less predictable
+  const jitter = ms * jitterPercent * (Math.random() * 2 - 1);
+  const actualDelay = Math.max(100, ms + jitter); // Minimum 100ms
+  return new Promise(resolve => setTimeout(resolve, actualDelay));
 }
 
 let totalRequests = 0;
 let rateLimitCount = 0;
+let forbidden403Count = 0;
+const MAX_403_ERRORS = 5; // Threshold before aborting
+let abortRequested = false;
 
 /**
  * Scrape a single course with retry logic AND rate limiting delay
@@ -41,7 +49,12 @@ async function scrapeWithRetry(
   course: CourseInfo,
   delayMs: number = 500
 ): Promise<{ course: CourseInfo; data: any; success: boolean }> {
-  // Add delay before EACH request for rate limiting
+  // Check if abort was requested
+  if (abortRequested) {
+    return { course, data: null, success: false };
+  }
+
+  // Add delay before EACH request for rate limiting (with jitter)
   await sleep(delayMs);
   totalRequests++;
   
@@ -50,9 +63,26 @@ async function scrapeWithRetry(
       () => scrapeCourse(year, term, course.subject, course.number),
       {
         jitter: 'full',
-        numOfAttempts: 5,
-        startingDelay: 1000, // Start with 1 second delay on retries
+        numOfAttempts: 3, // Reduced retries
+        startingDelay: 2000, // Start with 2 second delay on retries
         retry: (err: any, attemptNumber: number) => {
+          // Check for 403 Forbidden errors
+          if (err.response?.status === 403) {
+            forbidden403Count++;
+            console.error(`\n❌ 403 Forbidden on ${course.subject} ${course.number} (${forbidden403Count}/${MAX_403_ERRORS})`);
+            
+            if (forbidden403Count >= MAX_403_ERRORS) {
+              console.error(`\n🛑 ABORTING: Too many 403 Forbidden errors`);
+              console.error(`   UIUC server is blocking requests. Possible causes:`);
+              console.error(`   - Rate limiting / bot detection`);
+              console.error(`   - IP address blocked`);
+              console.error(`   - Request headers flagged\n`);
+              abortRequested = true;
+              return false; // Don't retry
+            }
+            return false; // Don't retry 403s
+          }
+          
           if (err.response?.status === 429) {
             rateLimitCount++;
             console.log(`  ⚠️  Rate limited on ${course.subject} ${course.number} (attempt ${attemptNumber})`);
@@ -70,7 +100,10 @@ async function scrapeWithRetry(
     );
     return { course, data: scraped, success: true };
   } catch (error: any) {
-    console.error(`  ❌ Failed to scrape ${course.subject} ${course.number}:`, error.message);
+    // Don't spam errors if we're aborting
+    if (!abortRequested) {
+      console.error(`  ❌ Failed to scrape ${course.subject} ${course.number}:`, error.message);
+    }
     return { course, data: null, success: false };
   }
 }
@@ -142,8 +175,8 @@ async function main() {
           console.log(`  📊 Progress: ${subjectIndex}/${totalSubjects} subjects (${allCourses.length} courses found)`);
         }
         
-        // Conservative delay between subjects
-        await new Promise(resolve => setTimeout(resolve, 1000));
+        // Conservative delay between subjects (with jitter)
+        await sleep(1000, 0.3);
       }
       
       console.log(`\n  📚 Total courses to scrape: ${allCourses.length}`);
@@ -169,8 +202,16 @@ async function main() {
       let completed = 0;
       const startTime = Date.now();
 
+      // Reset abort flag for each term
+      abortRequested = false;
+      forbidden403Count = 0;
+      
       // Collect all results from parallel scraping
       const results = await asyncPool(CONCURRENCY, allCourses, async (course: CourseInfo) => {
+        // Skip if abort requested
+        if (abortRequested) {
+          return { course, data: null, success: false };
+        }
         return await scrapeWithRetry(year, term, course, REQUEST_DELAY_MS);
       });
 
@@ -197,7 +238,22 @@ async function main() {
             : '0';
           console.log(`  Progress: ${completed}/${allCourses.length} (${rate}/s, ETA: ${eta}s, Rate limits: ${rateLimitCount})`);
         }
+        
+        // Check if we should abort
+        if (abortRequested) {
+          break;
+        }
       }
+      
+      // Handle abort scenario
+      if (abortRequested) {
+        console.error(`\n❌ Scraping aborted due to 403 Forbidden errors`);
+        console.error(`   Successfully scraped: ${successCount} courses`);
+        console.error(`   Failed/Skipped: ${failureCount} courses`);
+        console.error(`   No data written.\n`);
+        
+        // Exit with error code
+        process.exit(1);
 
       // Step 4: Generate and write output
       console.log('\n📦 Step 4: Building term data...');
