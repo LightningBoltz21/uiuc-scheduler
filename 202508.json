@@ -46,10 +46,7 @@
   },
   "caches": {
     "periods": [
-      [
-        900,
-        950
-      ]
+      "900 - 950"
     ],
     "dateRanges": [
       "Meets 08/25/25-10/17/25"
@@ -70,6 +67,6 @@
     "finalDates": [],
     "finalTimes": []
   },
-  "updatedAt": "2026-01-10T00:02:38.682Z",
+  "updatedAt": "2026-01-10T00:11:02.804Z",
   "version": 3
 }
