@@ -132,34 +132,20 @@ export class DataWriter {
       });
 
       // Get cache indices
-      const attributeIndices = scrapedSection.attributes.map(attr => 
+      const attributeIndices = scrapedSection.attributes.map(attr =>
         this.addToCache('attributes', attr)
       );
-      
-      const restrictionIndices = scrapedSection.restrictions.map(res => 
-        this.addToCache('restrictions', res)
-      );
 
-      // Enrollment status: 0=open, 1=restricted, 2=closed
-      const enrollmentStatusIndex = scrapedSection.enrollmentStatus === 'Open' ? 0 : 
-                                    scrapedSection.enrollmentStatus === 'Restricted' ? 1 : 2;
-
-      // Seat info: encode as simple number (available seats)
-      const seatInfoIndex = scrapedSection.seatsAvailable;
-
-      // Final exam index: not implemented yet
-      const finalExamIndex = -1;
-
-      // Create section tuple (8 elements, matching v2 format)
+      // Create section tuple matching expected format:
+      // [crn, meetings, credits, scheduleTypeIndex, campusIndex, attributeIndices, gradeBasisIndex]
       const section: Section = [
         scrapedSection.crn,
         meetings,
-        enrollmentStatusIndex,
-        seatInfoIndex,
-        restrictionIndices,
+        scraped.creditHours,  // credits at index 2
+        0,                    // scheduleTypeIndex (default)
+        0,                    // campusIndex (default)
         attributeIndices,
-        finalExamIndex,
-        scraped.creditHours
+        -1                    // gradeBasisIndex (not implemented)
       ];
 
       sectionsMap[scrapedSection.sectionId] = section;

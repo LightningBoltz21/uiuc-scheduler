@@ -36,18 +36,17 @@ export type Course = [
 ];
 
 /**
- * Section tuple structure (matches v2 format):
- * [crn, meetings, enrollmentStatus, seatInfo, restrictions, attributes, finalExamIndex, creditHours]
+ * Section tuple structure (matches frontend SectionConstructionData):
+ * [crn, meetings, credits, scheduleTypeIndex, campusIndex, attributeIndices, gradeBasisIndex]
  */
 export type Section = [
   string,                           // 0: CRN (Course Reference Number)
   Meeting[],                        // 1: Array of meeting times
-  number,                           // 2: Enrollment status index (0=open, 1=restricted, 2=closed, etc.)
-  number,                           // 3: Seat info index (encoded seat availability)
-  number[],                         // 4: Indices into caches.restrictions
-  number[],                         // 5: Indices into caches.attributes
-  number,                           // 6: Final exam index (-1 if none)
-  number                            // 7: Credit hours
+  number,                           // 2: Credit hours
+  number,                           // 3: Schedule type index (into caches.scheduleTypes)
+  number,                           // 4: Campus index (into caches.campuses)
+  number[],                         // 5: Attribute indices (into caches.attributes)
+  number                            // 6: Grade basis index (into caches.gradeBases)
 ];
 
 /**
@@ -103,7 +102,6 @@ export interface ScrapedSection {
   seatsAvailable: number;         // Number of seats available
   gradeBase: string;
   meetings: ScrapedMeeting[];
-  restrictions: string[];
 }
 
 export interface ScrapedMeeting {
