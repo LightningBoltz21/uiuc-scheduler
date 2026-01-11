@@ -148,7 +148,7 @@
               1,
               "F",
               "1064 Lincoln Hall",
-              0,
+              1,
               [
                 "Charity, H",
                 "Siglos, D"
@@ -171,7 +171,7 @@
               2,
               "F",
               "327 Gregory Hall",
-              0,
+              2,
               [
                 "Charity, H",
                 "Siglos, D"
@@ -194,7 +194,7 @@
               4,
               "F",
               "113 Davenport Hall",
-              0,
+              3,
               [
                 "Roy, S",
                 "Siglos, D"
@@ -217,7 +217,7 @@
               5,
               "F",
               "113 Davenport Hall",
-              0,
+              3,
               [
                 "Roy, S",
                 "Siglos, D"
@@ -240,7 +240,7 @@
               1,
               "MW",
               "2079 Natural History Building",
-              0,
+              4,
               [
                 "Siglos, D"
               ],
@@ -270,7 +270,7 @@
               6,
               "W",
               "M5 Turner Hall",
-              0,
+              5,
               [
                 "Leonelli, L"
               ],
@@ -282,7 +282,7 @@
               1,
               "MW",
               "208 Agricultural Engr Sciences Bld",
-              0,
+              6,
               [
                 "Leonelli, L"
               ],
@@ -304,7 +304,7 @@
               6,
               "R",
               "M5 Turner Hall",
-              0,
+              5,
               [
                 "Gibson, C",
                 "Leonelli, L"
@@ -317,7 +317,7 @@
               1,
               "MW",
               "208 Agricultural Engr Sciences Bld",
-              0,
+              6,
               [
                 "Gibson, C",
                 "Leonelli, L"
@@ -348,7 +348,7 @@
               7,
               "",
               "ONLINE",
-              0,
+              5,
               [
                 "Staff"
               ],
@@ -378,7 +378,7 @@
               3,
               "R",
               "385 Education Building",
-              0,
+              7,
               [
                 "Gundersen, L"
               ],
@@ -400,7 +400,7 @@
               5,
               "R",
               "307 David Kinley Hall",
-              0,
+              8,
               [
                 "Gundersen, L"
               ],
@@ -422,7 +422,7 @@
               1,
               "F",
               "107 Animal Sciences Laboratory",
-              0,
+              9,
               [
                 "Gundersen, L"
               ],
@@ -444,7 +444,7 @@
               8,
               "TR",
               "62 Krannert Art Museum",
-              0,
+              10,
               [
                 "Gundersen, L"
               ],
@@ -474,7 +474,7 @@
               9,
               "TR",
               "65 Mumford Hall",
-              0,
+              9,
               [
                 "Kilburn, A",
                 "McCoy, J"
@@ -497,7 +497,7 @@
               10,
               "MW",
               "65 Mumford Hall",
-              0,
+              9,
               [
                 "Kilburn, A",
                 "McCoy, J"
@@ -520,7 +520,7 @@
               9,
               "M",
               "65 Mumford Hall",
-              0,
+              9,
               [
                 "Kilburn, A",
                 "McCoy, J"
@@ -551,7 +551,7 @@
               7,
               "",
               "ONLINE",
-              0,
+              5,
               [
                 "Ji, A",
                 "Nelson, M"
@@ -582,7 +582,7 @@
               3,
               "TR",
               "406B1 Engineering Hall",
-              0,
+              11,
               [
                 "Laystrom-Woodard, J"
               ],
@@ -604,7 +604,7 @@
               4,
               "TR",
               "406B1 Engineering Hall",
-              0,
+              11,
               [
                 "Laystrom-Woodard, J"
               ],
@@ -626,7 +626,7 @@
               5,
               "TR",
               "406B1 Engineering Hall",
-              0,
+              11,
               [
                 "Laystrom-Woodard, J"
               ],
@@ -656,7 +656,7 @@
               11,
               "M",
               "101 Armory",
-              0,
+              12,
               [
                 "Bryant, J",
                 "Hill, P",
@@ -671,7 +671,7 @@
               11,
               "W",
               "100 Armory",
-              0,
+              12,
               [
                 "Bryant, J",
                 "Hill, P",
@@ -686,7 +686,7 @@
               12,
               "R",
               "101 Armory",
-              0,
+              12,
               [
                 "Bryant, J",
                 "Hill, P",
@@ -711,7 +711,7 @@
               7,
               "",
               "ONLINE",
-              0,
+              5,
               [
                 "Bryant, J",
                 "Hill, P",
@@ -744,7 +744,7 @@
               2,
               "F",
               "1022 Lincoln Hall",
-              0,
+              1,
               [
                 "Adeyemi, O",
                 "McDuffie, E"
@@ -767,7 +767,7 @@
               1,
               "F",
               "1028 Lincoln Hall",
-              0,
+              1,
               [
                 "Adeyemi, O",
                 "McDuffie, E"
@@ -790,7 +790,7 @@
               10,
               "MW",
               "106B1 Engineering Hall",
-              0,
+              11,
               [
                 "McDuffie, E"
               ],
@@ -820,7 +820,7 @@
               13,
               "TR",
               "108 English Building",
-              0,
+              13,
               [
                 "Nobili, M"
               ],
@@ -873,13 +873,65 @@
     "gradeBases": [],
     "locations": [
       {
+        "lat": 40.106281,
+        "long": -88.225676
+      },
+      {
+        "lat": 40.106633,
+        "long": -88.228413
+      },
+      {
+        "lat": 40.105778,
+        "long": -88.22839
+      },
+      {
+        "lat": 40.107192,
+        "long": -88.22603
+      },
+      {
+        "lat": 40.110483,
+        "long": -88.225596
+      },
+      {
         "lat": null,
         "long": null
+      },
+      {
+        "lat": 40.100587,
+        "long": -88.226612
+      },
+      {
+        "lat": 40.102195,
+        "long": -88.229625
+      },
+      {
+        "lat": 40.103764,
+        "long": -88.228375
+      },
+      {
+        "lat": 40.104168,
+        "long": -88.223862
+      },
+      {
+        "lat": 40.101862,
+        "long": -88.231737
+      },
+      {
+        "lat": 40.110533,
+        "long": -88.227331
+      },
+      {
+        "lat": 40.104976,
+        "long": -88.232286
+      },
+      {
+        "lat": 40.107588,
+        "long": -88.228246
       }
     ],
     "finalDates": [],
     "finalTimes": []
   },
-  "updatedAt": "2026-01-11T22:20:10.738Z",
+  "updatedAt": "2026-01-11T22:27:42.102Z",
   "version": 3
 }
