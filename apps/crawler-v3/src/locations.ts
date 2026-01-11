@@ -58,6 +58,19 @@ function loadCoordinatesFromCSV(): void {
 loadCoordinatesFromCSV();
 
 /**
+ * Manual mapping for common building name variations
+ * Maps scraped names -> CSV names
+ */
+const BUILDING_NAME_ALIASES = new Map<string, string>([
+  // Common variations
+  ['Agricultural Engr Sciences Bld', 'Agricultural Engineering Sciences Building'],
+  ['Literatures, Cultures, & Ling', 'Languages, Cultures, and Linguistics Building (LCLB)'],
+  ['Literatures Cultures & Ling', 'Languages, Cultures, and Linguistics Building (LCLB)'],
+
+  // Add more aliases as needed based on crawler output
+]);
+
+/**
  * Common abbreviations used in UIUC building names
  * Used to normalize building names before matching
  */
@@ -133,10 +146,16 @@ function normalizeBuildingName(name: string): string {
 /**
  * Extract building name from a full room string
  * e.g., "208 Agricultural Engr Sciences Bld" -> "Agricultural Engr Sciences Bld"
+ * e.g., "106B1 Engineering Hall" -> "Engineering Hall"
  */
 function extractBuildingName(roomString: string): string {
-  // Remove leading room number
-  return roomString.replace(/^\d+\s+/, '').trim();
+  // Remove leading room number (including letters like "106B1", "M5", etc.)
+  let cleaned = roomString.replace(/^[\dA-Z]+\s+/, '').trim();
+
+  // Also try removing room numbers in format like "Room 123" or "Rm 123"
+  cleaned = cleaned.replace(/^(Room|Rm)\s+[\dA-Z]+\s+/i, '').trim();
+
+  return cleaned;
 }
 
 /**
@@ -177,6 +196,14 @@ export function findBuildingLocation(roomString: string): Location | null {
 
   const buildingName = extractBuildingName(roomString);
   const normalizedInput = normalizeBuildingName(roomString);
+
+  // 0. Try alias mapping first
+  if (BUILDING_NAME_ALIASES.has(buildingName)) {
+    const aliasedName = BUILDING_NAME_ALIASES.get(buildingName)!;
+    if (buildingCoordinates.has(aliasedName)) {
+      return buildingCoordinates.get(aliasedName)!;
+    }
+  }
 
   // 1. Try exact match on building name (without room number)
   if (buildingCoordinates.has(buildingName)) {
