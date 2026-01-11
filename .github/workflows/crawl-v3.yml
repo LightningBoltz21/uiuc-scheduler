@@ -32,7 +32,14 @@ jobs:
       - name: Install dependencies
         working-directory: ./apps/crawler-v3
         run: npm ci
-      
+
+      - name: Clean old subject cache (force fresh scrape)
+        working-directory: ./apps/crawler-v3/data
+        run: |
+          # Remove old subject directories to force fresh scrape with fixed index remapping
+          rm -rf */subjects */progress.json
+          echo "Cleaned old subject caches"
+
       - name: Run crawler
         working-directory: ./apps/crawler-v3
         env:
