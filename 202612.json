@@ -315,11 +315,14 @@
     "restrictions": [],
     "gradeBases": [],
     "locations": [
-      ""
+      {
+        "lat": null,
+        "long": null
+      }
     ],
     "finalDates": [],
     "finalTimes": []
   },
-  "updatedAt": "2026-01-11T06:27:06.938Z",
+  "updatedAt": "2026-01-11T19:04:20.160Z",
   "version": 3
 }

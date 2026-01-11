@@ -148,7 +148,7 @@
               1,
               "F",
               "1064 Lincoln Hall",
-              1,
+              0,
               [
                 "Charity, H",
                 "Siglos, D"
@@ -171,7 +171,7 @@
               2,
               "F",
               "327 Gregory Hall",
-              2,
+              0,
               [
                 "Charity, H",
                 "Siglos, D"
@@ -194,7 +194,7 @@
               4,
               "F",
               "113 Davenport Hall",
-              3,
+              0,
               [
                 "Roy, S",
                 "Siglos, D"
@@ -217,7 +217,7 @@
               5,
               "F",
               "113 Davenport Hall",
-              3,
+              0,
               [
                 "Roy, S",
                 "Siglos, D"
@@ -240,7 +240,7 @@
               1,
               "MW",
               "2079 Natural History Building",
-              4,
+              0,
               [
                 "Siglos, D"
               ],
@@ -270,7 +270,7 @@
               6,
               "W",
               "M5 Turner Hall",
-              5,
+              0,
               [
                 "Leonelli, L"
               ],
@@ -282,7 +282,7 @@
               1,
               "MW",
               "208 Agricultural Engr Sciences Bld",
-              6,
+              0,
               [
                 "Leonelli, L"
               ],
@@ -304,7 +304,7 @@
               6,
               "R",
               "M5 Turner Hall",
-              5,
+              0,
               [
                 "Gibson, C",
                 "Leonelli, L"
@@ -317,7 +317,7 @@
               1,
               "MW",
               "208 Agricultural Engr Sciences Bld",
-              6,
+              0,
               [
                 "Gibson, C",
                 "Leonelli, L"
@@ -348,7 +348,7 @@
               7,
               "",
               "ONLINE",
-              7,
+              0,
               [
                 "Staff"
               ],
@@ -378,7 +378,7 @@
               3,
               "R",
               "385 Education Building",
-              8,
+              0,
               [
                 "Gundersen, L"
               ],
@@ -400,7 +400,7 @@
               5,
               "R",
               "307 David Kinley Hall",
-              9,
+              0,
               [
                 "Gundersen, L"
               ],
@@ -422,7 +422,7 @@
               1,
               "F",
               "107 Animal Sciences Laboratory",
-              10,
+              0,
               [
                 "Gundersen, L"
               ],
@@ -444,7 +444,7 @@
               8,
               "TR",
               "62 Krannert Art Museum",
-              11,
+              0,
               [
                 "Gundersen, L"
               ],
@@ -474,7 +474,7 @@
               9,
               "TR",
               "65 Mumford Hall",
-              12,
+              0,
               [
                 "Kilburn, A",
                 "McCoy, J"
@@ -497,7 +497,7 @@
               10,
               "MW",
               "65 Mumford Hall",
-              12,
+              0,
               [
                 "Kilburn, A",
                 "McCoy, J"
@@ -520,7 +520,7 @@
               9,
               "M",
               "65 Mumford Hall",
-              12,
+              0,
               [
                 "Kilburn, A",
                 "McCoy, J"
@@ -551,7 +551,7 @@
               7,
               "",
               "ONLINE",
-              7,
+              0,
               [
                 "Ji, A",
                 "Nelson, M"
@@ -582,7 +582,7 @@
               3,
               "TR",
               "406B1 Engineering Hall",
-              13,
+              0,
               [
                 "Laystrom-Woodard, J"
               ],
@@ -604,7 +604,7 @@
               4,
               "TR",
               "406B1 Engineering Hall",
-              13,
+              0,
               [
                 "Laystrom-Woodard, J"
               ],
@@ -626,7 +626,7 @@
               5,
               "TR",
               "406B1 Engineering Hall",
-              13,
+              0,
               [
                 "Laystrom-Woodard, J"
               ],
@@ -656,7 +656,7 @@
               11,
               "M",
               "101 Armory",
-              14,
+              0,
               [
                 "Bryant, J",
                 "Hill, P",
@@ -671,7 +671,7 @@
               11,
               "W",
               "100 Armory",
-              15,
+              0,
               [
                 "Bryant, J",
                 "Hill, P",
@@ -686,7 +686,7 @@
               12,
               "R",
               "101 Armory",
-              14,
+              0,
               [
                 "Bryant, J",
                 "Hill, P",
@@ -711,7 +711,7 @@
               7,
               "",
               "ONLINE",
-              7,
+              0,
               [
                 "Bryant, J",
                 "Hill, P",
@@ -744,7 +744,7 @@
               2,
               "F",
               "1022 Lincoln Hall",
-              16,
+              0,
               [
                 "Adeyemi, O",
                 "McDuffie, E"
@@ -767,7 +767,7 @@
               1,
               "F",
               "1028 Lincoln Hall",
-              17,
+              0,
               [
                 "Adeyemi, O",
                 "McDuffie, E"
@@ -790,7 +790,7 @@
               10,
               "MW",
               "106B1 Engineering Hall",
-              18,
+              0,
               [
                 "McDuffie, E"
               ],
@@ -820,7 +820,7 @@
               13,
               "TR",
               "108 English Building",
-              19,
+              0,
               [
                 "Nobili, M"
               ],
@@ -872,30 +872,14 @@
     "restrictions": [],
     "gradeBases": [],
     "locations": [
-      "1030 Literatures, Cultures, & Ling",
-      "1064 Lincoln Hall",
-      "327 Gregory Hall",
-      "113 Davenport Hall",
-      "2079 Natural History Building",
-      "M5 Turner Hall",
-      "208 Agricultural Engr Sciences Bld",
-      "",
-      "385 Education Building",
-      "307 David Kinley Hall",
-      "107 Animal Sciences Laboratory",
-      "62 Krannert Art Museum",
-      "65 Mumford Hall",
-      "406B1 Engineering Hall",
-      "101 Armory",
-      "100 Armory",
-      "1022 Lincoln Hall",
-      "1028 Lincoln Hall",
-      "106B1 Engineering Hall",
-      "108 English Building"
+      {
+        "lat": null,
+        "long": null
+      }
     ],
     "finalDates": [],
     "finalTimes": []
   },
-  "updatedAt": "2026-01-11T06:26:55.232Z",
+  "updatedAt": "2026-01-11T19:04:08.196Z",
   "version": 3
 }
