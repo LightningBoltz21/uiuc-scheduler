@@ -132,11 +132,41 @@ export function unique<T>(array: T[]): T[] {
   return Array.from(new Set(array));
 }
 
-export const isLab = (section: Section): boolean =>
-  ['Lab', 'Studio'].some((type) => section.scheduleType.includes(type));
+// Known UIUC schedule type keywords
+const LAB_KEYWORDS = ['Lab', 'Laboratory', 'Studio', 'Discussion'];
+const LECTURE_KEYWORDS = ['Lecture'];
 
-export const isLecture = (section: Section): boolean =>
-  section.scheduleType.includes('Lecture');
+// Check if schedule type matches any known keyword
+const isKnownLabType = (scheduleType: string): boolean =>
+  LAB_KEYWORDS.some((type) => scheduleType.includes(type));
+const isKnownLectureType = (scheduleType: string): boolean =>
+  LECTURE_KEYWORDS.some((type) => scheduleType.includes(type));
+
+// UIUC schedule types that count as "lab" (companion sections to lectures):
+// - Laboratory (LAB), Online Lab (OLB), Laboratory/Discussion (LBD)
+// - Discussion (DIS), Online Discussion (OD)
+// - Studio (GT legacy)
+// Unknown types (Independent Study, Internship, Online, etc.) → all-in-one
+export const isLab = (section: Section): boolean => {
+  const { scheduleType } = section;
+  const knownLab = isKnownLabType(scheduleType);
+  const knownLecture = isKnownLectureType(scheduleType);
+  // If it's a known type, check if it's a lab type
+  // If it's unknown (neither lab nor lecture), treat as all-in-one (return true)
+  return knownLab || (!knownLab && !knownLecture);
+};
+
+// UIUC schedule types that count as "lecture":
+// - Lecture (LEC), Online Lecture (OLC), Lecture/Discussion (LCD)
+// Unknown types (Independent Study, Internship, Online, etc.) → all-in-one
+export const isLecture = (section: Section): boolean => {
+  const { scheduleType } = section;
+  const knownLab = isKnownLabType(scheduleType);
+  const knownLecture = isKnownLectureType(scheduleType);
+  // If it's a known type, check if it's a lecture type
+  // If it's unknown (neither lab nor lecture), treat as all-in-one (return true)
+  return knownLecture || (!knownLab && !knownLecture);
+};
 
 export function humanizeArray<T>(array: T[], conjunction = 'and'): string {
   if (array.length <= 2) {

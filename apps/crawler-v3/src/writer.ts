@@ -144,13 +144,16 @@ export class DataWriter {
         this.addToCache('attributes', attr)
       );
 
+      // Get schedule type index (e.g., "Lecture", "Laboratory", "Discussion")
+      const scheduleTypeIndex = this.addToCache('scheduleTypes', scrapedSection.scheduleType);
+
       // Create section tuple matching expected format:
       // [crn, meetings, credits, scheduleTypeIndex, campusIndex, attributeIndices, gradeBasisIndex]
       const section: Section = [
         scrapedSection.crn,
         meetings,
         scraped.creditHours,  // credits at index 2
-        0,                    // scheduleTypeIndex (default)
+        scheduleTypeIndex,    // scheduleTypeIndex (for lab/lecture detection)
         0,                    // campusIndex (default)
         attributeIndices,
         -1                    // gradeBasisIndex (not implemented)
