@@ -15,7 +15,7 @@
 
 import * as fs from 'fs';
 import * as path from 'path';
-import { Course, TermData, Caches } from './types';
+import { Course, TermData, Caches, Section, Meeting } from './types';
 
 // ===== Type Definitions =====
 
@@ -453,112 +453,228 @@ export class ProgressManager {
       finalDates: [],
       finalTimes: []
     };
-    
-    // Maps to track unique cache entries
+
+    // Maps to track unique cache entries and their new indices
     const cacheMaps = {
-      periods: new Map<string, any>(),
-      dateRanges: new Map<string, string>(),
-      scheduleTypes: new Map<string, string>(),
-      campuses: new Map<string, string>(),
-      attributes: new Map<string, string>(),
-      restrictions: new Map<string, string>(),
-      gradeBases: new Map<string, string>(),
-      locations: new Map<string, any>(),
-      finalDates: new Map<string, string>(),
-      finalTimes: new Map<string, string>()
+      periods: new Map<string, number>(),
+      dateRanges: new Map<string, number>(),
+      scheduleTypes: new Map<string, number>(),
+      campuses: new Map<string, number>(),
+      attributes: new Map<string, number>(),
+      restrictions: new Map<string, number>(),
+      gradeBases: new Map<string, number>(),
+      locations: new Map<string, number>(),
+      finalDates: new Map<string, number>(),
+      finalTimes: new Map<string, number>()
     };
-    
+
     // Read all subject files from subjects directory
     if (!fs.existsSync(this.subjectsDir)) {
       return { courses: allCourses, caches: mergedCaches };
     }
-    
+
     const files = fs.readdirSync(this.subjectsDir);
-    
+
     for (const file of files) {
       if (!file.endsWith('.json')) continue;
-      
+
       const filePath = path.join(this.subjectsDir, file);
       try {
         const content = fs.readFileSync(filePath, 'utf-8');
         const subjectFile = JSON.parse(content) as SubjectFile;
-        
-        // Merge courses
-        Object.assign(allCourses, subjectFile.courses);
-        
-        // Merge caches if present
+
+        // Build index remapping for this subject file
+        const indexMaps = {
+          periods: new Map<number, number>(),
+          dateRanges: new Map<number, number>(),
+          scheduleTypes: new Map<number, number>(),
+          campuses: new Map<number, number>(),
+          attributes: new Map<number, number>(),
+          restrictions: new Map<number, number>(),
+          gradeBases: new Map<number, number>(),
+          locations: new Map<number, number>(),
+          finalDates: new Map<number, number>(),
+          finalTimes: new Map<number, number>()
+        };
+
+        // Merge caches and build index mappings
         if (subjectFile.caches) {
-          // Merge each cache array, deduplicating by JSON.stringify for complex types
-          for (const item of subjectFile.caches.periods) {
+          // Periods (complex type, use JSON.stringify as key)
+          subjectFile.caches.periods.forEach((item, oldIndex) => {
             const key = JSON.stringify(item);
             if (!cacheMaps.periods.has(key)) {
-              cacheMaps.periods.set(key, item);
+              const newIndex = mergedCaches.periods.length;
+              cacheMaps.periods.set(key, newIndex);
+              mergedCaches.periods.push(item);
+              indexMaps.periods.set(oldIndex, newIndex);
+            } else {
+              indexMaps.periods.set(oldIndex, cacheMaps.periods.get(key)!);
             }
-          }
-          for (const item of subjectFile.caches.scheduleTypes) {
+          });
+
+          // Schedule types
+          subjectFile.caches.scheduleTypes.forEach((item, oldIndex) => {
             if (!cacheMaps.scheduleTypes.has(item)) {
-              cacheMaps.scheduleTypes.set(item, item);
+              const newIndex = mergedCaches.scheduleTypes.length;
+              cacheMaps.scheduleTypes.set(item, newIndex);
+              mergedCaches.scheduleTypes.push(item);
+              indexMaps.scheduleTypes.set(oldIndex, newIndex);
+            } else {
+              indexMaps.scheduleTypes.set(oldIndex, cacheMaps.scheduleTypes.get(item)!);
             }
-          }
-          for (const item of subjectFile.caches.dateRanges) {
+          });
+
+          // Date ranges
+          subjectFile.caches.dateRanges.forEach((item, oldIndex) => {
             if (!cacheMaps.dateRanges.has(item)) {
-              cacheMaps.dateRanges.set(item, item);
+              const newIndex = mergedCaches.dateRanges.length;
+              cacheMaps.dateRanges.set(item, newIndex);
+              mergedCaches.dateRanges.push(item);
+              indexMaps.dateRanges.set(oldIndex, newIndex);
+            } else {
+              indexMaps.dateRanges.set(oldIndex, cacheMaps.dateRanges.get(item)!);
             }
-          }
-          for (const item of subjectFile.caches.campuses) {
+          });
+
+          // Campuses
+          subjectFile.caches.campuses.forEach((item, oldIndex) => {
             if (!cacheMaps.campuses.has(item)) {
-              cacheMaps.campuses.set(item, item);
+              const newIndex = mergedCaches.campuses.length;
+              cacheMaps.campuses.set(item, newIndex);
+              mergedCaches.campuses.push(item);
+              indexMaps.campuses.set(oldIndex, newIndex);
+            } else {
+              indexMaps.campuses.set(oldIndex, cacheMaps.campuses.get(item)!);
             }
-          }
-          for (const item of subjectFile.caches.attributes) {
+          });
+
+          // Attributes
+          subjectFile.caches.attributes.forEach((item, oldIndex) => {
             if (!cacheMaps.attributes.has(item)) {
-              cacheMaps.attributes.set(item, item);
+              const newIndex = mergedCaches.attributes.length;
+              cacheMaps.attributes.set(item, newIndex);
+              mergedCaches.attributes.push(item);
+              indexMaps.attributes.set(oldIndex, newIndex);
+            } else {
+              indexMaps.attributes.set(oldIndex, cacheMaps.attributes.get(item)!);
             }
-          }
-          for (const item of subjectFile.caches.restrictions || []) {
+          });
+
+          // Restrictions
+          (subjectFile.caches.restrictions || []).forEach((item, oldIndex) => {
             if (!cacheMaps.restrictions.has(item)) {
-              cacheMaps.restrictions.set(item, item);
+              const newIndex = mergedCaches.restrictions.length;
+              cacheMaps.restrictions.set(item, newIndex);
+              mergedCaches.restrictions.push(item);
+              indexMaps.restrictions.set(oldIndex, newIndex);
+            } else {
+              indexMaps.restrictions.set(oldIndex, cacheMaps.restrictions.get(item)!);
             }
-          }
-          for (const item of subjectFile.caches.gradeBases) {
+          });
+
+          // Grade bases
+          subjectFile.caches.gradeBases.forEach((item, oldIndex) => {
             if (!cacheMaps.gradeBases.has(item)) {
-              cacheMaps.gradeBases.set(item, item);
+              const newIndex = mergedCaches.gradeBases.length;
+              cacheMaps.gradeBases.set(item, newIndex);
+              mergedCaches.gradeBases.push(item);
+              indexMaps.gradeBases.set(oldIndex, newIndex);
+            } else {
+              indexMaps.gradeBases.set(oldIndex, cacheMaps.gradeBases.get(item)!);
             }
-          }
-          for (const item of subjectFile.caches.locations) {
+          });
+
+          // Locations (complex type, use JSON.stringify as key)
+          subjectFile.caches.locations.forEach((item, oldIndex) => {
             const key = JSON.stringify(item);
             if (!cacheMaps.locations.has(key)) {
-              cacheMaps.locations.set(key, item);
+              const newIndex = mergedCaches.locations.length;
+              cacheMaps.locations.set(key, newIndex);
+              mergedCaches.locations.push(item);
+              indexMaps.locations.set(oldIndex, newIndex);
+            } else {
+              indexMaps.locations.set(oldIndex, cacheMaps.locations.get(key)!);
             }
-          }
-          for (const item of subjectFile.caches.finalDates) {
+          });
+
+          // Final dates
+          subjectFile.caches.finalDates.forEach((item, oldIndex) => {
             if (!cacheMaps.finalDates.has(item)) {
-              cacheMaps.finalDates.set(item, item);
+              const newIndex = mergedCaches.finalDates.length;
+              cacheMaps.finalDates.set(item, newIndex);
+              mergedCaches.finalDates.push(item);
+              indexMaps.finalDates.set(oldIndex, newIndex);
+            } else {
+              indexMaps.finalDates.set(oldIndex, cacheMaps.finalDates.get(item)!);
             }
-          }
-          for (const item of subjectFile.caches.finalTimes) {
+          });
+
+          // Final times
+          subjectFile.caches.finalTimes.forEach((item, oldIndex) => {
             if (!cacheMaps.finalTimes.has(item)) {
-              cacheMaps.finalTimes.set(item, item);
+              const newIndex = mergedCaches.finalTimes.length;
+              cacheMaps.finalTimes.set(item, newIndex);
+              mergedCaches.finalTimes.push(item);
+              indexMaps.finalTimes.set(oldIndex, newIndex);
+            } else {
+              indexMaps.finalTimes.set(oldIndex, cacheMaps.finalTimes.get(item)!);
             }
+          });
+        }
+
+        // Remap indices in course data
+        for (const [courseId, course] of Object.entries(subjectFile.courses)) {
+          // Course is a tuple: [title, sections, prereqs, description, coreqs]
+          const [title, sections, prereqs, description, coreqs] = course;
+
+          // Remap indices in each section
+          const remappedSections: Record<string, Section> = {};
+          for (const [sectionId, section] of Object.entries(sections)) {
+            // Section is: [crn, meetings, credits, scheduleTypeIndex, campusIndex, attributeIndices, gradeBasisIndex]
+            const [crn, meetings, credits, scheduleTypeIndex, campusIndex, attributeIndices, gradeBasisIndex] = section;
+
+            // Remap meetings
+            const remappedMeetings: Meeting[] = meetings.map(meeting => {
+              // Meeting is: [periodIndex, days, room, locationIndex, instructors, dateRangeIndex, finalDateIndex, finalTimeIndex]
+              const [periodIndex, days, room, locationIndex, instructors, dateRangeIndex, finalDateIndex, finalTimeIndex] = meeting;
+
+              return [
+                indexMaps.periods.get(periodIndex) ?? periodIndex,
+                days,
+                room,
+                indexMaps.locations.get(locationIndex) ?? locationIndex,
+                instructors,
+                dateRangeIndex >= 0 ? (indexMaps.dateRanges.get(dateRangeIndex) ?? dateRangeIndex) : dateRangeIndex,
+                finalDateIndex >= 0 ? (indexMaps.finalDates.get(finalDateIndex) ?? finalDateIndex) : finalDateIndex,
+                finalTimeIndex >= 0 ? (indexMaps.finalTimes.get(finalTimeIndex) ?? finalTimeIndex) : finalTimeIndex
+              ];
+            });
+
+            // Remap attribute indices
+            const remappedAttributeIndices = attributeIndices.map(idx =>
+              indexMaps.attributes.get(idx) ?? idx
+            );
+
+            // Create remapped section
+            remappedSections[sectionId] = [
+              crn,
+              remappedMeetings,
+              credits,
+              indexMaps.scheduleTypes.get(scheduleTypeIndex) ?? scheduleTypeIndex,
+              indexMaps.campuses.get(campusIndex) ?? campusIndex,
+              remappedAttributeIndices,
+              gradeBasisIndex >= 0 ? (indexMaps.gradeBases.get(gradeBasisIndex) ?? gradeBasisIndex) : gradeBasisIndex
+            ];
           }
+
+          // Add remapped course to allCourses
+          allCourses[courseId] = [title, remappedSections, prereqs, description, coreqs];
         }
       } catch (error) {
         console.warn(`  ⚠️  Could not read ${file}, skipping`);
       }
     }
-    
-    // Convert maps back to arrays
-    mergedCaches.periods = Array.from(cacheMaps.periods.values());
-    mergedCaches.dateRanges = Array.from(cacheMaps.dateRanges.values());
-    mergedCaches.scheduleTypes = Array.from(cacheMaps.scheduleTypes.values());
-    mergedCaches.campuses = Array.from(cacheMaps.campuses.values());
-    mergedCaches.attributes = Array.from(cacheMaps.attributes.values());
-    mergedCaches.restrictions = Array.from(cacheMaps.restrictions.values());
-    mergedCaches.gradeBases = Array.from(cacheMaps.gradeBases.values());
-    mergedCaches.locations = Array.from(cacheMaps.locations.values());
-    mergedCaches.finalDates = Array.from(cacheMaps.finalDates.values());
-    mergedCaches.finalTimes = Array.from(cacheMaps.finalTimes.values());
-    
+
     return { courses: allCourses, caches: mergedCaches };
   }
 

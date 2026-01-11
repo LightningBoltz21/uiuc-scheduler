@@ -133,7 +133,17 @@ export function unique<T>(array: T[]): T[] {
 }
 
 // Known UIUC schedule type keywords
-const LAB_KEYWORDS = ['Lab', 'Laboratory', 'Studio', 'Discussion'];
+// Companion types (pair with lectures): Laboratory, Discussion, Recitation, Studio
+// Lecture types: Lecture, Online Lecture
+// All-in-one (both): Lecture-Discussion, Online Lecture Discussion
+// Standalone (neither, treated as all-in-one): Independent Study, Online, Travel, Seminar, Conference, Practice
+const LAB_KEYWORDS = [
+  'Lab',
+  'Laboratory',
+  'Studio',
+  'Discussion',
+  'Recitation',
+];
 const LECTURE_KEYWORDS = ['Lecture'];
 
 // Check if schedule type matches any known keyword
@@ -143,10 +153,10 @@ const isKnownLectureType = (scheduleType: string): boolean =>
   LECTURE_KEYWORDS.some((type) => scheduleType.includes(type));
 
 // UIUC schedule types that count as "lab" (companion sections to lectures):
-// - Laboratory (LAB), Online Lab (OLB), Laboratory/Discussion (LBD)
-// - Discussion (DIS), Online Discussion (OD)
-// - Studio (GT legacy)
-// Unknown types (Independent Study, Internship, Online, etc.) → all-in-one
+// - Laboratory, Laboratory-Discussion
+// - Discussion/ Recitation, Online Discussion
+// - Studio
+// Unknown types (Independent Study, Online, Travel, Seminar, Conference, Practice) → all-in-one
 export const isLab = (section: Section): boolean => {
   const { scheduleType } = section;
   const knownLab = isKnownLabType(scheduleType);
@@ -157,8 +167,9 @@ export const isLab = (section: Section): boolean => {
 };
 
 // UIUC schedule types that count as "lecture":
-// - Lecture (LEC), Online Lecture (OLC), Lecture/Discussion (LCD)
-// Unknown types (Independent Study, Internship, Online, etc.) → all-in-one
+// - Lecture, Online Lecture
+// Types that are BOTH (all-in-one): Lecture-Discussion, Online Lecture Discussion
+// Unknown types → all-in-one
 export const isLecture = (section: Section): boolean => {
   const { scheduleType } = section;
   const knownLab = isKnownLabType(scheduleType);
