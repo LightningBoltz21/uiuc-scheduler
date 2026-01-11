@@ -8,7 +8,7 @@ const BANNER_LOCAL_STORAGE_KEY = '2024-04-01-spr2024-donate-banner';
 function Content(): React.ReactElement {
   return (
     <span>
-      Help keep GT Scheduler and its amazing features running!
+      Help keep UIUC Scheduler and its amazing features running!
       <a
         className="bannerButton"
         href={DONATE_LINK}

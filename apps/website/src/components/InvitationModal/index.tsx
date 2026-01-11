@@ -346,7 +346,7 @@ export function InvitationModalContent({
       <div className="top-block">
         <p className="modal-title">Share Schedule</p>
         <p>
-          Enter an email associated with another user&apos;s GT-Scheduler
+          Enter an email associated with another user&apos;s UIUC-Scheduler
           account & we&apos;ll send them an invite via email to import this
           schedule into their view
         </p>

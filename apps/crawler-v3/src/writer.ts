@@ -8,8 +8,10 @@ import {
   Meeting,
   Caches,
   CacheBuilder,
+  CacheLocation,
   ScrapedCourse
 } from './types';
+import { findBuildingLocation, logMissingLocations } from './locations';
 
 /**
  * Builds caches and converts scraped courses to tuple format
@@ -96,18 +98,26 @@ export class DataWriter {
   }
   /**
    * Add location to cache and return its index
-   * Stores the room text string for physical locations, or empty string for online
+   * Looks up building coordinates from the locations map
    */
   private addLocationToCache(room: string): number {
-    // Find existing location with same room text
-    const existingIndex = this.caches.locations.findIndex(loc => loc === room);
+    // Look up building coordinates
+    const coords = findBuildingLocation(room);
+    const location: CacheLocation = coords
+      ? { lat: coords.lat, long: coords.long }
+      : { lat: null, long: null };
+
+    // Check if we already have this exact location cached
+    const existingIndex = this.caches.locations.findIndex(
+      loc => loc.lat === location.lat && loc.long === location.long
+    );
     if (existingIndex !== -1) {
       return existingIndex;
     }
-    
+
     // Add new location
     const index = this.caches.locations.length;
-    this.caches.locations.push(room);
+    this.caches.locations.push(location);
     return index;
   }
   /**
@@ -199,8 +209,11 @@ export class DataWriter {
     // Write JSON file
     const json = JSON.stringify(termData, null, 2);
     fs.writeFileSync(filepath, json, 'utf-8');
-    
+
     console.log(`✅ Written: ${filepath} (${(json.length / 1024).toFixed(2)} KB)`);
+
+    // Log any buildings that need coordinates added
+    logMissingLocations();
   }
 
   /**

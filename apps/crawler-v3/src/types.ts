@@ -66,6 +66,15 @@ export type Meeting = [
 
 // ===== Caches (Shared Data) =====
 
+/**
+ * Location with latitude and longitude coordinates
+ * null values indicate unknown/online locations
+ */
+export interface CacheLocation {
+  lat: number | null;
+  long: number | null;
+}
+
 export interface Caches {
   periods: string[];              // ["900 - 950", "540 - 590"] - time ranges as strings
   dateRanges: string[];           // ["Aug 21, 2025 - Dec 10, 2025"]
@@ -74,7 +83,7 @@ export interface Caches {
   attributes: string[];           // ["Online", "Honors"]
   restrictions: string[];         // ["CS Majors Only", "Instructor Approval Required"]
   gradeBases: string[];           // ["Letter Grade", "Pass/Fail"]
-  locations: string[];            // ["THEAT Lincoln Hall", "Siebel Center 1404"]
+  locations: CacheLocation[];     // [{ lat: 40.1138, long: -88.2249 }, ...] - building coordinates
   finalDates: string[];           // ["Dec 12, 2025"]
   finalTimes: string[];           // ["1:30 pm - 4:30 pm"]
 }

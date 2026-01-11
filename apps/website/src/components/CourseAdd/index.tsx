@@ -244,9 +244,9 @@ export default function CourseAdd({
         ))
       ) : (
         <div className="disclaimer">
-          Disclaimer: GT Scheduler should be used as general reference only, and
-          users are solely responsible for ensuring any information including
-          registration restrictions.
+          Disclaimer: UIUC Scheduler should be used as general reference only,
+          and users are solely responsible for ensuring any information
+          including registration restrictions.
         </div>
       )}
     </div>

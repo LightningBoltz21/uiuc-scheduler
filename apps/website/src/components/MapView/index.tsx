@@ -22,10 +22,10 @@ export type MapViewProps = {
 export default function MapView({
   locations,
 }: MapViewProps): React.ReactElement {
-  // These initial coordinates start the map looking at the GT Atlanta campus
+  // These initial coordinates start the map looking at the UIUC campus
   const [viewState, setViewState] = useState<ViewState>({
-    latitude: 33.7765,
-    longitude: -84.3963,
+    latitude: 40.102,
+    longitude: -88.2272,
     zoom: 15,
   });
 

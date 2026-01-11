@@ -59,9 +59,21 @@ export default function Header({
   const terms = useContext(TermsContext);
 
   const totalCredits = useMemo(() => {
+    // Track which courses we've already counted to avoid double-counting
+    // lecture + lab/discussion sections from the same course
+    const countedCourses = new Set<string>();
+
     return pinnedCrns.reduce((credits, crn) => {
       const crnSection = oscar.findSection(crn);
-      return credits + (crnSection != null ? crnSection.credits : 0);
+      if (crnSection == null) return credits;
+
+      const courseId = crnSection.course.id;
+      if (countedCourses.has(courseId)) {
+        return credits; // Already counted this course
+      }
+
+      countedCourses.add(courseId);
+      return credits + crnSection.credits;
     }, 0);
   }, [pinnedCrns, oscar]);
 

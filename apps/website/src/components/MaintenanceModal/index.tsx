@@ -18,7 +18,7 @@ const MODAL_LOCAL_STORAGE_KEY = '2023-03-05-spr2023-oscar-migration';
 export function MaintenanceModalContent(): React.ReactElement {
   return (
     <>
-      <img alt="GT Scheduler Logo" src="/mascot.png" />
+      <img alt="UIUC Scheduler Logo" src="/mascot.png" />
       <h2>Scheduled Maintenance March 15 - March 16</h2>
       <h4>March 5, 2023</h4>
       <p className="maintenance-content">
@@ -27,15 +27,15 @@ export function MaintenanceModalContent(): React.ReactElement {
         <br />
         In response to this change,&nbsp;
         <span style={{ color: '#C56E5B' }}>
-          GT Scheduler will be undergoing maintenance, from March 15 12:00 AM ET
-          to March 16 11:59 PM ET
+          UIUC Scheduler will be undergoing maintenance, from March 15 12:00 AM
+          ET to March 16 11:59 PM ET
         </span>
         , to ensure our services are compatible with the new registration option
         of BuzzPort - OSCAR. During this period, all services on
         gt-scheduler.org will be unavailable.
       </p>
       <p className="migration-content">
-        We appreciate your continued support for GT Scheduler. <br />
+        We appreciate your continued support for UIUC Scheduler. <br />
         For any inquiries, please&nbsp;
         <a href="mailto: contact@gt-scheduler.org">contact us</a>.
       </p>

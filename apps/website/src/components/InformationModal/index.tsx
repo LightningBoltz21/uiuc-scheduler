@@ -45,7 +45,7 @@ export function InformationModalContent({
           margin: '12px auto 16px auto',
           display: 'block',
         }}
-        alt="GT Scheduler Logo"
+        alt="UIUC Scheduler Logo"
         src="/mascot.png"
       />
       <h1
@@ -62,7 +62,7 @@ export function InformationModalContent({
       <div className="information-content">
         <p>
           Hello <span style={{ color: '#EDA91F' }}>Yellow Jackets!</span> We are
-          excited to announce a new feature for GT Scheduler.
+          excited to announce a new feature for UIUC Scheduler.
           <br />
           <br />
           Share your schedule with other students and they can share theirs
@@ -70,9 +70,9 @@ export function InformationModalContent({
           students&apos; schedules to compare.
           <br />
           <br />
-          However, to keep GT Scheduler and its amazing features, we need to
-          maintain our costs. Please consider donating to help keep GT Scheduler
-          running!
+          However, to keep UIUC Scheduler and its amazing features, we need to
+          maintain our costs. Please consider donating to help keep UIUC
+          Scheduler running!
         </p>
         <div className="information-images">
           <img

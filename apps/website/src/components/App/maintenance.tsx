@@ -7,11 +7,11 @@ export default function Maintenance(): React.ReactElement {
         <div className="main-content">
           <div className="text">
             <h1>
-              GT Scheduler is <br />
+              UIUC Scheduler is <br />
               Under Maintenance
             </h1>
             <p>
-              GT Scheduler is currently undergoing maintenance. <br />
+              UIUC Scheduler is currently undergoing maintenance. <br />
               We’ll resume service to assist registration and scheduling soon.
             </p>
             <p>
@@ -20,13 +20,13 @@ export default function Maintenance(): React.ReactElement {
               <a href="mailto: contact@gt-scheduler.org">contact us</a>.
             </p>
             <p>
-              —The GT Scheduler Team{' '}
+              —The UIUC Scheduler Team{' '}
               <a href="https://bitsofgood.org/">@Bits of Good</a>
               <br />
               <br />
             </p>
           </div>
-          <img alt="GT Scheduler Logo" src="/mascot.png" />
+          <img alt="UIUC Scheduler Logo" src="/mascot.png" />
         </div>
         <a className="footer" href="https://bitsofgood.org/">
           <img alt="Bits of Good Logo" src="/bitsOfGood.png" />

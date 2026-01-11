@@ -129,7 +129,7 @@ export default function HeaderDisplay({
 
       {/* Left-aligned logo */}
       <div className="logo">
-        <span className="gt">GT </span>
+        <span className="gt">UIUC </span>
         <span className="scheduler">Scheduler</span>
       </div>
 
