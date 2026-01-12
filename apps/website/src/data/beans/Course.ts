@@ -218,28 +218,24 @@ export default class Course {
       exp: string;
     }
 
-    // Try to look in the cache for a cached course gpa item
-    // that has not expired.
-    // If it is expired, we don't evict; we just ignore it
-    // (and update it with a fresh expiry once it has been fetched).
-    // The size of the cache may bloat over time, but shouldn't be substantial.
-    try {
-      const rawCache = window.localStorage.getItem(GPA_CACHE_LOCAL_STORAGE_KEY);
-      if (rawCache != null) {
-        const cache: GpaCache = JSON.parse(rawCache) as unknown as GpaCache;
-        const cacheItem = cache[this.id];
-        if (cacheItem != null) {
-          const now = new Date().toISOString();
-          // Use lexicographic comparison on date strings
-          // (since they are ISO 8601)
-          if (now < cacheItem.exp) {
-            return cacheItem.d;
-          }
-        }
-      }
-    } catch (err) {
-      // Ignore
-    }
+    // Cache lookup temporarily disabled for debugging
+    // try {
+    //   const rawCache = window.localStorage.getItem(GPA_CACHE_LOCAL_STORAGE_KEY);
+    //   if (rawCache != null) {
+    //     const cache: GpaCache = JSON.parse(rawCache) as unknown as GpaCache;
+    //     const cacheItem = cache[this.id];
+    //     if (cacheItem != null) {
+    //       const now = new Date().toISOString();
+    //       // Use lexicographic comparison on date strings
+    //       // (since they are ISO 8601)
+    //       if (now < cacheItem.exp) {
+    //         return cacheItem.d;
+    //       }
+    //     }
+    //   }
+    // } catch (err) {
+    //   // Ignore
+    // }
 
     // Fetch the GPA normally
     const courseGpa = await this.fetchGpaInner();
@@ -277,36 +273,107 @@ export default class Course {
    * but we prefer returning `null` if there was a failure
    * so we can avoid storing the empty GPA value in the persistent cache.
    */
-  private async fetchGpaInner(): Promise<CourseGpa | null> {
-    // We have to clean up the course ID before sending it to the API,
-    // since courses like CHEM 1212K should become CHEM 1212
-    const id = `${this.subject} ${this.number.replace(/\D/g, '')}`;
-    const encodedCourse = encodeURIComponent(id);
-    const url = `${COURSE_CRITIQUE_API_URL}?courseID=${encodedCourse}`;
 
-    let responseData: CourseDetailsAPIResponse;
-    try {
-      responseData = (await axios.get<CourseDetailsAPIResponse>(url)).data;
-    } catch (err) {
-      // Ignore network errors
-      if (!isAxiosNetworkError(err)) {
-        softError(
-          new ErrorWithFields({
-            message: 'error fetching course details from Course Critique API',
-            source: err,
-            fields: {
-              baseId: this.id,
-              cleanedId: id,
-              url,
-            },
-          })
+  private async fetchGpaInner(): Promise<CourseGpa | null> {
+    type GpaEntry = {
+      last: string;
+      first: string;
+      gpa: number;
+    };
+    type GpaData = Record<string, GpaEntry[]>;
+
+    const courseKey = `${this.subject} ${this.number.replace(
+      /\D/g,
+      ''
+    )}`.trim();
+
+    const win = window as Window & { gpaDataCache?: GpaData };
+    let gpaData = win.gpaDataCache;
+    if (!gpaData) {
+      try {
+        const res = await fetch('/gpa.json');
+        if (!res.ok) return null;
+        gpaData = (await res.json()) as GpaData;
+        win.gpaDataCache = gpaData;
+      } catch {
+        return null;
+      }
+    }
+
+    const entries = gpaData[courseKey];
+    if (!Array.isArray(entries) || entries.length === 0) {
+      return {};
+    }
+
+    const normalizeToken = (value: string): string =>
+      value.toLowerCase().replace(/[^a-z]/g, '');
+
+    const normalizeName = (name: string): { last: string; first: string } => {
+      const trimmed = name.trim();
+      if (trimmed.includes(',')) {
+        const [lastRaw = '', firstRaw = ''] = trimmed.split(',', 2);
+        const firstToken = firstRaw.trim().split(/\s+/)[0] ?? '';
+        return {
+          last: normalizeToken(lastRaw),
+          first: normalizeToken(firstToken),
+        };
+      }
+
+      const parts = trimmed.split(/\s+/);
+      const firstToken = parts[0] ?? '';
+      const lastToken = parts[parts.length - 1] ?? '';
+      return {
+        last: normalizeToken(lastToken),
+        first: normalizeToken(firstToken),
+      };
+    };
+
+    const normalizedEntries = entries.map((entry) => ({
+      ...entry,
+      norm: normalizeName(`${entry.last}, ${entry.first}`),
+    }));
+
+    const gpaMap: CourseGpa = {};
+
+    const validGpas = normalizedEntries
+      .map((entry) => entry.gpa)
+      .filter((gpa) => typeof gpa === 'number' && !Number.isNaN(gpa));
+    if (validGpas.length > 0) {
+      gpaMap.averageGpa =
+        validGpas.reduce((sum, gpa) => sum + gpa, 0) / validGpas.length;
+    }
+
+    const instructorNames = new Set(
+      this.sections.flatMap((section) => section.instructors)
+    );
+
+    instructorNames.forEach((instructorName) => {
+      const norm = normalizeName(instructorName);
+      let matches = normalizedEntries.filter(
+        (entry) =>
+          entry.norm.last === norm.last && entry.norm.first === norm.first
+      );
+
+      if (matches.length === 0 && norm.first.length > 0) {
+        const firstInitial = norm.first[0];
+        if (!firstInitial) {
+          return;
+        }
+        matches = normalizedEntries.filter(
+          (entry) =>
+            entry.norm.last === norm.last &&
+            entry.norm.first.startsWith(firstInitial)
         );
       }
 
-      return null;
-    }
+      if (matches.length > 0) {
+        const avg =
+          matches.reduce((sum, entry) => sum + entry.gpa, 0) / matches.length;
+        gpaMap[instructorName] = avg;
+      }
+    });
 
-    return this.decodeCourseCritiqueResponse(responseData);
+    return gpaMap;
   }
 
   private decodeCourseCritiqueResponse(
