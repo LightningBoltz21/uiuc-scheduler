@@ -65,12 +65,16 @@ jobs:
         working-directory: ./apps/crawler-v3
         run: npm ci
 
-      - name: Clean old subject cache (force fresh scrape)
+      - name: Clean old subject cache (only if no progress to resume)
         working-directory: ./apps/crawler-v3/data
         run: |
-          # Remove old subject directories to force fresh scrape with fixed index remapping
-          rm -rf */subjects */progress.json
-          echo "Cleaned old subject caches"
+          # Check if any term has progress.json (indicates partial run to resume)
+          if ls */progress.json 1> /dev/null 2>&1; then
+            echo "Found progress.json - preserving cache for resume"
+          else
+            echo "No progress.json found - cleaning stale subject caches for fresh scrape"
+            rm -rf */subjects
+          fi
 
       - name: Run crawler
         id: crawler
