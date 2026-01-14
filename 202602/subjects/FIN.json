@@ -1,7 +1,7 @@
 {
   "subject": "FIN",
-  "scrapedAt": 1768372670905,
-  "courseCount": 58,
+  "scrapedAt": 1768372693813,
+  "courseCount": 66,
   "courses": {
     "FIN 199": [
       "Undergraduate Open Seminar",
@@ -2771,143 +2771,402 @@
       [],
       "We analyze the trade-off between risk and expected return along with portfolio choice, performance evaluation, and security pricing. We use the Capital Asset Pricing Model (CAPM) and multi-factor models to evaluate the performance of various securities and portfolios. We establish benchmark returns for securities and apply firm valuation techniques. We discuss market efficiency and its implications. We apply these techniques to the performance of mutual funds, hedge funds, and strategies designed to earn risk-adjusted returns.",
       []
+    ],
+    "FIN 595": [
+      "Empirical Corporate Finance",
+      {
+        "L1": [
+          "76376",
+          [
+            [
+              0,
+              "T",
+              "ARR Business Instructional Fac",
+              0,
+              [
+                "Lagaras, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "This seminar will study recent research in corporate finance that uses modern empirical methods to focus on causal inference. Students will be required to write a research proposal. The objective is to sharpen students' skills as consumers and producers of empirical corporate finance. This seminar is also beneficial for researchers in related fields such as credit markets and banking, asset pricing, financial accounting and applied microeconomics.",
+      []
+    ],
+    "FIN 583": [
+      "Practicum",
+      {
+        "MT1": [
+          "71627",
+          [
+            [
+              1,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Thanos, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "A semester-long, typically corporate-sponsored, team project for MSFE and MSF students that is usually completed by the end of the third semester of study. The goals of the Practicum are: a) to use learned or new tools on real world projects of interest to the corporate sponsor; b) to replicate as closely as possible the environment of the working world where students will soon find themselves employed; c) to work cohesively with other members of a team so as to efficiently produce the desired project results; and d) to be able to communicate effectively with technical and non-technical audiences, which may include the sponsor and/or co-workers.",
+      []
+    ],
+    "FIN 599": [
+      "Thesis Research",
+      {
+        "1": [
+          "10129",
+          [
+            [
+              1,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Required for those writing master's and doctoral theses in finance.",
+      []
+    ],
+    "FIN 580": [
+      "Special Topics in Finance",
+      {
+        "ETA": [
+          "69358",
+          [
+            [
+              2,
+              "MW",
+              "2043 Business Instructional Fac",
+              1,
+              [
+                "Smith, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "INT": [
+          "66148",
+          [
+            [
+              1,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Lucht, K",
+                "Widdicks, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "PHD": [
+          "47517",
+          [
+            [
+              3,
+              "F",
+              "243 Wohlers Hall",
+              0,
+              [
+                "Huang, J",
+                "Lucht, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "QI2": [
+          "69623",
+          [
+            [
+              4,
+              "F",
+              "240 Wohlers Hall",
+              0,
+              [
+                "Zhang, Q"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "SL2": [
+          "65773",
+          [
+            [
+              5,
+              "TR",
+              "174 Wohlers Hall",
+              0,
+              [
+                "Lagaras, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Lectures and discussions relating to new areas of interest. See class schedule for topics and prerequisites.",
+      []
+    ],
+    "FIN 586": [
+      "MSF Academy II",
+      {
+        "P": [
+          "77699",
+          [
+            [
+              5,
+              "TR",
+              "1029C Business Instructional Fac",
+              0,
+              [
+                "Morris, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "MSF Academy II builds upon the skills learned in MSF Academy I by focusing within a specific area of the finance industry.",
+      []
+    ],
+    "FIN 573": [
+      "Applications of Investment Banking Concepts",
+      {
+        "IMB": [
+          "74408",
+          [
+            [
+              1,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Bertram, J",
+                "Metzger, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "74409",
+          [
+            [
+              1,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Bertram, J",
+                "Metzger, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Will build off the core topics explored in FIN 572, The Finance of Mergers and Acquisitions and ACCY 532, Accounting for Mergers and Acquisitions and Other Complex Transactions. It is designed to provide a practical application of financial statement analysis, modeling, and valuation. The course covers the mechanics of financial statement analysis, ratio analysis, and financial model building. The course will also focus on applying the financial statements and forecasts within the context of company valuation, utilizing common industry techniques. Prerequisite: It is recommended that students have a grasp of core accounting principles and have a basic knowledge of concepts in finance (time value of money, etc.). It is also recommended that students complete ACCY 532 and FIN 572 (or equivalents) before enrolling in this course.",
+      []
+    ],
+    "FIN 589": [
+      "Applied Portfolio Management",
+      {
+        "P2": [
+          "74144",
+          [
+            [
+              6,
+              "TR",
+              "2041 Business Instructional Fac",
+              1,
+              [
+                "Excell, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Applies academic topics on financial markets, security analysis/valuation and portfolio management to hands-on investment management. Students will form and review objectives, constraints, and investment policy as it relates to the client's money under management. They will purchase securities, monitor performance of the portfolio, and make recommendations for any adjustments to the holdings. They will be fully educated and responsible for the fiduciary and ethical standards of professional money management as guided by the CFA Institute.",
+      []
+    ],
+    "FIN 590": [
+      "Individual Study and Research",
+      {
+        "": [
+          "10127",
+          [
+            [
+              1,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "SEM": [
+          "40359",
+          [
+            [
+              7,
+              "TR",
+              "3039 Business Instructional Fac",
+              1,
+              [
+                "Pollet, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Directed reading and research.",
+      []
     ]
   },
   "caches": {
     "periods": [
-      "1400 - 1515",
-      "0000 - 0000",
-      "1230 - 1345",
-      "1200 - 1250",
-      "1100 - 1215",
-      "1500 - 1650",
-      "1700 - 1850",
-      "0900 - 1050",
-      "0930 - 1045",
-      "1530 - 1645",
-      "1530 - 1650",
-      "1300 - 1350",
-      "1400 - 1450",
-      "1500 - 1550",
-      "1600 - 1650",
-      "1700 - 1815",
-      "1300 - 1415",
-      "1000 - 1050",
-      "1700 - 1800",
-      "1100 - 1150",
-      "0930 - 1050",
-      "0900 - 0950",
-      "1100 - 1220",
-      "1630 - 1730",
-      "1600 - 1700",
-      "1400 - 1520",
-      "1200 - 1320",
-      "0900 - 1020",
-      "1400 - 1630",
-      "1000 - 1220",
-      "1500 - 1720",
-      "1300 - 1600",
-      "1000 - 1150",
-      "1500 - 1620",
-      "1400 - 1550",
-      "1230 - 1350",
-      "1200 - 1350",
-      "1430 - 1820",
-      "1500 - 1700",
-      "1800 - 2050",
-      "1300 - 1420",
-      "1700 - 1820",
-      "0900 - 1030",
-      "1300 - 1430",
-      "0800 - 0850",
-      "1035 - 1150",
-      "1430 - 1630",
-      "1300 - 1450",
-      "1700 - 1900",
-      "1400 - 1650",
-      "1830 - 1950",
-      "1000 - 1120",
-      "1450 - 1735",
-      "1145 - 1305",
-      "1530 - 1750",
-      "1400 - 1620",
-      "1300 - 1520",
-      "1300 - 1550",
-      "1500 - 1750",
-      "1700 - 1750",
-      "0800 - 0950",
-      "1900 - 2050",
-      "1600 - 1750",
-      "0900 - 1150",
-      "1200 - 1450",
-      "1100 - 1250",
-      "1100 - 1350",
-      "1700 - 1950",
-      "0800 - 0920",
-      "1630 - 1745",
-      "1600 - 1850",
       "0930 - 1220",
-      "0830 - 0950",
-      "1000 - 1250",
-      "1100 - 1230",
-      "1600 - 1720",
-      "1600 - 1800",
-      "1430 - 1550",
-      "1800 - 2000",
-      "1030 - 1150",
-      "1530 - 1720",
-      "0730 - 1530",
-      "1530 - 1550",
-      "1900 - 1930",
-      "1000 - 1700",
-      "1600 - 1715",
-      "1600 - 1730",
-      "1730 - 1850",
-      "1630 - 1800",
-      "1100 - 1320",
-      "1230 - 1430",
-      "1500 - 1730",
-      "1100 - 1330",
-      "1200 - 1430",
-      "0930 - 1200",
-      "1000 - 1200",
-      "1800 - 2100",
-      "1700 - 2000",
-      "1730 - 2020",
-      "1400 - 1700",
-      "1730 - 2030",
-      "0900 - 1200",
-      "1730 - 2130",
-      "0900 - 1600",
-      "1530 - 1820",
-      "1200 - 1650",
-      "1900 - 2200",
-      "1900 - 1950",
-      "1500 - 1615",
-      "1330 - 1450",
-      "0800 - 1220",
-      "1800 - 1920"
+      "0000 - 0000",
+      "1800 - 1920",
+      "1100 - 1250",
+      "1400 - 1650",
+      "1230 - 1350",
+      "0930 - 1050",
+      "1400 - 1520"
     ],
     "dateRanges": [],
     "scheduleTypes": [
       "Lecture-Discussion",
-      "Discussion/ Recitation",
-      "Online",
-      "Lecture",
-      "Online Lecture",
-      "Laboratory",
-      "Seminar",
-      "Online Lab",
-      "Independent Study",
-      "Conference",
-      "Laboratory-Discussion",
-      "Online Discussion",
       "Practice",
-      "Lecture-DiscussionMeets 02/07/26",
-      "Study Abroad",
-      "Lecture-DiscussionMeets 01/24/26",
-      "Studio",
-      "Internship"
+      "Independent Study",
+      "Seminar",
+      "Online"
     ],
     "campuses": [],
     "attributes": [],
@@ -2915,92 +3174,8 @@
     "gradeBases": [],
     "locations": [
       {
-        "lat": 40.1131317,
-        "long": -88.2264552
-      },
-      {
         "lat": null,
         "long": null
-      },
-      {
-        "lat": 40.11246109008789,
-        "long": -88.22831726074219
-      },
-      {
-        "lat": 40.1109722,
-        "long": -88.2282631
-      },
-      {
-        "lat": 40.1065684,
-        "long": -88.2281746
-      },
-      {
-        "lat": 40.105732,
-        "long": -88.2281018
-      },
-      {
-        "lat": 40.1149521,
-        "long": -88.2267561
-      },
-      {
-        "lat": 40.1149296,
-        "long": -88.2280589
-      },
-      {
-        "lat": 40.1108856,
-        "long": -88.2269806
-      },
-      {
-        "lat": 40.111691,
-        "long": -88.2242511
-      },
-      {
-        "lat": 40.1110937,
-        "long": -88.2232348
-      },
-      {
-        "lat": 40.107534,
-        "long": -88.2281548
-      },
-      {
-        "lat": 40.1072225,
-        "long": -88.2262016
-      },
-      {
-        "lat": 40.1083446,
-        "long": -88.2282555
-      },
-      {
-        "lat": 40.1033599,
-        "long": -88.2292111
-      },
-      {
-        "lat": 40.1035833,
-        "long": -88.228405
-      },
-      {
-        "lat": 40.104794,
-        "long": -88.224264
-      },
-      {
-        "lat": 40.1047599,
-        "long": -88.2319514
-      },
-      {
-        "lat": 40.103587,
-        "long": -88.230606
-      },
-      {
-        "lat": 40.10593795776367,
-        "long": -88.2270736694336
-      },
-      {
-        "lat": 40.1020773,
-        "long": -88.2296394
-      },
-      {
-        "lat": 40.0995003,
-        "long": -88.223104
       },
       {
         "lat": 40.1035872,

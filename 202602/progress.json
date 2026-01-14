@@ -4,7 +4,7 @@
   "year": "2026",
   "term": "spring",
   "startedAt": 1768370801953,
-  "lastUpdated": 1768372670909,
+  "lastUpdated": 1768372750985,
   "totalSubjects": 187,
   "totalCourses": 4516,
   "subjects": [
@@ -18718,19 +18718,45 @@
     "ETMA",
     "EURO",
     "EXP",
-    "FAA"
+    "FAA",
+    "FIN",
+    "FLTE",
+    "FR",
+    "FSHN",
+    "GC",
+    "GEOL",
+    "GER",
+    "GGIS",
+    "GLBL",
+    "GMC",
+    "GRK",
+    "GRKM",
+    "GSD",
+    "GWS",
+    "HBSE",
+    "HDFS",
+    "HEBR",
+    "HIST",
+    "HK",
+    "HNDI",
+    "HORT",
+    "HT",
+    "HUM",
+    "IB",
+    "IE",
+    "INFO"
   ],
   "partialSubjects": {
-    "FIN": {
-      "completed": 58,
-      "total": 66,
+    "IS": {
+      "completed": 108,
+      "total": 111,
       "lastCourse": "ABORTED"
     }
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 1985,
-    "failedCourses": 3,
+    "successfulCourses": 2694,
+    "failedCourses": 4,
     "rateLimitCount": 0
   }
 }
