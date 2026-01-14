@@ -85,6 +85,14 @@ jobs:
 
         run: npm start
 
+      - name: Verify cleanup before deployment (on success)
+        if: steps.crawler.outcome == 'success'
+        working-directory: ./apps/crawler-v3/data
+        run: |
+          echo "Ensuring no progress files remain before deployment..."
+          rm -rf */subjects */progress.json
+          echo "✓ Progress files cleaned"
+
       - name: Deploy to GitHub Pages (on success)
         if: steps.crawler.outcome == 'success'
         uses: JamesIves/github-pages-deploy-action@v4
