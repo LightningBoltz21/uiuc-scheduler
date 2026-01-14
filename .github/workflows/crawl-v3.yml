@@ -82,7 +82,7 @@ jobs:
         working-directory: ./apps/crawler-v3
         env:
           CONCURRENCY: 10
-          # MAX_SUBJECTS: 10
+
         run: npm start
 
       - name: Deploy to GitHub Pages (on success)
@@ -92,7 +92,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           branch: gh-pages
           folder: ./apps/crawler-v3/data
-          clean: false
+          clean: true
           commit-message: 'Update UIUC course data'
 
       - name: Deploy partial progress (on failure)
