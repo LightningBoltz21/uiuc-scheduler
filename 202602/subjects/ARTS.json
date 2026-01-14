@@ -1,125 +1,1319 @@
 {
   "subject": "ARTS",
-  "scrapedAt": 1768434186923,
-  "courseCount": 0,
-  "courses": {},
+  "scrapedAt": 1768434207102,
+  "courseCount": 30,
+  "courses": {
+    "ARTS 250": [
+      "Life Drawing",
+      {
+        "1": [
+          "46765",
+          [
+            [
+              0,
+              "MW",
+              "219 Art and Design Building",
+              0,
+              [
+                "Witkowski, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "2": [
+          "46766",
+          [
+            [
+              1,
+              "TR",
+              "219 Art and Design Building",
+              0,
+              [
+                "Cain, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Representational and interpretive drawing from life explored through close observation and structural analysis of the human figure and other subject matter.",
+      []
+    ],
+    "ARTS 244": [
+      "Interaction I",
+      {
+        "1": [
+          "68895",
+          [
+            [
+              2,
+              "MW",
+              "224 Art and Design Building",
+              0,
+              [
+                "Ramakrishnan, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to the conceptualization and construction of interactive experience for art and design. Interaction will be examined as technical, structural, social, and historical. Work will include practice, research, discussion, and lecture.",
+      []
+    ],
+    "ARTS 265": [
+      "Photography II",
+      {
+        "1": [
+          "71990",
+          [
+            [
+              0,
+              "MW",
+              "Location Pending",
+              0,
+              [
+                "Fein-Smolinski, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Explore fundamental facets of image-making with thematic focus on the notion of the Analogy, and intersections of analogue, digital, and virtual processes of visual communication. This includes work with 35mm and medium format analog film, darkroom printing, color film scanning, advanced inkjet printing, photo sculpture, and cyanotype processes. An integral aspect of this class will be exercising a critically engaged vocabulary to describe how photographs make meaning, and the development of a personal aesthetic.",
+      []
+    ],
+    "ARTS 210": [
+      "Ceramics Sculpture I",
+      {
+        "U1": [
+          "30375",
+          [
+            [
+              3,
+              "MW",
+              "89 Allen Residence Hall",
+              0,
+              [
+                "Wiesener, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to materials and techniques involved in the ceramic process. By achieving technical expertise using clay, students can begin to develop a personal artistic language employing clay as an art medium. Students will explore a variety of assignments employing hand-building techniques, as well as investigating various firing processes.",
+      []
+    ],
+    "ARTS 205": [
+      "Introduction to Printmaking",
+      {
+        "1": [
+          "67433",
+          [
+            [
+              2,
+              "MW",
+              "7 Noble Hall",
+              0,
+              [
+                "Lingscheit, E",
+                "Thursday, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to the materials and techniques of printmaking, including intaglio, relief, and screenprint. Over the course of several projects, students will develop a familiarity with print processes while learning about the unique history and conceptual concerns of print media. Composition and technique are emphasized, and projects that relate to work developed in other studio and design areas are encouraged.",
+      []
+    ],
+    "ARTS 221": [
+      "Fashion Illustration",
+      {
+        "1": [
+          "72034",
+          [
+            [
+              1,
+              "R",
+              "224 Art and Design Building",
+              0,
+              [
+                "Vincenzi, C"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              1,
+              "T",
+              "312 Art and Design Building",
+              0,
+              [
+                "Vincenzi, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "This course covers fundamental techniques specific to fashion design using apparel industry best practices. Students will be introduced to hand and computer techniques to create fashion illustrations, technical flats, and fabric renderings. Reflective of the fashion industry, students will be instructed in becoming visual communicators through the composition of concept boards and collection plates. Students will learn the basics of apparel collection design creating several two-dimensional representations of mini-collections with their personal expression.",
+      []
+    ],
+    "ARTS 251": [
+      "Beginning Painting",
+      {
+        "1": [
+          "68886",
+          [
+            [
+              3,
+              "MW",
+              "330 Art and Design Building",
+              0,
+              [
+                "Hudson, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "2": [
+          "30716",
+          [
+            [
+              4,
+              "TR",
+              "330 Art and Design Building",
+              0,
+              [
+                "Hudson, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "This studio course familiarizes students with basic oil painting materials, techniques, and concepts. Topics to be addressed include composition, color theory, historical painting techniques, illusionistic space, and paint handling and application. Exploration and discussion of the ways in which paintings make meaning.",
+      []
+    ],
+    "ARTS 264": [
+      "Basic Photography",
+      {
+        "1": [
+          "71980",
+          [
+            [
+              4,
+              "TR",
+              "229 Art and Design Building",
+              0,
+              [
+                "Ward, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "2": [
+          "71984",
+          [
+            [
+              3,
+              "MW",
+              "340 Art and Design Building",
+              0,
+              [
+                "Batten, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Investigates basic image making and meaning. Student works with digital camera, exposure meter and learns digital printing. Student must furnish camera.",
+      []
+    ],
+    "ARTS 220": [
+      "Introduction to Fashion",
+      {
+        "1": [
+          "72035",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Becker, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "An overview of the many diverse areas of interest and employment available to someone with and interest in fashion. This course will focus on the development of an individual apparel design process. Other topics include basic garment construction concepts, properties of textiles, fashion illustration, 20th century dress history, manufacturing, trend forecasting, merchandising, and social psychology of dress.",
+      []
+    ],
+    "ARTS 243": [
+      "Time Arts I",
+      {
+        "1": [
+          "68893",
+          [
+            [
+              4,
+              "TR",
+              "224 Art and Design Building",
+              0,
+              [
+                "Weaver, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Explores the potential of time-based media for creative expression and communications within the context of visual art and design. Classroom discussion will focus on historical and contemporary examples of time arts, written materials, and student work. Hands-on projects will introduce tools, issues and strategies particular to creating and analyzing work based in time.",
+      []
+    ],
+    "ARTS 320": [
+      "Fashion and Textiles Design",
+      {
+        "1": [
+          "75994",
+          [
+            [
+              6,
+              "TR",
+              "315 Art and Design Building",
+              0,
+              [
+                "Vincenzi, C"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              6,
+              "TR",
+              "224 Art and Design Building",
+              0,
+              [
+                "Vincenzi, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduces students to fashion textile design through the investigation of traditional and innovative sustainable techniques used in the fashion industry. Students will be introduced to textile properties, 2D print design, and 3D textiles experimentation, learning basic weaving techniques and innovative processes. Students will design original textiles to be utilized in the development of mini fashion collections and they will develop and construct one piece from the collections into a 3D ensemble.",
+      []
+    ],
+    "ARTS 354": [
+      "Intermediate Painting",
+      {
+        "1": [
+          "69017",
+          [
+            [
+              2,
+              "MW",
+              "330 Art and Design Building",
+              0,
+              [
+                "Bakaletz, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "This studio course introduces students to diverse topics and strategies in historical and contemporary painting, including impasto, collage, and various kinds of abstraction. Students will consider contemporary definitions of painting and explore alternative materials including industrial and craft painting materials, found materials, and newly-available painting media. Students will discuss recent and contemporary conceptual issues in painting.",
+      []
+    ],
+    "ARTS 280": [
+      "Beginning Sculpture",
+      {
+        "1": [
+          "68891",
+          [
+            [
+              6,
+              "TR",
+              "40 Art and Design Building",
+              0,
+              [
+                "Tangas, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "2": [
+          "30760",
+          [
+            [
+              2,
+              "MW",
+              "40 Art and Design Building",
+              0,
+              [
+                "Signa, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to basic concepts, processes, and materials in sculpture, with an emphasis on the relationship among these three aspects of producing works of art. Materials including wood, plaster, and clay will be used additively to fabricate, model and cast forms. Subtractive methods utilizing carving, and the making of meaning via materials, methods and context are also discussed.",
+      []
+    ],
+    "ARTS 299": [
+      "Special Topics in Studio Art",
+      {
+        "LS": [
+          "53716",
+          [
+            [
+              2,
+              "MW",
+              "9 Art and Design Building",
+              0,
+              [
+                "Stirek, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Topics and subject matter to be published in course listings.",
+      []
+    ],
+    "ARTS 351": [
+      "Research and Resources",
+      {
+        "1": [
+          "46822",
+          [
+            [
+              6,
+              "TR",
+              "122 Flagg Hall",
+              0,
+              [
+                "Farish, G",
+                "Montgomery, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Engage in academic and material research while learning about campus resources and material sourcing, conducting research on 2-3 topics for studio projects. A project proposal using this research will focus on the creation of an interdisciplinary artwork. In a format that mimics the self-direction and resilient problem-solving of a professional studio practice, students will procure materials, determine a schedule, find appropriate workspaces, and construct a finished work.",
+      []
+    ],
+    "ARTS 367": [
+      "RAW Photography",
+      {
+        "1": [
+          "78094",
+          [
+            [
+              6,
+              "TR",
+              "340 Art and Design Building",
+              0,
+              [
+                "Ward, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "An advanced Photoshop course for the student interested in a digital approach to Fine Art Photography. Students will explore the use and conversion methods of the RAW digital process, and learn how to extract, control, and enhance digital image files. Over the course of the semester, an effective and personal workflow within the Photoshop environment will be developed. Access to a digital SLR camera is required.",
+      []
+    ],
+    "ARTS 355": [
+      "Composition and Storytelling",
+      {
+        "1": [
+          "78062",
+          [
+            [
+              0,
+              "MW",
+              "312 Art and Design Building",
+              0,
+              [
+                "Peterson, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Explores how to analyze writings and draw out stories element, introduce characters, and communicate overarching narratives and story beats clearly and consistently. Students gain experiences pulling themes and key information from texts including: children’s book prose, interpretive signage, journalistic articles, poetry, scientific journals, and short fiction. Learning activities frame the role of an illustrator as a collaborator whose partnerships can help shape their vision in positive and unexpected ways. Students gain confidence approaching any type of source material and transform it into a powerful visual narrative.",
+      []
+    ],
+    "ARTS 381": [
+      "Intermediate Sculpture",
+      {
+        "1": [
+          "69018",
+          [
+            [
+              4,
+              "TR",
+              "40 Art and Design Building",
+              0,
+              [
+                "Signa, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "This studio course introduces students to diverse topics and strategies in historical and contemporary sculpture, including welding and metal work, working with fibers, and various kinds of additive processes. Students will consider contemporary definitions of sculpture and explore alternative materials including industrial and craft materials, found materials, and newly-available digital media and processes. Students will discuss recent and contemporary conceptual issues in sculpture, and respond to a variety of fabrication assignments.",
+      []
+    ],
+    "ARTS 392": [
+      "Current Art Issues Seminar",
+      {
+        "CB": [
+          "30723",
+          [
+            [
+              1,
+              "R",
+              "331 Art and Design Building",
+              0,
+              [
+                "Bakker, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "CBG": [
+          "75996",
+          [
+            [
+              1,
+              "R",
+              "316 Art and Design Building",
+              0,
+              [
+                "Bianchi Geisse, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Seminar with readings, lectures, discussions on ideas and issues affecting contemporary art. Attendance is required at visiting artists' and scholars' lectures and field trips.",
+      []
+    ],
+    "ARTS 391": [
+      "Independent Study",
+      {
+        "": [
+          "10362",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "FI": [
+          "13086",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Vincenzi, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Directed independent creative activity or research.",
+      []
+    ],
+    "ARTS 405": [
+      "Special Topics in Printmaking",
+      {
+        "G": [
+          "67434",
+          [
+            [
+              3,
+              "MW",
+              "7 Noble Hall",
+              0,
+              [
+                "Montgomery, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "U": [
+          "67435",
+          [
+            [
+              3,
+              "MW",
+              "7 Noble Hall",
+              0,
+              [
+                "Montgomery, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Advanced exploration of specific printmaking processes. Students will develop skills through a progression of projects, while increasing their awareness of conceptual concerns unique to printmaking through discussion and field trips. Projects that relate to work developed in other studio and design areas are encouraged.",
+      []
+    ],
+    "ARTS 420": [
+      "Making Fashion: Apparel Design in Context",
+      {
+        "1": [
+          "72041",
+          [
+            [
+              3,
+              "MW",
+              "315 Art and Design Building",
+              0,
+              [
+                "Becker, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Focuses on developing a personal apparel design process from inspiration to construction through the lens of fashion history and within the context of the current cultural zeitgeist. Concepts covered include: sewing and construction techniques, properties of textiles, fashion illustration, and 20th and 21st century fashion history. Field trips may include visits to the Krannert Art Musuem and the Fashion Study Collection, Columbia College, Chicago. Student ensembles will be juried for acceptance into the end-of-semester Re-Fashioned fashion show.",
+      []
+    ],
+    "ARTS 451": [
+      "BFASA Capstone Studio",
+      {
+        "GM": [
+          "46823",
+          [
+            [
+              2,
+              "MWF",
+              "128 Flagg Hall",
+              0,
+              [
+                "Pokorny, M",
+                "Tomlinson, E",
+                "Ward, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Explores and develops conceptual and aesthetic interests, topics, and projects; expands and refines material knowledge and expertise; develops research strategies and methodologies. Includes individual and group critiques, dynamic interaction with faculty and peers.",
+      []
+    ],
+    "ARTS 465": [
+      "Advanced Illustration",
+      {
+        "1": [
+          "78069",
+          [
+            [
+              2,
+              "MW",
+              "209 Art and Design Building",
+              0,
+              [
+                "Hogin, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Advanced Illustration learning activities, focused through the instructor’s research and creative practice, serve as the base from which students will progress design, composition, and storytelling strategies, and self-directed research practices. Surveys of past and present industry professionals and practices, group and individual discussions, exhibitions, and critique build context and guide students toward the inherent meaning and potential of their work.",
+      []
+    ],
+    "ARTS 461": [
+      "Advanced Photography",
+      {
+        "1": [
+          "71997",
+          [
+            [
+              4,
+              "TR",
+              "129 Flagg Hall",
+              0,
+              [
+                "Fein-Smolinski, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Concentrated use of photographic processes for creative expression with emphasis on professionalism and the production of a photographic portfolio.",
+      []
+    ],
+    "ARTS 499": [
+      "Special Topics in Studio Art",
+      {
+        "A1": [
+          "62127",
+          [
+            [
+              7,
+              "R",
+              "306 Flagg Hall",
+              0,
+              [
+                "Hammie, P"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              6,
+              "T",
+              "306 Flagg Hall",
+              0,
+              [
+                "Hammie, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "A1G": [
+          "60661",
+          [
+            [
+              7,
+              "R",
+              "Location Pending",
+              0,
+              [
+                "Hammie, P"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              6,
+              "T",
+              "Location Pending",
+              0,
+              [
+                "Hammie, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "A2": [
+          "46779",
+          [
+            [
+              8,
+              "F",
+              "306 Flagg Hall",
+              0,
+              [
+                "Hammie, P"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              6,
+              "T",
+              "306 Flagg Hall",
+              0,
+              [
+                "Hammie, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "A2G": [
+          "62096",
+          [
+            [
+              8,
+              "F",
+              "Location Pending",
+              0,
+              [
+                "Hammie, P"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              6,
+              "T",
+              "Location Pending",
+              0,
+              [
+                "Hammie, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "LBG": [
+          "47309",
+          [
+            [
+              2,
+              "MW",
+              "131 Flagg Hall",
+              0,
+              [
+                "Batten, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "LBU": [
+          "46781",
+          [
+            [
+              2,
+              "MW",
+              "131 Flagg Hall",
+              0,
+              [
+                "Batten, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Special topics in studio arts. Topics and subject matter to be published in course listings.",
+      []
+    ],
+    "ARTS 591": [
+      "Graduate Studio",
+      {
+        "": [
+          "10363",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Facilitate and model independently directed practice in the studio arts and related forms of cultural production, as well as the successful navigation of resources and opportunities within and outside of the University.",
+      []
+    ],
+    "ARTS 595": [
+      "Graduate Laboratory",
+      {
+        "": [
+          "10364",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "HL": [
+          "44470",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Hogin, L",
+                "Lingscheit, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "WR": [
+          "13319",
+          [
+            [
+              9,
+              "F",
+              "Location Pending",
+              0,
+              [
+                "Ross, J",
+                "White, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "The aim of the course is to facilitate and model the professional presentation and discursive reception of work in the field of studio art and related practices. This is primarily achieved through the use of formal critiques and studio visits.",
+      []
+    ],
+    "ARTS 593": [
+      "Seminar: Methods Criticism",
+      {
+        "CB": [
+          "13165",
+          [
+            [
+              0,
+              "M",
+              "316 Art and Design Building",
+              0,
+              [
+                "Bakker, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "A graduate-level discussion-based seminar designed to provide a fundamental and critical grounding in contemporary art and theory through readings, discussion, writing, and student presentations. Emphasis will be on helping students locate their studio practices in the context of a research university, the contemporary art world, and community-based models of making and distributing art. Specific themes within this framework will vary by semester.",
+      []
+    ],
+    "ARTS 594": [
+      "Capstone Writing Workshop",
+      {
+        "1": [
+          "78095",
+          [
+            [
+              10,
+              "W",
+              "312 Art and Design Building",
+              0,
+              [
+                "Bianchi Geisse, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "In this course, we will study how artists have used writing as both a primary creative practice and as a supplement to one’s works in the visual/studio/material arts. The final quarter of this course will serve as a writing workshop for students to develop their own writing practice, leading to the completion of a written document to accompany the MFA Thesis Exhibition in service of the MFA in Studio Art degree.",
+      []
+    ]
+  },
   "caches": {
     "periods": [
-      "0900 - 0950",
-      "1000 - 1050",
-      "1100 - 1150",
-      "1200 - 1250",
-      "1300 - 1350",
-      "1400 - 1450",
-      "0930 - 1050",
-      "1230 - 1350",
-      "0000 - 0000",
-      "1600 - 1715",
-      "0930 - 1045",
-      "1400 - 1650",
-      "1100 - 1220",
-      "1500 - 1720",
-      "1400 - 1520",
-      "1600 - 1720",
-      "1400 - 1550",
-      "1400 - 1720",
-      "1300 - 1450",
-      "0900 - 1150",
-      "0800 - 0950",
-      "1500 - 1650",
-      "0900 - 1020",
-      "1400 - 1630",
-      "1500 - 1550",
-      "0800 - 0920",
-      "1530 - 1650",
-      "0800 - 0850",
-      "1700 - 1820",
-      "1530 - 1620",
-      "2000 - 2050",
-      "1500 - 1750",
-      "0800 - 1150",
-      "1300 - 1650",
-      "1200 - 1550",
-      "1230 - 1620",
-      "0830 - 0920",
-      "0900 - 1050",
-      "1100 - 1250",
-      "1500 - 1620",
-      "1700 - 1850",
-      "1200 - 1320",
-      "1600 - 1750",
-      "1600 - 1650",
-      "1000 - 1120",
-      "1130 - 1250",
-      "1300 - 1420",
-      "1030 - 1150",
-      "1600 - 1730",
-      "1330 - 1520",
-      "1530 - 1710",
-      "1230 - 1320",
-      "1430 - 1550",
-      "1630 - 1750",
-      "1730 - 1850",
-      "1730 - 1920",
-      "1530 - 1820",
-      "1000 - 1150",
-      "1700 - 1750",
-      "1100 - 1215",
-      "0800 - 0959",
-      "1530 - 1730",
-      "1500 - 1700",
-      "1700 - 1900",
-      "1730 - 1930",
-      "0600 - 0730",
-      "1700 - 1950",
-      "1500 - 1730",
-      "1200 - 1450",
-      "0930 - 1020",
-      "1730 - 2030",
-      "1300 - 1550",
-      "1730 - 1900",
-      "1830 - 1950",
-      "1100 - 1350",
-      "1800 - 2050",
-      "1030 - 1120",
-      "1430 - 1520",
-      "1630 - 1720",
-      "1130 - 1220",
-      "1300 - 1750",
-      "1300 - 1520",
-      "0930 - 1220",
-      "0800 - 1050",
-      "0930 - 1120",
-      "1200 - 1420",
-      "1800 - 1950",
-      "0900 - 1140",
-      "1300 - 1540",
-      "0930 - 1210",
-      "1400 - 1640",
-      "1330 - 1450",
       "1600 - 1840",
       "1700 - 1940",
-      "1530 - 1800"
+      "1300 - 1540",
+      "0900 - 1140",
+      "1400 - 1640",
+      "0000 - 0000",
+      "0930 - 1210",
+      "1700 - 1820",
+      "1130 - 1250",
+      "1400 - 1700",
+      "0900 - 1150"
     ],
     "dateRanges": [],
     "scheduleTypes": [
-      "Discussion/ Recitation",
-      "Lecture",
-      "Lecture-Discussion",
+      "Studio",
       "Online",
-      "Independent Study",
       "Laboratory",
-      "Online Lecture",
-      "Laboratory-Discussion",
-      "Online Discussion",
       "Conference",
-      "Online Lecture Discussion",
-      "Seminar",
-      "Study Abroad",
-      "Internship",
-      "Research",
+      "Independent Study",
       "Travel",
-      "Studio"
+      "Seminar",
+      "Lecture"
     ],
     "campuses": [],
     "attributes": [],
@@ -127,112 +1321,8 @@
     "gradeBases": [],
     "locations": [
       {
-        "lat": 40.10628,
-        "long": -88.22621
-      },
-      {
-        "lat": 40.1065684,
-        "long": -88.2281746
-      },
-      {
-        "lat": 40.105732,
-        "long": -88.2281018
-      },
-      {
-        "lat": 40.1072225,
-        "long": -88.2262016
-      },
-      {
         "lat": null,
         "long": null
-      },
-      {
-        "lat": 40.1047599,
-        "long": -88.2319514
-      },
-      {
-        "lat": 40.107534,
-        "long": -88.2281548
-      },
-      {
-        "lat": 40.11246109008789,
-        "long": -88.22831726074219
-      },
-      {
-        "lat": 40.1035833,
-        "long": -88.228405
-      },
-      {
-        "lat": 40.1020773,
-        "long": -88.2296394
-      },
-      {
-        "lat": 40.1035872,
-        "long": -88.2306061
-      },
-      {
-        "lat": 40.1034533,
-        "long": -88.2327596
-      },
-      {
-        "lat": 40.0995003,
-        "long": -88.223104
-      },
-      {
-        "lat": 40.101862,
-        "long": -88.231737
-      },
-      {
-        "lat": 40.103587,
-        "long": -88.230606
-      },
-      {
-        "lat": 40.104794,
-        "long": -88.224264
-      },
-      {
-        "lat": 40.107811,
-        "long": -88.2260761
-      },
-      {
-        "lat": 40.1033599,
-        "long": -88.2292111
-      },
-      {
-        "lat": 40.1083446,
-        "long": -88.2282555
-      },
-      {
-        "lat": 40.1108856,
-        "long": -88.2269806
-      },
-      {
-        "lat": 40.1109722,
-        "long": -88.2282631
-      },
-      {
-        "lat": 40.1131317,
-        "long": -88.2264552
-      },
-      {
-        "lat": 40.1149296,
-        "long": -88.2280589
-      },
-      {
-        "lat": 40.111691,
-        "long": -88.2242511
-      },
-      {
-        "lat": 40.1110937,
-        "long": -88.2232348
-      },
-      {
-        "lat": 40.1149521,
-        "long": -88.2267561
-      },
-      {
-        "lat": 40.1028373,
-        "long": -88.2251326
       }
     ],
     "finalDates": [],

@@ -1,0 +1,3943 @@
+{
+  "subject": "CEE",
+  "scrapedAt": 1768434235925,
+  "courseCount": 51,
+  "courses": {
+    "CEE 330": [
+      "Environmental Engineering",
+      {
+        "ONL": [
+          "75997",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Horowitz, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "PQ": [
+          "31700",
+          [
+            [
+              20,
+              "TR",
+              "1017 Civil & Envir Eng Bldg",
+              0,
+              [
+                "Horowitz, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          9,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Sources, characteristics, transport, and effects of air and water contaminants; biological, chemical, and physical processes in water; atmospheric structure and composition; unit operations for air and water quality control; solid waste management; environmental quality standards.",
+      []
+    ],
+    "CEE 320": [
+      "Construction Engineering",
+      {
+        "LM": [
+          "31698",
+          [
+            [
+              28,
+              "TR",
+              "1310 Newmark Civil Engineering Bldg",
+              0,
+              [
+                "Golparvar Fard, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "ONC": [
+          "73615",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Golparvar Fard, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Construction engineering processes: contracting and bonding, planning and scheduling, estimating and project control, productivity models, and construction econometrics.",
+      []
+    ],
+    "CEE 202": [
+      "Engineering Risk & Uncertainty",
+      {
+        "E": [
+          "31708",
+          [
+            [
+              19,
+              "TR",
+              "1310 Newmark Civil Engineering Bldg",
+              0,
+              [
+                "Tessum, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          9,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Identification and modeling of non-deterministic problems in civil engineering design and decision making integrated with the computational tool R. Introductory course on development of stochastic concepts and simulation models with application to design and decision problems in various areas of civil engineering.",
+      []
+    ],
+    "CEE 300": [
+      "Behavior of Materials",
+      {
+        "AB1": [
+          "36257",
+          [
+            [
+              54,
+              "M",
+              "201 Talbot Laboratory",
+              0,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "AB2": [
+          "36258",
+          [
+            [
+              30,
+              "M",
+              "201 Talbot Laboratory",
+              0,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "AB3": [
+          "36259",
+          [
+            [
+              69,
+              "T",
+              "201 Talbot Laboratory",
+              0,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "AB4": [
+          "36260",
+          [
+            [
+              54,
+              "W",
+              "201 Talbot Laboratory",
+              0,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "AB5": [
+          "39839",
+          [
+            [
+              70,
+              "W",
+              "201 Talbot Laboratory",
+              0,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "AB6": [
+          "53044",
+          [
+            [
+              69,
+              "R",
+              "201 Talbot Laboratory",
+              0,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "AB7": [
+          "54749",
+          [
+            [
+              56,
+              "F",
+              "201 Talbot Laboratory",
+              0,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "AE1": [
+          "36261",
+          [
+            [
+              17,
+              "MWF",
+              "1310 Newmark Civil Engineering Bldg",
+              0,
+              [
+                "Popovics, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          9,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Macroscopic mechanical behavior in terms of phenomena at the nanometer and micrometer levels for the three types of engineering materials (metals, ceramics, and polymers) with emphasis on specific materials used in civil engineering -- steel, rocks, clay, portland cement concrete, asphaltic concrete, and wood.",
+      []
+    ],
+    "CEE 201": [
+      "Systems Engrg & Economics",
+      {
+        "NP": [
+          "31707",
+          [
+            [
+              13,
+              "TR",
+              "1310 Newmark Civil Engineering Bldg",
+              0,
+              [
+                "Kontou, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          9,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to the formulation and solution of optimization problems in civil engineering from a quantitative economics-based perspective, integrated with the computational tool Python. Topics include engineering economics, classical optimization, linear and integer programming, network optimization problems, critical path methods, and decision theory.",
+      []
+    ],
+    "CEE 410": [
+      "Railway Signaling & Control",
+      {
+        "ONC": [
+          "71006",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Barkan, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "60842",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Barkan, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "RO3": [
+          "51457",
+          [
+            [
+              71,
+              "MW",
+              "2312 Newmark Civil Engineering Bldg",
+              0,
+              [
+                "Barkan, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "RO4": [
+          "52965",
+          [
+            [
+              71,
+              "MW",
+              "2312 Newmark Civil Engineering Bldg",
+              0,
+              [
+                "Barkan, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          9,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Railway traffic control and signaling systems; train performance and scheduling tools; analysis of temporal and spatial separation of trains for safety and efficiency; train movement authority and operating rules, track circuit and wireless train position monitoring technology; interlocking design; railroad capacity modeling tools; economic analysis of traffic control system design, optimization, and selection. Field trip to observe signal system infrastructure and railway traffic operations control center.",
+      []
+    ],
+    "CEE 380": [
+      "Geotechnical Engineering",
+      {
+        "B": [
+          "31705",
+          [
+            [
+              28,
+              "TR",
+              "1017 Civil & Envir Eng Bldg",
+              0,
+              [
+                "Stark, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          9,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Classification of soils, compaction in the laboratory and in the field, soil exploration, boring and sampling, permeability of soils, one-dimensional settlement analyses, strength of soil, and foundations.",
+      []
+    ],
+    "CEE 360": [
+      "Structural Engineering",
+      {
+        "B": [
+          "31702",
+          [
+            [
+              21,
+              "MWF",
+              "1310 Newmark Civil Engineering Bldg",
+              0,
+              [
+                "Cha, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          9,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Analysis, behavior, and design of trusses and framed structures under static loads; member forces in trusses, shear and moment diagrams, deflections, simple applications of the force method and slope-deflection; computer applications.",
+      []
+    ],
+    "CEE 350": [
+      "Water Resources Engineering",
+      {
+        "F": [
+          "31701",
+          [
+            [
+              23,
+              "MWF",
+              "1017 Civil & Envir Eng Bldg",
+              0,
+              [
+                "Stillwell, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          9,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Quantitative aspects of water in the earth's environment and its engineering implications, including design and analysis of systems directly concerned with use and control of water; quantitative introduction to hydrology, hydraulic engineering, and water resources planning.",
+      []
+    ],
+    "CEE 310": [
+      "Transportation Engineering",
+      {
+        "D": [
+          "31699",
+          [
+            [
+              22,
+              "MWF",
+              "1017 Civil & Envir Eng Bldg",
+              0,
+              [
+                "Hajj, R",
+                "Lehe, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          9,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Design, planning, operation, management, and maintenance of transportation systems; integrated multi-modal transportation systems (highways, air, rail, etc.); layout of highways, airports, and railroads with traffic flow models, capacity analysis, and safety. Design of facilities and systems with life cycle costing procedures and criteria for optimization.",
+      []
+    ],
+    "CEE 415": [
+      "Geometric Design of Roads",
+      {
+        "ONC": [
+          "77561",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Schmidt, A",
+                "Talebpour, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "60850",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Schmidt, A",
+                "Talebpour, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "TW": [
+          "31716",
+          [
+            [
+              44,
+              "MWF",
+              "2311 Newmark Civil Engineering Bldg",
+              0,
+              [
+                "Schmidt, A",
+                "Talebpour, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          9,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Highway classification; analysis of factors in developing a transportation facility; highway geometrics design and safety standards; roadway design element; human factors in roadway design; roadway location principles; intersection, interchange, and ramp design; drainage factors.",
+      []
+    ],
+    "CEE 438": [
+      "Science & Environmental Policy",
+      {
+        "G": [
+          "63664",
+          [
+            [
+              20,
+              "MW",
+              "3019 Civil & Envir Eng Bldg",
+              0,
+              [
+                "Koloutsou-Vakakis, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "ONC": [
+          "73475",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Koloutsou-Vakakis, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "73343",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Koloutsou-Vakakis, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Environmental treaties, the role of science and scientists in managing the national and global environment, effective science communication, scientific assessments, and the use of quantitative tools to inform policy decisions.",
+      []
+    ],
+    "CEE 411": [
+      "RR Project Design & Constr",
+      {
+        "ONC": [
+          "71007",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Edwards, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "57664",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Edwards, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "RR3": [
+          "56997",
+          [
+            [
+              19,
+              "TR",
+              "1311 Newmark Civil Engineering Bldg",
+              0,
+              [
+                "Edwards, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "RR4": [
+          "56998",
+          [
+            [
+              19,
+              "TR",
+              "1311 Newmark Civil Engineering Bldg",
+              0,
+              [
+                "Edwards, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          9,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Critical elements in the development and planning of railroad construction projects; project economic justification; route alternative analysis procedures; cost estimation; site civil design; computer-aided track design; surveying; construction management; construction procedures for typical railroad projects. Design project covering a typical railroad capital construction projects. Field trip to observe the construction of a railroad capital project.",
+      []
+    ],
+    "CEE 419": [
+      "Transportation Economics",
+      {
+        "ONC": [
+          "76136",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Lehe, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "75143",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Lehe, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "TE": [
+          "75142",
+          [
+            [
+              71,
+              "MW",
+              "2311 Newmark Civil Engineering Bldg",
+              0,
+              [
+                "Lehe, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          9,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Uses analytical and numerical models of decision-making to analyze phenomena such as traffic congestion, apply vocabulary and techniques from economics, and to explore ways to provide and regulate transportation. Students will write Python code for optimization, simulation, visualization and choice modelling. Engineers will gain from learning to think rigorously about the fact that the humans in the systems they design make their own choices.",
+      []
+    ],
+    "CEE 437": [
+      "Water Quality Engineering",
+      {
+        "F": [
+          "31720",
+          [
+            [
+              28,
+              "TR",
+              "3310 Newmark Civil Engineering Bldg",
+              0,
+              [
+                "Nguyen, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "ONC": [
+          "70860",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Nguyen, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "65756",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Nguyen, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Fundamental theory underlying the unit processes utilized in the treatment of water for domestic and industrial usage, and in the treatment of domestic and industrial wastewaters.",
+      []
+    ],
+    "CEE 421": [
+      "Construction Planning",
+      {
+        "LM3": [
+          "31712",
+          [
+            [
+              34,
+              "TR",
+              "1310 Newmark Civil Engineering Bldg",
+              0,
+              [
+                "Ignacio, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "LM4": [
+          "31713",
+          [
+            [
+              34,
+              "TR",
+              "1310 Newmark Civil Engineering Bldg",
+              0,
+              [
+                "Ignacio, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "ONC": [
+          "68028",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Ignacio, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "57666",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Ignacio, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Project definition; scheduling and control models; material, labor, and equipment allocation; optimal schedules; project organization; documentation and reporting systems; management and control.",
+      []
+    ],
+    "CEE 420": [
+      "Construction Productivity",
+      {
+        "3": [
+          "39554",
+          [
+            [
+              18,
+              "TR",
+              "1310 Newmark Civil Engineering Bldg",
+              0,
+              [
+                "Ignacio, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "4": [
+          "39555",
+          [
+            [
+              18,
+              "TR",
+              "1310 Newmark Civil Engineering Bldg",
+              0,
+              [
+                "Ignacio, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "ONC": [
+          "68027",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Ignacio, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "57665",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Ignacio, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Application of scientific principles to the measurement and forecasting of productivity in construction engineering. Conceptual and mathematical formulation of labor, equipment, and material factors affecting productivity.",
+      []
+    ],
+    "CEE 418": [
+      "Public Transportation Systems",
+      {
+        "ONC": [
+          "68213",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Ouyang, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "64160",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Ouyang, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "PT3": [
+          "63803",
+          [
+            [
+              18,
+              "TR",
+              "3310 Newmark Civil Engineering Bldg",
+              0,
+              [
+                "Ouyang, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "PT4": [
+          "63804",
+          [
+            [
+              18,
+              "TR",
+              "3310 Newmark Civil Engineering Bldg",
+              0,
+              [
+                "Ouyang, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          9,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Transit systems basics, demand issues, design standards, economic and sustainability implications. Transit service planning for shuttle, corridor, and network systems, hybrid hierarchical systems, paratransit and demand-responsive services. Management of transit systems, fleet operations, and crew scheduling. Operational issues, vehicle movement, headway and schedule control.",
+      []
+    ],
+    "CEE 440": [
+      "Fate Cleanup Environ Pollutant",
+      {
+        "NP": [
+          "31718",
+          [
+            [
+              19,
+              "MW",
+              "3310 Newmark Civil Engineering Bldg",
+              0,
+              [
+                "Wei, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "ONC": [
+          "69549",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Wei, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "45291",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Wei, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Investigation of the regulatory and technical issues affecting solid and hazardous waste management, with an emphasis on the principles governing the transport, fate, and remediation of solid and hazardous waste in the subsurface, including advection, dispersion, sorption, interphase mass transfer, and transformation reactions.",
+      []
+    ],
+    "CEE 449": [
+      "Environmental Engineering Lab",
+      {
+        "AB1": [
+          "31717",
+          [
+            [
+              72,
+              "T",
+              "3019 Civil & Envir Eng Bldg",
+              0,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              16,
+              "TR",
+              "3019 Civil & Envir Eng Bldg",
+              0,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "AB2": [
+          "77233",
+          [
+            [
+              72,
+              "R",
+              "3019 Civil & Envir Eng Bldg",
+              0,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              16,
+              "TR",
+              "3019 Civil & Envir Eng Bldg",
+              0,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Traditional analysis tools and techniques in analysis, control, and design of natural and engineered environmental systems including air, water, wastewater, solid and hazardous waste, and ecological systems.",
+      []
+    ],
+    "CEE 452": [
+      "Hydraulic Analysis and Design",
+      {
+        "C": [
+          "31727",
+          [
+            [
+              44,
+              "TR",
+              "2015 Civil & Envir Eng Bldg",
+              0,
+              [
+                "Schmidt, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "ONC": [
+          "70861",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Schmidt, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "69614",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Schmidt, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Hydraulic analysis and design of engineering systems: closed conduits and pipe networks; hydraulic structures, including spillways, stilling basins, and embankment seepage; selection and installation of hydraulic machinery.",
+      []
+    ],
+    "CEE 462": [
+      "Steel Structures II",
+      {
+        "3": [
+          "62000",
+          [
+            [
+              20,
+              "TR",
+              "2311 Newmark Civil Engineering Bldg",
+              0,
+              [
+                "Fahnestock, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "4": [
+          "62001",
+          [
+            [
+              20,
+              "TR",
+              "2311 Newmark Civil Engineering Bldg",
+              0,
+              [
+                "Fahnestock, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "ONC": [
+          "68031",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Fahnestock, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "62439",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Fahnestock, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Metal members under combined loads; connections, welded and bolted; moment-resistant connections; plate girders, conventional behavior, and tension field action.",
+      []
+    ],
+    "CEE 453": [
+      "Urban Hydrology and Hydraulics",
+      {
+        "ONC": [
+          "78221",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Schmidt, A",
+                "Talebpour, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "44664",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Schmidt, A",
+                "Talebpour, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "TW": [
+          "31728",
+          [
+            [
+              44,
+              "MWF",
+              "2311 Newmark Civil Engineering Bldg",
+              0,
+              [
+                "Schmidt, A",
+                "Talebpour, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          9,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Hydraulic analysis and design of urban, highway, airport, and small rural watershed drainage problems; discussion of overland and drainage channel flows; hydraulics of storm-drain systems and culverts; determination of design flow; runoff for highways, airports, and urban areas; design of drainage gutters, channels, sewer networks, and culverts.",
+      []
+    ],
+    "CEE 465": [
+      "Design of Structural Systems",
+      {
+        "TW3": [
+          "31731",
+          [
+            [
+              54,
+              "MW",
+              "3310 Newmark Civil Engineering Bldg",
+              0,
+              [
+                "Sychterz, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          9,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Examination of the whole structural design process including definition of functional requirements, selection of structural scheme, formulation of design criteria, preliminary and computer-aided proportioning, and analysis of response, cost, and value.",
+      []
+    ],
+    "CEE 484": [
+      "Applied Soil Mechanics",
+      {
+        "F": [
+          "31737",
+          [
+            [
+              23,
+              "MWF",
+              "2310 Newmark Civil Engineering Bldg",
+              0,
+              [
+                "Olson, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "ONC": [
+          "74941",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Olson, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "65757",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Olson, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Application of soil mechanics to earth pressures and retaining walls, stability of slopes, foundations for structures, excavations; construction considerations; instrumentation.",
+      []
+    ],
+    "CEE 474": [
+      "Mechanics of Additive Manufacturing",
+      {
+        "AM3": [
+          "73604",
+          [
+            [
+              13,
+              "MW",
+              "3019 Civil & Envir Eng Bldg",
+              0,
+              [
+                "Masud, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "AM4": [
+          "73605",
+          [
+            [
+              13,
+              "MW",
+              "3019 Civil & Envir Eng Bldg",
+              0,
+              [
+                "Masud, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "78445",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Masud, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to process physics for additive manufacturing (AM); Basic materials science for AM, cement-based materials, polymer-based materials. Fundamental mechanics principles involved in layered additive manufacturing; Mathematical models for AM, transport phenomena and flow modeling, curing and property evolution, residual stresses and fatigue effects; Introduction to the Role of Robotics, Machine Learning and Data Science in modern AM.",
+      []
+    ],
+    "CEE 461": [
+      "Reinforced Concrete I",
+      {
+        "NP": [
+          "31704",
+          [
+            [
+              54,
+              "TR",
+              "2311 Newmark Civil Engineering Bldg",
+              0,
+              [
+                "Henschen, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "ONC": [
+          "73258",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Henschen, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Strength, behavior, and design of reinforced concrete members subjected to moments, shear, and axial forces; emphasis on the influence of the material properties on behavior.",
+      []
+    ],
+    "CEE 470": [
+      "Structural Analysis",
+      {
+        "ONC": [
+          "68033",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Duarte, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "60847",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Duarte, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "RS": [
+          "31729",
+          [
+            [
+              30,
+              "MW",
+              "3310 Newmark Civil Engineering Bldg",
+              0,
+              [
+                "Duarte, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          9,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Direct stiffness method of structural analysis; fundamentals and algorithms; numerical analysis of plane trusses, grids and frames; virtual work and energy principles; finite element method for plane stress and plane strain.",
+      []
+    ],
+    "CEE 460": [
+      "Steel Structures I",
+      {
+        "LM": [
+          "31703",
+          [
+            [
+              56,
+              "TR",
+              "2311 Newmark Civil Engineering Bldg",
+              0,
+              [
+                "Henschen, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          9,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to the design of metal structures; behavior of members and their connections; theoretical, experimental, and practical bases for proportioning members and their connections.",
+      []
+    ],
+    "CEE 490": [
+      "Computer Methods",
+      {
+        "3": [
+          "73039",
+          [
+            [
+              20,
+              "WF",
+              "1311 Newmark Civil Engineering Bldg",
+              0,
+              [
+                "Yan, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "4": [
+          "73040",
+          [
+            [
+              20,
+              "WF",
+              "1311 Newmark Civil Engineering Bldg",
+              0,
+              [
+                "Yan, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "73262",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Yan, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Computer methods and their programming for solving common types of differential equations arising in civil and environmental engineering (hyperbolic, parabolic, and elliptic equations, with emphasis on prototypical cases, such as the convection-diffusion equation, as well as Laplace’s / Poisson’s equation). Exposure to state-of-the-art open-source numerical methods libraries. The course enables students in civil and environmental engineering to develop high-performance and high-purpose codes in these open-source frameworks for their research problems in an efficient way.",
+      []
+    ],
+    "CEE 491": [
+      "Decision and Risk Analysis",
+      {
+        "D3": [
+          "31740",
+          [
+            [
+              19,
+              "TR",
+              "2311 Newmark Civil Engineering Bldg",
+              0,
+              [
+                "Gardoni, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "D4": [
+          "44798",
+          [
+            [
+              19,
+              "TR",
+              "2311 Newmark Civil Engineering Bldg",
+              0,
+              [
+                "Gardoni, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "57668",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Gardoni, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Development of modern statistical decision theory and risk analysis, and application of these concepts in civil engineering design and decision making; Bayesian statistical decision theory, decision tree, utility concepts, and multi-objective decision problems; modeling and analysis of uncertainties, practical risk evaluation, and formulation of risk-based design criteria, risk benefit trade-offs, and optimal decisions.",
+      []
+    ],
+    "CEE 498": [
+      "Special Topics",
+      {
+        "CDR": [
+          "59029",
+          [
+            [
+              44,
+              "TR",
+              "3019 Civil & Envir Eng Bldg",
+              0,
+              [
+                "Barros, A",
+                "Koloutsou-Vakakis, S",
+                "Lombardo, F",
+                "Ouyang, Y",
+                "Stillwell, A",
+                "Van Riper, C",
+                "Verma, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "MLC": [
+          "50877",
+          [
+            [
+              18,
+              "TR",
+              "2015 Civil & Envir Eng Bldg",
+              0,
+              [
+                "Meidani, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "MLO": [
+          "59147",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Meidani, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "MOC": [
+          "49381",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Meidani, H",
+                "Zhong, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Subject offerings of new and developing areas of knowledge in civil and environmental engineering intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites.",
+      []
+    ],
+    "CEE 502": [
+      "Advanced Cement Chemistry",
+      {
+        "B": [
+          "53026",
+          [
+            [
+              28,
+              "MW",
+              "2312 Newmark Civil Engineering Bldg",
+              0,
+              [
+                "Garg, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "73346",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Garg, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Advanced topics in chemistry of portland cement, chemistry and microstructure of cements, chemical reactions that lead to hardening, chemistry and microstructure of hydrated cements, effects of chemical and mineral admixtures, and chemical issues involved in the engineering behavior of the cements.",
+      []
+    ],
+    "CEE 497": [
+      "Independent Study",
+      {
+        "": [
+          "10474",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Individual investigations or studies of any phase of civil engineering selected by the student and approved by the department.",
+      []
+    ],
+    "CEE 553": [
+      "River Morphodynamics",
+      {
+        "G": [
+          "58731",
+          [
+            [
+              20,
+              "TR",
+              "1311 Newmark Civil Engineering Bldg",
+              0,
+              [
+                "Ma, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "73266",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Ma, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "River morphology and characteristics of river sediment. Response of alluvial and bedrock rivers to changes in sediment supply, hydrology, and tectonics. Numerical modeling of river morphodynamics in gravel and sand bed rivers and deltas.",
+      []
+    ],
+    "CEE 505": [
+      "Transportation Soil Stabilization",
+      {
+        "ONL": [
+          "74727",
+          [
+            [
+              13,
+              "TR",
+              "ONLINE",
+              0,
+              [
+                "Tutumluer, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "TS": [
+          "74726",
+          [
+            [
+              13,
+              "TR",
+              "1311 Newmark Civil Engineering Bldg",
+              0,
+              [
+                "Tutumluer, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          9,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Aims to introduce theory, techniques and applications of chemical and mechanical stabilization of soils and aggregates used in construction and maintenance of roads, railroads, and airfields. Chemical stabilization includes use of lime, cement, fly ash, and emulsions as compaction aids to soils, as binders and water repellents, to treat weak soils and aggregates. Mechanical stabilization deals with the use of non-biodegradable reinforcement, such as geosynthetics and fibers, to improve strength and stiffness.",
+      []
+    ],
+    "CEE 528": [
+      "Construction Data Modeling",
+      {
+        "ONC": [
+          "73580",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "El-Gohary, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "73263",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "El-Gohary, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "RS": [
+          "50048",
+          [
+            [
+              20,
+              "TR",
+              "3310 Newmark Civil Engineering Bldg",
+              0,
+              [
+                "El-Gohary, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          9,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "State-of-the-art research and literature in the construction data modeling domain. Fundamental techniques of construction data modeling; existing construction data representation approaches and specifications for the architecture, engineering, and construction domain; building information models; capabilities and limitation of data process models and representation approaches and techniques.",
+      []
+    ],
+    "CEE 554": [
+      "Hydrologic Variability",
+      {
+        "B": [
+          "61986",
+          [
+            [
+              25,
+              "MWF",
+              "1311 Newmark Civil Engineering Bldg",
+              0,
+              [
+                "Sivapalan, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "73267",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Sivapalan, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Advanced quantitative treatment of catchment hydrology, focusing on analysis of observed hydrologic and hydroclimatic variability, and their interpretation in terms of the underlying processes. Concepts of heterogeneity and variability, scale and scaling, process change and process interactions will be emphasized. Theoretical foundations of hydrologic applications, such as flood estimation, water balance analyses, hydrologic modeling and associated scale problems will be discussed in sufficient detail to prepare students to undertake advanced research and professional practice.",
+      []
+    ],
+    "CEE 555": [
+      "Mixing in Environmental Flows",
+      {
+        "J": [
+          "46472",
+          [
+            [
+              37,
+              "MW",
+              "2015 Civil & Envir Eng Bldg",
+              0,
+              [
+                "Tinoco Lopez, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "ONC": [
+          "78469",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Tinoco Lopez, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "68358",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Tinoco Lopez, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Physical processes involved in transport of pollutants by water; turbulent diffusion and longitudinal dispersion in rivers, pipes, lakes, and the ocean; diffusion in turbulent jets, buoyant jets, and plumes.",
+      []
+    ],
+    "CEE 538": [
+      "Water Quality Control Proc II",
+      {
+        "C": [
+          "31746",
+          [
+            [
+              54,
+              "MW",
+              "1311 Newmark Civil Engineering Bldg",
+              0,
+              [
+                "Mei, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "ONC": [
+          "77385",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Mei, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "65760",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Mei, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Theory and its application for design and operation of processes used in water and wastewater treatment; emphasis is on biological treatment processes and related processes for gas transfer, sludge dewatering, sludge disposal, and solids separations.",
+      []
+    ],
+    "CEE 556": [
+      "Hydrocomplexity",
+      {
+        "HC": [
+          "73269",
+          [
+            [
+              13,
+              "TR",
+              "2312 Newmark Civil Engineering Bldg",
+              0,
+              [
+                "Matthews, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "73270",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Matthews, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Application of complex system science to water cycle and related processes in the atmosphere, ecosystems, critical zone and human systems. The course covers analytical and data driven approaches for characterization and understanding of non-linear systems, feedbacks and causality, chaos and fractals, complex network science, and emergent behavior. The course emphasizes emerging research frontiers along with traditional foundations through analytical understanding of non-linear dynamical systems, and their identification and characterization from observations.",
+      []
+    ],
+    "CEE 560": [
+      "Steel Structures III",
+      {
+        "LM": [
+          "50049",
+          [
+            [
+              34,
+              "TR",
+              "2310 Newmark Civil Engineering Bldg",
+              0,
+              [
+                "LaFave, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "65925",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "LaFave, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Theories of ultimate behavior of metal structural members with emphasis on buckling and stability of members and frames; theory of torsion applied to beam torsion, lateral-torsional buckling, curved beams with emphasis on design criteria; post-buckling strength of plates and post-buckling versus column behavior.",
+      []
+    ],
+    "CEE 557": [
+      "Groundwater Modeling",
+      {
+        "D": [
+          "39559",
+          [
+            [
+              31,
+              "MW",
+              "2015 Civil & Envir Eng Bldg",
+              0,
+              [
+                "Tartakovsky, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "73272",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Tartakovsky, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Theory and application of numerical methods, finite differences and finite element, for solving the equations of groundwater flow and solute transport; transport of chemically reacting solutes; model calibration and verification.",
+      []
+    ],
+    "CEE 592": [
+      "Sustainable Urban Systems",
+      {
+        "D": [
+          "61987",
+          [
+            [
+              18,
+              "TR",
+              "1311 Newmark Civil Engineering Bldg",
+              0,
+              [
+                "Zhao, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "ONC": [
+          "69551",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Zhao, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "62641",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Zhao, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Fundamental concepts of sustainability and resilience in urban systems, including the complex interactions among human, engineered, and natural systems. Project-based format, focusing on real-world problems solicited from government agencies, industry, and non-governmental organizations in one or more partnering cities. Students work in multidisciplinary teams with faculty advisors from multiple departments and colleges.",
+      []
+    ],
+    "CEE 562": [
+      "Highway Bridge Design",
+      {
+        "BA": [
+          "69344",
+          [
+            [
+              13,
+              "TR",
+              "1017 Civil & Envir Eng Bldg",
+              0,
+              [
+                "Andrawes, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "69345",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Andrawes, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "This course introduces current practices in highway bridge design. It provides students with the background to understand the American Association of State Highway and Transportation Officials (AASHTO) code. The course covers topics related the behavior, analysis, and design of bridge superstructure and substructure systems under various bridge loads. The course specifically addresses highway bridge types constructed using reinforced concrete, prestressed concrete, and steel. In addition, the course gets the students familiar with state-of-art methodologies adopted for bridge seismic retrofitting.",
+      []
+    ],
+    "CEE 558": [
+      "Environmental Hydrodynamics: Modeling of Boundary-layer Flows in Rivers, Lakes and Oceans",
+      {
+        "MG": [
+          "78144",
+          [
+            [
+              20,
+              "MW",
+              "2015 Civil & Envir Eng Bldg",
+              0,
+              [
+                "Garcia, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "78145",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Garcia, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to dynamics, control, and modeling of flows in natural aquatic environments in the presence of space and time variations in density stratification caused by temperature, salinity, and suspended particles. Tools include scaling, dimensional analysis and turbulent boundary-layer theory leading to integral methods for solving flows such as plumes, density currents, thermal pollution, lake stratification, air-entrainment in spillways and salt wedges in estuaries. Integral methods are used to obtain engineering solutions followed by numerical modeling of turbulent boundary-layer flows in rivers, lakes and oceans.",
+      []
+    ],
+    "CEE 595": [
+      "Seminar",
+      {
+        "AG": [
+          "31753",
+          [
+            [
+              21,
+              "F",
+              "2311 Newmark Civil Engineering Bldg",
+              0,
+              [
+                "Koloutsou-Vakakis, S",
+                "Mei, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "AGO": [
+          "31756",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Koloutsou-Vakakis, S",
+                "Mei, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "F": [
+          "31755",
+          [
+            [
+              22,
+              "F",
+              "3310 Newmark Civil Engineering Bldg",
+              0,
+              [
+                "Olson, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "FO": [
+          "78294",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Olson, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "MA": [
+          "55645",
+          [
+            [
+              22,
+              "F",
+              "1311 Newmark Civil Engineering Bldg",
+              0,
+              [
+                "Popovics, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "MAO": [
+          "78295",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Popovics, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "S": [
+          "31757",
+          [
+            [
+              73,
+              "M",
+              "1310 Newmark Civil Engineering Bldg",
+              0,
+              [
+                "Lopez-Pamies, O"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "SO": [
+          "62386",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Lopez-Pamies, O"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "SRM": [
+          "60516",
+          [
+            [
+              16,
+              "M",
+              "1310 Newmark Civil Engineering Bldg",
+              0,
+              [
+                "Andrawes, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "SRO": [
+          "59920",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Andrawes, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "SRS": [
+          "58379",
+          [
+            [
+              16,
+              "M",
+              "1310 Newmark Civil Engineering Bldg",
+              0,
+              [
+                "Sychterz, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "SUO": [
+          "60515",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Sychterz, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "T": [
+          "31754",
+          [
+            [
+              23,
+              "R",
+              "Location Pending",
+              0,
+              [
+                "Al-Qadi, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "TO": [
+          "78296",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Al-Qadi, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "W": [
+          "31758",
+          [
+            [
+              16,
+              "F",
+              "1017 Civil & Envir Eng Bldg",
+              0,
+              [
+                "Ma, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "WO": [
+          "78297",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Konar, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Discussion of current topics in civil and environmental engineering and related fields by staff, students, and visiting lecturers.",
+      []
+    ],
+    "CEE 570": [
+      "Finite Element Methods",
+      {
+        "D": [
+          "31749",
+          [
+            [
+              18,
+              "MW",
+              "2311 Newmark Civil Engineering Bldg",
+              0,
+              [
+                "Lopez-Pamies, O"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "ONC": [
+          "68128",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Lopez-Pamies, O"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "60854",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Lopez-Pamies, O"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Theory and application of the finite element method; stiffness matrices for triangular, quadrilateral, and isoparametric elements; two- and three-dimensional elements; algorithms necessary for the assembly and solution; direct stress and plate bending problems for static, nonlinear buckling and dynamic load conditions; displacement, hybrid, and mixed models together with their origin in variational methods.",
+      []
+    ],
+    "CEE 598": [
+      "Special Topics",
+      {
+        "ET": [
+          "31761",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Edwards, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "ETO": [
+          "57673",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Edwards, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "RVD": [
+          "59655",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Barkan, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "RVO": [
+          "41685",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Barkan, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "SD": [
+          "49530",
+          [
+            [
+              28,
+              "TR",
+              "1311 Newmark Civil Engineering Bldg",
+              0,
+              [
+                "Spencer, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "SDO": [
+          "48384",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Spencer, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "TB": [
+          "46695",
+          [
+            [
+              74,
+              "TR",
+              "Location Pending",
+              0,
+              [
+                "Pawlikowski, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "TBC": [
+          "50278",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Pawlikowski, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "TBO": [
+          "50283",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Pawlikowski, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Subject offerings of new and developing areas of knowledge in civil and environmental engineering intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites.",
+      []
+    ],
+    "CEE 593": [
+      "Tunneling in Soil and Rock",
+      {
+        "G": [
+          "73052",
+          [
+            [
+              34,
+              "TR",
+              "1311 Newmark Civil Engineering Bldg",
+              0,
+              [
+                "Hashash, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "73277",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Hashash, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "History of development of tunneling design and methods. Relationship of geology on anticipated ground response to tunneling. Study of tunneling methods unique to tunnels in soil, tunnels in rock, caverns in soils and caverns in rock. Analysis approaches for tunnels in soils and rock. Geotechnical Baselines report and other risk allocation tools for tunnel construction. Case histories of tunneling projects.",
+      []
+    ],
+    "CEE 597": [
+      "Independent Study",
+      {
+        "": [
+          "10476",
+          [
+            [
+              5,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Individual investigations or studies of any phase of civil engineering selected by the student and approved by the adviser and the staff member who will supervise the investigation.",
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "1600 - 1840",
+      "1700 - 1940",
+      "1300 - 1540",
+      "0900 - 1140",
+      "1400 - 1640",
+      "0000 - 0000",
+      "0930 - 1210",
+      "1700 - 1820",
+      "1130 - 1250",
+      "1400 - 1700",
+      "0900 - 1150",
+      "0800 - 0850",
+      "0900 - 0950",
+      "0930 - 1050",
+      "1030 - 1150",
+      "0900 - 1020",
+      "1200 - 1250",
+      "1300 - 1350",
+      "1100 - 1220",
+      "1230 - 1350",
+      "1400 - 1520",
+      "1000 - 1050",
+      "1100 - 1150",
+      "1400 - 1450",
+      "1500 - 1550",
+      "1600 - 1650",
+      "1200 - 1320",
+      "1500 - 1620",
+      "1530 - 1650",
+      "1630 - 1750",
+      "1400 - 1550",
+      "1600 - 1750",
+      "1300 - 1420",
+      "1930 - 2050",
+      "0800 - 0920",
+      "0930 - 1020",
+      "1700 - 1950",
+      "1100 - 1250",
+      "1700 - 1750",
+      "1530 - 1820",
+      "0800 - 1050",
+      "1300 - 1550",
+      "0930 - 1220",
+      "1830 - 2020",
+      "1500 - 1650",
+      "1400 - 1720",
+      "0900 - 1220",
+      "1300 - 1620",
+      "1200 - 1450",
+      "1100 - 1450",
+      "1500 - 1850",
+      "1400 - 1650",
+      "1600 - 1850",
+      "0900 - 1050",
+      "1000 - 1150",
+      "1000 - 1120",
+      "0800 - 0950",
+      "0800 - 1150",
+      "1300 - 1520",
+      "1530 - 1645",
+      "1100 - 1215",
+      "1400 - 1515",
+      "1700 - 1815",
+      "1830 - 1945",
+      "0930 - 1045",
+      "1230 - 1345",
+      "1530 - 1620",
+      "1630 - 1720",
+      "1600 - 1740",
+      "1200 - 1350",
+      "1800 - 1950",
+      "1330 - 1450",
+      "1300 - 1450",
+      "1600 - 1720",
+      "1830 - 1950"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Studio",
+      "Online",
+      "Laboratory",
+      "Conference",
+      "Independent Study",
+      "Travel",
+      "Seminar",
+      "Lecture",
+      "Discussion/ Recitation",
+      "Lecture-Discussion",
+      "Internship",
+      "Online Discussion",
+      "Online Lecture",
+      "Online Lab",
+      "Laboratory-Discussion",
+      "Research",
+      "Practice",
+      "Study Abroad"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.11246109008789,
+        "long": -88.22831726074219
+      },
+      {
+        "lat": 40.1083446,
+        "long": -88.2282555
+      },
+      {
+        "lat": 40.1131317,
+        "long": -88.2264552
+      },
+      {
+        "lat": 40.107534,
+        "long": -88.2281548
+      },
+      {
+        "lat": 40.1020773,
+        "long": -88.2296394
+      },
+      {
+        "lat": 40.105732,
+        "long": -88.2281018
+      },
+      {
+        "lat": 40.1072225,
+        "long": -88.2262016
+      },
+      {
+        "lat": 40.1110937,
+        "long": -88.2232348
+      },
+      {
+        "lat": 40.103587,
+        "long": -88.230606
+      },
+      {
+        "lat": 40.1108856,
+        "long": -88.2269806
+      },
+      {
+        "lat": 40.1109722,
+        "long": -88.2282631
+      },
+      {
+        "lat": 40.107811,
+        "long": -88.2260761
+      },
+      {
+        "lat": 40.1065684,
+        "long": -88.2281746
+      },
+      {
+        "lat": 40.10628,
+        "long": -88.22621
+      },
+      {
+        "lat": 40.1035872,
+        "long": -88.2306061
+      },
+      {
+        "lat": 40.10593795776367,
+        "long": -88.2270736694336
+      },
+      {
+        "lat": 40.101862,
+        "long": -88.231737
+      },
+      {
+        "lat": 40.1149296,
+        "long": -88.2280589
+      },
+      {
+        "lat": 40.1047599,
+        "long": -88.2319514
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}
