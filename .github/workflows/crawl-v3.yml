@@ -49,7 +49,7 @@ jobs:
         working-directory: ./apps/crawler-v3
         env:
           COURSES_PER_SUBJECT: 1
-          MAX_SUBJECTS: 10
+          # MAX_SUBJECTS: 10
         run: npm start
       
       - name: Deploy to GitHub Pages
