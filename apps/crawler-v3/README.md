@@ -32,6 +32,16 @@ Generated JSON files are stored in the `data/` directory:
 
 The output follows the GT Scheduler crawler format with tuple-based structures and shared caches to minimize JSON size.
 
+### Building Coordinates Data
+
+The `coordinates.csv` file contains building location data for mapping course locations. Building coordinates and addresses were sourced from the [UIUC Campus Building Database](https://answers.uillinois.edu/illinois/57128).
+
+CSV Format:
+- **Place ID**: UIUC's internal building identifier
+- **Title**: Building name (must match course location strings for proper mapping)
+- **Latitude/Longitude**: Geographic coordinates
+- **Address**: Full street address
+
 ## Development
 
 Currently hardcoded to scrape:
