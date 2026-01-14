@@ -1,19 +1,53 @@
 {
   "subject": "AFAS",
-  "scrapedAt": 1768370757121,
+  "scrapedAt": 1768370923479,
   "courseCount": 5,
   "courses": {
-    "AFAS 222": [
-      "Team and Leadership Fundamentals II",
+    "AFAS 332": [
+      "Leading People and Effective Communication II",
       {
-        "A": [
-          "41653",
+        "W": [
+          "30788",
           [
             [
-              2,
+              9,
+              "TR",
+              "ONLINE",
+              1,
+              [
+                "Bryant, J",
+                "Hill, P",
+                "Pompey, A",
+                "Scalzitti, J",
+                "Zinkl, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Leading People and Effective Communication teaches cadets advanced skills and knowledge in management and leadership. Special emphasis is placed on enhancing leadership skill. Cadets have an opportunity to try out these leadership and management techniques in a supervised environment as juniors and seniors.",
+      []
+    ],
+    "AFAS 112": [
+      "Heritage and Values of the United States Air Force II",
+      {
+        "A": [
+          "30780",
+          [
+            [
+              5,
               "W",
               "325 Armory",
-              0,
+              2,
               [
                 "Bryant, J",
                 "Hill, P",
@@ -32,14 +66,14 @@
           [],
           -1
         ],
-        "M": [
-          "30784",
+        "O": [
+          "30781",
           [
             [
-              6,
+              8,
               "W",
               "325 Armory",
-              0,
+              2,
               [
                 "Bryant, J",
                 "Hill, P",
@@ -60,7 +94,7 @@
         ]
       },
       [],
-      "Team and Leadership Fundamentals focuses on laying the foundation for teams and leadership. The topics include skills that will allow cadets to improve their leadership on a personal level and within a team. The courses will prepare cadets for their field training experience where they will be able to put the concepts learned into practice. The purpose is to instill a leadership mindset and to motivate sophomore students to transition from AFROTC cadet to AFROTC officer candidate.",
+      "Heritage and Values of the United States Air Force is a survey course designed to introduce students to the United States Air Force and provides an overview of the basic characteristics, missions, and organization of the Air Force.",
       []
     ],
     "AFAS 342": [
@@ -107,7 +141,7 @@
               65,
               "M",
               "101 Armory",
-              0,
+              2,
               [
                 "Bryant, J",
                 "Hill, P",
@@ -122,7 +156,7 @@
               65,
               "W",
               "100 Armory",
-              0,
+              2,
               [
                 "Bryant, J",
                 "Hill, P",
@@ -137,7 +171,7 @@
               66,
               "R",
               "101 Armory",
-              0,
+              2,
               [
                 "Bryant, J",
                 "Hill, P",
@@ -150,7 +184,7 @@
             ]
           ],
           0,
-          6,
+          5,
           0,
           [],
           -1
@@ -175,7 +209,7 @@
             ]
           ],
           0,
-          6,
+          5,
           0,
           [],
           -1
@@ -185,17 +219,17 @@
       "Leadership Laboratory (LLAB) is a dynamic and integrated grouping of leadership developmental activities designed to meet the needs and expectations of prospective Air Force second lieutenants and complements the AFROTC academic program (AFAS 111 - AFAS 342). It is a student planned, organized, and executed practicum conducted under the supervision of the Detachment Commander and operations Flight Commander.",
       []
     ],
-    "AFAS 112": [
-      "Heritage and Values of the United States Air Force II",
+    "AFAS 222": [
+      "Team and Leadership Fundamentals II",
       {
         "A": [
-          "30780",
+          "41653",
           [
             [
               4,
               "W",
               "325 Armory",
-              0,
+              2,
               [
                 "Bryant, J",
                 "Hill, P",
@@ -214,14 +248,14 @@
           [],
           -1
         ],
-        "O": [
-          "30781",
+        "M": [
+          "30784",
           [
             [
               7,
               "W",
               "325 Armory",
-              0,
+              2,
               [
                 "Bryant, J",
                 "Hill, P",
@@ -242,104 +276,70 @@
         ]
       },
       [],
-      "Heritage and Values of the United States Air Force is a survey course designed to introduce students to the United States Air Force and provides an overview of the basic characteristics, missions, and organization of the Air Force.",
-      []
-    ],
-    "AFAS 332": [
-      "Leading People and Effective Communication II",
-      {
-        "W": [
-          "30788",
-          [
-            [
-              9,
-              "TR",
-              "ONLINE",
-              1,
-              [
-                "Bryant, J",
-                "Hill, P",
-                "Pompey, A",
-                "Scalzitti, J",
-                "Zinkl, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Leading People and Effective Communication teaches cadets advanced skills and knowledge in management and leadership. Special emphasis is placed on enhancing leadership skill. Cadets have an opportunity to try out these leadership and management techniques in a supervised environment as juniors and seniors.",
+      "Team and Leadership Fundamentals focuses on laying the foundation for teams and leadership. The topics include skills that will allow cadets to improve their leadership on a personal level and within a team. The courses will prepare cadets for their field training experience where they will be able to put the concepts learned into practice. The purpose is to instill a leadership mindset and to motivate sophomore students to transition from AFROTC cadet to AFROTC officer candidate.",
       []
     ]
   },
   "caches": {
     "periods": [
       "0930 - 1050",
-      "1100 - 1220",
-      "1000 - 1050",
+      "1600 - 1715",
+      "0930 - 1045",
       "0900 - 0950",
+      "1000 - 1050",
       "1100 - 1150",
       "1200 - 1250",
       "1300 - 1350",
       "1400 - 1450",
-      "1400 - 1650",
       "0000 - 0000",
-      "1600 - 1715",
-      "0930 - 1045",
+      "1400 - 1650",
       "1230 - 1350",
+      "1100 - 1220",
       "1400 - 1520",
+      "1400 - 1550",
       "1600 - 1720",
       "1500 - 1720",
-      "1400 - 1550",
       "1400 - 1720",
-      "1300 - 1450",
-      "0800 - 0950",
-      "1500 - 1650",
       "0900 - 1150",
+      "1300 - 1450",
+      "1500 - 1650",
+      "0800 - 0950",
       "0900 - 1020",
       "1500 - 1550",
       "1400 - 1630",
-      "1700 - 1820",
       "0800 - 0850",
-      "1530 - 1650",
       "0800 - 0920",
+      "1530 - 1650",
+      "1700 - 1820",
       "1530 - 1620",
       "2000 - 2050",
       "0800 - 1150",
+      "1500 - 1750",
       "1200 - 1550",
       "1230 - 1620",
       "0830 - 0920",
-      "1500 - 1750",
       "1300 - 1650",
+      "1500 - 1620",
       "0900 - 1050",
       "1100 - 1250",
-      "1500 - 1620",
       "1700 - 1850",
+      "1200 - 1320",
       "1600 - 1750",
       "1600 - 1650",
-      "1200 - 1320",
       "1000 - 1120",
       "1130 - 1250",
       "1300 - 1420",
       "1600 - 1730",
       "1030 - 1150",
+      "1230 - 1320",
       "1330 - 1520",
       "1530 - 1710",
-      "1230 - 1320",
-      "1630 - 1750",
       "1430 - 1550",
+      "1630 - 1750",
       "1730 - 1850",
       "1730 - 1920",
-      "1000 - 1150",
       "1530 - 1820",
+      "1000 - 1150",
       "1700 - 1750",
       "1100 - 1215",
       "0800 - 0959",
@@ -357,15 +357,15 @@
       "Lecture",
       "Online",
       "Independent Study",
-      "Laboratory-Discussion",
       "Laboratory",
       "Online Lecture",
+      "Laboratory-Discussion",
       "Online Discussion",
       "Conference",
       "Online Lecture Discussion",
       "Seminar",
-      "Internship",
       "Study Abroad",
+      "Internship",
       "Research"
     ],
     "campuses": [],
@@ -374,20 +374,20 @@
     "gradeBases": [],
     "locations": [
       {
-        "lat": 40.1047599,
-        "long": -88.2319514
+        "lat": 40.107534,
+        "long": -88.2281548
       },
       {
         "lat": null,
         "long": null
       },
       {
-        "lat": 40.1065684,
-        "long": -88.2281746
+        "lat": 40.1047599,
+        "long": -88.2319514
       },
       {
-        "lat": 40.107534,
-        "long": -88.2281548
+        "lat": 40.1065684,
+        "long": -88.2281746
       },
       {
         "lat": 40.105732,
@@ -398,16 +398,16 @@
         "long": -88.2262016
       },
       {
+        "lat": 40.1020773,
+        "long": -88.2296394
+      },
+      {
         "lat": 40.1035833,
         "long": -88.228405
       },
       {
         "lat": 40.11246109008789,
         "long": -88.22831726074219
-      },
-      {
-        "lat": 40.1020773,
-        "long": -88.2296394
       },
       {
         "lat": 40.1035872,

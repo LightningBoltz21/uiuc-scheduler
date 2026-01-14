@@ -3,8 +3,8 @@
   "termName": "Spring 2026",
   "year": "2026",
   "term": "spring",
-  "startedAt": 1768370634052,
-  "lastUpdated": 1768370781093,
+  "startedAt": 1768370801953,
+  "lastUpdated": 1768370950893,
   "totalSubjects": 187,
   "totalCourses": 4516,
   "subjects": [
@@ -18659,18 +18659,20 @@
     "ART",
     "ARTD",
     "ARTE",
-    "ARTF"
+    "ARTF",
+    "ARTH",
+    "ARTJ"
   ],
   "partialSubjects": {
-    "ARTH": {
-      "completed": 0,
-      "total": 21,
+    "ARTS": {
+      "completed": 22,
+      "total": 30,
       "lastCourse": "ABORTED"
     }
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 520,
+    "successfulCourses": 571,
     "failedCourses": 1,
     "rateLimitCount": 0
   }

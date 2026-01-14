@@ -1,22 +1,22 @@
 {
   "subject": "ADV",
-  "scrapedAt": 1768370753476,
+  "scrapedAt": 1768370920187,
   "courseCount": 47,
   "courses": {
-    "ADV 150": [
-      "Introduction to Advertising",
+    "ADV 250": [
+      "Advertising and Brand Strategy",
       {
         "AB1": [
-          "74341",
+          "75527",
           [
             [
               23,
-              "R",
-              "136 Davenport Hall",
-              5,
+              "W",
+              "311 Gregory Hall",
+              4,
               [
-                "Cho, B",
-                "Hall, S"
+                "Chang, J",
+                "Hitchon, J"
               ],
               -1,
               -1,
@@ -30,16 +30,16 @@
           -1
         ],
         "AB2": [
-          "74342",
+          "75529",
           [
             [
-              23,
-              "R",
-              "304 Noyes Laboratory",
-              1,
+              43,
+              "W",
+              "311 Gregory Hall",
+              4,
               [
-                "Goodreau, A",
-                "Hall, S"
+                "Chang, J",
+                "Hitchon, J"
               ],
               -1,
               -1,
@@ -53,16 +53,16 @@
           -1
         ],
         "AB3": [
-          "74343",
+          "75530",
           [
             [
-              42,
+              8,
               "R",
-              "136 Davenport Hall",
-              5,
+              "144 Armory",
+              2,
               [
-                "Hall, S",
-                "Jois, T"
+                "Hitchon, J",
+                "Kazybayeva, A"
               ],
               -1,
               -1,
@@ -76,16 +76,16 @@
           -1
         ],
         "AB4": [
-          "74344",
+          "75528",
           [
             [
-              42,
+              23,
               "R",
-              "304 Noyes Laboratory",
-              1,
+              "145 Armory",
+              2,
               [
-                "Goodreau, A",
-                "Hall, S"
+                "Chang, J",
+                "Hitchon, J"
               ],
               -1,
               -1,
@@ -99,16 +99,16 @@
           -1
         ],
         "AB5": [
-          "74345",
+          "77465",
           [
             [
-              2,
+              3,
               "F",
-              "134 Armory",
-              0,
+              "317 Gregory Hall",
+              4,
               [
-                "Goodreau, A",
-                "Hall, S"
+                "Hitchon, J",
+                "Kazybayeva, A"
               ],
               -1,
               -1,
@@ -122,84 +122,16 @@
           -1
         ],
         "AB6": [
-          "74346",
-          [
-            [
-              2,
-              "F",
-              "144 Armory",
-              0,
-              [
-                "Hall, S",
-                "He, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AB7": [
-          "74347",
+          "78288",
           [
             [
               4,
               "F",
-              "134 Armory",
-              0,
+              "1027 Lincoln Hall",
+              3,
               [
-                "Hall, S",
-                "Jois, T"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AB8": [
-          "74348",
-          [
-            [
-              4,
-              "F",
-              "144 Armory",
-              0,
-              [
-                "Hall, S",
-                "He, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AB9": [
-          "74350",
-          [
-            [
-              7,
-              "W",
-              "147 Armory",
-              0,
-              [
-                "Hall, S"
+                "Hitchon, J",
+                "Kazybayeva, A"
               ],
               -1,
               -1,
@@ -213,173 +145,15 @@
           -1
         ],
         "AL1": [
-          "60077",
+          "75526",
           [
             [
-              7,
-              "TR",
-              "112 Gregory Hall",
-              4,
-              [
-                "Hall, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Introduction to the practice and profession of advertising. Course material covers various functional areas of advertising and integrated brand promotion, including account planning, creative, media, research, consumer behavior, sales promotion and interactive advertising. Topics also include how advertising relates to society in cultural, social, ethical and regulatory contexts. Open to all undergraduate majors.",
-      []
-    ],
-    "ADV 200": [
-      "Data Literacy",
-      {
-        "AB1": [
-          "74331",
-          [
-            [
-              39,
-              "W",
-              "328 Armory",
-              0,
-              [
-                "Ji, A",
-                "Taneja, H"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          6,
-          0,
-          [],
-          -1
-        ],
-        "AB2": [
-          "74332",
-          [
-            [
-              52,
-              "W",
-              "328 Armory",
-              0,
-              [
-                "Li, Y",
-                "Taneja, H"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          6,
-          0,
-          [],
-          -1
-        ],
-        "AL1": [
-          "73628",
-          [
-            [
-              9,
-              "",
-              "ONLINE",
-              1,
-              [
-                "Taneja, H"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          7,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "No matter what your major, or the job you plan to get, becoming fluent at working with data is a sought-after skill. Through lectures and guided workshops, this course provides hands-on- training on fundamentals of data exploration (asking the right questions), data gathering and data analysis (understanding and describing the situation) as well as communicating with data (telling a compelling story through data visualizations). Students learn how to find datasets in online archives and repositories, and are introduced to the commonly used software packages and techniques (spreadsheets, text analytics, social computing). We also focus on critical issues such as data ethics and privacy. We also learn basic computer programming aimed at data analysis. No prior knowledge of research methods, statistics or programming is required.",
-      []
-    ],
-    "ADV 280": [
-      "Introduction to Advertising Media",
-      {
-        "1": [
-          "76817",
-          [
-            [
-              53,
+              3,
               "MW",
-              "113 David Kinley Hall",
-              6,
-              [
-                "Sar, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "2": [
-          "77726",
-          [
-            [
-              1,
-              "MW",
-              "113 David Kinley Hall",
-              6,
-              [
-                "Sar, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Students will be introduced to advertising in media, including an understanding of the contemporary media landscape and the ways in audiences use media. We will primarily discuss media concepts and media tools that are commonly used by advertising professionals to collect and interpret media insights for advertising.",
-      []
-    ],
-    "ADV 214": [
-      "Sports Advertising & Branding",
-      {
-        "A": [
-          "77725",
-          [
-            [
-              1,
-              "TR",
-              "1092 Lincoln Hall",
+              "101 Armory",
               2,
               [
-                "Hall, S"
+                "Hitchon, J"
               ],
               -1,
               -1,
@@ -387,14 +161,14 @@
             ]
           ],
           3,
-          0,
+          2,
           0,
           [],
           -1
         ]
       },
       [],
-      "Explores sports advertising and branding. Students will learn about relationships between advertising, media, integrated communications, sports, athletes, events, experiences, and brand partners across amateur, collegiate, and professional sports. Students develop insights and skills related to research, segmenting audiences, consumer behavior, brand strategy, creative messaging, and media in the sports industry. Topics such as e-sports, gaming, Name-Image- Likeness, personal branding, and endorsements are discussed. Students explore historical, ethical and cultural considerations in sports advertising.",
+      "Designed to help students acquire brand decision-making skills. Advertising and marketing theories, practical problems and traditional cases will be studied as they learn to build a strong brand strategy that will lead to a strong brand advertising strategy. This encompasses every facet of making advertising decisions for a brand. This involves understanding the content a consumer requires, how the consumer will come in contact with the brand, and what is the goal of the connection between consumer and content/contact.",
       []
     ],
     "ADV 175": [
@@ -404,10 +178,10 @@
           "74338",
           [
             [
-              12,
+              11,
               "MW",
               "101 Armory",
-              0,
+              2,
               [
                 "Chambers, J"
               ],
@@ -427,19 +201,19 @@
       "Examines the multifaceted role diversity (including racial, gender, orientation, ability status) plays in the delivery and reception of advertising. Additionally, it examines the development of diversity as a marketplace practice and on the development of the advertising industry. We'll analyze advertising using a historical, cultural, and social perspective and address issues of diversity in the industry. We will also critically review current issues of multicultural, transcultural and multidimensional advertising and marketing. In the process we’ll grapple with current theories on race and implicit /explicit bias and prejudice and their impact upon the production of advertising and consumer communications.",
       []
     ],
-    "ADV 222": [
-      "Copywriting",
+    "ADV 214": [
+      "Sports Advertising & Branding",
       {
-        "1": [
-          "76812",
+        "A": [
+          "77725",
           [
             [
               12,
               "TR",
-              "163 Noyes Laboratory",
-              1,
+              "1092 Lincoln Hall",
+              3,
               [
-                "Meron, S"
+                "Hall, S"
               ],
               -1,
               -1,
@@ -454,7 +228,7 @@
         ]
       },
       [],
-      "For students considering a career in persuasive writing or just striving to become better creative thinkers and communicators, this course explores advertising copywriting concepts, processes and best practices. We'll craft headlines, body copy and scripts for a variety of media, all in the context of audience, strategy, design and the Big Idea. Writing-intensive and portfolio-building, with consideration for cultural trends and artificial intelligence.",
+      "Explores sports advertising and branding. Students will learn about relationships between advertising, media, integrated communications, sports, athletes, events, experiences, and brand partners across amateur, collegiate, and professional sports. Students develop insights and skills related to research, segmenting audiences, consumer behavior, brand strategy, creative messaging, and media in the sports industry. Topics such as e-sports, gaming, Name-Image- Likeness, personal branding, and endorsements are discussed. Students explore historical, ethical and cultural considerations in sports advertising.",
       []
     ],
     "ADV 270": [
@@ -518,20 +292,50 @@
       "Data are everywhere! In our phones, our homes, our cars, the media, the shops, and more. But what do we know or think about that data and how data are being used in our everyday lives? This introductory course explores the intersection of consumer data and society, equipping students with the tools and knowledge necessary to navigate, analyze, and interpret data in everyday life. This is not a math course, but you will gain numeracy and understanding of data and statistics as you consider concepts, questions, and ways of thinking about data through the lens of advertising, media, politics, consumer behavior, and life. Through a combination of theoretical insights and practical applications, students will develop a critical understanding of how data shapes our world and how to use data responsibly and effectively to solve consumer and business problems.",
       []
     ],
-    "ADV 250": [
-      "Advertising and Brand Strategy",
+    "ADV 222": [
+      "Copywriting",
+      {
+        "1": [
+          "76812",
+          [
+            [
+              11,
+              "TR",
+              "163 Noyes Laboratory",
+              1,
+              [
+                "Meron, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "For students considering a career in persuasive writing or just striving to become better creative thinkers and communicators, this course explores advertising copywriting concepts, processes and best practices. We'll craft headlines, body copy and scripts for a variety of media, all in the context of audience, strategy, design and the Big Idea. Writing-intensive and portfolio-building, with consideration for cultural trends and artificial intelligence.",
+      []
+    ],
+    "ADV 150": [
+      "Introduction to Advertising",
       {
         "AB1": [
-          "75527",
+          "74341",
           [
             [
               23,
-              "W",
-              "311 Gregory Hall",
-              4,
+              "R",
+              "136 Davenport Hall",
+              5,
               [
-                "Chang, J",
-                "Hitchon, J"
+                "Cho, B",
+                "Hall, S"
               ],
               -1,
               -1,
@@ -545,16 +349,16 @@
           -1
         ],
         "AB2": [
-          "75529",
+          "74342",
           [
             [
-              42,
-              "W",
-              "311 Gregory Hall",
-              4,
+              23,
+              "R",
+              "304 Noyes Laboratory",
+              1,
               [
-                "Chang, J",
-                "Hitchon, J"
+                "Goodreau, A",
+                "Hall, S"
               ],
               -1,
               -1,
@@ -568,16 +372,16 @@
           -1
         ],
         "AB3": [
-          "75530",
+          "74343",
           [
             [
-              7,
+              43,
               "R",
-              "144 Armory",
-              0,
+              "136 Davenport Hall",
+              5,
               [
-                "Hitchon, J",
-                "Kazybayeva, A"
+                "Hall, S",
+                "Jois, T"
               ],
               -1,
               -1,
@@ -591,16 +395,16 @@
           -1
         ],
         "AB4": [
-          "75528",
+          "74344",
           [
             [
-              23,
+              43,
               "R",
-              "145 Armory",
-              0,
+              "304 Noyes Laboratory",
+              1,
               [
-                "Chang, J",
-                "Hitchon, J"
+                "Goodreau, A",
+                "Hall, S"
               ],
               -1,
               -1,
@@ -614,16 +418,16 @@
           -1
         ],
         "AB5": [
-          "77465",
+          "74345",
           [
             [
-              3,
-              "F",
-              "317 Gregory Hall",
               4,
+              "F",
+              "134 Armory",
+              2,
               [
-                "Hitchon, J",
-                "Kazybayeva, A"
+                "Goodreau, A",
+                "Hall, S"
               ],
               -1,
               -1,
@@ -637,16 +441,84 @@
           -1
         ],
         "AB6": [
-          "78288",
+          "74346",
           [
             [
-              2,
+              4,
               "F",
-              "1027 Lincoln Hall",
+              "144 Armory",
               2,
               [
-                "Hitchon, J",
-                "Kazybayeva, A"
+                "Hall, S",
+                "He, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AB7": [
+          "74347",
+          [
+            [
+              5,
+              "F",
+              "134 Armory",
+              2,
+              [
+                "Hall, S",
+                "Jois, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AB8": [
+          "74348",
+          [
+            [
+              5,
+              "F",
+              "144 Armory",
+              2,
+              [
+                "Hall, S",
+                "He, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AB9": [
+          "74350",
+          [
+            [
+              8,
+              "W",
+              "147 Armory",
+              2,
+              [
+                "Hall, S"
               ],
               -1,
               -1,
@@ -660,15 +532,15 @@
           -1
         ],
         "AL1": [
-          "75526",
+          "60077",
           [
             [
-              3,
-              "MW",
-              "101 Armory",
-              0,
+              8,
+              "TR",
+              "112 Gregory Hall",
+              4,
               [
-                "Hitchon, J"
+                "Hall, S"
               ],
               -1,
               -1,
@@ -676,14 +548,14 @@
             ]
           ],
           3,
-          2,
+          0,
           0,
           [],
           -1
         ]
       },
       [],
-      "Designed to help students acquire brand decision-making skills. Advertising and marketing theories, practical problems and traditional cases will be studied as they learn to build a strong brand strategy that will lead to a strong brand advertising strategy. This encompasses every facet of making advertising decisions for a brand. This involves understanding the content a consumer requires, how the consumer will come in contact with the brand, and what is the goal of the connection between consumer and content/contact.",
+      "Introduction to the practice and profession of advertising. Course material covers various functional areas of advertising and integrated brand promotion, including account planning, creative, media, research, consumer behavior, sales promotion and interactive advertising. Topics also include how advertising relates to society in cultural, social, ethical and regulatory contexts. Open to all undergraduate majors.",
       []
     ],
     "ADV 201": [
@@ -716,20 +588,19 @@
       "Creating a personal brand is no longer a nice-to-have; it’s expected and vital to social media influencers, student athletes and online celebrities. This course focuses on practical strategies for building and maintaining a strong personal brand on social media for career advancement and social influence. Students will develop advanced social media strategy skills and identify risks involved in online reputation management. This course will help you create an authentic personal brand and amplify your career.",
       []
     ],
-    "ADV 281": [
-      "Advertising Research Methods",
+    "ADV 280": [
+      "Introduction to Advertising Media",
       {
-        "D1": [
-          "68850",
+        "1": [
+          "76817",
           [
             [
-              2,
-              "F",
-              "328 Armory",
-              0,
+              52,
+              "MW",
+              "113 David Kinley Hall",
+              7,
               [
-                "Paltaratskaya, V",
-                "Vargas, P"
+                "Sar, S"
               ],
               -1,
               -1,
@@ -737,22 +608,21 @@
             ]
           ],
           3,
-          1,
+          0,
           0,
           [],
           -1
         ],
-        "D3": [
-          "68854",
+        "2": [
+          "77726",
           [
             [
-              4,
-              "F",
-              "328 Armory",
-              0,
+              12,
+              "MW",
+              "113 David Kinley Hall",
+              7,
               [
-                "Paltaratskaya, V",
-                "Vargas, P"
+                "Sar, S"
               ],
               -1,
               -1,
@@ -760,82 +630,90 @@
             ]
           ],
           3,
-          1,
           0,
-          [],
-          -1
-        ],
-        "D4": [
-          "68855",
-          [
-            [
-              5,
-              "F",
-              "328 Armory",
-              0,
-              [
-                "Paltaratskaya, V",
-                "Vargas, P"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "D5": [
-          "68856",
-          [
-            [
-              6,
-              "F",
-              "328 Armory",
-              0,
-              [
-                "Chick, C",
-                "Vargas, P"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "L1": [
-          "68852",
-          [
-            [
-              4,
-              "TR",
-              "120 Architecture Building",
-              16,
-              [
-                "Vargas, P"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          2,
           0,
           [],
           -1
         ]
       },
       [],
-      "Introduces students to the wide spectrum of qualitative and quantitative research techniques that are commonly used in the advertising industry. In addition to examining the principles, methods and techniques of advertising research, the course will address issues such as when research should and should not be conducted, analyzing data sets, forming meaningful research questions, figuring out how to answer the questions, and presenting the answers to these questions in a clear and compelling manner.",
+      "Students will be introduced to advertising in media, including an understanding of the contemporary media landscape and the ways in audiences use media. We will primarily discuss media concepts and media tools that are commonly used by advertising professionals to collect and interpret media insights for advertising.",
+      []
+    ],
+    "ADV 200": [
+      "Data Literacy",
+      {
+        "AB1": [
+          "74331",
+          [
+            [
+              37,
+              "W",
+              "328 Armory",
+              2,
+              [
+                "Ji, A",
+                "Taneja, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AB2": [
+          "74332",
+          [
+            [
+              53,
+              "W",
+              "328 Armory",
+              2,
+              [
+                "Li, Y",
+                "Taneja, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "73628",
+          [
+            [
+              9,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Taneja, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "No matter what your major, or the job you plan to get, becoming fluent at working with data is a sought-after skill. Through lectures and guided workshops, this course provides hands-on- training on fundamentals of data exploration (asking the right questions), data gathering and data analysis (understanding and describing the situation) as well as communicating with data (telling a compelling story through data visualizations). Students learn how to find datasets in online archives and repositories, and are introduced to the commonly used software packages and techniques (spreadsheets, text analytics, social computing). We also focus on critical issues such as data ethics and privacy. We also learn basic computer programming aimed at data analysis. No prior knowledge of research methods, statistics or programming is required.",
       []
     ],
     "ADV 284": [
@@ -845,7 +723,7 @@
           "68858",
           [
             [
-              12,
+              11,
               "R",
               "156 Henry Administration Bldg",
               17,
@@ -867,10 +745,10 @@
           "68859",
           [
             [
-              12,
+              11,
               "R",
               "144 Armory",
-              0,
+              2,
               [
                 "Pierre, L"
               ],
@@ -936,7 +814,7 @@
               44,
               "F",
               "1066 Lincoln Hall",
-              2,
+              3,
               [
                 "Pierre, L"
               ],
@@ -958,7 +836,7 @@
               27,
               "T",
               "101 Armory",
-              0,
+              2,
               [
                 "Pierre, L"
               ],
@@ -976,66 +854,6 @@
       },
       [],
       "Course focuses on methods of eliciting consumer insight. In particular, this class introduces the process and applied outcomes of consumer insight in terms of building brand strategy. Techniques for persuasive presentation of insight will also be introduced.",
-      []
-    ],
-    "ADV 333": [
-      "Agency Experience",
-      {
-        "1": [
-          "76813",
-          [
-            [
-              12,
-              "MW",
-              "428 Armory",
-              0,
-              [
-                "Meron, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "This is the class that runs like an agency: a fast-paced, hands-on environment where students plan, develop and execute innovative advertising campaigns and materials for real clients. Students take on specialized roles related to research, strategy, creative, media and account direction, and will apply creative problem solving, design thinking, data literacy and professionalism to address client goals and develop impactful work. Clients include the Department of Advertising, as well as other educational and nonprofit organizations.",
-      []
-    ],
-    "ADV 290": [
-      "Special Topics in Advertising",
-      {
-        "ADD": [
-          "73632",
-          [
-            [
-              0,
-              "MW",
-              "1 Gregory Hall",
-              4,
-              [
-                "Heede, P"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Designed to offer freshmen and sophomores opportunity to take courses in advertising's most recent developments.",
       []
     ],
     "ADV 320": [
@@ -1068,19 +886,19 @@
       "This course addresses conceptual and methodological issues related to the management of sales within organizations. Responsibilities, function and skills necessary to be an effective sales manager are covered, including an evaluation of sales organization structures, recruiting, selecting, testing, and training of salespeople. Related topics include compensation plans, controlling expenses, sales forecasting/projections, routing, quotas, ethics and motivation. It will consist of lectures, role playing exercises, and also may include guest lectures from industry leaders/alumni with experience in sales management.",
       []
     ],
-    "ADV 310": [
-      "Intro to Public Relations",
+    "ADV 333": [
+      "Agency Experience",
       {
-        "A": [
-          "54936",
+        "1": [
+          "76813",
           [
             [
-              39,
+              11,
               "MW",
-              "1100 Wymer Hall",
-              1,
+              "428 Armory",
+              2,
               [
-                "Yang, G"
+                "Meron, S"
               ],
               -1,
               -1,
@@ -1095,7 +913,219 @@
         ]
       },
       [],
-      "Introduces the student to the practice and profession of public relations. Course material covers topics such as the history of public relations, the role of law and ethics in public relations, and theories that guide public relations research and practice. The course will also introduce roles played by public relations practitioners within organizations, such as media relations, consumer relations, employee relations, community relations, and investor relations.",
+      "This is the class that runs like an agency: a fast-paced, hands-on environment where students plan, develop and execute innovative advertising campaigns and materials for real clients. Students take on specialized roles related to research, strategy, creative, media and account direction, and will apply creative problem solving, design thinking, data literacy and professionalism to address client goals and develop impactful work. Clients include the Department of Advertising, as well as other educational and nonprofit organizations.",
+      []
+    ],
+    "ADV 350": [
+      "Writing for Public Relations",
+      {
+        "A": [
+          "55675",
+          [
+            [
+              12,
+              "MW",
+              "31 Gregory Hall",
+              4,
+              [
+                "Hitchon, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Focuses on the strategy of crafting and delivering PR messages to various audiences with special emphasis on pre-writing, preparation, revision and presentation.",
+      []
+    ],
+    "ADV 281": [
+      "Advertising Research Methods",
+      {
+        "D1": [
+          "68850",
+          [
+            [
+              4,
+              "F",
+              "328 Armory",
+              2,
+              [
+                "Paltaratskaya, V",
+                "Vargas, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "D3": [
+          "68854",
+          [
+            [
+              5,
+              "F",
+              "328 Armory",
+              2,
+              [
+                "Paltaratskaya, V",
+                "Vargas, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "D4": [
+          "68855",
+          [
+            [
+              6,
+              "F",
+              "328 Armory",
+              2,
+              [
+                "Paltaratskaya, V",
+                "Vargas, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "D5": [
+          "68856",
+          [
+            [
+              7,
+              "F",
+              "328 Armory",
+              2,
+              [
+                "Chick, C",
+                "Vargas, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "L1": [
+          "68852",
+          [
+            [
+              5,
+              "TR",
+              "120 Architecture Building",
+              16,
+              [
+                "Vargas, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduces students to the wide spectrum of qualitative and quantitative research techniques that are commonly used in the advertising industry. In addition to examining the principles, methods and techniques of advertising research, the course will address issues such as when research should and should not be conducted, analyzing data sets, forming meaningful research questions, figuring out how to answer the questions, and presenting the answers to these questions in a clear and compelling manner.",
+      []
+    ],
+    "ADV 314": [
+      "Sports Public Relations",
+      {
+        "A": [
+          "73629",
+          [
+            [
+              13,
+              "TR",
+              "209 Huff Hall",
+              10,
+              [
+                "Brown, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Sports public relations is designed to show the management function of developing and sustaining two-way lines of communication, understanding, acceptance, and cooperation between a sports organization and all the other stakeholders, including team, athlete, league, organization, company and brand and its respective publics.",
+      []
+    ],
+    "ADV 290": [
+      "Special Topics in Advertising",
+      {
+        "ADD": [
+          "73632",
+          [
+            [
+              0,
+              "MW",
+              "1 Gregory Hall",
+              4,
+              [
+                "Heede, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Designed to offer freshmen and sophomores opportunity to take courses in advertising's most recent developments.",
       []
     ],
     "ADV 301": [
@@ -1105,7 +1135,7 @@
           "74402",
           [
             [
-              39,
+              37,
               "MW",
               "132 Bevier Hall",
               13,
@@ -1126,6 +1156,36 @@
       },
       [],
       "Explores the everyday impact the influencer economy has on our purchasing decisions, political engagement, and social activism. This new celebrity class illustrates the critical importance that public relations, advertising, marketing, and communications management has on influencer marketing and influencer relations. The course will identify the evolving strategies, tactics, and techniques that drive the influencer ecosystem, evaluate the social and cultural impact of influencer marketing and engagement on organizations and audiences, and assess the racial and gender dynamics that are created and recreated within this quickly evolving marketing and creative arena. Finally, students will focus on the development of influencer generated branded content across for-profit, nonprofit, and human rights organizations. Eligible for the PR Minor: https://media.illinois.edu/pr_minor.",
+      []
+    ],
+    "ADV 310": [
+      "Intro to Public Relations",
+      {
+        "A": [
+          "54936",
+          [
+            [
+              37,
+              "MW",
+              "1100 Wymer Hall",
+              1,
+              [
+                "Yang, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduces the student to the practice and profession of public relations. Course material covers topics such as the history of public relations, the role of law and ethics in public relations, and theories that guide public relations research and practice. The course will also introduce roles played by public relations practitioners within organizations, such as media relations, consumer relations, employee relations, community relations, and investor relations.",
       []
     ],
     "ADV 360": [
@@ -1181,7 +1241,7 @@
           "75534",
           [
             [
-              53,
+              52,
               "W",
               "169 Davenport Hall",
               5,
@@ -1204,7 +1264,7 @@
           "75535",
           [
             [
-              53,
+              52,
               "W",
               "136 Davenport Hall",
               5,
@@ -1250,66 +1310,6 @@
       "Intended to improve creative and critical thinking skill in advertising planning by understanding the core technology and perspective of digital and other innovative media in the context of integrated communication. This will allow students to understand how consumers perceive and process digital advertising messages; to research critical questions in digital consumer behavior; to learn how to utilize digital and non-digital media in the context of integrated communication; to apply knowledge of digital communication technology to the real-world advertising cases.",
       []
     ],
-    "ADV 314": [
-      "Sports Public Relations",
-      {
-        "A": [
-          "73629",
-          [
-            [
-              13,
-              "TR",
-              "209 Huff Hall",
-              10,
-              [
-                "Brown, K"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Sports public relations is designed to show the management function of developing and sustaining two-way lines of communication, understanding, acceptance, and cooperation between a sports organization and all the other stakeholders, including team, athlete, league, organization, company and brand and its respective publics.",
-      []
-    ],
-    "ADV 350": [
-      "Writing for Public Relations",
-      {
-        "A": [
-          "55675",
-          [
-            [
-              1,
-              "MW",
-              "31 Gregory Hall",
-              4,
-              [
-                "Hitchon, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Focuses on the strategy of crafting and delivering PR messages to various audiences with special emphasis on pre-writing, preparation, revision and presentation.",
-      []
-    ],
     "ADV 370": [
       "Sales and the Consumer",
       {
@@ -1340,67 +1340,6 @@
       "This course focuses on different topics related to consumer behavior management, and the consumer's relationships to the sales process. It will include case studies and exercises that will facilitate application of effective sales techniques.",
       []
     ],
-    "ADV 390": [
-      "Content Creation",
-      {
-        "A": [
-          "60085",
-          [
-            [
-              1,
-              "TR",
-              "213 Gregory Hall",
-              4,
-              [
-                "Meron, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Explores theories of creativity; situates creativity and creative practices within the social structure of organizations that develop creative content; examines the relationship between creative strategy, creative concepts and creative executions; exposes students to the practice of creating content for traditional and non-traditional media vehicles.",
-      []
-    ],
-    "ADV 392": [
-      "Advertising Immersion and Experiential Learning",
-      {
-        "AMZ": [
-          "73423",
-          [
-            [
-              1,
-              "R",
-              "1302 Siebel Center for Comp Sci",
-              1,
-              [
-                "Nelson, M",
-                "Sar, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          6,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Covers a variety of topics designed to help students learn more about, and be better prepared to enter, the advertising industry as professionals. Course content will include an overview of careers in the advertising industry while paying particular attention to areas of future career growth. This course is centered on experiential learning where students will participate in interactive discussions and create advertising strategies with industry professionals at media related agencies and other industry businesses.",
-      []
-    ],
     "ADV 391": [
       "Creative Advertising for Non-Majors",
       {
@@ -1408,7 +1347,7 @@
           "77831",
           [
             [
-              1,
+              12,
               "TR",
               "319 Gregory Hall",
               4,
@@ -1429,6 +1368,66 @@
       },
       [],
       "Explore the creative side of advertising – writing and art, ideation through execution, for traditional and non-traditional media. This course also provides non-majors with some fundamentals of the field such as research, brand strategy, consumer insights, and media.",
+      []
+    ],
+    "ADV 393": [
+      "Advertising and Society",
+      {
+        "A": [
+          "60086",
+          [
+            [
+              41,
+              "MW",
+              "124 Burrill Hall",
+              14,
+              [
+                "Vargas, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Provides a critical understanding of advertising's role in modern society. Advertising will be studied as a cultural force and social institution. Its role will be examined in relation to communications, economics, and political and legal systems.",
+      []
+    ],
+    "ADV 390": [
+      "Content Creation",
+      {
+        "A": [
+          "60085",
+          [
+            [
+              12,
+              "TR",
+              "213 Gregory Hall",
+              4,
+              [
+                "Meron, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Explores theories of creativity; situates creativity and creative practices within the social structure of organizations that develop creative content; examines the relationship between creative strategy, creative concepts and creative executions; exposes students to the practice of creating content for traditional and non-traditional media vehicles.",
       []
     ],
     "ADV 396": [
@@ -1461,26 +1460,27 @@
       "Supervised participation in research and scholarly activities, usually as an assistant to an investigator.",
       []
     ],
-    "ADV 393": [
-      "Advertising and Society",
+    "ADV 392": [
+      "Advertising Immersion and Experiential Learning",
       {
-        "A": [
-          "60086",
+        "AMZ": [
+          "73423",
           [
             [
-              43,
-              "MW",
-              "124 Burrill Hall",
-              14,
+              12,
+              "R",
+              "1302 Siebel Center for Comp Sci",
+              1,
               [
-                "Vargas, P"
+                "Nelson, M",
+                "Sar, S"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          3,
+          6,
           0,
           0,
           [],
@@ -1488,7 +1488,37 @@
         ]
       },
       [],
-      "Provides a critical understanding of advertising's role in modern society. Advertising will be studied as a cultural force and social institution. Its role will be examined in relation to communications, economics, and political and legal systems.",
+      "Covers a variety of topics designed to help students learn more about, and be better prepared to enter, the advertising industry as professionals. Course content will include an overview of careers in the advertising industry while paying particular attention to areas of future career growth. This course is centered on experiential learning where students will participate in interactive discussions and create advertising strategies with industry professionals at media related agencies and other industry businesses.",
+      []
+    ],
+    "ADV 400": [
+      "Special Problems",
+      {
+        "": [
+          "10112",
+          [
+            [
+              9,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Special projects, research, and independent reading in advertising for students capable of individual work under the guidance of a faculty adviser.",
       []
     ],
     "ADV 409": [
@@ -1498,7 +1528,7 @@
           "68732",
           [
             [
-              12,
+              11,
               "TR",
               "1046 Siebel Center for Design",
               1,
@@ -1573,36 +1603,6 @@
       "Provides credit toward undergraduate degree for undertaking study and/or a research project through faculty led programs or from an accredited foreign institution or approved overseas program.",
       []
     ],
-    "ADV 400": [
-      "Special Problems",
-      {
-        "": [
-          "10112",
-          [
-            [
-              9,
-              "",
-              "ONLINE",
-              1,
-              [
-                "Staff"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          4,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Special projects, research, and independent reading in advertising for students capable of individual work under the guidance of a faculty adviser.",
-      []
-    ],
     "ADV 410": [
       "Public Relations Strategies",
       {
@@ -1610,10 +1610,10 @@
           "50144",
           [
             [
-              1,
+              12,
               "MW",
               "312 David Kinley Hall",
-              6,
+              7,
               [
                 "Wirtz, J"
               ],
@@ -1635,7 +1635,7 @@
               13,
               "MW",
               "312 David Kinley Hall",
-              6,
+              7,
               [
                 "Wirtz, J"
               ],
@@ -1662,7 +1662,7 @@
           "52662",
           [
             [
-              16,
+              14,
               "TR",
               "31 Gregory Hall",
               4,
@@ -1685,19 +1685,19 @@
       "This portfolio-oriented course builds upon the core competencies acquired in ADV 452 and applies them to solving real-world advertising problems with integrated creative consumer communications efforts than span traditional and new media.",
       []
     ],
-    "ADV 461": [
-      "Computational Advertising",
+    "ADV 483": [
+      "Audience Analysis",
       {
-        "A": [
-          "70249",
+        "E": [
+          "68912",
           [
             [
-              39,
-              "MW",
+              11,
+              "TR",
               "31 Gregory Hall",
               4,
               [
-                "Maslowska, E"
+                "Zhang, J"
               ],
               -1,
               -1,
@@ -1712,22 +1712,22 @@
         ]
       },
       [],
-      "Explores the emerging landscape of computational advertising and provides students with a thorough understanding of digital advertising mechanisms, including topics like programmatic advertising, auctions, (behavioral) targeting, and attribution. Students also discuss the role of the digital traces left by consumers and how they can be used to generate insights to improve communication efforts. An emphasis is placed on privacy and ethical issues. Legal issues entrenched in digital advertising are also discussed.",
+      "Analyzes audiences and matches consumer insights with strategic ideas for brand communication, contact, and connection.",
       []
     ],
-    "ADV 492": [
-      "Tech and Advertising Campaigns",
+    "ADV 491": [
+      "Digital Content and Social Media Management",
       {
-        "U": [
-          "64125",
+        "A": [
+          "41469",
           [
             [
-              37,
+              53,
               "MW",
               "31 Gregory Hall",
               4,
               [
-                "Maslowska, E"
+                "Peacock, M"
               ],
               -1,
               -1,
@@ -1742,7 +1742,7 @@
         ]
       },
       [],
-      "With the maturation of the internet as an advertising and media channel, advertising, journalism, and communications students need to know more about technology and how that impacts their messages and designs. Likewise, computer scientists could benefit from knowledge of what the end user is looking for when designing web content, applications and other web-based media. Students in this course will gain design knowledge as well as a hands-on experience in completing a technology-driven advertising campaign. Students will participate in engineering, advertising and project management activities with individual as well as team responsibilities.",
+      "Application of analytical planning concepts to advertising planning, decision making, and managing social media accounts. Covers all of the decision making areas of advertising and social media management.",
       []
     ],
     "ADV 480": [
@@ -1774,7 +1774,7 @@
           "74411",
           [
             [
-              1,
+              12,
               "TR",
               "31 Gregory Hall",
               4,
@@ -1797,49 +1797,19 @@
       "Social media analytics is the art and science of extracting valuable hidden insights from vast amounts of semi-structured and unstructured social media data to enable informed and insightful decision making. ADV 480 is an advanced course designed to provide the students with (1) well-grounded understanding of social media analytics, (2) techniques of extracting and analyzing Twitter analytics, and (3) skills of interpreting and aligning insights gained with organizational goals and objectives.",
       []
     ],
-    "ADV 483": [
-      "Audience Analysis",
-      {
-        "E": [
-          "68912",
-          [
-            [
-              12,
-              "TR",
-              "31 Gregory Hall",
-              4,
-              [
-                "Zhang, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Analyzes audiences and matches consumer insights with strategic ideas for brand communication, contact, and connection.",
-      []
-    ],
-    "ADV 491": [
-      "Digital Content and Social Media Management",
+    "ADV 461": [
+      "Computational Advertising",
       {
         "A": [
-          "41469",
+          "70249",
           [
             [
-              52,
+              37,
               "MW",
               "31 Gregory Hall",
               4,
               [
-                "Peacock, M"
+                "Maslowska, E"
               ],
               -1,
               -1,
@@ -1854,111 +1824,37 @@
         ]
       },
       [],
-      "Application of analytical planning concepts to advertising planning, decision making, and managing social media accounts. Covers all of the decision making areas of advertising and social media management.",
+      "Explores the emerging landscape of computational advertising and provides students with a thorough understanding of digital advertising mechanisms, including topics like programmatic advertising, auctions, (behavioral) targeting, and attribution. Students also discuss the role of the digital traces left by consumers and how they can be used to generate insights to improve communication efforts. An emphasis is placed on privacy and ethical issues. Legal issues entrenched in digital advertising are also discussed.",
       []
     ],
-    "ADV 495": [
-      "Internship Seminar",
+    "ADV 492": [
+      "Tech and Advertising Campaigns",
       {
-        "1": [
-          "49210",
+        "U": [
+          "64125",
           [
             [
-              9,
-              "",
-              "ONLINE",
-              1,
+              38,
+              "MW",
+              "31 Gregory Hall",
+              4,
               [
-                "Almanza, D"
+                "Maslowska, E"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          1,
           3,
           0,
-          [],
-          -1
-        ],
-        "EF": [
-          "73777",
-          [
-            [
-              9,
-              "",
-              "ONLINE",
-              1,
-              [
-                "Phillips, M"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          1,
-          12,
-          0,
-          [],
-          -1
-        ],
-        "MS": [
-          "49825",
-          [
-            [
-              9,
-              "",
-              "ONLINE",
-              1,
-              [
-                "Clifton, D"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          1,
-          3,
           0,
           [],
           -1
         ]
       },
       [],
-      "Seminar based on internship experience. Offered for College of Media students who complete an approved professional, industry related internship.",
-      []
-    ],
-    "ADV 496": [
-      "UG Research Project",
-      {
-        "": [
-          "64102",
-          [
-            [
-              9,
-              "",
-              "ONLINE",
-              1,
-              [
-                "Staff"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          4,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Supervised investigation of student-driven research on special topics related to advertising in individual or collaborative format. Topic and nature of research may vary. Capstone paper required. Type of course: Lecture-discussion",
+      "With the maturation of the internet as an advertising and media channel, advertising, journalism, and communications students need to know more about technology and how that impacts their messages and designs. Likewise, computer scientists could benefit from knowledge of what the end user is looking for when designing web content, applications and other web-based media. Students in this course will gain design knowledge as well as a hands-on experience in completing a technology-driven advertising campaign. Students will participate in engineering, advertising and project management activities with individual as well as team responsibilities.",
       []
     ],
     "ADV 490": [
@@ -1968,7 +1864,7 @@
           "58648",
           [
             [
-              1,
+              12,
               "R",
               "1302 Siebel Center for Comp Sci",
               1,
@@ -1994,7 +1890,7 @@
               13,
               "MW",
               "115 David Kinley Hall",
-              6,
+              7,
               [
                 "Heede, P"
               ],
@@ -2058,19 +1954,19 @@
       "Covers current issues in various advertising areas not studied extensively in other courses.",
       []
     ],
-    "ADV 497": [
-      "Colloquium in Advertising",
+    "ADV 495": [
+      "Internship Seminar",
       {
-        "A": [
-          "77049",
+        "1": [
+          "49210",
           [
             [
-              5,
-              "F",
-              "31 Gregory Hall",
-              4,
+              9,
+              "",
+              "ONLINE",
+              1,
               [
-                "Wise, K"
+                "Almanza, D"
               ],
               -1,
               -1,
@@ -2078,125 +1974,65 @@
             ]
           ],
           1,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Current topics, cases, and research in advertising are presented in a forum that fosters critical thinking and engagement. Weekly presentation and discussion of current research and cases by faculty, undergraduate/graduate students, visiting scholars and visiting professionals.",
-      []
-    ],
-    "ADV 498": [
-      "The Sandage Project",
-      {
-        "A": [
-          "63424",
-          [
-            [
-              18,
-              "MWF",
-              "31 Gregory Hall",
-              4,
-              [
-                "Peacock, M"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
           3,
-          0,
           0,
           [],
           -1
         ],
-        "C": [
-          "63426",
+        "EF": [
+          "73777",
           [
             [
-              56,
-              "MWF",
-              "1043 Sidney Lu Mech Engr Bldg",
+              9,
+              "",
+              "ONLINE",
               1,
               [
-                "Peacock, M"
+                "Phillips, M"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          3,
-          0,
+          1,
+          13,
           0,
           [],
           -1
         ],
-        "D": [
-          "63427",
+        "MS": [
+          "49825",
           [
             [
-              18,
-              "MWF",
-              "31 Gregory Hall",
-              4,
+              9,
+              "",
+              "ONLINE",
+              1,
               [
-                "Yang, G"
+                "Clifton, D"
               ],
               -1,
               -1,
               -1
             ]
           ],
+          1,
           3,
-          0,
           0,
           [],
           -1
         ]
       },
       [],
-      "This course is named after the founder of the Advertising Department, Charles H. Sandage (known as the \"father of advertising education\"). His vision of educating the future of the industry was grounded in theoretical and foundational courses emphasizing the \"why of advertising\" - not just the \"how.\" In this course, students will integrate the concepts, experiences, and skills that have been learned in the curriculum with a service-learning project.",
+      "Seminar based on internship experience. Offered for College of Media students who complete an approved professional, industry related internship.",
       []
     ],
-    "ADV 582": [
-      "Qualitative Rsrch in Advert",
-      {
-        "A": [
-          "30749",
-          [
-            [
-              57,
-              "W",
-              "219 Gregory Hall",
-              4,
-              [
-                "Nelson, M"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Treatment of basic research concepts and procedures in the social sciences with emphasis on advertising.",
-      []
-    ],
-    "ADV 590": [
-      "Special Topics in Advertising",
+    "ADV 496": [
+      "UG Research Project",
       {
         "": [
-          "10116",
+          "64102",
           [
             [
               9,
@@ -2211,152 +2047,25 @@
               -1
             ]
           ],
-          4,
-          4,
-          0,
-          [],
-          -1
-        ],
-        "CA": [
-          "52664",
-          [
-            [
-              39,
-              "MW",
-              "31 Gregory Hall",
-              4,
-              [
-                "Maslowska, E"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "CCI": [
-          "45525",
-          [
-            [
-              13,
-              "MW",
-              "115 David Kinley Hall",
-              6,
-              [
-                "Heede, P"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "POP": [
-          "49538",
-          [
-            [
-              44,
-              "MW",
-              "317 Gregory Hall",
-              4,
-              [
-                "Oh, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "May be repeated in the same or in multiple semesters if topics vary. Prerequisite: Consent of department.",
-      []
-    ],
-    "ADV 509": [
-      "Media Entrepreneurship",
-      {
-        "A": [
-          "68920",
-          [
-            [
-              12,
-              "TR",
-              "1046 Siebel Center for Design",
-              1,
-              [
-                "Kasdan, T"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
           3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Introduces students to the foundations of entrepreneurship and evolving business models for media. Students are introduced to the foundation and context of entrepreneurship. The course will cover the skills and practices necessary for new entrepreneurial ventures, as well as the processes of evaluation an idea, assessing the market, and implementing a new venture. Finally, students will examine business case studies for both successful and unsuccessful media start-ups.",
-      []
-    ],
-    "ADV 598": [
-      "Professional Project",
-      {
-        "1": [
-          "67375",
-          [
-            [
-              9,
-              "",
-              "ONLINE",
-              1,
-              [
-                "Nelson, M",
-                "Yao, M"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          6,
-          14,
+          4,
           0,
           [],
           -1
         ]
       },
       [],
-      "This is a capstone course – where individuals will complete their final project for the MS Advertising degree. The project showcases the student’s mastery of knowledge in the primary areas of advertising.",
+      "Supervised investigation of student-driven research on special topics related to advertising in individual or collaborative format. Topic and nature of research may vary. Capstone paper required. Type of course: Lecture-discussion",
       []
     ],
-    "ADV 597": [
-      "Proseminar in Advertising",
+    "ADV 497": [
+      "Colloquium in Advertising",
       {
         "A": [
-          "77050",
+          "77049",
           [
             [
-              5,
+              6,
               "F",
               "31 Gregory Hall",
               4,
@@ -2408,68 +2117,359 @@
       [],
       "Students write research proposals in this course.",
       []
+    ],
+    "ADV 509": [
+      "Media Entrepreneurship",
+      {
+        "A": [
+          "68920",
+          [
+            [
+              11,
+              "TR",
+              "1046 Siebel Center for Design",
+              1,
+              [
+                "Kasdan, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduces students to the foundations of entrepreneurship and evolving business models for media. Students are introduced to the foundation and context of entrepreneurship. The course will cover the skills and practices necessary for new entrepreneurial ventures, as well as the processes of evaluation an idea, assessing the market, and implementing a new venture. Finally, students will examine business case studies for both successful and unsuccessful media start-ups.",
+      []
+    ],
+    "ADV 582": [
+      "Qualitative Rsrch in Advert",
+      {
+        "A": [
+          "30749",
+          [
+            [
+              56,
+              "W",
+              "219 Gregory Hall",
+              4,
+              [
+                "Nelson, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Treatment of basic research concepts and procedures in the social sciences with emphasis on advertising.",
+      []
+    ],
+    "ADV 498": [
+      "The Sandage Project",
+      {
+        "A": [
+          "63424",
+          [
+            [
+              19,
+              "MWF",
+              "31 Gregory Hall",
+              4,
+              [
+                "Peacock, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "C": [
+          "63426",
+          [
+            [
+              57,
+              "MWF",
+              "1043 Sidney Lu Mech Engr Bldg",
+              1,
+              [
+                "Peacock, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "D": [
+          "63427",
+          [
+            [
+              19,
+              "MWF",
+              "31 Gregory Hall",
+              4,
+              [
+                "Yang, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "This course is named after the founder of the Advertising Department, Charles H. Sandage (known as the \"father of advertising education\"). His vision of educating the future of the industry was grounded in theoretical and foundational courses emphasizing the \"why of advertising\" - not just the \"how.\" In this course, students will integrate the concepts, experiences, and skills that have been learned in the curriculum with a service-learning project.",
+      []
+    ],
+    "ADV 598": [
+      "Professional Project",
+      {
+        "1": [
+          "67375",
+          [
+            [
+              9,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Nelson, M",
+                "Yao, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          6,
+          14,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "This is a capstone course – where individuals will complete their final project for the MS Advertising degree. The project showcases the student’s mastery of knowledge in the primary areas of advertising.",
+      []
+    ],
+    "ADV 597": [
+      "Proseminar in Advertising",
+      {
+        "A": [
+          "77050",
+          [
+            [
+              6,
+              "F",
+              "31 Gregory Hall",
+              4,
+              [
+                "Wise, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Current topics, cases, and research in advertising are presented in a forum that fosters critical thinking and engagement. Weekly presentation and discussion of current research and cases by faculty, undergraduate/graduate students, visiting scholars and visiting professionals.",
+      []
+    ],
+    "ADV 590": [
+      "Special Topics in Advertising",
+      {
+        "": [
+          "10116",
+          [
+            [
+              9,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "CA": [
+          "52664",
+          [
+            [
+              37,
+              "MW",
+              "31 Gregory Hall",
+              4,
+              [
+                "Maslowska, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "CCI": [
+          "45525",
+          [
+            [
+              13,
+              "MW",
+              "115 David Kinley Hall",
+              7,
+              [
+                "Heede, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "POP": [
+          "49538",
+          [
+            [
+              44,
+              "MW",
+              "317 Gregory Hall",
+              4,
+              [
+                "Oh, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "May be repeated in the same or in multiple semesters if topics vary. Prerequisite: Consent of department.",
+      []
     ]
   },
   "caches": {
     "periods": [
       "0930 - 1050",
-      "1100 - 1220",
-      "1000 - 1050",
+      "1600 - 1715",
+      "0930 - 1045",
       "0900 - 0950",
+      "1000 - 1050",
       "1100 - 1150",
       "1200 - 1250",
       "1300 - 1350",
       "1400 - 1450",
-      "1400 - 1650",
       "0000 - 0000",
-      "1600 - 1715",
-      "0930 - 1045",
+      "1400 - 1650",
       "1230 - 1350",
+      "1100 - 1220",
       "1400 - 1520",
+      "1400 - 1550",
       "1600 - 1720",
       "1500 - 1720",
-      "1400 - 1550",
       "1400 - 1720",
-      "1300 - 1450",
-      "0800 - 0950",
-      "1500 - 1650",
       "0900 - 1150",
+      "1300 - 1450",
+      "1500 - 1650",
+      "0800 - 0950",
       "0900 - 1020",
       "1500 - 1550",
       "1400 - 1630",
-      "1700 - 1820",
       "0800 - 0850",
-      "1530 - 1650",
       "0800 - 0920",
+      "1530 - 1650",
+      "1700 - 1820",
       "1530 - 1620",
       "2000 - 2050",
       "0800 - 1150",
+      "1500 - 1750",
       "1200 - 1550",
       "1230 - 1620",
       "0830 - 0920",
-      "1500 - 1750",
       "1300 - 1650",
+      "1500 - 1620",
       "0900 - 1050",
       "1100 - 1250",
-      "1500 - 1620",
       "1700 - 1850",
+      "1200 - 1320",
       "1600 - 1750",
       "1600 - 1650",
-      "1200 - 1320",
       "1000 - 1120",
       "1130 - 1250",
       "1300 - 1420",
       "1600 - 1730",
       "1030 - 1150",
+      "1230 - 1320",
       "1330 - 1520",
       "1530 - 1710",
-      "1230 - 1320",
-      "1630 - 1750",
       "1430 - 1550",
+      "1630 - 1750",
       "1730 - 1850",
       "1730 - 1920",
-      "1000 - 1150",
-      "1530 - 1820"
+      "1530 - 1820",
+      "1000 - 1150"
     ],
     "dateRanges": [],
     "scheduleTypes": [
@@ -2478,15 +2478,15 @@
       "Lecture",
       "Online",
       "Independent Study",
-      "Laboratory-Discussion",
       "Laboratory",
       "Online Lecture",
+      "Laboratory-Discussion",
       "Online Discussion",
       "Conference",
       "Online Lecture Discussion",
       "Seminar",
-      "Internship",
       "Study Abroad",
+      "Internship",
       "Research"
     ],
     "campuses": [],
@@ -2495,20 +2495,20 @@
     "gradeBases": [],
     "locations": [
       {
-        "lat": 40.1047599,
-        "long": -88.2319514
+        "lat": 40.107534,
+        "long": -88.2281548
       },
       {
         "lat": null,
         "long": null
       },
       {
-        "lat": 40.1065684,
-        "long": -88.2281746
+        "lat": 40.1047599,
+        "long": -88.2319514
       },
       {
-        "lat": 40.107534,
-        "long": -88.2281548
+        "lat": 40.1065684,
+        "long": -88.2281746
       },
       {
         "lat": 40.105732,
@@ -2519,16 +2519,16 @@
         "long": -88.2262016
       },
       {
+        "lat": 40.1020773,
+        "long": -88.2296394
+      },
+      {
         "lat": 40.1035833,
         "long": -88.228405
       },
       {
         "lat": 40.11246109008789,
         "long": -88.22831726074219
-      },
-      {
-        "lat": 40.1020773,
-        "long": -88.2296394
       },
       {
         "lat": 40.1035872,

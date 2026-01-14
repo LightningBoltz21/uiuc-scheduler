@@ -1,128 +1,8 @@
 {
   "subject": "AAS",
-  "scrapedAt": 1768370741046,
+  "scrapedAt": 1768370907799,
   "courseCount": 20,
   "courses": {
-    "AAS 288": [
-      "Global Islam and Feminisms",
-      {
-        "MKH": [
-          "77360",
-          [
-            [
-              0,
-              "TR",
-              "134 Armory",
-              0,
-              [
-                "Kashani, M"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      null,
-      []
-    ],
-    "AAS 215": [
-      "US Citizenship Comparatively",
-      {
-        "A": [
-          "52317",
-          [
-            [
-              1,
-              "TR",
-              "207 Psychology Building",
-              1,
-              [
-                "Kang, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Examines the racial, gendered, and sexualized aspects of US citizenship historically and comparatively. Interdisciplinary course taught from a humanities perspective. Readings draw from critical legal studies, history, literature, literary criticism, and ethnography.",
-      []
-    ],
-    "AAS 286": [
-      "Asian American Literature",
-      {
-        "P": [
-          "32112",
-          [
-            [
-              2,
-              "MWF",
-              "1022 Lincoln Hall",
-              2,
-              [
-                "Villanueva, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as ENGL 286. See ENGL 286.",
-      []
-    ],
-    "AAS 283": [
-      "Asian American History",
-      {
-        "A": [
-          "34129",
-          [
-            [
-              1,
-              "TR",
-              "333 Armory",
-              0,
-              [
-                "Espiritu, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as HIST 283. See HIST 283.",
-      []
-    ],
     "AAS 287": [
       "Food and Asian Americans",
       {
@@ -133,7 +13,7 @@
               0,
               "TR",
               "104 English Building",
-              3,
+              0,
               [
                 "Siglos, D"
               ],
@@ -151,6 +31,58 @@
       },
       [],
       "Introduction to the interdisciplinary study of food to better understand the historical, social, and cultural aspects of Asian American food preparation, distribution and consumption. Students will investigate the politics and poetics of Asian American foodways by examining social habits, and rituals around food in restaurants, ethnic cookbooks, fictional works, memoirs, magazines, and television shows.",
+      []
+    ],
+    "AAS 297": [
+      "Asian Families in America",
+      {
+        "A": [
+          "62166",
+          [
+            [
+              1,
+              "TR",
+              "2030 1010 W Nevada",
+              1,
+              [
+                "Balgopal, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "73220",
+          [
+            [
+              2,
+              "TR",
+              "137 Armory",
+              2,
+              [
+                "Chih, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as HDFS 221 and SOCW 297. See SOCW 297.",
       []
     ],
     "AAS 100": [
@@ -183,7 +115,7 @@
           "41729",
           [
             [
-              2,
+              4,
               "F",
               "1030 Literatures, Cultures, & Ling",
               1,
@@ -206,7 +138,7 @@
           "43832",
           [
             [
-              4,
+              5,
               "F",
               "1030 Literatures, Cultures, & Ling",
               1,
@@ -229,7 +161,7 @@
           "48232",
           [
             [
-              5,
+              6,
               "F",
               "1030 Literatures, Cultures, & Ling",
               1,
@@ -252,7 +184,7 @@
           "48234",
           [
             [
-              6,
+              7,
               "F",
               "1030 Literatures, Cultures, & Ling",
               1,
@@ -275,7 +207,7 @@
           "50105",
           [
             [
-              7,
+              8,
               "F",
               "1030 Literatures, Cultures, & Ling",
               1,
@@ -298,10 +230,10 @@
           "54572",
           [
             [
-              2,
+              4,
               "F",
               "1064 Lincoln Hall",
-              2,
+              3,
               [
                 "Charity, H",
                 "Siglos, D"
@@ -321,7 +253,7 @@
           "51886",
           [
             [
-              4,
+              5,
               "F",
               "327 Gregory Hall",
               4,
@@ -344,7 +276,7 @@
           "70761",
           [
             [
-              6,
+              7,
               "F",
               "113 Davenport Hall",
               5,
@@ -367,7 +299,7 @@
           "70762",
           [
             [
-              7,
+              8,
               "F",
               "113 Davenport Hall",
               5,
@@ -390,7 +322,7 @@
           "30106",
           [
             [
-              2,
+              4,
               "MW",
               "2079 Natural History Building",
               1,
@@ -411,36 +343,6 @@
       },
       [],
       "Interdisciplinary introduction to the basic concepts and approaches in Asian American Studies. Surveys the various dimensions of Asian American experiences including history, social organization, literature, arts, and politics.",
-      []
-    ],
-    "AAS 246": [
-      "Asian American Youth in Film",
-      {
-        "B": [
-          "66231",
-          [
-            [
-              8,
-              "M",
-              "311 Gregory Hall",
-              4,
-              [
-                "Kwon, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Examines both mainstream and independent films and documentaries representing and/or produced by Asian American youth. Explores the role of multiculturalism and diversity issues in informing young people's experiences.",
       []
     ],
     "AAS 201": [
@@ -495,41 +397,19 @@
       "Same as AFRO 201, LLS 201, and PS 201. See PS 201.",
       []
     ],
-    "AAS 297": [
-      "Asian Families in America",
+    "AAS 246": [
+      "Asian American Youth in Film",
       {
-        "A": [
-          "62166",
+        "B": [
+          "66231",
           [
             [
               10,
-              "TR",
-              "2030 1010 W Nevada",
-              1,
+              "M",
+              "311 Gregory Hall",
+              4,
               [
-                "Balgopal, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "B": [
-          "73220",
-          [
-            [
-              11,
-              "TR",
-              "137 Armory",
-              0,
-              [
-                "Chih, D"
+                "Kwon, S"
               ],
               -1,
               -1,
@@ -544,7 +424,7 @@
         ]
       },
       [],
-      "Same as HDFS 221 and SOCW 297. See SOCW 297.",
+      "Examines both mainstream and independent films and documentaries representing and/or produced by Asian American youth. Explores the role of multiculturalism and diversity issues in informing young people's experiences.",
       []
     ],
     "AAS 200": [
@@ -554,10 +434,10 @@
           "64396",
           [
             [
-              12,
+              11,
               "TR",
               "145 Armory",
-              0,
+              2,
               [
                 "Siglos, D"
               ],
@@ -575,6 +455,126 @@
       },
       [],
       "Invites students to examine histories and narratives of U.S. race and empire, drawing upon multiple theoretical and methodological works in Asian American studies and related fields.",
+      []
+    ],
+    "AAS 288": [
+      "Global Islam and Feminisms",
+      {
+        "MKH": [
+          "77360",
+          [
+            [
+              0,
+              "TR",
+              "134 Armory",
+              2,
+              [
+                "Kashani, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      null,
+      []
+    ],
+    "AAS 283": [
+      "Asian American History",
+      {
+        "A": [
+          "34129",
+          [
+            [
+              12,
+              "TR",
+              "333 Armory",
+              2,
+              [
+                "Espiritu, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as HIST 283. See HIST 283.",
+      []
+    ],
+    "AAS 215": [
+      "US Citizenship Comparatively",
+      {
+        "A": [
+          "52317",
+          [
+            [
+              12,
+              "TR",
+              "207 Psychology Building",
+              1,
+              [
+                "Kang, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Examines the racial, gendered, and sexualized aspects of US citizenship historically and comparatively. Interdisciplinary course taught from a humanities perspective. Readings draw from critical legal studies, history, literature, literary criticism, and ethnography.",
+      []
+    ],
+    "AAS 286": [
+      "Asian American Literature",
+      {
+        "P": [
+          "32112",
+          [
+            [
+              4,
+              "MWF",
+              "1022 Lincoln Hall",
+              3,
+              [
+                "Villanueva, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as ENGL 286. See ENGL 286.",
       []
     ],
     "AAS 300": [
@@ -607,6 +607,151 @@
       "Explores theories for performing interdisciplinary, intersectional and comparative studies within the field of Asian American studies. Follows multiple genealogies of critical work in ethnic and American studies.",
       []
     ],
+    "AAS 310": [
+      "Race and Cultural Diversity",
+      {
+        "D1": [
+          "33071",
+          [
+            [
+              14,
+              "R",
+              "17 Education Building",
+              6,
+              [
+                "Moton, T",
+                "Sultan, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "D2": [
+          "45579",
+          [
+            [
+              14,
+              "R",
+              "42A Education Building",
+              6,
+              [
+                "Ewa, O",
+                "Moton, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "D3": [
+          "45586",
+          [
+            [
+              14,
+              "R",
+              "389 Education Building",
+              6,
+              [
+                "Ding, O",
+                "Moton, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "D4": [
+          "76829",
+          [
+            [
+              14,
+              "R",
+              "241 Armory",
+              2,
+              [
+                "Moton, T",
+                "Ruiz-Divas, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "D5": [
+          "76830",
+          [
+            [
+              14,
+              "R",
+              "242 Armory",
+              2,
+              [
+                "Moton, T",
+                "Pender, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "L": [
+          "33069",
+          [
+            [
+              14,
+              "T",
+              "2 Education Building",
+              6,
+              [
+                "Moton, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as AFRO 310, EPOL 310, and LLS 310. See EPOL 310.",
+      []
+    ],
     "AAS 357": [
       "Literatures of the Displaced",
       {
@@ -614,7 +759,7 @@
           "70259",
           [
             [
-              1,
+              12,
               "TR",
               "103 1207 W Oregon",
               1,
@@ -635,6 +780,96 @@
       },
       [],
       "Same as AIS 357, ENGL 357, GWS 357, and LLS 357. See LLS 357.",
+      []
+    ],
+    "AAS 496": [
+      "Experiments in Queer of Color Performance",
+      {
+        "A": [
+          "77987",
+          [
+            [
+              10,
+              "WF",
+              "1000 Siebel Center for Design",
+              1,
+              [
+                "Ruiz, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as ENGL 496, FAA 496, GWS 496, and THEA 486. See FAA 496.",
+      []
+    ],
+    "AAS 370": [
+      "Immigration, Law, and Rights",
+      {
+        "A": [
+          "77066",
+          [
+            [
+              13,
+              "TR",
+              "1062 Lincoln Hall",
+              3,
+              [
+                "Kang, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Exploration of the histories, cultures, and experiences of immigration to the United States by examining cultural production (literary and visual narratives and texts) alongside legal discourses (legislation, federal court cases).",
+      []
+    ],
+    "AAS 390": [
+      "Intermed Topics Asian Am St",
+      {
+        "DC": [
+          "69316",
+          [
+            [
+              15,
+              "MW",
+              "325 David Kinley Hall",
+              7,
+              [
+                "Geng, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "May be repeated in the same or subsequent terms to a maximum of 6 hours.",
       []
     ],
     "AAS 355": [
@@ -667,66 +902,6 @@
       "Same as LLS 355 and SOC 355. See LLS 355.",
       []
     ],
-    "AAS 370": [
-      "Immigration, Law, and Rights",
-      {
-        "A": [
-          "77066",
-          [
-            [
-              13,
-              "TR",
-              "1062 Lincoln Hall",
-              2,
-              [
-                "Kang, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Exploration of the histories, cultures, and experiences of immigration to the United States by examining cultural production (literary and visual narratives and texts) alongside legal discourses (legislation, federal court cases).",
-      []
-    ],
-    "AAS 390": [
-      "Intermed Topics Asian Am St",
-      {
-        "DC": [
-          "69316",
-          [
-            [
-              14,
-              "MW",
-              "325 David Kinley Hall",
-              6,
-              [
-                "Geng, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "May be repeated in the same or subsequent terms to a maximum of 6 hours.",
-      []
-    ],
     "AAS 465": [
       "Race, Sex, and Deviance",
       {
@@ -734,10 +909,10 @@
           "48488",
           [
             [
-              15,
+              16,
               "M",
               "0018 Campus Instructional Facility",
-              7,
+              8,
               [
                 "Flores, N"
               ],
@@ -756,10 +931,10 @@
           "48487",
           [
             [
-              15,
+              16,
               "M",
               "0018 Campus Instructional Facility",
-              7,
+              8,
               [
                 "Flores, N"
               ],
@@ -809,181 +984,6 @@
       "Individual guidance in intensive readings in the literature of one or more subdivisions of the field of Asian American Studies.",
       []
     ],
-    "AAS 310": [
-      "Race and Cultural Diversity",
-      {
-        "D1": [
-          "33071",
-          [
-            [
-              16,
-              "R",
-              "17 Education Building",
-              8,
-              [
-                "Moton, T",
-                "Sultan, I"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "D2": [
-          "45579",
-          [
-            [
-              16,
-              "R",
-              "42A Education Building",
-              8,
-              [
-                "Ewa, O",
-                "Moton, T"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "D3": [
-          "45586",
-          [
-            [
-              16,
-              "R",
-              "389 Education Building",
-              8,
-              [
-                "Ding, O",
-                "Moton, T"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "D4": [
-          "76829",
-          [
-            [
-              16,
-              "R",
-              "241 Armory",
-              0,
-              [
-                "Moton, T",
-                "Ruiz-Divas, V"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "D5": [
-          "76830",
-          [
-            [
-              16,
-              "R",
-              "242 Armory",
-              0,
-              [
-                "Moton, T",
-                "Pender, L"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "L": [
-          "33069",
-          [
-            [
-              16,
-              "T",
-              "2 Education Building",
-              8,
-              [
-                "Moton, T"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          2,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as AFRO 310, EPOL 310, and LLS 310. See EPOL 310.",
-      []
-    ],
-    "AAS 496": [
-      "Experiments in Queer of Color Performance",
-      {
-        "A": [
-          "77987",
-          [
-            [
-              8,
-              "WF",
-              "1000 Siebel Center for Design",
-              1,
-              [
-                "Ruiz, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as ENGL 496, FAA 496, GWS 496, and THEA 486. See FAA 496.",
-      []
-    ],
     "AAS 561": [
       "Race and Cultural Critique",
       {
@@ -1018,22 +1018,22 @@
   "caches": {
     "periods": [
       "0930 - 1050",
-      "1100 - 1220",
-      "1000 - 1050",
+      "1600 - 1715",
+      "0930 - 1045",
       "0900 - 0950",
+      "1000 - 1050",
       "1100 - 1150",
       "1200 - 1250",
       "1300 - 1350",
       "1400 - 1450",
-      "1400 - 1650",
       "0000 - 0000",
-      "1600 - 1715",
-      "0930 - 1045",
+      "1400 - 1650",
       "1230 - 1350",
+      "1100 - 1220",
       "1400 - 1520",
+      "1400 - 1550",
       "1600 - 1720",
       "1500 - 1720",
-      "1400 - 1550",
       "1400 - 1720"
     ],
     "dateRanges": [],
@@ -1050,20 +1050,20 @@
     "gradeBases": [],
     "locations": [
       {
-        "lat": 40.1047599,
-        "long": -88.2319514
+        "lat": 40.107534,
+        "long": -88.2281548
       },
       {
         "lat": null,
         "long": null
       },
       {
-        "lat": 40.1065684,
-        "long": -88.2281746
+        "lat": 40.1047599,
+        "long": -88.2319514
       },
       {
-        "lat": 40.107534,
-        "long": -88.2281548
+        "lat": 40.1065684,
+        "long": -88.2281746
       },
       {
         "lat": 40.105732,
@@ -1074,16 +1074,16 @@
         "long": -88.2262016
       },
       {
+        "lat": 40.1020773,
+        "long": -88.2296394
+      },
+      {
         "lat": 40.1035833,
         "long": -88.228405
       },
       {
         "lat": 40.11246109008789,
         "long": -88.22831726074219
-      },
-      {
-        "lat": 40.1020773,
-        "long": -88.2296394
       }
     ],
     "finalDates": [],

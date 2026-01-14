@@ -1,21 +1,21 @@
 {
   "subject": "ARTE",
-  "scrapedAt": 1768370779924,
+  "scrapedAt": 1768370945932,
   "courseCount": 11,
   "courses": {
-    "ARTE 260": [
-      "Museums in Action",
+    "ARTE 301": [
+      "Curriculum, Assessment, and Art Education",
       {
-        "SL": [
-          "53195",
+        "R8": [
+          "30427",
           [
             [
-              13,
-              "TR",
-              "312 Art and Design Building",
+              38,
+              "MW",
+              "320 Flagg Hall",
               1,
               [
-                "Lee, S"
+                "Travis, S"
               ],
               -1,
               -1,
@@ -23,14 +23,14 @@
             ]
           ],
           3,
-          6,
+          0,
           0,
           [],
           -1
         ]
       },
       [],
-      "Considers how scholarly discourse in museum interpretation and educational program development are translated into practices that engage culturally diverse audiences. Readings, research, and professional activities provide students with opportunities for examination of museum interpretive practices, programming decisions, and public engagement activities, along with analysis of Krannert Art Museum's presence on the university campus, in the larger community, and on the World Wide Web.",
+      "With a focus on problem-based learning, students will design lesson plans and curriculum around a complex human issue. Students will have hands-on experiences teaching in actual classrooms as these lessons will be taught in local schools.",
       []
     ],
     "ARTE 505": [
@@ -40,7 +40,7 @@
           "56975",
           [
             [
-              87,
+              90,
               "W",
               "131 Flagg Hall",
               1,
@@ -61,6 +61,220 @@
       },
       [],
       "Designed for master's level students. Readings and discussions introduce the theories upon which classroom practices are based, and follow the historical sequence of three major movements within art education over the past 100 years: self-expression in art education, discipline-based art education, and the recent shift toward visual culture in art education. Primary emphasis will be on understanding recent and contemporary orientations. Designed to provide a basis for more in-depth study of curriculum and instruction, child development, multiculturalism, visual culture, and other areas germane to art education. Students compare and contrast the literature in terms of the theories offered, or assumed, of children, art, pedagogy, and society. In addition, students will be introduced to academic standards of writing.",
+      []
+    ],
+    "ARTE 260": [
+      "Museums in Action",
+      {
+        "SL": [
+          "53195",
+          [
+            [
+              13,
+              "TR",
+              "312 Art and Design Building",
+              1,
+              [
+                "Lee, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Considers how scholarly discourse in museum interpretation and educational program development are translated into practices that engage culturally diverse audiences. Readings, research, and professional activities provide students with opportunities for examination of museum interpretive practices, programming decisions, and public engagement activities, along with analysis of Krannert Art Museum's presence on the university campus, in the larger community, and on the World Wide Web.",
+      []
+    ],
+    "ARTE 391": [
+      "Independent Study",
+      {
+        "": [
+          "10367",
+          [
+            [
+              9,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Directed independent research or creative activity.",
+      []
+    ],
+    "ARTE 393": [
+      "Teachers as Researchers",
+      {
+        "1": [
+          "72109",
+          [
+            [
+              0,
+              "TR",
+              "320 Flagg Hall",
+              1,
+              [
+                "Bergmark, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "An undergraduate level course dedicated to providing an overview for informed understanding of the research process, including: definitions and examples of research; common issues such as the IRB, copyright and plagiarism; and exploring two qualitative methodologies used in teaching, specifically Case Study and [Participatory] Action Research. Students will complete 20 Early Field Experience [EFE] hours in this course by observing/teaching with elementary and/or secondary (art) teachers in the local Champaign-Urbana school districts. A substantial research project will complete the course.",
+      []
+    ],
+    "ARTE 299": [
+      "Spec Topics in Art Education",
+      {
+        "AE1": [
+          "52290",
+          [
+            [
+              88,
+              "M",
+              "129 Flagg Hall",
+              1,
+              [
+                "Hetrick, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Topics and subject matter to be published in course listings.",
+      []
+    ],
+    "ARTE 401": [
+      "Teaching Seminar",
+      {
+        "B": [
+          "60425",
+          [
+            [
+              40,
+              "W",
+              "ONLINE",
+              1,
+              [
+                "Percoco, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Examines responsibilities, methods, and techniques specific to teaching art in elementary and secondary schools; includes the psychology of the exceptional child in conjunction with methods of instruction and student teaching experience.",
+      []
+    ],
+    "ARTE 591": [
+      "Independent Graduate Studies",
+      {
+        "": [
+          "10370",
+          [
+            [
+              9,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Individual direction in research and in creative activity; thesis.",
+      []
+    ],
+    "ARTE 101": [
+      "Art, Design, and Society",
+      {
+        "1": [
+          "68870",
+          [
+            [
+              6,
+              "F",
+              "134 Temple Hoyne Buell Hall",
+              1,
+              [
+                "Bergmark, J",
+                "Helms, M",
+                "Martinez Ruiz, A",
+                "Peyravi, P",
+                "Shoppell, s"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "This course provides an introductory forum for beginning artists, designers, art historians, and art educators to think through the motivation(s) behind their/our creative work(s), research, and practices. Through topical examinations of contemporary art, craft, design, art history scholarship, art education scholarship, and interdisciplinary projects, developing artists will sift through pertinent issues around sustainability, ethics, ecologies, pedagogies, and civic engagement in order to inform our own burgeoning motivations and creative practices.",
       []
     ],
     "ARTE 480": [
@@ -115,220 +329,6 @@
       "Focuses primarily on contemporary popular culture, but also draws upon fine art, folk art, and indigenous art from both the past and the present. Considers the often troubled relationships between the pleasures of visual culture and its ideologies. Students examine the literature of visual culture studies and develop research skills by examining a specific site of visual culture of their own choosing in terms of aesthetic pleasures and ideology including but not limited to sexism, class, ethnicity, religion, homophobia, and xenophobia. Theories of the body, consumerism, and globalization, among others will be considered.",
       []
     ],
-    "ARTE 393": [
-      "Teachers as Researchers",
-      {
-        "1": [
-          "72109",
-          [
-            [
-              0,
-              "TR",
-              "320 Flagg Hall",
-              1,
-              [
-                "Bergmark, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "An undergraduate level course dedicated to providing an overview for informed understanding of the research process, including: definitions and examples of research; common issues such as the IRB, copyright and plagiarism; and exploring two qualitative methodologies used in teaching, specifically Case Study and [Participatory] Action Research. Students will complete 20 Early Field Experience [EFE] hours in this course by observing/teaching with elementary and/or secondary (art) teachers in the local Champaign-Urbana school districts. A substantial research project will complete the course.",
-      []
-    ],
-    "ARTE 591": [
-      "Independent Graduate Studies",
-      {
-        "": [
-          "10370",
-          [
-            [
-              9,
-              "",
-              "ONLINE",
-              1,
-              [
-                "Staff"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          8,
-          4,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Individual direction in research and in creative activity; thesis.",
-      []
-    ],
-    "ARTE 301": [
-      "Curriculum, Assessment, and Art Education",
-      {
-        "R8": [
-          "30427",
-          [
-            [
-              37,
-              "MW",
-              "320 Flagg Hall",
-              1,
-              [
-                "Travis, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "With a focus on problem-based learning, students will design lesson plans and curriculum around a complex human issue. Students will have hands-on experiences teaching in actual classrooms as these lessons will be taught in local schools.",
-      []
-    ],
-    "ARTE 391": [
-      "Independent Study",
-      {
-        "": [
-          "10367",
-          [
-            [
-              9,
-              "",
-              "ONLINE",
-              1,
-              [
-                "Staff"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          4,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Directed independent research or creative activity.",
-      []
-    ],
-    "ARTE 299": [
-      "Spec Topics in Art Education",
-      {
-        "AE1": [
-          "52290",
-          [
-            [
-              90,
-              "M",
-              "129 Flagg Hall",
-              1,
-              [
-                "Hetrick, L"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          6,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Topics and subject matter to be published in course listings.",
-      []
-    ],
-    "ARTE 401": [
-      "Teaching Seminar",
-      {
-        "B": [
-          "60425",
-          [
-            [
-              40,
-              "W",
-              "ONLINE",
-              1,
-              [
-                "Percoco, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          3,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Examines responsibilities, methods, and techniques specific to teaching art in elementary and secondary schools; includes the psychology of the exceptional child in conjunction with methods of instruction and student teaching experience.",
-      []
-    ],
-    "ARTE 101": [
-      "Art, Design, and Society",
-      {
-        "1": [
-          "68870",
-          [
-            [
-              5,
-              "F",
-              "134 Temple Hoyne Buell Hall",
-              1,
-              [
-                "Bergmark, J",
-                "Helms, M",
-                "Martinez Ruiz, A",
-                "Peyravi, P",
-                "Shoppell, s"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          2,
-          2,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "This course provides an introductory forum for beginning artists, designers, art historians, and art educators to think through the motivation(s) behind their/our creative work(s), research, and practices. Through topical examinations of contemporary art, craft, design, art history scholarship, art education scholarship, and interdisciplinary projects, developing artists will sift through pertinent issues around sustainability, ethics, ecologies, pedagogies, and civic engagement in order to inform our own burgeoning motivations and creative practices.",
-      []
-    ],
     "ARTE 593": [
       "Survey: Qualitative Methodologies",
       {
@@ -363,63 +363,63 @@
   "caches": {
     "periods": [
       "0930 - 1050",
-      "1100 - 1220",
-      "1000 - 1050",
+      "1600 - 1715",
+      "0930 - 1045",
       "0900 - 0950",
+      "1000 - 1050",
       "1100 - 1150",
       "1200 - 1250",
       "1300 - 1350",
       "1400 - 1450",
-      "1400 - 1650",
       "0000 - 0000",
-      "1600 - 1715",
-      "0930 - 1045",
+      "1400 - 1650",
       "1230 - 1350",
+      "1100 - 1220",
       "1400 - 1520",
+      "1400 - 1550",
       "1600 - 1720",
       "1500 - 1720",
-      "1400 - 1550",
       "1400 - 1720",
-      "1300 - 1450",
-      "0800 - 0950",
-      "1500 - 1650",
       "0900 - 1150",
+      "1300 - 1450",
+      "1500 - 1650",
+      "0800 - 0950",
       "0900 - 1020",
       "1500 - 1550",
       "1400 - 1630",
-      "1700 - 1820",
       "0800 - 0850",
-      "1530 - 1650",
       "0800 - 0920",
+      "1530 - 1650",
+      "1700 - 1820",
       "1530 - 1620",
       "2000 - 2050",
       "0800 - 1150",
+      "1500 - 1750",
       "1200 - 1550",
       "1230 - 1620",
       "0830 - 0920",
-      "1500 - 1750",
       "1300 - 1650",
+      "1500 - 1620",
       "0900 - 1050",
       "1100 - 1250",
-      "1500 - 1620",
       "1700 - 1850",
+      "1200 - 1320",
       "1600 - 1750",
       "1600 - 1650",
-      "1200 - 1320",
       "1000 - 1120",
       "1130 - 1250",
       "1300 - 1420",
       "1600 - 1730",
       "1030 - 1150",
+      "1230 - 1320",
       "1330 - 1520",
       "1530 - 1710",
-      "1230 - 1320",
-      "1630 - 1750",
       "1430 - 1550",
+      "1630 - 1750",
       "1730 - 1850",
       "1730 - 1920",
-      "1000 - 1150",
       "1530 - 1820",
+      "1000 - 1150",
       "1700 - 1750",
       "1100 - 1215",
       "0800 - 0959",
@@ -438,22 +438,22 @@
       "1830 - 1950",
       "1100 - 1350",
       "1800 - 2050",
-      "1300 - 1520",
+      "1300 - 1750",
       "1030 - 1120",
       "1430 - 1520",
       "1630 - 1720",
       "1130 - 1220",
-      "1300 - 1750",
+      "1300 - 1520",
       "0930 - 1220",
       "0800 - 1050",
       "1200 - 1420",
       "0930 - 1120",
       "1800 - 1950",
-      "1600 - 1840",
-      "1700 - 1940",
       "0900 - 1140",
       "1300 - 1540",
       "1330 - 1450",
+      "1600 - 1840",
+      "1700 - 1940",
       "1400 - 1640",
       "0930 - 1210"
     ],
@@ -464,15 +464,15 @@
       "Lecture",
       "Online",
       "Independent Study",
-      "Laboratory-Discussion",
       "Laboratory",
       "Online Lecture",
+      "Laboratory-Discussion",
       "Online Discussion",
       "Conference",
       "Online Lecture Discussion",
       "Seminar",
-      "Internship",
       "Study Abroad",
+      "Internship",
       "Research",
       "Travel",
       "Studio"
@@ -483,20 +483,20 @@
     "gradeBases": [],
     "locations": [
       {
-        "lat": 40.1047599,
-        "long": -88.2319514
+        "lat": 40.107534,
+        "long": -88.2281548
       },
       {
         "lat": null,
         "long": null
       },
       {
-        "lat": 40.1065684,
-        "long": -88.2281746
+        "lat": 40.1047599,
+        "long": -88.2319514
       },
       {
-        "lat": 40.107534,
-        "long": -88.2281548
+        "lat": 40.1065684,
+        "long": -88.2281746
       },
       {
         "lat": 40.105732,
@@ -507,16 +507,16 @@
         "long": -88.2262016
       },
       {
+        "lat": 40.1020773,
+        "long": -88.2296394
+      },
+      {
         "lat": 40.1035833,
         "long": -88.228405
       },
       {
         "lat": 40.11246109008789,
         "long": -88.22831726074219
-      },
-      {
-        "lat": 40.1020773,
-        "long": -88.2296394
       },
       {
         "lat": 40.1035872,

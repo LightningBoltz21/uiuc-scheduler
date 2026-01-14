@@ -1,125 +1,79 @@
 {
   "subject": "ANSC",
-  "scrapedAt": 1768370767947,
+  "scrapedAt": 1768370934099,
   "courseCount": 48,
   "courses": {
-    "ANSC 211": [
-      "Meat Animal Evaluation",
+    "ANSC 210": [
+      "Grilling and BBQ Science",
       {
-        "A": [
-          "29929",
+        "AB1": [
+          "71671",
           [
             [
-              20,
-              "MW",
-              "ARR Meat Science Laboratory",
-              1,
+              10,
+              "R",
+              "120 Meat Science Laboratory",
+              24,
               [
-                "Brookshire, N",
-                "Burris, E",
-                "Shike, D"
+                "Dilger, A"
               ],
               -1,
               -1,
               -1
-            ],
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AB2": [
+          "71672",
+          [
             [
-              20,
+              18,
               "F",
-              "ARR Meat Science Laboratory",
-              1,
+              "120 Meat Science Laboratory",
+              24,
               [
-                "Brookshire, N",
-                "Burris, E",
-                "Shike, D"
+                "Dilger, A"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          3,
-          6,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "This course provides training in the evaluation of market animals and carcasses for value, price, and performance ranking. Students will develop skills in assessing beef, pork, and lamb for key industry traits such as trimness, muscling, and quality. Instruction emphasizes both live animal and carcass evaluation, with applications to real-world marketing and decision-making scenarios. Field trips to farms, processing plants, and meat evaluation competitions are required, offering hands-on experience with current industry standards and practices. Instructor approval is required to enroll in the course.",
-      []
-    ],
-    "ANSC 199": [
-      "Undergraduate Open Seminar",
-      {
-        "1": [
-          "76937",
-          [
-            [
-              3,
-              "MWF",
-              "131 Animal Sciences Laboratory",
-              11,
-              [
-                "Emmert, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
           2,
+          5,
           0,
           [],
           -1
         ],
-        "2": [
-          "76938",
+        "AB3": [
+          "71673",
           [
             [
-              2,
-              "MWF",
-              "131 Animal Sciences Laboratory",
-              11,
+              10,
+              "F",
+              "120 Meat Science Laboratory",
+              24,
               [
-                "Emmert, J"
+                "Dilger, A"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          5,
           2,
+          5,
           0,
           [],
           -1
         ],
-        "3": [
-          "76939",
-          [
-            [
-              6,
-              "MWF",
-              "131 Animal Sciences Laboratory",
-              11,
-              [
-                "Emmert, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          2,
-          0,
-          [],
-          -1
-        ],
-        "": [
-          "10232",
+        "AL1": [
+          "70873",
           [
             [
               9,
@@ -127,57 +81,7 @@
               "ONLINE",
               1,
               [
-                "Staff"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          4,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "An experimental course on a special topic in animal sciences.",
-      []
-    ],
-    "ANSC 103": [
-      "Working With Farm Animals",
-      {
-        "AL1": [
-          "29920",
-          [
-            [
-              20,
-              "R",
-              "ARR South Farms",
-              1,
-              [
-                "Glowacz, M",
-                "Gullickson, G",
-                "Matthews, J",
-                "Nolan, D",
-                "Parsons, C"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              9,
-              "R",
-              "ONLINE",
-              1,
-              [
-                "Glowacz, M",
-                "Gullickson, G",
-                "Matthews, J",
-                "Nolan, D",
-                "Parsons, C"
+                "Dilger, A"
               ],
               -1,
               -1,
@@ -192,7 +96,158 @@
         ]
       },
       [],
-      "Introductory course that will provide novice students with the fundamentals of animal-animal and animal-human interactions for domestic farm animals. Emphasizes hands-on experiences to develop a background in the concepts and practice of recognizing and understanding the animal's physiology and behavior, animal well being, and animal responses to human interactions.",
+      "This course will focus on food preparation and safety, product quality, correct cooking methods, endpoint temperatures, and other general grilling-related topics. The objective is to expand student knowledge on how to utilize different cuts of meat and other products to produce meals. Students will work in groups to prepare a dish with a specific product assigned to them and present their results to the class. Grills and cooking equipment will be provided.",
+      []
+    ],
+    "ANSC 100": [
+      "Intro to Animal Sciences",
+      {
+        "AB1": [
+          "29911",
+          [
+            [
+              21,
+              "T",
+              "107 Stock Pavilion",
+              1,
+              [
+                "Harsh, B"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              21,
+              "T",
+              "ARENA Stock Pavilion",
+              1,
+              [
+                "Harsh, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AB2": [
+          "29915",
+          [
+            [
+              20,
+              "T",
+              "107 Stock Pavilion",
+              1,
+              [
+                "Harsh, B"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              20,
+              "T",
+              "ARENA Stock Pavilion",
+              1,
+              [
+                "Harsh, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "29918",
+          [
+            [
+              5,
+              "MWF",
+              "166 Bevier Hall",
+              13,
+              [
+                "Cardoso, P",
+                "Cattai de Godoy, M",
+                "Emmert, J",
+                "Fischer-Brown, A",
+                "Glowacz, M",
+                "Harsh, B",
+                "Koelkebeck, K",
+                "McCann, J",
+                "Miller, D",
+                "Parsons, C",
+                "Schneider, A",
+                "Urbano Braz, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "[IAI Code: AG902] Survey of beef and dairy cattle, companion animals, horses, poultry, sheep, and swine. Includes the importance of product technology and the basic principles of nutrition, genetics, physiology, and behavior as they apply to breeding, selection, feeding, and management. Lecture and lab.",
+      []
+    ],
+    "ANSC 201": [
+      "Principles of Dairy Production",
+      {
+        "A": [
+          "71702",
+          [
+            [
+              46,
+              "T",
+              "316S Mumford Hall",
+              1,
+              [
+                "Nolan, D"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              7,
+              "R",
+              "316S Mumford Hall",
+              1,
+              [
+                "Nolan, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Surveys the dairy industry; examines principles of breeding, selection, reproduction, feeding, milking and management of dairy cattle.",
       []
     ],
     "ANSC 207": [
@@ -270,7 +325,7 @@
           "50323",
           [
             [
-              1,
+              12,
               "F",
               "131 Animal Sciences Laboratory",
               11,
@@ -293,7 +348,7 @@
           "50321",
           [
             [
-              1,
+              12,
               "R",
               "131 Animal Sciences Laboratory",
               11,
@@ -315,283 +370,6 @@
       },
       [],
       "Provides students with the knowledge and skills necessary to care for animal species commonly kept as pets. Biological concepts of anatomy, genetics, evolution, nutrition, reproduction, and behavior will provide valuable insight into companion animal husbandry practices for dogs, cats, small mammals, birds, fish, reptiles, and amphibians.",
-      []
-    ],
-    "ANSC 201": [
-      "Principles of Dairy Production",
-      {
-        "A": [
-          "71702",
-          [
-            [
-              46,
-              "T",
-              "316S Mumford Hall",
-              1,
-              [
-                "Nolan, D"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              6,
-              "R",
-              "316S Mumford Hall",
-              1,
-              [
-                "Nolan, D"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          6,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Surveys the dairy industry; examines principles of breeding, selection, reproduction, feeding, milking and management of dairy cattle.",
-      []
-    ],
-    "ANSC 210": [
-      "Grilling and BBQ Science",
-      {
-        "AB1": [
-          "71671",
-          [
-            [
-              8,
-              "R",
-              "120 Meat Science Laboratory",
-              24,
-              [
-                "Dilger, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          2,
-          6,
-          0,
-          [],
-          -1
-        ],
-        "AB2": [
-          "71672",
-          [
-            [
-              21,
-              "F",
-              "120 Meat Science Laboratory",
-              24,
-              [
-                "Dilger, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          2,
-          6,
-          0,
-          [],
-          -1
-        ],
-        "AB3": [
-          "71673",
-          [
-            [
-              8,
-              "F",
-              "120 Meat Science Laboratory",
-              24,
-              [
-                "Dilger, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          2,
-          6,
-          0,
-          [],
-          -1
-        ],
-        "AL1": [
-          "70873",
-          [
-            [
-              9,
-              "",
-              "ONLINE",
-              1,
-              [
-                "Dilger, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          2,
-          7,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "This course will focus on food preparation and safety, product quality, correct cooking methods, endpoint temperatures, and other general grilling-related topics. The objective is to expand student knowledge on how to utilize different cuts of meat and other products to produce meals. Students will work in groups to prepare a dish with a specific product assigned to them and present their results to the class. Grills and cooking equipment will be provided.",
-      []
-    ],
-    "ANSC 120": [
-      "The Art and Ethics of Animal Documentaries",
-      {
-        "SR": [
-          "76114",
-          [
-            [
-              18,
-              "MW",
-              "1020 Wymer Hall",
-              1,
-              [
-                "Richardson, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "With the rise of both social media and documentary films, animal welfare is mainly viewed through the lens of media. This course asks students to critically evaluate information from these pieces of media and better understand the narratives and biases that can be inherent in documentaries, nature films, undercover animal rights investigations, and social media accounts. We will also explore how these media can be used to bring awareness and education about animal industries.",
-      []
-    ],
-    "ANSC 100": [
-      "Intro to Animal Sciences",
-      {
-        "AB1": [
-          "29911",
-          [
-            [
-              19,
-              "T",
-              "107 Stock Pavilion",
-              1,
-              [
-                "Harsh, B"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              19,
-              "T",
-              "ARENA Stock Pavilion",
-              1,
-              [
-                "Harsh, B"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          6,
-          0,
-          [],
-          -1
-        ],
-        "AB2": [
-          "29915",
-          [
-            [
-              20,
-              "T",
-              "107 Stock Pavilion",
-              1,
-              [
-                "Harsh, B"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              20,
-              "T",
-              "ARENA Stock Pavilion",
-              1,
-              [
-                "Harsh, B"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          6,
-          0,
-          [],
-          -1
-        ],
-        "AL1": [
-          "29918",
-          [
-            [
-              4,
-              "MWF",
-              "166 Bevier Hall",
-              13,
-              [
-                "Cardoso, P",
-                "Cattai de Godoy, M",
-                "Emmert, J",
-                "Fischer-Brown, A",
-                "Glowacz, M",
-                "Harsh, B",
-                "Koelkebeck, K",
-                "McCann, J",
-                "Miller, D",
-                "Parsons, C",
-                "Schneider, A",
-                "Urbano Braz, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          2,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "[IAI Code: AG902] Survey of beef and dairy cattle, companion animals, horses, poultry, sheep, and swine. Includes the importance of product technology and the basic principles of nutrition, genetics, physiology, and behavior as they apply to breeding, selection, feeding, and management. Lecture and lab.",
       []
     ],
     "ANSC 205": [
@@ -657,7 +435,7 @@
             ]
           ],
           2,
-          6,
+          5,
           0,
           [],
           -1
@@ -667,19 +445,85 @@
       "The objective of each section is to train students on industry evaluation techniques of animals and/or their by-products. Additionally, students will examine different industry production styles, selection for improvements, and end product marketability. This course is divided into sections that focus on evaluation of animals or animal by-products (meat or dairy) and will develop skills of basic evaluation associated with each section. Travel to production facilities may occur based on the section. For Animal Science majors, only one instance (2 credit hours) taken in this course will count as an Applied Science credit towards their degree requirements.",
       []
     ],
-    "ANSC 350": [
-      "Principles of Biochemistry in Animals",
+    "ANSC 103": [
+      "Working With Farm Animals",
       {
-        "1": [
-          "77998",
+        "AL1": [
+          "29920",
           [
             [
-              13,
-              "TR",
-              "320 Mumford Hall",
+              20,
+              "R",
+              "ARR South Farms",
               1,
               [
-                "Ridlon, J"
+                "Glowacz, M",
+                "Gullickson, G",
+                "Matthews, J",
+                "Nolan, D",
+                "Parsons, C"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              9,
+              "R",
+              "ONLINE",
+              1,
+              [
+                "Glowacz, M",
+                "Gullickson, G",
+                "Matthews, J",
+                "Nolan, D",
+                "Parsons, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introductory course that will provide novice students with the fundamentals of animal-animal and animal-human interactions for domestic farm animals. Emphasizes hands-on experiences to develop a background in the concepts and practice of recognizing and understanding the animal's physiology and behavior, animal well being, and animal responses to human interactions.",
+      []
+    ],
+    "ANSC 211": [
+      "Meat Animal Evaluation",
+      {
+        "A": [
+          "29929",
+          [
+            [
+              20,
+              "MW",
+              "ARR Meat Science Laboratory",
+              1,
+              [
+                "Brookshire, N",
+                "Burris, E",
+                "Shike, D"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              20,
+              "F",
+              "ARR Meat Science Laboratory",
+              1,
+              [
+                "Brookshire, N",
+                "Burris, E",
+                "Shike, D"
               ],
               -1,
               -1,
@@ -687,6 +531,355 @@
             ]
           ],
           3,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "This course provides training in the evaluation of market animals and carcasses for value, price, and performance ranking. Students will develop skills in assessing beef, pork, and lamb for key industry traits such as trimness, muscling, and quality. Instruction emphasizes both live animal and carcass evaluation, with applications to real-world marketing and decision-making scenarios. Field trips to farms, processing plants, and meat evaluation competitions are required, offering hands-on experience with current industry standards and practices. Instructor approval is required to enroll in the course.",
+      []
+    ],
+    "ANSC 199": [
+      "Undergraduate Open Seminar",
+      {
+        "1": [
+          "76937",
+          [
+            [
+              3,
+              "MWF",
+              "131 Animal Sciences Laboratory",
+              11,
+              [
+                "Emmert, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "2": [
+          "76938",
+          [
+            [
+              4,
+              "MWF",
+              "131 Animal Sciences Laboratory",
+              11,
+              [
+                "Emmert, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "3": [
+          "76939",
+          [
+            [
+              7,
+              "MWF",
+              "131 Animal Sciences Laboratory",
+              11,
+              [
+                "Emmert, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "": [
+          "10232",
+          [
+            [
+              9,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "An experimental course on a special topic in animal sciences.",
+      []
+    ],
+    "ANSC 120": [
+      "The Art and Ethics of Animal Documentaries",
+      {
+        "SR": [
+          "76114",
+          [
+            [
+              19,
+              "MW",
+              "1020 Wymer Hall",
+              1,
+              [
+                "Richardson, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "With the rise of both social media and documentary films, animal welfare is mainly viewed through the lens of media. This course asks students to critically evaluate information from these pieces of media and better understand the narratives and biases that can be inherent in documentaries, nature films, undercover animal rights investigations, and social media accounts. We will also explore how these media can be used to bring awareness and education about animal industries.",
+      []
+    ],
+    "ANSC 224": [
+      "Animal Reproduction and Growth",
+      {
+        "AB1": [
+          "54702",
+          [
+            [
+              39,
+              "M",
+              "67 Animal Sciences Laboratory",
+              11,
+              [
+                "Ibrahim, S",
+                "Knox, R",
+                "Miller, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AB2": [
+          "54703",
+          [
+            [
+              19,
+              "M",
+              "67 Animal Sciences Laboratory",
+              11,
+              [
+                "Knox, R",
+                "Lam, L",
+                "Miller, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AB3": [
+          "54704",
+          [
+            [
+              20,
+              "T",
+              "67 Animal Sciences Laboratory",
+              11,
+              [
+                "Chen, W",
+                "Knox, R",
+                "Miller, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AB4": [
+          "54705",
+          [
+            [
+              39,
+              "T",
+              "67 Animal Sciences Laboratory",
+              11,
+              [
+                "Gerlach, J",
+                "Knox, R",
+                "Miller, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AB5": [
+          "54706",
+          [
+            [
+              19,
+              "T",
+              "67 Animal Sciences Laboratory",
+              11,
+              [
+                "Chen, W",
+                "Knox, R",
+                "Miller, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AB6": [
+          "61012",
+          [
+            [
+              39,
+              "W",
+              "67 Animal Sciences Laboratory",
+              11,
+              [
+                "Knox, R",
+                "Miller, D",
+                "Nabeel, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AB7": [
+          "54707",
+          [
+            [
+              19,
+              "W",
+              "67 Animal Sciences Laboratory",
+              11,
+              [
+                "Knox, R",
+                "Miller, D",
+                "Nabeel, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AB8": [
+          "76943",
+          [
+            [
+              38,
+              "T",
+              "67 Animal Sciences Laboratory",
+              11,
+              [
+                "Gerlach, J",
+                "Knox, R",
+                "Miller, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "54350",
+          [
+            [
+              4,
+              "MWF",
+              "66 Library",
+              25,
+              [
+                "Knox, R",
+                "Miller, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
           2,
           0,
           [],
@@ -694,7 +887,81 @@
         ]
       },
       [],
-      "Comprehensive study of biomolecule structure/function and the metabolism of carbohydrates, lipids, proteins, nucleic acids, vitamins, and coenzymes, with emphasis on energy transformations and metabolic regulation in animals.",
+      "Study of the basic principles of reproduction, lactation, growth, and hormonal regulation in animals as well as humans, including cell growth and differentiation, processes of reproduction, biotechnological methods of reproductive control, manipulation, performance enhancement of lactation and growth.",
+      []
+    ],
+    "ANSC 255": [
+      "Animal Ethics",
+      {
+        "DS": [
+          "71682",
+          [
+            [
+              9,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Shike, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "DS1": [
+          "71683",
+          [
+            [
+              8,
+              "R",
+              "292 Animal Sciences Laboratory",
+              11,
+              [
+                "Shike, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "DS2": [
+          "71684",
+          [
+            [
+              5,
+              "W",
+              "292 Animal Sciences Laboratory",
+              11,
+              [
+                "Shike, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Explores ethical issues raised by human use of animals. Students will be asked to apply philosophical perspectives to historical and current animal issues such as raising animals for food production, the keeping of pets, management and use of wild animals, use of animals in research, animal breeding and biotechnology, and animal control.",
       []
     ],
     "ANSC 223": [
@@ -728,19 +995,35 @@
       "Provides an introductory background in the fundamental principles of animal nutrition and how nutrition impacts animal well-being and performance. Students will develop comprehensive knowledge in gastrointestinal and digestive anatomy and physiology, nutrient function and requirements, and energy utilization in various species. Specific topics include different classes and properties of nutrients, differences in digestive mechanisms in monogastric vs. ruminant animals, and how carbohydrates, lipids, proteins, minerals, and vitamins contribute to the nutrient requirements of animals.",
       []
     ],
-    "ANSC 250": [
-      "Companion Animals in Society",
+    "ANSC 301": [
+      "Food Animal Production, Management, and Evaluation",
       {
-        "B": [
-          "54764",
+        "A": [
+          "64338",
           [
             [
-              9,
-              "",
-              "ONLINE",
+              19,
+              "MW",
+              "ARR Meat Science Laboratory",
               1,
               [
-                "Richardson, S"
+                "Brookshire, N",
+                "Burris, E",
+                "Shike, D"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "F",
+              "ARR Meat Science Laboratory",
+              1,
+              [
+                "Brookshire, N",
+                "Burris, E",
+                "Shike, D"
               ],
               -1,
               -1,
@@ -748,237 +1031,14 @@
             ]
           ],
           3,
-          3,
+          5,
           0,
           [],
           -1
         ]
       },
       [],
-      "Explores the current and historical functions and influences of companion animals in American society. Topics include the evolution of animal protection, the use of assistance and service animals, and the growth of the pet supply industry. Controversial issues which are of current concern to society will also be examined.",
-      []
-    ],
-    "ANSC 224": [
-      "Animal Reproduction and Growth",
-      {
-        "AB1": [
-          "54702",
-          [
-            [
-              38,
-              "M",
-              "67 Animal Sciences Laboratory",
-              11,
-              [
-                "Ibrahim, S",
-                "Knox, R",
-                "Miller, D"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          6,
-          0,
-          [],
-          -1
-        ],
-        "AB2": [
-          "54703",
-          [
-            [
-              18,
-              "M",
-              "67 Animal Sciences Laboratory",
-              11,
-              [
-                "Knox, R",
-                "Lam, L",
-                "Miller, D"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          6,
-          0,
-          [],
-          -1
-        ],
-        "AB3": [
-          "54704",
-          [
-            [
-              20,
-              "T",
-              "67 Animal Sciences Laboratory",
-              11,
-              [
-                "Chen, W",
-                "Knox, R",
-                "Miller, D"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          6,
-          0,
-          [],
-          -1
-        ],
-        "AB4": [
-          "54705",
-          [
-            [
-              38,
-              "T",
-              "67 Animal Sciences Laboratory",
-              11,
-              [
-                "Gerlach, J",
-                "Knox, R",
-                "Miller, D"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          6,
-          0,
-          [],
-          -1
-        ],
-        "AB5": [
-          "54706",
-          [
-            [
-              18,
-              "T",
-              "67 Animal Sciences Laboratory",
-              11,
-              [
-                "Chen, W",
-                "Knox, R",
-                "Miller, D"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          6,
-          0,
-          [],
-          -1
-        ],
-        "AB6": [
-          "61012",
-          [
-            [
-              38,
-              "W",
-              "67 Animal Sciences Laboratory",
-              11,
-              [
-                "Knox, R",
-                "Miller, D",
-                "Nabeel, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          6,
-          0,
-          [],
-          -1
-        ],
-        "AB7": [
-          "54707",
-          [
-            [
-              18,
-              "W",
-              "67 Animal Sciences Laboratory",
-              11,
-              [
-                "Knox, R",
-                "Miller, D",
-                "Nabeel, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          6,
-          0,
-          [],
-          -1
-        ],
-        "AB8": [
-          "76943",
-          [
-            [
-              37,
-              "T",
-              "67 Animal Sciences Laboratory",
-              11,
-              [
-                "Gerlach, J",
-                "Knox, R",
-                "Miller, D"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          6,
-          0,
-          [],
-          -1
-        ],
-        "AL1": [
-          "54350",
-          [
-            [
-              2,
-              "MWF",
-              "66 Library",
-              25,
-              [
-                "Knox, R",
-                "Miller, D"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          2,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Study of the basic principles of reproduction, lactation, growth, and hormonal regulation in animals as well as humans, including cell growth and differentiation, processes of reproduction, biotechnological methods of reproductive control, manipulation, performance enhancement of lactation and growth.",
+      "Provides an overview of how nutrition, genetics, and environment affect beef cattle, swine, and sheep growth, development, and end-product quality and value. Students get hands-on experience evaluating and determining value of live animals and carcasses.",
       []
     ],
     "ANSC 363": [
@@ -1000,7 +1060,7 @@
               -1
             ],
             [
-              7,
+              8,
               "F",
               "ONLINE",
               1,
@@ -1012,7 +1072,7 @@
               -1
             ],
             [
-              7,
+              8,
               "T",
               "ONLINE",
               1,
@@ -1033,80 +1093,6 @@
       },
       [],
       "Introduction to concepts of animal behavior with emphasis on domestic animals; lecture and discussion.",
-      []
-    ],
-    "ANSC 255": [
-      "Animal Ethics",
-      {
-        "DS": [
-          "71682",
-          [
-            [
-              9,
-              "",
-              "ONLINE",
-              1,
-              [
-                "Shike, D"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          7,
-          0,
-          [],
-          -1
-        ],
-        "DS1": [
-          "71683",
-          [
-            [
-              7,
-              "R",
-              "292 Animal Sciences Laboratory",
-              11,
-              [
-                "Shike, D"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "DS2": [
-          "71684",
-          [
-            [
-              4,
-              "W",
-              "292 Animal Sciences Laboratory",
-              11,
-              [
-                "Shike, D"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          1,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Explores ethical issues raised by human use of animals. Students will be asked to apply philosophical perspectives to historical and current animal issues such as raising animals for food production, the keeping of pets, management and use of wild animals, use of animals in research, animal breeding and biotechnology, and animal control.",
       []
     ],
     "ANSC 298": [
@@ -1139,6 +1125,66 @@
       "Designed to help students prepare for and investigate different career options in Animal Sciences. Professional development opportunities like undergraduate research, internships, and study abroad will be discussed.",
       []
     ],
+    "ANSC 350": [
+      "Principles of Biochemistry in Animals",
+      {
+        "1": [
+          "77998",
+          [
+            [
+              13,
+              "TR",
+              "320 Mumford Hall",
+              1,
+              [
+                "Ridlon, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Comprehensive study of biomolecule structure/function and the metabolism of carbohydrates, lipids, proteins, nucleic acids, vitamins, and coenzymes, with emphasis on energy transformations and metabolic regulation in animals.",
+      []
+    ],
+    "ANSC 250": [
+      "Companion Animals in Society",
+      {
+        "B": [
+          "54764",
+          [
+            [
+              9,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Richardson, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Explores the current and historical functions and influences of companion animals in American society. Topics include the evolution of animal protection, the use of assistance and service animals, and the growth of the pet supply industry. Controversial issues which are of current concern to society will also be examined.",
+      []
+    ],
     "ANSC 306": [
       "Equine Science",
       {
@@ -1159,7 +1205,7 @@
             ]
           ],
           3,
-          6,
+          5,
           0,
           [],
           -1
@@ -1168,7 +1214,7 @@
           "29972",
           [
             [
-              12,
+              11,
               "TR",
               "107 Stock Pavilion",
               1,
@@ -1189,52 +1235,6 @@
       },
       [],
       "Understand and apply current scientific research and principles of equine science to intensive horse production. An in-depth approach to equine reproductive physiology, nutrition, anatomy and exercise physiology will be followed using a combined lecture and laboratory format. Emphasis on current research and hands-on techniques.",
-      []
-    ],
-    "ANSC 301": [
-      "Food Animal Production, Management, and Evaluation",
-      {
-        "A": [
-          "64338",
-          [
-            [
-              18,
-              "MW",
-              "ARR Meat Science Laboratory",
-              1,
-              [
-                "Brookshire, N",
-                "Burris, E",
-                "Shike, D"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              7,
-              "F",
-              "ARR Meat Science Laboratory",
-              1,
-              [
-                "Brookshire, N",
-                "Burris, E",
-                "Shike, D"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          6,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Provides an overview of how nutrition, genetics, and environment affect beef cattle, swine, and sheep growth, development, and end-product quality and value. Students get hands-on experience evaluating and determining value of live animals and carcasses.",
       []
     ],
     "ANSC 366": [
@@ -1268,6 +1268,36 @@
       "Same as ANTH 342, IB 329, and PSYC 329. See IB 329.",
       []
     ],
+    "ANSC 402": [
+      "Sheep and Goat Production",
+      {
+        "1": [
+          "29963",
+          [
+            [
+              0,
+              "TR",
+              "292 Animal Sciences Laboratory",
+              11,
+              [
+                "McCann, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "The objective of this course is to understand the core principles of sheep and goat production. This course covers topics including common breeds, reproduction, breeding and selection, nutrition, health, fiber production, and management. Some lectures will be at the University farms. Other lectures will include demonstrations of sheep and goats evaluation principles, neonatal lamb and kid health, body condition scoring, and lamb and goat cooking.",
+      []
+    ],
     "ANSC 404": [
       "Poultry Science",
       {
@@ -1299,48 +1329,6 @@
       "Basic principles of genetics, physiology, nutrition, and health of avian species; the application of science and technology in solving the breeding, nutrition, disease, housing, and other management problems encountered in commercial egg and poultry meat production.",
       []
     ],
-    "ANSC 438": [
-      "Lactation Biology",
-      {
-        "A": [
-          "29976",
-          [
-            [
-              6,
-              "F",
-              "108 Bevier Hall",
-              13,
-              [
-                "Nolan, D"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              18,
-              "MW",
-              "108 Bevier Hall",
-              13,
-              [
-                "Nolan, D"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          1,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Examines the structural and functional development of the mammary gland, cell biology, and control of milk synthesis, and composition and biochemistry of milk. Compares and analyzes the physiological processes of lactation in mammals.",
-      []
-    ],
     "ANSC 409": [
       "Meat Science",
       {
@@ -1348,7 +1336,7 @@
           "29979",
           [
             [
-              6,
+              7,
               "MWF",
               "120 Meat Science Laboratory",
               24,
@@ -1378,7 +1366,7 @@
           "57951",
           [
             [
-              2,
+              4,
               "MWF",
               "W109 Turner Hall",
               1,
@@ -1480,7 +1468,7 @@
             ]
           ],
           5,
-          12,
+          13,
           0,
           [],
           -1
@@ -1534,7 +1522,7 @@
             ]
           ],
           5,
-          12,
+          13,
           0,
           [],
           -1
@@ -1564,7 +1552,7 @@
             ]
           ],
           5,
-          12,
+          13,
           0,
           [],
           -1
@@ -1608,7 +1596,7 @@
             ]
           ],
           5,
-          12,
+          13,
           0,
           [],
           -1
@@ -1633,7 +1621,7 @@
             ]
           ],
           5,
-          12,
+          13,
           0,
           [],
           -1
@@ -1656,7 +1644,7 @@
             ]
           ],
           5,
-          12,
+          13,
           0,
           [],
           -1
@@ -1678,7 +1666,7 @@
             ]
           ],
           5,
-          12,
+          13,
           0,
           [],
           -1
@@ -1748,7 +1736,7 @@
             ]
           ],
           5,
-          12,
+          13,
           0,
           [],
           -1
@@ -1770,7 +1758,7 @@
             ]
           ],
           5,
-          12,
+          13,
           0,
           [],
           -1
@@ -1846,49 +1834,31 @@
       "Same as CPSC 440, FSHN 440, NRES 440, and NUTR 440. See CPSC 440.",
       []
     ],
-    "ANSC 402": [
-      "Sheep and Goat Production",
+    "ANSC 438": [
+      "Lactation Biology",
       {
-        "1": [
-          "29963",
+        "A": [
+          "29976",
           [
             [
-              0,
-              "TR",
-              "292 Animal Sciences Laboratory",
-              11,
+              7,
+              "F",
+              "108 Bevier Hall",
+              13,
               [
-                "McCann, J"
+                "Nolan, D"
               ],
               -1,
               -1,
               -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "The objective of this course is to understand the core principles of sheep and goat production. This course covers topics including common breeds, reproduction, breeding and selection, nutrition, health, fiber production, and management. Some lectures will be at the University farms. Other lectures will include demonstrations of sheep and goats evaluation principles, neonatal lamb and kid health, body condition scoring, and lamb and goat cooking.",
-      []
-    ],
-    "ANSC 450": [
-      "Comparative Immunobiology",
-      {
-        "A": [
-          "39603",
-          [
+            ],
             [
-              12,
-              "TR",
-              "1020 Wymer Hall",
-              1,
+              19,
+              "MW",
+              "108 Bevier Hall",
+              13,
               [
-                "Steelman, A"
+                "Nolan, D"
               ],
               -1,
               -1,
@@ -1896,14 +1866,14 @@
             ]
           ],
           4,
-          0,
+          1,
           0,
           [],
           -1
         ]
       },
       [],
-      "Advanced concepts of immunophysiology and immunogenetics. Immunophysiology with an emphasis on immune-neuroendocrine interactions. The molecular and cellular basis of self-nonself recognition with an emphasis on the major histocompatibility complex in vertebrates and innate immunity in both vertebrates and invertebrates. The mucosal immune system, which requires a complex interplay between innate and acquired immunity to protect mucosal surfaces exposed to the environment. A working knowledge of genetics and cellular and molecular biology is recommended.",
+      "Examines the structural and functional development of the mammary gland, cell biology, and control of milk synthesis, and composition and biochemistry of milk. Compares and analyzes the physiological processes of lactation in mammals.",
       []
     ],
     "ANSC 442": [
@@ -1913,7 +1883,7 @@
           "74613",
           [
             [
-              2,
+              4,
               "R",
               "ONLINE",
               1,
@@ -1935,36 +1905,6 @@
       },
       [],
       "Introduces students to standard approaches commonly used to analyze science and engineering data; to the strengths and limitations of the approaches; and to gain confidence in the interpretation of results. At the end of this course, students will be able to analyze a wide range of datasets using appropriate models, and draw robust conclusions.",
-      []
-    ],
-    "ANSC 446": [
-      "Population Genetics",
-      {
-        "A": [
-          "61557",
-          [
-            [
-              6,
-              "MWF",
-              "107 Animal Sciences Laboratory",
-              11,
-              [
-                "Roca, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Conceptual and mathematical approach to the genetics of populations: estimation of allele and genotype frequencies; Hardy-Weinberg principle; measures of genetic diversity and distance; selection; non-random mating; genetic drift; mutation; neutral theory; migration and population subdivision; linkage and recombination; coalescence and phylogenetic inference. Applications to animals, plants, human health and wildlife conservation.",
       []
     ],
     "ANSC 464": [
@@ -1998,6 +1938,96 @@
       "Advanced interdisciplinary concepts of animal physiology and behavior during stress and disease. Lectures and discussions will cover multi-system interactions regulating immune, microbial, endocrine, and behavioral responses to external stressors, pathogen infection, and idiopathic disease. Topics include: neuroendocrine regulation of immunophysiology and behavior, pathogenic and behavioral response to disease, bidirectional communication between the microbiome and central nervous system, developmental disruptions during gestation, cancer biology, and metabolic diseases.",
       []
     ],
+    "ANSC 446": [
+      "Population Genetics",
+      {
+        "A": [
+          "61557",
+          [
+            [
+              7,
+              "MWF",
+              "107 Animal Sciences Laboratory",
+              11,
+              [
+                "Roca, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Conceptual and mathematical approach to the genetics of populations: estimation of allele and genotype frequencies; Hardy-Weinberg principle; measures of genetic diversity and distance; selection; non-random mating; genetic drift; mutation; neutral theory; migration and population subdivision; linkage and recombination; coalescence and phylogenetic inference. Applications to animals, plants, human health and wildlife conservation.",
+      []
+    ],
+    "ANSC 450": [
+      "Comparative Immunobiology",
+      {
+        "A": [
+          "39603",
+          [
+            [
+              11,
+              "TR",
+              "1020 Wymer Hall",
+              1,
+              [
+                "Steelman, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Advanced concepts of immunophysiology and immunogenetics. Immunophysiology with an emphasis on immune-neuroendocrine interactions. The molecular and cellular basis of self-nonself recognition with an emphasis on the major histocompatibility complex in vertebrates and innate immunity in both vertebrates and invertebrates. The mucosal immune system, which requires a complex interplay between innate and acquired immunity to protect mucosal surfaces exposed to the environment. A working knowledge of genetics and cellular and molecular biology is recommended.",
+      []
+    ],
+    "ANSC 498": [
+      "Integrating Animal Sciences",
+      {
+        "AL1": [
+          "56799",
+          [
+            [
+              20,
+              "R",
+              "245 Wohlers Hall",
+              1,
+              [
+                "Shasteen, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to the theoretical basis of and skills associated with leadership, inquiry, and collaborative learning. Capstone experience in integrating knowledge, practicing skills, and applying theory through collaborative projects that address current issues in animal sciences. Projects relate to the impact of animals and animal use on humans and societal issues facing the world today.",
+      []
+    ],
     "ANSC 470": [
       "Companion Animal Cruelty Investigations",
       {
@@ -2005,7 +2035,7 @@
           "75682",
           [
             [
-              41,
+              42,
               "M",
               "ONLINE",
               1,
@@ -2049,7 +2079,7 @@
           "76808",
           [
             [
-              1,
+              12,
               "TR",
               "107 Animal Sciences Laboratory",
               11,
@@ -2145,7 +2175,7 @@
           "11534",
           [
             [
-              12,
+              11,
               "TR",
               "292 Animal Sciences Laboratory",
               11,
@@ -2167,7 +2197,7 @@
           "62395",
           [
             [
-              38,
+              39,
               "TR",
               "17 Agricultural Bioprocess Lab",
               1,
@@ -2180,7 +2210,7 @@
             ]
           ],
           4,
-          5,
+          7,
           0,
           [],
           -1
@@ -2190,35 +2220,35 @@
       "Group discussion or an experimental course on a special topic in animal sciences.",
       []
     ],
-    "ANSC 515": [
-      "Bovine Assisted Reproductive Technologies",
+    "ANSC 501": [
+      "Nutritional Impact on Cow Health and Disorders",
       {
-        "MBW": [
-          "78341",
+        "ONL": [
+          "77609",
           [
             [
-              22,
-              "W",
-              "396 Animal Sciences Laboratory",
-              11,
+              9,
+              "",
+              "ONLINE",
+              1,
               [
-                "Allen, C",
-                "Wheeler, M"
+                "Condotta, I",
+                "Loor, J"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          2,
-          0,
+          4,
+          3,
           0,
           [],
           -1
         ]
       },
       [],
-      "Acquire knowledge on reproductive technologies and techniques utilized in Bovidae including Bos taurus and Bos indicus cattle. Topics include general bovine reproductive anatomy and physiology, estrus detection, estrous cycle, estrus synchronization, pregnancy diagnosis, nutrition and disease concerns, collecting oocytes and sperm, semen processing, in vitro and in vivo embryo production, and emerging assisted reproductive technologies such as AI, IVF, MOET.",
+      "Explore the holistic impact of nutrition on dairy cattle health and metabolic disorder, and analyze nutrition's role in alleviating stressors. Instructors will discuss profound effects of nutrition on production, physiology, and the immune system. The course includes self-paced learning, case studies, practical insights on dairy nutrition, application of artificial intelligence (e.g., machine learning) for predicting feed intake, and collaborative discussions to address complex issues. Students can also bring and work on their own datasets.",
       []
     ],
     "ANSC 500": [
@@ -2252,26 +2282,26 @@
       "Students will examine the fundamentals of dairy cattle nutrition, identify common feedstuffs, and describe the basics of forage growth, harvest, insulation, and storage. Energy, carbohydrates, lipids, protein, amino acids, additives, forages, young stock, and transition cow feeding will be discussed. Students will explore common feed processing techniques, formulate diets for young and mature (lactating and non-lactating) dairy animals, and investigate the newest research insights for on-farm applications and evolving trends in dairy feeds and nutrition.",
       []
     ],
-    "ANSC 498": [
-      "Integrating Animal Sciences",
+    "ANSC 520": [
+      "Protein and Energy Nutrition",
       {
-        "AL1": [
-          "56799",
+        "A": [
+          "29990",
           [
             [
-              20,
-              "R",
-              "245 Wohlers Hall",
-              1,
+              5,
+              "MWF",
+              "107 Animal Sciences Laboratory",
+              11,
               [
-                "Shasteen, A"
+                "Stein, H"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          2,
+          3,
           2,
           0,
           [],
@@ -2279,38 +2309,38 @@
         ]
       },
       [],
-      "Introduction to the theoretical basis of and skills associated with leadership, inquiry, and collaborative learning. Capstone experience in integrating knowledge, practicing skills, and applying theory through collaborative projects that address current issues in animal sciences. Projects relate to the impact of animals and animal use on humans and societal issues facing the world today.",
+      "Physiological aspects of protein and amino acids, fats and fatty acids, and carbohydrates as applied to higher animals; includes classification, digestion, absorption, utilization, metabolism, and dietary deficiencies and excesses.",
       []
     ],
-    "ANSC 501": [
-      "Nutritional Impact on Cow Health and Disorders",
+    "ANSC 515": [
+      "Bovine Assisted Reproductive Technologies",
       {
-        "ONL": [
-          "77609",
+        "MBW": [
+          "78341",
           [
             [
-              9,
-              "",
-              "ONLINE",
-              1,
+              22,
+              "W",
+              "396 Animal Sciences Laboratory",
+              11,
               [
-                "Condotta, I",
-                "Loor, J"
+                "Allen, C",
+                "Wheeler, M"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          4,
-          3,
+          2,
+          0,
           0,
           [],
           -1
         ]
       },
       [],
-      "Explore the holistic impact of nutrition on dairy cattle health and metabolic disorder, and analyze nutrition's role in alleviating stressors. Instructors will discuss profound effects of nutrition on production, physiology, and the immune system. The course includes self-paced learning, case studies, practical insights on dairy nutrition, application of artificial intelligence (e.g., machine learning) for predicting feed intake, and collaborative discussions to address complex issues. Students can also bring and work on their own datasets.",
+      "Acquire knowledge on reproductive technologies and techniques utilized in Bovidae including Bos taurus and Bos indicus cattle. Topics include general bovine reproductive anatomy and physiology, estrus detection, estrous cycle, estrus synchronization, pregnancy diagnosis, nutrition and disease concerns, collecting oocytes and sperm, semen processing, in vitro and in vivo embryo production, and emerging assisted reproductive technologies such as AI, IVF, MOET.",
       []
     ],
     "ANSC 521": [
@@ -2365,36 +2395,6 @@
       },
       [],
       "Same as FSHN 511, HK 510 and NUTR 511. See NUTR 511.",
-      []
-    ],
-    "ANSC 520": [
-      "Protein and Energy Nutrition",
-      {
-        "A": [
-          "29990",
-          [
-            [
-              4,
-              "MWF",
-              "107 Animal Sciences Laboratory",
-              11,
-              [
-                "Stein, H"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          2,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Physiological aspects of protein and amino acids, fats and fatty acids, and carbohydrates as applied to higher animals; includes classification, digestion, absorption, utilization, metabolism, and dietary deficiencies and excesses.",
       []
     ],
     "ANSC 525": [
@@ -2458,7 +2458,7 @@
           "68597",
           [
             [
-              12,
+              11,
               "TR",
               "320 Mumford Hall",
               1,
@@ -2503,80 +2503,6 @@
       },
       [],
       "Students will learn how to effectively apply advanced concepts related to pet nutrition and disease, including the metabolism within healthy and diseased dogs and cats, how nutrition may aid in preventing and treating disease, and the science behind pet food formulation and production. Students will develop critical-thinking and problem-solving skills by writing and reviewing grant proposals and delivering an oral presentation.",
-      []
-    ],
-    "ANSC 591": [
-      "Grad Bioinformatics Seminar",
-      {
-        "A": [
-          "68687",
-          [
-            [
-              5,
-              "R",
-              "ONLINE",
-              1,
-              [
-                "Rodriguez Zas, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          2,
-          3,
-          0,
-          [],
-          -1
-        ],
-        "B": [
-          "68688",
-          [
-            [
-              5,
-              "R",
-              "ONLINE",
-              1,
-              [
-                "Rodriguez Zas, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          2,
-          3,
-          0,
-          [],
-          -1
-        ],
-        "C": [
-          "71689",
-          [
-            [
-              5,
-              "R",
-              "ONLINE",
-              1,
-              [
-                "Rodriguez Zas, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          2,
-          3,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as CPSC 591 and INFO 591. See INFO 591.",
       []
     ],
     "ANSC 542": [
@@ -2640,66 +2566,6 @@
       "Same as CHBE 571, MCB 571, and STAT 530. See CHBE 571.",
       []
     ],
-    "ANSC 593": [
-      "Res Studies in Animal Sciences",
-      {
-        "": [
-          "10258",
-          [
-            [
-              9,
-              "",
-              "ONLINE",
-              1,
-              [
-                "Staff"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          8,
-          4,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Directed and supervised study of selected research topics in Animal Sciences.",
-      []
-    ],
-    "ANSC 580": [
-      "Artificial Intelligence and Computer Vision for Precision Management",
-      {
-        "A": [
-          "76809",
-          [
-            [
-              0,
-              "TR",
-              "320 Mumford Hall",
-              1,
-              [
-                "Condotta, I"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Use of Artificial Intelligence (AI) in optimizing precision management for agriculture and animal care. Students will explore the application of AI and computer vision techniques to assist decision-making and improve performance in the realm of precision management. Techniques of image analysis, object detection, and real-time monitoring will be covered. Finally, students will develop a hands-on project and investigate ethical considerations and industry case studies on AI-driven precision management systems with a focus on computer vision.",
-      []
-    ],
     "ANSC 590": [
       "Animal Sciences Seminar",
       {
@@ -2707,7 +2573,7 @@
           "30000",
           [
             [
-              5,
+              6,
               "R",
               "Location Pending",
               1,
@@ -2729,7 +2595,7 @@
           "41751",
           [
             [
-              5,
+              6,
               "R",
               "ONLINE",
               1,
@@ -2751,7 +2617,7 @@
           "44582",
           [
             [
-              5,
+              6,
               "R",
               "ONLINE",
               1,
@@ -2773,7 +2639,7 @@
           "30001",
           [
             [
-              7,
+              8,
               "T",
               "292 Animal Sciences Laboratory",
               11,
@@ -2795,7 +2661,7 @@
           "41752",
           [
             [
-              7,
+              8,
               "T",
               "292 Animal Sciences Laboratory",
               11,
@@ -2817,7 +2683,7 @@
           "44583",
           [
             [
-              7,
+              8,
               "T",
               "292 Animal Sciences Laboratory",
               11,
@@ -2839,7 +2705,7 @@
           "30002",
           [
             [
-              7,
+              8,
               "T",
               "292 Animal Sciences Laboratory",
               11,
@@ -2861,7 +2727,7 @@
           "41755",
           [
             [
-              7,
+              8,
               "T",
               "292 Animal Sciences Laboratory",
               11,
@@ -2883,7 +2749,7 @@
           "44585",
           [
             [
-              7,
+              8,
               "T",
               "292 Animal Sciences Laboratory",
               11,
@@ -2971,7 +2837,7 @@
           "30004",
           [
             [
-              5,
+              6,
               "W",
               "292 Animal Sciences Laboratory",
               11,
@@ -2993,7 +2859,7 @@
           "41784",
           [
             [
-              5,
+              6,
               "W",
               "292 Animal Sciences Laboratory",
               11,
@@ -3015,7 +2881,7 @@
           "30005",
           [
             [
-              42,
+              43,
               "W",
               "3526 Vet Med Basic Sciences Bldg",
               1,
@@ -3038,7 +2904,7 @@
           "41786",
           [
             [
-              42,
+              43,
               "W",
               "3526 Vet Med Basic Sciences Bldg",
               1,
@@ -3061,7 +2927,7 @@
           "44592",
           [
             [
-              42,
+              43,
               "W",
               "3526 Vet Med Basic Sciences Bldg",
               1,
@@ -3084,7 +2950,7 @@
           "30006",
           [
             [
-              5,
+              6,
               "W",
               "292 Animal Sciences Laboratory",
               11,
@@ -3106,7 +2972,7 @@
           "41787",
           [
             [
-              5,
+              6,
               "W",
               "292 Animal Sciences Laboratory",
               11,
@@ -3128,7 +2994,7 @@
           "30007",
           [
             [
-              42,
+              43,
               "T",
               "404 Animal Sciences Laboratory",
               11,
@@ -3150,7 +3016,7 @@
           "41788",
           [
             [
-              42,
+              43,
               "T",
               "404 Animal Sciences Laboratory",
               11,
@@ -3172,7 +3038,7 @@
           "44596",
           [
             [
-              42,
+              43,
               "T",
               "404 Animal Sciences Laboratory",
               11,
@@ -3194,7 +3060,7 @@
           "30008",
           [
             [
-              2,
+              4,
               "W",
               "292 Animal Sciences Laboratory",
               11,
@@ -3216,7 +3082,7 @@
           "41789",
           [
             [
-              2,
+              4,
               "W",
               "292 Animal Sciences Laboratory",
               11,
@@ -3260,7 +3126,7 @@
           "30012",
           [
             [
-              5,
+              6,
               "F",
               "396 Animal Sciences Laboratory",
               11,
@@ -3282,7 +3148,7 @@
           "41791",
           [
             [
-              5,
+              6,
               "F",
               "396 Animal Sciences Laboratory",
               11,
@@ -3304,7 +3170,7 @@
           "44601",
           [
             [
-              5,
+              6,
               "F",
               "396 Animal Sciences Laboratory",
               11,
@@ -3326,7 +3192,7 @@
           "44593",
           [
             [
-              7,
+              8,
               "W",
               "292 Animal Sciences Laboratory",
               11,
@@ -3348,7 +3214,7 @@
           "30011",
           [
             [
-              7,
+              8,
               "W",
               "292 Animal Sciences Laboratory",
               11,
@@ -3370,7 +3236,7 @@
           "30009",
           [
             [
-              5,
+              6,
               "F",
               "3526 Vet Med Basic Sciences Bldg",
               1,
@@ -3392,68 +3258,202 @@
       [],
       "Discussions of current research and literature. Registration for 0 to 2 hours each term is expected for animal sciences graduate students.",
       []
+    ],
+    "ANSC 580": [
+      "Artificial Intelligence and Computer Vision for Precision Management",
+      {
+        "A": [
+          "76809",
+          [
+            [
+              0,
+              "TR",
+              "320 Mumford Hall",
+              1,
+              [
+                "Condotta, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Use of Artificial Intelligence (AI) in optimizing precision management for agriculture and animal care. Students will explore the application of AI and computer vision techniques to assist decision-making and improve performance in the realm of precision management. Techniques of image analysis, object detection, and real-time monitoring will be covered. Finally, students will develop a hands-on project and investigate ethical considerations and industry case studies on AI-driven precision management systems with a focus on computer vision.",
+      []
+    ],
+    "ANSC 591": [
+      "Grad Bioinformatics Seminar",
+      {
+        "A": [
+          "68687",
+          [
+            [
+              6,
+              "R",
+              "ONLINE",
+              1,
+              [
+                "Rodriguez Zas, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "68688",
+          [
+            [
+              6,
+              "R",
+              "ONLINE",
+              1,
+              [
+                "Rodriguez Zas, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "C": [
+          "71689",
+          [
+            [
+              6,
+              "R",
+              "ONLINE",
+              1,
+              [
+                "Rodriguez Zas, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as CPSC 591 and INFO 591. See INFO 591.",
+      []
+    ],
+    "ANSC 593": [
+      "Res Studies in Animal Sciences",
+      {
+        "": [
+          "10258",
+          [
+            [
+              9,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Directed and supervised study of selected research topics in Animal Sciences.",
+      []
     ]
   },
   "caches": {
     "periods": [
       "0930 - 1050",
-      "1100 - 1220",
-      "1000 - 1050",
+      "1600 - 1715",
+      "0930 - 1045",
       "0900 - 0950",
+      "1000 - 1050",
       "1100 - 1150",
       "1200 - 1250",
       "1300 - 1350",
       "1400 - 1450",
-      "1400 - 1650",
       "0000 - 0000",
-      "1600 - 1715",
-      "0930 - 1045",
+      "1400 - 1650",
       "1230 - 1350",
+      "1100 - 1220",
       "1400 - 1520",
+      "1400 - 1550",
       "1600 - 1720",
       "1500 - 1720",
-      "1400 - 1550",
       "1400 - 1720",
-      "1300 - 1450",
-      "0800 - 0950",
-      "1500 - 1650",
       "0900 - 1150",
+      "1300 - 1450",
+      "1500 - 1650",
+      "0800 - 0950",
       "0900 - 1020",
       "1500 - 1550",
       "1400 - 1630",
-      "1700 - 1820",
       "0800 - 0850",
-      "1530 - 1650",
       "0800 - 0920",
+      "1530 - 1650",
+      "1700 - 1820",
       "1530 - 1620",
       "2000 - 2050",
       "0800 - 1150",
+      "1500 - 1750",
       "1200 - 1550",
       "1230 - 1620",
       "0830 - 0920",
-      "1500 - 1750",
       "1300 - 1650",
+      "1500 - 1620",
       "0900 - 1050",
       "1100 - 1250",
-      "1500 - 1620",
       "1700 - 1850",
+      "1200 - 1320",
       "1600 - 1750",
       "1600 - 1650",
-      "1200 - 1320",
       "1000 - 1120",
       "1130 - 1250",
       "1300 - 1420",
       "1600 - 1730",
       "1030 - 1150",
+      "1230 - 1320",
       "1330 - 1520",
       "1530 - 1710",
-      "1230 - 1320",
-      "1630 - 1750",
       "1430 - 1550",
+      "1630 - 1750",
       "1730 - 1850",
       "1730 - 1920",
-      "1000 - 1150",
       "1530 - 1820",
+      "1000 - 1150",
       "1700 - 1750",
       "1100 - 1215",
       "0800 - 0959",
@@ -3478,15 +3478,15 @@
       "Lecture",
       "Online",
       "Independent Study",
-      "Laboratory-Discussion",
       "Laboratory",
       "Online Lecture",
+      "Laboratory-Discussion",
       "Online Discussion",
       "Conference",
       "Online Lecture Discussion",
       "Seminar",
-      "Internship",
       "Study Abroad",
+      "Internship",
       "Research",
       "Travel"
     ],
@@ -3496,20 +3496,20 @@
     "gradeBases": [],
     "locations": [
       {
-        "lat": 40.1047599,
-        "long": -88.2319514
+        "lat": 40.107534,
+        "long": -88.2281548
       },
       {
         "lat": null,
         "long": null
       },
       {
-        "lat": 40.1065684,
-        "long": -88.2281746
+        "lat": 40.1047599,
+        "long": -88.2319514
       },
       {
-        "lat": 40.107534,
-        "long": -88.2281548
+        "lat": 40.1065684,
+        "long": -88.2281746
       },
       {
         "lat": 40.105732,
@@ -3520,16 +3520,16 @@
         "long": -88.2262016
       },
       {
+        "lat": 40.1020773,
+        "long": -88.2296394
+      },
+      {
         "lat": 40.1035833,
         "long": -88.228405
       },
       {
         "lat": 40.11246109008789,
         "long": -88.22831726074219
-      },
-      {
-        "lat": 40.1020773,
-        "long": -88.2296394
       },
       {
         "lat": 40.1035872,

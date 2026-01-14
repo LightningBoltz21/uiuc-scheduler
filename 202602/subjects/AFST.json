@@ -1,36 +1,50 @@
 {
   "subject": "AFST",
-  "scrapedAt": 1768370760532,
+  "scrapedAt": 1768370926830,
   "courseCount": 18,
   "courses": {
-    "AFST 233": [
-      "Context in International Interventions",
+    "AFST 232": [
+      "Elementary Swahili II",
       {
-        "AW": [
-          "76257",
+        "A": [
+          "63321",
           [
             [
-              18,
-              "MWF",
-              "ONLINE",
+              4,
+              "R",
+              "G8A Literatures, Cultures, & Ling",
               1,
               [
-                "Witmer, A"
+                "Saadah, E",
+                "Wamalwa, K"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              4,
+              "MTWF",
+              "G8A Literatures, Cultures, & Ling",
+              1,
+              [
+                "Saadah, E",
+                "Wamalwa, K"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          3,
-          7,
+          5,
+          5,
           0,
           [],
           -1
         ]
       },
       [],
-      null,
+      "Same as SWAH 202. See SWAH 202.",
       []
     ],
     "AFST 222": [
@@ -40,7 +54,7 @@
           "56391",
           [
             [
-              6,
+              7,
               "F",
               "307 Gregory Hall",
               4,
@@ -52,7 +66,7 @@
               -1
             ],
             [
-              6,
+              7,
               "MW",
               "307 Gregory Hall",
               4,
@@ -75,36 +89,6 @@
       "Interdisciplinary introduction to Africa dealing with basic themes and problems in the politics, economics, sociology, anthropology, and history of Africa.",
       []
     ],
-    "AFST 210": [
-      "Introduction to Modern African Literature",
-      {
-        "P": [
-          "47157",
-          [
-            [
-              4,
-              "MWF",
-              "36 English Building",
-              3,
-              [
-                "Toure, V"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "[IAI Code: H3908N] Significant contemporary African writings depicting the history and cultural traditions of African peoples.",
-      []
-    ],
     "AFST 213": [
       "African Muslim Societies",
       {
@@ -115,7 +99,7 @@
               13,
               "TR",
               "384 Armory",
-              0,
+              2,
               [
                 "Nobili, M"
               ],
@@ -135,26 +119,26 @@
       "Same as HIST 213 and REL 215. See HIST 213.",
       []
     ],
-    "AFST 241": [
-      "Elementary Wolof I",
+    "AFST 112": [
+      "History of Africa from 1800",
       {
         "A": [
-          "55659",
+          "71778",
           [
             [
-              5,
-              "MTWRF",
-              "1140 Literatures, Cultures, & Ling",
-              1,
+              69,
+              "TR",
+              "108 English Building",
+              0,
               [
-                "Toure, V"
+                "Nobili, M"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          5,
+          3,
           0,
           0,
           [],
@@ -162,7 +146,7 @@
         ]
       },
       [],
-      "Same as WLOF 201. See WLOF 201.",
+      "Same as HIST 112. See HIST 112.",
       []
     ],
     "AFST 199": [
@@ -195,63 +179,19 @@
       null,
       []
     ],
-    "AFST 232": [
-      "Elementary Swahili II",
+    "AFST 233": [
+      "Context in International Interventions",
       {
-        "A": [
-          "63321",
+        "AW": [
+          "76257",
           [
             [
-              2,
-              "R",
-              "G8A Literatures, Cultures, & Ling",
+              19,
+              "MWF",
+              "ONLINE",
               1,
               [
-                "Saadah, E",
-                "Wamalwa, K"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              2,
-              "MTWF",
-              "G8A Literatures, Cultures, & Ling",
-              1,
-              [
-                "Saadah, E",
-                "Wamalwa, K"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          6,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as SWAH 202. See SWAH 202.",
-      []
-    ],
-    "AFST 112": [
-      "History of Africa from 1800",
-      {
-        "A": [
-          "71778",
-          [
-            [
-              69,
-              "TR",
-              "108 English Building",
-              3,
-              [
-                "Nobili, M"
+                "Witmer, A"
               ],
               -1,
               -1,
@@ -259,14 +199,14 @@
             ]
           ],
           3,
-          0,
+          6,
           0,
           [],
           -1
         ]
       },
       [],
-      "Same as HIST 112. See HIST 112.",
+      null,
       []
     ],
     "AFST 242": [
@@ -307,10 +247,10 @@
           "32902",
           [
             [
-              1,
+              12,
               "TR",
               "1068 Lincoln Hall",
-              2,
+              3,
               [
                 "Reynolds, F"
               ],
@@ -330,6 +270,140 @@
       "Same as CWL 225, FR 240, and LAST 240. See FR 240.",
       []
     ],
+    "AFST 241": [
+      "Elementary Wolof I",
+      {
+        "A": [
+          "55659",
+          [
+            [
+              6,
+              "MTWRF",
+              "1140 Literatures, Cultures, & Ling",
+              1,
+              [
+                "Toure, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as WLOF 201. See WLOF 201.",
+      []
+    ],
+    "AFST 210": [
+      "Introduction to Modern African Literature",
+      {
+        "P": [
+          "47157",
+          [
+            [
+              5,
+              "MWF",
+              "36 English Building",
+              0,
+              [
+                "Toure, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "[IAI Code: H3908N] Significant contemporary African writings depicting the history and cultural traditions of African peoples.",
+      []
+    ],
+    "AFST 434": [
+      "Intermediate Swahili II",
+      {
+        "CI": [
+          "30977",
+          [
+            [
+              8,
+              "W",
+              "G27 Literatures, Cultures, & Ling",
+              1,
+              [
+                "Maweu, D",
+                "Saadah, E"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "MTR",
+              "1032 Literatures, Cultures, & Ling",
+              1,
+              [
+                "Maweu, D",
+                "Saadah, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as SWAH 404. See SWAH 404.",
+      []
+    ],
+    "AFST 243": [
+      "Pan Africanism",
+      {
+        "A": [
+          "48089",
+          [
+            [
+              11,
+              "TR",
+              "37 Education Building",
+              6,
+              [
+                "Rigby, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as AFRO 243 and PS 243. See AFRO 243.",
+      []
+    ],
     "AFST 420": [
       "Africana Feminisms",
       {
@@ -337,7 +411,7 @@
           "62164",
           [
             [
-              21,
+              18,
               "F",
               "ONLINE",
               1,
@@ -359,7 +433,7 @@
           "62185",
           [
             [
-              21,
+              18,
               "F",
               "ONLINE",
               1,
@@ -380,6 +454,67 @@
       },
       [],
       "Same as AFRO 415 and GWS 415. See AFRO 415.",
+      []
+    ],
+    "AFST 443": [
+      "Intermediate Wolof I",
+      {
+        "A": [
+          "66246",
+          [
+            [
+              4,
+              "MTWRF",
+              "1140 Literatures, Cultures, & Ling",
+              1,
+              [
+                "Toure, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as WLOF 403. See WLOF 403.",
+      []
+    ],
+    "AFST 436": [
+      "Advanced Swahili II",
+      {
+        "A": [
+          "39527",
+          [
+            [
+              12,
+              "MW",
+              "307 English Building",
+              0,
+              [
+                "Maweu, D",
+                "Saadah, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as SWAH 406. See SWAH 406.",
       []
     ],
     "AFST 490": [
@@ -412,80 +547,6 @@
       "Supervised readings and research in selected fields in consultation with the instructor.",
       []
     ],
-    "AFST 434": [
-      "Intermediate Swahili II",
-      {
-        "CI": [
-          "30977",
-          [
-            [
-              7,
-              "W",
-              "G27 Literatures, Cultures, & Ling",
-              1,
-              [
-                "Maweu, D",
-                "Saadah, E"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              7,
-              "MTR",
-              "1032 Literatures, Cultures, & Ling",
-              1,
-              [
-                "Maweu, D",
-                "Saadah, E"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          6,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as SWAH 404. See SWAH 404.",
-      []
-    ],
-    "AFST 443": [
-      "Intermediate Wolof I",
-      {
-        "A": [
-          "66246",
-          [
-            [
-              2,
-              "MTWRF",
-              "1140 Literatures, Cultures, & Ling",
-              1,
-              [
-                "Toure, V"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as WLOF 403. See WLOF 403.",
-      []
-    ],
     "AFST 515": [
       "Practicum in African Studies",
       {
@@ -514,67 +575,6 @@
       },
       [],
       "A supervised practicum that emphasizes participation in the Center's educational activities and includes organizing conferences and outreach to K-12 educators, the media, and the community.",
-      []
-    ],
-    "AFST 436": [
-      "Advanced Swahili II",
-      {
-        "A": [
-          "39527",
-          [
-            [
-              1,
-              "MW",
-              "307 English Building",
-              3,
-              [
-                "Maweu, D",
-                "Saadah, E"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as SWAH 406. See SWAH 406.",
-      []
-    ],
-    "AFST 243": [
-      "Pan Africanism",
-      {
-        "A": [
-          "48089",
-          [
-            [
-              12,
-              "TR",
-              "37 Education Building",
-              8,
-              [
-                "Rigby, K"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as AFRO 243 and PS 243. See AFRO 243.",
       []
     ],
     "AFST 550": [
@@ -611,63 +611,63 @@
   "caches": {
     "periods": [
       "0930 - 1050",
-      "1100 - 1220",
-      "1000 - 1050",
+      "1600 - 1715",
+      "0930 - 1045",
       "0900 - 0950",
+      "1000 - 1050",
       "1100 - 1150",
       "1200 - 1250",
       "1300 - 1350",
       "1400 - 1450",
-      "1400 - 1650",
       "0000 - 0000",
-      "1600 - 1715",
-      "0930 - 1045",
+      "1400 - 1650",
       "1230 - 1350",
+      "1100 - 1220",
       "1400 - 1520",
+      "1400 - 1550",
       "1600 - 1720",
       "1500 - 1720",
-      "1400 - 1550",
       "1400 - 1720",
-      "1300 - 1450",
-      "0800 - 0950",
-      "1500 - 1650",
       "0900 - 1150",
+      "1300 - 1450",
+      "1500 - 1650",
+      "0800 - 0950",
       "0900 - 1020",
       "1500 - 1550",
       "1400 - 1630",
-      "1700 - 1820",
       "0800 - 0850",
-      "1530 - 1650",
       "0800 - 0920",
+      "1530 - 1650",
+      "1700 - 1820",
       "1530 - 1620",
       "2000 - 2050",
       "0800 - 1150",
+      "1500 - 1750",
       "1200 - 1550",
       "1230 - 1620",
       "0830 - 0920",
-      "1500 - 1750",
       "1300 - 1650",
+      "1500 - 1620",
       "0900 - 1050",
       "1100 - 1250",
-      "1500 - 1620",
       "1700 - 1850",
+      "1200 - 1320",
       "1600 - 1750",
       "1600 - 1650",
-      "1200 - 1320",
       "1000 - 1120",
       "1130 - 1250",
       "1300 - 1420",
       "1600 - 1730",
       "1030 - 1150",
+      "1230 - 1320",
       "1330 - 1520",
       "1530 - 1710",
-      "1230 - 1320",
-      "1630 - 1750",
       "1430 - 1550",
+      "1630 - 1750",
       "1730 - 1850",
       "1730 - 1920",
-      "1000 - 1150",
       "1530 - 1820",
+      "1000 - 1150",
       "1700 - 1750",
       "1100 - 1215",
       "0800 - 0959",
@@ -688,15 +688,15 @@
       "Lecture",
       "Online",
       "Independent Study",
-      "Laboratory-Discussion",
       "Laboratory",
       "Online Lecture",
+      "Laboratory-Discussion",
       "Online Discussion",
       "Conference",
       "Online Lecture Discussion",
       "Seminar",
-      "Internship",
       "Study Abroad",
+      "Internship",
       "Research"
     ],
     "campuses": [],
@@ -705,20 +705,20 @@
     "gradeBases": [],
     "locations": [
       {
-        "lat": 40.1047599,
-        "long": -88.2319514
+        "lat": 40.107534,
+        "long": -88.2281548
       },
       {
         "lat": null,
         "long": null
       },
       {
-        "lat": 40.1065684,
-        "long": -88.2281746
+        "lat": 40.1047599,
+        "long": -88.2319514
       },
       {
-        "lat": 40.107534,
-        "long": -88.2281548
+        "lat": 40.1065684,
+        "long": -88.2281746
       },
       {
         "lat": 40.105732,
@@ -729,16 +729,16 @@
         "long": -88.2262016
       },
       {
+        "lat": 40.1020773,
+        "long": -88.2296394
+      },
+      {
         "lat": 40.1035833,
         "long": -88.228405
       },
       {
         "lat": 40.11246109008789,
         "long": -88.22831726074219
-      },
-      {
-        "lat": 40.1020773,
-        "long": -88.2296394
       },
       {
         "lat": 40.1035872,

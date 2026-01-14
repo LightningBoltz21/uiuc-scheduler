@@ -1,68 +1,1116 @@
 {
   "subject": "ARTH",
-  "scrapedAt": 1768370781090,
-  "courseCount": 0,
-  "courses": {},
+  "scrapedAt": 1768370948355,
+  "courseCount": 21,
+  "courses": {
+    "ARTH 391": [
+      "Individual Art History Topics",
+      {
+        "": [
+          "10382",
+          [
+            [
+              9,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Directed independent research.",
+      []
+    ],
+    "ARTH 415": [
+      "The Archaeology of Greece",
+      {
+        "A": [
+          "40092",
+          [
+            [
+              12,
+              "TR",
+              "1060 Wymer Hall",
+              1,
+              [
+                "Bevis, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as CLCV 443. See CLCV 443.",
+      []
+    ],
+    "ARTH 230": [
+      "Italian Renaissance Art",
+      {
+        "A": [
+          "43849",
+          [
+            [
+              27,
+              "TR",
+              "316 Art and Design Building",
+              1,
+              [
+                "Pilgrim, J",
+                "Wallman, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Architecture, painting, and sculpture of Italy during the Renaissance.",
+      []
+    ],
+    "ARTH 219": [
+      "Islamic Gardens & Architecture",
+      {
+        "A1": [
+          "73058",
+          [
+            [
+              3,
+              "F",
+              "18 Temple Hoyne Buell Hall",
+              1,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              9,
+              "F",
+              "ONLINE",
+              1,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "B1": [
+          "73061",
+          [
+            [
+              4,
+              "F",
+              "18 Temple Hoyne Buell Hall",
+              1,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              9,
+              "F",
+              "ONLINE",
+              1,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "C1": [
+          "73064",
+          [
+            [
+              5,
+              "F",
+              "18 Temple Hoyne Buell Hall",
+              1,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              9,
+              "F",
+              "ONLINE",
+              1,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "D1": [
+          "73067",
+          [
+            [
+              6,
+              "F",
+              "18 Temple Hoyne Buell Hall",
+              1,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              9,
+              "F",
+              "ONLINE",
+              1,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "DFR": [
+          "73054",
+          [
+            [
+              9,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Ruggles, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "E1": [
+          "74902",
+          [
+            [
+              7,
+              "F",
+              "18 Temple Hoyne Buell Hall",
+              1,
+              [
+                "Ruggles, D"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              9,
+              "F",
+              "ONLINE",
+              1,
+              [
+                "Ruggles, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as ARCH 222 and LA 222. See LA 222.",
+      []
+    ],
+    "ARTH 250": [
+      "American Art",
+      {
+        "JC": [
+          "52424",
+          [
+            [
+              0,
+              "TR",
+              "316 Art and Design Building",
+              1,
+              [
+                "Albuquerque Araujo, I",
+                "Chuong, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Surveys American art and architecture from the colonial period to the present.",
+      []
+    ],
+    "ARTH 211": [
+      "Design History Survey",
+      {
+        "A": [
+          "63628",
+          [
+            [
+              15,
+              "MW",
+              "134 Temple Hoyne Buell Hall",
+              1,
+              [
+                "Kirk, S",
+                "Lyon, A",
+                "Smith, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "The historical, social and cultural context of design concentrating on manufactured products, communication, media and design from the Industrial Revolution to the present. Lectures, seminars and individual research projects.",
+      []
+    ],
+    "ARTH 343": [
+      "Arts of Modern Latin America",
+      {
+        "1": [
+          "70325",
+          [
+            [
+              12,
+              "TR",
+              "316 Art and Design Building",
+              1,
+              [
+                "Vazquez, O"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "This course is an introduction to the major visual materials, monuments, and critical debates of the arts of Latin America, from the 19th to the early 20th century. It studies a wide range of artistic media, including drawings, paintings, popular prints, performance, photography, film, murals, architecture, and urban planning, especially as they pertain to definitions of \"Latin America\". The course pays particular attention to constructions of race and gender in representing the modern nation.",
+      []
+    ],
+    "ARTH 110": [
+      "Introduction to the History of Art and Visual Culture",
+      {
+        "AD1": [
+          "68862",
+          [
+            [
+              4,
+              "F",
+              "131 Flagg Hall",
+              1,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AD2": [
+          "68863",
+          [
+            [
+              5,
+              "F",
+              "131 Flagg Hall",
+              1,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AD3": [
+          "68864",
+          [
+            [
+              6,
+              "F",
+              "131 Flagg Hall",
+              1,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AD4": [
+          "68866",
+          [
+            [
+              7,
+              "F",
+              "131 Flagg Hall",
+              1,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AD5": [
+          "68867",
+          [
+            [
+              49,
+              "T",
+              "131 Flagg Hall",
+              1,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AD6": [
+          "68868",
+          [
+            [
+              49,
+              "R",
+              "131 Flagg Hall",
+              1,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "68861",
+          [
+            [
+              6,
+              "MW",
+              "120 Architecture Building",
+              16,
+              [
+                "O'Brien, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "This course introduces participants to foundational questions that shape the disciplines of art history and visual studies. It is not a comprehensive survey. Rather, it provides students critical frames for examining the visual world from various temporal, geographic, and methodological perspectives. Students will investigate the history, interpretation, and criticism of selected cultural objects, images, places, and spaces across time and around the globe.",
+      []
+    ],
+    "ARTH 260": [
+      "Graffiti and Murals",
+      {
+        "OV": [
+          "57257",
+          [
+            [
+              13,
+              "TR",
+              "316 Art and Design Building",
+              1,
+              [
+                "Sullivan, K",
+                "Vazquez, O"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "From Bronx walls to the Berlin Wall, from ancient palatial decorations to spray-can art, murals and graffiti have been revolutionary political tools, objects of aesthetic contemplation, and vehicles for identity formation. Primarily a lecture course that examines ancient and early modern cases from different cultures, as well as focusing on modern examples from Latin America and the USA.",
+      []
+    ],
+    "ARTH 220": [
+      "African Arts and Architecture",
+      {
+        "1": [
+          "76182",
+          [
+            [
+              13,
+              "MW",
+              "312 Art and Design Building",
+              1,
+              [
+                "von Hesse, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Africa’s arts and architectural forms are as diverse and dynamic as its peoples. In chronological and thematic order, this course examines the emergence of some of Africa’s earliest rock arts, architectural forms, textiles/cloths, and more recent artistic expressions. We focus on internal and external influences such as long-distance trade, ancient Christianity, Islam, and European colonialism shaped local aesthetic innovations and the built environment. We also highlight Africa’s influences on global modernist artistic and cultural expressions.",
+      []
+    ],
+    "ARTH 447": [
+      "France and Its Others",
+      {
+        "DOG": [
+          "48140",
+          [
+            [
+              22,
+              "MW",
+              "316 Art and Design Building",
+              1,
+              [
+                "O'Brien, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "DOU": [
+          "48139",
+          [
+            [
+              22,
+              "MW",
+              "316 Art and Design Building",
+              1,
+              [
+                "O'Brien, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Examines the relationship between art and colonialism in nineteenth-century France. Topics include orientalism, primitivism, and exoticism; the central figures include Delacroix, Flaubert, Gerome, and Gauguin.",
+      []
+    ],
+    "ARTH 438": [
+      "Modernity’s Mirror: Nineteenth-Century Architecture 1750-1900",
+      {
+        "HG": [
+          "77668",
+          [
+            [
+              12,
+              "TR",
+              "115 David Kinley Hall",
+              7,
+              [
+                "Grossman, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as ARCH 415. See ARCH 415.",
+      []
+    ],
+    "ARTH 490": [
+      "Senior Art-History Honors-BFA",
+      {
+        "": [
+          "10381",
+          [
+            [
+              9,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Directed independent research and study for honors.",
+      []
+    ],
+    "ARTH 462": [
+      "Museum Theory and Practice",
+      {
+        "1G": [
+          "47360",
+          [
+            [
+              5,
+              "MWF",
+              "1010 Wymer Hall",
+              1,
+              [
+                "Frankenberg, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "1U": [
+          "47361",
+          [
+            [
+              5,
+              "MWF",
+              "1010 Wymer Hall",
+              1,
+              [
+                "Frankenberg, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as ANTH 462 and LA 472. See ANTH 462.",
+      []
+    ],
+    "ARTH 489": [
+      "Senior Art-History Honors-BA",
+      {
+        "": [
+          "10379",
+          [
+            [
+              9,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Independent guided research and study in a selected area of art history for candidates for the Bachelor of Arts in Art History with departmental distinction.",
+      []
+    ],
+    "ARTH 495": [
+      "Undergraduate Seminar in Art History",
+      {
+        "A": [
+          "39097",
+          [
+            [
+              92,
+              "T",
+              "131 Flagg Hall",
+              1,
+              [
+                "Chuong, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          11,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "77352",
+          [
+            [
+              88,
+              "W",
+              "316 Art and Design Building",
+              1,
+              [
+                "Smith, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          11,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Seminar offering students practical experience in research methods in Art History. Focuses on a specialized theme of the professor's choice, and incorporates extensive reading in a specific field of Art History and the completion of a substantial research paper.",
+      []
+    ],
+    "ARTH 491": [
+      "Topics in Art History",
+      {
+        "": [
+          "10383",
+          [
+            [
+              9,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "VHG": [
+          "30646",
+          [
+            [
+              48,
+              "MW",
+              "316 Art and Design Building",
+              1,
+              [
+                "von Hesse, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "VHU": [
+          "12454",
+          [
+            [
+              48,
+              "MW",
+              "316 Art and Design Building",
+              1,
+              [
+                "von Hesse, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Variable content; consult the Class Schedule for current topics.",
+      []
+    ],
+    "ARTH 541": [
+      "Seminar in Modern Art",
+      {
+        "KR": [
+          "30659",
+          [
+            [
+              93,
+              "T",
+              "312 Art and Design Building",
+              1,
+              [
+                "Romberg, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          11,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Investigation of special problems in the history of twentieth-century art. Students present reports of their research.",
+      []
+    ],
+    "ARTH 535": [
+      "Seminar in Baroque Art",
+      {
+        "JP": [
+          "39099",
+          [
+            [
+              88,
+              "W",
+              "340 Art and Design Building",
+              1,
+              [
+                "Pilgrim, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          11,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Research seminar in problems selected from the art of seventeenth-century Europe.",
+      []
+    ],
+    "ARTH 515": [
+      "Seminar in Ancient Art",
+      {
+        "VVC": [
+          "67442",
+          [
+            [
+              94,
+              "W",
+              "1026 Lincoln Hall",
+              3,
+              [
+                "Bevis, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          11,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Research seminar in subject selected from the art and architecture of the ancient period.",
+      []
+    ],
+    "ARTH 591": [
+      "Individual Readings",
+      {
+        "": [
+          "10384",
+          [
+            [
+              9,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Directed readings in special fields or aspects of history of art not provided in depth by the current course offerings.",
+      []
+    ]
+  },
   "caches": {
     "periods": [
       "0930 - 1050",
-      "1100 - 1220",
-      "1000 - 1050",
+      "1600 - 1715",
+      "0930 - 1045",
       "0900 - 0950",
+      "1000 - 1050",
       "1100 - 1150",
       "1200 - 1250",
       "1300 - 1350",
       "1400 - 1450",
-      "1400 - 1650",
       "0000 - 0000",
-      "1600 - 1715",
-      "0930 - 1045",
+      "1400 - 1650",
       "1230 - 1350",
+      "1100 - 1220",
       "1400 - 1520",
+      "1400 - 1550",
       "1600 - 1720",
       "1500 - 1720",
-      "1400 - 1550",
       "1400 - 1720",
-      "1300 - 1450",
-      "0800 - 0950",
-      "1500 - 1650",
       "0900 - 1150",
+      "1300 - 1450",
+      "1500 - 1650",
+      "0800 - 0950",
       "0900 - 1020",
       "1500 - 1550",
       "1400 - 1630",
-      "1700 - 1820",
       "0800 - 0850",
-      "1530 - 1650",
       "0800 - 0920",
+      "1530 - 1650",
+      "1700 - 1820",
       "1530 - 1620",
       "2000 - 2050",
       "0800 - 1150",
+      "1500 - 1750",
       "1200 - 1550",
       "1230 - 1620",
       "0830 - 0920",
-      "1500 - 1750",
       "1300 - 1650",
+      "1500 - 1620",
       "0900 - 1050",
       "1100 - 1250",
-      "1500 - 1620",
       "1700 - 1850",
+      "1200 - 1320",
       "1600 - 1750",
       "1600 - 1650",
-      "1200 - 1320",
       "1000 - 1120",
       "1130 - 1250",
       "1300 - 1420",
       "1600 - 1730",
       "1030 - 1150",
+      "1230 - 1320",
       "1330 - 1520",
       "1530 - 1710",
-      "1230 - 1320",
-      "1630 - 1750",
       "1430 - 1550",
+      "1630 - 1750",
       "1730 - 1850",
       "1730 - 1920",
-      "1000 - 1150",
       "1530 - 1820",
+      "1000 - 1150",
       "1700 - 1750",
       "1100 - 1215",
       "0800 - 0959",
@@ -81,24 +1129,25 @@
       "1830 - 1950",
       "1100 - 1350",
       "1800 - 2050",
-      "1300 - 1520",
+      "1300 - 1750",
       "1030 - 1120",
       "1430 - 1520",
       "1630 - 1720",
       "1130 - 1220",
-      "1300 - 1750",
+      "1300 - 1520",
       "0930 - 1220",
       "0800 - 1050",
       "1200 - 1420",
       "0930 - 1120",
       "1800 - 1950",
-      "1600 - 1840",
-      "1700 - 1940",
       "0900 - 1140",
       "1300 - 1540",
       "1330 - 1450",
+      "1600 - 1840",
+      "1700 - 1940",
       "1400 - 1640",
-      "0930 - 1210"
+      "0930 - 1210",
+      "1530 - 1800"
     ],
     "dateRanges": [],
     "scheduleTypes": [
@@ -107,15 +1156,15 @@
       "Lecture",
       "Online",
       "Independent Study",
-      "Laboratory-Discussion",
       "Laboratory",
       "Online Lecture",
+      "Laboratory-Discussion",
       "Online Discussion",
       "Conference",
       "Online Lecture Discussion",
       "Seminar",
-      "Internship",
       "Study Abroad",
+      "Internship",
       "Research",
       "Travel",
       "Studio",
@@ -127,20 +1176,20 @@
     "gradeBases": [],
     "locations": [
       {
-        "lat": 40.1047599,
-        "long": -88.2319514
+        "lat": 40.107534,
+        "long": -88.2281548
       },
       {
         "lat": null,
         "long": null
       },
       {
-        "lat": 40.1065684,
-        "long": -88.2281746
+        "lat": 40.1047599,
+        "long": -88.2319514
       },
       {
-        "lat": 40.107534,
-        "long": -88.2281548
+        "lat": 40.1065684,
+        "long": -88.2281746
       },
       {
         "lat": 40.105732,
@@ -151,16 +1200,16 @@
         "long": -88.2262016
       },
       {
+        "lat": 40.1020773,
+        "long": -88.2296394
+      },
+      {
         "lat": 40.1035833,
         "long": -88.228405
       },
       {
         "lat": 40.11246109008789,
         "long": -88.22831726074219
-      },
-      {
-        "lat": 40.1020773,
-        "long": -88.2296394
       },
       {
         "lat": 40.1035872,

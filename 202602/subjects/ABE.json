@@ -1,168 +1,8 @@
 {
   "subject": "ABE",
-  "scrapedAt": 1768370742403,
+  "scrapedAt": 1768370909220,
   "courseCount": 18,
   "courses": {
-    "ABE 397": [
-      "Independent Study",
-      {
-        "": [
-          "47262",
-          [
-            [
-              9,
-              "",
-              "ONLINE",
-              1,
-              [
-                "Staff"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          4,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Individual research, special problems, thesis, development or design work under the supervision of a member of the faculty.",
-      []
-    ],
-    "ABE 452": [
-      "Engineering for Disaster Resilience",
-      {
-        "LR1": [
-          "72308",
-          [
-            [
-              18,
-              "F",
-              "337 National Soybean Res Ctr",
-              1,
-              [
-                "Rodriguez, L"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              6,
-              "MW",
-              "337 National Soybean Res Ctr",
-              1,
-              [
-                "Rodriguez, L"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ],
-        "LR2": [
-          "73989",
-          [
-            [
-              18,
-              "F",
-              "337 National Soybean Res Ctr",
-              1,
-              [
-                "Rodriguez, L"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              6,
-              "MW",
-              "337 National Soybean Res Ctr",
-              1,
-              [
-                "Rodriguez, L"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              7,
-              "W",
-              "337 National Soybean Res Ctr",
-              1,
-              [
-                "Rodriguez, L"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Project-based design of resilient food, energy, and water supply chains for disaster-prone regions. Students investigate factors that provide context for specific disaster-prone regions and viable design solutions. Students quantify reliability and resilience of potential solutions, work with communities, aid organizations, and peer institutions identifying designs, eventually seeking pathways to implement solutions. Students will emerge with skills for managing such projects, collaborating closely with communities where local factors have impacts on sustainable engineering designs.",
-      []
-    ],
-    "ABE 341": [
-      "Transport Processes in ABE",
-      {
-        "KDR": [
-          "74560",
-          [
-            [
-              5,
-              "F",
-              "272 Agricultural Engr Sciences Bld",
-              1,
-              [
-                "Rausch, K"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              5,
-              "MW",
-              "272 Agricultural Engr Sciences Bld",
-              1,
-              [
-                "Rausch, K"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          2,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Principles of transport processes involving momentum, heat, and mass as applied to biological systems in agriculture, food, energy, and the environment.",
-      []
-    ],
     "ABE 199": [
       "Undergraduate Open Seminar",
       {
@@ -215,6 +55,58 @@
       "May be repeated to a maximum of 12 hours.",
       []
     ],
+    "ABE 361": [
+      "Functional Analysis and Design of Agricultural Machine Systems",
+      {
+        "AB1": [
+          "75748",
+          [
+            [
+              18,
+              "F",
+              "137 Agricultural Engr Sciences Bld",
+              1,
+              [
+                "Allen, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "75749",
+          [
+            [
+              5,
+              "MW",
+              "ONLINE",
+              1,
+              [
+                "Allen, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Design and development concepts of agricultural machines; analysis and synthesis of tillage, planting, harvesting, chemical application, material handling mechanisms, and precision farming tools.",
+      []
+    ],
     "ABE 152": [
       "Water in the Global Environment",
       {
@@ -222,7 +114,7 @@
           "73114",
           [
             [
-              18,
+              19,
               "MW",
               "ONLINE",
               1,
@@ -248,6 +140,136 @@
       "This course develops a comprehensive understanding and appreciation of water and its impact in a global context. The course emphasizes cultural practices associated with water and its use, especially for regions in non-western cultures. Students will develop critical knowledge of: 1) water availability, water quality, and global challenges; 2) historical perspectives of water use; 3) past, present, and future environmental sustainability in relation to water, food, and energy; and 4) conduct analysis of cultural practices and their sustainability based on water in a global context. Students attend 3-4 field trips related to the course.",
       []
     ],
+    "ABE 452": [
+      "Engineering for Disaster Resilience",
+      {
+        "LR1": [
+          "72308",
+          [
+            [
+              19,
+              "F",
+              "337 National Soybean Res Ctr",
+              1,
+              [
+                "Rodriguez, L"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              7,
+              "MW",
+              "337 National Soybean Res Ctr",
+              1,
+              [
+                "Rodriguez, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "LR2": [
+          "73989",
+          [
+            [
+              19,
+              "F",
+              "337 National Soybean Res Ctr",
+              1,
+              [
+                "Rodriguez, L"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              7,
+              "MW",
+              "337 National Soybean Res Ctr",
+              1,
+              [
+                "Rodriguez, L"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "W",
+              "337 National Soybean Res Ctr",
+              1,
+              [
+                "Rodriguez, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Project-based design of resilient food, energy, and water supply chains for disaster-prone regions. Students investigate factors that provide context for specific disaster-prone regions and viable design solutions. Students quantify reliability and resilience of potential solutions, work with communities, aid organizations, and peer institutions identifying designs, eventually seeking pathways to implement solutions. Students will emerge with skills for managing such projects, collaborating closely with communities where local factors have impacts on sustainable engineering designs.",
+      []
+    ],
+    "ABE 341": [
+      "Transport Processes in ABE",
+      {
+        "KDR": [
+          "74560",
+          [
+            [
+              6,
+              "F",
+              "272 Agricultural Engr Sciences Bld",
+              1,
+              [
+                "Rausch, K"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              6,
+              "MW",
+              "272 Agricultural Engr Sciences Bld",
+              1,
+              [
+                "Rausch, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Principles of transport processes involving momentum, heat, and mass as applied to biological systems in agriculture, food, energy, and the environment.",
+      []
+    ],
     "ABE 128": [
       "Applied Biology for Agricultural and Biological Engineers",
       {
@@ -255,7 +277,7 @@
           "75643",
           [
             [
-              8,
+              10,
               "W",
               "M5 Turner Hall",
               1,
@@ -267,7 +289,7 @@
               -1
             ],
             [
-              2,
+              4,
               "MW",
               "208 Agricultural Engr Sciences Bld",
               1,
@@ -280,7 +302,7 @@
             ]
           ],
           3,
-          6,
+          5,
           0,
           [],
           -1
@@ -289,7 +311,7 @@
           "75846",
           [
             [
-              8,
+              10,
               "R",
               "M5 Turner Hall",
               1,
@@ -302,7 +324,7 @@
               -1
             ],
             [
-              2,
+              4,
               "MW",
               "208 Agricultural Engr Sciences Bld",
               1,
@@ -316,7 +338,7 @@
             ]
           ],
           3,
-          6,
+          5,
           0,
           [],
           -1
@@ -326,159 +348,20 @@
       "Principles of biology relevant to agriculture, food, energy, and the environment, including microbiology, biochemistry, genetics, plant and animal systems, and ecosystems. Case studies of engineering applications where these biological principles have been taken into account or leveraged for the purpose of design.",
       []
     ],
-    "ABE 228": [
-      "Computer-Aided Problem-Solving for ABE II",
+    "ABE 232": [
+      "Context in International Interventions",
       {
-        "LB1": [
-          "76947",
+        "AW": [
+          "76255",
           [
             [
               19,
-              "R",
-              "220 Agricultural Engr Sciences Bld",
-              1,
-              [
-                "Choi, Y",
-                "Lee, S",
-                "Malvandi, A"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              4,
-              "MW",
-              "208 Agricultural Engr Sciences Bld",
-              1,
-              [
-                "Choi, Y",
-                "Lee, S",
-                "Malvandi, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          6,
-          0,
-          [],
-          -1
-        ],
-        "LB2": [
-          "76948",
-          [
-            [
-              18,
-              "R",
-              "220 Agricultural Engr Sciences Bld",
-              1,
-              [
-                "Choi, Y",
-                "Lee, S",
-                "Malvandi, A"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              4,
-              "MW",
-              "208 Agricultural Engr Sciences Bld",
-              1,
-              [
-                "Choi, Y",
-                "Lee, S",
-                "Malvandi, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          6,
-          0,
-          [],
-          -1
-        ],
-        "LB3": [
-          "77844",
-          [
-            [
-              20,
-              "R",
-              "220 Agricultural Engr Sciences Bld",
-              1,
-              [
-                "Malvandi, A"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              4,
-              "MW",
-              "208 Agricultural Engr Sciences Bld",
-              1,
-              [
-                "Malvandi, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          6,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Case studies from traditional and new domains in ABE will be considered, such as: off-highway vehicles, natural resources and environmental systems, control of indoor air environments, bioprocessing of food and agricultural materials, digital and urban agriculture, renewable energy, sustainability, and synthetic biology. Typical approaches to problem solving include spreadsheets, GUI based programming, scripting, geospatial platforms, solid modeling, visual programming, dynamic modeling, biological modeling. ABE 228 considers complementary approaches and topics covered in ABE 227.",
-      []
-    ],
-    "ABE 361": [
-      "Functional Analysis and Design of Agricultural Machine Systems",
-      {
-        "AB1": [
-          "75748",
-          [
-            [
-              21,
-              "F",
-              "137 Agricultural Engr Sciences Bld",
-              1,
-              [
-                "Allen, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          6,
-          0,
-          [],
-          -1
-        ],
-        "AL1": [
-          "75749",
-          [
-            [
-              4,
-              "MW",
+              "MWF",
               "ONLINE",
               1,
               [
-                "Allen, C"
+                "Lawson-Bulten, E",
+                "Witmer, A"
               ],
               -1,
               -1,
@@ -486,14 +369,14 @@
             ]
           ],
           3,
-          7,
+          6,
           0,
           [],
           -1
         ]
       },
       [],
-      "Design and development concepts of agricultural machines; analysis and synthesis of tillage, planting, harvesting, chemical application, material handling mechanisms, and precision farming tools.",
+      "This multi-disciplinary course will examine a new approach to infrastructure engineering for alternately developed societies that seeks to counteract the disconnects and differing objectives among project stakeholders that result in lack of infrastructure sustainability and resiliency. Using a case study from Western Africa, the course will consider the impact of globalization, the attitudes of industrialized societies, and the role of place-based knowledge in designing and implementing infrastructure interventions for rural societies.",
       []
     ],
     "ABE 425": [
@@ -503,7 +386,7 @@
           "39995",
           [
             [
-              18,
+              19,
               "F",
               "248 Agricultural Engr Sciences Bld",
               1,
@@ -517,7 +400,7 @@
             ]
           ],
           4,
-          6,
+          5,
           0,
           [],
           -1
@@ -540,7 +423,7 @@
             ]
           ],
           4,
-          6,
+          5,
           0,
           [],
           -1
@@ -572,20 +455,35 @@
       "Principles of instrumentation systems, including sensing, signal conditioning, computerized data acquisition, test design, data analysis and synthesis.",
       []
     ],
-    "ABE 232": [
-      "Context in International Interventions",
+    "ABE 228": [
+      "Computer-Aided Problem-Solving for ABE II",
       {
-        "AW": [
-          "76255",
+        "LB1": [
+          "76947",
           [
             [
-              18,
-              "MWF",
-              "ONLINE",
+              21,
+              "R",
+              "220 Agricultural Engr Sciences Bld",
               1,
               [
-                "Lawson-Bulten, E",
-                "Witmer, A"
+                "Choi, Y",
+                "Lee, S",
+                "Malvandi, A"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              5,
+              "MW",
+              "208 Agricultural Engr Sciences Bld",
+              1,
+              [
+                "Choi, Y",
+                "Lee, S",
+                "Malvandi, A"
               ],
               -1,
               -1,
@@ -593,51 +491,93 @@
             ]
           ],
           3,
-          7,
+          5,
           0,
           [],
           -1
-        ]
-      },
-      [],
-      "This multi-disciplinary course will examine a new approach to infrastructure engineering for alternately developed societies that seeks to counteract the disconnects and differing objectives among project stakeholders that result in lack of infrastructure sustainability and resiliency. Using a case study from Western Africa, the course will consider the impact of globalization, the attitudes of industrialized societies, and the role of place-based knowledge in designing and implementing infrastructure interventions for rural societies.",
-      []
-    ],
-    "ABE 502": [
-      "Graduate Seminar: Advanced Career Skills",
-      {
-        "AE1": [
-          "77151",
+        ],
+        "LB2": [
+          "76948",
           [
             [
-              2,
-              "F",
+              19,
+              "R",
+              "220 Agricultural Engr Sciences Bld",
+              1,
+              [
+                "Choi, Y",
+                "Lee, S",
+                "Malvandi, A"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              5,
+              "MW",
               "208 Agricultural Engr Sciences Bld",
               1,
               [
-                "Rausch, K"
+                "Choi, Y",
+                "Lee, S",
+                "Malvandi, A"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          1,
+          3,
+          5,
           0,
+          [],
+          -1
+        ],
+        "LB3": [
+          "77844",
+          [
+            [
+              20,
+              "R",
+              "220 Agricultural Engr Sciences Bld",
+              1,
+              [
+                "Malvandi, A"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              5,
+              "MW",
+              "208 Agricultural Engr Sciences Bld",
+              1,
+              [
+                "Malvandi, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
           0,
           [],
           -1
         ]
       },
       [],
-      "Introduction to managing time and stress, completing degree program requirements, research methods, data collection techniques, professional ethics, presentation and communication skills, and project management.",
+      "Case studies from traditional and new domains in ABE will be considered, such as: off-highway vehicles, natural resources and environmental systems, control of indoor air environments, bioprocessing of food and agricultural materials, digital and urban agriculture, renewable energy, sustainability, and synthetic biology. Typical approaches to problem solving include spreadsheets, GUI based programming, scripting, geospatial platforms, solid modeling, visual programming, dynamic modeling, biological modeling. ABE 228 considers complementary approaches and topics covered in ABE 227.",
       []
     ],
-    "ABE 597": [
+    "ABE 397": [
       "Independent Study",
       {
         "": [
-          "10174",
+          "47262",
           [
             [
               9,
@@ -660,37 +600,7 @@
         ]
       },
       [],
-      "Individual investigations or studies of any phases of agricultural engineering selected by the student and approved by the advisor and the faculty member who will supervise the study.",
-      []
-    ],
-    "ABE 483": [
-      "Engineering Properties of Food Materials",
-      {
-        "AL1": [
-          "74549",
-          [
-            [
-              0,
-              "MW",
-              "242 Agricultural Engr Sciences Bld",
-              1,
-              [
-                "Kamruzzaman, M"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          2,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Physical properties of foods and biological materials; properties relating to equipment design and the sensing and control of food processes; thermal, electromagnetic radiation, rheological, and other mechanical properties.",
+      "Individual research, special problems, thesis, development or design work under the supervision of a member of the faculty.",
       []
     ],
     "ABE 454": [
@@ -730,7 +640,7 @@
           "70549",
           [
             [
-              7,
+              8,
               "R",
               "248 Agricultural Engr Sciences Bld",
               1,
@@ -743,7 +653,7 @@
               -1
             ],
             [
-              12,
+              11,
               "TR",
               "248 Agricultural Engr Sciences Bld",
               1,
@@ -767,34 +677,34 @@
       "Design projects which utilize principles of design, engineering analysis and functional operation of engineering systems. Projects originate from industry, nonprofit entities and federal agencies. Design teams develop concepts, evaluate alternatives, model and analyze solutions, and build and test a final product. Emphases on communication skills, technical writing, and interaction with industry representatives.",
       []
     ],
-    "ABE 497": [
-      "Independent Study",
+    "ABE 483": [
+      "Engineering Properties of Food Materials",
       {
-        "": [
-          "61168",
+        "AL1": [
+          "74549",
           [
             [
-              9,
-              "",
-              "ONLINE",
+              0,
+              "MW",
+              "242 Agricultural Engr Sciences Bld",
               1,
               [
-                "Staff"
+                "Kamruzzaman, M"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          4,
-          4,
+          3,
+          2,
           0,
           [],
           -1
         ]
       },
       [],
-      "Individual research, special problems, thesis, development or design work under the supervision of a member of the faculty.",
+      "Physical properties of foods and biological materials; properties relating to equipment design and the sensing and control of food processes; thermal, electromagnetic radiation, rheological, and other mechanical properties.",
       []
     ],
     "ABE 532": [
@@ -816,7 +726,7 @@
               -1
             ],
             [
-              18,
+              19,
               "MWF",
               "ONLINE",
               1,
@@ -882,7 +792,7 @@
             ]
           ],
           4,
-          7,
+          6,
           0,
           [],
           -1
@@ -904,7 +814,7 @@
             ]
           ],
           4,
-          7,
+          6,
           0,
           [],
           -1
@@ -937,32 +847,122 @@
       [],
       "Subject offerings of new and developing areas of knowledge in agricultural and biological engineering intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites.",
       []
+    ],
+    "ABE 497": [
+      "Independent Study",
+      {
+        "": [
+          "61168",
+          [
+            [
+              9,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Individual research, special problems, thesis, development or design work under the supervision of a member of the faculty.",
+      []
+    ],
+    "ABE 502": [
+      "Graduate Seminar: Advanced Career Skills",
+      {
+        "AE1": [
+          "77151",
+          [
+            [
+              4,
+              "F",
+              "208 Agricultural Engr Sciences Bld",
+              1,
+              [
+                "Rausch, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to managing time and stress, completing degree program requirements, research methods, data collection techniques, professional ethics, presentation and communication skills, and project management.",
+      []
+    ],
+    "ABE 597": [
+      "Independent Study",
+      {
+        "": [
+          "10174",
+          [
+            [
+              9,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Individual investigations or studies of any phases of agricultural engineering selected by the student and approved by the advisor and the faculty member who will supervise the study.",
+      []
     ]
   },
   "caches": {
     "periods": [
       "0930 - 1050",
-      "1100 - 1220",
-      "1000 - 1050",
+      "1600 - 1715",
+      "0930 - 1045",
       "0900 - 0950",
+      "1000 - 1050",
       "1100 - 1150",
       "1200 - 1250",
       "1300 - 1350",
       "1400 - 1450",
-      "1400 - 1650",
       "0000 - 0000",
-      "1600 - 1715",
-      "0930 - 1045",
+      "1400 - 1650",
       "1230 - 1350",
+      "1100 - 1220",
       "1400 - 1520",
+      "1400 - 1550",
       "1600 - 1720",
       "1500 - 1720",
-      "1400 - 1550",
       "1400 - 1720",
-      "1300 - 1450",
-      "0800 - 0950",
-      "1500 - 1650",
       "0900 - 1150",
+      "1300 - 1450",
+      "1500 - 1650",
+      "0800 - 0950",
       "0900 - 1020",
       "1500 - 1550",
       "1400 - 1630"
@@ -974,9 +974,9 @@
       "Lecture",
       "Online",
       "Independent Study",
-      "Laboratory-Discussion",
       "Laboratory",
       "Online Lecture",
+      "Laboratory-Discussion",
       "Online Discussion"
     ],
     "campuses": [],
@@ -985,20 +985,20 @@
     "gradeBases": [],
     "locations": [
       {
-        "lat": 40.1047599,
-        "long": -88.2319514
+        "lat": 40.107534,
+        "long": -88.2281548
       },
       {
         "lat": null,
         "long": null
       },
       {
-        "lat": 40.1065684,
-        "long": -88.2281746
+        "lat": 40.1047599,
+        "long": -88.2319514
       },
       {
-        "lat": 40.107534,
-        "long": -88.2281548
+        "lat": 40.1065684,
+        "long": -88.2281746
       },
       {
         "lat": 40.105732,
@@ -1009,16 +1009,16 @@
         "long": -88.2262016
       },
       {
+        "lat": 40.1020773,
+        "long": -88.2296394
+      },
+      {
         "lat": 40.1035833,
         "long": -88.228405
       },
       {
         "lat": 40.11246109008789,
         "long": -88.22831726074219
-      },
-      {
-        "lat": 40.1020773,
-        "long": -88.2296394
       }
     ],
     "finalDates": [],

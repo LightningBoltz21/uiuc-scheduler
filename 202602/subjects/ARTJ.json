@@ -1,103 +1,82 @@
 {
-  "subject": "AGED",
-  "scrapedAt": 1768370928245,
-  "courseCount": 5,
+  "subject": "ARTJ",
+  "scrapedAt": 1768370949115,
+  "courseCount": 8,
   "courses": {
-    "AGED 410": [
-      "Grad Early Field Experience",
+    "ARTJ 399": [
+      "Japan House Internship",
       {
-        "B": [
-          "54212",
+        "1": [
+          "78057",
           [
             [
-              48,
-              "MW",
-              "122 Bevier Hall",
-              13,
-              [
-                "Ochs, G"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          2,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "C": [
-          "78359",
-          [
-            [
-              9,
-              "",
-              "ONLINE",
+              93,
+              "F",
+              "Location Pending",
               1,
               [
-                "Ochs, G"
+                "Liao, D"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          2,
           3,
+          13,
           0,
           [],
           -1
         ]
       },
       [],
-      "An introduction to the application of pedagogy through early field experiences in agricultural education. Students participate in eight weeks of instruction and 40 hours of participatory experiences in approved agricultural education programs. Off-campus observation begins the first week of January. Restricted to graduate students in the teacher education option.",
+      "Students will participate in outreach programming and development, communications, and special projects that focus on traditional Japanese arts and culture. Students must apply with an essay and interview process. Instructor approval required.",
       []
     ],
-    "AGED 199": [
-      "Undergraduate Open Seminar",
+    "ARTJ 199": [
+      "Special Topics in Japanese Aesthetic Practices",
       {
-        "GAO": [
-          "64704",
+        "1": [
+          "72435",
           [
             [
-              9,
-              "",
-              "ONLINE",
+              88,
+              "T",
+              "Location Pending",
               1,
               [
-                "Ochs, G"
+                "Gunji, K",
+                "Liao, D"
               ],
               -1,
               -1,
               -1
             ]
           ],
+          3,
           5,
-          3,
           0,
           [],
           -1
         ]
       },
       [],
-      "An experimental course on a special topic in agricultural leadership, education and communications.",
+      "Topic and subject matter to be published in individual course listings.",
       []
     ],
-    "AGED 420": [
-      "Curr Design & Instruction",
+    "ARTJ 301": [
+      "Manga: The Art of Image and Word",
       {
-        "A": [
-          "52917",
+        "CHP": [
+          "75868",
           [
             [
-              22,
-              "MW",
-              "122 Bevier Hall",
-              13,
+              12,
+              "TR",
+              "212 1205 W Oregon",
+              1,
               [
-                "Marzolino, T"
+                "Stirek, L"
               ],
               -1,
               -1,
@@ -105,51 +84,21 @@
             ]
           ],
           3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "This instructional methodology course provides students the opportunity to analyze the principles of learning and teaching as they influence the academic motivation of learners in formal and non-formal environments within agricultural, food and environmental sciences. Topics include: the understanding and implementation of psychological aspects of learning, planning and development of agricultural courses and curricula, creating teaching plans, managing positive learning environments, evaluating student learning, and the utilization of effective self-reflective teaching behaviors.",
-      []
-    ],
-    "AGED 250": [
-      "Observation and Program Analys",
-      {
-        "A": [
-          "29883",
-          [
-            [
-              48,
-              "MW",
-              "122 Bevier Hall",
-              13,
-              [
-                "Ochs, G"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
+          2,
           0,
           [],
           -1
         ]
       },
       [],
-      "Early field experience in agricultural education, including observation and analysis activities in public schools, extension programs, or other selected settings; participation in clinical field experience activities; examination of educational program development and operation, teaching and learning processes, contextual factors in learning, evaluation of student learning; and professionalism. Approximately 45 hours of early field experience will be acquired. Off-campus observation begins the first week of January. Agricultural education programs in both school and non-school settings are examined.",
+      "Introduction to manga (Japanese comics), its production, its history in both a Japanese and global context, and the fundamentals of manga as an art form and part of the larger cultural traditions of Japan; emphasis on critical analysis of a variety of manga in translation and related scholarly articles; discussion of the evolution of manga and the ways it interacts with culture and society.",
       []
     ],
-    "AGED 450": [
-      "Program Delivery and Eval",
+    "ARTJ 209": [
+      "Chado (The Way of Tea)",
       {
-        "A": [
-          "29888",
+        "1": [
+          "72436",
           [
             [
               9,
@@ -157,7 +106,68 @@
               "ONLINE",
               1,
               [
-                "Ochs, G"
+                "Liao, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Explores the Japanese Tea Ceremony and its relevance to everyday life. Students will acquire a better understanding of Japanese culture and a new appreciation of their own cultures through the study of the Tea Ceremony and the Zen worldview that informs it.",
+      []
+    ],
+    "ARTJ 101": [
+      "Introduction to Japanese Aesthetics",
+      {
+        "1": [
+          "73184",
+          [
+            [
+              88,
+              "T",
+              "Location Pending",
+              1,
+              [
+                "Gunji-Ballsrud, J",
+                "Liao, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Experience and practice a sampling of Japanese arts.",
+      []
+    ],
+    "ARTJ 391": [
+      "Independent Study in Japanese Aesthetics",
+      {
+        "": [
+          "73836",
+          [
+            [
+              9,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Staff"
               ],
               -1,
               -1,
@@ -165,6 +175,67 @@
             ]
           ],
           4,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Directed independent research project or creative project.",
+      []
+    ],
+    "ARTJ 397": [
+      "Zen, Tea, and Power",
+      {
+        "1": [
+          "73171",
+          [
+            [
+              13,
+              "TR",
+              "ONLINE",
+              1,
+              [
+                "Francis, O",
+                "Liao, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to the dynamic history of Zen, tea, and power through the in-depth explanation and analysis of the development of chanoyu (Japanese tea ceremony); illustration of how interrelated and mutually supportive social groups and key figures in Japanese history; emphasis on critical analysis of scholarly articles and books to gain understanding and knowledge of Japanese arts and culture; discussion of the application of Japanese aesthetics, theories, and philosophies.",
+      []
+    ],
+    "ARTJ 302": [
+      "Intro to Japanese Animation",
+      {
+        "1": [
+          "72327",
+          [
+            [
+              27,
+              "TR",
+              "312 Art and Design Building",
+              1,
+              [
+                "Stirek, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
           0,
           0,
           [],
@@ -172,7 +243,7 @@
         ]
       },
       [],
-      "Students complete this course during their twelve-week practice teaching or internship experience. Written assignments will focus on development of teaching plans, program initiation and improvement plans, and actual evaluation studies of agricultural education programs. Instruction will be provided during on-site faculty visits and by cooperating personnel.",
+      "Introduction to anime (Japanese animation), its history, its relevance in both a Japanese and global context, and its international impact; emphasis on philosophical inquiry into issues raised in a variety of dubbed/subtitled anime and critical analysis of related scholarly articles; discussion of the mechanics of anime creation and examination of its interaction with other media including videogames and manga.",
       []
     ]
   },
@@ -248,7 +319,31 @@
       "1500 - 1730",
       "1200 - 1450",
       "0930 - 1020",
-      "1730 - 2030"
+      "1730 - 2030",
+      "1300 - 1550",
+      "1730 - 1900",
+      "1830 - 1950",
+      "1100 - 1350",
+      "1800 - 2050",
+      "1300 - 1750",
+      "1030 - 1120",
+      "1430 - 1520",
+      "1630 - 1720",
+      "1130 - 1220",
+      "1300 - 1520",
+      "0930 - 1220",
+      "0800 - 1050",
+      "1200 - 1420",
+      "0930 - 1120",
+      "1800 - 1950",
+      "0900 - 1140",
+      "1300 - 1540",
+      "1330 - 1450",
+      "1600 - 1840",
+      "1700 - 1940",
+      "1400 - 1640",
+      "0930 - 1210",
+      "1530 - 1800"
     ],
     "dateRanges": [],
     "scheduleTypes": [
@@ -266,7 +361,10 @@
       "Seminar",
       "Study Abroad",
       "Internship",
-      "Research"
+      "Research",
+      "Travel",
+      "Studio",
+      "LaboratoryMeets 03/16/26-05/06/26"
     ],
     "campuses": [],
     "attributes": [],
@@ -368,6 +466,14 @@
       {
         "lat": 40.1149296,
         "long": -88.2280589
+      },
+      {
+        "lat": 40.1149521,
+        "long": -88.2267561
+      },
+      {
+        "lat": 40.1028373,
+        "long": -88.2251326
       }
     ],
     "finalDates": [],

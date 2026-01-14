@@ -1,68 +1,8 @@
 {
   "subject": "ANTH",
-  "scrapedAt": 1768370772420,
+  "scrapedAt": 1768370938276,
   "courseCount": 62,
   "courses": {
-    "ANTH 104": [
-      "Talking Culture",
-      {
-        "1": [
-          "30033",
-          [
-            [
-              0,
-              "TR",
-              "223 David Kinley Hall",
-              6,
-              [
-                "Delfino, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Introduces you to language-in-use from the perspective of linguistic anthropology. We explore how the language(s) people use creates a specific \"worldview\" or cultural \"common sense\" and how this creates and maintains distinct concepts of self, society and culture. We will examine critically the ways in which differences in language and communication work in the USA in relation to power and politics, the media, gender, ethnicity/race, age, class, and identity, with comparisons to other cultures. During the semester you will encounter new information about language structure and use, and learn methods of investigation and analysis used in contemporary linguistic anthropology.",
-      []
-    ],
-    "ANTH 101": [
-      "Introduction to Anthropology",
-      {
-        "ONL": [
-          "54598",
-          [
-            [
-              9,
-              "",
-              "ONLINE",
-              1,
-              [
-                "Wong, L"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          3,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Anthropology was first envisioned as a holistic discipline, combining insights from the study of human anatomy and evolution, research on material remains of human settlements, and the analysis of social interaction in language and other cultural practices. Following this tradition, this course explores the questions about where humans came from, how societies live and communicate, and why human cultural groups vary.",
-      []
-    ],
     "ANTH 126": [
       "Humans and Animals - Food or Friend?",
       {
@@ -73,7 +13,7 @@
               13,
               "TR",
               "326 David Kinley Hall",
-              6,
+              7,
               [
                 "Cortez, A"
               ],
@@ -123,6 +63,66 @@
       "Explores recent theoretical, methodological, and thematic developments in historical archaeology in North America and the Caribbean. The temporal coverage is 1500-1900 AD. Examines how historical archaeologists use artifactual, documentary and oral history evidence in interpreting the past, and how historical archaeology can contribute to our understanding of the ways by which material culture can be used to study race, class, gender, and ethnic identities.",
       []
     ],
+    "ANTH 109": [
+      "Religion & Society in West II",
+      {
+        "E": [
+          "37859",
+          [
+            [
+              5,
+              "MWF",
+              "160 English Building",
+              0,
+              [
+                "King, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as PHIL 109 and REL 109. See REL 109.",
+      []
+    ],
+    "ANTH 110": [
+      "Humanizing Science",
+      {
+        "1": [
+          "70671",
+          [
+            [
+              12,
+              "TR",
+              "111A Pennsylvania Lounge Bld - PAR",
+              1,
+              [
+                "Clancy, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Scientists are often taught that the skills they need are confined to conducting research in the lab, the field, or the observatory. Yet science is also a human endeavor. If scientists are not taught this lesson, mistakes can be made that have real implications for people's lives, for scientific progress, and for who gets to be a scientist. Therefore this course will introduce 1) a brief history of Western and non-Western science, 2) the influences of social categories and oppressions on scientific advancement, 3) the incentive and reward structure of science, and 4) stories of scientists who have chosen to walk a brave path in the way they conduct and disseminate their research. We will engage in a mix of ethnographic and case study work and bring interpretive and systematic analysis to bear on what it means to be a scientist. The ultimate goal of the course is to provide a substantive, rigorous, and broad introduction to the culture of science, and how that culture affects the people of science, its practice, and its process.",
+      []
+    ],
     "ANTH 180": [
       "The Archaeology of Death",
       {
@@ -153,34 +153,34 @@
       "Cross-cultural introduction to the celebration of death across time and space. Examines the anthropological and archaeological literature on death, particularly in terms of death ritual and burial practices. Students study popular films on death in different cultures.",
       []
     ],
-    "ANTH 182": [
-      "Latin American Cultures",
+    "ANTH 101": [
+      "Introduction to Anthropology",
       {
-        "AL1": [
-          "40158",
+        "ONL": [
+          "54598",
           [
             [
-              12,
-              "TR",
-              "242 Bevier Hall",
-              13,
+              9,
+              "",
+              "ONLINE",
+              1,
               [
-                "Quinones-Rivera, M"
+                "Wong, L"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          4,
-          0,
+          3,
+          3,
           0,
           [],
           -1
         ]
       },
       [],
-      "Latin America considered as a theater of conflict and cultural experimentation among Native American, African, and Iberian peoples; their survival and transformation as reported in selected ethnographies and eyewitness sources; and some modern theories and controversies about their experience.",
+      "Anthropology was first envisioned as a holistic discipline, combining insights from the study of human anatomy and evolution, research on material remains of human settlements, and the analysis of social interaction in language and other cultural practices. Following this tradition, this course explores the questions about where humans came from, how societies live and communicate, and why human cultural groups vary.",
       []
     ],
     "ANTH 103": [
@@ -211,6 +211,66 @@
       },
       [],
       "[IAI Code: S1901N] Presents the fundamental areas of anthropological analysis through a series of comparative cases that emphasize social and cultural relations in global contexts. Directs attention to the anthropological history of global empires and colonial states, their cultural exchanges, and contemporary studies of culture, society, and globalization.",
+      []
+    ],
+    "ANTH 104": [
+      "Talking Culture",
+      {
+        "1": [
+          "30033",
+          [
+            [
+              0,
+              "TR",
+              "223 David Kinley Hall",
+              7,
+              [
+                "Delfino, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduces you to language-in-use from the perspective of linguistic anthropology. We explore how the language(s) people use creates a specific \"worldview\" or cultural \"common sense\" and how this creates and maintains distinct concepts of self, society and culture. We will examine critically the ways in which differences in language and communication work in the USA in relation to power and politics, the media, gender, ethnicity/race, age, class, and identity, with comparisons to other cultures. During the semester you will encounter new information about language structure and use, and learn methods of investigation and analysis used in contemporary linguistic anthropology.",
+      []
+    ],
+    "ANTH 182": [
+      "Latin American Cultures",
+      {
+        "AL1": [
+          "40158",
+          [
+            [
+              11,
+              "TR",
+              "242 Bevier Hall",
+              13,
+              [
+                "Quinones-Rivera, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Latin America considered as a theater of conflict and cultural experimentation among Native American, African, and Iberian peoples; their survival and transformation as reported in selected ethnographies and eyewitness sources; and some modern theories and controversies about their experience.",
       []
     ],
     "ANTH 199": [
@@ -265,49 +325,21 @@
       null,
       []
     ],
-    "ANTH 109": [
-      "Religion & Society in West II",
+    "ANTH 210": [
+      "Families in Global Perspective",
       {
-        "E": [
-          "37859",
+        "AL1": [
+          "33812",
           [
             [
-              4,
-              "MWF",
-              "160 English Building",
-              3,
-              [
-                "King, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          2,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as PHIL 109 and REL 109. See REL 109.",
-      []
-    ],
-    "ANTH 110": [
-      "Humanizing Science",
-      {
-        "1": [
-          "70671",
-          [
-            [
-              1,
+              12,
               "TR",
-              "111A Pennsylvania Lounge Bld - PAR",
+              "ONLINE",
               1,
               [
-                "Clancy, K"
+                "Kramer, K",
+                "Wang, I",
+                "Zhang, F"
               ],
               -1,
               -1,
@@ -315,14 +347,14 @@
             ]
           ],
           3,
-          0,
+          6,
           0,
           [],
           -1
         ]
       },
       [],
-      "Scientists are often taught that the skills they need are confined to conducting research in the lab, the field, or the observatory. Yet science is also a human endeavor. If scientists are not taught this lesson, mistakes can be made that have real implications for people's lives, for scientific progress, and for who gets to be a scientist. Therefore this course will introduce 1) a brief history of Western and non-Western science, 2) the influences of social categories and oppressions on scientific advancement, 3) the incentive and reward structure of science, and 4) stories of scientists who have chosen to walk a brave path in the way they conduct and disseminate their research. We will engage in a mix of ethnographic and case study work and bring interpretive and systematic analysis to bear on what it means to be a scientist. The ultimate goal of the course is to provide a substantive, rigorous, and broad introduction to the culture of science, and how that culture affects the people of science, its practice, and its process.",
+      "Same as HDFS 220. See HDFS 220.",
       []
     ],
     "ANTH 221": [
@@ -332,7 +364,7 @@
           "73121",
           [
             [
-              1,
+              12,
               "MW",
               "320 Mumford Hall",
               1,
@@ -355,6 +387,48 @@
       "Explores the archaeology of South Asia from the earliest occupations of the subcontinent to the present. South Asia is home to one of the first urbanized societies, over 40 World Heritage sites, and some of the 21st century's largest megacities. We will critically examine how these diverse archaeological resources have been investigated by different communities through time and how this has informed modern understandings of cultural, national, religious, regional and gender identities.",
       []
     ],
+    "ANTH 222": [
+      "Introduction to Modern Africa",
+      {
+        "A": [
+          "56394",
+          [
+            [
+              7,
+              "F",
+              "307 Gregory Hall",
+              4,
+              [
+                "Toure, V"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              7,
+              "MW",
+              "307 Gregory Hall",
+              4,
+              [
+                "Toure, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as AFST 222, PS 242, and SOC 222. See AFST 222.",
+      []
+    ],
     "ANTH 230": [
       "Sociocultural Anthropology",
       {
@@ -362,7 +436,7 @@
           "30045",
           [
             [
-              2,
+              4,
               "F",
               "209A Davenport Hall",
               5,
@@ -385,7 +459,7 @@
           "30047",
           [
             [
-              4,
+              5,
               "F",
               "209A Davenport Hall",
               5,
@@ -408,10 +482,10 @@
           "30048",
           [
             [
-              4,
+              5,
               "TR",
               "162 Education Building",
-              8,
+              6,
               [
                 "Dominguez, V"
               ],
@@ -431,93 +505,73 @@
       "Introduction to the anthropological study of contemporary human societies; emphasis on the comparative study of social organization, interpersonal relations, cultural ecology, and processes of sociocultural change, but also includes some consideration of the method and theory of ethnographic field research.",
       []
     ],
-    "ANTH 210": [
-      "Families in Global Perspective",
+    "ANTH 246": [
+      "Forensic Science",
       {
-        "AL1": [
-          "33812",
+        "OL2": [
+          "70382",
           [
             [
-              1,
-              "TR",
+              9,
+              "",
               "ONLINE",
               1,
               [
-                "Kramer, K",
-                "Wang, I",
-                "Zhang, F"
+                "Houkes, A"
               ],
               -1,
               -1,
               -1
             ]
           ],
+          4,
           3,
-          7,
           0,
           [],
           -1
-        ]
-      },
-      [],
-      "Same as HDFS 220. See HDFS 220.",
-      []
-    ],
-    "ANTH 250": [
-      "The World Through Museums",
-      {
-        "1": [
-          "57616",
+        ],
+        "ONL": [
+          "63359",
           [
             [
-              2,
-              "MWF",
-              "1010 Wymer Hall",
+              9,
+              "",
+              "ONLINE",
               1,
               [
-                "Frankenberg, S"
+                "Reich, A"
               ],
               -1,
               -1,
               -1
             ]
           ],
+          4,
           3,
-          0,
           0,
           [],
           -1
         ]
       },
       [],
-      "Same as MUSE 250. See MUSE 250.",
+      "History and theory underlying methods used in forensic science. Topics include the courtroom, the units of a crime laboratory, methods of securing and investigating a crime scene, and the analysis of evidence collected from a crime scene such as blood, fibers, hair, DNA, and fingerprints.",
       []
     ],
-    "ANTH 222": [
-      "Introduction to Modern Africa",
+    "ANTH 247": [
+      "Forensic Science DNA Lab",
       {
-        "A": [
-          "56394",
+        "1": [
+          "65164",
           [
             [
-              6,
-              "F",
-              "307 Gregory Hall",
-              4,
+              71,
+              "W",
+              "ARR Institute for Genomic Biology",
+              1,
               [
-                "Toure, V"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              6,
-              "MW",
-              "307 Gregory Hall",
-              4,
-              [
-                "Toure, V"
+                "Cheng, V",
+                "Hughes, C",
+                "Malhi, R"
               ],
               -1,
               -1,
@@ -525,14 +579,44 @@
             ]
           ],
           3,
-          1,
+          5,
           0,
           [],
           -1
         ]
       },
       [],
-      "Same as AFST 222, PS 242, and SOC 222. See AFST 222.",
+      "Forensic science is the application of science to the law and encompasses a wide variety of scientific disciplines. This course introduces students to general laboratory practice, molecular biology and DNA analysis skill that are commonly used by forensic DNA scientists. Students will learn using a “hands-on” and interactive approach with many of the same tools used by professional forensic DNA scientists.",
+      []
+    ],
+    "ANTH 261": [
+      "Intro to the African Diaspora",
+      {
+        "A": [
+          "69411",
+          [
+            [
+              12,
+              "MW",
+              "1064 Lincoln Hall",
+              3,
+              [
+                "Smalls, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as AFRO 261. See AFRO 261.",
       []
     ],
     "ANTH 240": [
@@ -566,7 +650,7 @@
           "30051",
           [
             [
-              2,
+              4,
               "F",
               "116 Davenport Hall",
               5,
@@ -590,7 +674,7 @@
           "30054",
           [
             [
-              2,
+              4,
               "MW",
               "307 Gregory Hall",
               4,
@@ -656,255 +740,19 @@
       "Examines the social organization, mating patterns, and group structure of free-ranging chimpanzees, gorillas, and orangutans. Presents historical perspective focusing on misconceptions that have colored our understanding of ape social behavior; addresses questions concerned with learning potential, food sharing, social cooperation, aggressive behavior, self-awareness, and the appropriateness of the apes as models for understanding human behavior.",
       []
     ],
-    "ANTH 247": [
-      "Forensic Science DNA Lab",
+    "ANTH 250": [
+      "The World Through Museums",
       {
         "1": [
-          "65164",
-          [
-            [
-              71,
-              "W",
-              "ARR Institute for Genomic Biology",
-              1,
-              [
-                "Cheng, V",
-                "Hughes, C",
-                "Malhi, R"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          6,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Forensic science is the application of science to the law and encompasses a wide variety of scientific disciplines. This course introduces students to general laboratory practice, molecular biology and DNA analysis skill that are commonly used by forensic DNA scientists. Students will learn using a “hands-on” and interactive approach with many of the same tools used by professional forensic DNA scientists.",
-      []
-    ],
-    "ANTH 246": [
-      "Forensic Science",
-      {
-        "OL2": [
-          "70382",
-          [
-            [
-              9,
-              "",
-              "ONLINE",
-              1,
-              [
-                "Houkes, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          3,
-          0,
-          [],
-          -1
-        ],
-        "ONL": [
-          "63359",
-          [
-            [
-              9,
-              "",
-              "ONLINE",
-              1,
-              [
-                "Reich, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          3,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "History and theory underlying methods used in forensic science. Topics include the courtroom, the units of a crime laboratory, methods of securing and investigating a crime scene, and the analysis of evidence collected from a crime scene such as blood, fibers, hair, DNA, and fingerprints.",
-      []
-    ],
-    "ANTH 261": [
-      "Intro to the African Diaspora",
-      {
-        "A": [
-          "69411",
-          [
-            [
-              1,
-              "MW",
-              "1064 Lincoln Hall",
-              2,
-              [
-                "Smalls, K"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as AFRO 261. See AFRO 261.",
-      []
-    ],
-    "ANTH 270": [
-      "Language in Culture",
-      {
-        "AD1": [
-          "30078",
-          [
-            [
-              2,
-              "F",
-              "326 David Kinley Hall",
-              6,
-              [
-                "Calhoun, K",
-                "Hernandez, O"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AD2": [
-          "30080",
+          "57616",
           [
             [
               4,
-              "F",
-              "326 David Kinley Hall",
-              6,
-              [
-                "Calhoun, K",
-                "Hernandez, O"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AD3": [
-          "43580",
-          [
-            [
-              2,
-              "F",
-              "322 David Kinley Hall",
-              6,
-              [
-                "Calhoun, K",
-                "Pilibbossian, H"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AD4": [
-          "58654",
-          [
-            [
-              4,
-              "F",
-              "322 David Kinley Hall",
-              6,
-              [
-                "Calhoun, K",
-                "Pilibbossian, H"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AL1": [
-          "30081",
-          [
-            [
-              7,
-              "MW",
-              "132 Bevier Hall",
-              13,
-              [
-                "Calhoun, K"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          2,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Examines the intersections of culture and language. Topics include the definition of language; the cultural shaping of discourse and narrative; how different linguistic systems guide speakers to think differently about the world; and how ideologies about language relate to beliefs about the nation, modernity, race, and gender.",
-      []
-    ],
-    "ANTH 288": [
-      "American Indians of Illinois",
-      {
-        "AL1": [
-          "30092",
-          [
-            [
+              "MWF",
+              "1010 Wymer Hall",
               1,
-              "TR",
-              "108 English Building",
-              3,
               [
-                "Rand, J"
+                "Frankenberg, S"
               ],
               -1,
               -1,
@@ -919,37 +767,7 @@
         ]
       },
       [],
-      "An interdisciplinary survey of the Native American experience in the Illinois region from pre-Columbian times to the present. Introduces theories, concepts and methods in archaeology, history, and sociocultural anthropology. Includes archaeological field site and museum visits, plus guest lectures by American Indian scholars and community members.",
-      []
-    ],
-    "ANTH 287": [
-      "Contemporary East Asia",
-      {
-        "A": [
-          "62021",
-          [
-            [
-              13,
-              "TR",
-              "140 Burrill Hall",
-              14,
-              [
-                "Pu, Y"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as EALC 288. See EALC 288.",
+      "Same as MUSE 250. See MUSE 250.",
       []
     ],
     "ANTH 272": [
@@ -959,7 +777,7 @@
           "70895",
           [
             [
-              1,
+              12,
               "T",
               "Location Pending",
               1,
@@ -972,7 +790,7 @@
               -1
             ],
             [
-              1,
+              12,
               "R",
               "ONLINE",
               1,
@@ -996,6 +814,128 @@
       "Same as GLBL 272, SAME 272, and TURK 270. See TURK 270.",
       []
     ],
+    "ANTH 270": [
+      "Language in Culture",
+      {
+        "AD1": [
+          "30078",
+          [
+            [
+              4,
+              "F",
+              "326 David Kinley Hall",
+              7,
+              [
+                "Calhoun, K",
+                "Hernandez, O"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AD2": [
+          "30080",
+          [
+            [
+              5,
+              "F",
+              "326 David Kinley Hall",
+              7,
+              [
+                "Calhoun, K",
+                "Hernandez, O"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AD3": [
+          "43580",
+          [
+            [
+              4,
+              "F",
+              "322 David Kinley Hall",
+              7,
+              [
+                "Calhoun, K",
+                "Pilibbossian, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AD4": [
+          "58654",
+          [
+            [
+              5,
+              "F",
+              "322 David Kinley Hall",
+              7,
+              [
+                "Calhoun, K",
+                "Pilibbossian, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "30081",
+          [
+            [
+              8,
+              "MW",
+              "132 Bevier Hall",
+              13,
+              [
+                "Calhoun, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Examines the intersections of culture and language. Topics include the definition of language; the cultural shaping of discourse and narrative; how different linguistic systems guide speakers to think differently about the world; and how ideologies about language relate to beliefs about the nation, modernity, race, and gender.",
+      []
+    ],
     "ANTH 278": [
       "Climate Change & Civilization",
       {
@@ -1003,7 +943,7 @@
           "56878",
           [
             [
-              1,
+              12,
               "TR",
               "157 Noyes Laboratory",
               1,
@@ -1026,37 +966,6 @@
       "Examination of how climate change impacts society. With the increasing need to understand how climate changes and society intersect at present, it is becoming important that we address critical questions about how lessons from the past inform present needs. Case studies from around the world are discussed.",
       []
     ],
-    "ANTH 361": [
-      "Ecology and Human Health",
-      {
-        "A": [
-          "56918",
-          [
-            [
-              12,
-              "TR",
-              "213 Gregory Hall",
-              4,
-              [
-                "Allan, B",
-                "McFarland, D"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          2,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      null,
-      []
-    ],
     "ANTH 347": [
       "Human Osteology",
       {
@@ -1064,7 +973,7 @@
           "74334",
           [
             [
-              4,
+              5,
               "MW",
               "116 Davenport Hall",
               5,
@@ -1086,7 +995,7 @@
           "74335",
           [
             [
-              4,
+              5,
               "F",
               "116 Davenport Hall",
               5,
@@ -1100,7 +1009,7 @@
             ]
           ],
           3,
-          5,
+          7,
           0,
           [],
           -1
@@ -1109,7 +1018,7 @@
           "74336",
           [
             [
-              5,
+              6,
               "F",
               "116 Davenport Hall",
               5,
@@ -1123,7 +1032,7 @@
             ]
           ],
           3,
-          5,
+          7,
           0,
           [],
           -1
@@ -1164,6 +1073,97 @@
       "Same as ANSC 366, IB 329, and PSYC 329. See IB 329.",
       []
     ],
+    "ANTH 287": [
+      "Contemporary East Asia",
+      {
+        "A": [
+          "62021",
+          [
+            [
+              13,
+              "TR",
+              "140 Burrill Hall",
+              14,
+              [
+                "Pu, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as EALC 288. See EALC 288.",
+      []
+    ],
+    "ANTH 288": [
+      "American Indians of Illinois",
+      {
+        "AL1": [
+          "30092",
+          [
+            [
+              12,
+              "TR",
+              "108 English Building",
+              0,
+              [
+                "Rand, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "An interdisciplinary survey of the Native American experience in the Illinois region from pre-Columbian times to the present. Introduces theories, concepts and methods in archaeology, history, and sociocultural anthropology. Includes archaeological field site and museum visits, plus guest lectures by American Indian scholars and community members.",
+      []
+    ],
+    "ANTH 361": [
+      "Ecology and Human Health",
+      {
+        "A": [
+          "56918",
+          [
+            [
+              11,
+              "TR",
+              "213 Gregory Hall",
+              4,
+              [
+                "Allan, B",
+                "McFarland, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      null,
+      []
+    ],
     "ANTH 352": [
       "Language and Gender",
       {
@@ -1201,10 +1201,10 @@
           "70378",
           [
             [
-              12,
+              11,
               "TR",
               "389 Education Building",
-              8,
+              6,
               [
                 "Dominguez, V"
               ],
@@ -1234,7 +1234,7 @@
               0,
               "TR",
               "326 David Kinley Hall",
-              6,
+              7,
               [
                 "Calhoun, K"
               ],
@@ -1284,6 +1284,88 @@
       "Supervised reading and research on anthropological topics chosen by the student with staff approval. Especially (but not exclusively) for students who are preparing for a summer field-work project, or who have some justifiable reason for doing independent study, but who do not qualify for the honors (departmental distinction) courses.",
       []
     ],
+    "ANTH 411": [
+      "Research Methods in Socio-Cultural Anthropology",
+      {
+        "1G": [
+          "30142",
+          [
+            [
+              11,
+              "TR",
+              "230 Davenport Hall",
+              5,
+              [
+                "Orta, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "1U": [
+          "77896",
+          [
+            [
+              11,
+              "TR",
+              "230 Davenport Hall",
+              5,
+              [
+                "Delfino, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Exploration of qualitative forms of research used by sociocultural anthropologists when conducting field research. Emphasis is on formulating research questions, research design, and application of these ethnographic methods to a substantial research project.",
+      []
+    ],
+    "ANTH 379": [
+      "Medical Anthropology",
+      {
+        "1": [
+          "69108",
+          [
+            [
+              41,
+              "MW",
+              "326 David Kinley Hall",
+              7,
+              [
+                "Rabanes, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "An anthropological approach is used to explore human health by integrating perspectives from biological and medical anthropology, as well as human biology. By the end of the course, students will be able to conceptualize health holistically, encompassing wellness and well-being. They will learn how to define, measure, and incorporate embodiment theory using genetic, epigenetic, and human biological methods. Students will also gain a strong understanding of the biological mechanisms through which environmental factors influence health outcomes and contribute to health disparities.",
+      []
+    ],
     "ANTH 387": [
       "Anthropology of Crime",
       {
@@ -1294,7 +1376,7 @@
               13,
               "TR",
               "219 David Kinley Hall",
-              6,
+              7,
               [
                 "Moodie, E"
               ],
@@ -1312,6 +1394,154 @@
       },
       [],
       "This course takes an anthropological perspective to challenge \"common-sense\" notions about crime. We will compare ideas about and representations of lawbreaking, criminality, danger, policing, and violence in different parts of the world, considering how they diverge from, and yet also overlap with, each other. Our goal is to find new ways to understand both how something becomes \"crime\" and also how it then quickly becomes sensationalized, stereotyped and simplified as it enters public debate.",
+      []
+    ],
+    "ANTH 399": [
+      "Special Topics",
+      {
+        "AD1": [
+          "68903",
+          [
+            [
+              8,
+              "W",
+              "329 Armory",
+              2,
+              [
+                "Vaez Afshar, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AD2": [
+          "68904",
+          [
+            [
+              23,
+              "W",
+              "329 Armory",
+              2,
+              [
+                "Vaez Afshar, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AD3": [
+          "68905",
+          [
+            [
+              43,
+              "W",
+              "329 Armory",
+              2,
+              [
+                "Vaez Afshar, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "68881",
+          [
+            [
+              27,
+              "TR",
+              "1302 Everitt Laboratory",
+              18,
+              [
+                "Shackelford, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Topics are given on a one-time only, experimental basis. Faculty offer special topics in their areas of expertise that provide an opportunity for undergraduates to be exposed to some of the most current developments in faculty research.",
+      []
+    ],
+    "ANTH 426": [
+      "Narrative",
+      {
+        "1G": [
+          "78171",
+          [
+            [
+              12,
+              "TR",
+              "1062 Lincoln Hall",
+              3,
+              [
+                "Kramer, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "1U": [
+          "78172",
+          [
+            [
+              12,
+              "TR",
+              "1062 Lincoln Hall",
+              3,
+              [
+                "Kramer, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Narratives serve a central function in human life: at the most fundamental level, they enable us to make sense of a complex and chaotic world, but we also use narratives strategically to persuade, manipulate, create social bonds and social divisions, establish authority and deny responsibility. Narratives may be a human universal, but the rules of narrativity are intensely culturally specific. This course explores what narratives are and how they work, and considers a range of analytical techniques for studying them.",
       []
     ],
     "ANTH 420": [
@@ -1366,268 +1596,6 @@
       "Cultural heritage encompasses major domains of social, economic, political, religious and environmental practice and policy-making under today's conditions of globalization. Students will critically examine cultural heritage case studies from around the world.",
       []
     ],
-    "ANTH 432": [
-      "Genes and Behavior",
-      {
-        "AL1": [
-          "48569",
-          [
-            [
-              28,
-              "TR",
-              "2020 Natural History Building",
-              1,
-              [
-                "Barley, T",
-                "Dolezal, A",
-                "Prayugo, V"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          2,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as IB 432, NEUR 432, and PSYC 432. See IB 432.",
-      []
-    ],
-    "ANTH 411": [
-      "Research Methods in Socio-Cultural Anthropology",
-      {
-        "1G": [
-          "30142",
-          [
-            [
-              12,
-              "TR",
-              "230 Davenport Hall",
-              5,
-              [
-                "Orta, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "1U": [
-          "77896",
-          [
-            [
-              12,
-              "TR",
-              "230 Davenport Hall",
-              5,
-              [
-                "Delfino, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Exploration of qualitative forms of research used by sociocultural anthropologists when conducting field research. Emphasis is on formulating research questions, research design, and application of these ethnographic methods to a substantial research project.",
-      []
-    ],
-    "ANTH 379": [
-      "Medical Anthropology",
-      {
-        "1": [
-          "69108",
-          [
-            [
-              43,
-              "MW",
-              "326 David Kinley Hall",
-              6,
-              [
-                "Rabanes, R"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "An anthropological approach is used to explore human health by integrating perspectives from biological and medical anthropology, as well as human biology. By the end of the course, students will be able to conceptualize health holistically, encompassing wellness and well-being. They will learn how to define, measure, and incorporate embodiment theory using genetic, epigenetic, and human biological methods. Students will also gain a strong understanding of the biological mechanisms through which environmental factors influence health outcomes and contribute to health disparities.",
-      []
-    ],
-    "ANTH 426": [
-      "Narrative",
-      {
-        "1G": [
-          "78171",
-          [
-            [
-              1,
-              "TR",
-              "1062 Lincoln Hall",
-              2,
-              [
-                "Kramer, E"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "1U": [
-          "78172",
-          [
-            [
-              1,
-              "TR",
-              "1062 Lincoln Hall",
-              2,
-              [
-                "Kramer, E"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Narratives serve a central function in human life: at the most fundamental level, they enable us to make sense of a complex and chaotic world, but we also use narratives strategically to persuade, manipulate, create social bonds and social divisions, establish authority and deny responsibility. Narratives may be a human universal, but the rules of narrativity are intensely culturally specific. This course explores what narratives are and how they work, and considers a range of analytical techniques for studying them.",
-      []
-    ],
-    "ANTH 399": [
-      "Special Topics",
-      {
-        "AD1": [
-          "68903",
-          [
-            [
-              7,
-              "W",
-              "329 Armory",
-              0,
-              [
-                "Vaez Afshar, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          6,
-          0,
-          [],
-          -1
-        ],
-        "AD2": [
-          "68904",
-          [
-            [
-              23,
-              "W",
-              "329 Armory",
-              0,
-              [
-                "Vaez Afshar, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          6,
-          0,
-          [],
-          -1
-        ],
-        "AD3": [
-          "68905",
-          [
-            [
-              42,
-              "W",
-              "329 Armory",
-              0,
-              [
-                "Vaez Afshar, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          6,
-          0,
-          [],
-          -1
-        ],
-        "AL1": [
-          "68881",
-          [
-            [
-              27,
-              "TR",
-              "1302 Everitt Laboratory",
-              18,
-              [
-                "Shackelford, L"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          2,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Topics are given on a one-time only, experimental basis. Faculty offer special topics in their areas of expertise that provide an opportunity for undergraduates to be exposed to some of the most current developments in faculty research.",
-      []
-    ],
     "ANTH 436": [
       "Biogeography",
       {
@@ -1656,6 +1624,38 @@
       },
       [],
       "Same as ESE 439, GGIS 436, IB 439 and NRES 441. See IB 439.",
+      []
+    ],
+    "ANTH 432": [
+      "Genes and Behavior",
+      {
+        "AL1": [
+          "48569",
+          [
+            [
+              26,
+              "TR",
+              "2020 Natural History Building",
+              1,
+              [
+                "Barley, T",
+                "Dolezal, A",
+                "Prayugo, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as IB 432, NEUR 432, and PSYC 432. See IB 432.",
       []
     ],
     "ANTH 444": [
@@ -1718,56 +1718,88 @@
       "Analysis, interpretation, evaluation, and organization of field and laboratory data in biological anthropology; preparation of written reports on research. May be taken concurrently with ANTH 444 or subsequently.",
       []
     ],
-    "ANTH 451": [
-      "Archaeological Surveying",
+    "ANTH 447": [
+      "Advanced Skeletal Biology",
       {
-        "1G": [
-          "39023",
+        "1": [
+          "67040",
           [
             [
-              13,
-              "TR",
-              "209A Davenport Hall",
+              4,
+              "MWF",
+              "113 Davenport Hall",
               5,
               [
-                "Ritchison, B"
+                "Konigsberg, L"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          4,
-          5,
+          3,
           0,
-          [],
-          -1
-        ],
-        "1U": [
-          "50155",
-          [
-            [
-              13,
-              "TR",
-              "209A Davenport Hall",
-              5,
-              [
-                "Ritchison, B"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
           0,
           [],
           -1
         ]
       },
       [],
-      "Familiarization with methods used in the location and recording of archaeological sites, including techniques of mapping especially adapted to the needs of archaeology; attention given to means of presenting results and interpreting data derived from this work; and work both in the field and in the laboratory.",
+      "Human skeletal and dental remains form the basis for research in both bioarchaeology and forensic anthropology. We will examine the bases for making inferences about individual skeletons and past populations, with particular emphasis placed on paleodemography, reconstruction of diet, paleopathology, and biological distance analysis.",
+      []
+    ],
+    "ANTH 450": [
+      "Zooarchaeology",
+      {
+        "1G": [
+          "72329",
+          [
+            [
+              71,
+              "M",
+              "116 Davenport Hall",
+              5,
+              [
+                "Bishop, K",
+                "Evans, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "1U": [
+          "72330",
+          [
+            [
+              71,
+              "M",
+              "116 Davenport Hall",
+              5,
+              [
+                "Bishop, K",
+                "Evans, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Zooarchaeology is the study of the many ways that animals fit into past human societies—including diet, economy, and ideology—through the analysis of animal remains (bones, teeth, and shell) recovered from archaeological sites. Given the broad range of ways that animals were involved in past human life, and the ubiquity of faunal remains in the archaeological record, faunal analysis is a method suitable for addressing many kinds of archaeological and anthropological research questions. This course will provide students with a practical working knowledge of basic laboratory identification and quantification techniques, and provide a framework for the interpretation of archaeological faunal assemblages.",
       []
     ],
     "ANTH 454": [
@@ -1800,36 +1832,6 @@
       "Participation in archaeological excavations; techniques, methods, and procedures discussed and practiced under actual working conditions. Normally taken concurrently with ANTH 455.",
       []
     ],
-    "ANTH 447": [
-      "Advanced Skeletal Biology",
-      {
-        "1": [
-          "67040",
-          [
-            [
-              2,
-              "MWF",
-              "113 Davenport Hall",
-              5,
-              [
-                "Konigsberg, L"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Human skeletal and dental remains form the basis for research in both bioarchaeology and forensic anthropology. We will examine the bases for making inferences about individual skeletons and past populations, with particular emphasis placed on paleodemography, reconstruction of diet, paleopathology, and biological distance analysis.",
-      []
-    ],
     "ANTH 455": [
       "Lab Analysis in Archaeology",
       {
@@ -1860,20 +1862,19 @@
       "Laboratory work including processing, classifying, dating, interpretation, evaluation, and preparation of written reports of archaeological research. May be taken concurrently with ANTH 454 or subsequently.",
       []
     ],
-    "ANTH 450": [
-      "Zooarchaeology",
+    "ANTH 451": [
+      "Archaeological Surveying",
       {
         "1G": [
-          "72329",
+          "39023",
           [
             [
-              71,
-              "M",
-              "116 Davenport Hall",
+              13,
+              "TR",
+              "209A Davenport Hall",
               5,
               [
-                "Bishop, K",
-                "Evans, L"
+                "Ritchison, B"
               ],
               -1,
               -1,
@@ -1881,22 +1882,21 @@
             ]
           ],
           4,
-          5,
+          7,
           0,
           [],
           -1
         ],
         "1U": [
-          "72330",
+          "50155",
           [
             [
-              71,
-              "M",
-              "116 Davenport Hall",
+              13,
+              "TR",
+              "209A Davenport Hall",
               5,
               [
-                "Bishop, K",
-                "Evans, L"
+                "Ritchison, B"
               ],
               -1,
               -1,
@@ -1904,66 +1904,14 @@
             ]
           ],
           4,
-          5,
+          7,
           0,
           [],
           -1
         ]
       },
       [],
-      "Zooarchaeology is the study of the many ways that animals fit into past human societies—including diet, economy, and ideology—through the analysis of animal remains (bones, teeth, and shell) recovered from archaeological sites. Given the broad range of ways that animals were involved in past human life, and the ubiquity of faunal remains in the archaeological record, faunal analysis is a method suitable for addressing many kinds of archaeological and anthropological research questions. This course will provide students with a practical working knowledge of basic laboratory identification and quantification techniques, and provide a framework for the interpretation of archaeological faunal assemblages.",
-      []
-    ],
-    "ANTH 462": [
-      "Museum Theory and Practice",
-      {
-        "1G": [
-          "46499",
-          [
-            [
-              4,
-              "MWF",
-              "1010 Wymer Hall",
-              1,
-              [
-                "Frankenberg, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "1U": [
-          "46498",
-          [
-            [
-              4,
-              "MWF",
-              "1010 Wymer Hall",
-              1,
-              [
-                "Frankenberg, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "A foundational introduction to museology consisting of a critical examination of the history and social life of museums and how museums have been studied by scholars in a range of academic disciplines. Includes visits to campus and local museums.",
+      "Familiarization with methods used in the location and recording of archaeological sites, including techniques of mapping especially adapted to the needs of archaeology; attention given to means of presenting results and interpreting data derived from this work; and work both in the field and in the laboratory.",
       []
     ],
     "ANTH 461": [
@@ -1973,7 +1921,7 @@
           "46176",
           [
             [
-              35,
+              32,
               "W",
               "109A Davenport Hall",
               5,
@@ -1995,7 +1943,7 @@
           "46175",
           [
             [
-              35,
+              32,
               "W",
               "109A Davenport Hall",
               5,
@@ -2025,7 +1973,7 @@
           "50157",
           [
             [
-              8,
+              10,
               "M",
               "209A Davenport Hall",
               5,
@@ -2048,7 +1996,7 @@
           "50156",
           [
             [
-              8,
+              10,
               "M",
               "209A Davenport Hall",
               5,
@@ -2070,6 +2018,110 @@
       },
       [],
       "Culture and social organization in traditional African societies with emphasis on the politics, kinship, and religion of a small sample of societies illustrating the main cultural variations found in sub-Saharan Africa; some discussion of ecological factors and ethnic group relations in precolonial times.",
+      []
+    ],
+    "ANTH 468": [
+      "Primate Microbial Seminar",
+      {
+        "1G": [
+          "75704",
+          [
+            [
+              18,
+              "R",
+              "109A Davenport Hall",
+              5,
+              [
+                "Stumpf, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "1U": [
+          "75705",
+          [
+            [
+              18,
+              "R",
+              "109A Davenport Hall",
+              5,
+              [
+                "Stumpf, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "This bioanthropology research seminar is focused on interdisciplinary projects for undergraduate and graduate students. Students will create individualized projects related to biological anthropology, primatology, ecology, microbe-host interactions, evolution, endocrinology, ontogeny or closely-related areas. Additional emphasis will be placed on developing presentation skills and scientific paper writing.",
+      []
+    ],
+    "ANTH 462": [
+      "Museum Theory and Practice",
+      {
+        "1G": [
+          "46499",
+          [
+            [
+              5,
+              "MWF",
+              "1010 Wymer Hall",
+              1,
+              [
+                "Frankenberg, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "1U": [
+          "46498",
+          [
+            [
+              5,
+              "MWF",
+              "1010 Wymer Hall",
+              1,
+              [
+                "Frankenberg, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "A foundational introduction to museology consisting of a critical examination of the history and social life of museums and how museums have been studied by scholars in a range of academic disciplines. Includes visits to campus and local museums.",
       []
     ],
     "ANTH 495": [
@@ -2100,118 +2152,6 @@
       },
       [],
       "The second of a two-term individual study and research project for those students who are candidates for departmental distinction in anthropology.",
-      []
-    ],
-    "ANTH 499": [
-      "Topics in Anthropology",
-      {
-        "AO": [
-          "30170",
-          [
-            [
-              8,
-              "W",
-              "209A Davenport Hall",
-              5,
-              [
-                "Orta, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Research seminar on specialized topics in anthropology.",
-      []
-    ],
-    "ANTH 504": [
-      "Colonialism & Postcolonialism",
-      {
-        "1": [
-          "56944",
-          [
-            [
-              18,
-              "R",
-              "1126 Literatures, Cultures, & Ling",
-              1,
-              [
-                "Baul, D"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          9,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Course examines the history of colonialism and post-colonialism in anthropological perspective. The relations of history and anthropology are explored through ethnographic studies that problematize historical memory. Theoretical works about colonized people will be debated and discussed.",
-      []
-    ],
-    "ANTH 468": [
-      "Primate Microbial Seminar",
-      {
-        "1G": [
-          "75704",
-          [
-            [
-              21,
-              "R",
-              "109A Davenport Hall",
-              5,
-              [
-                "Stumpf, R"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "1U": [
-          "75705",
-          [
-            [
-              21,
-              "R",
-              "109A Davenport Hall",
-              5,
-              [
-                "Stumpf, R"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "This bioanthropology research seminar is focused on interdisciplinary projects for undergraduate and graduate students. Students will create individualized projects related to biological anthropology, primatology, ecology, microbe-host interactions, evolution, endocrinology, ontogeny or closely-related areas. Additional emphasis will be placed on developing presentation skills and scientific paper writing.",
       []
     ],
     "ANTH 496": [
@@ -2274,19 +2214,19 @@
       "Analysis, interpretation, evaluation, and organization of field data in cultural anthropology; preparation of written reports on research in ethnography, ethnology, linguistics, or social anthropology. May be taken concurrently with ANTH 496 or subsequently.",
       []
     ],
-    "ANTH 511": [
-      "Research Proposal Seminar",
+    "ANTH 499": [
+      "Topics in Anthropology",
       {
-        "1": [
-          "43615",
+        "AO": [
+          "30170",
           [
             [
-              74,
-              "M",
-              "109A Davenport Hall",
+              10,
+              "W",
+              "209A Davenport Hall",
               5,
               [
-                "Lucero, L"
+                "Orta, A"
               ],
               -1,
               -1,
@@ -2301,22 +2241,22 @@
         ]
       },
       [],
-      "This seminar guides graduate students in designing a doctoral research project and writing a grant proposal. Focus is on developing a cogent theoretical framework, articulating significance of the project, identifying appropriate research methods, and considering ethical issues. Seminar format allows regular feedback from peers to clarify and hone ideas. Prerequisite: Graduate standing in anthropology or consent of instructor.",
+      "Research seminar on specialized topics in anthropology.",
       []
     ],
-    "ANTH 565": [
-      "Race and Cultural Critique",
+    "ANTH 504": [
+      "Colonialism & Postcolonialism",
       {
-        "A": [
-          "52841",
+        "1": [
+          "56944",
           [
             [
-              17,
-              "T",
-              "ARR 1208 W Nevada",
+              19,
+              "R",
+              "1126 Literatures, Cultures, & Ling",
               1,
               [
-                "Rana, J"
+                "Baul, D"
               ],
               -1,
               -1,
@@ -2324,14 +2264,14 @@
             ]
           ],
           4,
-          0,
+          9,
           0,
           [],
           -1
         ]
       },
       [],
-      "Same as AAS 561, AFRO 531, GWS 561, and LLS 561. See AAS 561.",
+      "Course examines the history of colonialism and post-colonialism in anthropological perspective. The relations of history and anthropology are explored through ethnographic studies that problematize historical memory. Theoretical works about colonized people will be debated and discussed.",
       []
     ],
     "ANTH 589": [
@@ -2364,6 +2304,66 @@
       "Individual guidance in intensive readings in the literature of one or more subdivisions of the field of anthropology, selected in consultation with the adviser in accordance with the needs and interest of the student.",
       []
     ],
+    "ANTH 565": [
+      "Race and Cultural Critique",
+      {
+        "A": [
+          "52841",
+          [
+            [
+              17,
+              "T",
+              "ARR 1208 W Nevada",
+              1,
+              [
+                "Rana, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as AAS 561, AFRO 531, GWS 561, and LLS 561. See AAS 561.",
+      []
+    ],
+    "ANTH 511": [
+      "Research Proposal Seminar",
+      {
+        "1": [
+          "43615",
+          [
+            [
+              74,
+              "M",
+              "109A Davenport Hall",
+              5,
+              [
+                "Lucero, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "This seminar guides graduate students in designing a doctoral research project and writing a grant proposal. Focus is on developing a cogent theoretical framework, articulating significance of the project, identifying appropriate research methods, and considering ethical issues. Seminar format allows regular feedback from peers to clarify and hone ideas. Prerequisite: Graduate standing in anthropology or consent of instructor.",
+      []
+    ],
     "ANTH 515": [
       "Seminar in Anthropology",
       {
@@ -2393,7 +2393,7 @@
           "65206",
           [
             [
-              8,
+              10,
               "T",
               "ONLINE",
               1,
@@ -2406,7 +2406,7 @@
             ]
           ],
           4,
-          7,
+          6,
           0,
           [],
           -1
@@ -2437,7 +2437,7 @@
           "51080",
           [
             [
-              12,
+              11,
               "TR",
               "ONLINE",
               1,
@@ -2481,7 +2481,7 @@
           "30178",
           [
             [
-              8,
+              10,
               "T",
               "109A Davenport Hall",
               5,
@@ -2541,7 +2541,7 @@
           "50110",
           [
             [
-              8,
+              10,
               "T",
               "325 Temple Hoyne Buell Hall",
               1,
@@ -2568,63 +2568,63 @@
   "caches": {
     "periods": [
       "0930 - 1050",
-      "1100 - 1220",
-      "1000 - 1050",
+      "1600 - 1715",
+      "0930 - 1045",
       "0900 - 0950",
+      "1000 - 1050",
       "1100 - 1150",
       "1200 - 1250",
       "1300 - 1350",
       "1400 - 1450",
-      "1400 - 1650",
       "0000 - 0000",
-      "1600 - 1715",
-      "0930 - 1045",
+      "1400 - 1650",
       "1230 - 1350",
+      "1100 - 1220",
       "1400 - 1520",
+      "1400 - 1550",
       "1600 - 1720",
       "1500 - 1720",
-      "1400 - 1550",
       "1400 - 1720",
-      "1300 - 1450",
-      "0800 - 0950",
-      "1500 - 1650",
       "0900 - 1150",
+      "1300 - 1450",
+      "1500 - 1650",
+      "0800 - 0950",
       "0900 - 1020",
       "1500 - 1550",
       "1400 - 1630",
-      "1700 - 1820",
       "0800 - 0850",
-      "1530 - 1650",
       "0800 - 0920",
+      "1530 - 1650",
+      "1700 - 1820",
       "1530 - 1620",
       "2000 - 2050",
       "0800 - 1150",
+      "1500 - 1750",
       "1200 - 1550",
       "1230 - 1620",
       "0830 - 0920",
-      "1500 - 1750",
       "1300 - 1650",
+      "1500 - 1620",
       "0900 - 1050",
       "1100 - 1250",
-      "1500 - 1620",
       "1700 - 1850",
+      "1200 - 1320",
       "1600 - 1750",
       "1600 - 1650",
-      "1200 - 1320",
       "1000 - 1120",
       "1130 - 1250",
       "1300 - 1420",
       "1600 - 1730",
       "1030 - 1150",
+      "1230 - 1320",
       "1330 - 1520",
       "1530 - 1710",
-      "1230 - 1320",
-      "1630 - 1750",
       "1430 - 1550",
+      "1630 - 1750",
       "1730 - 1850",
       "1730 - 1920",
-      "1000 - 1150",
       "1530 - 1820",
+      "1000 - 1150",
       "1700 - 1750",
       "1100 - 1215",
       "0800 - 0959",
@@ -2651,15 +2651,15 @@
       "Lecture",
       "Online",
       "Independent Study",
-      "Laboratory-Discussion",
       "Laboratory",
       "Online Lecture",
+      "Laboratory-Discussion",
       "Online Discussion",
       "Conference",
       "Online Lecture Discussion",
       "Seminar",
-      "Internship",
       "Study Abroad",
+      "Internship",
       "Research",
       "Travel"
     ],
@@ -2669,20 +2669,20 @@
     "gradeBases": [],
     "locations": [
       {
-        "lat": 40.1047599,
-        "long": -88.2319514
+        "lat": 40.107534,
+        "long": -88.2281548
       },
       {
         "lat": null,
         "long": null
       },
       {
-        "lat": 40.1065684,
-        "long": -88.2281746
+        "lat": 40.1047599,
+        "long": -88.2319514
       },
       {
-        "lat": 40.107534,
-        "long": -88.2281548
+        "lat": 40.1065684,
+        "long": -88.2281746
       },
       {
         "lat": 40.105732,
@@ -2693,16 +2693,16 @@
         "long": -88.2262016
       },
       {
+        "lat": 40.1020773,
+        "long": -88.2296394
+      },
+      {
         "lat": 40.1035833,
         "long": -88.228405
       },
       {
         "lat": 40.11246109008789,
         "long": -88.22831726074219
-      },
-      {
-        "lat": 40.1020773,
-        "long": -88.2296394
       },
       {
         "lat": 40.1035872,

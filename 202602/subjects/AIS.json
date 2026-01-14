@@ -1,8 +1,172 @@
 {
   "subject": "AIS",
-  "scrapedAt": 1768370763689,
+  "scrapedAt": 1768370929991,
   "courseCount": 12,
   "courses": {
+    "AIS 285": [
+      "Indigenous Thinkers",
+      {
+        "1": [
+          "67574",
+          [
+            [
+              41,
+              "MW",
+              "1065 Lincoln Hall",
+              3,
+              [
+                "Maldonado, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "2": [
+          "52585",
+          [
+            [
+              0,
+              "TR",
+              "143 Henry Administration Bldg",
+              17,
+              [
+                "Ryan Burchfield, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "3": [
+          "60074",
+          [
+            [
+              11,
+              "TR",
+              "1051 Lincoln Hall",
+              3,
+              [
+                "Norman, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "An introduction to the English-language traditions of indigenous intellectuals. Specific topics vary.",
+      []
+    ],
+    "AIS 265": [
+      "Intro to American Indian Lit",
+      {
+        "A": [
+          "65548",
+          [
+            [
+              0,
+              "TR",
+              "1065 Lincoln Hall",
+              3,
+              [
+                "Calcaterra, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduces students to the study of American Indian literature by focusing on texts by contemporary American Indian novelists, poets, and playwrights. Over the course of the semester, students will consider how indigenous aesthetics shape narrative in addition to examining how American Indian authors engage the legacies of colonization and the histories of their tribal communities through their stories.",
+      []
+    ],
+    "AIS 101": [
+      "Intro to American Indian Studies",
+      {
+        "A1": [
+          "48361",
+          [
+            [
+              46,
+              "MW",
+              "143 Henry Administration Bldg",
+              17,
+              [
+                "Rymhs, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Interdisciplinary introduction surveys the stories, histories, and lands of tribal peoples who became known as \"American Indians\".",
+      []
+    ],
+    "AIS 295": [
+      "US Citizenship Comparatively",
+      {
+        "A": [
+          "52319",
+          [
+            [
+              12,
+              "TR",
+              "207 Psychology Building",
+              1,
+              [
+                "Kang, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as AAS 215, AFRO 215, GWS 215, and LLS 215. See AAS 215.",
+      []
+    ],
     "AIS 491": [
       "Readings in Am Ind Studies",
       {
@@ -31,6 +195,58 @@
       },
       [],
       "Individual guidance in intensive readings in the theories and practices of the field of American Indian Studies.",
+      []
+    ],
+    "AIS 481": [
+      "History of American Indian Education",
+      {
+        "A": [
+          "76911",
+          [
+            [
+              71,
+              "T",
+              "382 Education Building",
+              6,
+              [
+                "Johnson, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "76912",
+          [
+            [
+              71,
+              "T",
+              "382 Education Building",
+              6,
+              [
+                "Johnson, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Students will study various efforts to \"civilize\" American Indians through US government initiatives and religious churches, as well as educational models developed by tribal entities following passage of the Indian Self-Determination and Education Assistance Act of 1975.",
       []
     ],
     "AIS 490": [
@@ -63,6 +279,66 @@
       "3 undergraduate hours. 4 graduate hours. May be repeated to a maximum of 6 undergraduate hours or 8 graduate hours. Prerequisite: Any course in American Indian Studies; junior standing; or consent of instructor.",
       []
     ],
+    "AIS 288": [
+      "American Indians of Illinois",
+      {
+        "AL1": [
+          "55150",
+          [
+            [
+              12,
+              "TR",
+              "108 English Building",
+              0,
+              [
+                "Rand, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as ANTH 288 and HIST 288. See ANTH 288.",
+      []
+    ],
+    "AIS 357": [
+      "Literatures of the Displaced",
+      {
+        "A": [
+          "70260",
+          [
+            [
+              12,
+              "TR",
+              "103 1207 W Oregon",
+              1,
+              [
+                "de la Garza Valenzuela, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as AAS 357, ENGL 357, GWS 357, and LLS 357. See LLS 357.",
+      []
+    ],
     "AIS 278": [
       "Native American History",
       {
@@ -70,7 +346,7 @@
           "58581",
           [
             [
-              4,
+              5,
               "F",
               "329 Gregory Hall",
               4,
@@ -93,10 +369,10 @@
           "58582",
           [
             [
-              6,
+              7,
               "W",
               "382 Education Building",
-              8,
+              6,
               [
                 "Cabrera, L",
                 "LaPier, R"
@@ -160,282 +436,6 @@
       },
       [],
       "Same as HIST 278. See HIST 278.",
-      []
-    ],
-    "AIS 101": [
-      "Intro to American Indian Studies",
-      {
-        "A1": [
-          "48361",
-          [
-            [
-              46,
-              "MW",
-              "143 Henry Administration Bldg",
-              17,
-              [
-                "Rymhs, D"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Interdisciplinary introduction surveys the stories, histories, and lands of tribal peoples who became known as \"American Indians\".",
-      []
-    ],
-    "AIS 285": [
-      "Indigenous Thinkers",
-      {
-        "1": [
-          "67574",
-          [
-            [
-              43,
-              "MW",
-              "1065 Lincoln Hall",
-              2,
-              [
-                "Maldonado, K"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "2": [
-          "52585",
-          [
-            [
-              0,
-              "TR",
-              "143 Henry Administration Bldg",
-              17,
-              [
-                "Ryan Burchfield, R"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "3": [
-          "60074",
-          [
-            [
-              12,
-              "TR",
-              "1051 Lincoln Hall",
-              2,
-              [
-                "Norman, D"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "An introduction to the English-language traditions of indigenous intellectuals. Specific topics vary.",
-      []
-    ],
-    "AIS 265": [
-      "Intro to American Indian Lit",
-      {
-        "A": [
-          "65548",
-          [
-            [
-              0,
-              "TR",
-              "1065 Lincoln Hall",
-              2,
-              [
-                "Calcaterra, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Introduces students to the study of American Indian literature by focusing on texts by contemporary American Indian novelists, poets, and playwrights. Over the course of the semester, students will consider how indigenous aesthetics shape narrative in addition to examining how American Indian authors engage the legacies of colonization and the histories of their tribal communities through their stories.",
-      []
-    ],
-    "AIS 357": [
-      "Literatures of the Displaced",
-      {
-        "A": [
-          "70260",
-          [
-            [
-              1,
-              "TR",
-              "103 1207 W Oregon",
-              1,
-              [
-                "de la Garza Valenzuela, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as AAS 357, ENGL 357, GWS 357, and LLS 357. See LLS 357.",
-      []
-    ],
-    "AIS 295": [
-      "US Citizenship Comparatively",
-      {
-        "A": [
-          "52319",
-          [
-            [
-              1,
-              "TR",
-              "207 Psychology Building",
-              1,
-              [
-                "Kang, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as AAS 215, AFRO 215, GWS 215, and LLS 215. See AAS 215.",
-      []
-    ],
-    "AIS 481": [
-      "History of American Indian Education",
-      {
-        "A": [
-          "76911",
-          [
-            [
-              71,
-              "T",
-              "382 Education Building",
-              8,
-              [
-                "Johnson, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "B": [
-          "76912",
-          [
-            [
-              71,
-              "T",
-              "382 Education Building",
-              8,
-              [
-                "Johnson, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Students will study various efforts to \"civilize\" American Indians through US government initiatives and religious churches, as well as educational models developed by tribal entities following passage of the Indian Self-Determination and Education Assistance Act of 1975.",
-      []
-    ],
-    "AIS 288": [
-      "American Indians of Illinois",
-      {
-        "AL1": [
-          "55150",
-          [
-            [
-              1,
-              "TR",
-              "108 English Building",
-              3,
-              [
-                "Rand, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as ANTH 288 and HIST 288. See ANTH 288.",
       []
     ],
     "AIS 501": [
@@ -502,63 +502,63 @@
   "caches": {
     "periods": [
       "0930 - 1050",
-      "1100 - 1220",
-      "1000 - 1050",
+      "1600 - 1715",
+      "0930 - 1045",
       "0900 - 0950",
+      "1000 - 1050",
       "1100 - 1150",
       "1200 - 1250",
       "1300 - 1350",
       "1400 - 1450",
-      "1400 - 1650",
       "0000 - 0000",
-      "1600 - 1715",
-      "0930 - 1045",
+      "1400 - 1650",
       "1230 - 1350",
+      "1100 - 1220",
       "1400 - 1520",
+      "1400 - 1550",
       "1600 - 1720",
       "1500 - 1720",
-      "1400 - 1550",
       "1400 - 1720",
-      "1300 - 1450",
-      "0800 - 0950",
-      "1500 - 1650",
       "0900 - 1150",
+      "1300 - 1450",
+      "1500 - 1650",
+      "0800 - 0950",
       "0900 - 1020",
       "1500 - 1550",
       "1400 - 1630",
-      "1700 - 1820",
       "0800 - 0850",
-      "1530 - 1650",
       "0800 - 0920",
+      "1530 - 1650",
+      "1700 - 1820",
       "1530 - 1620",
       "2000 - 2050",
       "0800 - 1150",
+      "1500 - 1750",
       "1200 - 1550",
       "1230 - 1620",
       "0830 - 0920",
-      "1500 - 1750",
       "1300 - 1650",
+      "1500 - 1620",
       "0900 - 1050",
       "1100 - 1250",
-      "1500 - 1620",
       "1700 - 1850",
+      "1200 - 1320",
       "1600 - 1750",
       "1600 - 1650",
-      "1200 - 1320",
       "1000 - 1120",
       "1130 - 1250",
       "1300 - 1420",
       "1600 - 1730",
       "1030 - 1150",
+      "1230 - 1320",
       "1330 - 1520",
       "1530 - 1710",
-      "1230 - 1320",
-      "1630 - 1750",
       "1430 - 1550",
+      "1630 - 1750",
       "1730 - 1850",
       "1730 - 1920",
-      "1000 - 1150",
       "1530 - 1820",
+      "1000 - 1150",
       "1700 - 1750",
       "1100 - 1215",
       "0800 - 0959",
@@ -581,15 +581,15 @@
       "Lecture",
       "Online",
       "Independent Study",
-      "Laboratory-Discussion",
       "Laboratory",
       "Online Lecture",
+      "Laboratory-Discussion",
       "Online Discussion",
       "Conference",
       "Online Lecture Discussion",
       "Seminar",
-      "Internship",
       "Study Abroad",
+      "Internship",
       "Research"
     ],
     "campuses": [],
@@ -598,20 +598,20 @@
     "gradeBases": [],
     "locations": [
       {
-        "lat": 40.1047599,
-        "long": -88.2319514
+        "lat": 40.107534,
+        "long": -88.2281548
       },
       {
         "lat": null,
         "long": null
       },
       {
-        "lat": 40.1065684,
-        "long": -88.2281746
+        "lat": 40.1047599,
+        "long": -88.2319514
       },
       {
-        "lat": 40.107534,
-        "long": -88.2281548
+        "lat": 40.1065684,
+        "long": -88.2281746
       },
       {
         "lat": 40.105732,
@@ -622,16 +622,16 @@
         "long": -88.2262016
       },
       {
+        "lat": 40.1020773,
+        "long": -88.2296394
+      },
+      {
         "lat": 40.1035833,
         "long": -88.228405
       },
       {
         "lat": 40.11246109008789,
         "long": -88.22831726074219
-      },
-      {
-        "lat": 40.1020773,
-        "long": -88.2296394
       },
       {
         "lat": 40.1035872,

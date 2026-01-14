@@ -1,20 +1,21 @@
 {
   "subject": "ARAB",
-  "scrapedAt": 1768370773182,
+  "scrapedAt": 1768370938997,
   "courseCount": 7,
   "courses": {
-    "ARAB 406": [
-      "Advanced Standard Arabic II",
+    "ARAB 202": [
+      "Elementary Standard Arabic II",
       {
-        "A": [
-          "30207",
+        "BE1": [
+          "30198",
           [
             [
-              2,
+              5,
               "M",
-              "G96 Literatures, Cultures, & Ling",
+              "G3 Literatures, Cultures, & Ling",
               1,
               [
+                "El Karkafi, J",
                 "Saadah, E"
               ],
               -1,
@@ -22,11 +23,12 @@
               -1
             ],
             [
-              2,
-              "WF",
-              "G96 Literatures, Cultures, & Ling",
+              5,
+              "TWRF",
+              "G3 Literatures, Cultures, & Ling",
               1,
               [
+                "El Karkafi, J",
                 "Saadah, E"
               ],
               -1,
@@ -34,15 +36,95 @@
               -1
             ]
           ],
-          3,
-          6,
+          5,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "CE1": [
+          "30202",
+          [
+            [
+              7,
+              "M",
+              "G3 Literatures, Cultures, & Ling",
+              1,
+              [
+                "El Karkafi, J",
+                "Saadah, E"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              7,
+              "TWRF",
+              "G3 Literatures, Cultures, & Ling",
+              1,
+              [
+                "El Karkafi, J",
+                "Saadah, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          5,
           0,
           [],
           -1
         ]
       },
       [],
-      "3 undergraduate hours. 3 graduate hours. Prerequisite: ARAB 405.",
+      "Participation in the language laboratory is required. Prerequisite: ARAB 201",
+      []
+    ],
+    "ARAB 408": [
+      "Topics Stand Arabic LangLit II",
+      {
+        "C1": [
+          "52012",
+          [
+            [
+              5,
+              "W",
+              "G96 Literatures, Cultures, & Ling",
+              1,
+              [
+                "Saadah, E",
+                "Saeedi, A"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              5,
+              "MF",
+              "G96 Literatures, Cultures, & Ling",
+              1,
+              [
+                "Saadah, E",
+                "Saeedi, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Continuation of ARAB 407 with increased emphasis on the reading and comprehension of literary texts exemplified in advanced level novels, plays, and poetry, as well as on advanced mastery of expository writing skills.",
       []
     ],
     "ARAB 490": [
@@ -97,6 +179,48 @@
       "Directed reading course intended to develop an advanced student's facility with the Arabic language through various readings (authors, genres, themes, or other topical studies) and is conducted entirely in the Arabic language. Topics may vary from term to term.",
       []
     ],
+    "ARAB 406": [
+      "Advanced Standard Arabic II",
+      {
+        "A": [
+          "30207",
+          [
+            [
+              4,
+              "M",
+              "G96 Literatures, Cultures, & Ling",
+              1,
+              [
+                "Saadah, E"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              4,
+              "WF",
+              "G96 Literatures, Cultures, & Ling",
+              1,
+              [
+                "Saadah, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "3 undergraduate hours. 3 graduate hours. Prerequisite: ARAB 405.",
+      []
+    ],
     "ARAB 150": [
       "Lang&Culture of Arab World",
       {
@@ -104,7 +228,7 @@
           "66045",
           [
             [
-              16,
+              14,
               "M",
               "1038 Literatures, Cultures, & Ling",
               1,
@@ -116,7 +240,7 @@
               -1
             ],
             [
-              16,
+              14,
               "W",
               "ONLINE",
               1,
@@ -137,6 +261,50 @@
       },
       [],
       "Interdisciplinary overview of the major aspects of the contemporary Arab culture. Based on scholarly research, textual resources, media, and literature from both the Arab World and elsewhere, examines the Arab people's historical background; language varieties; literary traditions; and representative social institutions.",
+      []
+    ],
+    "ARAB 404": [
+      "Intermediate Stand Arabic II",
+      {
+        "B": [
+          "38896",
+          [
+            [
+              6,
+              "W",
+              "G3 Literatures, Cultures, & Ling",
+              1,
+              [
+                "Saadah, E",
+                "Saeedi, A"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              6,
+              "MTR",
+              "G3 Literatures, Cultures, & Ling",
+              1,
+              [
+                "Saadah, E",
+                "Saeedi, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "4 undergraduate hours. 4 graduate hours. Prerequisite: ARAB 403.",
       []
     ],
     "ARAB 210": [
@@ -173,7 +341,7 @@
             ]
           ],
           4,
-          6,
+          5,
           0,
           [],
           -1
@@ -182,236 +350,68 @@
       [],
       "Development of conversational fluency in one of the major colloquial dialects; see Class Schedule for dialect to be taught each term.",
       []
-    ],
-    "ARAB 404": [
-      "Intermediate Stand Arabic II",
-      {
-        "B": [
-          "38896",
-          [
-            [
-              5,
-              "W",
-              "G3 Literatures, Cultures, & Ling",
-              1,
-              [
-                "Saadah, E",
-                "Saeedi, A"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              5,
-              "MTR",
-              "G3 Literatures, Cultures, & Ling",
-              1,
-              [
-                "Saadah, E",
-                "Saeedi, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          6,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "4 undergraduate hours. 4 graduate hours. Prerequisite: ARAB 403.",
-      []
-    ],
-    "ARAB 408": [
-      "Topics Stand Arabic LangLit II",
-      {
-        "C1": [
-          "52012",
-          [
-            [
-              4,
-              "W",
-              "G96 Literatures, Cultures, & Ling",
-              1,
-              [
-                "Saadah, E",
-                "Saeedi, A"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              4,
-              "MF",
-              "G96 Literatures, Cultures, & Ling",
-              1,
-              [
-                "Saadah, E",
-                "Saeedi, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          6,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Continuation of ARAB 407 with increased emphasis on the reading and comprehension of literary texts exemplified in advanced level novels, plays, and poetry, as well as on advanced mastery of expository writing skills.",
-      []
-    ],
-    "ARAB 202": [
-      "Elementary Standard Arabic II",
-      {
-        "BE1": [
-          "30198",
-          [
-            [
-              4,
-              "M",
-              "G3 Literatures, Cultures, & Ling",
-              1,
-              [
-                "El Karkafi, J",
-                "Saadah, E"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              4,
-              "TWRF",
-              "G3 Literatures, Cultures, & Ling",
-              1,
-              [
-                "El Karkafi, J",
-                "Saadah, E"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          6,
-          0,
-          [],
-          -1
-        ],
-        "CE1": [
-          "30202",
-          [
-            [
-              6,
-              "M",
-              "G3 Literatures, Cultures, & Ling",
-              1,
-              [
-                "El Karkafi, J",
-                "Saadah, E"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              6,
-              "TWRF",
-              "G3 Literatures, Cultures, & Ling",
-              1,
-              [
-                "El Karkafi, J",
-                "Saadah, E"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          6,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Participation in the language laboratory is required. Prerequisite: ARAB 201",
-      []
     ]
   },
   "caches": {
     "periods": [
       "0930 - 1050",
-      "1100 - 1220",
-      "1000 - 1050",
+      "1600 - 1715",
+      "0930 - 1045",
       "0900 - 0950",
+      "1000 - 1050",
       "1100 - 1150",
       "1200 - 1250",
       "1300 - 1350",
       "1400 - 1450",
-      "1400 - 1650",
       "0000 - 0000",
-      "1600 - 1715",
-      "0930 - 1045",
+      "1400 - 1650",
       "1230 - 1350",
+      "1100 - 1220",
       "1400 - 1520",
+      "1400 - 1550",
       "1600 - 1720",
       "1500 - 1720",
-      "1400 - 1550",
       "1400 - 1720",
-      "1300 - 1450",
-      "0800 - 0950",
-      "1500 - 1650",
       "0900 - 1150",
+      "1300 - 1450",
+      "1500 - 1650",
+      "0800 - 0950",
       "0900 - 1020",
       "1500 - 1550",
       "1400 - 1630",
-      "1700 - 1820",
       "0800 - 0850",
-      "1530 - 1650",
       "0800 - 0920",
+      "1530 - 1650",
+      "1700 - 1820",
       "1530 - 1620",
       "2000 - 2050",
       "0800 - 1150",
+      "1500 - 1750",
       "1200 - 1550",
       "1230 - 1620",
       "0830 - 0920",
-      "1500 - 1750",
       "1300 - 1650",
+      "1500 - 1620",
       "0900 - 1050",
       "1100 - 1250",
-      "1500 - 1620",
       "1700 - 1850",
+      "1200 - 1320",
       "1600 - 1750",
       "1600 - 1650",
-      "1200 - 1320",
       "1000 - 1120",
       "1130 - 1250",
       "1300 - 1420",
       "1600 - 1730",
       "1030 - 1150",
+      "1230 - 1320",
       "1330 - 1520",
       "1530 - 1710",
-      "1230 - 1320",
-      "1630 - 1750",
       "1430 - 1550",
+      "1630 - 1750",
       "1730 - 1850",
       "1730 - 1920",
-      "1000 - 1150",
       "1530 - 1820",
+      "1000 - 1150",
       "1700 - 1750",
       "1100 - 1215",
       "0800 - 0959",
@@ -438,15 +438,15 @@
       "Lecture",
       "Online",
       "Independent Study",
-      "Laboratory-Discussion",
       "Laboratory",
       "Online Lecture",
+      "Laboratory-Discussion",
       "Online Discussion",
       "Conference",
       "Online Lecture Discussion",
       "Seminar",
-      "Internship",
       "Study Abroad",
+      "Internship",
       "Research",
       "Travel"
     ],
@@ -456,20 +456,20 @@
     "gradeBases": [],
     "locations": [
       {
-        "lat": 40.1047599,
-        "long": -88.2319514
+        "lat": 40.107534,
+        "long": -88.2281548
       },
       {
         "lat": null,
         "long": null
       },
       {
-        "lat": 40.1065684,
-        "long": -88.2281746
+        "lat": 40.1047599,
+        "long": -88.2319514
       },
       {
-        "lat": 40.107534,
-        "long": -88.2281548
+        "lat": 40.1065684,
+        "long": -88.2281746
       },
       {
         "lat": 40.105732,
@@ -480,16 +480,16 @@
         "long": -88.2262016
       },
       {
+        "lat": 40.1020773,
+        "long": -88.2296394
+      },
+      {
         "lat": 40.1035833,
         "long": -88.228405
       },
       {
         "lat": 40.11246109008789,
         "long": -88.22831726074219
-      },
-      {
-        "lat": 40.1020773,
-        "long": -88.2296394
       },
       {
         "lat": 40.1035872,

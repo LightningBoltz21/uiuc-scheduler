@@ -1,6 +1,6 @@
 {
   "subject": "ALEC",
-  "scrapedAt": 1768370764384,
+  "scrapedAt": 1768370930720,
   "courseCount": 5,
   "courses": {
     "ALEC 393": [
@@ -23,7 +23,7 @@
             ]
           ],
           6,
-          12,
+          13,
           0,
           [],
           -1
@@ -45,7 +45,7 @@
             ]
           ],
           6,
-          12,
+          13,
           0,
           [],
           -1
@@ -55,34 +55,34 @@
       "Provides an opportunity to apply principles and theories related to Agricultural Leadership, Education & Communications within the field through meaningful work experiences. Upon completion of the internship experience, the student will be able to incorporate principles and theories from classroom knowledge to real-life work situations that benefit the supporting organization both qualitatively and quantitatively while enhancing the problem-solving abilities of the student.",
       []
     ],
-    "ALEC 540": [
-      "Volunteer Management",
+    "ALEC 499": [
+      "Seminar",
       {
-        "XM": [
-          "72261",
+        "SNR": [
+          "78403",
           [
             [
-              72,
-              "R",
+              43,
+              "TR",
               "ONLINE",
               1,
               [
-                "Kuhajda, N"
+                "Nickols, S"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          3,
-          3,
+          4,
+          6,
           0,
           [],
           -1
         ]
       },
       [],
-      "Theory and practice of volunteer management including: volunteer demographics; recruitment; selection; orientation; training and development; retention; supervision; motivation; evaluation; legal issues; and rick management. Students will develop a comprehensive volunteer management strategy based on using volunteers in non-profit organizations.",
+      "Special topics in agricultural leadership, education or communications.",
       []
     ],
     "ALEC 115": [
@@ -136,7 +136,7 @@
           "77159",
           [
             [
-              4,
+              5,
               "WF",
               "G18 Literatures, Cultures, & Ling",
               1,
@@ -159,10 +159,10 @@
           "77853",
           [
             [
-              4,
+              5,
               "TR",
               "219 David Kinley Hall",
-              6,
+              7,
               [
                 "Axtman-Barker, P"
               ],
@@ -181,7 +181,7 @@
           "77156",
           [
             [
-              42,
+              43,
               "M",
               "166 Bevier Hall",
               13,
@@ -202,6 +202,36 @@
       },
       [],
       "[IAI Code: C2900] Food, agriculture, and the environment are shaped by communications. Students investigate a wide variety of current topics and controversies and how to educate, evaluate, and persuade on these issues. The course emphasizes the foundations of public speaking, with emphasis on organizing, researching, crafting, and presenting material. Students deliver five speeches throughout the semester and regularly analyze and evaluate speeches and other mediated messages about food, agriculture, and the environment.",
+      []
+    ],
+    "ALEC 540": [
+      "Volunteer Management",
+      {
+        "XM": [
+          "72261",
+          [
+            [
+              72,
+              "R",
+              "ONLINE",
+              1,
+              [
+                "Kuhajda, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Theory and practice of volunteer management including: volunteer demographics; recruitment; selection; orientation; training and development; retention; supervision; motivation; evaluation; legal issues; and rick management. Students will develop a comprehensive volunteer management strategy based on using volunteers in non-profit organizations.",
       []
     ],
     "ALEC 505": [
@@ -233,98 +263,68 @@
       [],
       "Students will investigate theoretical principles of education and learning; evaluate the roles of emotion and motivation and their impacts on the acquisition and retention of knowledge; and explore psychological and physiological variables that impact learning. Additional topics to examine include: metacognition, fixed and growth mindset, approaches to learning, and specific teaching and learning techniques that predict learner success.",
       []
-    ],
-    "ALEC 499": [
-      "Seminar",
-      {
-        "SNR": [
-          "78403",
-          [
-            [
-              42,
-              "TR",
-              "ONLINE",
-              1,
-              [
-                "Nickols, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          7,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Special topics in agricultural leadership, education or communications.",
-      []
     ]
   },
   "caches": {
     "periods": [
       "0930 - 1050",
-      "1100 - 1220",
-      "1000 - 1050",
+      "1600 - 1715",
+      "0930 - 1045",
       "0900 - 0950",
+      "1000 - 1050",
       "1100 - 1150",
       "1200 - 1250",
       "1300 - 1350",
       "1400 - 1450",
-      "1400 - 1650",
       "0000 - 0000",
-      "1600 - 1715",
-      "0930 - 1045",
+      "1400 - 1650",
       "1230 - 1350",
+      "1100 - 1220",
       "1400 - 1520",
+      "1400 - 1550",
       "1600 - 1720",
       "1500 - 1720",
-      "1400 - 1550",
       "1400 - 1720",
-      "1300 - 1450",
-      "0800 - 0950",
-      "1500 - 1650",
       "0900 - 1150",
+      "1300 - 1450",
+      "1500 - 1650",
+      "0800 - 0950",
       "0900 - 1020",
       "1500 - 1550",
       "1400 - 1630",
-      "1700 - 1820",
       "0800 - 0850",
-      "1530 - 1650",
       "0800 - 0920",
+      "1530 - 1650",
+      "1700 - 1820",
       "1530 - 1620",
       "2000 - 2050",
       "0800 - 1150",
+      "1500 - 1750",
       "1200 - 1550",
       "1230 - 1620",
       "0830 - 0920",
-      "1500 - 1750",
       "1300 - 1650",
+      "1500 - 1620",
       "0900 - 1050",
       "1100 - 1250",
-      "1500 - 1620",
       "1700 - 1850",
+      "1200 - 1320",
       "1600 - 1750",
       "1600 - 1650",
-      "1200 - 1320",
       "1000 - 1120",
       "1130 - 1250",
       "1300 - 1420",
       "1600 - 1730",
       "1030 - 1150",
+      "1230 - 1320",
       "1330 - 1520",
       "1530 - 1710",
-      "1230 - 1320",
-      "1630 - 1750",
       "1430 - 1550",
+      "1630 - 1750",
       "1730 - 1850",
       "1730 - 1920",
-      "1000 - 1150",
       "1530 - 1820",
+      "1000 - 1150",
       "1700 - 1750",
       "1100 - 1215",
       "0800 - 0959",
@@ -348,15 +348,15 @@
       "Lecture",
       "Online",
       "Independent Study",
-      "Laboratory-Discussion",
       "Laboratory",
       "Online Lecture",
+      "Laboratory-Discussion",
       "Online Discussion",
       "Conference",
       "Online Lecture Discussion",
       "Seminar",
-      "Internship",
       "Study Abroad",
+      "Internship",
       "Research"
     ],
     "campuses": [],
@@ -365,20 +365,20 @@
     "gradeBases": [],
     "locations": [
       {
-        "lat": 40.1047599,
-        "long": -88.2319514
+        "lat": 40.107534,
+        "long": -88.2281548
       },
       {
         "lat": null,
         "long": null
       },
       {
-        "lat": 40.1065684,
-        "long": -88.2281746
+        "lat": 40.1047599,
+        "long": -88.2319514
       },
       {
-        "lat": 40.107534,
-        "long": -88.2281548
+        "lat": 40.1065684,
+        "long": -88.2281746
       },
       {
         "lat": 40.105732,
@@ -389,16 +389,16 @@
         "long": -88.2262016
       },
       {
+        "lat": 40.1020773,
+        "long": -88.2296394
+      },
+      {
         "lat": 40.1035833,
         "long": -88.228405
       },
       {
         "lat": 40.11246109008789,
         "long": -88.22831726074219
-      },
-      {
-        "lat": 40.1020773,
-        "long": -88.2296394
       },
       {
         "lat": 40.1035872,
