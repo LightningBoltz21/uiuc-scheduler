@@ -1,7 +1,7 @@
 {
   "subject": "LER",
-  "scrapedAt": 1768434436692,
-  "courseCount": 29,
+  "scrapedAt": 1768434459110,
+  "courseCount": 35,
   "courses": {
     "LER 130": [
       "Intro Labr Wrkng Class History",
@@ -1030,202 +1030,315 @@
       [],
       "General survey course concerning the strategies and tactics of bargaining and negotiation, with special emphasis on applications in human resource management contexts. Topics covered include: the structure of negotiated outcomes; integrative bargaining tactics; distributive bargaining tactics; negotiation planning; power, persuasion and influence; communication; negotiating in teams and groups; negotiating using 3rd parties (arbitrators, mediators, agents); cross-cultural negotiations. Students will discuss negotiation issues and build negotiation skills through a series of experiential exercises and cases.",
       []
+    ],
+    "LER 580": [
+      "Internship",
+      {
+        "A": [
+          "58055",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Barker, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Full or part-time practice of human resources or employment relations in an off-campus government, corporate or not-for-profit environment.",
+      []
+    ],
+    "LER 590": [
+      "Individual Topics",
+      {
+        "": [
+          "53819",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "CT": [
+          "75927",
+          [
+            [
+              1,
+              "R",
+              "51 Inst Labor &  Industrial Rel",
+              0,
+              [
+                "Kallas, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Students in labor and industrial relations may register for this unit with the consent of the curriculum adviser and the adviser under whom the student will perform individual study or research. Such individual work may include special study in a subject matter for which no course is available or an individual research project, including on-the-job research in industry, which is not being undertaken for a thesis.",
+      []
+    ],
+    "LER 591": [
+      "Employment Relations Systems",
+      {
+        "A": [
+          "53172",
+          [
+            [
+              2,
+              "T",
+              "51 Inst Labor &  Industrial Rel",
+              0,
+              [
+                "Mun, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "O": [
+          "77076",
+          [
+            [
+              3,
+              "M",
+              "ONLINE",
+              0,
+              [
+                "Kramer, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "General framework for the analysis of employment relationships. Topics include industrial relations theory, the American system of collective bargaining, intercountry system differences, and human resource management strategies and practices.",
+      []
+    ],
+    "LER 595": [
+      "Managing Diversity Globally",
+      {
+        "O": [
+          "77068",
+          [
+            [
+              3,
+              "R",
+              "ONLINE",
+              0,
+              [
+                "Kramer, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "In a global economy workplace diversity is not a trend; it is a reality faced by corporate leaders, human resource professionals and management consultants. Within the US, immigration, migration, and gender and racial differences have been major trends shaping workplace composition. Globalization places additional pressures on managing workplace diversity effectively. In this setting, training managers and human resource professionals to manage differences and adapt to multiple national and cultural contexts is an imperative. Course provides an in-depth understanding of how managers and HR professionals can be effective in not only managing diversity in a global context, but also in leveraging global diversity as a competitive advantage. By the end of this course students will have a holistic appreciation of the tools necessary to implement effective diversity management practices for a globally inclusive workplace.",
+      []
+    ],
+    "LER 597": [
+      "Employee Motivation & Perfmnce",
+      {
+        "O": [
+          "75876",
+          [
+            [
+              4,
+              "R",
+              "ONLINE",
+              0,
+              [
+                "Franz, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Managing and motivating employees effectively is one of the most complex and challenging issues facing companies today. While business leaders acknowledge the need for implementing effective performance management systems, recent studies indicate that an overwhelming majority of performance management systems are unsuccessful. Takes a strategic approach to employee motivation and performance starting with a firm level view to reviewing current approaches to employee motivation and performance management. Aims at providing students with practical and conceptual tools that will aid them in future endeavors to design and implement employee development and performance management systems. Format includes in-class discussions, case studies and individual assignments and papers.",
+      []
+    ],
+    "LER 593": [
+      "Quantitative Methods in LER",
+      {
+        "AE1": [
+          "53174",
+          [
+            [
+              1,
+              "T",
+              "51 Inst Labor &  Industrial Rel",
+              0,
+              [
+                "Alexander, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "AQ1": [
+          "53175",
+          [
+            [
+              5,
+              "F",
+              "51 Inst Labor &  Industrial Rel",
+              0,
+              [
+                "Yu, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "AQ2": [
+          "53176",
+          [
+            [
+              6,
+              "F",
+              "51 Inst Labor &  Industrial Rel",
+              0,
+              [
+                "Yu, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "O": [
+          "75878",
+          [
+            [
+              3,
+              "W",
+              "ONLINE",
+              0,
+              [
+                "Ogolsky, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Application of statistical methods to problems in human resources and industrial relations. Analysis and presentation of results using computer software. Covers statistical techniques through analysis of variance and multiple regression.",
+      []
     ]
   },
   "caches": {
     "periods": [
-      "1400 - 1650",
-      "1500 - 1750",
-      "1400 - 1450",
       "0000 - 0000",
-      "1400 - 1520",
-      "1100 - 1150",
-      "1300 - 1450",
-      "1000 - 1150",
-      "1200 - 1350",
-      "0900 - 1050",
-      "0900 - 0950",
-      "1700 - 1950",
-      "0930 - 1220",
-      "1230 - 1350",
-      "1100 - 1250",
-      "1300 - 1420",
-      "1930 - 2050",
-      "1800 - 1950",
-      "1200 - 1250",
-      "1530 - 1620",
-      "1300 - 1520",
-      "1000 - 1050",
-      "1300 - 1350",
-      "1500 - 1650",
-      "1600 - 1750",
-      "1600 - 1720",
-      "1200 - 1320",
-      "1500 - 1720",
-      "0930 - 1050",
-      "1100 - 1220",
-      "1400 - 1550",
-      "1030 - 1150",
-      "0900 - 1150",
-      "1500 - 1600",
-      "1530 - 1650",
-      "1500 - 1620",
-      "0900 - 1020",
-      "1400 - 1515",
-      "1500 - 1550",
-      "1530 - 1720",
-      "1600 - 1650",
-      "1700 - 1820",
-      "1800 - 2100",
-      "1600 - 1820",
-      "0900 - 1145",
-      "0900 - 1120",
-      "1430 - 1550",
-      "1730 - 1850",
-      "1100 - 1320",
-      "1300 - 1600",
-      "1530 - 1750",
-      "1300 - 1545",
-      "1000 - 1200",
-      "1700 - 1900",
-      "1700 - 1750",
-      "1100 - 1350",
-      "1230 - 1520",
-      "1000 - 1250",
-      "1400 - 1720",
-      "1600 - 1715",
-      "0930 - 1045",
-      "0800 - 1150",
-      "1430 - 1620",
-      "1115 - 1205",
-      "1010 - 1100",
-      "1230 - 1320",
-      "0930 - 1020",
-      "1000 - 1120",
-      "0900 - 1140",
-      "1230 - 1420",
-      "1800 - 1850",
-      "0800 - 0850",
-      "0800 - 0920",
-      "0830 - 0950",
-      "1800 - 2020",
-      "1000 - 1220",
-      "0830 - 1120",
-      "1300 - 1550",
-      "1530 - 1710",
-      "1200 - 1450",
-      "1900 - 2020",
-      "1900 - 2030",
-      "0900 - 1030",
-      "1730 - 2030",
+      "1400 - 1650",
       "0800 - 1050",
-      "1300 - 1650",
-      "1000 - 1130",
-      "1000 - 1100",
-      "1730 - 2020",
-      "0800 - 0940",
-      "0900 - 1040",
-      "1200 - 1340",
-      "1100 - 1215",
-      "1230 - 1345",
-      "1530 - 1645",
-      "1730 - 1845",
-      "1000 - 1115",
-      "1700 - 1850",
-      "1900 - 2050",
-      "1800 - 2050",
-      "1530 - 1820",
-      "1600 - 1850",
-      "1800 - 1920",
-      "1330 - 1620",
-      "0930 - 1120",
-      "1130 - 1320",
-      "1030 - 1120",
-      "1430 - 1520",
-      "1630 - 1720",
-      "1130 - 1220",
-      "1630 - 1750",
-      "1330 - 1445",
-      "1200 - 1259",
-      "1500 - 1615",
-      "1030 - 1145",
-      "1330 - 1520",
-      "0900 - 1015",
-      "1430 - 1545",
-      "1330 - 1420",
-      "1325 - 1445",
-      "1729 - 1920",
-      "1730 - 1930",
-      "0830 - 1020",
-      "1500 - 1659",
-      "1300 - 1459",
-      "0850 - 1020",
-      "1715 - 1830",
-      "1330 - 1535",
-      "0930 - 1135",
-      "1700 - 1930",
-      "0900 - 1159",
-      "0930 - 1130",
-      "1630 - 1745",
-      "0930 - 1129",
-      "0915 - 1159",
-      "1600 - 1859",
-      "1600 - 1810",
-      "1700 - 1859",
-      "1500 - 1629",
-      "1800 - 1915",
-      "1600 - 1759",
-      "1330 - 1615",
-      "1500 - 1555",
-      "1330 - 1559",
-      "1330 - 1640",
-      "1330 - 1630",
-      "1345 - 1645",
-      "1630 - 1820",
-      "0900 - 1700",
-      "0900 - 1035",
-      "1630 - 1920",
-      "1325 - 1450",
-      "1000 - 1159",
-      "1030 - 1159",
-      "1700 - 1910",
-      "1740 - 2000",
-      "1700 - 1830",
-      "1330 - 1529",
-      "1730 - 1920",
-      "1500 - 1745",
-      "1500 - 1729",
-      "1501 - 1745",
-      "1330 - 1429",
-      "1745 - 1925",
-      "1800 - 2005",
-      "1010 - 1125",
-      "1300 - 1415",
-      "0900 - 1000",
-      "0800 - 1030",
-      "1830 - 2030",
       "1800 - 2000",
-      "1200 - 1330"
+      "1830 - 2030",
+      "0900 - 0950",
+      "1000 - 1050"
     ],
     "dateRanges": [],
     "scheduleTypes": [
-      "Laboratory",
-      "Lecture",
-      "Independent Study",
-      "Laboratory-Discussion",
-      "Online",
-      "Lecture-Discussion",
-      "Conference",
-      "Online Lecture",
-      "Online Lab",
-      "Discussion/ Recitation",
-      "Study Abroad",
-      "Seminar",
       "Internship",
-      "Online Lecture Discussion",
-      "Online Discussion",
-      "Research",
-      "Travel"
+      "Independent Study",
+      "Lecture-Discussion",
+      "Online",
+      "Quiz"
     ],
     "campuses": [],
     "attributes": [],
@@ -1235,102 +1348,6 @@
       {
         "lat": null,
         "long": null
-      },
-      {
-        "lat": 40.11246109008789,
-        "long": -88.22831726074219
-      },
-      {
-        "lat": 40.1072225,
-        "long": -88.2262016
-      },
-      {
-        "lat": 40.1065684,
-        "long": -88.2281746
-      },
-      {
-        "lat": 40.1035833,
-        "long": -88.228405
-      },
-      {
-        "lat": 40.1020773,
-        "long": -88.2296394
-      },
-      {
-        "lat": 40.10628,
-        "long": -88.22621
-      },
-      {
-        "lat": 40.107534,
-        "long": -88.2281548
-      },
-      {
-        "lat": 40.105732,
-        "long": -88.2281018
-      },
-      {
-        "lat": 40.1033599,
-        "long": -88.2292111
-      },
-      {
-        "lat": 40.1047599,
-        "long": -88.2319514
-      },
-      {
-        "lat": 40.111691,
-        "long": -88.2242511
-      },
-      {
-        "lat": 40.1109722,
-        "long": -88.2282631
-      },
-      {
-        "lat": 40.104794,
-        "long": -88.224264
-      },
-      {
-        "lat": 40.1083446,
-        "long": -88.2282555
-      },
-      {
-        "lat": 40.1110937,
-        "long": -88.2232348
-      },
-      {
-        "lat": 40.1034533,
-        "long": -88.2327596
-      },
-      {
-        "lat": 40.0995003,
-        "long": -88.223104
-      },
-      {
-        "lat": 40.1028373,
-        "long": -88.2251326
-      },
-      {
-        "lat": 40.1048704,
-        "long": -88.2229036
-      },
-      {
-        "lat": 40.10593795776367,
-        "long": -88.2270736694336
-      },
-      {
-        "lat": 40.103587,
-        "long": -88.230606
-      },
-      {
-        "lat": 40.1131317,
-        "long": -88.2264552
-      },
-      {
-        "lat": 40.1108856,
-        "long": -88.2269806
-      },
-      {
-        "lat": 40.10099,
-        "long": -88.23159
       }
     ],
     "finalDates": [],

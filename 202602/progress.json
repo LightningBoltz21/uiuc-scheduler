@@ -4,7 +4,7 @@
   "year": "2026",
   "term": "spring",
   "startedAt": 1768434032605,
-  "lastUpdated": 1768434436694,
+  "lastUpdated": 1768434526621,
   "totalSubjects": 187,
   "totalCourses": 4515,
   "subjects": [
@@ -18753,19 +18753,49 @@
     "LAT",
     "LAW",
     "LCTL",
-    "LEAD"
+    "LEAD",
+    "LER",
+    "LING",
+    "LLS",
+    "MACS",
+    "MATH",
+    "MBA",
+    "MCB",
+    "MDIA",
+    "MDVL",
+    "ME",
+    "MICR",
+    "MILS",
+    "MIP",
+    "MSE",
+    "MUS",
+    "MUSC",
+    "MUSE",
+    "NE",
+    "NEUR",
+    "NPRE",
+    "NRES",
+    "NS",
+    "NUTR",
+    "PATH",
+    "PERS",
+    "PHIL",
+    "PHYS",
+    "PLPA",
+    "POL",
+    "PORT"
   ],
   "partialSubjects": {
-    "LER": {
-      "completed": 29,
-      "total": 35,
+    "PS": {
+      "completed": 46,
+      "total": 57,
       "lastCourse": "ABORTED"
     }
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 2907,
-    "failedCourses": 4,
+    "successfulCourses": 3770,
+    "failedCourses": 5,
     "rateLimitCount": 0
   }
 }
