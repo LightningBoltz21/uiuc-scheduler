@@ -1,350 +1,23 @@
 {
-  "subject": "GER",
-  "scrapedAt": 1768450667508,
-  "courseCount": 24,
+  "subject": "GSD",
+  "scrapedAt": 1768450676606,
+  "courseCount": 21,
   "courses": {
-    "GER 102": [
-      "Beginning German II",
-      {
-        "C": [
-          "33563",
-          [
-            [
-              17,
-              "MTWR",
-              "1022 Literatures, Cultures, & Ling",
-              20,
-              [
-                "Avemarie, D",
-                "Webster, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ],
-        "D": [
-          "33564",
-          [
-            [
-              22,
-              "MTWR",
-              "327 Gregory Hall",
-              5,
-              [
-                "Avemarie, D",
-                "Webster, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ],
-        "D2": [
-          "33565",
-          [
-            [
-              15,
-              "MTWR",
-              "1136 Literatures, Cultures, & Ling",
-              20,
-              [
-                "Horn, R",
-                "Webster, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Continuation of GER 101. Continued focus on listening comprehension, oral skills, reading, writing, and culture at an introductory level.",
-      []
-    ],
-    "GER 205": [
-      "Germany and Europe",
-      {
-        "A": [
-          "52355",
-          [
-            [
-              44,
-              "TR",
-              "G30 Literatures, Cultures, & Ling",
-              20,
-              [
-                "Niekerk, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Introduction into major issues in contemporary German society with a special focus on Germany's functioning within Europe and the European Union through novels, films, essays, interviews etc. Course taught in English.",
-      []
-    ],
-    "GER 199": [
-      "Undergraduate Open Seminar",
-      {
-        "A1": [
-          "42070",
-          [
-            [
-              3,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Staff"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          4,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      null,
-      []
-    ],
-    "GER 211": [
-      "Conversation and Writing I",
-      {
-        "F": [
-          "39080",
-          [
-            [
-              14,
-              "MWF",
-              "1022 Literatures, Cultures, & Ling",
-              20,
-              [
-                "Webster, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Prerequisite: GER 104 or equivalent, or consent of instructor.",
-      []
-    ],
-    "GER 191": [
-      "Freshman Honors Tutorial",
-      {
-        "": [
-          "10276",
-          [
-            [
-              3,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Staff"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          4,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Study of selected topics on an individually arranged basis. Open only to honors majors or to Cohn Scholars and Associates.",
-      []
-    ],
-    "GER 104": [
-      "Intermediate German II",
-      {
-        "E": [
-          "33573",
-          [
-            [
-              15,
-              "MTWR",
-              "1030 Literatures, Cultures, & Ling",
-              20,
-              [
-                "Sollinger, B",
-                "Webster, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ],
-        "X": [
-          "33572",
-          [
-            [
-              22,
-              "MTWR",
-              "G48 Literatures, Cultures, & Ling",
-              20,
-              [
-                "Sollinger, B",
-                "Webster, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Continuation of GER 103. Continued focus on listening comprehension, oral skills, reading, writing, and culture at an intermediate level.",
-      []
-    ],
-    "GER 103": [
-      "Intermediate German I",
-      {
-        "C": [
-          "33570",
-          [
-            [
-              14,
-              "MTWR",
-              "149 English Building",
-              3,
-              [
-                "Kelsey, W",
-                "Webster, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ],
-        "D": [
-          "33571",
-          [
-            [
-              22,
-              "MTWR",
-              "149 English Building",
-              3,
-              [
-                "Cohen, J",
-                "Webster, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ],
-        "G": [
-          "33569",
-          [
-            [
-              24,
-              "MTWR",
-              "215 Davenport Hall",
-              12,
-              [
-                "Kelsey, W",
-                "Webster, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Continuation of GER 102. Intermediate course focusing on listening comprehension, oral skills, reading, writing, and culture.",
-      []
-    ],
-    "GER 251": [
-      "Grimm's Fairy Tales in Context",
+    "GSD 101": [
+      "Introduction to Game Studies and Design",
       {
         "AD1": [
-          "60015",
+          "71831",
           [
             [
-              17,
-              "F",
-              "115 David Kinley Hall",
-              36,
+              33,
+              "W",
+              "134 Armory",
+              30,
               [
-                "Fam, M",
-                "Johnson, L"
+                "Dixon, A",
+                "Durmaz, O",
+                "Starks, K"
               ],
               -1,
               -1,
@@ -358,16 +31,17 @@
           -1
         ],
         "AD2": [
-          "60018",
+          "71833",
           [
             [
-              22,
-              "F",
-              "115 David Kinley Hall",
-              36,
+              73,
+              "W",
+              "428 Armory",
+              30,
               [
-                "Fam, M",
-                "Johnson, L"
+                "Dixon, A",
+                "Hussain, H",
+                "Starks, K"
               ],
               -1,
               -1,
@@ -381,16 +55,17 @@
           -1
         ],
         "AD3": [
-          "60021",
+          "74241",
           [
             [
-              15,
-              "F",
-              "115 David Kinley Hall",
-              36,
+              95,
+              "W",
+              "134 Armory",
+              30,
               [
-                "Johnson, L",
-                "Ting, S"
+                "Dixon, A",
+                "Durmaz, O",
+                "Starks, K"
               ],
               -1,
               -1,
@@ -404,16 +79,17 @@
           -1
         ],
         "AD4": [
-          "68654",
+          "74242",
           [
             [
-              20,
-              "F",
-              "115 David Kinley Hall",
-              36,
+              129,
+              "W",
+              "428 Armory",
+              30,
               [
-                "Fam, M",
-                "Johnson, L"
+                "Dixon, A",
+                "Hussain, H",
+                "Starks, K"
               ],
               -1,
               -1,
@@ -426,17 +102,17 @@
           [],
           -1
         ],
-        "AD5": [
-          "68655",
+        "AL": [
+          "71760",
           [
             [
-              14,
-              "F",
-              "115 David Kinley Hall",
-              36,
+              73,
+              "M",
+              "ONLINE",
+              0,
               [
-                "Johnson, L",
-                "Ting, S"
+                "Dixon, A",
+                "Starks, K"
               ],
               -1,
               -1,
@@ -444,22 +120,29 @@
             ]
           ],
           3,
-          11,
+          1,
           0,
           [],
           -1
-        ],
-        "AD6": [
-          "68656",
+        ]
+      },
+      [],
+      "This broad survey course will provide students across campus an introduction to interdisciplinary game studies, covering both historical/social perspectives and game design. It will explore humanities, social science understandings of play, and the social contexts from which our games and gaming practices arise, as well as the development and consequences of gaming cultures. This course will serve as a broad introduction to issues covered in greater depth in upper-level courses available for students pursuing an Undergraduate Minor in Game Studies & Design.",
+      []
+    ],
+    "GSD 390": [
+      "Special Topics in Game Studies & Design",
+      {
+        "AG": [
+          "78170",
           [
             [
-              24,
+              153,
               "F",
-              "115 David Kinley Hall",
-              36,
+              "Location Pending",
+              0,
               [
-                "Johnson, L",
-                "Ting, S"
+                "Velazquez, J"
               ],
               -1,
               -1,
@@ -467,21 +150,355 @@
             ]
           ],
           3,
-          11,
+          14,
           0,
           [],
           -1
         ],
-        "AL1": [
-          "60024",
+        "DBU": [
+          "74893",
           [
             [
-              24,
+              51,
+              "M",
+              "0060 Siebel Center for Design",
+              26,
+              [
+                "Baird, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "DHP": [
+          "77359",
+          [
+            [
+              4,
               "MW",
-              "116 Roger Adams Laboratory",
-              34,
+              "123 English Building",
+              3,
               [
-                "Johnson, L"
+                "Hopping, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          14,
+          0,
+          [],
+          -1
+        ],
+        "JVA": [
+          "75015",
+          [
+            [
+              153,
+              "M",
+              "Location Pending",
+              0,
+              [
+                "Velazquez, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          14,
+          0,
+          [],
+          -1
+        ],
+        "MCR": [
+          "76141",
+          [
+            [
+              83,
+              "T",
+              "1002 Siebel Center for Design",
+              26,
+              [
+                "Curtin, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          14,
+          0,
+          [],
+          -1
+        ],
+        "WH": [
+          "77029",
+          [
+            [
+              1,
+              "TR",
+              "212 David Kinley Hall",
+              36,
+              [
+                "Helmke, W"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Advanced study or skills-based instruction in an emerging or special topic related to Game Studies and Design not covered in normal course offerings.",
+      []
+    ],
+    "GSD 204": [
+      "Gender in Gaming",
+      {
+        "KMS": [
+          "77311",
+          [
+            [
+              131,
+              "T",
+              "2036 Campus Instructional Facility",
+              9,
+              [
+                "Starks, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          14,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Examines the history of gender in videogames, focusing on how the embodied elements of play as well as the spatial logics of games function to promote and resist representation, as well as how games designed by women and people of color are transforming how and why we play games.",
+      []
+    ],
+    "GSD 202": [
+      "Let’s Play: Understanding the Role of Play in Life and Art",
+      {
+        "A": [
+          "76025",
+          [
+            [
+              2,
+              "TR",
+              "158 Loomis Laboratory",
+              13,
+              [
+                "Wolf, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Explores the ways that play is integrated into our socio-cultural fabric. Students will develop a broad understanding of play in different contexts: its history, play and nature, play in human development, learning, play spaces, games, art, and in futurist thinking. Chief among the goals for the course is an emphasis on play as a fundamental and enriching force for people of all ages, and something to cultivate in life and in art.",
+      []
+    ],
+    "GSD 199": [
+      "Individual Study",
+      {
+        "": [
+          "71916",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Individual study in a subject related to game studies & design not covered in normal course offerings.",
+      []
+    ],
+    "GSD 190": [
+      "Explorations in Games",
+      {
+        "KB": [
+          "78214",
+          [
+            [
+              73,
+              "MW",
+              "Location Pending",
+              0,
+              [
+                "Bequette, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          14,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Exploratory study or skills-based instruction in an emerging or special topic related to Game Studies and Design not covered in normal course offerings.",
+      []
+    ],
+    "GSD 325": [
+      "Theatrical Tabletop Role-Playing Game Design",
+      {
+        "A": [
+          "78278",
+          [
+            [
+              2,
+              "TR",
+              "5 805 W Pennsylvania",
+              47,
+              [
+                "Schultz, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          14,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as THEA 385. See THEA 385",
+      []
+    ],
+    "GSD 103": [
+      "The Basics of Game Design",
+      {
+        "AB1": [
+          "71834",
+          [
+            [
+              72,
+              "W",
+              "FAB LAB Art-East Annex, Studio 2",
+              0,
+              [
+                "Butt, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "AB2": [
+          "71835",
+          [
+            [
+              54,
+              "W",
+              "FAB LAB Art-East Annex, Studio 2",
+              0,
+              [
+                "Butt, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "AB3": [
+          "71836",
+          [
+            [
+              54,
+              "F",
+              "FAB LAB Art-East Annex, Studio 2",
+              0,
+              [
+                "Butt, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "AL": [
+          "71759",
+          [
+            [
+              17,
+              "M",
+              "4031 Campus Instructional Facility",
+              9,
+              [
+                "Butt, E"
               ],
               -1,
               -1,
@@ -496,428 +513,14 @@
         ]
       },
       [],
-      "Special attention is paid to the Grimms' tales in terms of traditional narrative genres, elements of life in early modern Europe, and versions from Italy and France as well as Germany. Course is conducted in English.",
+      "Will introduce you to the tools and principles of game design, as well as the history of game studies and the maker movement. You will learn some of the introductory tools and techniques for rapid prototyping along with exploring games, their history, impacts, and design.",
       []
     ],
-    "GER 201": [
-      "German Popular Culture",
-      {
-        "A": [
-          "63431",
-          [
-            [
-              1,
-              "TR",
-              "323 Education Building",
-              8,
-              [
-                "Jenkins, R"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Introduction to the study of modern and contemporary german culture through examining examples of popular culture from the late-eighteenth century to the present. Looks at texts and films as a mirror and critique of modern German society. Topics to be discussed: nationalism, gender, ethnicity, minority cultures, Jewish life in Germany, German images of other cultures, etc. Course taught in English.",
-      []
-    ],
-    "GER 101": [
-      "Beginning German I",
-      {
-        "D": [
-          "33559",
-          [
-            [
-              22,
-              "MTWR",
-              "1128 Literatures, Cultures, & Ling",
-              20,
-              [
-                "Ezeokoli, C",
-                "Webster, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ],
-        "E": [
-          "33561",
-          [
-            [
-              15,
-              "MTWR",
-              "1120 Literatures, Cultures, & Ling",
-              20,
-              [
-                "Pei, A",
-                "Webster, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Introductory course focusing on listening comprehension, oral skills, reading, writing, and culture.",
-      []
-    ],
-    "GER 418": [
-      "Language & Minorities in Europe",
-      {
-        "1G": [
-          "50300",
-          [
-            [
-              73,
-              "W",
-              "321 Gregory Hall",
-              5,
-              [
-                "Fagyal, Z"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              73,
-              "M",
-              "ONLINE",
-              0,
-              [
-                "Fagyal, Z"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ],
-        "1U": [
-          "50299",
-          [
-            [
-              73,
-              "W",
-              "321 Gregory Hall",
-              5,
-              [
-                "Fagyal, Z"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              73,
-              "M",
-              "ONLINE",
-              0,
-              [
-                "Fagyal, Z"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as EURO 418, FR 418, ITAL 418, LING 418, PS 418, SLAV 418, and SPAN 418. See FR 418.",
-      []
-    ],
-    "GER 331": [
-      "Intro to German Literature",
-      {
-        "F": [
-          "45898",
-          [
-            [
-              33,
-              "MW",
-              "1134 Literatures, Cultures, & Ling",
-              20,
-              [
-                "Pinkert, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Introductory study of representative works (prose, drama, lyric) by outstanding German, Austrian, and Swiss writers of the modern period.",
-      []
-    ],
-    "GER 460": [
-      "Principles of Language Testing",
-      {
-        "G4": [
-          "32938",
-          [
-            [
-              1,
-              "TR",
-              "G23 Literatures, Cultures, & Ling",
-              20,
-              [
-                "Yan, X"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ],
-        "U3": [
-          "32936",
-          [
-            [
-              1,
-              "TR",
-              "G23 Literatures, Cultures, & Ling",
-              20,
-              [
-                "Yan, X"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as EIL 460, EPSY 487, FR 460, ITAL 460, PORT 460, and SPAN 460. See EIL 460.",
-      []
-    ],
-    "GER 299": [
-      "Study Abroad",
-      {
-        "A": [
-          "33584",
-          [
-            [
-              3,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Webster, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          18,
-          17,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Lectures, seminars, and practical work in German language, literature, civilization, and in other academic areas appropriate to the student's course of study.",
-      []
-    ],
-    "GER 420": [
-      "German Cultural History",
-      {
-        "E": [
-          "50381",
-          [
-            [
-              27,
-              "TR",
-              "219 David Kinley Hall",
-              36,
-              [
-                "Niekerk, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "A general introduction to German culture from the pre-Christian period to the twenty-first century, focusing on the tension between forces of history and modernization in German culture. Course materials include literary and philosophical texts, film, painting, and music. Particular attention will be paid to the role of art in society.",
-      []
-    ],
-    "GER 470": [
-      "Middle Ages to Baroque",
-      {
-        "X": [
-          "45143",
-          [
-            [
-              44,
-              "R",
-              "Location Pending",
-              0,
-              [
-                "Horsfall, W"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Literary, thematic, cultural, and bibliographical analysis of the major authors, works, genres, and movements in German literature from 750-1720.",
-      []
-    ],
-    "GER 465": [
-      "German Linguistics",
-      {
-        "S": [
-          "58484",
-          [
-            [
-              31,
-              "M",
-              "G20 Literatures, Cultures, & Ling",
-              20,
-              [
-                "Webster, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Linguistic analysis of Germanic languages in historical, geographic, and social context. Taught in German or English, depending on topic.",
-      []
-    ],
-    "GER 489": [
-      "Theoretical Foundations of SLA",
-      {
-        "G4": [
-          "38718",
-          [
-            [
-              17,
-              "MWF",
-              "329 Gregory Hall",
-              5,
-              [
-                "Zhang, Q"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ],
-        "U3": [
-          "38715",
-          [
-            [
-              17,
-              "MWF",
-              "329 Gregory Hall",
-              5,
-              [
-                "Zhang, Q"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as FR 481, ITAL 489, LING 489, PORT 489, and SPAN 489. See LING 489.",
-      []
-    ],
-    "GER 491": [
-      "Honors Senior Thesis",
+    "GSD 399": [
+      "Advanced Individual Study",
       {
         "": [
-          "10289",
+          "73170",
           [
             [
               3,
@@ -932,52 +535,14 @@
               -1
             ]
           ],
-          4,
+          3,
           4,
           0,
           [],
           -1
-        ]
-      },
-      [],
-      "Intended primarily for candidates for honors in German, but open to other seniors.",
-      []
-    ],
-    "GER 512": [
-      "Applied LiteraryTranslation II",
-      {
-        "A": [
-          "72207",
-          [
-            [
-              104,
-              "M",
-              "G96 Literatures, Cultures, & Ling",
-              20,
-              [
-                "Jenkins, R"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as CWL 512, EALC 512, SLAV 502, and TRST 502. See TRST 502.",
-      []
-    ],
-    "GER 593": [
-      "Research in Special Topics",
-      {
-        "": [
-          "10295",
+        ],
+        "KMS": [
+          "75482",
           [
             [
               3,
@@ -992,86 +557,91 @@
               -1
             ]
           ],
-          8,
-          4,
-          0,
-          [],
-          -1
-        ],
-        "MM": [
-          "77638",
-          [
-            [
-              3,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Meyer, M"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          8,
-          4,
+          3,
+          3,
           0,
           [],
           -1
         ]
       },
       [],
-      "May be repeated to a maximum of 8 hours.",
+      "Advanced individual study in a subject related to game studies & design not covered in normal course offerings.",
       []
     ],
-    "GER 588": [
-      "Sem Second Lang Learn",
+    "GSD 405": [
+      "Introduction to the Video Game Development Process",
       {
-        "AM1": [
-          "60350",
-          [
-            [
-              44,
-              "R",
-              "1040 Literatures, Cultures, & Ling",
-              20,
-              [
-                "Mroz, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ],
-        "SM": [
-          "35710",
+        "A": [
+          "71851",
           [
             [
               16,
               "TR",
-              "G18 Literatures, Cultures, & Ling",
-              20,
+              "2078 Natural History Building",
+              18,
               [
-                "Montrul, S"
+                "Cermak, D"
               ],
               -1,
               -1,
               -1
-            ],
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "The emphasis of this course is understanding the video game development process as seen in current Game Studios. The course will focus on key elements of the process including the development timeline, scheduling, prototyping, iteration, QA, game builds and player research. The goal will be to take a design document from a catalog of designs that have already been created and implement one or more of them using the game development process.",
+      []
+    ],
+    "GSD 411": [
+      "Interactive Fiction with Twine",
+      {
+        "AL": [
+          "74830",
+          [
             [
-              24,
-              "TR",
-              "ARR Literatures, Cultures, & Ling",
-              20,
+              105,
+              "R",
+              "ONLINE",
+              0,
               [
-                "Montrul, S"
+                "Klimas, C",
+                "Starks, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "This studio course explores the intersection of interactivity and the written word—encompassing fiction, nonfiction, and poetry. Although many of the works examined in the course contain gameplay mechanics, the course’s focus is on the expressive possibilities of interactive storytelling. Students will create hypertext narratives using Twine software. No prior programming experience is assumed.",
+      []
+    ],
+    "GSD 502": [
+      "Seminar in Game Studies",
+      {
+        "AL": [
+          "77252",
+          [
+            [
+              117,
+              "T",
+              "11 Psychology Building",
+              25,
+              [
+                "Pintar, J"
               ],
               -1,
               -1,
@@ -1080,20 +650,72 @@
           ],
           4,
           5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "An in-depth interdisciplinary exploration of significant areas of social, psychological, historical, and critical inquiry in game studies. Course readings and guest speakers will help to stimulate discussion on theoretical approaches, methodological issues and other aspects of contemporary game studies research to provide an intellectual community for students across academic disciplines. Students will have the opportunity to share their work, and their particular disciplinary approaches to game studies during the semester.",
+      []
+    ],
+    "GSD 490": [
+      "Advanced Special Topics in Game Studies & Design",
+      {
+        "3DG": [
+          "78169",
+          [
+            [
+              154,
+              "F",
+              "Location Pending",
+              0,
+              [
+                "Velazquez, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          14,
           0,
           [],
           -1
         ],
-        "WM": [
-          "35705",
+        "3DU": [
+          "78168",
           [
             [
-              118,
-              "W",
-              "69 English Building",
+              154,
+              "F",
+              "Location Pending",
+              0,
+              [
+                "Velazquez, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          14,
+          0,
+          [],
+          -1
+        ],
+        "JM": [
+          "77644",
+          [
+            [
               3,
+              "",
+              "ONLINE",
+              0,
               [
-                "Nelson, S"
+                "Moyer, J"
               ],
               -1,
               -1,
@@ -1101,29 +723,21 @@
             ]
           ],
           4,
-          5,
+          3,
           0,
           [],
           -1
-        ]
-      },
-      [],
-      "Same as EALC 588, FR 588, ITAL 588, LING 588, PORT 588, and SPAN 588. See SPAN 588.",
-      []
-    ],
-    "GER 576": [
-      "Open Seminar in German Studies",
-      {
-        "SH": [
-          "57117",
+        ],
+        "KMS": [
+          "77410",
           [
             [
-              44,
-              "W",
+              135,
+              "WF",
               "Location Pending",
               0,
               [
-                "Pinkert, A"
+                "Starks, K"
               ],
               -1,
               -1,
@@ -1131,29 +745,81 @@
             ]
           ],
           4,
-          5,
+          14,
+          0,
+          [],
+          -1
+        ],
+        "TNJ": [
+          "78355",
+          [
+            [
+              113,
+              "MW",
+              "329 Armory",
+              30,
+              [
+                "Toenjes, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          14,
           0,
           [],
           -1
         ]
       },
       [],
-      "Seminar in literary phenomena (such as movements, genres and forms, relations, themes and types, interdisciplinary studies, women's studies) that go beyond the confines of a particular century.",
+      "Topics of current interest. Advanced study in an emerging or special topic related to Game Studies and Design not covered in normal course offerings.",
       []
     ],
-    "GER 571": [
-      "Medieval German Studies",
+    "GSD 419": [
+      "The stu/dio Capstone Course",
       {
-        "G": [
-          "39100",
+        "DNC": [
+          "78338",
           [
             [
-              44,
-              "R",
+              4,
+              "TR",
+              "109 Sch of Info Sciences Bldg",
+              0,
+              [
+                "Cermak, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          14,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "An experiential learning project-based course built within the framework of a game or interactive media development project. The framework will be provided by the instructor, with the support of The stu/dio (a student-run game development studio) leads. Students will work in teams, and be guided in learning the fundamentals of one or more of the game development disciplines (Programming, Design, Art/Audio, Production/Project Management) to develop and/or produce a part of the overall project.",
+      []
+    ],
+    "GSD 590": [
+      "Special Topics in Game Studies & Design",
+      {
+        "KMS": [
+          "78152",
+          [
+            [
+              135,
+              "WF",
               "Location Pending",
               0,
               [
-                "Horsfall, W"
+                "Starks, K"
               ],
               -1,
               -1,
@@ -1161,14 +827,217 @@
             ]
           ],
           4,
-          5,
+          14,
           0,
           [],
           -1
         ]
       },
       [],
-      "Seminar in selected genres, themes, or authors of the Middle Ages. Epic, lyric, and didactic works in prose and verse are read in the original language.",
+      "Allows for affiliated Game Studies & Design faculty to propose and offer new courses on emerging and special topics of immediate interest. Students will experience an in-depth exploration of significant and emerging areas of social, psychological, historical, and critical game studies, focusing on theoretical approaches, methodological issues and aspects of contemporary game studies research and/or design.",
+      []
+    ],
+    "GSD 522": [
+      "Tools & Techniques: Contemporary Techniques of 3D Art for Games",
+      {
+        "1": [
+          "78229",
+          [
+            [
+              3,
+              "MWF",
+              "ONLINE",
+              0,
+              [
+                "Hurtado Duarte, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Advanced techniques for exploring modern 3D artistry for game development. From characters to environments, students will gain a comprehensive skillset in creating immersive game visuals, equipping them with 3D modeling and design to craft captivating game assets, building a strong foundation for Game Art Development. Blender, a powerful 3D creation software used by game development and special effects studios, will be used; students are expected to be familiar with Blender's interface, navigation, and tools.",
+      []
+    ],
+    "GSD 523": [
+      "Tools & Techniques: Contemporary Techniques of 3D Animation for Games",
+      {
+        "1": [
+          "78230",
+          [
+            [
+              3,
+              "TR",
+              "ONLINE",
+              0,
+              [
+                "Damarjian, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "The principles and techniques of creating 3D animation. Students will develop basic skills and knowledge in 3D modeling and rigging, as well as the fundamentals of animation principles. The course will utilize Blender to create a variety of animation projects.",
+      []
+    ],
+    "GSD 515": [
+      "Professionalization Seminar: Portfolio Production & Personal Branding",
+      {
+        "1": [
+          "78163",
+          [
+            [
+              3,
+              "MWF",
+              "ONLINE",
+              0,
+              [
+                "Ford, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "The focus of this course is on preparing students to professionally present themselves and their work. Students will research ways in which perception affects perceived employability. Social concepts such as professional presentation, personal boundaries, cultural expression, and workplace culture will be explored. Students will create social media profiles, websites, and published portfolios which will be reviewed by in-class peers as well as industry professionals. Students will culminate their experience by applying for a studio position.",
+      []
+    ],
+    "GSD 561": [
+      "Tools & Techniques of Game Narrative: Contemporary Techniques in Writing for Games",
+      {
+        "1": [
+          "78231",
+          [
+            [
+              3,
+              "S",
+              "ONLINE",
+              0,
+              [
+                "Starks, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to writing for games. The purpose of this course is to help writers with experience in other media to understand the nuances of writing for games. Video games writers have the responsibility to incorporate the “reader”/player into the writing in ways that other media does not. They must not only incorporate story elements, but also puzzles, organizational principles, and the consideration of multiple branches and scenarios. This course will help traditional writers become more dynamic, and interactive writers will learn to hone their craft.",
+      []
+    ],
+    "GSD 551": [
+      "Tools & Techniques: Contemporary Techniques for Programming of Games",
+      {
+        "1": [
+          "78206",
+          [
+            [
+              3,
+              "MWF",
+              "ONLINE",
+              0,
+              [
+                "Damarjian, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Special systems and techniques used by programmers in video game development. Students will learn and apply the tools and algorithms that are key to developing video games in the current and coming marketplace.",
+      []
+    ],
+    "GSD 597": [
+      "Independent Study in Game Studies & Design",
+      {
+        "DBR": [
+          "76179",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Baird, D",
+                "Starks, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "DH": [
+          "78463",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          14,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Advanced individual study in a subject related to Game Studies and Design not covered in normal course offerings. Project examples include comprehensive literature reviews on a topic of special or emerging interest, small research projects (e.g. surveys or play-testing experiments), development projects (e.g. building a game based on a design developed as part of another course), or other study approved by the instructor. Pre-approval is required and an approved advisor must commit to supervise the independent study.",
       []
     ]
   },
@@ -1324,7 +1193,11 @@
       "1630 - 1910",
       "1600 - 2050",
       "0830 - 1350",
-      "0930 - 1040"
+      "0930 - 1040",
+      "1500 - 1600",
+      "1600 - 1820",
+      "0900 - 1145",
+      "1300 - 1545"
     ],
     "dateRanges": [],
     "scheduleTypes": [
@@ -1541,6 +1414,10 @@
       {
         "lat": 40.10623714823253,
         "long": -88.2232659093846
+      },
+      {
+        "lat": 40.10039170750639,
+        "long": -88.21813070187608
       }
     ],
     "finalDates": [],

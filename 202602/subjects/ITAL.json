@@ -1,158 +1,21 @@
 {
-  "subject": "GER",
-  "scrapedAt": 1768450667508,
-  "courseCount": 24,
+  "subject": "ITAL",
+  "scrapedAt": 1768450714439,
+  "courseCount": 16,
   "courses": {
-    "GER 102": [
-      "Beginning German II",
-      {
-        "C": [
-          "33563",
-          [
-            [
-              17,
-              "MTWR",
-              "1022 Literatures, Cultures, & Ling",
-              20,
-              [
-                "Avemarie, D",
-                "Webster, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ],
-        "D": [
-          "33564",
-          [
-            [
-              22,
-              "MTWR",
-              "327 Gregory Hall",
-              5,
-              [
-                "Avemarie, D",
-                "Webster, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ],
-        "D2": [
-          "33565",
-          [
-            [
-              15,
-              "MTWR",
-              "1136 Literatures, Cultures, & Ling",
-              20,
-              [
-                "Horn, R",
-                "Webster, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Continuation of GER 101. Continued focus on listening comprehension, oral skills, reading, writing, and culture at an introductory level.",
-      []
-    ],
-    "GER 205": [
-      "Germany and Europe",
-      {
-        "A": [
-          "52355",
-          [
-            [
-              44,
-              "TR",
-              "G30 Literatures, Cultures, & Ling",
-              20,
-              [
-                "Niekerk, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Introduction into major issues in contemporary German society with a special focus on Germany's functioning within Europe and the European Union through novels, films, essays, interviews etc. Course taught in English.",
-      []
-    ],
-    "GER 199": [
-      "Undergraduate Open Seminar",
-      {
-        "A1": [
-          "42070",
-          [
-            [
-              3,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Staff"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          4,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      null,
-      []
-    ],
-    "GER 211": [
-      "Conversation and Writing I",
+    "ITAL 310": [
+      "Advanced Grammar",
       {
         "F": [
-          "39080",
+          "34717",
           [
             [
-              14,
-              "MWF",
-              "1022 Literatures, Cultures, & Ling",
-              20,
+              33,
+              "MW",
+              "309 English Building",
+              3,
               [
-                "Webster, C"
+                "Derhemi, E"
               ],
               -1,
               -1,
@@ -167,130 +30,52 @@
         ]
       },
       [],
-      "Prerequisite: GER 104 or equivalent, or consent of instructor.",
+      "Study of the structure of modern Italian in both its phonological and syntactic aspects for the student who already has a functional command of the language, with an emphasis on developing ability to analyze and interpret grammatical structures.",
       []
     ],
-    "GER 191": [
-      "Freshman Honors Tutorial",
+    "ITAL 390": [
+      "Spec Topics Italian Studies",
       {
-        "": [
-          "10276",
+        "ER": [
+          "10461",
           [
             [
-              3,
-              "",
-              "ONLINE",
-              0,
+              4,
+              "TR",
+              "317 David Kinley Hall",
+              36,
               [
-                "Staff"
+                "Rota, E"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          3,
           4,
+          5,
           0,
           [],
           -1
         ]
       },
       [],
-      "Study of selected topics on an individually arranged basis. Open only to honors majors or to Cohn Scholars and Associates.",
+      "Selected substantive readings for independent study on a given special topic of Italian literature, culture, language, or linguistics.",
       []
     ],
-    "GER 104": [
-      "Intermediate German II",
+    "ITAL 103": [
+      "Intermediate Italian I",
       {
         "E": [
-          "33573",
+          "34712",
           [
             [
               15,
               "MTWR",
-              "1030 Literatures, Cultures, & Ling",
+              "1128 Literatures, Cultures, & Ling",
               20,
               [
-                "Sollinger, B",
-                "Webster, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ],
-        "X": [
-          "33572",
-          [
-            [
-              22,
-              "MTWR",
-              "G48 Literatures, Cultures, & Ling",
-              20,
-              [
-                "Sollinger, B",
-                "Webster, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Continuation of GER 103. Continued focus on listening comprehension, oral skills, reading, writing, and culture at an intermediate level.",
-      []
-    ],
-    "GER 103": [
-      "Intermediate German I",
-      {
-        "C": [
-          "33570",
-          [
-            [
-              14,
-              "MTWR",
-              "149 English Building",
-              3,
-              [
-                "Kelsey, W",
-                "Webster, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ],
-        "D": [
-          "33571",
-          [
-            [
-              22,
-              "MTWR",
-              "149 English Building",
-              3,
-              [
-                "Cohen, J",
-                "Webster, C"
+                "Hill, L"
               ],
               -1,
               -1,
@@ -304,16 +89,16 @@
           -1
         ],
         "G": [
-          "33569",
+          "34713",
           [
             [
-              24,
+              22,
               "MTWR",
-              "215 Davenport Hall",
-              12,
+              "1040 Literatures, Cultures, & Ling",
+              20,
               [
-                "Kelsey, W",
-                "Webster, C"
+                "Derhemi, E",
+                "Hill, L"
               ],
               -1,
               -1,
@@ -328,167 +113,129 @@
         ]
       },
       [],
-      "Continuation of GER 102. Intermediate course focusing on listening comprehension, oral skills, reading, writing, and culture.",
+      "Rapid reading, review of grammar, composition, and conversation.",
       []
     ],
-    "GER 251": [
-      "Grimm's Fairy Tales in Context",
+    "ITAL 102": [
+      "Elementary Italian II",
       {
-        "AD1": [
-          "60015",
+        "C2": [
+          "34703",
           [
             [
               17,
-              "F",
-              "115 David Kinley Hall",
-              36,
+              "MTWR",
+              "309 English Building",
+              3,
               [
-                "Fam, M",
-                "Johnson, L"
+                "Hill, L",
+                "Medri, E"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          3,
-          11,
+          4,
+          5,
           0,
           [],
           -1
         ],
-        "AD2": [
-          "60018",
+        "D": [
+          "64363",
           [
             [
               22,
-              "F",
-              "115 David Kinley Hall",
-              36,
+              "MTWR",
+              "301 Noyes Laboratory",
+              11,
               [
-                "Fam, M",
-                "Johnson, L"
+                "Hill, L",
+                "Tremontini, G"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          3,
-          11,
+          4,
+          5,
           0,
           [],
           -1
         ],
-        "AD3": [
-          "60021",
+        "E2": [
+          "34709",
           [
             [
               15,
-              "F",
-              "115 David Kinley Hall",
-              36,
+              "MTWR",
+              "215 Davenport Hall",
+              12,
               [
-                "Johnson, L",
-                "Ting, S"
+                "Camacho Salazar, H",
+                "Hill, L"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          3,
-          11,
+          4,
+          5,
           0,
           [],
           -1
         ],
-        "AD4": [
-          "68654",
+        "H": [
+          "34708",
           [
             [
-              20,
-              "F",
-              "115 David Kinley Hall",
-              36,
-              [
-                "Fam, M",
-                "Johnson, L"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          11,
-          0,
-          [],
-          -1
-        ],
-        "AD5": [
-          "68655",
-          [
-            [
-              14,
-              "F",
-              "115 David Kinley Hall",
-              36,
-              [
-                "Johnson, L",
-                "Ting, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          11,
-          0,
-          [],
-          -1
-        ],
-        "AD6": [
-          "68656",
-          [
-            [
-              24,
-              "F",
-              "115 David Kinley Hall",
-              36,
-              [
-                "Johnson, L",
-                "Ting, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          11,
-          0,
-          [],
-          -1
-        ],
-        "AL1": [
-          "60024",
-          [
-            [
-              24,
+              79,
               "MW",
-              "116 Roger Adams Laboratory",
-              34,
+              "ONLINE",
+              0,
               [
-                "Johnson, L"
+                "Hill, L",
+                "Lestani, L"
               ],
               -1,
               -1,
               -1
             ]
           ],
+          4,
           3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Prerequisite: ITAL 101 or one year of high school Italian.",
+      []
+    ],
+    "ITAL 406": [
+      "Italian Culture and Globalization",
+      {
+        "UG": [
+          "48103",
+          [
+            [
+              1,
+              "TR",
+              "174 Wohlers Hall",
+              22,
+              [
+                "Incoronato, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
           2,
           0,
           [],
@@ -496,22 +243,22 @@
         ]
       },
       [],
-      "Special attention is paid to the Grimms' tales in terms of traditional narrative genres, elements of life in early modern Europe, and versions from Italy and France as well as Germany. Course is conducted in English.",
+      "Introduction to factors that have shaped present-day Italy, with particular attention to globalization; basic concepts contributing to understanding its present social and cultural development in a European and global context.",
       []
     ],
-    "GER 201": [
-      "German Popular Culture",
+    "ITAL 270": [
+      "Introduction to Italian Cinema",
       {
-        "A": [
-          "63431",
+        "C": [
+          "52349",
           [
             [
-              1,
+              21,
               "TR",
-              "323 Education Building",
-              8,
+              "G58 Literatures, Cultures, & Ling",
+              20,
               [
-                "Jenkins, R"
+                "Incoronato, C"
               ],
               -1,
               -1,
@@ -526,46 +273,22 @@
         ]
       },
       [],
-      "Introduction to the study of modern and contemporary german culture through examining examples of popular culture from the late-eighteenth century to the present. Looks at texts and films as a mirror and critique of modern German society. Topics to be discussed: nationalism, gender, ethnicity, minority cultures, Jewish life in Germany, German images of other cultures, etc. Course taught in English.",
+      "Introduction to major films, movements and directors in the Italian tradition, paying particular attention to questions of national identity, gender and political and social history. Knowledge of Italian not required.",
       []
     ],
-    "GER 101": [
-      "Beginning German I",
+    "ITAL 104": [
+      "Intermediate Italian II",
       {
         "D": [
-          "33559",
+          "34716",
           [
             [
-              22,
+              24,
               "MTWR",
               "1128 Literatures, Cultures, & Ling",
               20,
               [
-                "Ezeokoli, C",
-                "Webster, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ],
-        "E": [
-          "33561",
-          [
-            [
-              15,
-              "MTWR",
-              "1120 Literatures, Cultures, & Ling",
-              20,
-              [
-                "Pei, A",
-                "Webster, C"
+                "Hill, L"
               ],
               -1,
               -1,
@@ -580,14 +303,91 @@
         ]
       },
       [],
-      "Introductory course focusing on listening comprehension, oral skills, reading, writing, and culture.",
+      "Prerequisite: ITAL 103 or three years of high school Italian.",
       []
     ],
-    "GER 418": [
+    "ITAL 101": [
+      "Elementary Italian I",
+      {
+        "C2": [
+          "56815",
+          [
+            [
+              17,
+              "MTWR",
+              "G48 Literatures, Cultures, & Ling",
+              20,
+              [
+                "Chiarantini, L",
+                "Hill, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "D1": [
+          "34694",
+          [
+            [
+              22,
+              "MTWR",
+              "1032 Literatures, Cultures, & Ling",
+              20,
+              [
+                "Chiarantini, L",
+                "Hill, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "F1": [
+          "46384",
+          [
+            [
+              15,
+              "MTWR",
+              "149 English Building",
+              3,
+              [
+                "Chiarantini, L",
+                "Hill, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "For students who have no credit in Italian.",
+      []
+    ],
+    "ITAL 418": [
       "Language & Minorities in Europe",
       {
         "1G": [
-          "50300",
+          "55830",
           [
             [
               73,
@@ -621,7 +421,7 @@
           -1
         ],
         "1U": [
-          "50299",
+          "55829",
           [
             [
               73,
@@ -656,52 +456,52 @@
         ]
       },
       [],
-      "Same as EURO 418, FR 418, ITAL 418, LING 418, PS 418, SLAV 418, and SPAN 418. See FR 418.",
+      "Same as EURO 418, FR 418, GER 418, LING 418, PS 418, SLAV 418, and SPAN 418. See FR 418.",
       []
     ],
-    "GER 331": [
-      "Intro to German Literature",
+    "ITAL 199": [
+      "Undergraduate Open Seminar",
       {
-        "F": [
-          "45898",
+        "": [
+          "10459",
           [
             [
-              33,
-              "MW",
-              "1134 Literatures, Cultures, & Ling",
-              20,
+              3,
+              "",
+              "ONLINE",
+              0,
               [
-                "Pinkert, A"
+                "Staff"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          3,
           5,
+          4,
           0,
           [],
           -1
         ]
       },
       [],
-      "Introductory study of representative works (prose, drama, lyric) by outstanding German, Austrian, and Swiss writers of the modern period.",
+      "Approved for letter and S/U grading. May be repeated to a maximum of 5 hours.",
       []
     ],
-    "GER 460": [
-      "Principles of Language Testing",
+    "ITAL 435": [
+      "Introduction to Romance Linguistics",
       {
         "G4": [
-          "32938",
+          "64881",
           [
             [
-              1,
-              "TR",
-              "G23 Literatures, Cultures, & Ling",
-              20,
+              22,
+              "MWF",
+              "205 Gregory Hall",
+              5,
               [
-                "Yan, X"
+                "Hualde, J"
               ],
               -1,
               -1,
@@ -715,15 +515,15 @@
           -1
         ],
         "U3": [
-          "32936",
+          "58568",
           [
             [
-              1,
-              "TR",
-              "G23 Literatures, Cultures, & Ling",
-              20,
+              22,
+              "MWF",
+              "205 Gregory Hall",
+              5,
               [
-                "Yan, X"
+                "Hualde, J"
               ],
               -1,
               -1,
@@ -738,134 +538,14 @@
         ]
       },
       [],
-      "Same as EIL 460, EPSY 487, FR 460, ITAL 460, PORT 460, and SPAN 460. See EIL 460.",
+      "Same as FR 462, LING 462, PORT 435, RMLG 435 and SPAN 435. See SPAN 435.",
       []
     ],
-    "GER 299": [
-      "Study Abroad",
-      {
-        "A": [
-          "33584",
-          [
-            [
-              3,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Webster, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          18,
-          17,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Lectures, seminars, and practical work in German language, literature, civilization, and in other academic areas appropriate to the student's course of study.",
-      []
-    ],
-    "GER 420": [
-      "German Cultural History",
-      {
-        "E": [
-          "50381",
-          [
-            [
-              27,
-              "TR",
-              "219 David Kinley Hall",
-              36,
-              [
-                "Niekerk, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "A general introduction to German culture from the pre-Christian period to the twenty-first century, focusing on the tension between forces of history and modernization in German culture. Course materials include literary and philosophical texts, film, painting, and music. Particular attention will be paid to the role of art in society.",
-      []
-    ],
-    "GER 470": [
-      "Middle Ages to Baroque",
-      {
-        "X": [
-          "45143",
-          [
-            [
-              44,
-              "R",
-              "Location Pending",
-              0,
-              [
-                "Horsfall, W"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Literary, thematic, cultural, and bibliographical analysis of the major authors, works, genres, and movements in German literature from 750-1720.",
-      []
-    ],
-    "GER 465": [
-      "German Linguistics",
-      {
-        "S": [
-          "58484",
-          [
-            [
-              31,
-              "M",
-              "G20 Literatures, Cultures, & Ling",
-              20,
-              [
-                "Webster, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Linguistic analysis of Germanic languages in historical, geographic, and social context. Taught in German or English, depending on topic.",
-      []
-    ],
-    "GER 489": [
+    "ITAL 489": [
       "Theoretical Foundations of SLA",
       {
         "G4": [
-          "38718",
+          "32968",
           [
             [
               17,
@@ -887,7 +567,7 @@
           -1
         ],
         "U3": [
-          "38715",
+          "32966",
           [
             [
               17,
@@ -910,22 +590,22 @@
         ]
       },
       [],
-      "Same as FR 481, ITAL 489, LING 489, PORT 489, and SPAN 489. See LING 489.",
+      "Same as FR 481, GER 489, LING 489, PORT 489, and SPAN 489. See LING 489.",
       []
     ],
-    "GER 491": [
-      "Honors Senior Thesis",
+    "ITAL 460": [
+      "Principles of Language Testing",
       {
-        "": [
-          "10289",
+        "G4": [
+          "32941",
           [
             [
-              3,
-              "",
-              "ONLINE",
-              0,
+              1,
+              "TR",
+              "G23 Literatures, Cultures, & Ling",
+              20,
               [
-                "Staff"
+                "Yan, X"
               ],
               -1,
               -1,
@@ -933,29 +613,21 @@
             ]
           ],
           4,
-          4,
+          5,
           0,
           [],
           -1
-        ]
-      },
-      [],
-      "Intended primarily for candidates for honors in German, but open to other seniors.",
-      []
-    ],
-    "GER 512": [
-      "Applied LiteraryTranslation II",
-      {
-        "A": [
-          "72207",
+        ],
+        "U3": [
+          "32940",
           [
             [
-              104,
-              "M",
-              "G96 Literatures, Cultures, & Ling",
+              1,
+              "TR",
+              "G23 Literatures, Cultures, & Ling",
               20,
               [
-                "Jenkins, R"
+                "Yan, X"
               ],
               -1,
               -1,
@@ -970,66 +642,14 @@
         ]
       },
       [],
-      "Same as CWL 512, EALC 512, SLAV 502, and TRST 502. See TRST 502.",
+      "Same as EIL 460, EPSY 487, FR 460, GER 460, PORT 460, and SPAN 460. See EIL 460.",
       []
     ],
-    "GER 593": [
-      "Research in Special Topics",
-      {
-        "": [
-          "10295",
-          [
-            [
-              3,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Staff"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          8,
-          4,
-          0,
-          [],
-          -1
-        ],
-        "MM": [
-          "77638",
-          [
-            [
-              3,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Meyer, M"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          8,
-          4,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "May be repeated to a maximum of 8 hours.",
-      []
-    ],
-    "GER 588": [
+    "ITAL 588": [
       "Sem Second Lang Learn",
       {
         "AM1": [
-          "60350",
+          "60351",
           [
             [
               44,
@@ -1051,7 +671,7 @@
           -1
         ],
         "SM": [
-          "35710",
+          "35719",
           [
             [
               16,
@@ -1085,7 +705,7 @@
           -1
         ],
         "WM": [
-          "35705",
+          "35716",
           [
             [
               118,
@@ -1108,22 +728,22 @@
         ]
       },
       [],
-      "Same as EALC 588, FR 588, ITAL 588, LING 588, PORT 588, and SPAN 588. See SPAN 588.",
+      "Same as EALC 588, FR 588, GER 588, LING 588, PORT 588, and SPAN 588. See SPAN 588.",
       []
     ],
-    "GER 576": [
-      "Open Seminar in German Studies",
+    "ITAL 595": [
+      "Spec Topics in Italian",
       {
-        "SH": [
-          "57117",
+        "": [
+          "10463",
           [
             [
-              44,
-              "W",
-              "Location Pending",
+              3,
+              "",
+              "ONLINE",
               0,
               [
-                "Pinkert, A"
+                "Staff"
               ],
               -1,
               -1,
@@ -1131,44 +751,44 @@
             ]
           ],
           4,
-          5,
+          4,
           0,
           [],
           -1
         ]
       },
       [],
-      "Seminar in literary phenomena (such as movements, genres and forms, relations, themes and types, interdisciplinary studies, women's studies) that go beyond the confines of a particular century.",
+      "Independent study/research under the direction of a faculty member. May or may not fulfill requirements for a particular degree program in Spanish, Italian, and Portuguese. Consult graduate advisor.",
       []
     ],
-    "GER 571": [
-      "Medieval German Studies",
+    "ITAL 491": [
+      "Honors Senior Thesis",
       {
-        "G": [
-          "39100",
+        "": [
+          "52951",
           [
             [
-              44,
-              "R",
-              "Location Pending",
+              3,
+              "",
+              "ONLINE",
               0,
               [
-                "Horsfall, W"
+                "Staff"
               ],
               -1,
               -1,
               -1
             ]
           ],
+          2,
           4,
-          5,
           0,
           [],
           -1
         ]
       },
       [],
-      "Seminar in selected genres, themes, or authors of the Middle Ages. Epic, lyric, and didactic works in prose and verse are read in the original language.",
+      "For candidates for honors in Italian.",
       []
     ]
   },
@@ -1324,7 +944,28 @@
       "1630 - 1910",
       "1600 - 2050",
       "0830 - 1350",
-      "0930 - 1040"
+      "0930 - 1040",
+      "1500 - 1600",
+      "1600 - 1820",
+      "0900 - 1145",
+      "1300 - 1545",
+      "1230 - 1520",
+      "1430 - 1620",
+      "1010 - 1100",
+      "1115 - 1205",
+      "1230 - 1420",
+      "1800 - 1850",
+      "1800 - 2020",
+      "0830 - 1120",
+      "1530 - 1710",
+      "1900 - 2020",
+      "1900 - 2030",
+      "1000 - 1130",
+      "1000 - 1100",
+      "0800 - 0940",
+      "0900 - 1040",
+      "1200 - 1340",
+      "1000 - 1115"
     ],
     "dateRanges": [],
     "scheduleTypes": [
@@ -1541,6 +1182,22 @@
       {
         "lat": 40.10623714823253,
         "long": -88.2232659093846
+      },
+      {
+        "lat": 40.10039170750639,
+        "long": -88.21813070187608
+      },
+      {
+        "lat": 40.1034533,
+        "long": -88.2327596
+      },
+      {
+        "lat": 40.1028373,
+        "long": -88.2251326
+      },
+      {
+        "lat": 40.1048704,
+        "long": -88.2229036
       }
     ],
     "finalDates": [],
