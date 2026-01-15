@@ -4,7 +4,7 @@
   "year": "2026",
   "term": "spring",
   "startedAt": 1768450320876,
-  "lastUpdated": 1768450826676,
+  "lastUpdated": 1768450916635,
   "totalSubjects": 187,
   "totalCourses": 4515,
   "subjects": [
@@ -18783,19 +18783,50 @@
     "PHYS",
     "PLPA",
     "POL",
-    "PORT"
+    "PORT",
+    "PS",
+    "PSM",
+    "PSYC",
+    "QUEC",
+    "REES",
+    "REL",
+    "RHET",
+    "RMLG",
+    "RST",
+    "RUSS",
+    "SAME",
+    "SBC",
+    "SCAN",
+    "SE",
+    "SHS",
+    "SLAV",
+    "SLCL",
+    "SOC",
+    "SOCW",
+    "SPAN",
+    "SPED",
+    "STAT",
+    "SWAH",
+    "TAM",
+    "TE",
+    "THEA",
+    "TMGT",
+    "TRST",
+    "TURK",
+    "UKR",
+    "UP"
   ],
   "partialSubjects": {
-    "PS": {
-      "completed": 29,
-      "total": 57,
+    "VCM": {
+      "completed": 31,
+      "total": 38,
       "lastCourse": "ABORTED"
     }
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 3753,
-    "failedCourses": 5,
+    "successfulCourses": 4490,
+    "failedCourses": 6,
     "rateLimitCount": 0
   }
 }

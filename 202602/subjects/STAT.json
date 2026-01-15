@@ -1,0 +1,4443 @@
+{
+  "subject": "STAT",
+  "scrapedAt": 1768450897178,
+  "courseCount": 42,
+  "courses": {
+    "STAT 390": [
+      "Individual Study",
+      {
+        "": [
+          "10189",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "May be repeated to a maximum of 8 hours. Prerequisite: Consent of instructor.",
+      []
+    ],
+    "STAT 200": [
+      "Statistical Analysis",
+      {
+        "L1": [
+          "67087",
+          [
+            [
+              2,
+              "TR",
+              "0035 Campus Instructional Facility",
+              9,
+              [
+                "Clement, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Survey of statistical concepts, data analysis, designed and observational studies and statistical models. Statistical computing using a statistical package such as R or a spreadsheet. Topics to be covered include data summary and visualization, study design, elementary probability, categorical data, comparative experiments, multiple linear regression, analysis of variance, statistical inferences and model diagnostics. May be taken as a first statistics course for quantitatively oriented students, or as a second course to follow a basic concepts course.",
+      []
+    ],
+    "STAT 400": [
+      "Statistics and Probability I",
+      {
+        "LD1": [
+          "36135",
+          [
+            [
+              2,
+              "W",
+              "1035 Campus Instructional Facility",
+              9,
+              [
+                "Yu, Z"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          11,
+          0,
+          [],
+          -1
+        ],
+        "LD2": [
+          "36136",
+          [
+            [
+              16,
+              "W",
+              "1035 Campus Instructional Facility",
+              9,
+              [
+                "Yu, Z"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          11,
+          0,
+          [],
+          -1
+        ],
+        "LD3": [
+          "36137",
+          [
+            [
+              21,
+              "W",
+              "1035 Campus Instructional Facility",
+              9,
+              [
+                "Jia, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          11,
+          0,
+          [],
+          -1
+        ],
+        "LD4": [
+          "48336",
+          [
+            [
+              1,
+              "W",
+              "4039 Campus Instructional Facility",
+              9,
+              [
+                "Jia, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          11,
+          0,
+          [],
+          -1
+        ],
+        "LL1": [
+          "36133",
+          [
+            [
+              2,
+              "TR",
+              "1320 Digital Computer Laboratory",
+              7,
+              [
+                "Lee, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "UD1": [
+          "36129",
+          [
+            [
+              2,
+              "R",
+              "386 Armory",
+              30,
+              [
+                "Wei, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          11,
+          0,
+          [],
+          -1
+        ],
+        "UD2": [
+          "36130",
+          [
+            [
+              16,
+              "R",
+              "1010 Wymer Hall",
+              0,
+              [
+                "Brahma, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          11,
+          0,
+          [],
+          -1
+        ],
+        "UD3": [
+          "36131",
+          [
+            [
+              21,
+              "R",
+              "1035 Campus Instructional Facility",
+              9,
+              [
+                "Brahma, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          11,
+          0,
+          [],
+          -1
+        ],
+        "UD4": [
+          "36132",
+          [
+            [
+              2,
+              "R",
+              "1035 Campus Instructional Facility",
+              9,
+              [
+                "Cui, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          11,
+          0,
+          [],
+          -1
+        ],
+        "UD5": [
+          "60238",
+          [
+            [
+              16,
+              "R",
+              "101 Transportation Building",
+              2,
+              [
+                "Cui, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          11,
+          0,
+          [],
+          -1
+        ],
+        "UD6": [
+          "60241",
+          [
+            [
+              1,
+              "R",
+              "1035 Campus Instructional Facility",
+              9,
+              [
+                "Wei, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          11,
+          0,
+          [],
+          -1
+        ],
+        "UD7": [
+          "60243",
+          [
+            [
+              1,
+              "R",
+              "4039 Campus Instructional Facility",
+              9,
+              [
+                "Mandravelis, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          11,
+          0,
+          [],
+          -1
+        ],
+        "UD8": [
+          "61076",
+          [
+            [
+              4,
+              "R",
+              "1035 Campus Instructional Facility",
+              9,
+              [
+                "Mandravelis, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          11,
+          0,
+          [],
+          -1
+        ],
+        "UL1": [
+          "36134",
+          [
+            [
+              17,
+              "MWF",
+              "1404 Siebel Center for Comp Sci",
+              10,
+              [
+                "Unger, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "UL2": [
+          "60237",
+          [
+            [
+              22,
+              "MWF",
+              "1404 Siebel Center for Comp Sci",
+              10,
+              [
+                "Unger, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "YD1": [
+          "43007",
+          [
+            [
+              2,
+              "W",
+              "4039 Campus Instructional Facility",
+              9,
+              [
+                "Yuan, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          11,
+          0,
+          [],
+          -1
+        ],
+        "YD2": [
+          "63541",
+          [
+            [
+              16,
+              "W",
+              "4039 Campus Instructional Facility",
+              9,
+              [
+                "Yuan, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          11,
+          0,
+          [],
+          -1
+        ],
+        "YD3": [
+          "63543",
+          [
+            [
+              21,
+              "W",
+              "4039 Campus Instructional Facility",
+              9,
+              [
+                "Peng, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          11,
+          0,
+          [],
+          -1
+        ],
+        "YD4": [
+          "63545",
+          [
+            [
+              1,
+              "W",
+              "158 Loomis Laboratory",
+              13,
+              [
+                "Peng, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          11,
+          0,
+          [],
+          -1
+        ],
+        "YL1": [
+          "36138",
+          [
+            [
+              16,
+              "TR",
+              "134 Temple Hoyne Buell Hall",
+              45,
+              [
+                "Yu, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to mathematical statistics that develops probability as needed; includes the calculus of probability, random variables, expectation, distribution functions, central limit theorem, point estimation, confidence intervals, and hypothesis testing. Offers a basic one-term introduction to statistics and also prepares students for STAT 410 and STAT 425.",
+      []
+    ],
+    "STAT 385": [
+      "Statistics Programming Methods",
+      {
+        "S1": [
+          "71019",
+          [
+            [
+              22,
+              "MWF",
+              "0035 Campus Instructional Facility",
+              9,
+              [
+                "Singh, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Statisticians must be savvy in programming methods useful to the wide variety of analysis that they will be expected to perform. This course provides the foundation for writing and packaging statistical algorithms through the creation of functions and object oriented programming. Fundamental programming techniques and considerations will be emphasized. Students will also create dynamic reports that encapsulate their implemented algorithms. Students must have access to a computer on which they can install software.",
+      []
+    ],
+    "STAT 391": [
+      "Honors Individual Study",
+      {
+        "": [
+          "10194",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "May be repeated to a maximum of 8 hours. Prerequisite: Consent of instructor.",
+      []
+    ],
+    "STAT 207": [
+      "Data Science Exploration",
+      {
+        "A10": [
+          "74812",
+          [
+            [
+              16,
+              "F",
+              "3038 Campus Instructional Facility",
+              9,
+              [
+                "Ju, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          14,
+          0,
+          [],
+          -1
+        ],
+        "A11": [
+          "74813",
+          [
+            [
+              21,
+              "F",
+              "2018 Campus Instructional Facility",
+              9,
+              [
+                "Zhang, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          14,
+          0,
+          [],
+          -1
+        ],
+        "A12": [
+          "74814",
+          [
+            [
+              2,
+              "F",
+              "2018 Campus Instructional Facility",
+              9,
+              [
+                "Han, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          14,
+          0,
+          [],
+          -1
+        ],
+        "A13": [
+          "74815",
+          [
+            [
+              1,
+              "F",
+              "1047 Sidney Lu Mech Engr Bldg",
+              4,
+              [
+                "Zhang, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          14,
+          0,
+          [],
+          -1
+        ],
+        "A14": [
+          "74816",
+          [
+            [
+              16,
+              "F",
+              "1047 Sidney Lu Mech Engr Bldg",
+              4,
+              [
+                "Han, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          14,
+          0,
+          [],
+          -1
+        ],
+        "A15": [
+          "77227",
+          [
+            [
+              1,
+              "F",
+              "3117 Everitt Laboratory",
+              16,
+              [
+                "Zhu, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          14,
+          0,
+          [],
+          -1
+        ],
+        "A16": [
+          "77228",
+          [
+            [
+              4,
+              "F",
+              "3117 Everitt Laboratory",
+              16,
+              [
+                "Zhu, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          14,
+          0,
+          [],
+          -1
+        ],
+        "AD1": [
+          "72077",
+          [
+            [
+              2,
+              "W",
+              "3038 Campus Instructional Facility",
+              9,
+              [
+                "Hui, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          14,
+          0,
+          [],
+          -1
+        ],
+        "AD2": [
+          "72078",
+          [
+            [
+              16,
+              "W",
+              "3038 Campus Instructional Facility",
+              9,
+              [
+                "Hui, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          14,
+          0,
+          [],
+          -1
+        ],
+        "AD3": [
+          "72083",
+          [
+            [
+              1,
+              "W",
+              "3038 Campus Instructional Facility",
+              9,
+              [
+                "Cheng, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          14,
+          0,
+          [],
+          -1
+        ],
+        "AD4": [
+          "72084",
+          [
+            [
+              4,
+              "W",
+              "3038 Campus Instructional Facility",
+              9,
+              [
+                "Cheng, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          14,
+          0,
+          [],
+          -1
+        ],
+        "AD5": [
+          "74809",
+          [
+            [
+              2,
+              "W",
+              "2018 Campus Instructional Facility",
+              9,
+              [
+                "Lomasov, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          14,
+          0,
+          [],
+          -1
+        ],
+        "AD6": [
+          "74810",
+          [
+            [
+              16,
+              "W",
+              "2018 Campus Instructional Facility",
+              9,
+              [
+                "Lomasov, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          14,
+          0,
+          [],
+          -1
+        ],
+        "AD7": [
+          "77225",
+          [
+            [
+              1,
+              "W",
+              "3018 Campus Instructional Facility",
+              9,
+              [
+                "Hu, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          14,
+          0,
+          [],
+          -1
+        ],
+        "AD8": [
+          "77226",
+          [
+            [
+              4,
+              "W",
+              "3018 Campus Instructional Facility",
+              9,
+              [
+                "Hu, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          14,
+          0,
+          [],
+          -1
+        ],
+        "AD9": [
+          "74811",
+          [
+            [
+              2,
+              "F",
+              "3038 Campus Instructional Facility",
+              9,
+              [
+                "Ju, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          14,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "72076",
+          [
+            [
+              1,
+              "TR",
+              "141 Wohlers Hall",
+              22,
+              [
+                "Clement, K",
+                "Deeke, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "AL2": [
+          "72079",
+          [
+            [
+              1,
+              "TR",
+              "141 Wohlers Hall",
+              22,
+              [
+                "Clement, K",
+                "Deeke, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "AL3": [
+          "77673",
+          [
+            [
+              16,
+              "TR",
+              "114 David Kinley Hall",
+              36,
+              [
+                "Clement, K",
+                "Deeke, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "AL4": [
+          "77674",
+          [
+            [
+              16,
+              "TR",
+              "114 David Kinley Hall",
+              36,
+              [
+                "Clement, K",
+                "Deeke, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Explores the data science pipeline from hypothesis formulation, to data collection and management, to analysis and reporting. Topics include data collection, preprocessing and checking for missing data, data summary and visualization, random sampling and probability models, estimating parameters, uncertainty quantification, hypothesis testing, multiple linear and logistic regression modeling, classification, and machine learning approaches for high dimensional data analysis. Students will learn how to implement the methods using Python programming and Git version control.",
+      []
+    ],
+    "STAT 100": [
+      "Statistics",
+      {
+        "L1": [
+          "69107",
+          [
+            [
+              24,
+              "MWF",
+              "THEAT Lincoln Hall",
+              19,
+              [
+                "Rao, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "L2": [
+          "37478",
+          [
+            [
+              25,
+              "MWF",
+              "THEAT Lincoln Hall",
+              19,
+              [
+                "Rao, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "[IAI Code: M1902] First course in probability and statistics at a precalculus level; emphasizes basic concepts, including descriptive statistics, elementary probability, estimation, and hypothesis testing in both nonparametric and normal models.",
+      []
+    ],
+    "STAT 361": [
+      "Probability & Statistics for Computer Science",
+      {
+        "ADA": [
+          "65114",
+          [
+            [
+              20,
+              "M",
+              "1304 Siebel Center for Comp Sci",
+              10,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          11,
+          0,
+          [],
+          -1
+        ],
+        "ADB": [
+          "65115",
+          [
+            [
+              17,
+              "M",
+              "1304 Siebel Center for Comp Sci",
+              10,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          11,
+          0,
+          [],
+          -1
+        ],
+        "ADC": [
+          "65111",
+          [
+            [
+              22,
+              "M",
+              "1304 Siebel Center for Comp Sci",
+              10,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          11,
+          0,
+          [],
+          -1
+        ],
+        "ADD": [
+          "65112",
+          [
+            [
+              14,
+              "M",
+              "1304 Siebel Center for Comp Sci",
+              10,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          11,
+          0,
+          [],
+          -1
+        ],
+        "ADE": [
+          "65113",
+          [
+            [
+              15,
+              "M",
+              "1304 Siebel Center for Comp Sci",
+              10,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          11,
+          0,
+          [],
+          -1
+        ],
+        "ADF": [
+          "70265",
+          [
+            [
+              24,
+              "M",
+              "1304 Siebel Center for Comp Sci",
+              10,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          11,
+          0,
+          [],
+          -1
+        ],
+        "ADG": [
+          "70267",
+          [
+            [
+              25,
+              "M",
+              "1304 Siebel Center for Comp Sci",
+              10,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          11,
+          0,
+          [],
+          -1
+        ],
+        "ADH": [
+          "70269",
+          [
+            [
+              26,
+              "M",
+              "1304 Siebel Center for Comp Sci",
+              10,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          11,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "65110",
+          [
+            [
+              59,
+              "TR",
+              "0027/1025 Campus Instructional Facility",
+              9,
+              [
+                "Liu, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      null,
+      []
+    ],
+    "STAT 212": [
+      "Biostatistics",
+      {
+        "A1": [
+          "61857",
+          [
+            [
+              20,
+              "MWF",
+              "103 Mumford Hall",
+              38,
+              [
+                "Findley, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "B1": [
+          "54345",
+          [
+            [
+              17,
+              "MWF",
+              "103 Mumford Hall",
+              38,
+              [
+                "Findley, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Application of statistical reasoning and statistical methodology to biology. Topics include descriptive statistics, graphical methods, experimental design, probability, statistical inference and regression. In addition, techniques of statistical computing are covered.",
+      []
+    ],
+    "STAT 107": [
+      "Data Science Discovery",
+      {
+        "L1": [
+          "70317",
+          [
+            [
+              17,
+              "MWF",
+              "THEAT Lincoln Hall",
+              19,
+              [
+                "Fagen-Ulmschneider, W",
+                "Flanagan, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "L2": [
+          "75730",
+          [
+            [
+              22,
+              "MWF",
+              "THEAT Lincoln Hall",
+              19,
+              [
+                "Fagen-Ulmschneider, W",
+                "Flanagan, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "Y01": [
+          "70318",
+          [
+            [
+              2,
+              "R",
+              "2036 Campus Instructional Facility",
+              9,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          14,
+          0,
+          [],
+          -1
+        ],
+        "Y02": [
+          "70322",
+          [
+            [
+              16,
+              "R",
+              "2036 Campus Instructional Facility",
+              9,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          14,
+          0,
+          [],
+          -1
+        ],
+        "Y03": [
+          "70326",
+          [
+            [
+              1,
+              "W",
+              "2036 Campus Instructional Facility",
+              9,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          14,
+          0,
+          [],
+          -1
+        ],
+        "Y04": [
+          "70327",
+          [
+            [
+              4,
+              "W",
+              "1047 Sidney Lu Mech Engr Bldg",
+              4,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          14,
+          0,
+          [],
+          -1
+        ],
+        "Y05": [
+          "70329",
+          [
+            [
+              2,
+              "R",
+              "2018 Campus Instructional Facility",
+              9,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          14,
+          0,
+          [],
+          -1
+        ],
+        "Y06": [
+          "70330",
+          [
+            [
+              16,
+              "R",
+              "3038 Campus Instructional Facility",
+              9,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          14,
+          0,
+          [],
+          -1
+        ],
+        "Y07": [
+          "70331",
+          [
+            [
+              1,
+              "W",
+              "1047 Sidney Lu Mech Engr Bldg",
+              4,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          14,
+          0,
+          [],
+          -1
+        ],
+        "Y08": [
+          "70332",
+          [
+            [
+              4,
+              "W",
+              "3117 Everitt Laboratory",
+              16,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          14,
+          0,
+          [],
+          -1
+        ],
+        "Y09": [
+          "70334",
+          [
+            [
+              21,
+              "R",
+              "2078 Natural History Building",
+              18,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          14,
+          0,
+          [],
+          -1
+        ],
+        "Y10": [
+          "70320",
+          [
+            [
+              2,
+              "R",
+              "3038 Campus Instructional Facility",
+              9,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          14,
+          0,
+          [],
+          -1
+        ],
+        "Y11": [
+          "70321",
+          [
+            [
+              16,
+              "R",
+              "4101 Materials Science & Eng Bld",
+              41,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          14,
+          0,
+          [],
+          -1
+        ],
+        "Y12": [
+          "70333",
+          [
+            [
+              1,
+              "R",
+              "2036 Campus Instructional Facility",
+              9,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          14,
+          0,
+          [],
+          -1
+        ],
+        "Y13": [
+          "74092",
+          [
+            [
+              2,
+              "R",
+              "1047 Sidney Lu Mech Engr Bldg",
+              4,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          14,
+          0,
+          [],
+          -1
+        ],
+        "Y14": [
+          "74093",
+          [
+            [
+              16,
+              "R",
+              "1047 Sidney Lu Mech Engr Bldg",
+              4,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          14,
+          0,
+          [],
+          -1
+        ],
+        "Y15": [
+          "74094",
+          [
+            [
+              2,
+              "R",
+              "3018 Campus Instructional Facility",
+              9,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          14,
+          0,
+          [],
+          -1
+        ],
+        "Y16": [
+          "74095",
+          [
+            [
+              16,
+              "R",
+              "2018 Campus Instructional Facility",
+              9,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          14,
+          0,
+          [],
+          -1
+        ],
+        "Y17": [
+          "74096",
+          [
+            [
+              1,
+              "W",
+              "1043 Sidney Lu Mech Engr Bldg",
+              4,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          14,
+          0,
+          [],
+          -1
+        ],
+        "Y18": [
+          "74097",
+          [
+            [
+              4,
+              "W",
+              "136 Loomis Laboratory",
+              13,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          14,
+          0,
+          [],
+          -1
+        ],
+        "Y19": [
+          "74098",
+          [
+            [
+              21,
+              "R",
+              "300 Noyes Laboratory",
+              11,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          14,
+          0,
+          [],
+          -1
+        ],
+        "Y20": [
+          "74099",
+          [
+            [
+              2,
+              "R",
+              "1043 Sidney Lu Mech Engr Bldg",
+              4,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          14,
+          0,
+          [],
+          -1
+        ],
+        "Y21": [
+          "76949",
+          [
+            [
+              1,
+              "W",
+              "156 Henry Administration Bldg",
+              6,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          14,
+          0,
+          [],
+          -1
+        ],
+        "Y22": [
+          "76952",
+          [
+            [
+              35,
+              "R",
+              "G36 Literatures, Cultures, & Ling",
+              20,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          14,
+          0,
+          [],
+          -1
+        ],
+        "Y23": [
+          "76955",
+          [
+            [
+              4,
+              "F",
+              "G32 Literatures, Cultures, & Ling",
+              20,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          14,
+          0,
+          [],
+          -1
+        ],
+        "Y24": [
+          "76958",
+          [
+            [
+              35,
+              "R",
+              "136 Armory",
+              30,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          14,
+          0,
+          [],
+          -1
+        ],
+        "Y25": [
+          "76961",
+          [
+            [
+              35,
+              "R",
+              "G20 Literatures, Cultures, & Ling",
+              20,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          14,
+          0,
+          [],
+          -1
+        ],
+        "Y26": [
+          "76964",
+          [
+            [
+              1,
+              "F",
+              "106B6 Engineering Hall",
+              15,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          14,
+          0,
+          [],
+          -1
+        ],
+        "Y27": [
+          "76967",
+          [
+            [
+              4,
+              "F",
+              "G36 Literatures, Cultures, & Ling",
+              20,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          14,
+          0,
+          [],
+          -1
+        ],
+        "Y28": [
+          "76970",
+          [
+            [
+              4,
+              "F",
+              "G46 Literatures, Cultures, & Ling",
+              20,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          14,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Data Science Discovery is the intersection of statistics, computation, and real-world relevance. As a project-driven course, students perform hands-on-analysis of real-world datasets to analyze and discover the impact of the data. Throughout each experience, students reflect on the social issues surrounding data analysis such as privacy and design.",
+      []
+    ],
+    "STAT 427": [
+      "Statistical Consulting",
+      {
+        "1GR": [
+          "36194",
+          [
+            [
+              16,
+              "TR",
+              "3117 Everitt Laboratory",
+              16,
+              [
+                "Chronopoulou, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "1UG": [
+          "36190",
+          [
+            [
+              16,
+              "TR",
+              "3117 Everitt Laboratory",
+              16,
+              [
+                "Chronopoulou, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Students, working in groups under the supervision of the instructor, consult with faculty and graduate students through the Statistical Consulting Service; readings from literature on consulting.",
+      []
+    ],
+    "STAT 408": [
+      "Actuarial Statistics I",
+      {
+        "AD1": [
+          "50228",
+          [
+            [
+              19,
+              "F",
+              "3018 Campus Instructional Facility",
+              9,
+              [
+                "Kemboi, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          11,
+          0,
+          [],
+          -1
+        ],
+        "AD2": [
+          "36101",
+          [
+            [
+              20,
+              "F",
+              "3018 Campus Instructional Facility",
+              9,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          11,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "36110",
+          [
+            [
+              21,
+              "TR",
+              "1020 Wymer Hall",
+              0,
+              [
+                "Stepanov, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as ASRM 401. See ASRM 401.",
+      []
+    ],
+    "STAT 410": [
+      "Statistics and Probability II",
+      {
+        "1GR": [
+          "36150",
+          [
+            [
+              1,
+              "TR",
+              "1090 Lincoln Hall",
+              19,
+              [
+                "Douglas, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "1UG": [
+          "36149",
+          [
+            [
+              1,
+              "TR",
+              "1090 Lincoln Hall",
+              19,
+              [
+                "Douglas, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "2GR": [
+          "61860",
+          [
+            [
+              20,
+              "MWF",
+              "1090 Lincoln Hall",
+              19,
+              [
+                "Stepanov, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "2UG": [
+          "61861",
+          [
+            [
+              20,
+              "MWF",
+              "1090 Lincoln Hall",
+              19,
+              [
+                "Stepanov, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "3GR": [
+          "63555",
+          [
+            [
+              17,
+              "MWF",
+              "1090 Lincoln Hall",
+              19,
+              [
+                "Stepanov, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "3UG": [
+          "63557",
+          [
+            [
+              17,
+              "MWF",
+              "1090 Lincoln Hall",
+              19,
+              [
+                "Stepanov, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "4GR": [
+          "72087",
+          [
+            [
+              21,
+              "TR",
+              "1090 Lincoln Hall",
+              19,
+              [
+                "Douglas, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "4UG": [
+          "72089",
+          [
+            [
+              21,
+              "TR",
+              "1090 Lincoln Hall",
+              19,
+              [
+                "Douglas, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Continuation of STAT 400. Includes moment-generating functions, transformations of random variables, normal sampling theory, sufficiency, best estimators, maximum likelihood estimators, confidence intervals, most powerful tests, unbiased tests, and chi-square tests.",
+      []
+    ],
+    "STAT 425": [
+      "Statistical Modeling I",
+      {
+        "1GR": [
+          "72116",
+          [
+            [
+              21,
+              "TR",
+              "1002 Lincoln Hall",
+              19,
+              [
+                "Zheng, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "1UG": [
+          "72117",
+          [
+            [
+              21,
+              "TR",
+              "1002 Lincoln Hall",
+              19,
+              [
+                "Zheng, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "2GR": [
+          "72118",
+          [
+            [
+              2,
+              "TR",
+              "1000 Lincoln Hall",
+              19,
+              [
+                "Zheng, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "2UG": [
+          "72572",
+          [
+            [
+              2,
+              "TR",
+              "1000 Lincoln Hall",
+              19,
+              [
+                "Zheng, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "3GR": [
+          "72120",
+          [
+            [
+              15,
+              "MWF",
+              "112 Transportation Building",
+              2,
+              [
+                "Bravo De Guenni, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "3UG": [
+          "72121",
+          [
+            [
+              15,
+              "MWF",
+              "112 Transportation Building",
+              2,
+              [
+                "Bravo De Guenni, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "This is the foundation for advanced statistical modeling with a focus on multiple strategies for analyzing data. The course explores linear regression, least squares estimates, F-tests, analysis of residuals, regression diagnostics, transformations, model building, generalized and weighted least squares, PCA, A/B testing, randomization tests, ANOVA, random effects, mixed effects, and longitudinal data. Statistical computing is an integral part of the course.",
+      []
+    ],
+    "STAT 426": [
+      "Statistical Modeling II",
+      {
+        "1GR": [
+          "36185",
+          [
+            [
+              1,
+              "TR",
+              "319 Gregory Hall",
+              5,
+              [
+                "Jia, W"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "1UG": [
+          "36179",
+          [
+            [
+              1,
+              "TR",
+              "319 Gregory Hall",
+              5,
+              [
+                "Jia, W"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "2GR": [
+          "60245",
+          [
+            [
+              17,
+              "MWF",
+              "119 Materials Science & Eng Bld",
+              41,
+              [
+                "Yu, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "2UG": [
+          "60246",
+          [
+            [
+              17,
+              "MWF",
+              "119 Materials Science & Eng Bld",
+              41,
+              [
+                "Yu, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "3GR": [
+          "75745",
+          [
+            [
+              20,
+              "MWF",
+              "119 Materials Science & Eng Bld",
+              41,
+              [
+                "Yu, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "3UG": [
+          "72119",
+          [
+            [
+              20,
+              "MWF",
+              "119 Materials Science & Eng Bld",
+              41,
+              [
+                "Yu, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "This is a continuation in the study of advanced statistical modeling techniques with a focus on categorical data. The course explores logistic regression, generalized linear models, goodness-of-fit, link functions, count regression, log-linear models, probability models for contingency tables, and ordinal response models. Statistical computing is an integral part of the course.",
+      []
+    ],
+    "STAT 428": [
+      "Statistical Computing",
+      {
+        "1GR": [
+          "36196",
+          [
+            [
+              21,
+              "TR",
+              "151 Loomis Laboratory",
+              13,
+              [
+                "Wang, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "1UG": [
+          "36195",
+          [
+            [
+              21,
+              "TR",
+              "151 Loomis Laboratory",
+              13,
+              [
+                "Wang, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Examines statistical packages, numerical analysis for linear and nonlinear models, graphics, and random number generation and Monte Carlo methods.",
+      []
+    ],
+    "STAT 420": [
+      "Methods of Applied Statistics",
+      {
+        "1GR": [
+          "46308",
+          [
+            [
+              2,
+              "TR",
+              "2 Education Building",
+              8,
+              [
+                "Jia, W"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "1UG": [
+          "46320",
+          [
+            [
+              2,
+              "TR",
+              "2 Education Building",
+              8,
+              [
+                "Jia, W"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "OLG": [
+          "69352",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Yu, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "OLU": [
+          "69351",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Yu, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Systematic, calculus-based coverage of the more widely used methods of applied statistics, including simple and multiple regression, correlation, analysis of variance and covariance, multiple comparisons, goodness of fit tests, contingency tables, nonparametric procedures, and power of tests; emphasizes when and why various tests are appropriate and how they are used.",
+      []
+    ],
+    "STAT 430": [
+      "Topics in Applied Statistics",
+      {
+        "PMG": [
+          "69375",
+          [
+            [
+              16,
+              "TR",
+              "3101 Sidney Lu Mech Engr Bldg",
+              4,
+              [
+                "Martinez Vargas, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "PMU": [
+          "69376",
+          [
+            [
+              16,
+              "TR",
+              "3101 Sidney Lu Mech Engr Bldg",
+              4,
+              [
+                "Martinez Vargas, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Formulation and analysis of mathematical models for random phenomena; extensive involvement with the analysis of real data; and instruction in statistical and computing techniques as needed.",
+      []
+    ],
+    "STAT 429": [
+      "Time Series Analysis",
+      {
+        "1GR": [
+          "72136",
+          [
+            [
+              21,
+              "TR",
+              "4039 Campus Instructional Facility",
+              9,
+              [
+                "Lee, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "1UG": [
+          "72137",
+          [
+            [
+              21,
+              "TR",
+              "4039 Campus Instructional Facility",
+              9,
+              [
+                "Lee, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Studies theory and data analysis for time series; examines auto-regressive moving average model building and statistical techniques; and discusses spectral model building and statistical analysis using windowed periodograms and Fast Fourier Transformations.",
+      []
+    ],
+    "STAT 431": [
+      "Applied Bayesian Analysis",
+      {
+        "1GR": [
+          "67116",
+          [
+            [
+              24,
+              "MWF",
+              "2039 Campus Instructional Facility",
+              9,
+              [
+                "Park, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "1UG": [
+          "67117",
+          [
+            [
+              24,
+              "MWF",
+              "2039 Campus Instructional Facility",
+              9,
+              [
+                "Park, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to the concepts and methodology of Bayesian statistics, for students with fundamental knowledge of mathematical statistics. Topics include Bayes' rule, prior and posterior distributions, conjugacy, Bayesian point estimates and intervals, Bayesian hypothesis testing, noninformative priors, practical Markov chain Monte Carlo, hierarchical models and model graphs, and more advanced topics as time permits. Implementations in R and specialized simulation software.",
+      []
+    ],
+    "STAT 437": [
+      "Unsupervised Learning",
+      {
+        "1GR": [
+          "75750",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Ellison, T"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              26,
+              "MWF",
+              "ONLINE",
+              0,
+              [
+                "Ellison, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          19,
+          0,
+          [],
+          -1
+        ],
+        "1UG": [
+          "75751",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Ellison, T"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              26,
+              "MWF",
+              "ONLINE",
+              0,
+              [
+                "Ellison, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          19,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Unsupervised learning is a type of machine learning that deals with finding patterns in data without the use of labeled examples. Two major unsupervised learning techniques, clustering and dimensionality reduction, will be covered with a focus on methods, evaluation metrics, and interpretation of results. The methodologies enable discovery of and inference about hidden insights contained in high-dimensional unlabeled data. Applications on real and artificial datasets are emphasized using programming languages such as Python.",
+      []
+    ],
+    "STAT 440": [
+      "Statistical Data Management",
+      {
+        "1GR": [
+          "58817",
+          [
+            [
+              26,
+              "MWF",
+              "32 Psychology Building",
+              25,
+              [
+                "Kinson, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "1UG": [
+          "58819",
+          [
+            [
+              26,
+              "MWF",
+              "32 Psychology Building",
+              25,
+              [
+                "Kinson, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "2GR": [
+          "56931",
+          [
+            [
+              25,
+              "MWF",
+              "32 Psychology Building",
+              25,
+              [
+                "Kinson, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "2UG": [
+          "56929",
+          [
+            [
+              25,
+              "MWF",
+              "32 Psychology Building",
+              25,
+              [
+                "Kinson, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "The critical elements of data storage, data cleaning, and data extractions that ultimately lead to data analysis are presented. Includes basic theory and methods of databases, auditing and querying databases, as well as data management and data preparation using standard large-scale statistical software. Students will gain competency in the skills required in storing, cleaning, and managing data, all of which are required prior to data analysis.",
+      []
+    ],
+    "STAT 434": [
+      "Survival Analysis",
+      {
+        "1GR": [
+          "72140",
+          [
+            [
+              16,
+              "TR",
+              "112 Transportation Building",
+              2,
+              [
+                "Zhao, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "1UG": [
+          "72141",
+          [
+            [
+              16,
+              "TR",
+              "112 Transportation Building",
+              2,
+              [
+                "Zhao, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to the analysis of time-to-event outcomes. Topics center around three main procedures: the Kaplan-Meier estimator, the log-rank test, and Cox regression. Emphasis on big-picture concepts, basic methodological understanding, and practical implementation in R.",
+      []
+    ],
+    "STAT 432": [
+      "Basics of Statistical Learning",
+      {
+        "1GR": [
+          "67118",
+          [
+            [
+              16,
+              "TR",
+              "160 English Building",
+              3,
+              [
+                "Dayanikli, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "1UG": [
+          "67119",
+          [
+            [
+              16,
+              "TR",
+              "160 English Building",
+              3,
+              [
+                "Dayanikli, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "2GR": [
+          "75741",
+          [
+            [
+              1,
+              "TR",
+              "160 English Building",
+              3,
+              [
+                "Dayanikli, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "2UG": [
+          "75742",
+          [
+            [
+              1,
+              "TR",
+              "160 English Building",
+              3,
+              [
+                "Dayanikli, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Topics in supervised and unsupervised learning are covered, including logistic regression, support vector machines, classification trees and nonparametric regression. Model building and feature selection are discussed for these techniques, with a focus on regularization methods, such as lasso and ridge regression, as well as methods for model selection and assessment using cross validation. Cluster analysis and principal components analysis are introduced as examples of unsupervised learning.",
+      []
+    ],
+    "STAT 443": [
+      "Professional Statistics",
+      {
+        "1GR": [
+          "70357",
+          [
+            [
+              25,
+              "MWF",
+              "2039 Campus Instructional Facility",
+              9,
+              [
+                "Glosemeyer, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "1UG": [
+          "70358",
+          [
+            [
+              25,
+              "MWF",
+              "2039 Campus Instructional Facility",
+              9,
+              [
+                "Glosemeyer, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "This project-based course emphasizes written, visual, and oral communication of statistical results and conclusions. An introduction to statistical consulting is also provided. Additional topics include introductions to statistical methodologies in industry and aspects of careers in statistics.",
+      []
+    ],
+    "STAT 463": [
+      "Baseball Analytics: Data Science and Statistical Modeling with Baseball Data",
+      {
+        "DEG": [
+          "78153",
+          [
+            [
+              16,
+              "TR",
+              "2039 Campus Instructional Facility",
+              9,
+              [
+                "Eck, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "DEU": [
+          "78154",
+          [
+            [
+              16,
+              "TR",
+              "2039 Campus Instructional Facility",
+              9,
+              [
+                "Eck, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Statistical and data science techniques for baseball analytics, focusing on player evaluation, performance metrics, and modeling team wins. Emphasis is placed on data transformation, visualization, and predictive modeling. While baseball is the primary case study, the quantitative methods taught are broadly applicable to data science, business analytics, and performance evaluation across industries. A background in baseball is not required.",
+      []
+    ],
+    "STAT 433": [
+      "Stochastic Processes",
+      {
+        "1GR": [
+          "70527",
+          [
+            [
+              2,
+              "TR",
+              "3025 Campus Instructional Facility",
+              9,
+              [
+                "Fellouris, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "1UG": [
+          "70528",
+          [
+            [
+              2,
+              "TR",
+              "3025 Campus Instructional Facility",
+              9,
+              [
+                "Fellouris, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "A stochastic process is a random process that represents the evolution of some system over time. Topics may include discrete-time and continuous-time Markov chains, birth-and-death chains, branching chains, stationary distributions, random walks, Markov pure jump processes, birth-and-death processes, renewal processes, Poisson process, queues, second order processes, Brownian motion (Wiener process), and Ito's lemma.",
+      []
+    ],
+    "STAT 447": [
+      "Data Science Programming Methods",
+      {
+        "OGR": [
+          "74711",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Eddelbuettel, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "OUG": [
+          "74712",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Eddelbuettel, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "The field of data science is revolutionizing science and industries. Work across many fields is becoming more data driven, affecting available jobs and required skills. Increasing amounts of data, along with novel ways of analyzing them, lead the economy as well as society and daily life to become more data-dependent. This course aims to provide the principal foundations to working with data at scale. We will cover shell programming, git version control, SQL basics, a lot of R, and some more advanced topics such as Docker and some C++.",
+      []
+    ],
+    "STAT 448": [
+      "Advanced Data Analysis",
+      {
+        "1GR": [
+          "48345",
+          [
+            [
+              22,
+              "MWF",
+              "3101 Sidney Lu Mech Engr Bldg",
+              4,
+              [
+                "Bravo De Guenni, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "1UG": [
+          "67122",
+          [
+            [
+              22,
+              "MWF",
+              "3101 Sidney Lu Mech Engr Bldg",
+              4,
+              [
+                "Bravo De Guenni, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Several of the most widely used techniques of data analysis are discussed with an emphasis on statistical computing. Topics include linear regression, analysis of variance, generalized linear models, and analysis of categorical data. In addition, an introduction to data mining is provided considering classification, model building, decision trees, and cluster analysis.",
+      []
+    ],
+    "STAT 510": [
+      "Mathematical Statistics",
+      {
+        "A1": [
+          "57004",
+          [
+            [
+              21,
+              "TR",
+              "218 Ceramics Building",
+              35,
+              [
+                "Chronopoulou, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Provides a graduate level foundation in fundamental mathematical statistics topics including order statistics, exponential families, sufficiency, Rao-Blackwell theorem, Cramer-Rao lower bound, point estimation, hypothesis testing and interval estimation, likelihood and Bayesian methods, and large-sample asymptotics.",
+      []
+    ],
+    "STAT 525": [
+      "Topics in Computational Statistics",
+      {
+        "A1": [
+          "48347",
+          [
+            [
+              14,
+              "MWF",
+              "1002 Lincoln Hall",
+              19,
+              [
+                "Zhou, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Various topics in computational statistics, such as optimization, Monte Carlo methods, Bayesian computation, and machine learning.",
+      []
+    ],
+    "STAT 542": [
+      "Statistical Learning",
+      {
+        "A1": [
+          "61880",
+          [
+            [
+              25,
+              "MWF",
+              "3025 Campus Instructional Facility",
+              9,
+              [
+                "Liu, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Modern techniques of predictive modeling, classification, and clustering are discussed. Examples of these are linear regression, nonparametric regression, kernel methods, regularization, cluster analysis, classification trees, neural networks, boosting, discrimination, support vector machines, and model selection. Applications are discussed as well as computation and theory.",
+      []
+    ],
+    "STAT 541": [
+      "Advanced Predictive Analytics",
+      {
+        "PA": [
+          "69173",
+          [
+            [
+              23,
+              "WF",
+              "215 Gregory Hall",
+              5,
+              [
+                "Quan, F"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as ASRM 555. See ASRM 555.",
+      []
+    ],
+    "STAT 530": [
+      "Bioinformatics",
+      {
+        "A1": [
+          "61912",
+          [
+            [
+              1,
+              "TR",
+              "136 Loomis Laboratory",
+              13,
+              [
+                "Zhao, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as ANSC 543, CHBE 571, and MCB 571. See CHBE 571.",
+      []
+    ],
+    "STAT 551": [
+      "Theory of Probability I",
+      {
+        "P1": [
+          "38175",
+          [
+            [
+              25,
+              "MWF",
+              "307 David Kinley Hall",
+              36,
+              [
+                "Cho, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as MATH 561. See MATH 561.",
+      []
+    ],
+    "STAT 528": [
+      "Advanced Regression Analysis II",
+      {
+        "A1": [
+          "72335",
+          [
+            [
+              2,
+              "TR",
+              "137 Henry Administration Bldg",
+              6,
+              [
+                "Eck, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "An advanced (graduate-level) introduction to generalized linear models and categorical data analysis with applications to analyzing data from disciplines such as biostatistics, economics, evolutionary biology, and medicine. The course will introduce classical techniques as well as modern methods. A strong emphasis will be placed on statistical properties of presented methods as well as data analysis practice and critical statistical thinking. Practical advantages, limitations, and comparisons of methods will be discussed.",
+      []
+    ],
+    "STAT 543": [
+      "Appl. Multivariate Statistics",
+      {
+        "A": [
+          "61172",
+          [
+            [
+              72,
+              "M",
+              "M205 Turner Hall",
+              0,
+              [
+                "Monteverde Dominguez, E"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              95,
+              "MW",
+              "W223 Turner Hall",
+              0,
+              [
+                "Monteverde Dominguez, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as CPSC 543. See CPSC 543.",
+      []
+    ],
+    "STAT 575": [
+      "Large Sample Theory",
+      {
+        "A1": [
+          "56933",
+          [
+            [
+              22,
+              "MWF",
+              "1060 Lincoln Hall",
+              19,
+              [
+                "Zhou, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Limiting distribution of maximum likelihood estimators, likelihood ratio test statistics, U-statistics, M-, L-, and R-estimators, nonparametric test statistics, Von Mises differentiable statistical functions; asymptotic relative efficiencies; asymptotic expansions.",
+      []
+    ],
+    "STAT 578": [
+      "Topics in Statistics",
+      {
+        "DSO": [
+          "45000",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Park, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "May be repeated if topics vary. Prerequisite: Consent of instructor.",
+      []
+    ],
+    "STAT 590": [
+      "Individual Study and Research",
+      {
+        "": [
+          "10198",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Directed reading and research.",
+      []
+    ],
+    "STAT 587": [
+      "Hierarchical Linear Models",
+      {
+        "A": [
+          "44616",
+          [
+            [
+              30,
+              "MW",
+              "22 Education Building",
+              8,
+              [
+                "Camargo Salamanca, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as PSYC 587 and EPSY 587. See EPSY 587.",
+      []
+    ],
+    "STAT 593": [
+      "STAT Internship",
+      {
+        "CRD": [
+          "51687",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Chronopoulou, A",
+                "Glosemeyer, D",
+                "Lee, H",
+                "Unger, D",
+                "Zhu, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "ZRO": [
+          "54974",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Chronopoulou, A",
+                "Glosemeyer, D",
+                "Lee, H",
+                "Unger, D",
+                "Zhu, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Supervised, off-campus experience in a field in which statistical science plays an important role.",
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "1300 - 1540",
+      "1400 - 1520",
+      "1100 - 1220",
+      "0000 - 0000",
+      "1530 - 1650",
+      "0930 - 1210",
+      "1400 - 1640",
+      "0900 - 1140",
+      "1600 - 1840",
+      "1700 - 1940",
+      "1400 - 1700",
+      "1700 - 1820",
+      "1130 - 1250",
+      "0900 - 1150",
+      "1200 - 1250",
+      "1300 - 1350",
+      "1230 - 1350",
+      "1000 - 1050",
+      "0900 - 1020",
+      "0800 - 0850",
+      "0900 - 0950",
+      "0930 - 1050",
+      "1100 - 1150",
+      "1030 - 1150",
+      "1400 - 1450",
+      "1500 - 1550",
+      "1600 - 1650",
+      "1200 - 1320",
+      "1500 - 1620",
+      "1630 - 1750",
+      "1400 - 1550",
+      "1600 - 1750",
+      "1930 - 2050",
+      "1300 - 1420",
+      "0930 - 1020",
+      "0800 - 0920",
+      "1700 - 1950",
+      "1100 - 1250",
+      "1700 - 1750",
+      "0800 - 1050",
+      "1530 - 1820",
+      "1300 - 1550",
+      "0930 - 1220",
+      "1830 - 2020",
+      "1500 - 1650",
+      "1400 - 1720",
+      "0900 - 1220",
+      "1300 - 1620",
+      "1100 - 1450",
+      "1500 - 1850",
+      "1200 - 1450",
+      "1400 - 1650",
+      "1600 - 1850",
+      "0900 - 1050",
+      "1000 - 1150",
+      "1000 - 1120",
+      "0800 - 0950",
+      "0800 - 1150",
+      "1300 - 1520",
+      "1530 - 1645",
+      "1100 - 1215",
+      "1400 - 1515",
+      "1700 - 1815",
+      "1830 - 1945",
+      "0930 - 1045",
+      "1230 - 1345",
+      "1530 - 1620",
+      "1630 - 1720",
+      "1600 - 1740",
+      "1200 - 1350",
+      "1800 - 1950",
+      "1330 - 1450",
+      "1300 - 1450",
+      "1600 - 1720",
+      "1830 - 1950",
+      "1300 - 1750",
+      "1700 - 1850",
+      "1300 - 1650",
+      "1230 - 1320",
+      "1900 - 2050",
+      "1530 - 1720",
+      "1800 - 2100",
+      "1800 - 2050",
+      "0900 - 1120",
+      "1800 - 1920",
+      "1630 - 1920",
+      "1200 - 1650",
+      "1100 - 1330",
+      "0930 - 1200",
+      "1530 - 1800",
+      "1000 - 2000",
+      "1200 - 1550",
+      "1300 - 1430",
+      "1830 - 2130",
+      "1600 - 1700",
+      "1430 - 1550",
+      "1830 - 2100",
+      "1630 - 1745",
+      "1630 - 1730",
+      "1000 - 1250",
+      "1600 - 1715",
+      "1730 - 1845",
+      "1700 - 1800",
+      "1300 - 1415",
+      "1500 - 1720",
+      "1300 - 1600",
+      "1400 - 1630",
+      "1000 - 1220",
+      "1430 - 1820",
+      "1500 - 1700",
+      "0900 - 1030",
+      "1430 - 1630",
+      "1035 - 1150",
+      "1700 - 1900",
+      "1400 - 1620",
+      "1450 - 1735",
+      "1145 - 1305",
+      "1530 - 1750",
+      "1500 - 1750",
+      "1100 - 1350",
+      "0830 - 0950",
+      "1100 - 1230",
+      "1600 - 1800",
+      "1800 - 2000",
+      "1900 - 1930",
+      "0730 - 1530",
+      "1530 - 1550",
+      "1000 - 1700",
+      "1600 - 1730",
+      "1730 - 1850",
+      "1630 - 1800",
+      "1100 - 1320",
+      "1230 - 1430",
+      "1500 - 1730",
+      "1200 - 1430",
+      "1000 - 1200",
+      "1700 - 2000",
+      "1730 - 2030",
+      "1730 - 2020",
+      "0900 - 1200",
+      "1730 - 2130",
+      "0900 - 1600",
+      "1900 - 2200",
+      "1900 - 1950",
+      "1500 - 1615",
+      "0800 - 1220",
+      "1700 - 1920",
+      "1630 - 1910",
+      "1600 - 2050",
+      "0830 - 1350",
+      "0930 - 1040",
+      "1500 - 1600",
+      "1600 - 1820",
+      "0900 - 1145",
+      "1300 - 1545",
+      "1230 - 1520",
+      "1430 - 1620",
+      "1010 - 1100",
+      "1115 - 1205",
+      "1230 - 1420",
+      "1800 - 1850",
+      "1800 - 2020",
+      "0830 - 1120",
+      "1530 - 1710",
+      "1900 - 2020",
+      "1900 - 2030",
+      "1000 - 1130",
+      "1000 - 1100",
+      "0800 - 0940",
+      "0900 - 1040",
+      "1200 - 1340",
+      "1000 - 1115",
+      "1330 - 1620",
+      "0930 - 1120",
+      "1130 - 1320",
+      "1030 - 1120",
+      "1430 - 1520",
+      "1130 - 1220",
+      "1330 - 1445",
+      "1200 - 1259",
+      "1030 - 1145",
+      "1330 - 1520",
+      "1430 - 1545",
+      "0900 - 1015",
+      "1330 - 1420",
+      "1325 - 1445",
+      "1715 - 1830",
+      "1729 - 1920",
+      "0830 - 1020",
+      "1500 - 1659",
+      "1300 - 1459",
+      "0850 - 1020",
+      "1730 - 1930",
+      "1330 - 1535",
+      "0930 - 1135",
+      "1700 - 1930",
+      "0900 - 1159",
+      "0930 - 1130",
+      "0930 - 1129",
+      "0915 - 1159",
+      "1600 - 1859",
+      "1600 - 1810",
+      "1700 - 1859",
+      "1500 - 1629",
+      "1800 - 1915",
+      "1600 - 1759",
+      "1330 - 1615",
+      "1500 - 1555",
+      "1330 - 1559",
+      "1330 - 1640",
+      "1330 - 1630",
+      "1345 - 1645",
+      "1630 - 1820",
+      "1730 - 1920",
+      "0900 - 1700",
+      "0900 - 1035",
+      "1325 - 1450",
+      "1500 - 1745",
+      "1500 - 1729",
+      "1501 - 1745",
+      "1330 - 1429",
+      "1745 - 1925",
+      "1800 - 2005",
+      "1740 - 2000",
+      "1700 - 1830",
+      "1330 - 1529",
+      "1000 - 1159",
+      "1030 - 1159",
+      "1700 - 1910",
+      "1010 - 1125",
+      "0900 - 1000",
+      "0800 - 1030",
+      "1830 - 2030",
+      "1200 - 1330",
+      "1800 - 1930",
+      "1320 - 1450",
+      "1400 - 1750",
+      "0900 - 1250",
+      "1000 - 1350",
+      "1330 - 1500",
+      "0600 - 0720",
+      "0800 - 0930",
+      "1830 - 2050",
+      "1100 - 1300",
+      "1730 - 1820",
+      "0930 - 1100",
+      "1400 - 1530",
+      "1500 - 1630",
+      "1730 - 1900",
+      "1930 - 2130",
+      "1000 - 1300",
+      "1900 - 2150",
+      "1200 - 1300",
+      "1700 - 2050",
+      "1800 - 1900",
+      "0900 - 1300",
+      "1900 - 2100",
+      "0600 - 0750",
+      "1200 - 1315",
+      "1100 - 1200",
+      "1400 - 1600",
+      "1430 - 1530",
+      "2000 - 2050",
+      "1130 - 1300",
+      "0930 - 1150",
+      "1330 - 1550",
+      "0900 - 1130",
+      "0800 - 0915",
+      "1800 - 2030",
+      "1400 - 1540",
+      "1200 - 1420",
+      "1500 - 1800",
+      "1300 - 1500",
+      "1945 - 2115",
+      "1500 - 1645",
+      "1300 - 1445",
+      "1800 - 1945",
+      "1830 - 2000"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Laboratory",
+      "Online Lecture",
+      "Lecture",
+      "Online",
+      "Independent Study",
+      "Lecture-Discussion",
+      "Internship",
+      "Studio",
+      "Travel",
+      "Conference",
+      "Seminar",
+      "Discussion/ Recitation",
+      "Online Discussion",
+      "Online Lab",
+      "Laboratory-Discussion",
+      "Research",
+      "Practice",
+      "Study Abroad",
+      "Quiz",
+      "Online Lecture Discussion",
+      "Packaged Section"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.106778040727896,
+        "long": -88.2194617156191
+      },
+      {
+        "lat": 40.11171215875622,
+        "long": -88.22530849701589
+      },
+      {
+        "lat": 40.107534,
+        "long": -88.2281548
+      },
+      {
+        "lat": 40.110811306674734,
+        "long": -88.2248467072371
+      },
+      {
+        "lat": 40.105732,
+        "long": -88.2281018
+      },
+      {
+        "lat": 40.1083446,
+        "long": -88.2282555
+      },
+      {
+        "lat": 40.1131317,
+        "long": -88.2264552
+      },
+      {
+        "lat": 40.1020773,
+        "long": -88.2296394
+      },
+      {
+        "lat": 40.11246109008789,
+        "long": -88.22831726074219
+      },
+      {
+        "lat": 40.11380515934119,
+        "long": -88.22490788390387
+      },
+      {
+        "lat": 40.108419421661715,
+        "long": -88.2261156301609
+      },
+      {
+        "lat": 40.1072225,
+        "long": -88.2262016
+      },
+      {
+        "lat": 40.1110937,
+        "long": -88.2232348
+      },
+      {
+        "lat": 40.103587,
+        "long": -88.230606
+      },
+      {
+        "lat": 40.1108856,
+        "long": -88.2269806
+      },
+      {
+        "lat": 40.1109722,
+        "long": -88.2282631
+      },
+      {
+        "lat": 40.107811,
+        "long": -88.2260761
+      },
+      {
+        "lat": 40.10944320239664,
+        "long": -88.22602522743233
+      },
+      {
+        "lat": 40.1065684,
+        "long": -88.2281746
+      },
+      {
+        "lat": 40.10628,
+        "long": -88.22621
+      },
+      {
+        "lat": 40.105587640130146,
+        "long": -88.22025111416733
+      },
+      {
+        "lat": 40.103620555545135,
+        "long": -88.22982720445013
+      },
+      {
+        "lat": 40.1035872,
+        "long": -88.2306061
+      },
+      {
+        "lat": 40.10593795776367,
+        "long": -88.2270736694336
+      },
+      {
+        "lat": 40.10755766472843,
+        "long": -88.22995430218522
+      },
+      {
+        "lat": 40.102726858556835,
+        "long": -88.23259991223857
+      },
+      {
+        "lat": 40.101862,
+        "long": -88.231737
+      },
+      {
+        "lat": 40.1149296,
+        "long": -88.2280589
+      },
+      {
+        "lat": 40.108570819242026,
+        "long": -88.22518453938676
+      },
+      {
+        "lat": 40.1047599,
+        "long": -88.2319514
+      },
+      {
+        "lat": 40.092875494224195,
+        "long": -88.22082220247309
+      },
+      {
+        "lat": 40.11397164321797,
+        "long": -88.2265192685827
+      },
+      {
+        "lat": 40.104794,
+        "long": -88.224264
+      },
+      {
+        "lat": 40.10783362157985,
+        "long": -88.22476189569741
+      },
+      {
+        "lat": 40.111691,
+        "long": -88.2242511
+      },
+      {
+        "lat": 40.1035833,
+        "long": -88.228405
+      },
+      {
+        "lat": 40.1033599,
+        "long": -88.2292111
+      },
+      {
+        "lat": 40.103627234541904,
+        "long": -88.22601765311099
+      },
+      {
+        "lat": 40.10127390836906,
+        "long": -88.2226073524728
+      },
+      {
+        "lat": 40.0995003,
+        "long": -88.223104
+      },
+      {
+        "lat": 40.11085653938169,
+        "long": -88.22609810215927
+      },
+      {
+        "lat": 40.1149521,
+        "long": -88.2267561
+      },
+      {
+        "lat": 40.10802885201532,
+        "long": -88.22239700364068
+      },
+      {
+        "lat": 40.11180304465921,
+        "long": -88.22613003543475
+      },
+      {
+        "lat": 40.1022093629303,
+        "long": -88.22800864058527
+      },
+      {
+        "lat": 40.10623714823253,
+        "long": -88.2232659093846
+      },
+      {
+        "lat": 40.10039170750639,
+        "long": -88.21813070187608
+      },
+      {
+        "lat": 40.1034533,
+        "long": -88.2327596
+      },
+      {
+        "lat": 40.1028373,
+        "long": -88.2251326
+      },
+      {
+        "lat": 40.1048704,
+        "long": -88.2229036
+      },
+      {
+        "lat": 40.10099,
+        "long": -88.23159
+      },
+      {
+        "lat": 40.1116416,
+        "long": -88.2248868
+      },
+      {
+        "lat": 40.10764262805109,
+        "long": -88.23074052515514
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}
