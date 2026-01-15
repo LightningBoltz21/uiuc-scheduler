@@ -90,36 +90,6 @@
       "[IAI Code: S1901N] Presents the fundamental areas of anthropological analysis through a series of comparative cases that emphasize social and cultural relations in global contexts. Directs attention to the anthropological history of global empires and colonial states, their cultural exchanges, and contemporary studies of culture, society, and globalization.",
       []
     ],
-    "ANTH 246": [
-      "Forensic Science",
-      {
-        "ONL": [
-          "10143",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Reich, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "History and theory underlying methods used in forensic science. Topics include the courtroom, the units of a crime laboratory, methods of securing and investigating a crime scene, and the analysis of evidence collected from a crime scene such as blood, fibers, hair, DNA, and fingerprints.",
-      []
-    ],
     "ANTH 180": [
       "The Archaeology of Death",
       {
@@ -148,6 +118,36 @@
       },
       [],
       "Cross-cultural introduction to the celebration of death across time and space. Examines the anthropological and archaeological literature on death, particularly in terms of death ritual and burial practices. Students study popular films on death in different cultures.",
+      []
+    ],
+    "ANTH 246": [
+      "Forensic Science",
+      {
+        "ONL": [
+          "10143",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Reich, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "History and theory underlying methods used in forensic science. Topics include the courtroom, the units of a crime laboratory, methods of securing and investigating a crime scene, and the analysis of evidence collected from a crime scene such as blood, fibers, hair, DNA, and fingerprints.",
       []
     ],
     "ASTR 100": [
@@ -240,66 +240,6 @@
       "Most extreme manifestations of weather and climate are analyzed in terms of their physical basis and their historical, economic and human consequences. Emphasis is placed on the interplay between technological advances, the evolution of meteorology as a science, and the impacts of extreme weather (winter storms, floods, severe thunderstorms, hurricanes, El Nino). Technological advances include satellites, weather radars and profilers, and computer models used for weather prediction.",
       []
     ],
-    "BADM 380": [
-      "International Business",
-      {
-        "OL": [
-          "10017",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Bucheli, M"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Introduces the field of international business and management. Examines the economic, political, and legal environments of international business. Analyzes differences in financial management, marketing, and management practices for firms doing business abroad.",
-      []
-    ],
-    "BADM 300": [
-      "The Legal Environment of Bus",
-      {
-        "OL": [
-          "10013",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Noonan, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Introduction to law and the legal system, litigation, contracts, business organizations, intellectual property, employment law and governmental regulation of business.",
-      []
-    ],
     "BADM 310": [
       "Mgmt and Organizational Beh",
       {
@@ -390,11 +330,11 @@
       "Emphasizes the concepts of planning, organization, control, and decision making as they are applied in the management of the marketing function. Provides an overview of aspects of the marketing discipline.",
       []
     ],
-    "CLCV 115": [
-      "Mythology of Greece and Rome",
+    "BADM 300": [
+      "The Legal Environment of Bus",
       {
-        "A": [
-          "10083",
+        "OL": [
+          "10013",
           [
             [
               0,
@@ -402,7 +342,7 @@
               "ONLINE",
               0,
               [
-                "Boyd, H"
+                "Noonan, J"
               ],
               -1,
               -1,
@@ -417,7 +357,37 @@
         ]
       },
       [],
-      "Studies the major myths of Greece and Rome and their impact upon later art, music, and literature. Shares two hours of lecture with CLCV 111; additional hour of lecture-discussion for a closer analysis of topics.",
+      "Introduction to law and the legal system, litigation, contracts, business organizations, intellectual property, employment law and governmental regulation of business.",
+      []
+    ],
+    "BADM 380": [
+      "International Business",
+      {
+        "OL": [
+          "10017",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Bucheli, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduces the field of international business and management. Examines the economic, political, and legal environments of international business. Analyzes differences in financial management, marketing, and management practices for firms doing business abroad.",
       []
     ],
     "CLCV 102": [
@@ -448,6 +418,36 @@
       },
       [],
       "Introduction to the study of Greek and Latin medical terms in various medical fields and to the linguistic patterns governing the combination of various roots through practical application of usage.",
+      []
+    ],
+    "CLCV 115": [
+      "Mythology of Greece and Rome",
+      {
+        "A": [
+          "10083",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Boyd, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Studies the major myths of Greece and Rome and their impact upon later art, music, and literature. Shares two hours of lecture with CLCV 111; additional hour of lecture-discussion for a closer analysis of topics.",
       []
     ],
     "CMN 210": [
@@ -508,37 +508,6 @@
       },
       [],
       "[IAI Code: F1906] Overview of major works, figures, and trends responsible for shaping dance as an evolving contemporary art form. The course will have lecture, viewing, discussion and experiential (studio participation) components.",
-      []
-    ],
-    "ECON 103": [
-      "Macroeconomic Principles",
-      {
-        "ONL": [
-          "10020",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Simon, P",
-                "Vazquez, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "[IAI Code: S3901] Introduction to the theory of determination of total or aggregate income, employment, output, price levels, and the role of money in the economy. Primary emphasis on monetary and fiscal policy, inflation, unemployment, economic growth, and international economics.",
       []
     ],
     "ECON 102": [
@@ -603,6 +572,37 @@
       "Introduction of basic concepts in statistics including the presentation of data, descriptive statistics, probability theory, discrete and continuous distributions, sampling distributions, estimation, and hypothesis testing. The approach of the class includes both learning the concepts behind basic statistics and also how to apply these concepts in \"real-life\" situations. Utilizes a practical project format. To complete the Business Statistics sequence, students must also complete ECON 203.",
       []
     ],
+    "ECON 103": [
+      "Macroeconomic Principles",
+      {
+        "ONL": [
+          "10020",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Simon, P",
+                "Vazquez, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "[IAI Code: S3901] Introduction to the theory of determination of total or aggregate income, employment, output, price levels, and the role of money in the economy. Primary emphasis on monetary and fiscal policy, inflation, unemployment, economic growth, and international economics.",
+      []
+    ],
     "ENGL 360": [
       "Environmental Writing",
       {
@@ -631,66 +631,6 @@
       },
       [],
       null,
-      []
-    ],
-    "ESE 117": [
-      "The Oceans",
-      {
-        "A": [
-          "10050",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Pettijohn, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as GEOL 117. See GEOL 117.",
-      []
-    ],
-    "ESE 360": [
-      "Environmental Writing",
-      {
-        "A": [
-          "10076",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Tomkin, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Equips students to write about the environment for various audiences, with a focus on specific current efforts to promote sustainability on the Urbana-Champaign campus. We will practice effective techniques for each stage of the writing process-from defining topics, to gathering information, to crafting active, engaging prose. Readings will include models of effective environmental writing and \"how to\" pieces by experts. Research will include visits to campus sites and student-conducted interviews with subjects.",
       []
     ],
     "ESE 118": [
@@ -723,11 +663,11 @@
       "Same as GEOL 118 and GLBL 118. See GEOL 118.",
       []
     ],
-    "ESE 111": [
-      "Emergence of Life",
+    "ESE 117": [
+      "The Oceans",
       {
         "A": [
-          "10075",
+          "10050",
           [
             [
               0,
@@ -735,7 +675,7 @@
               "ONLINE",
               0,
               [
-                "Christie, M"
+                "Pettijohn, C"
               ],
               -1,
               -1,
@@ -750,7 +690,7 @@
         ]
       },
       [],
-      "Same as GEOL 111. See GEOL 111.",
+      "Same as GEOL 117. See GEOL 117.",
       []
     ],
     "ESE 120": [
@@ -783,6 +723,66 @@
       "Same as ATMS 120. See ATMS 120.",
       []
     ],
+    "ESE 360": [
+      "Environmental Writing",
+      {
+        "A": [
+          "10076",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Tomkin, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Equips students to write about the environment for various audiences, with a focus on specific current efforts to promote sustainability on the Urbana-Champaign campus. We will practice effective techniques for each stage of the writing process-from defining topics, to gathering information, to crafting active, engaging prose. Readings will include models of effective environmental writing and \"how to\" pieces by experts. Research will include visits to campus sites and student-conducted interviews with subjects.",
+      []
+    ],
+    "ESE 111": [
+      "Emergence of Life",
+      {
+        "A": [
+          "10075",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Christie, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as GEOL 111. See GEOL 111.",
+      []
+    ],
     "GEOL 111": [
       "Emergence of Life",
       {
@@ -811,6 +811,36 @@
       },
       [],
       "Examines important theoretical and practical questions regarding the origin and evolution of life, as well as the search for life elsewhere in the universe. Uses the pioneering work of Carl Woese, whose \"Tree of Life\" revolutionized our understanding of the fundamental structure and evolutionary relatedness of all living entities on Earth.",
+      []
+    ],
+    "GEOL 118": [
+      "Natural Disasters",
+      {
+        "A": [
+          "10007",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Austin, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduces the nature, causes, risks, effects, and prediction of natural disasters including earthquakes, volcanoes, landslides, subsidence, global climate change, severe weather, coastal erosion, floods, mass extinctions, and meteorite impacts; covers scientific principles and case histories of natural disasters as well as human responses (societal impact, mitigation strategies, and public policy).",
       []
     ],
     "GEOL 117": [
@@ -843,11 +873,11 @@
       "Integrated introduction to oceanography and marine geology and geophysics. Topics include ocean-basin formation and evolution (in the context of plate tectonics), ocean ecology, the hydrologic cycle, water chemistry, currents and waves, the interaction of oceans with climate, coastal hazards, resources, pollution, and the Law of the Sea. Course is oriented toward students not majoring in science.",
       []
     ],
-    "GEOL 118": [
+    "GLBL 118": [
       "Natural Disasters",
       {
         "A": [
-          "10007",
+          "10009",
           [
             [
               0,
@@ -870,7 +900,7 @@
         ]
       },
       [],
-      "Introduces the nature, causes, risks, effects, and prediction of natural disasters including earthquakes, volcanoes, landslides, subsidence, global climate change, severe weather, coastal erosion, floods, mass extinctions, and meteorite impacts; covers scientific principles and case histories of natural disasters as well as human responses (societal impact, mitigation strategies, and public policy).",
+      "Same as ESE 118 and GEOL 118. See GEOL 118.",
       []
     ],
     "GLBL 100": [
@@ -933,36 +963,6 @@
       "Introduction to the foundations of interdisciplinary social science research. Topic include understanding the purpose for research, identifying researchable issues, finding evaluating and using sources effectively, recognizing methods associated with different types of data and disciplines, and writing a literature review. Prepares students for course-based research papers and advanced research methods courses. Guest faculty present their Global Studies-relevant research as students (b)log their own research interests.",
       []
     ],
-    "GLBL 118": [
-      "Natural Disasters",
-      {
-        "A": [
-          "10009",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Austin, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as ESE 118 and GEOL 118. See GEOL 118.",
-      []
-    ],
     "GWS 356": [
       "Sex & Gender in Popular Media",
       {
@@ -991,6 +991,36 @@
       },
       [],
       "Same as MACS 356. See MACS 356.",
+      []
+    ],
+    "HIST 100": [
+      "Global History",
+      {
+        "A": [
+          "10144",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Mandala, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Broad introduction to global history, by exploring the global structures and transnational forces that have shaped human history, from the emergence of agriculture and urban centers to our contemporary global village.",
       []
     ],
     "HIST 104": [
@@ -1043,36 +1073,6 @@
       },
       [],
       "What is black music, and how do we know what we think we know about it? Together, we will examine musical creations pioneered by Africans and individuals of African descent over several centuries and across hemispheres. Doing so will allow us to consider the unity of the African Diaspora and its music, and also examine internal differences and diversity. Special focus is given to Latin America and the U.S., but, depending on the semester, we will also read about, listen to, and talk about music and musicians in Asia, Africa, and Europe.",
-      []
-    ],
-    "HIST 100": [
-      "Global History",
-      {
-        "A": [
-          "10144",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Mandala, R"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Broad introduction to global history, by exploring the global structures and transnational forces that have shaped human history, from the emergence of agriculture and urban centers to our contemporary global village.",
       []
     ],
     "HK 271": [
@@ -1133,36 +1133,6 @@
       },
       [],
       "Acquaints students with the medical, psychosocial, vocational, political, and cultural aspects of disability in America. Development and implementation of disability policy by governmental agencies in this country will be examined, and the role of activism and advocacy in securing civil rights for persons with a disability will be explored. Various philosophical and theoretical models for understanding the disability experience will be offered, and course content will include the key historical events that shaped the present conditions of persons with disabilities. Lastly, students will be introduced to an array of service modalities used to address health and adjustment needs of persons with disabilities.",
-      []
-    ],
-    "IS 390": [
-      "Special Topics in Information Studies",
-      {
-        "IIP": [
-          "10113",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Benson, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Directed and supervised investigation of selected topics in information studies that may include among others computers and culture; information policy; community information systems; production, retrieval and evaluation of scientific or social science knowledge; computer-mediated communication; and computer-supported cooperative work.",
       []
     ],
     "IS 229": [
@@ -1253,6 +1223,36 @@
       },
       [],
       "Data visualization is crucial to conveying information drawn from models, observations or investigations. This course will provide an overview of historical and modern techniques for visualizing data, drawing on quantitative, statistical, and network-focused datasets. Topics will include construction of communicative visualizations, the modern software ecosystem of visualization, and techniques for aggregation and interpretation of data through visualization. Particular attention will be paid to the Python ecosystem and multi-dimensional quantitative datasets.",
+      []
+    ],
+    "IS 390": [
+      "Special Topics in Information Studies",
+      {
+        "IIP": [
+          "10113",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Benson, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Directed and supervised investigation of selected topics in information studies that may include among others computers and culture; information policy; community information systems; production, retrieval and evaluation of scientific or social science knowledge; computer-mediated communication; and computer-supported cooperative work.",
       []
     ],
     "JOUR 200": [
@@ -1527,11 +1527,11 @@
       "[IAI Code: S5906N] Provides comparative and historical insights into the problems affecting the developing world by examining social, economic and political changes in Africa, Asia, and Latin America.",
       []
     ],
-    "PSYC 230": [
-      "Perception & Sensory Processes",
+    "PSYC 204": [
+      "Intro to Brain and Cognition",
       {
         "A": [
-          "10061",
+          "10060",
           [
             [
               0,
@@ -1539,7 +1539,7 @@
               "ONLINE",
               0,
               [
-                "Lleras Buetti, S"
+                "Dolcos, S"
               ],
               -1,
               -1,
@@ -1554,7 +1554,7 @@
         ]
       },
       [],
-      "Survey of the experimental psychology of sensory and perceptual processes and behavior; emphasis on the contribution of behavior science to understanding subjective experience of the physical and social environment.",
+      "Introduction to the interdisciplinary field of cognitive neuroscience, which is concerned with how the cognitive systems supporting a broad range of capacities including memory, attention, and social and emotional processing, arise from the functioning of specific brain modules and brain mechanisms. Emphasizes how functional brain imaging and other cognitive neuroscience methods can be brought to bear on answering these questions.",
       []
     ],
     "PSYC 100": [
@@ -1617,11 +1617,11 @@
       "[IAI Code: S6903] Study of the psychological development of the child.",
       []
     ],
-    "PSYC 204": [
-      "Intro to Brain and Cognition",
+    "PSYC 230": [
+      "Perception & Sensory Processes",
       {
         "A": [
-          "10060",
+          "10061",
           [
             [
               0,
@@ -1629,7 +1629,7 @@
               "ONLINE",
               0,
               [
-                "Dolcos, S"
+                "Lleras Buetti, S"
               ],
               -1,
               -1,
@@ -1644,7 +1644,7 @@
         ]
       },
       [],
-      "Introduction to the interdisciplinary field of cognitive neuroscience, which is concerned with how the cognitive systems supporting a broad range of capacities including memory, attention, and social and emotional processing, arise from the functioning of specific brain modules and brain mechanisms. Emphasizes how functional brain imaging and other cognitive neuroscience methods can be brought to bear on answering these questions.",
+      "Survey of the experimental psychology of sensory and perceptual processes and behavior; emphasis on the contribution of behavior science to understanding subjective experience of the physical and social environment.",
       []
     ],
     "REL 110": [
@@ -1813,6 +1813,6 @@
     "finalDates": [],
     "finalTimes": []
   },
-  "updatedAt": "2026-01-14T23:51:09.140Z",
+  "updatedAt": "2026-01-15T04:22:59.405Z",
   "version": 3
 }
