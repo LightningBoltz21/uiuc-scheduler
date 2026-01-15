@@ -37,9 +37,9 @@ function loadCoordinatesFromCSV(): void {
     const line = lines[i].trim();
     if (!line) continue;
 
-    // Parse CSV: "Place ID","Title","Latitude","Longitude"
-    // Handle quoted fields properly
-    const match = line.match(/"([^"]*)","([^"]*)","([^"]*)","([^"]*)"/);
+    // Parse CSV: "Place ID","Title","Latitude","Longitude", "Address"
+    // Handle quoted fields properly with optional spaces after commas
+    const match = line.match(/"([^"]*)"\s*,\s*"([^"]*)"\s*,\s*"([^"]*)"\s*,\s*"([^"]*)"/);
     if (match) {
       const title = match[2].trim();
       const lat = parseFloat(match[3]);
