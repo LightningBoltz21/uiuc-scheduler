@@ -1,43 +1,144 @@
 {
-  "subject": "CW",
-  "scrapedAt": 1768543639657,
-  "courseCount": 19,
+  "subject": "FR",
+  "scrapedAt": 1768543687913,
+  "courseCount": 23,
   "courses": {
-    "CW 202": [
-      "Topics in Creative Writing",
+    "FR 102": [
+      "Elementary French II",
       {
-        "D": [
-          "43372",
+        "B": [
+          "32713",
           [
             [
-              107,
-              "MW",
-              "61 English Building",
-              8,
+              3,
+              "MTWR",
+              "ONLINE",
+              7,
               [
-                "Sanders, T"
+                "Clay, A",
+                "Craig, S"
               ],
               -1,
               -1,
               -1
             ]
           ],
+          4,
           3,
+          0,
+          [],
+          -1
+        ],
+        "C": [
+          "32709",
+          [
+            [
+              4,
+              "MTWR",
+              "1112 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Clay, A",
+                "Wikle, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "D": [
+          "32711",
+          [
+            [
+              5,
+              "MTWR",
+              "221 Gregory Hall",
+              1,
+              [
+                "Clay, A",
+                "Folger, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
           0,
           0,
           [],
           -1
         ],
         "E": [
-          "47060",
+          "32710",
           [
             [
-              103,
-              "MW",
-              "61 English Building",
-              8,
+              7,
+              "MTWR",
+              "170 Wohlers Hall",
+              9,
               [
-                "Sanders, T"
+                "Clay, A",
+                "Guitard, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "E2": [
+          "64702",
+          [
+            [
+              8,
+              "MTWR",
+              "1048 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Clay, A",
+                "Petre, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Continuation of FR 101. Introduces cultural and supplementary enrichment materials; requires online laboratory sessions as in FR 101.",
+      []
+    ],
+    "FR 212": [
+      "Introduction to Cultural Analysis: French Identities",
+      {
+        "A": [
+          "64955",
+          [
+            [
+              13,
+              "MW",
+              "G18 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Gaillard, J"
               ],
               -1,
               -1,
@@ -52,110 +153,351 @@
         ]
       },
       [],
-      "Independent writing projects and examination of literature as the cultural basis of the student's specialized fields.",
+      "Introduction to concepts of and debates on French national identity. Materials are drawn from a multiplicity of media and from many spheres of modern life in France: political, artistic, the everyday, etc. Identification of major resources for the study of culture and analysis of diverse cultural texts. Strengthening of reading, writing and speaking skills in French through a wide range of exercises and projects.",
       []
     ],
-    "CW 100": [
-      "Intro to Creative Writing",
+    "FR 103": [
+      "Intermediate French I",
       {
-        "D": [
-          "70284",
+        "B": [
+          "32714",
           [
             [
-              10,
-              "MW",
-              "135 English Building",
               8,
+              "MTWR",
+              "329 Davenport Hall",
+              5,
               [
-                "Hays, M"
+                "Clay, A",
+                "Zghal, S"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          3,
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "C": [
+          "32715",
+          [
+            [
+              4,
+              "MTWR",
+              "1126 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Clay, A",
+                "Norris, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "D": [
+          "32716",
+          [
+            [
+              5,
+              "MTWR",
+              "316S Mumford Hall",
+              20,
+              [
+                "Clay, A",
+                "Zghal, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Continuation of FR 102. Introduces students to a full range of structures to complete their initial study of the grammatical system; emphasizes the development of all four skills and cultural understanding through readings and audiovisual enrichment materials. Online language laboratory and internet assignments required. Students planning to major or minor in French should take FR 133 in lieu of FR 103.",
+      []
+    ],
+    "FR 104": [
+      "Intermediate French II",
+      {
+        "C": [
+          "32721",
+          [
+            [
+              4,
+              "MTWR",
+              "325 Gregory Hall",
+              1,
+              [
+                "Clay, A",
+                "Peterson, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "D": [
+          "32722",
+          [
+            [
+              5,
+              "MTWR",
+              "174 Wohlers Hall",
+              9,
+              [
+                "Clay, A",
+                "Smith, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "E": [
+          "32723",
+          [
+            [
+              8,
+              "MTWR",
+              "1136 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Clay, A",
+                "Keruskin, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
           0,
           0,
           [],
           -1
         ],
         "F": [
-          "63861",
+          "32724",
           [
             [
-              107,
-              "TR",
-              "303 English Building",
-              8,
+              7,
+              "MTWR",
+              "1118 Literatures, Cultures, & Ling",
+              3,
               [
-                "Williard, J"
+                "Clay, A",
+                "Kenneth, K"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          3,
+          4,
           0,
           0,
           [],
           -1
-        ],
-        "G": [
-          "65948",
+        ]
+      },
+      [],
+      "Continuation of FR 103. Comprehensive grammar review with emphasis on oral expression and the continued development of reading and written skills. Completion satisfies graduation requirement in the College of Liberal Arts and Sciences. Students planning to take advanced French courses should take FR 134 in lieu of FR 104.",
+      []
+    ],
+    "FR 205": [
+      "French in Conversation",
+      {
+        "D2": [
+          "32809",
           [
             [
-              103,
-              "TR",
-              "303 English Building",
-              8,
+              4,
+              "MWF",
+              "G18 Literatures, Cultures, & Ling",
+              3,
               [
-                "Price, J"
+                "Blanchard, L",
+                "Mroz, A"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          3,
+          2,
           0,
           0,
           [],
           -1
-        ],
-        "K": [
-          "75694",
+        ]
+      },
+      [],
+      "Developing speaking and listening skills, focusing on conversation about everyday topics in multiple contexts.",
+      []
+    ],
+    "FR 211": [
+      "Introduction to Literary Studies",
+      {
+        "A": [
+          "66018",
           [
             [
-              59,
+              41,
               "MW",
-              "331 Gregory Hall",
+              "G46 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Mall, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to concepts of modernity and questions of representation, through French texts from the nineteenth through the twenty-first centuries. Analysis of diverse literary forms (poems, plays, narratives), and use of resources for literary, historical and cultural research. Strengthening of reading, writing and speaking skills in French through research projects, writing assignments and revisions, and oral presentations.",
+      []
+    ],
+    "FR 101": [
+      "Elementary French I",
+      {
+        "B": [
+          "32707",
+          [
+            [
+              3,
+              "MTWR",
+              "1128 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Bunch, C",
+                "Clay, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "D": [
+          "32706",
+          [
+            [
+              5,
+              "MTWR",
+              "1038 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Bunch, C",
+                "Clay, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "E": [
+          "48104",
+          [
+            [
+              7,
+              "MTWR",
+              "1038 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Clay, A",
+                "Norris, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Four-skill course leading toward elementary proficiency in oral expression, listening comprehension, reading, writing, and cultural understanding. Online language laboratory and internet assignments required.",
+      []
+    ],
+    "FR 207": [
+      "Writing and Grammar Workshop",
+      {
+        "B": [
+          "32810",
+          [
+            [
+              5,
+              "MW",
+              "329 Gregory Hall",
               1,
               [
-                "Johnson, C"
+                "Fagyal, Z",
+                "Laing, A"
               ],
               -1,
               -1,
               -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "P": [
-          "73794",
-          [
+            ],
             [
-              59,
-              "TR",
-              "136 Davenport Hall",
               5,
+              "F",
+              "ONLINE",
+              7,
               [
-                "VanCalbergh, M"
+                "Fagyal, Z",
+                "Laing, A"
               ],
               -1,
               -1,
@@ -170,22 +512,22 @@
         ]
       },
       [],
-      "Acquaints students with the technical choices a writer makes in creating a story or a poem. Classes will consist of lectures on specific elements of poetry, fiction, and creative nonfiction. Students will also have the opportunity to talk with visiting writers and work in small groups to apply the course techniques and skills to a close reading of stories and poems.",
+      "Practice-intensive grammar review and vocabulary-building, with an emphasis on strategies to improve accuracy of, and expressivity in, speaking and writing in French. Grammar textbook supplemented with readings and materials from French and Francophone culture (articles, social media, literary works, films).",
       []
     ],
-    "CW 200": [
-      "Reading for Writers",
+    "FR 165": [
+      "French in US Minority Cultures",
       {
-        "M": [
-          "60103",
+        "A": [
+          "77364",
           [
             [
-              103,
-              "TR",
-              "140 Henry Administration Bldg",
-              27,
+              12,
+              "",
+              "ONLINE",
+              7,
               [
-                "Hoggatt, G"
+                "Fagyal, Z"
               ],
               -1,
               -1,
@@ -193,533 +535,21 @@
             ]
           ],
           3,
-          0,
+          3,
           0,
           [],
           -1
         ]
       },
       [],
-      "Emphasizes the craft of short stories and poems through the study of formal elements central to the production of creative writing (e.g., plot, character, setting, point of view in short fiction and rhythm, meter, line break, imagery, simile, metaphor, formal patterns in poetry).",
+      "Introduction to the sociolinguistic and cultural history of French as a heritage language in African-American, Native American, and Cajun American communities from early colonial to late modern times. It focuses on the lived experiences and lasting heritage of contact and segregation between colonizers, farmers, refugees, and free and enslaved populations in the American Midwest and South. It features readings, music, heritage sites, and discussions of prejudice and discrimination, language shift and language loss, and the linguistic outcomes of slavery and settler colonialism.",
       []
     ],
-    "CW 404": [
-      "Fiction Workshop III",
-      {
-        "1G": [
-          "43378",
-          [
-            [
-              59,
-              "TR",
-              "125 English Building",
-              8,
-              [
-                "Rubins, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "1U": [
-          "43377",
-          [
-            [
-              59,
-              "TR",
-              "125 English Building",
-              8,
-              [
-                "Rubins, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "2G": [
-          "43382",
-          [
-            [
-              103,
-              "MW",
-              "156 English Building",
-              8,
-              [
-                "Garcia, G"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "2U": [
-          "43380",
-          [
-            [
-              103,
-              "MW",
-              "156 English Building",
-              8,
-              [
-                "Garcia, G"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "An advanced workshop in fiction, with a primary emphasis on short stories.",
-      []
-    ],
-    "CW 104": [
-      "Fiction Workshop I",
-      {
-        "B": [
-          "43365",
-          [
-            [
-              10,
-              "MW",
-              "123 English Building",
-              8,
-              [
-                "Canipe, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "D": [
-          "43366",
-          [
-            [
-              59,
-              "MW",
-              "123 English Building",
-              8,
-              [
-                "Rubins, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "G": [
-          "56175",
-          [
-            [
-              104,
-              "MW",
-              "125 English Building",
-              8,
-              [
-                "Rubins, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "Q": [
-          "43431",
-          [
-            [
-              107,
-              "TR",
-              "123 English Building",
-              8,
-              [
-                "Nyikos, D"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "T": [
-          "43364",
-          [
-            [
-              104,
-              "TR",
-              "113 English Building",
-              8,
-              [
-                "Bergmark, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "An introductory workshop in fiction, with a primary emphasis on short stories.",
-      []
-    ],
-    "CW 106": [
-      "Poetry Workshop I",
-      {
-        "D": [
-          "43433",
-          [
-            [
-              59,
-              "TR",
-              "113 English Building",
-              8,
-              [
-                "Giugni, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "G": [
-          "43367",
-          [
-            [
-              59,
-              "MW",
-              "113 English Building",
-              8,
-              [
-                "Price, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "M": [
-          "43368",
-          [
-            [
-              103,
-              "TR",
-              "113 English Building",
-              8,
-              [
-                "Infante, M"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Practice in the writing of poetry; experimentation with a number of fixed forms and free verse, but emphasis mainly on the student's freedom to develop a personal style.",
-      []
-    ],
-    "CW 208": [
-      "Creative Nonfiction Workshop",
-      {
-        "Z": [
-          "43376",
-          [
-            [
-              59,
-              "TR",
-              "135 English Building",
-              8,
-              [
-                "Dudek, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Types of nonfiction prose, including the personal essay, memoir, literary journalism, and historical writing.",
-      []
-    ],
-    "CW 243": [
-      "The Craft Essay: Creative Reading, Reflection, and Revision",
-      {
-        "B": [
-          "60104",
-          [
-            [
-              10,
-              "TR",
-              "212 Davenport Hall",
-              5,
-              [
-                "Martin, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "In this writing- and reading-intensive composition class, students will look at how creative writers—fiction writers, poets, and essayists—write about creative writing outside of the standard literary analysis model. Realizing that there are other methods of discussing, analyzing, and considering literature is a major goal of this class. As a complement to the production of creative work, students will focus on how we analyze, consider, and place that work within the greater context of creative writing.",
-      []
-    ],
-    "CW 406": [
-      "Poetry Workshop III",
-      {
-        "1G": [
-          "43384",
-          [
-            [
-              107,
-              "TR",
-              "125 English Building",
-              8,
-              [
-                "Garcia, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "1U": [
-          "43383",
-          [
-            [
-              107,
-              "TR",
-              "125 English Building",
-              8,
-              [
-                "Garcia, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Practice of the writing of poetry aided by intensive study of examples.",
-      []
-    ],
-    "CW 206": [
-      "Poetry Workshop II",
-      {
-        "S": [
-          "52270",
-          [
-            [
-              103,
-              "MW",
-              "123 English Building",
-              8,
-              [
-                "Price, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Builds upon the workshop format of CW 106, with an emphasis on prosody and poetic technique. Students will deepen their sense of craft by putting into practice their study and understanding of a variety of poetic forms (e.g., syllabic poetry, dramatic monologue, sonnet, bound/free verse) and technical concerns (e.g., voice, tone, line, line break, image). The workshop component of the course typically includes 8-12 completed poems and their revisions.",
-      []
-    ],
-    "CW 204": [
-      "Fiction Workshop II",
-      {
-        "M": [
-          "43373",
-          [
-            [
-              10,
-              "TR",
-              "113 English Building",
-              8,
-              [
-                "Bales, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "X": [
-          "43374",
-          [
-            [
-              107,
-              "MW",
-              "113 English Building",
-              8,
-              [
-                "Garcia, G"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "An intermediate workshop in fiction, with a primary emphasis on short stories.",
-      []
-    ],
-    "CW 506": [
-      "Writing Workshop in Poetry",
-      {
-        "S": [
-          "43390",
-          [
-            [
-              24,
-              "W",
-              "107A English Building",
-              8,
-              [
-                "Kempf, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Directed individual projects, with group discussion in poetry.",
-      []
-    ],
-    "CW 591": [
-      "Independent Study",
+    "FR 199": [
+      "Undergraduate Open Seminar",
       {
         "": [
-          "45186",
+          "10135",
           [
             [
               12,
@@ -734,7 +564,7 @@
               -1
             ]
           ],
-          4,
+          5,
           4,
           0,
           [],
@@ -742,14 +572,14 @@
         ]
       },
       [],
-      "Approved for both letter and S/U grading. May be repeated up to a maximum of 12 hours. Prerequisite: MFA candidate standing.",
+      null,
       []
     ],
-    "CW 455": [
-      "Creative Writing Tutorial",
+    "FR 390": [
+      "Indiv Study Major Tutorial",
       {
         "": [
-          "45159",
+          "47496",
           [
             [
               12,
@@ -764,7 +594,7 @@
               -1
             ]
           ],
-          4,
+          12,
           4,
           0,
           [],
@@ -772,22 +602,22 @@
         ]
       },
       [],
-      "Personal direction in a writing project: fiction (novel or short stories), poetry or creative nonfiction. Frequency of conference to be determined by the type of project.",
+      "Tutorial taken by students during two of their last four terms of undergraduate study. Students read the works on a departmental reading list with the guidance of a tutor.",
       []
     ],
-    "CW 460": [
-      "Intro to Literary Editing",
+    "FR 319": [
+      "Francophone Worlds",
       {
-        "B": [
-          "60607",
+        "A": [
+          "56830",
           [
             [
-              10,
-              "MW",
-              "221 Gregory Hall",
-              1,
+              26,
+              "TR",
+              "G20 Literatures, Cultures, & Ling",
+              3,
               [
-                "McVicker, Z"
+                "Keller, M"
               ],
               -1,
               -1,
@@ -795,117 +625,63 @@
             ]
           ],
           3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Practicum in which students learn all the stages of developing and editing a literary publication. Students will solicit, read, and select poems and stories for an online supplement to the Ninth Letter literary journal. At the end of the semester, the supplement will be published on the Ninth Letter website (www.ninthletter.com). Students will gain experience in professional communications, copyediting, and marketing.",
-      []
-    ],
-    "CW 463": [
-      "Adv Topics in Creative Writing",
-      {
-        "1G": [
-          "63372",
-          [
-            [
-              107,
-              "TR",
-              "113 English Building",
-              8,
-              [
-                "Mack, K"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "1U": [
-          "63371",
-          [
-            [
-              107,
-              "TR",
-              "113 English Building",
-              8,
-              [
-                "Mack, K"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "2G": [
-          "67746",
-          [
-            [
-              107,
-              "MW",
-              "123 English Building",
-              8,
-              [
-                "Van Landingham, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "2U": [
-          "67745",
-          [
-            [
-              107,
-              "MW",
-              "123 English Building",
-              8,
-              [
-                "Van Landingham, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
           0,
           0,
           [],
           -1
         ],
         "AG": [
-          "67754",
+          "56831",
           [
             [
-              15,
-              "T",
-              "133 1207 W Oregon",
-              10,
+              0,
+              "TR",
+              "21 Psychology Building",
+              2,
               [
-                "Garcia, A"
+                "Keller, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Study of one or several Francophone countries and cultures around the world through language, texts, images, film, and/or other media.",
+      []
+    ],
+    "FR 418": [
+      "Language & Minorities in Europe",
+      {
+        "1G": [
+          "50090",
+          [
+            [
+              17,
+              "W",
+              "321 Gregory Hall",
+              1,
+              [
+                "Fagyal, Z"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              17,
+              "M",
+              "ONLINE",
+              7,
+              [
+                "Fagyal, Z"
               ],
               -1,
               -1,
@@ -918,17 +694,28 @@
           [],
           -1
         ],
-        "AL": [
-          "75273",
+        "1U": [
+          "50089",
           [
             [
-              130,
-              "R",
+              17,
+              "W",
+              "321 Gregory Hall",
+              1,
+              [
+                "Fagyal, Z"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              17,
+              "M",
               "ONLINE",
               7,
               [
-                "Klimas, C",
-                "Starks, K"
+                "Fagyal, Z"
               ],
               -1,
               -1,
@@ -936,29 +723,175 @@
             ]
           ],
           4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to political, judicial, linguistic, and cultural issues concerning indigenous and migrant/immigrant languages in the countries of the European Union. Focuses on political and judicial issues, such as legal aspects of bilingual education and minority language use, as well as linguistic and cultural aspects, such as assimilation, language-mixing, and language change. Taught in English.",
+      []
+    ],
+    "FR 462": [
+      "Introduction to Romance Linguistics",
+      {
+        "G4": [
+          "64880",
+          [
+            [
+              5,
+              "MWF",
+              "205 Gregory Hall",
+              1,
+              [
+                "Hualde, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "U3": [
+          "58567",
+          [
+            [
+              5,
+              "MWF",
+              "205 Gregory Hall",
+              1,
+              [
+                "Hualde, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as ITAL 435, LING 462, PORT 435, RMLG 435, and SPAN 435. See SPAN 435.",
+      []
+    ],
+    "FR 322": [
+      "Movements and Perspectives",
+      {
+        "FP": [
+          "43802",
+          [
+            [
+              5,
+              "MW",
+              "207 Gregory Hall",
+              1,
+              [
+                "Gaillard, J"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              12,
+              "F",
+              "ONLINE",
+              7,
+              [
+                "Gaillard, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
           3,
           0,
+          0,
           [],
           -1
         ]
       },
       [],
-      "Advanced topics course in Creative Writing. Students study selected topic through a workshop model, pursuing advanced development in one or more approaches to writing in a specialized field or genre.",
+      "Focused study and discussion of a major literary movement or critical perspective. Topics will vary.",
       []
     ],
-    "CW 504": [
-      "Writing Workshop in Fiction",
+    "FR 240": [
+      "Constr Afr and Carib Identity",
       {
-        "F": [
-          "43388",
+        "X": [
+          "32901",
           [
             [
-              131,
-              "W",
-              "107A English Building",
-              8,
+              0,
+              "TR",
+              "1068 Lincoln Hall",
+              4,
               [
-                "Wright, D"
+                "Reynolds, F"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduces students to cultural pluralism by comparing and contrasting African and Caribbean identities, as they are represented in literature and film. Taught in English.",
+      []
+    ],
+    "FR 460": [
+      "Principles of Language Testing",
+      {
+        "G4": [
+          "31920",
+          [
+            [
+              13,
+              "TR",
+              "G23 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Yan, X"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "U3": [
+          "31919",
+          [
+            [
+              13,
+              "TR",
+              "G23 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Yan, X"
               ],
               -1,
               -1,
@@ -973,22 +906,74 @@
         ]
       },
       [],
-      "Directed individual projects, with group discussion in fiction.",
+      "Same as EIL 460, EPSY 487, GER 460, ITAL 460, PORT 460, and SPAN 460. See EIL 460.",
       []
     ],
-    "CW 560": [
-      "Literary Publishing &Promotion",
+    "FR 481": [
+      "Theoretical Foundations of SLA",
       {
-        "G": [
-          "43391",
+        "G4": [
+          "38717",
           [
             [
-              131,
-              "R",
+              4,
+              "MWF",
+              "329 Gregory Hall",
+              1,
+              [
+                "Zhang, Q"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "U3": [
+          "38714",
+          [
+            [
+              4,
+              "MWF",
+              "329 Gregory Hall",
+              1,
+              [
+                "Zhang, Q"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as GER 489, ITAL 489, LING 489, PORT 489, and SPAN 489. See LING 489.",
+      []
+    ],
+    "FR 579": [
+      "Seminar in French Literature",
+      {
+        "FR": [
+          "39241",
+          [
+            [
+              14,
+              "W",
               "Location Pending",
               7,
               [
-                "Hurley, M"
+                "Mall, L"
               ],
               -1,
               -1,
@@ -996,21 +981,21 @@
             ]
           ],
           4,
-          9,
+          0,
           0,
           [],
           -1
         ]
       },
       [],
-      "A working practicum designed to teach graduate students the basics of literary journal publishing and to introduce them to career and entrepreneurial opportunities in other types of literary arts organizations. Students will attend weekly editorial meetings, complete weekly reading assignments, and will work 2 hours per week in the 'Ninth Letter' office, reading manuscript submissions and completing various clerical tasks for the journal.",
+      "Discussion and research on a specialized area in French literature. See Schedule for current topic.",
       []
     ],
-    "CW 595": [
-      "Final Project",
+    "FR 492": [
+      "Senior Thesis",
       {
         "": [
-          "55885",
+          "10138",
           [
             [
               12,
@@ -1025,29 +1010,7 @@
               -1
             ]
           ],
-          12,
-          4,
-          0,
-          [],
-          -1
-        ],
-        "JD": [
-          "77313",
-          [
-            [
-              12,
-              "",
-              "ONLINE",
-              7,
-              [
-                "Dudek, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          12,
+          2,
           4,
           0,
           [],
@@ -1055,7 +1018,197 @@
         ]
       },
       [],
-      "Guidance in writing final projects.",
+      "For candidates for honors in French and for other seniors.",
+      []
+    ],
+    "FR 588": [
+      "Sem Second Lang Learn",
+      {
+        "AM1": [
+          "60349",
+          [
+            [
+              19,
+              "R",
+              "1040 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Mroz, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "SM": [
+          "35701",
+          [
+            [
+              11,
+              "TR",
+              "G18 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Montrul, S"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "TR",
+              "ARR Literatures, Cultures, & Ling",
+              3,
+              [
+                "Montrul, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "WM": [
+          "35695",
+          [
+            [
+              35,
+              "W",
+              "69 English Building",
+              8,
+              [
+                "Nelson, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as EALC 588, GER 588, ITAL 588, LING 588, PORT 588, and SPAN 588. See SPAN 588.",
+      []
+    ],
+    "FR 599": [
+      "Thesis Research",
+      {
+        "DNM": [
+          "78209",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Maroun, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Approved for S/U grading only. May be repeated in the same term or in separate terms.",
+      []
+    ],
+    "FR 591": [
+      "Individual Topics",
+      {
+        "": [
+          "10142",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "AM": [
+          "77474",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Mroz, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "FVR": [
+          "78208",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Reynolds, F"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Prerequisite: Graduate standing with a major or minor in French.",
       []
     ]
   },
@@ -1192,7 +1345,39 @@
       "1730 - 1845",
       "1300 - 1415",
       "1300 - 1600",
-      "1000 - 1220"
+      "1000 - 1220",
+      "1430 - 1820",
+      "0900 - 1030",
+      "1035 - 1150",
+      "1430 - 1630",
+      "1450 - 1735",
+      "1400 - 1620",
+      "1530 - 1750",
+      "1145 - 1305",
+      "0830 - 0950",
+      "1100 - 1230",
+      "1600 - 1800",
+      "1800 - 2000",
+      "1900 - 1930",
+      "0730 - 1530",
+      "1530 - 1550",
+      "1000 - 1700",
+      "1630 - 1800",
+      "1100 - 1320",
+      "1230 - 1430",
+      "1200 - 1430",
+      "1000 - 1200",
+      "1700 - 2000",
+      "1730 - 2020",
+      "0900 - 1200",
+      "1730 - 2130",
+      "0900 - 1600",
+      "1900 - 2200",
+      "1900 - 1950",
+      "1500 - 1615",
+      "0800 - 1220",
+      "1630 - 1910",
+      "1700 - 1920"
     ],
     "dateRanges": [],
     "scheduleTypes": [
@@ -1409,6 +1594,14 @@
       {
         "lat": 40.11085653938169,
         "long": -88.22609810215927
+      },
+      {
+        "lat": 40.10802885201532,
+        "long": -88.22239700364068
+      },
+      {
+        "lat": 40.11180304465921,
+        "long": -88.22613003543475
       }
     ],
     "finalDates": [],
