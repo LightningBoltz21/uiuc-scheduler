@@ -12,9 +12,8 @@ import { faPlus } from '@fortawesome/free-solid-svg-icons';
 
 import { Course } from '..';
 import { classes, getRandomColor } from '../../utils/misc';
-import { ASYNC_DELIVERY_MODE } from '../../constants';
 import { ScheduleContext } from '../../contexts';
-import { Course as CourseBean, Section } from '../../data/beans';
+import { Course as CourseBean } from '../../data/beans';
 
 import './stylesheet.scss';
 
@@ -57,22 +56,10 @@ function doesFilterMatchCourse(
   });
 }
 
-function doesFilterMatchSection(section: Section, filter: SortFilter): boolean {
-  return Object.entries(filter).every(([key, tags]) => {
-    if (tags.length === 0) return true;
-    if (!isSortKey(key)) return true;
-
-    const sortValue = section[key];
-    if (sortValue == null) return false;
-
-    return tags.includes(sortValue);
-  });
-}
-
 export default function CourseAdd({
   className,
 }: CourseAddProps): React.ReactElement {
-  const [{ oscar, desiredCourses, excludedCrns, colorMap }, { patchSchedule }] =
+  const [{ oscar, desiredCourses, colorMap }, { patchSchedule }] =
     useContext(ScheduleContext);
   const [keyword, setKeyword] = useState('');
   const [filter] = useState<SortFilter>({
@@ -121,27 +108,17 @@ export default function CourseAdd({
   const handleAddCourse = useCallback(
     (course: CourseBean) => {
       if (desiredCourses.includes(course.id)) return;
-      const toBeExcludedCrns = course.sections
-        .filter((section) => {
-          const timeDecided =
-            section.deliveryMode === ASYNC_DELIVERY_MODE ||
-            (section.meetings.length &&
-              section.meetings.every(
-                (meeting) => meeting.days.length && meeting.period
-              ));
-          const filterMatch = doesFilterMatchSection(section, filter);
-          return !timeDecided || !filterMatch;
-        })
-        .map((section) => section.crn);
+      // Auto-exclusion disabled - all sections enabled by default
+      // Clear excludedCrns to ensure all sections are available for combinations
       patchSchedule({
         desiredCourses: [...desiredCourses, course.id],
-        excludedCrns: [...excludedCrns, ...toBeExcludedCrns],
         colorMap: { ...colorMap, [course.id]: getRandomColor() },
+        excludedCrns: [],
       });
       setKeyword('');
       inputRef.current?.focus();
     },
-    [filter, desiredCourses, excludedCrns, colorMap, inputRef, patchSchedule]
+    [desiredCourses, colorMap, inputRef, patchSchedule]
   );
 
   const handleKeyDown = useCallback(

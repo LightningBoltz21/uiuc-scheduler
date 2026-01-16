@@ -342,7 +342,7 @@ export async function scrapeCourse(
           startTime,
           endTime,
           room: location,
-          instructors: instructors.length > 0 ? instructors : ['Staff'],
+          instructors: instructors.length > 0 ? instructors : ['Unassigned Instructor'],
           dateRange,
           isOnline: isOnlineOrArranged
         });

@@ -259,8 +259,9 @@ export default class Oscar {
         !excludedCrns.includes(section.crn);
       const isPinned = (section: Section): boolean =>
         pinnedCrns.includes(section.crn);
-      const hasConflict = (section: Section): boolean =>
+      const hasConflict = (section: Section, ignoreCrn?: string): boolean =>
         [...pinnedCrns, ...crns].some((crn) => {
+          if (ignoreCrn && crn === ignoreCrn) return false;
           const crnSection = this.findSection(crn);
           if (crnSection === undefined) return false;
           return hasConflictBetween(crnSection, section);
@@ -272,32 +273,80 @@ export default class Oscar {
         // If a course has a lab, then `onlyLectures`, `onlyLabs`,
         // and `allInOnes` should be non-undefined, but we have to check
         // anyways here to satisfy TypeScript
-        const pinnedOnlyLecture = (course.onlyLectures ?? []).find(isPinned);
-        const pinnedOnlyLab = (course.onlyLabs ?? []).find(isPinned);
-        const pinnedAllInOne = (course.allInOnes ?? []).find(isPinned);
-        if ((pinnedOnlyLecture && pinnedOnlyLab) || pinnedAllInOne) {
+        const onlyLectures = course.onlyLectures ?? [];
+        const onlyLabs = course.onlyLabs ?? [];
+        const allInOnes = course.allInOnes ?? [];
+        const pinnedOnlyLecture = onlyLectures.find(isPinned);
+        const pinnedOnlyLab = onlyLabs.find(isPinned);
+        const pinnedAllInOne = allInOnes.find(isPinned);
+
+        const groupLabsByScheduleType = (labs: Section[]): Section[][] => {
+          const groups: Record<string, Section[]> = {};
+          labs.forEach((lab) => {
+            const key = lab.scheduleType || 'unknown';
+            const bucket = groups[key] ?? (groups[key] = []);
+            bucket.push(lab);
+          });
+          return Object.values(groups);
+        };
+
+        const addLabGroupCombinations = (
+          labGroups: Section[][],
+          baseCrns: string[]
+        ): void => {
+          const dfsLabs = (groupIndex: number, nextCrns: string[]): void => {
+            if (groupIndex === labGroups.length) {
+              dfs(courseIndex + 1, nextCrns);
+              return;
+            }
+
+            const group = labGroups[groupIndex] ?? [];
+            const pinnedLabs = group.filter(isPinned);
+            const options = (pinnedLabs.length ? pinnedLabs : group).filter(
+              isIncluded
+            );
+
+            options.forEach((lab) => {
+              if (hasConflict(lab, isPinned(lab) ? lab.crn : undefined)) return;
+              const updatedCrns = isPinned(lab)
+                ? nextCrns
+                : [...nextCrns, lab.crn];
+              dfsLabs(groupIndex + 1, updatedCrns);
+            });
+          };
+          dfsLabs(0, baseCrns);
+        };
+
+        const addLectureWithLabs = (lecture: Section): void => {
+          if (!isPinned(lecture) && hasConflict(lecture)) return;
+          const lectureCrns = isPinned(lecture) ? crns : [...crns, lecture.crn];
+          const associatedLabSet = new Set(
+            lecture.associatedLabs.map((lab) => lab.crn)
+          );
+          const labGroups = groupLabsByScheduleType(
+            onlyLabs.filter(isIncluded)
+          ).map((group) => {
+            const associated = group.filter((lab) =>
+              associatedLabSet.has(lab.crn)
+            );
+            return associated.length ? associated : group;
+          });
+          if (!labGroups.length) return;
+          addLabGroupCombinations(labGroups, lectureCrns);
+        };
+
+        if (pinnedAllInOne) {
           dfs(courseIndex + 1, crns);
         } else if (pinnedOnlyLecture) {
-          pinnedOnlyLecture.associatedLabs.filter(isIncluded).forEach((lab) => {
-            if (hasConflict(lab)) return;
-            dfs(courseIndex + 1, [...crns, lab.crn]);
-          });
+          addLectureWithLabs(pinnedOnlyLecture);
         } else if (pinnedOnlyLab) {
-          pinnedOnlyLab.associatedLectures
-            .filter(isIncluded)
-            .forEach((lecture) => {
-              if (hasConflict(lecture)) return;
-              dfs(courseIndex + 1, [...crns, lecture.crn]);
-            });
-        } else {
-          (course.onlyLectures ?? []).filter(isIncluded).forEach((lecture) => {
-            if (hasConflict(lecture)) return;
-            lecture.associatedLabs.filter(isIncluded).forEach((lab) => {
-              if (hasConflict(lab)) return;
-              dfs(courseIndex + 1, [...crns, lecture.crn, lab.crn]);
-            });
+          onlyLectures.filter(isIncluded).forEach((lecture) => {
+            if (hasConflictBetween(lecture, pinnedOnlyLab)) return;
+            addLectureWithLabs(lecture);
           });
-          (course.allInOnes ?? []).filter(isIncluded).forEach((section) => {
+        } else {
+          onlyLectures.filter(isIncluded).forEach(addLectureWithLabs);
+          allInOnes.filter(isIncluded).forEach((section) => {
             if (hasConflict(section)) return;
             dfs(courseIndex + 1, [...crns, section.crn]);
           });
