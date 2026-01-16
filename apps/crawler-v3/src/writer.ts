@@ -51,8 +51,31 @@ export class DataWriter {
   /**
    * Add period (time range) to cache and return its index
    * Converts minutes from midnight to HHMM format
+   * Returns "ARRANGED" for -1, "TBA" for -2
    */
   private addPeriodToCache(startTime: number, endTime: number): number {
+    // Handle ARRANGED times (indicated by -1)
+    if (startTime === -1 || endTime === -1) {
+      const arrangedIndex = this.caches.periods.indexOf('ARRANGED');
+      if (arrangedIndex !== -1) {
+        return arrangedIndex;
+      }
+      const index = this.caches.periods.length;
+      this.caches.periods.push('ARRANGED');
+      return index;
+    }
+
+    // Handle TBA/unknown times (indicated by -2)
+    if (startTime === -2 || endTime === -2) {
+      const tbaIndex = this.caches.periods.indexOf('TBA');
+      if (tbaIndex !== -1) {
+        return tbaIndex;
+      }
+      const index = this.caches.periods.length;
+      this.caches.periods.push('TBA');
+      return index;
+    }
+
     // Convert minutes from midnight to HHMM format
     // e.g., 720 minutes (12:00 PM) -> 1200
     const minutesToHHMM = (minutes: number): string => {

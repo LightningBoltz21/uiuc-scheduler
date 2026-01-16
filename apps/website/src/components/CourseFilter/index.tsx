@@ -12,6 +12,7 @@ export type CourseFilterProps = {
   selectedTags: string[];
   onReset: () => void;
   onToggle: (tag: string) => void;
+  disabled?: boolean;
 };
 
 export default function CourseFilter({
@@ -20,14 +21,15 @@ export default function CourseFilter({
   selectedTags,
   onReset,
   onToggle,
+  disabled = false,
 }: CourseFilterProps): React.ReactElement {
   const [expanded, setExpanded] = useState(false);
 
   return (
-    <div className="CourseFilter">
+    <div className={classes('CourseFilter', disabled && 'disabled')}>
       <div
         className={classes('header', selectedTags.length > 0 && 'active')}
-        onClick={(): void => setExpanded(!expanded)}
+        onClick={disabled ? undefined : (): void => setExpanded(!expanded)}
       >
         {!expanded && selectedTags.length > 0 ? (
           <div className="name">

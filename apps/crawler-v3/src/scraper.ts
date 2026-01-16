@@ -397,22 +397,32 @@ function parseTimeToMinutes(timeStr: string): number {
 }
 
 function parseTime(timeText: string): { startTime: number; endTime: number } {
+  // Check for ARRANGED times - use -1 as marker
+  if (timeText === 'ARRANGED') {
+    return { startTime: -1, endTime: -1 }; // -1 indicates ARRANGED
+  }
+
+  // Check for empty/unknown times - use -2 as marker for TBA
+  if (timeText.trim() === '') {
+    return { startTime: -2, endTime: -2 }; // -2 indicates TBA
+  }
+
   // Match patterns like "8:00 AM - 8:50 AM" or "08:00-08:50" or "03:00PM - 03:50PM"
   const match = timeText.match(/(\d{1,2}:\d{2})\s*(AM|PM)?\s*-\s*(\d{1,2}:\d{2})\s*(AM|PM)?/i);
-  
+
   if (match) {
     const start = match[1];
     const startPeriod = (match[2] || 'AM').toUpperCase();
     const end = match[3];
     const endPeriod = (match[4] || match[2] || 'PM').toUpperCase();
-    
+
     const startTime = parseTimeToMinutes(`${start} ${startPeriod}`);
     const endTime = parseTimeToMinutes(`${end} ${endPeriod}`);
-    
+
     return { startTime, endTime };
   }
-  
-  return { startTime: 0, endTime: 0 };
+
+  return { startTime: -2, endTime: -2 }; // -2 indicates TBA for unrecognized formats
 }
 
 function getTermStartDate(year: string, term: string): string {

@@ -60,6 +60,11 @@ export default class Oscar {
         return undefined;
       }
 
+      // ARRANGED times are stored with start: -1, end: -1 as a marker
+      if (period === 'ARRANGED') {
+        return { start: -1, end: -1 };
+      }
+
       const periodSegments = period.split(' - ');
       if (periodSegments.length !== 2) {
         softError(

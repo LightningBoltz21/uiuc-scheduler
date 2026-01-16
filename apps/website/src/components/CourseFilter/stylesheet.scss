@@ -6,6 +6,11 @@
   align-items: stretch;
   border-top: 1px solid $color-border;
 
+  &.disabled {
+    opacity: 0.4;
+    pointer-events: none;
+  }
+
   .header {
     position: relative;
     display: flex;

@@ -59,10 +59,16 @@ export const timeToShortString = (time: number): string => {
   return `${hour > 12 ? hour - 12 : hour}${hour < 12 ? 'a' : 'p'}m`;
 };
 
-export const periodToString = (period: Period | undefined): string =>
-  period != null
-    ? `${timeToString(period.start, false)} - ${timeToString(period.end)}`
-    : 'TBA';
+export const periodToString = (period: Period | undefined): string => {
+  if (period == null) {
+    return 'TBA';
+  }
+  // ARRANGED times are marked with start: -1
+  if (period.start === -1) {
+    return 'ARRANGED';
+  }
+  return `${timeToString(period.start, false)} - ${timeToString(period.end)}`;
+};
 
 export const daysToString = (days: readonly string[] | string[]): string => {
   const set = new Set(days);

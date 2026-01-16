@@ -10,9 +10,9 @@ import React, {
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faPlus } from '@fortawesome/free-solid-svg-icons';
 
-import { Course, CourseFilter } from '..';
+import { Course } from '..';
 import { classes, getRandomColor } from '../../utils/misc';
-import { ASYNC_DELIVERY_MODE, CAMPUSES, DELIVERY_MODES } from '../../constants';
+import { ASYNC_DELIVERY_MODE } from '../../constants';
 import { ScheduleContext } from '../../contexts';
 import { Course as CourseBean, Section } from '../../data/beans';
 
@@ -75,7 +75,7 @@ export default function CourseAdd({
   const [{ oscar, desiredCourses, excludedCrns, colorMap }, { patchSchedule }] =
     useContext(ScheduleContext);
   const [keyword, setKeyword] = useState('');
-  const [filter, setFilter] = useState<SortFilter>({
+  const [filter] = useState<SortFilter>({
     deliveryMode: [],
     campus: [],
   });
@@ -168,29 +168,6 @@ export default function CourseAdd({
     [courses, handleAddCourse, activeIndex]
   );
 
-  const handleToggleFilter = useCallback(
-    (key: SortKey, tag: string) => {
-      const tags = filter[key];
-      setFilter({
-        ...filter,
-        [key]: tags.includes(tag)
-          ? tags.filter((v) => v !== tag)
-          : [...tags, tag],
-      });
-    },
-    [filter]
-  );
-
-  const handleResetFilter = useCallback(
-    (key: string) => {
-      setFilter({
-        ...filter,
-        [key]: [],
-      });
-    },
-    [filter]
-  );
-
   const activeCourse = courses[activeIndex];
 
   return (
@@ -219,19 +196,7 @@ export default function CourseAdd({
             />
           </div>
         </div>
-        {[
-          ['Delivery Mode', 'deliveryMode', DELIVERY_MODES] as const,
-          ['Campus', 'campus', CAMPUSES] as const,
-        ].map(([name, property, labels]) => (
-          <CourseFilter
-            key={property}
-            name={name}
-            labels={labels}
-            selectedTags={filter[property]}
-            onReset={(): void => handleResetFilter(property)}
-            onToggle={(tag): void => handleToggleFilter(property, tag)}
-          />
-        ))}
+        {/* Campus and Delivery Mode filters disabled */}
       </div>
       {courses.length > 0 ? (
         courses.map((course) => (
