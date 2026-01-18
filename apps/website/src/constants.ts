@@ -87,9 +87,9 @@ const CLOUD_FUNCTION_BASE_URL = `https://us-east1-${FIREBASE_PROJECT_ID}.cloudfu
 // eg. http://localhost:8080
 const CUSTOM_CRAWLER_URL = process.env['REACT_APP_LOCAL_CRAWLER_URL'];
 const CRAWLER_BASE_URL =
-  CUSTOM_CRAWLER_URL || 'https://lightningboltz21.github.io/scheduler';
+  CUSTOM_CRAWLER_URL || 'https://lightningboltz21.github.io/uiuc-scheduler';
 
-const DONATE_LINK = 'https://opencollective.com/georgia-tech';
+const DONATE_LINK = 'https://ko-fi.com/uiucscheduler';
 
 const LARGE_DESKTOP_BREAKPOINT = 1200;
 const DESKTOP_BREAKPOINT = 1024;

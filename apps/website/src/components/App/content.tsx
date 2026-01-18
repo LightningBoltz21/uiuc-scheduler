@@ -120,7 +120,6 @@ export function AppSkeleton({
             : { type: 'loaded', ...termsState }
         }
         versionsState={{ type: 'loading' }}
-        skeleton
       />
       {children}
       <Attribution />

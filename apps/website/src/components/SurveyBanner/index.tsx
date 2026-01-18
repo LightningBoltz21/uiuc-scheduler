@@ -2,22 +2,20 @@ import React from 'react';
 
 import Banner from '../Banner';
 
-const BANNER_LOCAL_STORAGE_KEY =
-  '2025-09-25-fall2025-course-details-survey-banner';
-const SURVEY_LINK =
-  'https://gatech.co1.qualtrics.com/jfe/form/SV_0wwncvjPzzI8Q9E';
+const BANNER_LOCAL_STORAGE_KEY = 'uiuc-scheduler-tutorial-video-banner';
+const VIDEO_LINK = 'https://www.youtube.com/watch?v=VIDEO_ID_HERE';
 
 function Content(): React.ReactElement {
   return (
     <span>
-      Help us create our new course page!
+      New to UIUC Scheduler?
       <a
         className="bannerButton"
-        href={SURVEY_LINK}
+        href={VIDEO_LINK}
         rel="noopener noreferrer"
         target="_blank"
       >
-        <b className="buttonText">Take our quick survey.</b>
+        <b className="buttonText">Watch how it works.</b>
       </a>
     </span>
   );
@@ -26,14 +24,14 @@ function Content(): React.ReactElement {
 function MobileContent(): React.ReactElement {
   return (
     <span>
-      Help us improve and
+      New here?
       <a
         className="bannerButton"
-        href={SURVEY_LINK}
+        href={VIDEO_LINK}
         rel="noopener noreferrer"
         target="_blank"
       >
-        <b className="buttonText">take our quick survey.</b>
+        <b className="buttonText">Watch how it works.</b>
       </a>
     </span>
   );

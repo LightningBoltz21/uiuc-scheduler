@@ -15,7 +15,7 @@ export default function Attribution(): React.ReactElement {
   return (
     <div className={classes('Attribution')}>
       {!mobile ? (
-        <Button href="https://github.com/gt-scheduler/website">
+        <Button href="https://github.com/lightningboltz21/uiuc-scheduler">
           <FontAwesomeIcon fixedWidth icon={faGithub} size="2xl" />
           <span className="githubText">GitHub</span>
         </Button>
@@ -24,16 +24,8 @@ export default function Attribution(): React.ReactElement {
       )}
 
       <p>
-        Copyright (c) {year} with&nbsp;
-        <span role="img" aria-label="love">
-          ❤️
-        </span>
-        &nbsp;by <a href="https://jasonpark.me">Jinseo Park</a>,&nbsp;
-        <a href="https://bitsofgood.org">Bits of Good</a>, and&nbsp;
-        <a href="https://github.com/gt-scheduler/website/graphs/contributors">
-          {mobile ? 'others' : 'the GT Scheduler contributors'}
-        </a>
-        .
+        Copyright © 2026 Anish Malepati and Aneesh Kalla · Based on original
+        work by Jinseo Park, Bits of Good, and the GT Scheduler contributors.
       </p>
       <p>&nbsp;</p>
     </div>

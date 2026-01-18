@@ -1,6 +1,9 @@
 name: UIUC Crawler v3
 
 on:
+  schedule:
+    # Run at the start of every week (Monday at midnight UTC)
+    - cron: '0 0 * * 1'
   workflow_dispatch:
     inputs:
       retry_count:

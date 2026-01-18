@@ -32,14 +32,26 @@ export default function useDownloadTerms(): LoadingState<NonEmptyArray<Term>> {
             return;
           }
 
-          const newTerms = result.value.data.terms
-            .sort((termA, termB) => {
-              if (termA.term < termB.term) {
-                return -1;
-              }
-              return 1;
-            })
-            .reverse();
+          // Sort terms chronologically (latest first)
+          // Winter terms (month 12) occur before spring of the same coded year,
+          // so treat them as belonging to the previous year for sorting
+          const getSortKey = (term: string): string => {
+            const month = term.substring(4, 6);
+            if (month === '12') {
+              // Winter: 202612 -> 202512 for sorting (before spring 2026)
+              const year = parseInt(term.substring(0, 4), 10) - 1;
+              return `${year}12`;
+            }
+            return term;
+          };
+
+          const newTerms = result.value.data.terms.sort((termA, termB) => {
+            const keyA = getSortKey(termA.term);
+            const keyB = getSortKey(termB.term);
+            if (keyA < keyB) return 1; // Descending order (latest first)
+            if (keyA > keyB) return -1;
+            return 0;
+          });
 
           // Ensure that there is at least 1 term before continuing
           if (newTerms.length === 0) {

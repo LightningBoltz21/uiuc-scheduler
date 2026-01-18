@@ -2,7 +2,6 @@ import React, { useCallback, useContext, useEffect, useState } from 'react';
 import {
   faAngleDown,
   faAngleUp,
-  faShareAlt,
   faPalette,
   faPlus,
   faTrash,
@@ -10,10 +9,10 @@ import {
 
 import { classes, getContentClassName } from '../../utils/misc';
 import Cancellable from '../../utils/cancellable';
-import { ActionRow, Instructor, Palette, Prerequisite } from '..';
+import { ActionRow, Instructor, Palette } from '..';
 import { ScheduleContext } from '../../contexts';
 import { Course as CourseBean, Section } from '../../data/beans';
-import { CourseGpa, CrawlerPrerequisites } from '../../types';
+import { CourseGpa } from '../../types';
 import { ErrorWithFields, softError } from '../../log';
 
 import './stylesheet.scss';
@@ -30,7 +29,6 @@ export default function Course({
   onAddCourse,
 }: CourseProps): React.ReactElement | null {
   const [expanded, setExpanded] = useState<boolean>(false);
-  const [prereqOpen, setPrereqOpen] = useState<boolean>(false);
   const [paletteShown, setPaletteShown] = useState<boolean>(false);
   const [gpaMap, setGpaMap] = useState<CourseGpa | null>(null);
   const isSearching = Boolean(onAddCourse);
@@ -109,8 +107,6 @@ export default function Course({
   const color = colorMap[course.id];
   const contentClassName = color != null && getContentClassName(color);
 
-  const prereqs: CrawlerPrerequisites | null = course.prereqs ?? [];
-
   const instructorMap: Record<string, Section[] | undefined> = {};
   course.sections.forEach((section) => {
     const [primaryInstructor = 'Not Assigned'] = section.instructors;
@@ -129,23 +125,6 @@ export default function Course({
   const includedInstructors = instructors.filter(
     (instructor) => !excludedInstructors.includes(instructor)
   );
-
-  const prereqControl = (
-    nextPrereqOpen: boolean,
-    nextExpanded: boolean
-  ): void => {
-    setPrereqOpen(nextPrereqOpen);
-    setExpanded(nextExpanded);
-  };
-  const prereqAction = {
-    icon: faShareAlt,
-    styling: { transform: 'rotate(90deg)' },
-    onClick: (): void => {
-      prereqControl(true, !prereqOpen ? true : !expanded);
-    },
-    tooltip: 'View Prerequisites',
-    id: `${course.id}-prerequisites`,
-  };
 
   const pinnedSections = course.sections.filter((section) =>
     pinnedCrns.includes(section.crn)
@@ -167,13 +146,12 @@ export default function Course({
         ].join(' ')}
         actions={
           isSearching
-            ? [{ icon: faPlus, onClick: onAddCourse }, prereqAction]
+            ? [{ icon: faPlus, onClick: onAddCourse }]
             : [
                 {
                   icon: expanded ? faAngleUp : faAngleDown,
-                  onClick: (): void => prereqControl(false, !expanded),
+                  onClick: (): void => setExpanded(!expanded),
                 },
-                prereqAction,
                 {
                   icon: faPalette,
                   onClick: (): void => setPaletteShown(!paletteShown),
@@ -221,7 +199,7 @@ export default function Course({
           />
         )}
       </ActionRow>
-      {expanded && !prereqOpen && (
+      {expanded && (
         <div className={classes('hover-container', 'nested')}>
           {includedInstructors.map((name) => {
             let instructorGpa: number | undefined = 0;
@@ -262,9 +240,6 @@ export default function Course({
             </div>
           )}
         </div>
-      )}
-      {expanded && prereqOpen && prereqs !== null && (
-        <Prerequisite course={course} prereqs={prereqs} />
       )}
     </div>
   );

@@ -1,26 +1,115 @@
 import { Request, Response } from "express";
 import axios from "axios";
+import * as cheerio from "cheerio";
+
+const UIUC_BASE_URL = "https://courses.illinois.edu";
+
+interface SectionData {
+  crn: string;
+  availability: string;
+  status: string;
+  restricted?: string;
+}
 
 /**
- * Proxy Controller to proxy class section request to Oscar
+ * Proxy Controller to fetch real-time section availability from UIUC Course Explorer
+ *
+ * Query params:
+ * - term: e.g., "2026-spring"
+ * - subject: e.g., "CS"
+ * - courseNumber: e.g., "124"
+ * - crn: e.g., "12345"
  */
 export const ClassSectionProxy = async (
   req: Request,
   res: Response
 ): Promise<Response> => {
-  const { term, crn } = req.query;
-  if (term == null || crn == null) {
-    return res
-      .status(400)
-      .send({ message: "missing 'term' and 'crn' query parameters " });
+  const { term, subject, courseNumber, crn } = req.query;
+
+  if (!term || !subject || !courseNumber || !crn) {
+    return res.status(400).send({
+      message:
+        "Missing required query parameters: term, subject, courseNumber, crn",
+    });
   }
 
   try {
-    const url = `https://registration.banner.gatech.edu/StudentRegistrationSsb/ssb/searchResults/getEnrollmentInfo?term=${term}&courseReferenceNumber=${crn}`;
-    const upstreamRes = await axios.get(url);
+    // Parse term format "2026-spring" -> year: "2026", semester: "spring"
+    const termStr = String(term);
+    const [year, semester] = termStr.split("-");
+
+    if (!year || !semester) {
+      return res.status(400).send({
+        message: "Invalid term format. Expected: YYYY-semester (e.g., 2026-spring)",
+      });
+    }
+
+    const url = `${UIUC_BASE_URL}/schedule/${year}/${semester}/${subject}/${courseNumber}`;
+
+    const response = await axios.get(url, {
+      headers: {
+        "User-Agent":
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+        Accept: "text/html",
+      },
+    });
+
+    const html = response.data;
+
+    // Extract sectionDataObj from the embedded JavaScript
+    // Using [\s\S] instead of . with s flag for ES2017 compatibility
+    const sectionDataMatch = html.match(/var sectionDataObj = (\[[\s\S]*?\]);/);
+
+    if (!sectionDataMatch) {
+      return res.status(404).send({
+        message: "Could not find section data on page",
+      });
+    }
+
+    const sectionData: SectionData[] = JSON.parse(sectionDataMatch[1]);
+
+    // Find the section by CRN
+    const section = sectionData.find((s) => s.crn === String(crn));
+
+    if (!section) {
+      return res.status(404).send({
+        message: `Section with CRN ${crn} not found`,
+      });
+    }
+
+    // Parse the availability status
+    const availability = section.availability || "Unknown";
+
+    // Parse restriction info if present
+    let restrictions = "";
+    if (section.restricted) {
+      const $restricted = cheerio.load(section.restricted);
+      restrictions = $restricted.text().trim();
+    }
+
+    // Determine status category
+    let statusCategory: "open" | "closed" | "restricted" = "open";
+    const availLower = availability.toLowerCase();
+    if (availLower.includes("closed")) {
+      statusCategory = "closed";
+    } else if (availLower.includes("restricted")) {
+      statusCategory = "restricted";
+    }
+
     res.setHeader("Last-Modified", new Date().toUTCString());
-    return res.status(upstreamRes.status).send(upstreamRes.data);
-  } catch (err) {
-    return res.status(502).send({ message: err.message });
+    res.setHeader("Cache-Control", "max-age=300"); // Cache for 5 minutes
+
+    return res.status(200).json({
+      crn: section.crn,
+      availability,
+      status: statusCategory,
+      restrictions,
+      lastUpdated: new Date().toISOString(),
+    });
+  } catch (err: any) {
+    console.error("Error fetching section data:", err.message);
+    return res.status(502).send({
+      message: `Failed to fetch section data: ${err.message}`,
+    });
   }
 };

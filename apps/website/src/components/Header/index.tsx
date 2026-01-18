@@ -120,7 +120,6 @@ export default function Header({
       {...headerActionBarProps}
       termsState={termsState}
       versionsState={versionsState}
-      skeleton={false}
     />
   );
 }

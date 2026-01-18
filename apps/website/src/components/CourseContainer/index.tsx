@@ -39,10 +39,7 @@ export default function CourseContainer(): React.ReactElement {
           <EventAdd className="event-add" />
         </div>
       )}
-      <Button
-        className="updated-at"
-        href="https://github.com/gt-scheduler/crawler-v2"
-      >
+      <Button className="updated-at">
         Course data fetched {ago(oscar.updatedAt)}
       </Button>
     </div>

@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import React, { useState } from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import {
   faBars,
@@ -17,7 +17,6 @@ import HeaderActionBar from '../HeaderActionBar';
 import Modal from '../Modal';
 import { AccountContextValue } from '../../contexts/account';
 import { Term } from '../../types';
-import Toast, { notifyToast } from '../Toast';
 
 import './stylesheet.scss';
 
@@ -58,7 +57,6 @@ export type HeaderDisplayProps = {
   termsState: TermsState;
   versionsState: VersionState;
   accountState: AccountContextValue | { type: 'loading' };
-  skeleton: boolean;
 };
 
 /**
@@ -83,7 +81,6 @@ export default function HeaderDisplay({
   termsState,
   versionsState,
   accountState,
-  skeleton = true,
 }: HeaderDisplayProps): React.ReactElement {
   // Re-render when the page is re-sized to become mobile/desktop
   // (desktop is >= 1024 px wide)
@@ -93,33 +90,8 @@ export default function HeaderDisplay({
   // (small mobile is < 600 px wide)
   const largeMobile = useScreenWidth(LARGE_MOBILE_BREAKPOINT);
 
-  useEffect(() => {
-    if (termsState.type === 'loaded' && !skeleton) {
-      const termObject = termsState.terms.filter(
-        (term) => term.term === termsState.currentTerm
-      )[0];
-
-      if (!termObject?.finalized) {
-        notifyToast('finalized-term-toast');
-      }
-    }
-  }, [termsState, skeleton]);
-
   return (
     <div className="Header">
-      {!skeleton ? (
-        <Toast
-          id="finalized-term-toast"
-          color="orange"
-          message={`Note: The schedule for ${
-            termsState.type === 'loaded'
-              ? termsState.terms.find((t) => t.term === termsState.currentTerm)
-                  ?.name || termsState.currentTerm
-              : 'Loading'
-          } may not be fully finalized.`}
-          selfDisappearing={false}
-        />
-      ) : null}
       {/* Menu button, only displayed on mobile */}
       {mobile && (
         <Button className="nav-menu-button" onClick={onToggleMenu}>
