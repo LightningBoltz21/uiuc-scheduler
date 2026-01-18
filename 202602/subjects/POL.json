@@ -1,0 +1,288 @@
+{
+  "subject": "POL",
+  "scrapedAt": 1768696047229,
+  "courseCount": 4,
+  "courses": {
+    "POL 102": [
+      "Elementary Polish II",
+      {
+        "C": [
+          "47798",
+          [
+            [
+              1,
+              "MTWR",
+              "1062 Lincoln Hall",
+              1,
+              [
+                "Davies Brenier, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      null,
+      []
+    ],
+    "POL 199": [
+      "Undergraduate Open Seminar",
+      {
+        "": [
+          "10180",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              8,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      null,
+      []
+    ],
+    "POL 115": [
+      "Intro to Polish Culture",
+      {
+        "A": [
+          "61659",
+          [
+            [
+              14,
+              "TR",
+              "259 English Building",
+              10,
+              [
+                "Gasyna, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to Polish culture and literature from a broad historical perspective. Drawing on novels and plays, film, the visual arts, and works of historical research, the course provides students with the basic concepts, methodologies and theories of literary and cultural interpretation, with an emphasis on modern Polish culture (1800-2010) within a broader European context.",
+      []
+    ],
+    "POL 202": [
+      "Second Yr Polish II",
+      {
+        "E": [
+          "37944",
+          [
+            [
+              5,
+              "MTWR",
+              "1048 Literatures, Cultures, & Ling",
+              0,
+              [
+                "Dzyadevych, T",
+                "Tkacz, g"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      null,
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "0900 - 0950",
+      "1000 - 1050",
+      "1100 - 1150",
+      "1300 - 1350",
+      "0930 - 1050",
+      "1200 - 1250",
+      "1400 - 1450",
+      "1500 - 1550",
+      "ARRANGED",
+      "1530 - 1650",
+      "1100 - 1220",
+      "1400 - 1520",
+      "1500 - 1620",
+      "1700 - 1820",
+      "1230 - 1350",
+      "1500 - 1720",
+      "1600 - 1820",
+      "1600 - 1650",
+      "0800 - 0950",
+      "1000 - 1150",
+      "1200 - 1350",
+      "1400 - 1550",
+      "1600 - 1750",
+      "1800 - 1950",
+      "1300 - 1450",
+      "1700 - 1750",
+      "1000 - 1250",
+      "1300 - 1550",
+      "1600 - 1850",
+      "0800 - 1050",
+      "1100 - 1350",
+      "1400 - 1650",
+      "1700 - 1950",
+      "1130 - 1250",
+      "1800 - 1850",
+      "1900 - 1950",
+      "2000 - 2050",
+      "1700 - 1850",
+      "1000 - 1120",
+      "1300 - 1650",
+      "0800 - 1150",
+      "0900 - 1150",
+      "1300 - 1420",
+      "1630 - 1750",
+      "1800 - 1920",
+      "1930 - 2050",
+      "1700 - 1830",
+      "0930 - 1210",
+      "1130 - 1300"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Laboratory",
+      "Lecture-Discussion",
+      "Discussion/ Recitation",
+      "Lecture",
+      "Online",
+      "Independent Study",
+      "Laboratory-Discussion",
+      "Online Lecture"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": 40.10628,
+        "long": -88.22621
+      },
+      {
+        "lat": 40.1065684,
+        "long": -88.2281746
+      },
+      {
+        "lat": 40.1072225,
+        "long": -88.2262016
+      },
+      {
+        "lat": 40.105732,
+        "long": -88.2281018
+      },
+      {
+        "lat": 40.104794,
+        "long": -88.224264
+      },
+      {
+        "lat": 40.108419421661715,
+        "long": -88.2261156301609
+      },
+      {
+        "lat": 40.1047599,
+        "long": -88.2319514
+      },
+      {
+        "lat": 40.1033599,
+        "long": -88.2292111
+      },
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.110811306674734,
+        "long": -88.2248467072371
+      },
+      {
+        "lat": 40.107534,
+        "long": -88.2281548
+      },
+      {
+        "lat": 40.10755766472843,
+        "long": -88.22995430218522
+      },
+      {
+        "lat": 40.1035833,
+        "long": -88.228405
+      },
+      {
+        "lat": 40.1020773,
+        "long": -88.2296394
+      },
+      {
+        "lat": 40.1083446,
+        "long": -88.2282555
+      },
+      {
+        "lat": 40.1110937,
+        "long": -88.2232348
+      },
+      {
+        "lat": 40.111691,
+        "long": -88.2242511
+      },
+      {
+        "lat": 40.11171215875622,
+        "long": -88.22530849701589
+      },
+      {
+        "lat": 40.11246109008789,
+        "long": -88.22831726074219
+      },
+      {
+        "lat": 40.108570819242026,
+        "long": -88.22518453938676
+      },
+      {
+        "lat": 40.103587,
+        "long": -88.230606
+      },
+      {
+        "lat": 40.11085653938169,
+        "long": -88.22609810215927
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}

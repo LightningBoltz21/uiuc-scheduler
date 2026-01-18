@@ -4,7 +4,7 @@
   "year": "2026",
   "term": "spring",
   "startedAt": 1768695535749,
-  "lastUpdated": 1768696016774,
+  "lastUpdated": 1768696096620,
   "totalSubjects": 187,
   "totalCourses": 4509,
   "subjects": [
@@ -18753,19 +18753,49 @@
     "NRES",
     "NS",
     "NUTR",
-    "PATH"
+    "PATH",
+    "PERS",
+    "PHIL",
+    "PHYS",
+    "PLPA",
+    "POL",
+    "PORT",
+    "PS",
+    "PSM",
+    "PSYC",
+    "QUEC",
+    "REES",
+    "REL",
+    "RHET",
+    "RMLG",
+    "RST",
+    "RUSS",
+    "SAME",
+    "SBC",
+    "SCAN",
+    "SE",
+    "SHS",
+    "SLAV",
+    "SLCL",
+    "SOC",
+    "SOCW",
+    "SPAN",
+    "SPED",
+    "STAT",
+    "SWAH",
+    "TAM"
   ],
   "partialSubjects": {
-    "PERS": {
-      "completed": 0,
-      "total": 3,
+    "TE": {
+      "completed": 13,
+      "total": 18,
       "lastCourse": "ABORTED"
     }
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 3611,
-    "failedCourses": 5,
+    "successfulCourses": 4315,
+    "failedCourses": 6,
     "rateLimitCount": 0
   }
 }
