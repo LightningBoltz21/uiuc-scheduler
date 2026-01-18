@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://gt-scheduler.org/",
   "description": "Express API server used to augment the functionality provided in the GT scheduler website/crawler",
-  "main": "server.js",
+  "main": "dist/classSection/index.js",
   "scripts": {
     "start": "yarn serve",
     "build": "yarn build-ts",
