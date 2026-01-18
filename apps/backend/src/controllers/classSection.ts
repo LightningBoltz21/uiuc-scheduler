@@ -15,10 +15,21 @@ interface SectionData {
  * Proxy Controller to fetch real-time section availability from UIUC Course Explorer
  *
  * Query params:
- * - term: e.g., "2026-spring"
+ * - term: e.g., "202602" (YYYYMM format)
  * - subject: e.g., "CS"
  * - courseNumber: e.g., "124"
  * - crn: e.g., "12345"
+ *
+ * Returns:
+ * {
+ *   crn: string,
+ *   availability: string,  // Raw text: "Open", "Closed", "Restricted", etc.
+ *   status: "open" | "closed" | "restricted",  // Normalized status
+ *   restrictions: string,
+ *   lastUpdated: string
+ * }
+ *
+ * NOTE: UIUC does NOT provide seat counts or enrollment numbers in sectionDataObj
  */
 export const ClassSectionProxy = async (
   req: Request,
@@ -34,13 +45,26 @@ export const ClassSectionProxy = async (
   }
 
   try {
-    // Parse term format "2026-spring" -> year: "2026", semester: "spring"
+    // Convert term format: 202602 -> 2026/spring
     const termStr = String(term);
-    const [year, semester] = termStr.split("-");
+    const year = termStr.substring(0, 4);
+    const monthCode = termStr.substring(4, 6);
+
+    const semesterMap: Record<string, string> = {
+      '01': 'spring',
+      '02': 'spring',
+      '05': 'summer',
+      '06': 'summer',
+      '08': 'fall',
+      '09': 'fall',
+      '12': 'winter'
+    };
+
+    const semester = semesterMap[monthCode];
 
     if (!year || !semester) {
       return res.status(400).send({
-        message: "Invalid term format. Expected: YYYY-semester (e.g., 2026-spring)",
+        message: "Invalid term format. Expected: YYYYMM (e.g., 202602 for Spring 2026)",
       });
     }
 
@@ -87,12 +111,12 @@ export const ClassSectionProxy = async (
       restrictions = $restricted.text().trim();
     }
 
-    // Determine status category
+    // Normalize to standard status
     let statusCategory: "open" | "closed" | "restricted" = "open";
     const availLower = availability.toLowerCase();
     if (availLower.includes("closed")) {
       statusCategory = "closed";
-    } else if (availLower.includes("restricted")) {
+    } else if (availLower.includes("restricted") || availLower.includes("reserved")) {
       statusCategory = "restricted";
     }
 

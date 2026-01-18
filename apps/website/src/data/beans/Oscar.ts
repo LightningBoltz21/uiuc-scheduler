@@ -18,7 +18,7 @@ import {
 } from '../../types';
 import { ErrorWithFields, softError } from '../../log';
 
-// `new Oscar(...)` gets the entirety of the crawler JSON data
+// `new Oscar(...)` gets the entirety of the crawler JSON data from Course Explorer
 type OscarConstructionDate = CrawlerTermData;
 
 export default class Oscar {
@@ -439,7 +439,7 @@ export default class Oscar {
 }
 
 /**
- * Create an empty instance of the Oscar bean
+ * Create an empty instance of the Course Explorer data bean
  * to use as the default context value
  */
 export const EMPTY_OSCAR = new Oscar(

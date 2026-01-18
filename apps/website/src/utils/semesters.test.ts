@@ -1,7 +1,7 @@
 import { getSemesterName, isTerm } from './semesters';
 
 describe('isTerm', () => {
-  // Tests that a list of all terms that Oscar serves (as of 2021-09-10)
+  // Tests that a list of all terms that Course Explorer serves (as of 2021-09-10)
   // are all correctly identified as terms
   it('returns true with real terms', () => {
     const pastTerms = [
@@ -109,7 +109,7 @@ describe('isTerm', () => {
 });
 
 describe('getSemesterName', () => {
-  // Tests that a list of all terms that Oscar serves (as of 2021-09-10)
+  // Tests that a list of all terms that Course Explorer serves (as of 2021-09-10)
   // are all correctly formatted into the semester names
   it('converts real terms to expected values', () => {
     const expectedValues = {

@@ -438,7 +438,7 @@ export function StageExtractTermScheduleData({
 }
 
 /**
- * Loads the instance of the `Oscar` bean from the crawled data,
+ * Loads the Course Explorer data from the crawled data,
  * showing loading and error states as needed.
  * Renders a disabled header & attribution footer even when loading.
  */
@@ -461,7 +461,7 @@ export function StageLoadOscarData({
         <SkeletonContent>
           <LoadingDisplay
             state={loadingState}
-            name="Oscar course data for the current term"
+            name="Course Explorer data for the current term"
           />
         </SkeletonContent>
       </AppSkeleton>

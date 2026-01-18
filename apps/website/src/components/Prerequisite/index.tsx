@@ -33,7 +33,7 @@ export type PrerequisiteProps = {
  * "options" (sub-clauses of an OR set) if possible before rendering a list of
  * items with operators in between. Finally, in each item, there is the
  * flattened textual representation of the remainder of the subtree, which
- * restores parentheses groupings (much like the original Oscar prereq syntax)
+ * restores parentheses groupings (much like the original Course Explorer prereq syntax)
  */
 export default function Prerequisite({
   course,

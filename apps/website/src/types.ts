@@ -208,7 +208,7 @@ export type PrerequisiteSet = [
 
 /**
  * Recursive data structure that is the sequence of all prerequisites in prefix
- * notation, parsed from the information on Oscar
+ * notation, parsed from the information on Course Explorer
  *
  * @example
  *
@@ -322,7 +322,7 @@ export type CrawlerCourse = [
   // ! Type had `undefined` explicitly added to ensure we check when accessing
   prerequisites: CrawlerPrerequisites | undefined,
   /**
-   * Description pulled from Oscar
+   * Description pulled from Course Explorer
    */
   description: string | null
 ];

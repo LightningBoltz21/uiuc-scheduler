@@ -1,9 +1,8 @@
 import axios from 'axios';
-import cheerio from 'cheerio';
 import { decode } from 'html-entities';
 
 import { unique } from '../../utils/misc';
-import { DELIVERY_MODES } from '../../constants';
+import { DELIVERY_MODES, AZURE_FUNCTION_BASE_URL } from '../../constants';
 import Course from './Course';
 import Oscar from './Oscar';
 import { CrawlerMeeting, Meeting } from '../../types';
@@ -150,11 +149,59 @@ export default class Section {
   }
 
   async fetchSeating(term: string): Promise<Seating> {
-    // Backend disabled - returning cached seating data only
-    // Real-time seat availability is no longer fetched
-    return Promise.resolve(this.seating);
+    // Check cache first (5 minute cache)
+    const currDate = Date.now();
+    const prevDate = this.seating[1];
+    const CACHE_DURATION_MS = 5 * 60 * 1000; // 5 minutes
 
-    /* Original backend implementation (disabled):
+    if (currDate - prevDate < CACHE_DURATION_MS) {
+      return this.seating;
+    }
+
+    try {
+      // Parse course ID to get subject and number
+      const [subject, courseNumber] = this.course.id.split(' ');
+
+      // Call Azure Function with YYYYMM term format
+      const url = `${AZURE_FUNCTION_BASE_URL}/classSection?term=${term}&subject=${
+        subject ?? ''
+      }&courseNumber=${courseNumber ?? ''}&crn=${this.crn}`;
+
+      const response = await axios.get<{
+        status: string;
+        availability: string;
+      }>(url, { timeout: 5000 });
+      const { data } = response;
+
+      // Since UIUC doesn't provide seat counts, we use status as
+      // a boolean indicator: Open = 1/1, Closed = 0/1
+      const isOpen = data.status === 'open' ? 1 : 0;
+
+      this.seating = [
+        [isOpen, 1, 0, 0], // [current, total, waitlistCurrent, waitlistTotal]
+        currDate,
+      ];
+
+      // Store the raw availability text for display in UI
+      (this as Record<string, unknown>)['availabilityText'] = data.availability;
+
+      return this.seating;
+    } catch (err) {
+      softError(
+        new ErrorWithFields({
+          message: 'error fetching live section availability',
+          source: err,
+          fields: { crn: this.crn, term },
+        })
+      );
+
+      // Return cached data or error state
+      return this.seating[0].length > 0
+        ? this.seating
+        : [['N/A', 'N/A', 'N/A', 'N/A'], currDate];
+    }
+
+    /* Original Georgia Tech backend implementation (disabled):
     const prevDate = this.seating[1];
     const currDate = Date.now();
 

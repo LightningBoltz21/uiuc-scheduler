@@ -78,8 +78,11 @@ const COURSE_TABS = ['Courses', 'Recurring Events'];
 const COURSES = 0;
 const RECURRING_EVENTS = 1;
 
-// Backend disabled - no longer using backend services
-// const BACKEND_BASE_URL = 'https://gt-scheduler.azurewebsites.net';
+// Azure Function URL for live availability checking
+const AZURE_FUNCTION_BASE_URL =
+  process.env['REACT_APP_AZURE_FUNCTION_URL'] ||
+  'https://uiuc-scheduler-functions.azurewebsites.net/api';
+
 const FIREBASE_PROJECT_ID = firebaseConfig.projectId || `gt-scheduler-web-dev`;
 const CLOUD_FUNCTION_BASE_URL = `https://us-east1-${FIREBASE_PROJECT_ID}.cloudfunctions.net`;
 
@@ -108,7 +111,7 @@ export {
   ASYNC_DELIVERY_MODE,
   DELIVERY_MODES,
   CAMPUSES,
-  // BACKEND_BASE_URL, // Backend disabled
+  AZURE_FUNCTION_BASE_URL,
   CLOUD_FUNCTION_BASE_URL,
   DONATE_LINK,
   DESKTOP_BREAKPOINT,

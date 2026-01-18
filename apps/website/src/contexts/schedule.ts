@@ -23,7 +23,7 @@ type ExtraData = {
 };
 
 export type ScheduleContextData = Immutable<Schedule> &
-  // `Oscar` can't go into `Immutable`, so we place it separately
+  // Course Explorer data can't go into `Immutable`, so we place it separately
   Immutable<ExtraData> & {
     readonly oscar: Oscar;
   } & Immutable<TermScheduleData>;

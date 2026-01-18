@@ -15,11 +15,11 @@ import { CRAWLER_BASE_URL } from '../../constants';
 const constructTermDataUrl = (term: string): string =>
   `${CRAWLER_BASE_URL}/${term}.json`;
 
-// Number of minutes between re-downloads of the oscar data
+// Number of minutes between re-downloads of the Course Explorer data
 const REFRESH_INTERVAL_MIN = 15;
 
 /**
- * Downloads the crawled data from Oscar that the crawler prepared
+ * Downloads the crawled data from Course Explorer that the crawler prepared
  * for the given term.
  * Repeatedly attempts to load in the case of errors,
  * and cancels any in-flight downloads if the parent context is unmounted
@@ -35,7 +35,7 @@ export default function useDownloadOscarData(
     type: 'loading',
   });
 
-  // Keep a ref of the latest loaded Oscar
+  // Keep a ref of the latest loaded Course Explorer data
   // to check if it is any newer than the current one.
   const loadedOscarRef = useRef<Oscar | null>(null);
 
@@ -46,7 +46,7 @@ export default function useDownloadOscarData(
     async function loadAndRefresh(): Promise<void> {
       let isFirst = true;
       while (!loadOperation.isCancelled) {
-        // Load the oscar data, showing errors only if this is the first time
+        // Load the Course Explorer data, showing errors only if this is the first time
         // it is being loaded (otherwise, just log errors
         // but don't disrupt the user). This is to prevent
         // a background refresh from showing an error screen
@@ -149,7 +149,7 @@ export default function useDownloadOscarData(
     loadAndRefresh().catch((err) => {
       softError(
         new ErrorWithFields({
-          message: 'error loading and refreshing oscar data',
+          message: 'error loading and refreshing Course Explorer data',
           source: err,
           fields: {
             term,
@@ -166,7 +166,7 @@ export default function useDownloadOscarData(
   }, [term, setState]);
 
   // If we are about to start a new background load
-  // after the term changed, then don't return a loaded Oscar
+  // after the term changed, then don't return loaded Course Explorer data
   if (state.type === 'loaded' && state.result.term !== term) {
     return { type: 'loading' };
   }

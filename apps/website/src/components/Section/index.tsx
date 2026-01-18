@@ -105,7 +105,9 @@ export default function Section({
         {
           icon: faChair,
           id: sectionTooltipId,
-          href: `https://oscar.gatech.edu/pls/bprod/bwckschd.p_disp_detail_sched?term_in=${term}&crn_in=${section.crn}`,
+          href: `https://courses.illinois.edu/schedule/terms/${
+            section.course.id.split(' ')[0] ?? ''
+          }/${section.crn}`,
         },
         {
           icon: faBan,
@@ -143,38 +145,30 @@ export default function Section({
             hovering = false;
           }}
         >
-          <table>
-            <tbody>
-              <tr>
-                <td>
-                  <b>Seats Filled</b>
-                </td>
-                <td>
-                  {seating[0].length === 0
-                    ? `Loading...`
-                    : typeof seating[0][1] === 'number'
-                    ? `${seating[0][1] ?? '<unknown>'} of ${
-                        seating[0][0] ?? '<unknown>'
-                      }`
-                    : `N/A`}
-                </td>
-              </tr>
-              <tr>
-                <td>
-                  <b>Waitlist Filled</b>
-                </td>
-                <td>
-                  {seating[0].length === 0
-                    ? `Loading...`
-                    : typeof seating[0][1] === 'number'
-                    ? `${seating[0][3] ?? '<unknown>'} of ${
-                        seating[0][2] ?? '<unknown>'
-                      }`
-                    : `N/A`}
-                </td>
-              </tr>
-            </tbody>
-          </table>
+          {seating[0].length === 0 ? (
+            `Loading availability...`
+          ) : typeof seating[0][0] === 'number' ? (
+            <div>
+              <b>Status: </b>
+              <span
+                style={{
+                  color:
+                    seating[0][0] === 1
+                      ? '#4ade80'
+                      : seating[0][0] === 0
+                      ? '#f87171'
+                      : '#fb923c',
+                  fontWeight: 'bold',
+                }}
+              >
+                {((section as unknown as Record<string, unknown>)[
+                  'availabilityText'
+                ] as string | undefined) || 'Unknown'}
+              </span>
+            </div>
+          ) : (
+            `Availability: N/A`
+          )}
         </ReactTooltip>
       </div>
     </ActionRow>
