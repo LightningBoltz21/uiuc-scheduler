@@ -1,7 +1,7 @@
 {
   "subject": "FSHN",
-  "scrapedAt": 1768695846639,
-  "courseCount": 32,
+  "scrapedAt": 1768695871614,
+  "courseCount": 54,
   "courses": {
     "FSHN 193": [
       "Edible Entrepreneurialism - Feeding Ideas for the Future",
@@ -1277,6 +1277,1141 @@
       },
       [],
       "Same as ANSC 440, CPSC 440, NRES 440, and NUTR 440. See CPSC 440.",
+      []
+    ],
+    "FSHN 482": [
+      "Food Processing Unit Operations I Lab",
+      {
+        "A": [
+          "72750",
+          [
+            [
+              52,
+              "M",
+              "185 Agricultural Engr Sciences Bld",
+              0,
+              [
+                "Xu, C"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              3,
+              "M",
+              "ONLINE",
+              0,
+              [
+                "Xu, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "ANM": [
+          "74713",
+          [
+            [
+              52,
+              "M",
+              "185 Agricultural Engr Sciences Bld",
+              0,
+              [
+                "Xu, C"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              3,
+              "M",
+              "ONLINE",
+              0,
+              [
+                "Xu, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "73024",
+          [
+            [
+              52,
+              "W",
+              "185 Agricultural Engr Sciences Bld",
+              0,
+              [
+                "Xu, C"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              3,
+              "W",
+              "ONLINE",
+              0,
+              [
+                "Xu, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "BNM": [
+          "74714",
+          [
+            [
+              52,
+              "W",
+              "185 Agricultural Engr Sciences Bld",
+              0,
+              [
+                "Xu, C"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              3,
+              "W",
+              "ONLINE",
+              0,
+              [
+                "Xu, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Focus on topics discussed in Food Processing Unit Operations I (FSHN 481) in a food grade environment. Students will have opportunities to operate pilot scale food processing equipment for each unit operation.",
+      []
+    ],
+    "FSHN 471": [
+      "Food & Industrial Microbiology",
+      {
+        "L": [
+          "33039",
+          [
+            [
+              7,
+              "TR",
+              "W109 Turner Hall",
+              0,
+              [
+                "Miller, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Relationship of microorganisms to food manufacture and preservation, to food and industrial fermentation and processing, and to food-borne illness.",
+      []
+    ],
+    "FSHN 466": [
+      "Food Product Development",
+      {
+        "AL1": [
+          "72689",
+          [
+            [
+              44,
+              "W",
+              "362 Bevier Hall",
+              36,
+              [
+                "Macias Rodriguez, B"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              131,
+              "F",
+              "328 Bevier Hall",
+              36,
+              [
+                "Macias Rodriguez, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "AL2": [
+          "73133",
+          [
+            [
+              44,
+              "W",
+              "362 Bevier Hall",
+              36,
+              [
+                "Macias Rodriguez, B"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              131,
+              "F",
+              "328 Bevier Hall",
+              36,
+              [
+                "Macias Rodriguez, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Food Science undergraduate capstone experience for an Institute of Food Technologists (IFT) approved curriculum. The course utilizes a team-based format, and its intention is to allow students an opportunity to solve professional food science problems while developing novel food products. This course serves as an experiential learning space for students to practice applying, analyzing, and evaluating acquired food science theory through the creative experimental lens of food product development.",
+      []
+    ],
+    "FSHN 459": [
+      "Nutrition Focused Physical Assessment",
+      {
+        "A": [
+          "70879",
+          [
+            [
+              34,
+              "W",
+              "199 Bevier Hall",
+              36,
+              [
+                "Madson, J"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              28,
+              "W",
+              "108 Bevier Hall",
+              36,
+              [
+                "Madson, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Collect appropriate subjective and objective data associated with obtaining a health and diet history. An introduction to physical and diagnostic assessment of health status. The emphasis is on knowing normal findings and normal variations in the healthy adult, well child, and the well elder person.",
+      []
+    ],
+    "FSHN 499": [
+      "Cur Topics in FS & Human Nutr",
+      {
+        "": [
+          "10184",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "SNR": [
+          "78400",
+          [
+            [
+              29,
+              "TR",
+              "ONLINE",
+              0,
+              [
+                "Nickols, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Group discussion or an experimental course on a special topic in food science and human nutrition.",
+      []
+    ],
+    "FSHN 510": [
+      "Topics in Nutrition Research",
+      {
+        "A": [
+          "69142",
+          [
+            [
+              39,
+              "MTWR",
+              "292 Animal Sciences Laboratory",
+              41,
+              [
+                "Cattai de Godoy, M",
+                "Oba, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "C": [
+          "69155",
+          [
+            [
+              15,
+              "TR",
+              "108 Bevier Hall",
+              36,
+              [
+                "Jin, Y",
+                "Miller, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as ANSC 525 and NUTR 510. See NUTR 510.",
+      []
+    ],
+    "FSHN 472": [
+      "Applied Food Microbiology",
+      {
+        "A": [
+          "70272",
+          [
+            [
+              56,
+              "WF",
+              "17 Agricultural Bioprocess Lab",
+              0,
+              [
+                "Stasiewicz, M"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "M",
+              "272 Agricultural Engr Sciences Bld",
+              0,
+              [
+                "Stasiewicz, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Explores experimental methods for studying microbial food safety, quality, and fermentation. Introduces basic microbiology techniques and uses them to study how to detect and control spoilage microorganisms and potential foodborne pathogens. Conduct and experimentally track the progress of classic food fermentations.",
+      []
+    ],
+    "FSHN 443": [
+      "Management of Fine Dining",
+      {
+        "AB1": [
+          "33034",
+          [
+            [
+              148,
+              "F",
+              "286 Bevier Hall",
+              36,
+              [
+                "Brotherton, J",
+                "Craft, J"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              3,
+              "R",
+              "ONLINE",
+              0,
+              [
+                "Brotherton, J",
+                "Craft, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "33035",
+          [
+            [
+              81,
+              "M",
+              "286 Bevier Hall",
+              36,
+              [
+                "Brotherton, J",
+                "Craft, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Advanced application of food production and management principles to specific food service demands; emphasis on artistry in preparation, serving, and merchandising high quality food in quantity.",
+      []
+    ],
+    "FSHN 481": [
+      "Food Processing Unit Operations I",
+      {
+        "A": [
+          "72749",
+          [
+            [
+              33,
+              "MF",
+              "272 Agricultural Engr Sciences Bld",
+              0,
+              [
+                "Xu, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Study the engineering principles that govern food processing and preservation unit operations, including evaporation, freeze-concentration, membrane separation, dehydration, centrifugation, and extrusion, and understand the effect of the process conditions of various unit operations on product characteristics and product quality.",
+      []
+    ],
+    "FSHN 502": [
+      "Advanced Sensory Science",
+      {
+        "A": [
+          "68602",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Torrico, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "78309",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Torrico, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          8,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "In-depth and current topics in sensory science beyond the scope of undergraduate sensory course, FSHN 302. The main course objectives are to 1) discuss the physiological and psychological basis for sensory evaluation, 2) discuss Thurstonian Modeling in Difference Tests, 3) utilize multivariate statistical methods in sensory studies, 4) critique current research papers and articles in the sensory science discipline, and 5) develop a proposal for research utilizing sensory methods.",
+      []
+    ],
+    "FSHN 514": [
+      "Advanced Food Chemistry",
+      {
+        "ONL": [
+          "78430",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Atkinson, C",
+                "Demejia, E",
+                "Engeseth, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          8,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Emerging issues related to the chemistry of water, carbohydrates, lipids and proteins, as well as postharvest physiology and impact of processing on chemical reactions in foods.",
+      []
+    ],
+    "FSHN 511": [
+      "Regulation of Metabolism",
+      {
+        "AD1": [
+          "35395",
+          [
+            [
+              15,
+              "F",
+              "107 Animal Sciences Laboratory",
+              41,
+              [
+                "Hernandez Saavedra, D",
+                "Stein, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "35398",
+          [
+            [
+              15,
+              "MW",
+              "107 Animal Sciences Laboratory",
+              41,
+              [
+                "Hernandez Saavedra, D",
+                "Stein, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as ANSC 521, HK 510 and NUTR 511. See NUTR 511.",
+      []
+    ],
+    "FSHN 522": [
+      "Dietary Prevention of Cardiovascular and Other Chronic Diseases",
+      {
+        "A": [
+          "70752",
+          [
+            [
+              16,
+              "MW",
+              "328 Bevier Hall",
+              36,
+              [
+                "Nakamura, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "74964",
+          [
+            [
+              16,
+              "MW",
+              "ONLINE",
+              0,
+              [
+                "Nakamura, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          8,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "The objective of the course is to help nutritionists and dietitians build a strong biochemical, physiological, clinical and epidemiological foundation for dietary prevention of noncommunicable diseases including coronary artery disease, stroke, hypertension, osteoporosis, cancer and chronic inflammation. In particular, we will focus on evaluating the strength of evidence of the following nutrients on prevention of chronic diseases: cholesterol, saturated fatty acids, essential fatty acids, sodium, potassium, vitamin D and calcium.",
+      []
+    ],
+    "FSHN 524": [
+      "Nutritional Counseling and Treatment for Eating Disorders",
+      {
+        "ONL": [
+          "77445",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Liebel, F"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          8,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Examines prevention and treatment of eating disorders, with a focus on nutritional counseling and therapy as provided by a Registered Dietitian. Incorporates guest lectures from multiple disciplines and provides opportunities to learn about and practice counseling techniques in simulated scenarios.",
+      []
+    ],
+    "FSHN 590": [
+      "Dietetic Internship I",
+      {
+        "A": [
+          "77263",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Madson, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          9,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Supervised learning experience in a variety of settings and locations related to clinical nutrition, community nutrition and health promotion, and food service management within Urbana/Champaign and surrounding areas.",
+      []
+    ],
+    "FSHN 573": [
+      "Advanced Food Microbiology",
+      {
+        "A": [
+          "50425",
+          [
+            [
+              7,
+              "TR",
+              "W109 Turner Hall",
+              0,
+              [
+                "Banerjee, P",
+                "Jin, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              82,
+              "W",
+              "ONLINE",
+              0,
+              [
+                "Banerjee, P",
+                "Jin, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "75005",
+          [
+            [
+              82,
+              "W",
+              "ONLINE",
+              0,
+              [
+                "Banerjee, P",
+                "Jin, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              3,
+              "W",
+              "ONLINE",
+              0,
+              [
+                "Banerjee, P",
+                "Jin, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          12,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Detailed examination of food microbiology topics including food-borne pathogens, food fermentation and microbial spoilage.",
+      []
+    ],
+    "FSHN 591": [
+      "Dietetic Internship II",
+      {
+        "A": [
+          "46848",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Madson, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          9,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Supervised learning experience in a variety of settings and locations related to clinical nutrition, community nutrition and health promotion, and food service management within Urbana/Champaign and surrounding areas.",
+      []
+    ],
+    "FSHN 592": [
+      "Graduate Internship Experience",
+      {
+        "": [
+          "58267",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          12,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Supervised, off-campus experience in a field related to a students' option/concentration.",
+      []
+    ],
+    "FSHN 593": [
+      "Seminar in Foods and Nutrition",
+      {
+        "A": [
+          "33046",
+          [
+            [
+              57,
+              "W",
+              "242 Bevier Hall",
+              36,
+              [
+                "Xu, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Communication-based course that focuses on enhancing professional oral presentation skills, particularly with regard to communicating current food science and/or human nutrition topics.",
+      []
+    ],
+    "FSHN 597": [
+      "Graduate Seminar",
+      {
+        "CCN": [
+          "75212",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Xu, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "FS": [
+          "75939",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Xu, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "U": [
+          "33051",
+          [
+            [
+              9,
+              "F",
+              "180 Bevier Hall",
+              36,
+              [
+                "Demejia, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Discussions on specialized research topics and current literature relating to food science and human nutrition. Required of all graduate students.",
+      []
+    ],
+    "FSHN 595": [
+      "Advanced Topics in Food Science and Human Nutrition",
+      {
+        "C": [
+          "51238",
+          [
+            [
+              56,
+              "W",
+              "103 Bevier Hall",
+              36,
+              [
+                "Amengual Terrasa, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "SND": [
+          "46854",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Wolfgram, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Studies of selected topics in Food Science. Study may be on specialized topics in any one of the following fields: food chemistry, food microbiology, nutrition, food processing/engineering. Lectures and/or laboratory.",
+      []
+    ],
+    "FSHN 598": [
+      "Advanced Special Problems",
+      {
+        "": [
+          "10188",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "IFE": [
+          "49803",
+          [
+            [
+              91,
+              "F",
+              "ONLINE",
+              0,
+              [
+                "Ozturk, O"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          8,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Supervised individual study on advanced special problems in food science and human nutrition.",
       []
     ]
   },
