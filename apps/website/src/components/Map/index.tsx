@@ -61,8 +61,9 @@ export default function Map(): React.ReactElement {
       (a, b) => (a.times?.start ?? 0) - (b.times?.start ?? 0)
     );
     sortedCourseDateMap[day].forEach((course) => {
-      if (!seenCourseIds.has(course.id)) {
-        seenCourseIds.add(course.id);
+      const uniqueKey = `${course.id}-${course.section}-${JSON.stringify(course.coords)}`;
+      if (!seenCourseIds.has(uniqueKey)) {
+        seenCourseIds.add(uniqueKey);
         sortedCourseDateMap.ALL.push({ ...course });
       }
     });
