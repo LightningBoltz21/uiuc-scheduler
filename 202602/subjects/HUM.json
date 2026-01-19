@@ -1,43 +1,13 @@
 {
-  "subject": "EURO",
-  "scrapedAt": 1768788507884,
+  "subject": "HUM",
+  "scrapedAt": 1768788556197,
   "courseCount": 6,
   "courses": {
-    "EURO 502": [
-      "The EU in a Global Context",
-      {
-        "AS": [
-          "51676",
-          [
-            [
-              68,
-              "R",
-              "1046 Literatures, Cultures, & Ling",
-              0,
-              [
-                "Karakas Keles, H"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          2,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Introduces students to the role of the EU in international affairs.",
-      []
-    ],
-    "EURO 590": [
-      "Directed Ind Study",
+    "HUM 199": [
+      "Undergraduate Open Seminar",
       {
         "": [
-          "61005",
+          "10431",
           [
             [
               8,
@@ -52,7 +22,7 @@
               -1
             ]
           ],
-          6,
+          5,
           4,
           0,
           [],
@@ -60,49 +30,19 @@
         ]
       },
       [],
-      "May be repeated in the same term to a maximum of 6 hours. May be repeated in separate terms to a maximum of 12 hours. Prerequisite: Consent of instructor.",
+      null,
       []
     ],
-    "EURO 500": [
-      "Dialogue on Europe",
+    "HUM 498": [
+      "Special Topics Senior",
       {
-        "A": [
-          "60766",
+        "": [
+          "10435",
           [
             [
-              109,
-              "T",
-              "1018 Literatures, Cultures, & Ling",
-              0,
-              [
-                "Smith, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          2,
-          2,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Exploration of a variety of subjects about the European Union and EU-US relations and comparative perspectives. This transatlantic relationship will be studied via a series of expert lectures offered by University of Illinois faculty and visiting scholars.",
-      []
-    ],
-    "EURO 199": [
-      "Undergraduate Open Seminar",
-      {
-        "A": [
-          "75504",
-          [
-            [
-              12,
-              "R",
-              "Location Pending",
+              8,
+              "",
+              "ONLINE",
               7,
               [
                 "Unassigned Instructor"
@@ -112,42 +52,62 @@
               -1
             ]
           ],
-          5,
-          1,
+          3,
+          4,
           0,
           [],
           -1
         ]
       },
       [],
-      "Approved for letter and S/U grading. May be repeated in separate terms to a maximum of 3 hours.",
+      "Interdisciplinary seminar and tutorial in selected topics related to one of the options in the humanities major.",
       []
     ],
-    "EURO 418": [
-      "Language & Minorities in Europe",
+    "HUM 492": [
+      "Senior Thesis",
       {
-        "1G": [
-          "69022",
+        "": [
+          "10433",
           [
             [
-              15,
-              "W",
-              "321 Gregory Hall",
-              2,
-              [
-                "Fagyal, Z"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              15,
-              "M",
+              8,
+              "",
               "ONLINE",
               7,
               [
-                "Fagyal, Z"
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Individual research for majors in humanities leading to the completion of a thesis.",
+      []
+    ],
+    "HUM 111": [
+      "Introduction to the Humanities II",
+      {
+        "A": [
+          "70120",
+          [
+            [
+              69,
+              "MW",
+              "Location Pending",
+              7,
+              [
+                "Kinzy, D",
+                "O'Brien, V",
+                "Wood, A"
               ],
               -1,
               -1,
@@ -159,29 +119,25 @@
           0,
           [],
           -1
-        ],
-        "1U": [
-          "69021",
+        ]
+      },
+      [],
+      "A foundation course in the humanities for adult learners in the Odyssey program. Team-taught by faculty with humanities expertise, it focuses on a variety of fictional and nonfictional material, including but not limited to the novel, poetry, autobiography, memory-work and oral history, that make up the building blocks of humanistic inquiry. The course engages students in the disciplinary and multi-disciplinary methods through which humanists engage these forms and formats, and provides academic skill building, including critical thinking and writing.",
+      []
+    ],
+    "HUM 495": [
+      "Special Advanced Topics",
+      {
+        "": [
+          "10436",
           [
             [
-              15,
-              "W",
-              "321 Gregory Hall",
-              2,
-              [
-                "Fagyal, Z"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              15,
-              "M",
+              8,
+              "",
               "ONLINE",
               7,
               [
-                "Fagyal, Z"
+                "Unassigned Instructor"
               ],
               -1,
               -1,
@@ -189,29 +145,29 @@
             ]
           ],
           4,
-          2,
+          4,
           0,
           [],
           -1
         ]
       },
       [],
-      "Same as GER 418, FR 418, ITAL 418, LING 418, PS 418, SLAV 418, and SPAN 418. See FR 418.",
+      "Offers interdisciplinary topics in the humanities; topics vary, but normally relate to the interdisciplinary areas of study within the humanities major or to the special humanities facilities (e.g., the Language Learning Laboratory).",
       []
     ],
-    "EURO 490": [
-      "Special Topics in EU Studies",
+    "HUM 390": [
+      "Individual Study",
       {
-        "GIG": [
-          "60801",
+        "": [
+          "10432",
           [
             [
-              68,
-              "W",
-              "1018 Literatures, Cultures, & Ling",
-              0,
+              8,
+              "",
+              "ONLINE",
+              7,
               [
-                "Karakas Keles, H"
+                "Unassigned Instructor"
               ],
               -1,
               -1,
@@ -219,14 +175,14 @@
             ]
           ],
           4,
-          2,
+          4,
           0,
           [],
           -1
         ]
       },
       [],
-      "Selected reading and research in European Studies. See schedule for current topics.",
+      "Supervised reading and research on interdisciplinary humanities topics chosen by the student in consultation with a faculty member.",
       []
     ]
   },
@@ -391,7 +347,28 @@
       "1730 - 2130",
       "0900 - 1600",
       "1900 - 2200",
-      "1900 - 1950"
+      "1900 - 1950",
+      "1500 - 1615",
+      "0800 - 1220",
+      "1630 - 1910",
+      "1700 - 1920",
+      "1600 - 2050",
+      "0830 - 1350",
+      "0930 - 1040",
+      "1500 - 1600",
+      "1600 - 1820",
+      "0900 - 1145",
+      "1300 - 1545",
+      "1230 - 1520",
+      "1430 - 1620",
+      "1115 - 1205",
+      "1010 - 1100",
+      "1230 - 1420",
+      "1800 - 1850",
+      "1800 - 2020",
+      "0830 - 1120",
+      "1900 - 2020",
+      "1900 - 2030"
     ],
     "dateRanges": [],
     "scheduleTypes": [
@@ -616,6 +593,14 @@
       {
         "lat": 40.11180304465921,
         "long": -88.22613003543475
+      },
+      {
+        "lat": 40.10039170750639,
+        "long": -88.21813070187608
+      },
+      {
+        "lat": 40.1048704,
+        "long": -88.2229036
       }
     ],
     "finalDates": [],

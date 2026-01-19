@@ -4,7 +4,7 @@
   "year": "2026",
   "term": "spring",
   "startedAt": 1768788155371,
-  "lastUpdated": 1768788486617,
+  "lastUpdated": 1768788566661,
   "totalSubjects": 187,
   "totalCourses": 4509,
   "subjects": [
@@ -18687,19 +18687,48 @@
     "ERAM",
     "ESE",
     "ESL",
-    "ETMA"
+    "ETMA",
+    "EURO",
+    "EXP",
+    "FAA",
+    "FIN",
+    "FLTE",
+    "FR",
+    "FSHN",
+    "GC",
+    "GEOL",
+    "GER",
+    "GGIS",
+    "GLBL",
+    "GMC",
+    "GRK",
+    "GRKM",
+    "GSD",
+    "GWS",
+    "HBSE",
+    "HDFS",
+    "HEBR",
+    "HIST",
+    "HK",
+    "HNDI",
+    "HORT",
+    "HT",
+    "HUM",
+    "IB",
+    "IE",
+    "INFO"
   ],
   "partialSubjects": {
-    "EURO": {
-      "completed": 5,
-      "total": 6,
+    "IS": {
+      "completed": 53,
+      "total": 111,
       "lastCourse": "ABORTED"
     }
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 1904,
-    "failedCourses": 3,
+    "successfulCourses": 2633,
+    "failedCourses": 4,
     "rateLimitCount": 0
   }
 }

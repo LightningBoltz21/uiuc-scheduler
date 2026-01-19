@@ -1,43 +1,13 @@
 {
-  "subject": "EURO",
-  "scrapedAt": 1768788507884,
-  "courseCount": 6,
+  "subject": "HBSE",
+  "scrapedAt": 1768788537659,
+  "courseCount": 1,
   "courses": {
-    "EURO 502": [
-      "The EU in a Global Context",
+    "HBSE 573": [
+      "Implement—Healthcare Business Strategy and New Venture Implementation",
       {
-        "AS": [
-          "51676",
-          [
-            [
-              68,
-              "R",
-              "1046 Literatures, Cultures, & Ling",
-              0,
-              [
-                "Karakas Keles, H"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          2,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Introduces students to the role of the EU in international affairs.",
-      []
-    ],
-    "EURO 590": [
-      "Directed Ind Study",
-      {
-        "": [
-          "61005",
+        "100": [
+          "78127",
           [
             [
               8,
@@ -45,109 +15,9 @@
               "ONLINE",
               7,
               [
-                "Unassigned Instructor"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          6,
-          4,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "May be repeated in the same term to a maximum of 6 hours. May be repeated in separate terms to a maximum of 12 hours. Prerequisite: Consent of instructor.",
-      []
-    ],
-    "EURO 500": [
-      "Dialogue on Europe",
-      {
-        "A": [
-          "60766",
-          [
-            [
-              109,
-              "T",
-              "1018 Literatures, Cultures, & Ling",
-              0,
-              [
-                "Smith, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          2,
-          2,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Exploration of a variety of subjects about the European Union and EU-US relations and comparative perspectives. This transatlantic relationship will be studied via a series of expert lectures offered by University of Illinois faculty and visiting scholars.",
-      []
-    ],
-    "EURO 199": [
-      "Undergraduate Open Seminar",
-      {
-        "A": [
-          "75504",
-          [
-            [
-              12,
-              "R",
-              "Location Pending",
-              7,
-              [
-                "Unassigned Instructor"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          1,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Approved for letter and S/U grading. May be repeated in separate terms to a maximum of 3 hours.",
-      []
-    ],
-    "EURO 418": [
-      "Language & Minorities in Europe",
-      {
-        "1G": [
-          "69022",
-          [
-            [
-              15,
-              "W",
-              "321 Gregory Hall",
-              2,
-              [
-                "Fagyal, Z"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              15,
-              "M",
-              "ONLINE",
-              7,
-              [
-                "Fagyal, Z"
+                "Corredor Waldron, S",
+                "Kourpas, E",
+                "Mehta, R"
               ],
               -1,
               -1,
@@ -155,33 +25,24 @@
             ]
           ],
           4,
-          2,
+          3,
           0,
           [],
           -1
         ],
-        "1U": [
-          "69021",
+        "A": [
+          "78125",
           [
             [
-              15,
-              "W",
-              "321 Gregory Hall",
-              2,
-              [
-                "Fagyal, Z"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              15,
-              "M",
+              8,
+              "",
               "ONLINE",
               7,
               [
-                "Fagyal, Z"
+                "Corredor Waldron, S",
+                "Kourpas, E",
+                "Mehta, R",
+                "Seshadri, S"
               ],
               -1,
               -1,
@@ -189,44 +50,14 @@
             ]
           ],
           4,
-          2,
+          3,
           0,
           [],
           -1
         ]
       },
       [],
-      "Same as GER 418, FR 418, ITAL 418, LING 418, PS 418, SLAV 418, and SPAN 418. See FR 418.",
-      []
-    ],
-    "EURO 490": [
-      "Special Topics in EU Studies",
-      {
-        "GIG": [
-          "60801",
-          [
-            [
-              68,
-              "W",
-              "1018 Literatures, Cultures, & Ling",
-              0,
-              [
-                "Karakas Keles, H"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          2,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Selected reading and research in European Studies. See schedule for current topics.",
+      null,
       []
     ]
   },
@@ -391,7 +222,19 @@
       "1730 - 2130",
       "0900 - 1600",
       "1900 - 2200",
-      "1900 - 1950"
+      "1900 - 1950",
+      "1500 - 1615",
+      "0800 - 1220",
+      "1630 - 1910",
+      "1700 - 1920",
+      "1600 - 2050",
+      "0830 - 1350",
+      "0930 - 1040",
+      "1500 - 1600",
+      "1600 - 1820",
+      "0900 - 1145",
+      "1300 - 1545",
+      "1230 - 1520"
     ],
     "dateRanges": [],
     "scheduleTypes": [
@@ -616,6 +459,10 @@
       {
         "lat": 40.11180304465921,
         "long": -88.22613003543475
+      },
+      {
+        "lat": 40.10039170750639,
+        "long": -88.21813070187608
       }
     ],
     "finalDates": [],

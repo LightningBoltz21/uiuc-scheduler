@@ -1,43 +1,13 @@
 {
-  "subject": "EURO",
-  "scrapedAt": 1768788507884,
-  "courseCount": 6,
+  "subject": "EXP",
+  "scrapedAt": 1768788508766,
+  "courseCount": 5,
   "courses": {
-    "EURO 502": [
-      "The EU in a Global Context",
+    "EXP 299": [
+      "Exploratory Study Abroad",
       {
-        "AS": [
-          "51676",
-          [
-            [
-              68,
-              "R",
-              "1046 Literatures, Cultures, & Ling",
-              0,
-              [
-                "Karakas Keles, H"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          2,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Introduces students to the role of the EU in international affairs.",
-      []
-    ],
-    "EURO 590": [
-      "Directed Ind Study",
-      {
-        "": [
-          "61005",
+        "A": [
+          "78240",
           [
             [
               8,
@@ -52,37 +22,103 @@
               -1
             ]
           ],
-          6,
-          4,
+          18,
+          13,
           0,
           [],
           -1
         ]
       },
       [],
-      "May be repeated in the same term to a maximum of 6 hours. May be repeated in separate terms to a maximum of 12 hours. Prerequisite: Consent of instructor.",
+      "Provides credit toward the undergraduate degree for study at accredited foreign institutions or approved for overseas programs. Final determination of credit is made upon the student’s completion of the work. (Summer session, 0 to 8 hours).",
       []
     ],
-    "EURO 500": [
-      "Dialogue on Europe",
+    "EXP 110": [
+      "Future Ready Toolkit",
       {
-        "A": [
-          "60766",
+        "E1": [
+          "78084",
           [
             [
-              109,
+              10,
               "T",
-              "1018 Literatures, Cultures, & Ling",
-              0,
+              "2078 Natural History Building",
+              4,
               [
-                "Smith, A"
+                "Williams, N"
               ],
               -1,
               -1,
               -1
             ]
           ],
+          1,
           2,
+          0,
+          [],
+          -1
+        ],
+        "E2": [
+          "78085",
+          [
+            [
+              103,
+              "T",
+              "313 Davenport Hall",
+              3,
+              [
+                "Matresse, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "E3": [
+          "78086",
+          [
+            [
+              160,
+              "W",
+              "1022 Lincoln Hall",
+              1,
+              [
+                "Williams, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "E4": [
+          "78087",
+          [
+            [
+              103,
+              "R",
+              "11 Psychology Building",
+              8,
+              [
+                "Matresse, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
           2,
           0,
           [],
@@ -90,22 +126,22 @@
         ]
       },
       [],
-      "Exploration of a variety of subjects about the European Union and EU-US relations and comparative perspectives. This transatlantic relationship will be studied via a series of expert lectures offered by University of Illinois faculty and visiting scholars.",
+      "This seminar, part of the EXP Enrichment Experience Program, supports first-year students in purposeful career exploration and hands-on skill development. Students will discover how their strengths, interests, and values shape career direction and connect major selection to transferable skills. Emphasizing decision-making strategies, the course builds confidence in academic and career choices. Through experiential activities and campus engagement, students will develop a personalized toolkit to guide major declaration, internships, career readiness, and professional goals.",
       []
     ],
-    "EURO 199": [
-      "Undergraduate Open Seminar",
+    "EXP 199": [
+      "Exploratory Studies Open Seminar",
       {
-        "A": [
-          "75504",
+        "WEX": [
+          "77870",
           [
             [
-              12,
-              "R",
-              "Location Pending",
+              38,
+              "W",
+              "5 Weston Hall",
               7,
               [
-                "Unassigned Instructor"
+                "Stengel, L"
               ],
               -1,
               -1,
@@ -113,82 +149,66 @@
             ]
           ],
           5,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "A changing array of courses focusing on special topics in Exploratory Studies.",
+      []
+    ],
+    "EXP 150": [
+      "James Scholars Foundations: Navigating Your First Semester in Honors",
+      {
+        "H": [
+          "77869",
+          [
+            [
+              160,
+              "M",
+              "23 Psychology Building",
+              8,
+              [
+                "Smothers, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
           1,
+          2,
           0,
           [],
           -1
         ]
       },
       [],
-      "Approved for letter and S/U grading. May be repeated in separate terms to a maximum of 3 hours.",
+      "This course is tailored for students new to the Division of Exploratory Studies (EXP) James Scholars program. It offers a dynamic introduction to the opportunities, responsibilities, and experiences associated with being part of the University of Illinois Honors Community. Participants will actively explore resources, expectations, and connections designed to support academic and personal success both inside and outside the classroom.",
       []
     ],
-    "EURO 418": [
-      "Language & Minorities in Europe",
+    "EXP 101": [
+      "Exploring @ Illinois",
       {
-        "1G": [
-          "69022",
+        "1": [
+          "77868",
           [
             [
-              15,
-              "W",
-              "321 Gregory Hall",
-              2,
-              [
-                "Fagyal, Z"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              15,
+              42,
               "M",
-              "ONLINE",
-              7,
+              "29 Psychology Building",
+              8,
               [
-                "Fagyal, Z"
+                "Torres, N"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          4,
           2,
-          0,
-          [],
-          -1
-        ],
-        "1U": [
-          "69021",
-          [
-            [
-              15,
-              "W",
-              "321 Gregory Hall",
-              2,
-              [
-                "Fagyal, Z"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              15,
-              "M",
-              "ONLINE",
-              7,
-              [
-                "Fagyal, Z"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
           2,
           0,
           [],
@@ -196,37 +216,7 @@
         ]
       },
       [],
-      "Same as GER 418, FR 418, ITAL 418, LING 418, PS 418, SLAV 418, and SPAN 418. See FR 418.",
-      []
-    ],
-    "EURO 490": [
-      "Special Topics in EU Studies",
-      {
-        "GIG": [
-          "60801",
-          [
-            [
-              68,
-              "W",
-              "1018 Literatures, Cultures, & Ling",
-              0,
-              [
-                "Karakas Keles, H"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          2,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Selected reading and research in European Studies. See schedule for current topics.",
+      "An introduction to the opportunities and resources available to “Undeclared” students in the Division of Exploratory Studies. The primary goal of this course is to assist students with the transition to college life at Illinois with a focus on understanding and navigating the major selection process. Through participation in this course, students will learn about university resources, the major exploration process, and what it means to be a successful student at Illinois.",
       []
     ]
   },
@@ -391,7 +381,8 @@
       "1730 - 2130",
       "0900 - 1600",
       "1900 - 2200",
-      "1900 - 1950"
+      "1900 - 1950",
+      "1500 - 1615"
     ],
     "dateRanges": [],
     "scheduleTypes": [

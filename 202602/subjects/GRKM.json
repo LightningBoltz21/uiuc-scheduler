@@ -1,111 +1,22 @@
 {
-  "subject": "EURO",
-  "scrapedAt": 1768788507884,
-  "courseCount": 6,
+  "subject": "GRKM",
+  "scrapedAt": 1768788533076,
+  "courseCount": 4,
   "courses": {
-    "EURO 502": [
-      "The EU in a Global Context",
-      {
-        "AS": [
-          "51676",
-          [
-            [
-              68,
-              "R",
-              "1046 Literatures, Cultures, & Ling",
-              0,
-              [
-                "Karakas Keles, H"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          2,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Introduces students to the role of the EU in international affairs.",
-      []
-    ],
-    "EURO 590": [
-      "Directed Ind Study",
-      {
-        "": [
-          "61005",
-          [
-            [
-              8,
-              "",
-              "ONLINE",
-              7,
-              [
-                "Unassigned Instructor"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          6,
-          4,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "May be repeated in the same term to a maximum of 6 hours. May be repeated in separate terms to a maximum of 12 hours. Prerequisite: Consent of instructor.",
-      []
-    ],
-    "EURO 500": [
-      "Dialogue on Europe",
+    "GRKM 202": [
+      "Elementary Modern Greek II",
       {
         "A": [
-          "60766",
+          "52722",
           [
             [
-              109,
-              "T",
-              "1018 Literatures, Cultures, & Ling",
-              0,
+              3,
+              "MWF",
+              "313 Gregory Hall",
+              2,
               [
-                "Smith, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          2,
-          2,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Exploration of a variety of subjects about the European Union and EU-US relations and comparative perspectives. This transatlantic relationship will be studied via a series of expert lectures offered by University of Illinois faculty and visiting scholars.",
-      []
-    ],
-    "EURO 199": [
-      "Undergraduate Open Seminar",
-      {
-        "A": [
-          "75504",
-          [
-            [
-              12,
-              "R",
-              "Location Pending",
-              7,
-              [
-                "Unassigned Instructor"
+                "Hadjipolycarpou, M",
+                "Moulita, M"
               ],
               -1,
               -1,
@@ -113,41 +24,29 @@
             ]
           ],
           5,
-          1,
+          2,
           0,
           [],
           -1
         ]
       },
       [],
-      "Approved for letter and S/U grading. May be repeated in separate terms to a maximum of 3 hours.",
+      "Develops elementary proficiency in spoken and written Modern Greek, including familiarity with elements of cultural knowledge and Modern Greek morphology and syntax. Emphasizes listening comprehension, reading skills, writing and conversational abilities. Online language laboratory and internet assignments required.",
       []
     ],
-    "EURO 418": [
-      "Language & Minorities in Europe",
+    "GRKM 493": [
+      "Independent Reading",
       {
-        "1G": [
-          "69022",
+        "MH": [
+          "75160",
           [
             [
-              15,
-              "W",
-              "321 Gregory Hall",
-              2,
-              [
-                "Fagyal, Z"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              15,
-              "M",
+              8,
+              "",
               "ONLINE",
               7,
               [
-                "Fagyal, Z"
+                "Hadjipolycarpou, M"
               ],
               -1,
               -1,
@@ -155,40 +54,58 @@
             ]
           ],
           4,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Independent study of a topic in Modern Greek language, literature, or culture under the supervision of the instructor; texts in Modern Greek and/or English.",
+      []
+    ],
+    "GRKM 199": [
+      "Undergraduate Open Seminar",
+      {
+        "A": [
+          "54918",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Hadjipolycarpou, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
           2,
           0,
           [],
           -1
         ],
-        "1U": [
-          "69021",
+        "B": [
+          "64012",
           [
             [
-              15,
-              "W",
-              "321 Gregory Hall",
-              2,
-              [
-                "Fagyal, Z"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              15,
-              "M",
+              8,
+              "",
               "ONLINE",
               7,
               [
-                "Fagyal, Z"
+                "Bosak-Schroeder, C"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          4,
+          5,
           2,
           0,
           [],
@@ -196,22 +113,22 @@
         ]
       },
       [],
-      "Same as GER 418, FR 418, ITAL 418, LING 418, PS 418, SLAV 418, and SPAN 418. See FR 418.",
+      "May be repeated in separate terms.",
       []
     ],
-    "EURO 490": [
-      "Special Topics in EU Studies",
+    "GRKM 404": [
+      "Intermediate Modern Greek II",
       {
-        "GIG": [
-          "60801",
+        "A": [
+          "54934",
           [
             [
-              68,
-              "W",
-              "1018 Literatures, Cultures, & Ling",
-              0,
+              4,
+              "MWF",
+              "108 David Kinley Hall",
+              12,
               [
-                "Karakas Keles, H"
+                "Hadjipolycarpou, M"
               ],
               -1,
               -1,
@@ -226,7 +143,7 @@
         ]
       },
       [],
-      "Selected reading and research in European Studies. See schedule for current topics.",
+      "Consolidates students' knowledge of Modern Greek grammar and vocabulary and enables them to converse in Modern Greek by exposing them to different uses of Modern Greek in day-to-day communication. Also offers an introduction to aspects of Modern Greek literature. In addition to listening comprehension and reading skills, the course emphasizes writing and conversational abilities. Online language laboratory and internet assignments required.",
       []
     ]
   },
@@ -391,7 +308,16 @@
       "1730 - 2130",
       "0900 - 1600",
       "1900 - 2200",
-      "1900 - 1950"
+      "1900 - 1950",
+      "1500 - 1615",
+      "0800 - 1220",
+      "1630 - 1910",
+      "1700 - 1920",
+      "1600 - 2050",
+      "0830 - 1350",
+      "0930 - 1040",
+      "1500 - 1600",
+      "1600 - 1820"
     ],
     "dateRanges": [],
     "scheduleTypes": [
