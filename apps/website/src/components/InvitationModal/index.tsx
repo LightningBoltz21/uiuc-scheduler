@@ -346,47 +346,10 @@ export function InvitationModalContent({
       <div className="top-block">
         <p className="modal-title">Share Schedule</p>
         <p>
-          Enter an email associated with another user&apos;s UIUC-Scheduler
-          account & we&apos;ll send them an invite via email to import this
-          schedule into their view
+          Share your schedule with friends by generating a link. Anyone with the
+          link can view your selected schedule(s) in their UIUC Scheduler
+          account.
         </p>
-        <div className="email-input-block">
-          <div className="email-input">
-            <input
-              type="email"
-              id="email"
-              key="email"
-              ref={input}
-              className="email"
-              placeholder="Enter user's email address"
-              list="recent-invites"
-              onFocus={handleChangeSearch}
-              onKeyDown={handleKeyDown}
-              onChange={handleChangeSearch}
-              value={emailInput}
-            />
-          </div>
-          <button
-            type="button"
-            className={classes(
-              'send-button',
-              !emailInput.trim() && 'disabled-send-button',
-              emailIcon === 'spinner' && 'email-button-spinner',
-              emailIcon === 'checkmark' && 'email-button-checkmark'
-            )}
-            onClick={verifyEmail}
-          >
-            {emailIcon === 'send' && <FontAwesomeIcon icon={faPaperPlane} />}
-            {emailIcon === 'spinner' && <Spinner size="small" />}
-            {emailIcon === 'checkmark' && (
-              <FontAwesomeIcon
-                className="email-button-check-icon"
-                icon={faCheck}
-              />
-            )}
-          </button>
-        </div>
-        <div className={validClassName}>{validMessage}</div>
         <div className="share-schedule-checkboxes">
           {allVersionNames.slice(0, 3).map((v) => (
             <ShareScheduleCheckbox
