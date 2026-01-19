@@ -1,7 +1,7 @@
 {
   "subject": "CPSC",
-  "scrapedAt": 1768788406832,
-  "courseCount": 32,
+  "scrapedAt": 1768788434546,
+  "courseCount": 33,
   "courses": {
     "CPSC 304": [
       "Plant Pathology",
@@ -1367,6 +1367,36 @@
       },
       [],
       "Same as ANSC 591 and INFO 591. See INFO 591.",
+      []
+    ],
+    "CPSC 598": [
+      "Seminar",
+      {
+        "G1": [
+          "31638",
+          [
+            [
+              3,
+              "W",
+              "W109 Turner Hall",
+              7,
+              [
+                "Marks, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          11,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Current research in crops, genetic engineering, plant protection and other topics relevant to Crop Sciences.",
       []
     ]
   },
