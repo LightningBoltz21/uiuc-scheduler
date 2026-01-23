@@ -30,43 +30,6 @@ uiuc-scheduler/
 └── gpa_stuff/            # GPA data processing utilities
 ```
 
-### System Diagram
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                         Users                                    │
-└─────────────────────────────────────────────────────────────────┘
-                              │
-                              ▼
-┌─────────────────────────────────────────────────────────────────┐
-│                    uiucscheduler.org                             │
-│                  (GitHub Pages - React SPA)                      │
-└─────────────────────────────────────────────────────────────────┘
-          │                    │                      │
-          ▼                    ▼                      ▼
-┌──────────────────┐  ┌──────────────────┐  ┌──────────────────────┐
-│  Course Data     │  │  Firebase        │  │  Azure Functions     │
-│  (gh-pages)      │  │  (Firestore +    │  │  (Backend API)       │
-│                  │  │   Functions)     │  │                      │
-│  - 202502.json   │  │  - Schedules     │  │  - Feedback API      │
-│  - index.json    │  │  - Friend Share  │  │                      │
-│  - GPA data      │  │  - Invitations   │  │                      │
-└──────────────────┘  └──────────────────┘  └──────────────────────┘
-          ▲
-          │
-┌──────────────────┐
-│  Crawler v3      │
-│  (GitHub Action) │
-│  Weekly scrape   │
-└──────────────────┘
-          │
-          ▼
-┌──────────────────┐
-│  courses.illinois│
-│  .edu            │
-└──────────────────┘
-```
-
 ## Technology Stack
 
 | Component | Technology |
@@ -220,7 +183,7 @@ UIUC Scheduler is a derivative of the amazing [GT Scheduler](https://github.com/
 
 ### Original Work
 
-Created by [Jinseo Park](https://github.com/64json), [Bits of Good](https://bitsofgood.org/), and the [GT Scheduler contributors](https://github.com/gt-scheduler/website/graphs/contributors).
+Created by [Jinseo Park](https://github.com/64json), [Bits of Good](https://bitsofgood.org/), and the GT Scheduler contributors.
 
 ### UIUC Modifications
 
