@@ -80,7 +80,7 @@ const CLOUD_FUNCTION_BASE_URL = `https://us-east1-${FIREBASE_PROJECT_ID}.cloudfu
 // Use with served url in env file if you want to run with a local crawler
 // eg. http://localhost:8080
 const CUSTOM_CRAWLER_URL = process.env['REACT_APP_LOCAL_CRAWLER_URL'];
-const CRAWLER_BASE_URL = CUSTOM_CRAWLER_URL || 'https://uiucscheduler.org';
+const CRAWLER_BASE_URL = CUSTOM_CRAWLER_URL || 'https://lightningboltz21.github.io/uiuc-scheduler';
 
 const DONATE_LINK = 'https://ko-fi.com/uiucscheduler';
 
