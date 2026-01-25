@@ -281,7 +281,7 @@ export default class Course {
     let gpaData = win.gpaDataCache;
     if (!gpaData) {
       try {
-        const res = await fetch('/gpa.json');
+        const res = await fetch(`${process.env.PUBLIC_URL}/gpa.json`);
         if (!res.ok) return null;
         gpaData = (await res.json()) as GpaData;
         win.gpaDataCache = gpaData;
