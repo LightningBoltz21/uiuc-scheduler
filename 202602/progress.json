@@ -4,7 +4,7 @@
   "year": "2026",
   "term": "spring",
   "startedAt": 1768788155371,
-  "lastUpdated": 1768788566661,
+  "lastUpdated": 1769393288520,
   "totalSubjects": 187,
   "totalCourses": 4509,
   "subjects": [
@@ -18716,19 +18716,47 @@
     "HUM",
     "IB",
     "IE",
-    "INFO"
+    "INFO",
+    "IS",
+    "ITAL",
+    "JAPN",
+    "JOUR",
+    "JS",
+    "KOR",
+    "LA",
+    "LAS",
+    "LAST",
+    "LAT",
+    "LAW",
+    "LCTL",
+    "LEAD",
+    "LER",
+    "LING",
+    "LLS",
+    "MACS",
+    "MATH",
+    "MBA",
+    "MCB",
+    "MDIA",
+    "MDVL",
+    "ME",
+    "MICR",
+    "MILS",
+    "MIP",
+    "MSE",
+    "MUS"
   ],
   "partialSubjects": {
-    "IS": {
-      "completed": 53,
-      "total": 111,
+    "MUSC": {
+      "completed": 111,
+      "total": 123,
       "lastCourse": "ABORTED"
     }
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 2633,
-    "failedCourses": 4,
+    "successfulCourses": 3450,
+    "failedCourses": 5,
     "rateLimitCount": 0
   }
 }
