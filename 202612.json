@@ -60,36 +60,6 @@
       "Same as MILS 120 and NS 120. See MILS 120.",
       []
     ],
-    "ANTH 246": [
-      "Forensic Science",
-      {
-        "ONL": [
-          "10143",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Reich, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "History and theory underlying methods used in forensic science. Topics include the courtroom, the units of a crime laboratory, methods of securing and investigating a crime scene, and the analysis of evidence collected from a crime scene such as blood, fibers, hair, DNA, and fingerprints.",
-      []
-    ],
     "ANTH 103": [
       "Anthro in a Changing World",
       {
@@ -148,6 +118,36 @@
       },
       [],
       "Cross-cultural introduction to the celebration of death across time and space. Examines the anthropological and archaeological literature on death, particularly in terms of death ritual and burial practices. Students study popular films on death in different cultures.",
+      []
+    ],
+    "ANTH 246": [
+      "Forensic Science",
+      {
+        "ONL": [
+          "10143",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Reich, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "History and theory underlying methods used in forensic science. Topics include the courtroom, the units of a crime laboratory, methods of securing and investigating a crime scene, and the analysis of evidence collected from a crime scene such as blood, fibers, hair, DNA, and fingerprints.",
       []
     ],
     "ASTR 330": [
@@ -240,11 +240,11 @@
       "Most extreme manifestations of weather and climate are analyzed in terms of their physical basis and their historical, economic and human consequences. Emphasis is placed on the interplay between technological advances, the evolution of meteorology as a science, and the impacts of extreme weather (winter storms, floods, severe thunderstorms, hurricanes, El Nino). Technological advances include satellites, weather radars and profilers, and computer models used for weather prediction.",
       []
     ],
-    "BADM 275": [
-      "Introduction to Operations and Supply Chain Management",
+    "BADM 310": [
+      "Mgmt and Organizational Beh",
       {
         "OL": [
-          "10121",
+          "10014",
           [
             [
               0,
@@ -252,7 +252,7 @@
               "ONLINE",
               0,
               [
-                "Sumkin, D"
+                "Ji, M"
               ],
               -1,
               -1,
@@ -267,67 +267,7 @@
         ]
       },
       [],
-      "Operations and Supply Chain Management is about sourcing, producing, and delivering goods and services that meet and exceed customer expectations. In this course, students will be introduced to decision-making frameworks and techniques for effectively and efficiently managing processes through coordinated efforts across different organizations in a supply chain and across multiple areas within an organization, such as: consumer analytics, research and development, finance, engineering, marketing, human resource management, sourcing, information systems, logistics, and accounting.",
-      []
-    ],
-    "BADM 380": [
-      "International Business",
-      {
-        "OL": [
-          "10017",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Bucheli, M"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Introduces the field of international business and management. Examines the economic, political, and legal environments of international business. Analyzes differences in financial management, marketing, and management practices for firms doing business abroad.",
-      []
-    ],
-    "BADM 320": [
-      "Principles of Marketing",
-      {
-        "OL": [
-          "10056",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Liu, Y"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Emphasizes the concepts of planning, organization, control, and decision making as they are applied in the management of the marketing function. Provides an overview of aspects of the marketing discipline.",
+      "General analysis of management and organizational behavior from a systems point of view, including classical organizational theory and management, organizational behavior, and management science; environmental forces; planning, organizing, and control processes; motivation, incentives, leadership, communication, and interpersonal relations; and discussion of production and decision-making and mathematical models.",
       []
     ],
     "BADM 300": [
@@ -360,11 +300,11 @@
       "Introduction to law and the legal system, litigation, contracts, business organizations, intellectual property, employment law and governmental regulation of business.",
       []
     ],
-    "BADM 310": [
-      "Mgmt and Organizational Beh",
+    "BADM 380": [
+      "International Business",
       {
         "OL": [
-          "10014",
+          "10017",
           [
             [
               0,
@@ -372,7 +312,7 @@
               "ONLINE",
               0,
               [
-                "Ji, M"
+                "Bucheli, M"
               ],
               -1,
               -1,
@@ -387,7 +327,97 @@
         ]
       },
       [],
-      "General analysis of management and organizational behavior from a systems point of view, including classical organizational theory and management, organizational behavior, and management science; environmental forces; planning, organizing, and control processes; motivation, incentives, leadership, communication, and interpersonal relations; and discussion of production and decision-making and mathematical models.",
+      "Introduces the field of international business and management. Examines the economic, political, and legal environments of international business. Analyzes differences in financial management, marketing, and management practices for firms doing business abroad.",
+      []
+    ],
+    "BADM 275": [
+      "Introduction to Operations and Supply Chain Management",
+      {
+        "OL": [
+          "10121",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Sumkin, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Operations and Supply Chain Management is about sourcing, producing, and delivering goods and services that meet and exceed customer expectations. In this course, students will be introduced to decision-making frameworks and techniques for effectively and efficiently managing processes through coordinated efforts across different organizations in a supply chain and across multiple areas within an organization, such as: consumer analytics, research and development, finance, engineering, marketing, human resource management, sourcing, information systems, logistics, and accounting.",
+      []
+    ],
+    "BADM 320": [
+      "Principles of Marketing",
+      {
+        "OL": [
+          "10056",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Liu, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Emphasizes the concepts of planning, organization, control, and decision making as they are applied in the management of the marketing function. Provides an overview of aspects of the marketing discipline.",
+      []
+    ],
+    "CLCV 115": [
+      "Mythology of Greece and Rome",
+      {
+        "A": [
+          "10083",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Moulita, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Studies the major myths of Greece and Rome and their impact upon later art, music, and literature. Shares two hours of lecture with CLCV 111; additional hour of lecture-discussion for a closer analysis of topics.",
       []
     ],
     "CLCV 102": [
@@ -418,36 +448,6 @@
       },
       [],
       "Introduction to the study of Greek and Latin medical terms in various medical fields and to the linguistic patterns governing the combination of various roots through practical application of usage.",
-      []
-    ],
-    "CLCV 115": [
-      "Mythology of Greece and Rome",
-      {
-        "A": [
-          "10083",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Boyd, H"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Studies the major myths of Greece and Rome and their impact upon later art, music, and literature. Shares two hours of lecture with CLCV 111; additional hour of lecture-discussion for a closer analysis of topics.",
       []
     ],
     "CMN 210": [
@@ -510,11 +510,11 @@
       "[IAI Code: F1906] Overview of major works, figures, and trends responsible for shaping dance as an evolving contemporary art form. The course will have lecture, viewing, discussion and experiential (studio participation) components.",
       []
     ],
-    "ECON 102": [
-      "Microeconomic Principles",
+    "ECON 103": [
+      "Macroeconomic Principles",
       {
         "ONL": [
-          "10019",
+          "10020",
           [
             [
               0,
@@ -522,8 +522,8 @@
               "ONLINE",
               0,
               [
-                "Ambardar, S",
-                "DiIanni, I"
+                "Simon, P",
+                "Vazquez, J"
               ],
               -1,
               -1,
@@ -538,7 +538,7 @@
         ]
       },
       [],
-      "[IAI Code: S3902] Introduction to the functions of individual decision-makers, both consumers and producers, within the larger economic system. Primary emphasis on the nature and functions of product markets, the theory of the firm under varying conditions of competition and monopoly, and the role of government in prompting efficiency in the economy.",
+      "[IAI Code: S3901] Introduction to the theory of determination of total or aggregate income, employment, output, price levels, and the role of money in the economy. Primary emphasis on monetary and fiscal policy, inflation, unemployment, economic growth, and international economics.",
       []
     ],
     "ECON 202": [
@@ -572,11 +572,11 @@
       "Introduction of basic concepts in statistics including the presentation of data, descriptive statistics, probability theory, discrete and continuous distributions, sampling distributions, estimation, and hypothesis testing. The approach of the class includes both learning the concepts behind basic statistics and also how to apply these concepts in \"real-life\" situations. Utilizes a practical project format. To complete the Business Statistics sequence, students must also complete ECON 203.",
       []
     ],
-    "ECON 103": [
-      "Macroeconomic Principles",
+    "ECON 102": [
+      "Microeconomic Principles",
       {
         "ONL": [
-          "10020",
+          "10019",
           [
             [
               0,
@@ -584,8 +584,8 @@
               "ONLINE",
               0,
               [
-                "Simon, P",
-                "Vazquez, J"
+                "Ambardar, S",
+                "DiIanni, I"
               ],
               -1,
               -1,
@@ -600,7 +600,7 @@
         ]
       },
       [],
-      "[IAI Code: S3901] Introduction to the theory of determination of total or aggregate income, employment, output, price levels, and the role of money in the economy. Primary emphasis on monetary and fiscal policy, inflation, unemployment, economic growth, and international economics.",
+      "[IAI Code: S3902] Introduction to the functions of individual decision-makers, both consumers and producers, within the larger economic system. Primary emphasis on the nature and functions of product markets, the theory of the firm under varying conditions of competition and monopoly, and the role of government in prompting efficiency in the economy.",
       []
     ],
     "ENGL 360": [
@@ -633,96 +633,6 @@
       null,
       []
     ],
-    "ESE 118": [
-      "Natural Disasters",
-      {
-        "A": [
-          "10008",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Austin, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as GEOL 118 and GLBL 118. See GEOL 118.",
-      []
-    ],
-    "ESE 111": [
-      "Emergence of Life",
-      {
-        "A": [
-          "10075",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Christie, M"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as GEOL 111. See GEOL 111.",
-      []
-    ],
-    "ESE 360": [
-      "Environmental Writing",
-      {
-        "A": [
-          "10076",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Tomkin, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Equips students to write about the environment for various audiences, with a focus on specific current efforts to promote sustainability on the Urbana-Champaign campus. We will practice effective techniques for each stage of the writing process-from defining topics, to gathering information, to crafting active, engaging prose. Readings will include models of effective environmental writing and \"how to\" pieces by experts. Research will include visits to campus sites and student-conducted interviews with subjects.",
-      []
-    ],
     "ESE 120": [
       "Severe and Hazardous Weather",
       {
@@ -751,6 +661,36 @@
       },
       [],
       "Same as ATMS 120. See ATMS 120.",
+      []
+    ],
+    "ESE 118": [
+      "Natural Disasters",
+      {
+        "A": [
+          "10008",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Austin, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as GEOL 118 and GLBL 118. See GEOL 118.",
       []
     ],
     "ESE 117": [
@@ -783,11 +723,11 @@
       "Same as GEOL 117. See GEOL 117.",
       []
     ],
-    "GEOL 118": [
-      "Natural Disasters",
+    "ESE 360": [
+      "Environmental Writing",
       {
         "A": [
-          "10007",
+          "10076",
           [
             [
               0,
@@ -795,7 +735,7 @@
               "ONLINE",
               0,
               [
-                "Austin, S"
+                "Tomkin, J"
               ],
               -1,
               -1,
@@ -810,7 +750,37 @@
         ]
       },
       [],
-      "Introduces the nature, causes, risks, effects, and prediction of natural disasters including earthquakes, volcanoes, landslides, subsidence, global climate change, severe weather, coastal erosion, floods, mass extinctions, and meteorite impacts; covers scientific principles and case histories of natural disasters as well as human responses (societal impact, mitigation strategies, and public policy).",
+      "Equips students to write about the environment for various audiences, with a focus on specific current efforts to promote sustainability on the Urbana-Champaign campus. We will practice effective techniques for each stage of the writing process-from defining topics, to gathering information, to crafting active, engaging prose. Readings will include models of effective environmental writing and \"how to\" pieces by experts. Research will include visits to campus sites and student-conducted interviews with subjects.",
+      []
+    ],
+    "ESE 111": [
+      "Emergence of Life",
+      {
+        "A": [
+          "10075",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Christie, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as GEOL 111. See GEOL 111.",
       []
     ],
     "GEOL 111": [
@@ -871,6 +841,36 @@
       },
       [],
       "Integrated introduction to oceanography and marine geology and geophysics. Topics include ocean-basin formation and evolution (in the context of plate tectonics), ocean ecology, the hydrologic cycle, water chemistry, currents and waves, the interaction of oceans with climate, coastal hazards, resources, pollution, and the Law of the Sea. Course is oriented toward students not majoring in science.",
+      []
+    ],
+    "GEOL 118": [
+      "Natural Disasters",
+      {
+        "A": [
+          "10007",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Austin, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduces the nature, causes, risks, effects, and prediction of natural disasters including earthquakes, volcanoes, landslides, subsidence, global climate change, severe weather, coastal erosion, floods, mass extinctions, and meteorite impacts; covers scientific principles and case histories of natural disasters as well as human responses (societal impact, mitigation strategies, and public policy).",
       []
     ],
     "GLBL 100": [
@@ -993,6 +993,36 @@
       "Same as MACS 356. See MACS 356.",
       []
     ],
+    "HIST 100": [
+      "Global History",
+      {
+        "A": [
+          "10144",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Mandala, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Broad introduction to global history, by exploring the global structures and transnational forces that have shaped human history, from the emergence of agriculture and urban centers to our contemporary global village.",
+      []
+    ],
     "HIST 104": [
       "Black Music",
       {
@@ -1043,36 +1073,6 @@
       },
       [],
       "What is black music, and how do we know what we think we know about it? Together, we will examine musical creations pioneered by Africans and individuals of African descent over several centuries and across hemispheres. Doing so will allow us to consider the unity of the African Diaspora and its music, and also examine internal differences and diversity. Special focus is given to Latin America and the U.S., but, depending on the semester, we will also read about, listen to, and talk about music and musicians in Asia, Africa, and Europe.",
-      []
-    ],
-    "HIST 100": [
-      "Global History",
-      {
-        "A": [
-          "10144",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Mandala, R"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Broad introduction to global history, by exploring the global structures and transnational forces that have shaped human history, from the emergence of agriculture and urban centers to our contemporary global village.",
       []
     ],
     "HK 271": [
@@ -1165,6 +1165,36 @@
       "Data visualization is crucial to conveying information drawn from models, observations or investigations. This course will provide an overview of historical and modern techniques for visualizing data, drawing on quantitative, statistical, and network-focused datasets. Topics will include construction of communicative visualizations, the modern software ecosystem of visualization, and techniques for aggregation and interpretation of data through visualization. Particular attention will be paid to the Python ecosystem and multi-dimensional quantitative datasets.",
       []
     ],
+    "IS 229": [
+      "Web Design Fundamentals",
+      {
+        "OAU": [
+          "10132",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "MacMullen, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "In this course students will learn the principles and methodologies of modern Web design and development, while also becoming familiar with the history of the Web. Students will develop useful practical skills through hands-on engagement with open-source tools, platforms, and resources, while also acquiring a critical understanding of current challenges around such topics as web-standards, security, and accessibility. Students will also become familiar with philosophical models and practical frameworks for creating human-centered systems and will apply such constructively critical understandings in their own web design projects.",
+      []
+    ],
     "IS 199": [
       "Undergraduate Open Seminar",
       {
@@ -1223,36 +1253,6 @@
       },
       [],
       "Directed and supervised investigation of selected topics in information studies that may include among others computers and culture; information policy; community information systems; production, retrieval and evaluation of scientific or social science knowledge; computer-mediated communication; and computer-supported cooperative work.",
-      []
-    ],
-    "IS 229": [
-      "Web Design Fundamentals",
-      {
-        "OAU": [
-          "10132",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "MacMullen, T"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "In this course students will learn the principles and methodologies of modern Web design and development, while also becoming familiar with the history of the Web. Students will develop useful practical skills through hands-on engagement with open-source tools, platforms, and resources, while also acquiring a critical understanding of current challenges around such topics as web-standards, security, and accessibility. Students will also become familiar with philosophical models and practical frameworks for creating human-centered systems and will apply such constructively critical understandings in their own web design projects.",
       []
     ],
     "JOUR 200": [
@@ -1375,37 +1375,6 @@
       "Examines the notion that the mass media influence our development as gendered individuals, looking at those who argue for and against this notion. Considers different forms of feminist theory applied to the study of mass media, the history and scholarly criticisms of the media and their portrayal of women, and feminist attempts to create alternatives to mainstream media images. Throughout, the course considers representation of minorities in the dominant media and examines newly created alternative representations.",
       []
     ],
-    "MUS 133": [
-      "Introduction to World Music",
-      {
-        "A": [
-          "10097",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Miller, M",
-                "Smith, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "[IAI Code: F1903N] A survey of various musical traditions from different regions and peoples of the world.",
-      []
-    ],
     "MUS 132": [
       "Popular Music Studies",
       {
@@ -1435,6 +1404,37 @@
       },
       [],
       "Courses within this rubric provide an analytical and historical introduction to genres of popular music from the United States and around the world. Iterations of the course may focus on a specific genre, such as Rock, Reggae, or Afropop, or may deal with broader subjects, such as the continua of styles including R&B, Soul, Funk, and Hip Hop, or the pan-generic, international phenomenon of pop music globalization in the twentieth century.",
+      []
+    ],
+    "MUS 133": [
+      "Introduction to World Music",
+      {
+        "A": [
+          "10097",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Miller, M",
+                "Smith, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "[IAI Code: F1903N] A survey of various musical traditions from different regions and peoples of the world.",
       []
     ],
     "NS 120": [
@@ -1557,6 +1557,36 @@
       "[IAI Code: S6900] Study of human behavior with special reference to perception, learning, memory, thinking, emotional life, and individual differences in intelligence, aptitude, and personality; emphasis on the scientific nature of psychological investigations; and discussion of research methods and the relation of their results to daily life and everyday problems. Lectures, discussions, and six hours of participation as a subject in psychological experiments. Credit is not given toward graduation for: Credit is not given for both PSYC 100 and either PSYC 103 or PSYC 1.",
       []
     ],
+    "PSYC 216": [
+      "Child Psych",
+      {
+        "A": [
+          "10099",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Hyde, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "[IAI Code: S6903] Study of the psychological development of the child.",
+      []
+    ],
     "PSYC 204": [
       "Intro to Brain and Cognition",
       {
@@ -1615,36 +1645,6 @@
       },
       [],
       "Survey of the experimental psychology of sensory and perceptual processes and behavior; emphasis on the contribution of behavior science to understanding subjective experience of the physical and social environment.",
-      []
-    ],
-    "PSYC 216": [
-      "Child Psych",
-      {
-        "A": [
-          "10099",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Hyde, D"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          2,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "[IAI Code: S6903] Study of the psychological development of the child.",
       []
     ],
     "REL 110": [
@@ -1813,6 +1813,6 @@
     "finalDates": [],
     "finalTimes": []
   },
-  "updatedAt": "2026-01-18T00:29:40.954Z",
+  "updatedAt": "2026-01-26T02:10:58.573Z",
   "version": 3
 }
