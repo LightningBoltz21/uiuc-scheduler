@@ -4,7 +4,7 @@
   "year": "2026",
   "term": "spring",
   "startedAt": 1769999441906,
-  "lastUpdated": 1769999600134,
+  "lastUpdated": 1769999700131,
   "totalSubjects": 187,
   "totalCourses": 4501,
   "subjects": [
@@ -18595,19 +18595,56 @@
     "ANSC",
     "ANTH",
     "ARAB",
-    "ARCH"
+    "ARCH",
+    "ART",
+    "ARTD",
+    "ARTE",
+    "ARTF",
+    "ARTH",
+    "ARTJ",
+    "ARTS",
+    "ASRM",
+    "ASST",
+    "ASTR",
+    "ATMS",
+    "BADM",
+    "BASQ",
+    "BCOG",
+    "BCS",
+    "BDI",
+    "BIOC",
+    "BIOE",
+    "BIOP",
+    "BSE",
+    "BTW",
+    "BUS",
+    "CAS",
+    "CB",
+    "CDB",
+    "CEE",
+    "CGGE",
+    "CHBE",
+    "CHEM",
+    "CHIN",
+    "CHP",
+    "CI",
+    "CIC",
+    "CLCV",
+    "CLE",
+    "CMN",
+    "CPSC"
   ],
   "partialSubjects": {
-    "ART": {
-      "completed": 0,
-      "total": 7,
+    "CS": {
+      "completed": 30,
+      "total": 93,
       "lastCourse": "ABORTED"
     }
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 475,
-    "failedCourses": 1,
+    "successfulCourses": 1266,
+    "failedCourses": 2,
     "rateLimitCount": 0
   }
 }
