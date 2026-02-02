@@ -4,7 +4,7 @@
   "year": "2026",
   "term": "spring",
   "startedAt": 1769999441906,
-  "lastUpdated": 1769999780483,
+  "lastUpdated": 1769999860310,
   "totalSubjects": 187,
   "totalCourses": 4501,
   "subjects": [
@@ -18660,19 +18660,47 @@
     "EXP",
     "FAA",
     "FIN",
-    "FLTE"
+    "FLTE",
+    "FR",
+    "FSHN",
+    "GC",
+    "GEOL",
+    "GER",
+    "GGIS",
+    "GLBL",
+    "GMC",
+    "GRK",
+    "GRKM",
+    "GSD",
+    "GWS",
+    "HBSE",
+    "HDFS",
+    "HEBR",
+    "HIST",
+    "HK",
+    "HNDI",
+    "HORT",
+    "HT",
+    "HUM",
+    "IB",
+    "IE",
+    "INFO",
+    "IS",
+    "ITAL",
+    "JAPN",
+    "JOUR"
   ],
   "partialSubjects": {
-    "FR": {
+    "JS": {
       "completed": 0,
-      "total": 23,
+      "total": 5,
       "lastCourse": "ABORTED"
     }
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 1990,
-    "failedCourses": 3,
+    "successfulCourses": 2738,
+    "failedCourses": 4,
     "rateLimitCount": 0
   }
 }
