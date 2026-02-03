@@ -84,7 +84,7 @@ jobs:
         continue-on-error: true
         working-directory: ./apps/crawler-v3
         env:
-          CONCURRENCY: 10
+          CONCURRENCY: 3
 
         run: npm start
 
