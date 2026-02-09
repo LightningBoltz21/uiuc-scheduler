@@ -1,13 +1,13 @@
 {
-  "subject": "ADV",
-  "scrapedAt": 1770604944455,
+  "subject": "AFAS",
+  "scrapedAt": 1770604945112,
   "courseCount": 1,
   "courses": {
-    "ADV 150": [
-      "Introduction to Advertising",
+    "AFAS 120": [
+      "Intro to US Armed Forces",
       {
-        "A": [
-          "10104",
+        "ONL": [
+          "10096",
           [
             [
               0,
@@ -15,7 +15,7 @@
               "ONLINE",
               0,
               [
-                "Hall, S"
+                "Ashworth, E"
               ],
               -1,
               -1,
@@ -30,7 +30,7 @@
         ]
       },
       [],
-      "Introduction to the practice and profession of advertising. Course material covers various functional areas of advertising and integrated brand promotion, including account planning, creative, media, research, consumer behavior, sales promotion and interactive advertising. Topics also include how advertising relates to society in cultural, social, ethical and regulatory contexts. Open to all undergraduate majors.",
+      "Same as MILS 120 and NS 120. See MILS 120.",
       []
     ]
   },

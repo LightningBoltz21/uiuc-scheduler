@@ -4,7 +4,7 @@
   "year": "2026",
   "term": "winter",
   "startedAt": 1770604774504,
-  "lastUpdated": 1770604792634,
+  "lastUpdated": 1770604950375,
   "totalSubjects": 30,
   "totalCourses": 20,
   "subjects": [
@@ -161,9 +161,18 @@
     "SOC": [],
     "SPAN": []
   },
-  "completedSubjects": [],
+  "completedSubjects": [
+    "ADV",
+    "AFAS",
+    "ANTH",
+    "ASTR",
+    "ATMS",
+    "BADM",
+    "CLCV",
+    "CMN"
+  ],
   "partialSubjects": {
-    "ADV": {
+    "DANC": {
       "completed": 0,
       "total": 1,
       "lastCourse": "ABORTED"
@@ -171,8 +180,8 @@
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 0,
-    "failedCourses": 1,
+    "successfulCourses": 16,
+    "failedCourses": 2,
     "rateLimitCount": 0
   }
 }

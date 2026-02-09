@@ -1,0 +1,88 @@
+{
+  "subject": "ASTR",
+  "scrapedAt": 1770604946499,
+  "courseCount": 2,
+  "courses": {
+    "ASTR 330": [
+      "Extraterrestrial Life",
+      {
+        "ONL": [
+          "10064",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Looney, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Scientific discussion of the search for extraterrestrial life. Topics include: cosmic evolution (protons to heavy elements to molecules); terrestrial evolution (chemical, biological, and cultural); high technology searches for extraterrestrial life in the solar system (Mars, Venus, outer planets); and beyond the solar system (Drake equation and current SETI projects).",
+      []
+    ],
+    "ASTR 100": [
+      "Introduction to Astronomy",
+      {
+        "ONL": [
+          "10005",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Dunne, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "[IAI Code: P1906] Introduces the student to the basic concepts of modern astronomy. Covers topics including the night sky; the solar system and its origin; the nature and evolution of stars; stellar remnants, including white dwarfs, neutron stars, and black holes; extrasolar planetary systems; galaxies and quasars; dark matter and dark energy; the Big Bang and the fate of the universe; and life in the universe.",
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "ARRANGED"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Online"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}
