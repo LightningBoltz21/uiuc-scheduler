@@ -4,7 +4,7 @@
   "year": "2026",
   "term": "spring",
   "startedAt": 1771813791133,
-  "lastUpdated": 1771814290423,
+  "lastUpdated": 1771814440412,
   "totalSubjects": 187,
   "totalCourses": 4508,
   "subjects": [
@@ -18665,19 +18665,42 @@
     "CSE",
     "CW",
     "CWL",
-    "DANC"
+    "DANC",
+    "DTX",
+    "EALC",
+    "ECE",
+    "ECON",
+    "EDPR",
+    "EDUC",
+    "EIL",
+    "ENG",
+    "ENGL",
+    "ENSU",
+    "ENT",
+    "ENVS",
+    "EPOL",
+    "EPSY",
+    "ERAM",
+    "ESE",
+    "ESL",
+    "ETMA",
+    "EURO",
+    "EXP",
+    "FAA",
+    "FIN",
+    "FLTE"
   ],
   "partialSubjects": {
-    "DTX": {
-      "completed": 0,
-      "total": 5,
+    "FR": {
+      "completed": 16,
+      "total": 23,
       "lastCourse": "ABORTED"
     }
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 1452,
-    "failedCourses": 3,
+    "successfulCourses": 2008,
+    "failedCourses": 4,
     "rateLimitCount": 0
   }
 }
