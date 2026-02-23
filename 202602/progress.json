@@ -4,7 +4,7 @@
   "year": "2026",
   "term": "spring",
   "startedAt": 1771813791133,
-  "lastUpdated": 1771814140183,
+  "lastUpdated": 1771814290423,
   "totalSubjects": 187,
   "totalCourses": 4508,
   "subjects": [
@@ -18648,19 +18648,36 @@
     "BUS",
     "CAS",
     "CB",
-    "CDB"
+    "CDB",
+    "CEE",
+    "CGGE",
+    "CHBE",
+    "CHEM",
+    "CHIN",
+    "CHP",
+    "CI",
+    "CIC",
+    "CLCV",
+    "CLE",
+    "CMN",
+    "CPSC",
+    "CS",
+    "CSE",
+    "CW",
+    "CWL",
+    "DANC"
   ],
   "partialSubjects": {
-    "CEE": {
-      "completed": 42,
-      "total": 50,
+    "DTX": {
+      "completed": 0,
+      "total": 5,
       "lastCourse": "ABORTED"
     }
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 914,
-    "failedCourses": 2,
+    "successfulCourses": 1452,
+    "failedCourses": 3,
     "rateLimitCount": 0
   }
 }
