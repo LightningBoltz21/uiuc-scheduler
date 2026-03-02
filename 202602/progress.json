@@ -4,7 +4,7 @@
   "year": "2026",
   "term": "spring",
   "startedAt": 1771813791133,
-  "lastUpdated": 1772418606550,
+  "lastUpdated": 1772418756453,
   "totalSubjects": 187,
   "totalCourses": 4508,
   "subjects": [
@@ -18731,19 +18731,39 @@
     "LLS",
     "MACS",
     "MATH",
-    "MBA"
+    "MBA",
+    "MCB",
+    "MDIA",
+    "MDVL",
+    "ME",
+    "MICR",
+    "MILS",
+    "MIP",
+    "MSE",
+    "MUS",
+    "MUSC",
+    "MUSE",
+    "NE",
+    "NEUR",
+    "NPRE",
+    "NRES",
+    "NS",
+    "NUTR",
+    "PATH",
+    "PERS",
+    "PHIL"
   ],
   "partialSubjects": {
-    "MCB": {
-      "completed": 32,
-      "total": 51,
+    "PHYS": {
+      "completed": 45,
+      "total": 48,
       "lastCourse": "ABORTED"
     }
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 3126,
-    "failedCourses": 6,
+    "successfulCourses": 3700,
+    "failedCourses": 7,
     "rateLimitCount": 0
   }
 }

@@ -1,7 +1,7 @@
 {
   "subject": "MCB",
-  "scrapedAt": 1772418606546,
-  "courseCount": 32,
+  "scrapedAt": 1772418634170,
+  "courseCount": 51,
   "courses": {
     "MCB 100": [
       "Introductory Microbiology",
@@ -3883,6 +3883,795 @@
       [],
       "Same as FSHN 471. See FSHN 471.",
       []
+    ],
+    "MCB 460": [
+      "Neuroanatomy Laboratory",
+      {
+        "ABA": [
+          "78079",
+          [
+            [
+              0,
+              "T",
+              "216 Burrill Hall",
+              12,
+              [
+                "Toma, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "ABB": [
+          "74493",
+          [
+            [
+              24,
+              "W",
+              "216 Burrill Hall",
+              12,
+              [
+                "Toma, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "ABC": [
+          "76011",
+          [
+            [
+              52,
+              "R",
+              "216 Burrill Hall",
+              12,
+              [
+                "Toma, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "ABD": [
+          "78080",
+          [
+            [
+              57,
+              "F",
+              "216 Burrill Hall",
+              12,
+              [
+                "Toma, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "77969",
+          [
+            [
+              10,
+              "M",
+              "2310 Everitt Laboratory",
+              16,
+              [
+                "Toma, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Laboratory course emphasizing the fundamentals of neuroanatomy. The major sensory, motor, and integrative neural systems of the human brain are explored. Based on an understanding of normal neural connections and brain function, the anatomical and physiological bases for multiple neurological disorders are also discussed. Primary literature and clinical case studies will inform discussions throughout the course.",
+      []
+    ],
+    "MCB 462": [
+      "Integrative Neuroscience",
+      {
+        "A": [
+          "60201",
+          [
+            [
+              9,
+              "MWF",
+              "1000 Lincoln Hall",
+              5,
+              [
+                "Gillette, M",
+                "Gillette, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Employs integrative, multi-level systems approaches to nervous system and behavior. Focuses on neural circuits in sensory integration, pattern generation, the integration of sensation, internal states and learning in behavioral decision, the neuronal natures of pain, sleep, and biological rhythms, neuroeconomics, new vistas in neural modeling and interfacing brain and machine. Students are presented in neuroethological contexts of evolution and the economics of behavior and physiology.",
+      []
+    ],
+    "MCB 450": [
+      "Introductory Biochemistry",
+      {
+        "A": [
+          "39216",
+          [
+            [
+              1,
+              "TR",
+              "0027/1025 Campus Instructional Facility",
+              10,
+              [
+                "Chen, L",
+                "Fratti, R",
+                "Smith, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Chemistry and metabolism of carbohydrates, lipids, proteins, nucleic acids, vitamins, and coenzymes and their relation to the regulation and processes of organisms, cells, and subcellular components.",
+      []
+    ],
+    "MCB 468": [
+      "Cancer Pathophysiology",
+      {
+        "AL1": [
+          "78097",
+          [
+            [
+              9,
+              "MWF",
+              "3217 Everitt Laboratory",
+              16,
+              [
+                "Bolton, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Abnormalities that occur at the molecular and cellular level manifest as pathologies affecting the onset and progression of various forms of cancer. This course focuses on the pathophysiology of common human cancers and the genetic and environmental factors that influence malignant invasion and metastasis. The involvement of these biological factors in cancer development, diagnosis, prevention, and management will be examined throughout the course integrating basic science and clinical aspects central to oncology.",
+      []
+    ],
+    "MCB 465": [
+      "Human Metabolic Disease",
+      {
+        "A": [
+          "63456",
+          [
+            [
+              5,
+              "TR",
+              "157 Noyes Laboratory",
+              30,
+              [
+                "Anakk, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Examination of the molecular and physiological basis of human metabolic disease. Disruption of metabolic and energy homeostasis plays key roles leading to metabolic disorders. We will examine how lipid/glucose levels and energy balance are controlled in health and how they are abnormally regulated in disease sates. In addition, we will cover current topics related to control of metabolism including aging and circadian rhythms. Methodologies leading to scientific discoveries and potential preventive and therapeutic agents will also be discussed.",
+      []
+    ],
+    "MCB 466": [
+      "Neuro & Molecular Pharmacology",
+      {
+        "A": [
+          "72081",
+          [
+            [
+              47,
+              "TR",
+              "2079 Natural History Building",
+              21,
+              [
+                "Nelson, E",
+                "Tsai, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to fundamental principles of pharmacology that provides a comprehensive understanding of the principles and concepts applied to modern pharmacology, including pharmacokinetics, pharmacodynamics, neuropharmacology, toxicology, drug development and clinical trials, and drugs targeting various diseases. Emphasis is placed on the mechanisms of action. The course will cover several classes of drugs, including anti-infective agents, autonomic/central nervous system modulators, neuropharmacology, anti-cancer therapeutics and drugs targeting the major organ systems of the body. In an active learning style, case studies and sample MCAT questions will be used to bring relevance to covered topics. This course is ideal for those interested in pharmacology, neuropharmacology, pharmacy, medicine, veterinary medicine, nursing, kinesiology, or graduate school in the life sciences.",
+      []
+    ],
+    "MCB 480": [
+      "Eukaryotic Cell Signaling",
+      {
+        "A": [
+          "31781",
+          [
+            [
+              1,
+              "TR",
+              "114 Transportation Building",
+              28,
+              [
+                "Chen, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "General principles of molecular signaling regulating membrane, cytoplasmic, and nuclear events in eukaryotic cells with emphasis on mammalian systems. Contemporary methods of investigation and the principles of identifying and solving problems related to signal transduction will be emphasized.",
+      []
+    ],
+    "MCB 492": [
+      "Senior Thesis",
+      {
+        "": [
+          "40720",
+          [
+            [
+              7,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Research conducted under the direction of a faculty member in the School of Molecular and Cellular Biology. Normally, the student enrolls in MCB 492 during the last semester on campus prior to graduation. In the semester preceding enrollment, interested students should consult with their faculty advisors concerning enrollment procedures. A minimum of 3 credit hours is required, and a thesis must be presented for credit to be received. Successful completion of MCB 492 is required in order to be eligible for graduation with distinction in MCB.",
+      []
+    ],
+    "MCB 493": [
+      "Special Topics Mol Cell Biol",
+      {
+        "FMO": [
+          "53506",
+          [
+            [
+              55,
+              "TR",
+              "7 Burrill Hall",
+              12,
+              [
+                "Zhao, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "MTB": [
+          "60519",
+          [
+            [
+              14,
+              "MWF",
+              "5 Burrill Hall",
+              12,
+              [
+                "Zhang, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "NMI": [
+          "60482",
+          [
+            [
+              5,
+              "TR",
+              "2200 Sidney Lu Mech Engr Bldg",
+              13,
+              [
+                "Sweeney, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "PDE": [
+          "70561",
+          [
+            [
+              136,
+              "W",
+              "485C Burrill Hall",
+              12,
+              [
+                "Beal, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Discussion of current topics of interest within the broad domain of molecular and cellular biology; seminar or lecture format. Topics vary.",
+      []
+    ],
+    "MCB 529": [
+      "Special Topics in Cell and Developmental Biology",
+      {
+        "BA1": [
+          "78465",
+          [
+            [
+              216,
+              "M",
+              "Location Pending",
+              1,
+              [
+                "Gillette, R",
+                "Gribkova, E",
+                "Zhai, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "BA2": [
+          "78493",
+          [
+            [
+              216,
+              "M",
+              "Location Pending",
+              1,
+              [
+                "Gillette, R",
+                "Gribkova, E",
+                "Zhai, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "GSD": [
+          "51948",
+          [
+            [
+              5,
+              "M",
+              "7 Burrill Hall",
+              12,
+              [
+                "Sokac, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          11,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Discussion of current topics of interest in higher eukaryotic cellular and molecular biology, development, neurobiology; seminar or lecture format. Topics vary.",
+      []
+    ],
+    "MCB 530": [
+      "Reproductive Physiol Seminar",
+      {
+        "F1": [
+          "37735",
+          [
+            [
+              13,
+              "W",
+              "3526 Vet Med Basic Sciences Bldg",
+              35,
+              [
+                "Bagchi, I",
+                "YANG, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          10,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Presentation and discussion of current literature as well as graduate student and staff research proposals and findings in reproductive physiology.",
+      []
+    ],
+    "MCB 543": [
+      "Interdisciplinary Approaches to Neuroscience II",
+      {
+        "IAN": [
+          "68545",
+          [
+            [
+              69,
+              "MW",
+              "4269 Beckman Institute",
+              1,
+              [
+                "Tomaszycki, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as NEUR 543 and PSYC 543. See NEUR 543.",
+      []
+    ],
+    "MCB 545": [
+      "Functional Genomics in Principle and Practice",
+      {
+        "A": [
+          "67488",
+          [
+            [
+              217,
+              "MW",
+              "122 1203 1/2 W Nevada",
+              41,
+              [
+                "VanBortle, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Experimental and analytical foundations of functional genomics, tailored to experimental biologists who are using high-throughput sequencing technologies to analyze function in animal genomes. Lectures cover experimental methods and tools available for bioinformatics analysis; students will gain experience in the use of online or command-line bioinformatics tools through weekly assignments. Advanced knowledge in eukaryotic molecular genetics is needed but bioinformatics skills are not required.",
+      []
+    ],
+    "MCB 553": [
+      "Enzyme Reaction Mechanisms",
+      {
+        "A": [
+          "43994",
+          [
+            [
+              2,
+              "TR",
+              "161 Noyes Laboratory",
+              30,
+              [
+                "Mehta, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as CHEM 572. See CHEM 572.",
+      []
+    ],
+    "MCB 571": [
+      "Bioinformatics",
+      {
+        "A1": [
+          "61911",
+          [
+            [
+              2,
+              "TR",
+              "136 Loomis Laboratory",
+              20,
+              [
+                "Zhao, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as ANSC 543, CHBE 571, and STAT 530. See CHBE 571.",
+      []
+    ],
+    "MCB 581": [
+      "Laboratory Rotation I",
+      {
+        "": [
+          "10583",
+          [
+            [
+              7,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Laboratory research methods; familiarization of first-year graduate students with experimental methods used in molecular and cellular biology research. Required of all first-year students entering MCB. Meets first five weeks of each term.",
+      []
+    ],
+    "MCB 582": [
+      "Laboratory Rotation II",
+      {
+        "": [
+          "10001",
+          [
+            [
+              7,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Laboratory research methods; familiarization of first-year graduate students with experimental methods used in molecular and cellular biology research. Required of all first-year students entering MCB. Meets second five weeks of each term.",
+      []
+    ],
+    "MCB 583": [
+      "Laboratory Rotation III",
+      {
+        "": [
+          "10002",
+          [
+            [
+              7,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Laboratory research methods; familiarization of first-year graduate students with experimental methods used in molecular and cellular biology research. Required of all first-year students entering MCB. Meets third five weeks of each term.",
+      []
+    ],
+    "MCB 585": [
+      "Current Topics in Microbiology",
+      {
+        "A": [
+          "53111",
+          [
+            [
+              10,
+              "W",
+              "4101 Materials Science & Eng Bld",
+              18,
+              [
+                "Brooke, C",
+                "Grant, N",
+                "Hatoum, A",
+                "Imlay, J",
+                "Kieffer, C",
+                "Kuzminov, A",
+                "Martinez Vargas, P",
+                "Mera, P",
+                "Metcalf, W",
+                "Olsen, G",
+                "Qin, W",
+                "Slauch, J",
+                "Wilson, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Discussions, reviews, and appraisal of special topics in microbiology and molecular biology; seminar or lecture. Topics vary.",
+      []
     ]
   },
   "caches": {
@@ -4102,7 +4891,9 @@
       "1320 - 1450",
       "1400 - 1750",
       "0900 - 1250",
-      "1000 - 1350"
+      "1000 - 1350",
+      "1630 - 1730",
+      "1330 - 1500"
     ],
     "dateRanges": [],
     "scheduleTypes": [

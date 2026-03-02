@@ -1,0 +1,9904 @@
+{
+  "subject": "PHYS",
+  "scrapedAt": 1772418756450,
+  "courseCount": 45,
+  "courses": {
+    "PHYS 102": [
+      "College Physics: E&M & Modern",
+      {
+        "A1": [
+          "35773",
+          [
+            [
+              12,
+              "MW",
+              "151 Loomis Laboratory",
+              20,
+              [
+                "Ansell, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "A2": [
+          "35774",
+          [
+            [
+              9,
+              "MW",
+              "151 Loomis Laboratory",
+              20,
+              [
+                "Ansell, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "D2A": [
+          "35775",
+          [
+            [
+              33,
+              "T",
+              "0018 Campus Instructional Facility",
+              10,
+              [
+                "Chen, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D2E": [
+          "35776",
+          [
+            [
+              6,
+              "T",
+              "0018 Campus Instructional Facility",
+              10,
+              [
+                "Hao, Q"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D2J": [
+          "41529",
+          [
+            [
+              29,
+              "T",
+              "0018 Campus Instructional Facility",
+              10,
+              [
+                "Joshi, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D2M": [
+          "35778",
+          [
+            [
+              36,
+              "T",
+              "0018 Campus Instructional Facility",
+              10,
+              [
+                "Romanelli, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D2R": [
+          "35780",
+          [
+            [
+              37,
+              "T",
+              "0018 Campus Instructional Facility",
+              10,
+              [
+                "Guerra, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D3A": [
+          "46745",
+          [
+            [
+              33,
+              "W",
+              "4018 Campus Instructional Facility",
+              10,
+              [
+                "Mullen, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D3E": [
+          "35777",
+          [
+            [
+              6,
+              "W",
+              "2036 Campus Instructional Facility",
+              10,
+              [
+                "Hao, Q"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D3J": [
+          "35782",
+          [
+            [
+              29,
+              "W",
+              "204 Transportation Building",
+              28,
+              [
+                "Guerra, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D3M": [
+          "35787",
+          [
+            [
+              36,
+              "W",
+              "0018 Campus Instructional Facility",
+              10,
+              [
+                "Joshi, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D3R": [
+          "45283",
+          [
+            [
+              37,
+              "W",
+              "2036 Campus Instructional Facility",
+              10,
+              [
+                "Tiki, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D4A": [
+          "45284",
+          [
+            [
+              33,
+              "R",
+              "0018 Campus Instructional Facility",
+              10,
+              [
+                "Guerra, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D4E": [
+          "35786",
+          [
+            [
+              6,
+              "R",
+              "0018 Campus Instructional Facility",
+              10,
+              [
+                "Hao, Q"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D4J": [
+          "35785",
+          [
+            [
+              29,
+              "R",
+              "0018 Campus Instructional Facility",
+              10,
+              [
+                "Mullen, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D4M": [
+          "35779",
+          [
+            [
+              36,
+              "R",
+              "0018 Campus Instructional Facility",
+              10,
+              [
+                "Tiki, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D4R": [
+          "66941",
+          [
+            [
+              37,
+              "R",
+              "0018 Campus Instructional Facility",
+              10,
+              [
+                "Joshi, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "L2A": [
+          "35792",
+          [
+            [
+              135,
+              "T",
+              "4036 Campus Instructional Facility",
+              10,
+              [
+                "Taherasghari, F"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L2E": [
+          "35793",
+          [
+            [
+              43,
+              "T",
+              "4036 Campus Instructional Facility",
+              10,
+              [
+                "Aguirre, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L2M": [
+          "35789",
+          [
+            [
+              0,
+              "T",
+              "4036 Campus Instructional Facility",
+              10,
+              [
+                "Xu, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L3A": [
+          "45281",
+          [
+            [
+              135,
+              "W",
+              "4036 Campus Instructional Facility",
+              10,
+              [
+                "Aguirre, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L3E": [
+          "45282",
+          [
+            [
+              43,
+              "W",
+              "4036 Campus Instructional Facility",
+              10,
+              [
+                "Bedessem, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L3M": [
+          "41528",
+          [
+            [
+              0,
+              "W",
+              "4036 Campus Instructional Facility",
+              10,
+              [
+                "Dorsey, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L3R": [
+          "35791",
+          [
+            [
+              44,
+              "W",
+              "4036 Campus Instructional Facility",
+              10,
+              [
+                "Xu, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L4A": [
+          "35796",
+          [
+            [
+              135,
+              "R",
+              "4036 Campus Instructional Facility",
+              10,
+              [
+                "Keenan, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L4E": [
+          "35797",
+          [
+            [
+              43,
+              "R",
+              "4036 Campus Instructional Facility",
+              10,
+              [
+                "Bedessem, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L4M": [
+          "35798",
+          [
+            [
+              0,
+              "R",
+              "4036 Campus Instructional Facility",
+              10,
+              [
+                "Keenan, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L4R": [
+          "35788",
+          [
+            [
+              44,
+              "R",
+              "4036 Campus Instructional Facility",
+              10,
+              [
+                "Xu, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L5A": [
+          "35799",
+          [
+            [
+              135,
+              "F",
+              "4036 Campus Instructional Facility",
+              10,
+              [
+                "Bedessem, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L5E": [
+          "35800",
+          [
+            [
+              43,
+              "F",
+              "4036 Campus Instructional Facility",
+              10,
+              [
+                "Dorsey, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Electric forces and fields, electric potential, electric circuits, magnetic forces and fields, geometrical optics, relativity, and modern physics. A noncalculus-based approach for majors in the life sciences, preprofessional health programs, agriculture, and veterinary medicine.",
+      []
+    ],
+    "PHYS 101": [
+      "College Physics: Mech & Heat",
+      {
+        "A1": [
+          "35570",
+          [
+            [
+              27,
+              "MW",
+              "151 Loomis Laboratory",
+              20,
+              [
+                "Gammie, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "A2": [
+          "35571",
+          [
+            [
+              8,
+              "MW",
+              "151 Loomis Laboratory",
+              20,
+              [
+                "Gammie, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "ARC": [
+          "46751",
+          [
+            [
+              14,
+              "MW",
+              "ONLINE",
+              1,
+              [
+                "Honeycutt, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "D2A": [
+          "41684",
+          [
+            [
+              33,
+              "T",
+              "4018 Campus Instructional Facility",
+              10,
+              [
+                "Kim, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D2E": [
+          "48227",
+          [
+            [
+              6,
+              "T",
+              "4018 Campus Instructional Facility",
+              10,
+              [
+                "De, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D2J": [
+          "41584",
+          [
+            [
+              29,
+              "T",
+              "4018 Campus Instructional Facility",
+              10,
+              [
+                "Bell, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D2M": [
+          "46754",
+          [
+            [
+              36,
+              "T",
+              "4018 Campus Instructional Facility",
+              10,
+              [
+                "Das, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D2R": [
+          "35583",
+          [
+            [
+              37,
+              "T",
+              "4018 Campus Instructional Facility",
+              10,
+              [
+                "Paghadal, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D3A": [
+          "35572",
+          [
+            [
+              33,
+              "W",
+              "2025 Campus Instructional Facility",
+              10,
+              [
+                "De, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D3E": [
+          "35576",
+          [
+            [
+              6,
+              "W",
+              "2025 Campus Instructional Facility",
+              10,
+              [
+                "Das, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D3J": [
+          "35639",
+          [
+            [
+              29,
+              "W",
+              "2025 Campus Instructional Facility",
+              10,
+              [
+                "Lopez, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D3M": [
+          "35578",
+          [
+            [
+              36,
+              "W",
+              "2025 Campus Instructional Facility",
+              10,
+              [
+                "Das, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D3R": [
+          "35579",
+          [
+            [
+              37,
+              "W",
+              "2025 Campus Instructional Facility",
+              10,
+              [
+                "Bell, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D4A": [
+          "35590",
+          [
+            [
+              33,
+              "R",
+              "2025 Campus Instructional Facility",
+              10,
+              [
+                "De, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D4E": [
+          "35598",
+          [
+            [
+              6,
+              "R",
+              "2025 Campus Instructional Facility",
+              10,
+              [
+                "Lopez, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D4J": [
+          "40186",
+          [
+            [
+              29,
+              "R",
+              "2025 Campus Instructional Facility",
+              10,
+              [
+                "Paghadal, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D4M": [
+          "35758",
+          [
+            [
+              36,
+              "R",
+              "0036 Campus Instructional Facility",
+              10,
+              [
+                "Gulian, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D4R": [
+          "35650",
+          [
+            [
+              37,
+              "R",
+              "0036 Campus Instructional Facility",
+              10,
+              [
+                "Paghadal, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "L3E": [
+          "41683",
+          [
+            [
+              57,
+              "W",
+              "4018 Campus Instructional Facility",
+              10,
+              [
+                "Engblom, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L3J": [
+          "59000",
+          [
+            [
+              24,
+              "W",
+              "4018 Campus Instructional Facility",
+              10,
+              [
+                "Mohammad Saad, -"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L3R": [
+          "35764",
+          [
+            [
+              51,
+              "W",
+              "4018 Campus Instructional Facility",
+              10,
+              [
+                "Moriarty, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L4A": [
+          "35766",
+          [
+            [
+              135,
+              "R",
+              "4018 Campus Instructional Facility",
+              10,
+              [
+                "Jessica John Britto, F"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L4E": [
+          "35767",
+          [
+            [
+              43,
+              "R",
+              "4018 Campus Instructional Facility",
+              10,
+              [
+                "Skye, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L4J": [
+          "35768",
+          [
+            [
+              0,
+              "R",
+              "4018 Campus Instructional Facility",
+              10,
+              [
+                "Bogucki, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L4R": [
+          "35769",
+          [
+            [
+              44,
+              "R",
+              "4018 Campus Instructional Facility",
+              10,
+              [
+                "Mohammad Saad, -"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L5A": [
+          "35770",
+          [
+            [
+              135,
+              "F",
+              "4018 Campus Instructional Facility",
+              10,
+              [
+                "Skye, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L5E": [
+          "35772",
+          [
+            [
+              43,
+              "F",
+              "4018 Campus Instructional Facility",
+              10,
+              [
+                "Bogucki, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L5J": [
+          "35771",
+          [
+            [
+              0,
+              "F",
+              "4018 Campus Instructional Facility",
+              10,
+              [
+                "Jessica John Britto, F"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L5R": [
+          "48226",
+          [
+            [
+              44,
+              "F",
+              "4018 Campus Instructional Facility",
+              10,
+              [
+                "Moriarty, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "[IAI Code: P1900L] Newton's Laws, work and energy, rotational motion, fluids, thermodynamics, and waves. A noncalculus-based approach for majors in the life sciences, preprofessional health programs, agriculture, and veterinary medicine.",
+      []
+    ],
+    "PHYS 199": [
+      "Undergraduate Open Seminar",
+      {
+        "": [
+          "10145",
+          [
+            [
+              7,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Approved for letter and S/U grading. May be repeated.",
+      []
+    ],
+    "PHYS 213": [
+      "Univ Physics: Thermal Physics",
+      {
+        "A1": [
+          "38132",
+          [
+            [
+              27,
+              "MW",
+              "141 Loomis Laboratory",
+              20,
+              [
+                "Cohen, O"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "A2": [
+          "38135",
+          [
+            [
+              8,
+              "MW",
+              "141 Loomis Laboratory",
+              20,
+              [
+                "Trickle, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "A3": [
+          "38138",
+          [
+            [
+              11,
+              "MW",
+              "141 Loomis Laboratory",
+              20,
+              [
+                "Trickle, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "D2A": [
+          "59007",
+          [
+            [
+              33,
+              "T",
+              "222 Loomis Laboratory",
+              20,
+              [
+                "Joshi, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D2B": [
+          "38141",
+          [
+            [
+              33,
+              "T",
+              "35 Loomis Laboratory",
+              20,
+              [
+                "Gunturu, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D2E": [
+          "38205",
+          [
+            [
+              6,
+              "T",
+              "222 Loomis Laboratory",
+              20,
+              [
+                "Kim, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D2F": [
+          "38164",
+          [
+            [
+              6,
+              "T",
+              "35 Loomis Laboratory",
+              20,
+              [
+                "Stratman, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D2J": [
+          "38161",
+          [
+            [
+              29,
+              "T",
+              "222 Loomis Laboratory",
+              20,
+              [
+                "Hiri-O-Tuppa, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D2K": [
+          "53082",
+          [
+            [
+              29,
+              "T",
+              "35 Loomis Laboratory",
+              20,
+              [
+                "Baltasar Jimenez, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D2M": [
+          "38168",
+          [
+            [
+              36,
+              "T",
+              "222 Loomis Laboratory",
+              20,
+              [
+                "Kleiner, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D2N": [
+          "38174",
+          [
+            [
+              36,
+              "T",
+              "35 Loomis Laboratory",
+              20,
+              [
+                "Gunturu, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D2R": [
+          "59011",
+          [
+            [
+              37,
+              "T",
+              "222 Loomis Laboratory",
+              20,
+              [
+                "Takahashi, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D2S": [
+          "38180",
+          [
+            [
+              37,
+              "T",
+              "35 Loomis Laboratory",
+              20,
+              [
+                "Quinn, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D3A": [
+          "47383",
+          [
+            [
+              33,
+              "W",
+              "222 Loomis Laboratory",
+              20,
+              [
+                "Kim, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D3B": [
+          "51351",
+          [
+            [
+              33,
+              "W",
+              "35 Loomis Laboratory",
+              20,
+              [
+                "Baltasar Jimenez, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D3E": [
+          "38281",
+          [
+            [
+              6,
+              "W",
+              "222 Loomis Laboratory",
+              20,
+              [
+                "Gunturu, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D3F": [
+          "38282",
+          [
+            [
+              6,
+              "W",
+              "35 Loomis Laboratory",
+              20,
+              [
+                "Quinn, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D3J": [
+          "59015",
+          [
+            [
+              29,
+              "W",
+              "222 Loomis Laboratory",
+              20,
+              [
+                "Stratman, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D3K": [
+          "38241",
+          [
+            [
+              29,
+              "W",
+              "35 Loomis Laboratory",
+              20,
+              [
+                "Ganguli, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D3M": [
+          "38236",
+          [
+            [
+              36,
+              "W",
+              "222 Loomis Laboratory",
+              20,
+              [
+                "Danesh, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D3N": [
+          "62324",
+          [
+            [
+              36,
+              "W",
+              "35 Loomis Laboratory",
+              20,
+              [
+                "Joshi, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D3R": [
+          "38245",
+          [
+            [
+              37,
+              "W",
+              "222 Loomis Laboratory",
+              20,
+              [
+                "Danesh, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D3S": [
+          "38250",
+          [
+            [
+              37,
+              "W",
+              "35 Loomis Laboratory",
+              20,
+              [
+                "Hiri-O-Tuppa, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D4A": [
+          "59009",
+          [
+            [
+              33,
+              "R",
+              "222 Loomis Laboratory",
+              20,
+              [
+                "Kleiner, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D4B": [
+          "38212",
+          [
+            [
+              33,
+              "R",
+              "35 Loomis Laboratory",
+              20,
+              [
+                "Joshi, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D4E": [
+          "38217",
+          [
+            [
+              6,
+              "R",
+              "222 Loomis Laboratory",
+              20,
+              [
+                "Farina, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D4F": [
+          "51348",
+          [
+            [
+              6,
+              "R",
+              "35 Loomis Laboratory",
+              20,
+              [
+                "Ganguli, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D4J": [
+          "38273",
+          [
+            [
+              29,
+              "R",
+              "222 Loomis Laboratory",
+              20,
+              [
+                "Kim, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D4K": [
+          "53083",
+          [
+            [
+              29,
+              "R",
+              "35 Loomis Laboratory",
+              20,
+              [
+                "Baltasar Jimenez, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D4M": [
+          "38275",
+          [
+            [
+              36,
+              "R",
+              "222 Loomis Laboratory",
+              20,
+              [
+                "Takahashi, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D4N": [
+          "38276",
+          [
+            [
+              36,
+              "R",
+              "35 Loomis Laboratory",
+              20,
+              [
+                "Joshi, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D4R": [
+          "38277",
+          [
+            [
+              37,
+              "R",
+              "222 Loomis Laboratory",
+              20,
+              [
+                "Hiri-O-Tuppa, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D4S": [
+          "38278",
+          [
+            [
+              37,
+              "R",
+              "35 Loomis Laboratory",
+              20,
+              [
+                "Ganguli, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D5A": [
+          "38185",
+          [
+            [
+              33,
+              "F",
+              "214 Ceramics Building",
+              29,
+              [
+                "Quinn, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D5E": [
+          "38191",
+          [
+            [
+              6,
+              "F",
+              "204 Transportation Building",
+              28,
+              [
+                "Stratman, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D5J": [
+          "51346",
+          [
+            [
+              29,
+              "F",
+              "2025 Campus Instructional Facility",
+              10,
+              [
+                "Danesh, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "L1A": [
+          "38319",
+          [
+            [
+              33,
+              "M",
+              "64 Loomis Laboratory",
+              20,
+              [
+                "Bezryadin, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L1E": [
+          "38310",
+          [
+            [
+              6,
+              "M",
+              "64 Loomis Laboratory",
+              20,
+              [
+                "Herrington, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L1J": [
+          "38315",
+          [
+            [
+              29,
+              "M",
+              "64 Loomis Laboratory",
+              20,
+              [
+                "Liu, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L1M": [
+          "51326",
+          [
+            [
+              36,
+              "M",
+              "64 Loomis Laboratory",
+              20,
+              [
+                "Liu, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L1R": [
+          "51327",
+          [
+            [
+              37,
+              "M",
+              "64 Loomis Laboratory",
+              20,
+              [
+                "Liu, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L2A": [
+          "38284",
+          [
+            [
+              33,
+              "T",
+              "64 Loomis Laboratory",
+              20,
+              [
+                "Yao, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L2E": [
+          "58991",
+          [
+            [
+              6,
+              "T",
+              "64 Loomis Laboratory",
+              20,
+              [
+                "Arya, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L2J": [
+          "38289",
+          [
+            [
+              29,
+              "T",
+              "64 Loomis Laboratory",
+              20,
+              [
+                "Yao, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L2M": [
+          "38294",
+          [
+            [
+              36,
+              "T",
+              "64 Loomis Laboratory",
+              20,
+              [
+                "Arya, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L2R": [
+          "38300",
+          [
+            [
+              37,
+              "T",
+              "64 Loomis Laboratory",
+              20,
+              [
+                "Benton, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L3A": [
+          "38285",
+          [
+            [
+              33,
+              "W",
+              "64 Loomis Laboratory",
+              20,
+              [
+                "Yao, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L3E": [
+          "38291",
+          [
+            [
+              6,
+              "W",
+              "64 Loomis Laboratory",
+              20,
+              [
+                "Tiwari, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L3J": [
+          "38313",
+          [
+            [
+              29,
+              "W",
+              "64 Loomis Laboratory",
+              20,
+              [
+                "La Sage, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L3M": [
+          "38316",
+          [
+            [
+              36,
+              "W",
+              "64 Loomis Laboratory",
+              20,
+              [
+                "Arya, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L3R": [
+          "51330",
+          [
+            [
+              37,
+              "W",
+              "64 Loomis Laboratory",
+              20,
+              [
+                "Chow, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L4A": [
+          "38321",
+          [
+            [
+              33,
+              "R",
+              "64 Loomis Laboratory",
+              20,
+              [
+                "Liu, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L4E": [
+          "38317",
+          [
+            [
+              6,
+              "R",
+              "64 Loomis Laboratory",
+              20,
+              [
+                "Liu, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L4J": [
+          "38320",
+          [
+            [
+              29,
+              "R",
+              "64 Loomis Laboratory",
+              20,
+              [
+                "Tiwari, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L4M": [
+          "38302",
+          [
+            [
+              36,
+              "R",
+              "64 Loomis Laboratory",
+              20,
+              [
+                "Rizzo, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L4R": [
+          "58989",
+          [
+            [
+              37,
+              "R",
+              "64 Loomis Laboratory",
+              20,
+              [
+                "Chow, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L5A": [
+          "38297",
+          [
+            [
+              109,
+              "M",
+              "64 Loomis Laboratory",
+              20,
+              [
+                "Herrington, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L5E": [
+          "58993",
+          [
+            [
+              6,
+              "F",
+              "64 Loomis Laboratory",
+              20,
+              [
+                "Herrington, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L5J": [
+          "38304",
+          [
+            [
+              29,
+              "F",
+              "64 Loomis Laboratory",
+              20,
+              [
+                "La Sage, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L5M": [
+          "38306",
+          [
+            [
+              36,
+              "F",
+              "64 Loomis Laboratory",
+              20,
+              [
+                "Chow, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L5R": [
+          "51329",
+          [
+            [
+              37,
+              "F",
+              "64 Loomis Laboratory",
+              20,
+              [
+                "Rizzo, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "First and second laws of thermodynamics including kinetic theory of gases, heat capacity, heat engines, introduction to entropy and statistical mechanics, and introduction to application of free energy and Boltzmann factor. A calculus-based approach for majors in engineering, mathematics, physics and chemistry.",
+      []
+    ],
+    "PHYS 212": [
+      "University Physics: Elec & Mag",
+      {
+        "A1": [
+          "38029",
+          [
+            [
+              9,
+              "TR",
+              "151 Loomis Laboratory",
+              20,
+              [
+                "Kwiat, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "A2": [
+          "38032",
+          [
+            [
+              14,
+              "TR",
+              "151 Loomis Laboratory",
+              20,
+              [
+                "Kwiat, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "A3": [
+          "52875",
+          [
+            [
+              13,
+              "TR",
+              "151 Loomis Laboratory",
+              20,
+              [
+                "Hooberman, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "A4": [
+          "59452",
+          [
+            [
+              28,
+              "TR",
+              "151 Loomis Laboratory",
+              20,
+              [
+                "Hooberman, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "D2A": [
+          "38046",
+          [
+            [
+              33,
+              "T",
+              "0036 Campus Instructional Facility",
+              10,
+              [
+                "Youk, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D2B": [
+          "53104",
+          [
+            [
+              33,
+              "T",
+              "2025 Campus Instructional Facility",
+              10,
+              [
+                "Kacmaz, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D2E": [
+          "38043",
+          [
+            [
+              6,
+              "T",
+              "3038 Campus Instructional Facility",
+              10,
+              [
+                "Zhai, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D2F": [
+          "57914",
+          [
+            [
+              6,
+              "T",
+              "2025 Campus Instructional Facility",
+              10,
+              [
+                "Rogers-Pastio, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D2J": [
+          "56034",
+          [
+            [
+              29,
+              "T",
+              "143 Loomis Laboratory",
+              20,
+              [
+                "Mencke, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D2K": [
+          "58663",
+          [
+            [
+              29,
+              "T",
+              "147 Loomis Laboratory",
+              20,
+              [
+                "Friedman, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D2M": [
+          "51211",
+          [
+            [
+              36,
+              "T",
+              "143 Loomis Laboratory",
+              20,
+              [
+                "Diaz, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D2N": [
+          "58664",
+          [
+            [
+              36,
+              "T",
+              "147 Loomis Laboratory",
+              20,
+              [
+                "Deng, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D2R": [
+          "53105",
+          [
+            [
+              37,
+              "T",
+              "147 Loomis Laboratory",
+              20,
+              [
+                "Manohar, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D2S": [
+          "38051",
+          [
+            [
+              37,
+              "T",
+              "143 Loomis Laboratory",
+              20,
+              [
+                "Kush, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D3A": [
+          "38057",
+          [
+            [
+              33,
+              "W",
+              "0036 Campus Instructional Facility",
+              10,
+              [
+                "Mencke, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D3B": [
+          "38104",
+          [
+            [
+              33,
+              "W",
+              "214 Ceramics Building",
+              29,
+              [
+                "Balivada, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D3E": [
+          "38059",
+          [
+            [
+              6,
+              "W",
+              "0036 Campus Instructional Facility",
+              10,
+              [
+                "Manohar, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D3F": [
+          "58662",
+          [
+            [
+              6,
+              "W",
+              "204 Transportation Building",
+              28,
+              [
+                "Kacmaz, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D3J": [
+          "57937",
+          [
+            [
+              29,
+              "W",
+              "147 Loomis Laboratory",
+              20,
+              [
+                "Deng, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D3K": [
+          "38062",
+          [
+            [
+              29,
+              "W",
+              "143 Loomis Laboratory",
+              20,
+              [
+                "Friedman, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D3M": [
+          "57913",
+          [
+            [
+              36,
+              "W",
+              "143 Loomis Laboratory",
+              20,
+              [
+                "Gupta, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D3N": [
+          "38065",
+          [
+            [
+              36,
+              "W",
+              "147 Loomis Laboratory",
+              20,
+              [
+                "Zhai, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D3R": [
+          "38067",
+          [
+            [
+              37,
+              "W",
+              "147 Loomis Laboratory",
+              20,
+              [
+                "Kush, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D3S": [
+          "57964",
+          [
+            [
+              37,
+              "W",
+              "143 Loomis Laboratory",
+              20,
+              [
+                "Chakraborty, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D4A": [
+          "46838",
+          [
+            [
+              33,
+              "R",
+              "214 Ceramics Building",
+              29,
+              [
+                "Kacmaz, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D4B": [
+          "53106",
+          [
+            [
+              33,
+              "R",
+              "3038 Campus Instructional Facility",
+              10,
+              [
+                "Chakraborty, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D4E": [
+          "38048",
+          [
+            [
+              6,
+              "R",
+              "204 Transportation Building",
+              28,
+              [
+                "Zhai, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D4F": [
+          "38077",
+          [
+            [
+              6,
+              "R",
+              "203 Transportation Building",
+              28,
+              [
+                "Manohar, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D4J": [
+          "56941",
+          [
+            [
+              29,
+              "R",
+              "143 Loomis Laboratory",
+              20,
+              [
+                "Mencke, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D4K": [
+          "38070",
+          [
+            [
+              29,
+              "R",
+              "147 Loomis Laboratory",
+              20,
+              [
+                "Friedman, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D4M": [
+          "38086",
+          [
+            [
+              36,
+              "R",
+              "143 Loomis Laboratory",
+              20,
+              [
+                "Balivada, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D4N": [
+          "61748",
+          [
+            [
+              36,
+              "R",
+              "147 Loomis Laboratory",
+              20,
+              [
+                "Gupta, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D4R": [
+          "51210",
+          [
+            [
+              37,
+              "R",
+              "147 Loomis Laboratory",
+              20,
+              [
+                "Deng, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D4S": [
+          "51214",
+          [
+            [
+              37,
+              "R",
+              "143 Loomis Laboratory",
+              20,
+              [
+                "Kush, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D5A": [
+          "38088",
+          [
+            [
+              33,
+              "F",
+              "2025 Campus Instructional Facility",
+              10,
+              [
+                "Chakraborty, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "L2A": [
+          "38035",
+          [
+            [
+              33,
+              "T",
+              "4035 Campus Instructional Facility",
+              10,
+              [
+                "Goldschmidt, E",
+                "Troyer, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L2E": [
+          "38103",
+          [
+            [
+              6,
+              "T",
+              "4035 Campus Instructional Facility",
+              10,
+              [
+                "Bowden, N",
+                "Ding, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L2J": [
+          "38106",
+          [
+            [
+              29,
+              "T",
+              "4035 Campus Instructional Facility",
+              10,
+              [
+                "Fox, J",
+                "Magee, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L2M": [
+          "56035",
+          [
+            [
+              36,
+              "T",
+              "4035 Campus Instructional Facility",
+              10,
+              [
+                "Liu, K",
+                "Roh, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L2R": [
+          "38107",
+          [
+            [
+              37,
+              "T",
+              "4035 Campus Instructional Facility",
+              10,
+              [
+                "Knudtson, M",
+                "Nelson, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L3A": [
+          "38108",
+          [
+            [
+              33,
+              "W",
+              "4035 Campus Instructional Facility",
+              10,
+              [
+                "Konakalla, S",
+                "Magee, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L3E": [
+          "38109",
+          [
+            [
+              6,
+              "W",
+              "4035 Campus Instructional Facility",
+              10,
+              [
+                "Nelson, M",
+                "Yang, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L3J": [
+          "38111",
+          [
+            [
+              29,
+              "W",
+              "4035 Campus Instructional Facility",
+              10,
+              [
+                "Gonzalez Buitrago, M",
+                "Liu, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L3M": [
+          "38115",
+          [
+            [
+              36,
+              "W",
+              "4035 Campus Instructional Facility",
+              10,
+              [
+                "Robertson, M",
+                "Roh, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L3R": [
+          "51234",
+          [
+            [
+              37,
+              "W",
+              "4035 Campus Instructional Facility",
+              10,
+              [
+                "Fox, J",
+                "Gonzalez Buitrago, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L4A": [
+          "38112",
+          [
+            [
+              33,
+              "R",
+              "4035 Campus Instructional Facility",
+              10,
+              [
+                "Konakalla, S",
+                "Troyer, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L4E": [
+          "38113",
+          [
+            [
+              6,
+              "R",
+              "4035 Campus Instructional Facility",
+              10,
+              [
+                "Robertson, M",
+                "Yang, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L4J": [
+          "38105",
+          [
+            [
+              29,
+              "R",
+              "4035 Campus Instructional Facility",
+              10,
+              [
+                "Knudtson, M",
+                "Liu, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L4M": [
+          "57912",
+          [
+            [
+              36,
+              "R",
+              "4035 Campus Instructional Facility",
+              10,
+              [
+                "Ding, D",
+                "Roh, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L4R": [
+          "57963",
+          [
+            [
+              37,
+              "R",
+              "4035 Campus Instructional Facility",
+              10,
+              [
+                "Gonzalez Buitrago, M",
+                "Yang, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L5A": [
+          "58985",
+          [
+            [
+              33,
+              "F",
+              "4035 Campus Instructional Facility",
+              10,
+              [
+                "Konakalla, S",
+                "Troyer, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L5E": [
+          "58987",
+          [
+            [
+              6,
+              "F",
+              "4035 Campus Instructional Facility",
+              10,
+              [
+                "Magee, E",
+                "Robertson, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L5J": [
+          "58988",
+          [
+            [
+              29,
+              "F",
+              "4035 Campus Instructional Facility",
+              10,
+              [
+                "Bowden, N",
+                "Nelson, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L5M": [
+          "58978",
+          [
+            [
+              36,
+              "F",
+              "4035 Campus Instructional Facility",
+              10,
+              [
+                "Bowden, N",
+                "Fox, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L5R": [
+          "58979",
+          [
+            [
+              37,
+              "F",
+              "4035 Campus Instructional Facility",
+              10,
+              [
+                "Ding, D",
+                "Knudtson, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "[IAI Code: PHY912] Coulomb's Law, electric fields, Gauss' Law, electric potential, capacitance, circuits, magnetic forces and fields, Ampere's law, induction, electromagnetic waves, polarization, and geometrical optics. A calculus-based approach for majors in engineering, mathematics, physics, and chemistry.",
+      []
+    ],
+    "PHYS 211": [
+      "University Physics: Mechanics",
+      {
+        "A1": [
+          "35801",
+          [
+            [
+              27,
+              "TR",
+              "141 Loomis Laboratory",
+              20,
+              [
+                "Farina, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "A2": [
+          "35802",
+          [
+            [
+              8,
+              "TR",
+              "141 Loomis Laboratory",
+              20,
+              [
+                "Fernandes, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "A3": [
+          "35803",
+          [
+            [
+              11,
+              "TR",
+              "141 Loomis Laboratory",
+              20,
+              [
+                "Fernandes, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "A4": [
+          "35804",
+          [
+            [
+              10,
+              "TR",
+              "141 Loomis Laboratory",
+              20,
+              [
+                "Kuo, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "A5": [
+          "56100",
+          [
+            [
+              12,
+              "TR",
+              "141 Loomis Laboratory",
+              20,
+              [
+                "Kuo, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "D2A": [
+          "35809",
+          [
+            [
+              33,
+              "T",
+              "137 Loomis Laboratory",
+              20,
+              [
+                "Stelzer, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D2B": [
+          "52874",
+          [
+            [
+              33,
+              "T",
+              "139 Loomis Laboratory",
+              20,
+              [
+                "Chan, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D2C": [
+          "52805",
+          [
+            [
+              33,
+              "T",
+              "143 Loomis Laboratory",
+              20,
+              [
+                "Blanchard, O"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D2D": [
+          "35824",
+          [
+            [
+              33,
+              "T",
+              "147 Loomis Laboratory",
+              20,
+              [
+                "Goel, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D2E": [
+          "35810",
+          [
+            [
+              6,
+              "T",
+              "137 Loomis Laboratory",
+              20,
+              [
+                "Bitcon, O"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D2F": [
+          "46833",
+          [
+            [
+              6,
+              "T",
+              "139 Loomis Laboratory",
+              20,
+              [
+                "Shree Shreemal, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D2G": [
+          "38015",
+          [
+            [
+              6,
+              "T",
+              "143 Loomis Laboratory",
+              20,
+              [
+                "Girotti-Hernandez, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D2H": [
+          "47452",
+          [
+            [
+              6,
+              "T",
+              "147 Loomis Laboratory",
+              20,
+              [
+                "McClure, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D2J": [
+          "51927",
+          [
+            [
+              29,
+              "T",
+              "137 Loomis Laboratory",
+              20,
+              [
+                "Batra, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D2K": [
+          "53113",
+          [
+            [
+              29,
+              "T",
+              "139 Loomis Laboratory",
+              20,
+              [
+                "Ribaudo, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D2L": [
+          "35811",
+          [
+            [
+              42,
+              "T",
+              "9 FAR Meeting Space",
+              1,
+              [
+                "Ahmed, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D2M": [
+          "35812",
+          [
+            [
+              36,
+              "T",
+              "137 Loomis Laboratory",
+              20,
+              [
+                "Mueller, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D2N": [
+          "35828",
+          [
+            [
+              36,
+              "T",
+              "139 Loomis Laboratory",
+              20,
+              [
+                "Chan, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D2R": [
+          "35815",
+          [
+            [
+              37,
+              "T",
+              "137 Loomis Laboratory",
+              20,
+              [
+                "Karikos, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D2S": [
+          "35814",
+          [
+            [
+              37,
+              "T",
+              "139 Loomis Laboratory",
+              20,
+              [
+                "Pan, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D2U": [
+          "78225",
+          [
+            [
+              109,
+              "T",
+              "137 Loomis Laboratory",
+              20,
+              [
+                "Jenike, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D2V": [
+          "78226",
+          [
+            [
+              109,
+              "T",
+              "139 Loomis Laboratory",
+              20,
+              [
+                "Shree Shreemal, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D3A": [
+          "35817",
+          [
+            [
+              33,
+              "W",
+              "137 Loomis Laboratory",
+              20,
+              [
+                "Blanchard, O"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D3B": [
+          "35807",
+          [
+            [
+              33,
+              "W",
+              "139 Loomis Laboratory",
+              20,
+              [
+                "Chung, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D3C": [
+          "56180",
+          [
+            [
+              33,
+              "W",
+              "143 Loomis Laboratory",
+              20,
+              [
+                "Jenike, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D3D": [
+          "35816",
+          [
+            [
+              33,
+              "W",
+              "147 Loomis Laboratory",
+              20,
+              [
+                "Clarke, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D3E": [
+          "35826",
+          [
+            [
+              6,
+              "W",
+              "137 Loomis Laboratory",
+              20,
+              [
+                "Chen, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D3F": [
+          "35813",
+          [
+            [
+              6,
+              "W",
+              "139 Loomis Laboratory",
+              20,
+              [
+                "Montaner, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D3G": [
+          "58969",
+          [
+            [
+              6,
+              "W",
+              "143 Loomis Laboratory",
+              20,
+              [
+                "Souza Ramos, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D3H": [
+          "36040",
+          [
+            [
+              6,
+              "W",
+              "147 Loomis Laboratory",
+              20,
+              [
+                "Bitcon, O"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D3J": [
+          "35819",
+          [
+            [
+              29,
+              "W",
+              "137 Loomis Laboratory",
+              20,
+              [
+                "Batra, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D3K": [
+          "36097",
+          [
+            [
+              29,
+              "W",
+              "139 Loomis Laboratory",
+              20,
+              [
+                "Ribaudo, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D3M": [
+          "35847",
+          [
+            [
+              36,
+              "W",
+              "137 Loomis Laboratory",
+              20,
+              [
+                "Clarisse, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D3N": [
+          "35821",
+          [
+            [
+              36,
+              "W",
+              "139 Loomis Laboratory",
+              20,
+              [
+                "Pan, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D3R": [
+          "36093",
+          [
+            [
+              37,
+              "W",
+              "137 Loomis Laboratory",
+              20,
+              [
+                "Karikos, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D3S": [
+          "35822",
+          [
+            [
+              37,
+              "W",
+              "139 Loomis Laboratory",
+              20,
+              [
+                "Goel, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D4A": [
+          "35848",
+          [
+            [
+              33,
+              "R",
+              "137 Loomis Laboratory",
+              20,
+              [
+                "Baza, X"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D4B": [
+          "58660",
+          [
+            [
+              33,
+              "R",
+              "139 Loomis Laboratory",
+              20,
+              [
+                "Clarke, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D4C": [
+          "35830",
+          [
+            [
+              33,
+              "R",
+              "143 Loomis Laboratory",
+              20,
+              [
+                "Bitcon, O"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D4D": [
+          "35975",
+          [
+            [
+              33,
+              "R",
+              "147 Loomis Laboratory",
+              20,
+              [
+                "Blanchard, O"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D4E": [
+          "35849",
+          [
+            [
+              6,
+              "R",
+              "137 Loomis Laboratory",
+              20,
+              [
+                "Chung, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D4F": [
+          "58657",
+          [
+            [
+              6,
+              "R",
+              "139 Loomis Laboratory",
+              20,
+              [
+                "Montaner, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D4G": [
+          "36006",
+          [
+            [
+              6,
+              "R",
+              "143 Loomis Laboratory",
+              20,
+              [
+                "Pan, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D4H": [
+          "60195",
+          [
+            [
+              6,
+              "R",
+              "147 Loomis Laboratory",
+              20,
+              [
+                "Clarisse, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D4J": [
+          "35833",
+          [
+            [
+              29,
+              "R",
+              "137 Loomis Laboratory",
+              20,
+              [
+                "Batra, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D4K": [
+          "35843",
+          [
+            [
+              29,
+              "R",
+              "139 Loomis Laboratory",
+              20,
+              [
+                "Mueller, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D4M": [
+          "53114",
+          [
+            [
+              36,
+              "R",
+              "137 Loomis Laboratory",
+              20,
+              [
+                "McClure, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D4N": [
+          "35955",
+          [
+            [
+              36,
+              "R",
+              "139 Loomis Laboratory",
+              20,
+              [
+                "Souza Ramos, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D4R": [
+          "35850",
+          [
+            [
+              37,
+              "R",
+              "137 Loomis Laboratory",
+              20,
+              [
+                "Clarisse, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D4S": [
+          "35827",
+          [
+            [
+              37,
+              "R",
+              "139 Loomis Laboratory",
+              20,
+              [
+                "Shree Shreemal, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D5A": [
+          "35805",
+          [
+            [
+              33,
+              "F",
+              "137 Loomis Laboratory",
+              20,
+              [
+                "Souza Ramos, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D5B": [
+          "35825",
+          [
+            [
+              33,
+              "F",
+              "139 Loomis Laboratory",
+              20,
+              [
+                "Jenike, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D5C": [
+          "58659",
+          [
+            [
+              33,
+              "F",
+              "143 Loomis Laboratory",
+              20,
+              [
+                "Chung, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D5D": [
+          "58658",
+          [
+            [
+              33,
+              "F",
+              "147 Loomis Laboratory",
+              20,
+              [
+                "Mamaril, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D5E": [
+          "35959",
+          [
+            [
+              6,
+              "F",
+              "137 Loomis Laboratory",
+              20,
+              [
+                "Clarke, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D5F": [
+          "35962",
+          [
+            [
+              6,
+              "F",
+              "139 Loomis Laboratory",
+              20,
+              [
+                "Goel, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D5G": [
+          "36046",
+          [
+            [
+              6,
+              "F",
+              "143 Loomis Laboratory",
+              20,
+              [
+                "Baza, X"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D5H": [
+          "35981",
+          [
+            [
+              6,
+              "F",
+              "147 Loomis Laboratory",
+              20,
+              [
+                "Ribaudo, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D5J": [
+          "35969",
+          [
+            [
+              29,
+              "F",
+              "137 Loomis Laboratory",
+              20,
+              [
+                "Mueller, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D5K": [
+          "35965",
+          [
+            [
+              29,
+              "F",
+              "139 Loomis Laboratory",
+              20,
+              [
+                "Chen, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D5M": [
+          "48279",
+          [
+            [
+              36,
+              "F",
+              "137 Loomis Laboratory",
+              20,
+              [
+                "McClure, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D5N": [
+          "35971",
+          [
+            [
+              36,
+              "F",
+              "139 Loomis Laboratory",
+              20,
+              [
+                "Karikos, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D5R": [
+          "53112",
+          [
+            [
+              37,
+              "F",
+              "137 Loomis Laboratory",
+              20,
+              [
+                "Montaner, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D5S": [
+          "51773",
+          [
+            [
+              37,
+              "F",
+              "139 Loomis Laboratory",
+              20,
+              [
+                "Chen, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "L2A": [
+          "35979",
+          [
+            [
+              33,
+              "T",
+              "4031 Campus Instructional Facility",
+              10,
+              [
+                "Katta, S",
+                "Shi, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L2E": [
+          "35984",
+          [
+            [
+              6,
+              "T",
+              "4031 Campus Instructional Facility",
+              10,
+              [
+                "Birchmier, R",
+                "Katta, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L2J": [
+          "36010",
+          [
+            [
+              29,
+              "T",
+              "4031 Campus Instructional Facility",
+              10,
+              [
+                "Sun, H",
+                "Vyaghrambare, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L2M": [
+          "36022",
+          [
+            [
+              36,
+              "T",
+              "4031 Campus Instructional Facility",
+              10,
+              [
+                "Sun, H",
+                "Wang, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L2R": [
+          "36034",
+          [
+            [
+              37,
+              "T",
+              "4031 Campus Instructional Facility",
+              10,
+              [
+                "Sun, H",
+                "Wu, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L3A": [
+          "36053",
+          [
+            [
+              33,
+              "W",
+              "4031 Campus Instructional Facility",
+              10,
+              [
+                "Collins, S",
+                "Shi, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L3E": [
+          "36058",
+          [
+            [
+              6,
+              "W",
+              "4031 Campus Instructional Facility",
+              10,
+              [
+                "Boyella, P",
+                "Rodriguez Beck, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L3J": [
+          "36064",
+          [
+            [
+              29,
+              "W",
+              "4031 Campus Instructional Facility",
+              10,
+              [
+                "Bolan Laracuente, K",
+                "Boyella, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L3M": [
+          "36068",
+          [
+            [
+              36,
+              "W",
+              "4031 Campus Instructional Facility",
+              10,
+              [
+                "Ibrahim, A",
+                "Rodriguez Beck, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L3R": [
+          "36077",
+          [
+            [
+              37,
+              "W",
+              "4031 Campus Instructional Facility",
+              10,
+              [
+                "Le, L",
+                "Wu, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L4A": [
+          "36086",
+          [
+            [
+              33,
+              "R",
+              "4031 Campus Instructional Facility",
+              10,
+              [
+                "Collins, S",
+                "Shi, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L4E": [
+          "38008",
+          [
+            [
+              6,
+              "R",
+              "4031 Campus Instructional Facility",
+              10,
+              [
+                "Bolan Laracuente, K",
+                "Ibrahim, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L4J": [
+          "38012",
+          [
+            [
+              29,
+              "R",
+              "4031 Campus Instructional Facility",
+              10,
+              [
+                "Lu, Z",
+                "Vyaghrambare, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L4M": [
+          "38010",
+          [
+            [
+              36,
+              "R",
+              "4031 Campus Instructional Facility",
+              10,
+              [
+                "Le, L",
+                "Wu, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L4R": [
+          "38017",
+          [
+            [
+              37,
+              "R",
+              "4031 Campus Instructional Facility",
+              10,
+              [
+                "Boyella, P",
+                "Lu, Z"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L5A": [
+          "60731",
+          [
+            [
+              33,
+              "F",
+              "4031 Campus Instructional Facility",
+              10,
+              [
+                "Aksimentiev, A",
+                "Wang, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L5E": [
+          "38026",
+          [
+            [
+              6,
+              "F",
+              "4031 Campus Instructional Facility",
+              10,
+              [
+                "Ibrahim, A",
+                "Qi, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L5J": [
+          "58970",
+          [
+            [
+              29,
+              "F",
+              "4031 Campus Instructional Facility",
+              10,
+              [
+                "Le, L",
+                "Lu, Z"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L5M": [
+          "51772",
+          [
+            [
+              36,
+              "F",
+              "4031 Campus Instructional Facility",
+              10,
+              [
+                "Qi, D",
+                "Vyaghrambare, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L5R": [
+          "36089",
+          [
+            [
+              37,
+              "F",
+              "4031 Campus Instructional Facility",
+              10,
+              [
+                "Collins, S",
+                "Qi, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "[IAI Code: P2900L and PHY911] Newton's Laws, work and energy, static properties and fluids, oscillations, transverse waves, systems of particles, and rotations. A calculus-based approach for majors in engineering, mathematics, physics and chemistry.",
+      []
+    ],
+    "PHYS 214": [
+      "Univ Physics: Quantum Physics",
+      {
+        "A1": [
+          "38329",
+          [
+            [
+              27,
+              "MW",
+              "141 Loomis Laboratory",
+              20,
+              [
+                "Cohen, O"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "A2": [
+          "38330",
+          [
+            [
+              8,
+              "MW",
+              "141 Loomis Laboratory",
+              20,
+              [
+                "Trickle, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "A3": [
+          "38331",
+          [
+            [
+              11,
+              "MW",
+              "141 Loomis Laboratory",
+              20,
+              [
+                "Trickle, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "D2A": [
+          "59008",
+          [
+            [
+              33,
+              "T",
+              "222 Loomis Laboratory",
+              20,
+              [
+                "Joshi, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D2B": [
+          "38332",
+          [
+            [
+              33,
+              "T",
+              "35 Loomis Laboratory",
+              20,
+              [
+                "Kim, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D2E": [
+          "38340",
+          [
+            [
+              6,
+              "T",
+              "222 Loomis Laboratory",
+              20,
+              [
+                "Kim, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D2F": [
+          "38334",
+          [
+            [
+              6,
+              "T",
+              "35 Loomis Laboratory",
+              20,
+              [
+                "Stratman, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D2J": [
+          "38333",
+          [
+            [
+              29,
+              "T",
+              "222 Loomis Laboratory",
+              20,
+              [
+                "Hiri-O-Tuppa, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D2K": [
+          "53064",
+          [
+            [
+              29,
+              "T",
+              "35 Loomis Laboratory",
+              20,
+              [
+                "Baltasar Jimenez, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D2M": [
+          "38335",
+          [
+            [
+              36,
+              "T",
+              "222 Loomis Laboratory",
+              20,
+              [
+                "Kleiner, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D2N": [
+          "38336",
+          [
+            [
+              36,
+              "T",
+              "35 Loomis Laboratory",
+              20,
+              [
+                "Gunturu, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D2R": [
+          "59018",
+          [
+            [
+              37,
+              "T",
+              "222 Loomis Laboratory",
+              20,
+              [
+                "Takahashi, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D2S": [
+          "38337",
+          [
+            [
+              37,
+              "T",
+              "35 Loomis Laboratory",
+              20,
+              [
+                "Quinn, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D3A": [
+          "47382",
+          [
+            [
+              33,
+              "W",
+              "222 Loomis Laboratory",
+              20,
+              [
+                "Gunturu, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D3B": [
+          "51345",
+          [
+            [
+              33,
+              "W",
+              "35 Loomis Laboratory",
+              20,
+              [
+                "Baltasar Jimenez, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D3E": [
+          "38428",
+          [
+            [
+              6,
+              "W",
+              "222 Loomis Laboratory",
+              20,
+              [
+                "Gunturu, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D3F": [
+          "38383",
+          [
+            [
+              6,
+              "W",
+              "35 Loomis Laboratory",
+              20,
+              [
+                "Quinn, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D3J": [
+          "38425",
+          [
+            [
+              29,
+              "W",
+              "222 Loomis Laboratory",
+              20,
+              [
+                "Stratman, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D3K": [
+          "38362",
+          [
+            [
+              29,
+              "W",
+              "35 Loomis Laboratory",
+              20,
+              [
+                "Ganguli, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D3M": [
+          "38345",
+          [
+            [
+              36,
+              "W",
+              "222 Loomis Laboratory",
+              20,
+              [
+                "Danesh, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D3N": [
+          "38347",
+          [
+            [
+              36,
+              "W",
+              "35 Loomis Laboratory",
+              20,
+              [
+                "Joshi, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D3R": [
+          "38350",
+          [
+            [
+              37,
+              "W",
+              "222 Loomis Laboratory",
+              20,
+              [
+                "Danesh, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D3S": [
+          "38354",
+          [
+            [
+              37,
+              "W",
+              "35 Loomis Laboratory",
+              20,
+              [
+                "Hiri-O-Tuppa, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D4A": [
+          "59010",
+          [
+            [
+              33,
+              "R",
+              "222 Loomis Laboratory",
+              20,
+              [
+                "Kleiner, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D4B": [
+          "38342",
+          [
+            [
+              33,
+              "R",
+              "35 Loomis Laboratory",
+              20,
+              [
+                "Joshi, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D4E": [
+          "38343",
+          [
+            [
+              6,
+              "R",
+              "222 Loomis Laboratory",
+              20,
+              [
+                "Farina, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D4F": [
+          "51339",
+          [
+            [
+              6,
+              "R",
+              "35 Loomis Laboratory",
+              20,
+              [
+                "Ganguli, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D4J": [
+          "38360",
+          [
+            [
+              29,
+              "R",
+              "222 Loomis Laboratory",
+              20,
+              [
+                "Kim, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D4K": [
+          "53065",
+          [
+            [
+              29,
+              "R",
+              "35 Loomis Laboratory",
+              20,
+              [
+                "Baltasar Jimenez, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D4M": [
+          "38364",
+          [
+            [
+              36,
+              "R",
+              "222 Loomis Laboratory",
+              20,
+              [
+                "Takahashi, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D4N": [
+          "38369",
+          [
+            [
+              36,
+              "R",
+              "35 Loomis Laboratory",
+              20,
+              [
+                "Joshi, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D4R": [
+          "38372",
+          [
+            [
+              37,
+              "R",
+              "222 Loomis Laboratory",
+              20,
+              [
+                "Hiri-O-Tuppa, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D5A": [
+          "38338",
+          [
+            [
+              33,
+              "F",
+              "214 Ceramics Building",
+              29,
+              [
+                "Quinn, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D5E": [
+          "38339",
+          [
+            [
+              6,
+              "F",
+              "0036 Campus Instructional Facility",
+              10,
+              [
+                "Stratman, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D5J": [
+          "59012",
+          [
+            [
+              29,
+              "F",
+              "2025 Campus Instructional Facility",
+              10,
+              [
+                "Danesh, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "L1A": [
+          "38509",
+          [
+            [
+              33,
+              "M",
+              "64 Loomis Laboratory",
+              20,
+              [
+                "Bezryadin, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L1E": [
+          "38499",
+          [
+            [
+              6,
+              "M",
+              "64 Loomis Laboratory",
+              20,
+              [
+                "Herrington, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L1J": [
+          "39192",
+          [
+            [
+              29,
+              "M",
+              "64 Loomis Laboratory",
+              20,
+              [
+                "Liu, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L1M": [
+          "51320",
+          [
+            [
+              36,
+              "M",
+              "64 Loomis Laboratory",
+              20,
+              [
+                "Liu, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L1R": [
+          "51321",
+          [
+            [
+              37,
+              "M",
+              "64 Loomis Laboratory",
+              20,
+              [
+                "Liu, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L2A": [
+          "38431",
+          [
+            [
+              33,
+              "T",
+              "64 Loomis Laboratory",
+              20,
+              [
+                "Yao, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L2E": [
+          "58992",
+          [
+            [
+              6,
+              "T",
+              "64 Loomis Laboratory",
+              20,
+              [
+                "Arya, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L2J": [
+          "38466",
+          [
+            [
+              29,
+              "T",
+              "64 Loomis Laboratory",
+              20,
+              [
+                "Yao, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L2M": [
+          "38474",
+          [
+            [
+              36,
+              "T",
+              "64 Loomis Laboratory",
+              20,
+              [
+                "Lorenz, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L2R": [
+          "38494",
+          [
+            [
+              37,
+              "T",
+              "64 Loomis Laboratory",
+              20,
+              [
+                "Arya, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L3A": [
+          "38434",
+          [
+            [
+              33,
+              "W",
+              "64 Loomis Laboratory",
+              20,
+              [
+                "Yao, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L3E": [
+          "38471",
+          [
+            [
+              6,
+              "W",
+              "64 Loomis Laboratory",
+              20,
+              [
+                "Tiwari, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L3J": [
+          "38501",
+          [
+            [
+              29,
+              "W",
+              "64 Loomis Laboratory",
+              20,
+              [
+                "La Sage, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L3M": [
+          "38504",
+          [
+            [
+              36,
+              "W",
+              "64 Loomis Laboratory",
+              20,
+              [
+                "Arya, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L3R": [
+          "51324",
+          [
+            [
+              37,
+              "W",
+              "64 Loomis Laboratory",
+              20,
+              [
+                "Chow, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L4A": [
+          "38513",
+          [
+            [
+              33,
+              "R",
+              "64 Loomis Laboratory",
+              20,
+              [
+                "Liu, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L4E": [
+          "38505",
+          [
+            [
+              6,
+              "R",
+              "64 Loomis Laboratory",
+              20,
+              [
+                "Liu, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L4J": [
+          "38511",
+          [
+            [
+              29,
+              "R",
+              "64 Loomis Laboratory",
+              20,
+              [
+                "Tiwari, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L4M": [
+          "38495",
+          [
+            [
+              36,
+              "R",
+              "64 Loomis Laboratory",
+              20,
+              [
+                "Rizzo, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L4R": [
+          "58990",
+          [
+            [
+              37,
+              "R",
+              "64 Loomis Laboratory",
+              20,
+              [
+                "Chow, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L5A": [
+          "38497",
+          [
+            [
+              33,
+              "F",
+              "64 Loomis Laboratory",
+              20,
+              [
+                "Rizzo, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L5E": [
+          "51323",
+          [
+            [
+              6,
+              "F",
+              "64 Loomis Laboratory",
+              20,
+              [
+                "Herrington, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L5J": [
+          "58995",
+          [
+            [
+              29,
+              "F",
+              "64 Loomis Laboratory",
+              20,
+              [
+                "La Sage, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L5M": [
+          "38496",
+          [
+            [
+              36,
+              "F",
+              "64 Loomis Laboratory",
+              20,
+              [
+                "Chow, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Interference and diffraction, photons and matter waves, the Bohr atom, uncertainty principle, and wave mechanics. A calculus-based course for majors in engineering, mathematics, physics, and chemistry.",
+      []
+    ],
+    "PHYS 221": [
+      "Enrichment Mechanics",
+      {
+        "M1": [
+          "53717",
+          [
+            [
+              29,
+              "F",
+              "276 Loomis Laboratory",
+              20,
+              [
+                "Gao, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "M2": [
+          "53718",
+          [
+            [
+              36,
+              "F",
+              "276 Loomis Laboratory",
+              20,
+              [
+                "Gao, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Supplement to PHYS 211 with a collaborative group learning approach to improving conceptual understanding and problem solving in introductory calculus-based mechanics.",
+      []
+    ],
+    "PHYS 225": [
+      "Relativity & Math Applications",
+      {
+        "A": [
+          "53724",
+          [
+            [
+              13,
+              "T",
+              "141 Loomis Laboratory",
+              20,
+              [
+                "Koptieva, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "D5A": [
+          "57367",
+          [
+            [
+              33,
+              "F",
+              "222 Loomis Laboratory",
+              20,
+              [
+                "Muslih, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D5B": [
+          "78224",
+          [
+            [
+              33,
+              "F",
+              "35 Loomis Laboratory",
+              20,
+              [
+                "Wentzel, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D5E": [
+          "53726",
+          [
+            [
+              6,
+              "F",
+              "222 Loomis Laboratory",
+              20,
+              [
+                "Wentzel, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D5F": [
+          "77384",
+          [
+            [
+              6,
+              "F",
+              "35 Loomis Laboratory",
+              20,
+              [
+                "Kovach, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D5J": [
+          "53727",
+          [
+            [
+              29,
+              "F",
+              "222 Loomis Laboratory",
+              20,
+              [
+                "Wentzel, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D5K": [
+          "58892",
+          [
+            [
+              29,
+              "F",
+              "35 Loomis Laboratory",
+              20,
+              [
+                "Pardoe, F"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D5M": [
+          "53728",
+          [
+            [
+              36,
+              "F",
+              "222 Loomis Laboratory",
+              20,
+              [
+                "Kovach, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D5N": [
+          "58891",
+          [
+            [
+              36,
+              "F",
+              "35 Loomis Laboratory",
+              20,
+              [
+                "Pardoe, F"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D5R": [
+          "63302",
+          [
+            [
+              37,
+              "F",
+              "222 Loomis Laboratory",
+              20,
+              [
+                "Kovach, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D5S": [
+          "53725",
+          [
+            [
+              37,
+              "F",
+              "35 Loomis Laboratory",
+              20,
+              [
+                "Pardoe, F"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Theory of Special Relativity, with applications to kinematics and dynamics. Key mathematical methods as they apply to aspects of electromagnetic theory and classical mechanics, including vector analysis, series expansions, matrices, Fourier analysis, partial differentiation, three-dimensional calculus, and simple differential equations.",
+      []
+    ],
+    "PHYS 246": [
+      "Physics on the Silicon Prairie: An Introduction to Modern Computational Physics",
+      {
+        "A": [
+          "70393",
+          [
+            [
+              37,
+              "R",
+              "276 Loomis Laboratory",
+              20,
+              [
+                "Wagner, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          9,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "You will become a fearless code warrior, exploring the behaviors of systems that are too complicated for analytic characterization. You will calculate the trajectory of a relativistic starship and confirm an insight of Ramanujan, the \"Man Who Knew Infinity.\" You will generate diagrams of spacetime curvature near black holes and confirm that General Relativity causes the non-Newtonian behavior of Mercury's orbit. You will calculate Π using simulated grains of sand. There will be chaos, Monte Carlo simulations, and adaptive numerical integrations.",
+      []
+    ],
+    "PHYS 325": [
+      "Classical Mechanics I",
+      {
+        "A": [
+          "38566",
+          [
+            [
+              244,
+              "TR",
+              "151 Loomis Laboratory",
+              20,
+              [
+                "Witek, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "D1": [
+          "57354",
+          [
+            [
+              13,
+              "M",
+              "4018 Campus Instructional Facility",
+              10,
+              [
+                "Gupta, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D2": [
+          "38568",
+          [
+            [
+              28,
+              "M",
+              "4018 Campus Instructional Facility",
+              10,
+              [
+                "Gupta, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D3": [
+          "38569",
+          [
+            [
+              127,
+              "M",
+              "4018 Campus Instructional Facility",
+              10,
+              [
+                "Cordeiro, I",
+                "Gupta, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D4": [
+          "58898",
+          [
+            [
+              97,
+              "M",
+              "4018 Campus Instructional Facility",
+              10,
+              [
+                "Cordeiro, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D5": [
+          "58899",
+          [
+            [
+              245,
+              "M",
+              "4018 Campus Instructional Facility",
+              10,
+              [
+                "Cordeiro, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Kinematics and dynamics of classical systems, including a review of Newtonian kinematics and dynamics. Three dimensional motion, variable mass, and conservation laws; damped and periodically driven oscillations; gravitational potential of extended objects and motion in rotating frames of reference; Lagrangian and Hamiltonian mechanics.",
+      []
+    ],
+    "PHYS 280": [
+      "Nuclear Weapons & Arms Control",
+      {
+        "A": [
+          "38668",
+          [
+            [
+              2,
+              "TR",
+              "218 Ceramics Building",
+              29,
+              [
+                "Caplan, M",
+                "Grosse Perdekamp, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "L11": [
+          "40888",
+          [
+            [
+              8,
+              "M",
+              "4036 Campus Instructional Facility",
+              10,
+              [
+                "Salinas San Martin, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L12": [
+          "40889",
+          [
+            [
+              11,
+              "M",
+              "4036 Campus Instructional Facility",
+              10,
+              [
+                "Kuscu, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L13": [
+          "40891",
+          [
+            [
+              10,
+              "M",
+              "4036 Campus Instructional Facility",
+              10,
+              [
+                "Shah, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L14": [
+          "40892",
+          [
+            [
+              12,
+              "M",
+              "4036 Campus Instructional Facility",
+              10,
+              [
+                "Razavimaleki, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L15": [
+          "40893",
+          [
+            [
+              9,
+              "M",
+              "4036 Campus Instructional Facility",
+              10,
+              [
+                "Kness, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L16": [
+          "40896",
+          [
+            [
+              14,
+              "M",
+              "4036 Campus Instructional Facility",
+              10,
+              [
+                "Vijay, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Nontechnical analysis of the physics of nuclear weapons, nuclear weapon effects, delivery systems, and defenses against nuclear attack; presentation of current issues; basis for making informed judgments about nuclear armaments and arms control.",
+      []
+    ],
+    "PHYS 326": [
+      "Classical Mechanics II",
+      {
+        "A": [
+          "38582",
+          [
+            [
+              23,
+              "TR",
+              "144 Loomis Laboratory",
+              20,
+              [
+                "Golding, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "D0": [
+          "58900",
+          [
+            [
+              28,
+              "W",
+              "136 Loomis Laboratory",
+              20,
+              [
+                "Kairon, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D1": [
+          "38584",
+          [
+            [
+              127,
+              "W",
+              "136 Loomis Laboratory",
+              20,
+              [
+                "Kairon, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D2": [
+          "38585",
+          [
+            [
+              97,
+              "W",
+              "136 Loomis Laboratory",
+              20,
+              [
+                "Kairon, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D3": [
+          "38586",
+          [
+            [
+              245,
+              "W",
+              "136 Loomis Laboratory",
+              20,
+              [
+                "Kairon, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Continuation of PHYS 325. Central force motion, collisions and scattering, rotational motion, coupled oscillations, continuous media, and fluid dynamics.",
+      []
+    ],
+    "PHYS 370": [
+      "Introduction to Quantum Information and Computing",
+      {
+        "A": [
+          "74441",
+          [
+            [
+              15,
+              "MW",
+              "276 Loomis Laboratory",
+              20,
+              [
+                "Beck, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to quantum information and computing for sophomores, juniors and seniors from any major. Self-contained description of quantum states and qubits, operators, measurements, tensor products, density matrices, quantum gates and circuits, and quantum computing/simulation algorithms. One of the key points of departure from classical physics, quantum entanglement, is threaded throughout all these topics including a dedicated discussion of Bell's theorem. Students will apply these basic aspects of quantum mechanics to program online quantum computers (e.g., IBM cloud) to gain insight into canonical algorithms such as Deutsch-Jozsa, Shor, and/or Grover as well as standard protocols such as teleportation and entanglement swapping.",
+      []
+    ],
+    "PHYS 394": [
+      "Pedagogy and Teaching Physics for Learning Assistants",
+      {
+        "LA1": [
+          "72352",
+          [
+            [
+              5,
+              "T",
+              "158 Loomis Laboratory",
+              20,
+              [
+                "Mahmood, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "LA2": [
+          "73793",
+          [
+            [
+              34,
+              "T",
+              "158 Loomis Laboratory",
+              20,
+              [
+                "Lundsgaard, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Designed to support Learning Assistants (LAs) who are working as instructional aids in lab or discussion sections of the introductory physics courses. Students will study pedagogical strategies for instructor-student interaction and philosophies guiding lab design and/or discussion problem creation.",
+      []
+    ],
+    "PHYS 395": [
+      "Studies on the Pedagogy and Structure of the Physics Learning Assistant Program",
+      {
+        "A": [
+          "74993",
+          [
+            [
+              7,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Designed for students who have been Learning Assistants (LAs) in the lab sections of the introductory physics courses or in discussion sections of PHYS 100 and who have successfully completed PHYS 394. The goal of the course is to provide students the opportunity to pursue their interest in the Learning Assistant program by continuing working as assistants in the lab or discussions sections of the introductory physics courses and at the same time conduct a study on the program. At the end of the semester students present their work at the Expert LA symposium.",
+      []
+    ],
+    "PHYS 401": [
+      "Classical Physics Lab",
+      {
+        "A": [
+          "38571",
+          [
+            [
+              5,
+              "M",
+              "136 Loomis Laboratory",
+              20,
+              [
+                "Burkova, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "L3": [
+          "38573",
+          [
+            [
+              136,
+              "W",
+              "6103 Engineering Sciences Building",
+              52,
+              [
+                "Tanner, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L4": [
+          "57893",
+          [
+            [
+              118,
+              "R",
+              "6103 Engineering Sciences Building",
+              52,
+              [
+                "Fredman, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Experiments and techniques in classical mechanics and electromagnetism. Dynamics of electrical and mechanical oscillators in the linear domain. Fourier analysis of system response. Measurements of electrostatic fields, transmission lines, waves, and radiation. Electromagnetic phenomena in dielectrics, conductors, and magnetic materials. Instruction in data analysis and report writing.",
+      []
+    ],
+    "PHYS 402": [
+      "Light",
+      {
+        "BB": [
+          "44817",
+          [
+            [
+              136,
+              "M",
+              "6105 Engineering Sciences Building",
+              52,
+              [
+                "Cohen, O"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "BL1": [
+          "36707",
+          [
+            [
+              136,
+              "W",
+              "Location Pending",
+              1,
+              [
+                "Armond, S",
+                "Woods, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Wave kinematics; geometrical optics: basic concepts, ray-tracing and matrix formalism, Gaussian imaging by thick lenses, stops, apertures, and intensity relations; interference; interference spectroscopy and coherence; diffraction: Fresnel-Kirchhoff formulation, Fraunhofer case, Fresnel case, and holography; polarized light.",
+      []
+    ],
+    "PHYS 404": [
+      "Electronic Circuits",
+      {
+        "AC": [
+          "38598",
+          [
+            [
+              42,
+              "MW",
+              "136 Loomis Laboratory",
+              20,
+              [
+                "Liu, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "AG": [
+          "38600",
+          [
+            [
+              42,
+              "MW",
+              "136 Loomis Laboratory",
+              20,
+              [
+                "Liu, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "L2": [
+          "38605",
+          [
+            [
+              24,
+              "TR",
+              "6106 Engineering Sciences Building",
+              52,
+              [
+                "Owen, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L3": [
+          "38601",
+          [
+            [
+              30,
+              "WF",
+              "6106 Engineering Sciences Building",
+              52,
+              [
+                "Ganesan, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Physics of semiconductor devices; theory and application of discrete and integrated devices in linear circuits; use of operational amplifiers and feedback; regulation, oscillators, and modulation; emphasizes practical experience.",
+      []
+    ],
+    "PHYS 403": [
+      "Modern Experimental Physics",
+      {
+        "A": [
+          "46820",
+          [
+            [
+              136,
+              "TR",
+              "5105 Engineering Sciences Building",
+              52,
+              [
+                "Burkova, I",
+                "Colla, E",
+                "Long, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Techniques and experiments in the physics of atoms, atomic nuclei, molecules, the solid state, and other areas of modern physical research.",
+      []
+    ],
+    "PHYS 407": [
+      "Experimental Biological Physics",
+      {
+        "A": [
+          "77015",
+          [
+            [
+              136,
+              "TR",
+              "4122 Engineering Sciences Building",
+              52,
+              [
+                "Denos, S",
+                "Selvin, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          9,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "For advanced undergraduate and graduate students in Physics interested in the connection between biology and physics (no prior biology experience needed). This course explores Nobel Prize-winning experiments in biological physics and quantitative biology. Students will learn important techniques, including: optical imaging beyond the diffraction limit; optical trapping of microorganisms and subcellular structures; optical detection using nitrogen vacancy centers; molecular biology and statistical analyses for testing evolutionary models; and computational prediction of protein folding.",
+      []
+    ],
+    "PHYS 419": [
+      "Space, Time, and Matter-ACP",
+      {
+        "A": [
+          "38575",
+          [
+            [
+              1,
+              "TR",
+              "138 Henry Administration Bldg",
+              7,
+              [
+                "Phillips, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "G": [
+          "38576",
+          [
+            [
+              1,
+              "TR",
+              "138 Henry Administration Bldg",
+              7,
+              [
+                "Phillips, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Identical to PHYS 420 except for the additional writing component including a final term paper.",
+      []
+    ],
+    "PHYS 420": [
+      "Space, Time, and Matter",
+      {
+        "A": [
+          "43171",
+          [
+            [
+              1,
+              "TR",
+              "138 Henry Administration Bldg",
+              7,
+              [
+                "Phillips, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Philosophical examination of some fundamental concepts and theories of the physical world, such as time, matter, space, and geometry; interpretation of quantum theory.",
+      []
+    ],
+    "PHYS 427": [
+      "Thermal & Statistical Physics",
+      {
+        "A": [
+          "36679",
+          [
+            [
+              5,
+              "TR",
+              "144 Loomis Laboratory",
+              20,
+              [
+                "Dahmen, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "D0": [
+          "61783",
+          [
+            [
+              28,
+              "T",
+              "4036 Campus Instructional Facility",
+              10,
+              [
+                "Abboud, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D1": [
+          "61784",
+          [
+            [
+              127,
+              "T",
+              "4036 Campus Instructional Facility",
+              10,
+              [
+                "Abboud, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D2": [
+          "61785",
+          [
+            [
+              97,
+              "T",
+              "4036 Campus Instructional Facility",
+              10,
+              [
+                "Abboud, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Equilibrium thermodynamics, statistical mechanics, and kinetic theory of gases. A unified treatment is used in that the principles of heat and thermodynamics are discussed along with statistical postulates and the microscopic approach of introductory quantum mechanics.",
+      []
+    ],
+    "PHYS 435": [
+      "Electromagnetic Fields I",
+      {
+        "A": [
+          "38588",
+          [
+            [
+              8,
+              "MWF",
+              "124 Burrill Hall",
+              12,
+              [
+                "Tsokaros, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "D0": [
+          "56107",
+          [
+            [
+              28,
+              "M",
+              "4036 Campus Instructional Facility",
+              10,
+              [
+                "Fajardo Montenegro, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D1": [
+          "38589",
+          [
+            [
+              127,
+              "M",
+              "4036 Campus Instructional Facility",
+              10,
+              [
+                "Fajardo Montenegro, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D2": [
+          "38591",
+          [
+            [
+              97,
+              "M",
+              "4036 Campus Instructional Facility",
+              10,
+              [
+                "Fajardo Montenegro, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D3": [
+          "58901",
+          [
+            [
+              245,
+              "M",
+              "4036 Campus Instructional Facility",
+              10,
+              [
+                "Fajardo Montenegro, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Static electric and magnetic fields, their interactions with electric charge and current, and their transformation properties; the effect of special relativity is incorporated. Macroscopic fields in material media are described. Register for the lecture and one of the discussion sections.",
+      []
+    ],
+    "PHYS 436": [
+      "Electromagnetic Fields II",
+      {
+        "A": [
+          "38593",
+          [
+            [
+              27,
+              "MWF",
+              "144 Loomis Laboratory",
+              20,
+              [
+                "Kou, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "D1": [
+          "38596",
+          [
+            [
+              127,
+              "T",
+              "4018 Campus Instructional Facility",
+              10,
+              [
+                "Harris, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D2": [
+          "38594",
+          [
+            [
+              97,
+              "T",
+              "4018 Campus Instructional Facility",
+              10,
+              [
+                "Harris, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D3": [
+          "58902",
+          [
+            [
+              245,
+              "T",
+              "4018 Campus Instructional Facility",
+              10,
+              [
+                "Harris, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Time-dependent fields. Electromagnetic induction, Maxwell's equations, electromagnetic wave propagation in various media and structures, and electromagnetic radiation from charge and current distributions. Relativistic covariance of Maxwell's equations.",
+      []
+    ],
+    "PHYS 446": [
+      "Modern Computational Physics",
+      {
+        "A": [
+          "74443",
+          [
+            [
+              15,
+              "MW",
+              "158 Loomis Laboratory",
+              20,
+              [
+                "Clark, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "This is an immersive advanced computational physics course. The goals in this class are to program from scratch, simulate, and understand the physics within a series of multi-week projects spanning areas such as quantum computing, statistical mechanics, the renormalization group, machine learning, and topological insulators. The course approach (lectures, one-on-one interaction in class, etc.) is centered around giving you the information and skills you need to succeed in carrying out these projects.",
+      []
+    ],
+    "PHYS 450": [
+      "Machine Learning for Physics",
+      {
+        "A": [
+          "77823",
+          [
+            [
+              19,
+              "TR",
+              "305 Materials Science & Eng Bld",
+              18,
+              [
+                "Neubauer, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "An introduction to modern data science, artificial intelligence (AI) and machine learning (ML) from a physics perspective. Students will learn the basic concepts, tools, and methods of AI/ML applied to scientific challenges through hands-on projects utilizing open data. Students will study methods to incorporate physics knowledge into AI/ML models to improve their learning efficiency, performance, and interpretability.",
+      []
+    ],
+    "PHYS 460": [
+      "Condensed Matter Physics",
+      {
+        "A": [
+          "73035",
+          [
+            [
+              97,
+              "R",
+              "222 Loomis Laboratory",
+              20,
+              [
+                "Acharya, R",
+                "Amir, H"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              5,
+              "TR",
+              "136 Loomis Laboratory",
+              20,
+              [
+                "Acharya, R",
+                "Amir, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Bonding and structure of crystals; energy bands in insulators, semiconductors, and metals; electrical conductivity; optical properties; lattice vibrations; elasticity; point defects; dislocations.",
+      []
+    ],
+    "PHYS 470": [
+      "Subatomic Physics",
+      {
+        "A": [
+          "36729",
+          [
+            [
+              47,
+              "MW",
+              "136 Loomis Laboratory",
+              20,
+              [
+                "Sickles, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "The nature and properties of nuclei and elementary particles, symmetries, interactions, nuclear models, tools and techniques of experimental subatomic physics, and applications to power generation, astrophysics, chemistry, medicine, and biology.",
+      []
+    ],
+    "PHYS 486": [
+      "Quantum Physics I",
+      {
+        "A": [
+          "36737",
+          [
+            [
+              47,
+              "TR",
+              "119 Materials Science & Eng Bld",
+              18,
+              [
+                "Shelton, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "D0": [
+          "58896",
+          [
+            [
+              151,
+              "R",
+              "158 Loomis Laboratory",
+              20,
+              [
+                "Saha, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D1": [
+          "36743",
+          [
+            [
+              101,
+              "R",
+              "158 Loomis Laboratory",
+              20,
+              [
+                "Saha, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Atomic phenomena integrated with an introduction to quantum theory; evidence for the atomic nature of matter and the properties of the Schrodinger equation, single particle solutions in one dimension, the hydrogen atom, perturbation theory, external fields, and atomic spectroscopy of outer electrons.",
+      []
+    ],
+    "PHYS 487": [
+      "Quantum Physics II",
+      {
+        "A": [
+          "36752",
+          [
+            [
+              1,
+              "TR",
+              "119 Materials Science & Eng Bld",
+              18,
+              [
+                "Pfaff, W"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "D0": [
+          "58903",
+          [
+            [
+              151,
+              "W",
+              "158 Loomis Laboratory",
+              20,
+              [
+                "Cao, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D1": [
+          "36762",
+          [
+            [
+              101,
+              "W",
+              "158 Loomis Laboratory",
+              20,
+              [
+                "Cao, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "D2": [
+          "36758",
+          [
+            [
+              108,
+              "W",
+              "158 Loomis Laboratory",
+              20,
+              [
+                "Cao, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Continuation of PHYS 486. Identical particles, spectral hyperfine structure, magnetic properties of matter, atomic spectroscopy of inner electrons, high-energy photon effects, molecular binding and spectra, emission and absorption of light, and symmetry principles.",
+      []
+    ],
+    "PHYS 495": [
+      "Where the Arts Meets Physics",
+      {
+        "A1": [
+          "75815",
+          [
+            [
+              194,
+              "R",
+              "306 Flagg Hall",
+              1,
+              [
+                "Burbridge, B"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              246,
+              "T",
+              "306 Flagg Hall",
+              1,
+              [
+                "Burbridge, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "A2": [
+          "78042",
+          [
+            [
+              247,
+              "F",
+              "306 Flagg Hall",
+              1,
+              [
+                "Burbridge, B"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              246,
+              "T",
+              "306 Flagg Hall",
+              1,
+              [
+                "Burbridge, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "A project-based, cross-disciplinary course for students interested in exposure to the frontiers of physics and experiences in the arts. Students will explore physics topics through active participation in a broad range of artistic practices and expressions. Students will practice project design; independent study; team work; and dedicated assignments. Projects will be presented through an end-of-semester event. Event and topics are specific to each offering and may include physics-based museum exhibits, artistic work, and/or performance pieces.",
+      []
+    ],
+    "PHYS 496": [
+      "Communicating in Physics—Writing Papers and Giving Talks",
+      {
+        "A": [
+          "43749",
+          [
+            [
+              0,
+              "F",
+              "158 Loomis Laboratory",
+              20,
+              [
+                "Raley, J",
+                "Vishveshwara, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Examination of current research topics through extensive reading, writing, and oral-presentation activities.",
+      []
+    ],
+    "PHYS 497": [
+      "Individual Study",
+      {
+        "": [
+          "10147",
+          [
+            [
+              7,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Individual study at an advanced level in a subject not covered by course offerings.",
+      []
+    ],
+    "PHYS 498": [
+      "Special Topics in Physics",
+      {
+        "LTQ": [
+          "36765",
+          [
+            [
+              30,
+              "F",
+              "136 Loomis Laboratory",
+              20,
+              [
+                "Wang, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Subject offerings of new and developing areas of knowledge in physics intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites.",
+      []
+    ],
+    "PHYS 509": [
+      "Mathematical Physics II",
+      {
+        "A": [
+          "49905",
+          [
+            [
+              47,
+              "TR",
+              "276 Loomis Laboratory",
+              20,
+              [
+                "Moy, B",
+                "Stone, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Continuation of PHYS 508. Further core techniques of mathematical physics widely used in the physical sciences. Complex variables; group theory in classical and quantum systems; tensors in physics; differential forms and their applications in mechanics; electromagnetism.",
+      []
+    ],
+    "PHYS 504": [
+      "Statistical Physics",
+      {
+        "A": [
+          "36782",
+          [
+            [
+              2,
+              "MW",
+              "276 Loomis Laboratory",
+              20,
+              [
+                "Lee, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Single-particle distribution functions; classical and quantum mechanical systems, Boltzmann equation, virial theorem, and equations of state for gases; formal theory: ensembles, identical particles, thermodynamics of simple systems, and distribution functions; nonequilibrium problems; conservation laws and hydrodynamic equations, sound waves, and transport coefficients; plasmas, normal Fermi fluid, superfluids, and systems with internal degrees of freedom.",
+      []
+    ],
+    "PHYS 523": [
+      "Instrumentation and Applied Physics Project",
+      {
+        "A": [
+          "75670",
+          [
+            [
+              0,
+              "TR",
+              "262 Loomis Laboratory",
+              20,
+              [
+                "Riedl, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Students will engage in the collaborative design and execution of a year-long Instrumentation and measurement-intensive technical project. Required activities will include a written project proposal of work to be undertaken, informal group-generated oral presentations on technical issues, periodic formal written progress reports, a final project oral presentation, and a final project paper. The set of projects might include investigations suggested by industry partners.",
+      []
+    ],
+    "PHYS 560": [
+      "Condensed Matter Physics I",
+      {
+        "A": [
+          "36787",
+          [
+            [
+              23,
+              "TR",
+              "158 Loomis Laboratory",
+              20,
+              [
+                "Hughes, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Crystalline perfection, free-electron gas, screening, plasma oscillations, and dielectric response; Bloch electrons, Brillouin zones, and band structure; semiconductors, intrinsic and extrinsic, with applications; phonons, elasticity, and anharmonicity; ferromagnetism and second-order phase transitions; superconductivity.",
+      []
+    ],
+    "PHYS 525": [
+      "Survey of Fundamental Device Physics",
+      {
+        "A": [
+          "75671",
+          [
+            [
+              11,
+              "TR",
+              "262 Loomis Laboratory",
+              20,
+              [
+                "Pearlman, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduces students to the underlying physical principles employed by various devices. As in Physics 524, we will introduce students to a broader spectrum of device principles than they will encounter in their Physics 523 projects. There will be two 50 minute classes each week, split into discussion and laboratory exercises. The list of topics—which is not intended to be exhaustive—will evolve, according to the interests of the class and instructors. Material will be clustered into units of varying duration, as indicated below. The lists of suggested readings and references are advisory; a large amount of material of excellent quality is now available on the worldwide web, particularly on the sites of university courses addressing the topics of each unit. There are no formal prerequisites other than prior completion of a rigorous undergraduate major (or minor) in physics, astronomy, or a related field.",
+      []
+    ],
+    "PHYS 576": [
+      "Particle Physics II",
+      {
+        "A": [
+          "74967",
+          [
+            [
+              244,
+              "MW",
+              "276 Loomis Laboratory",
+              20,
+              [
+                "El-Khadra, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Continuation of PHYS 575. Current topics in particle theory. Typically three or four different subjects in depth which may change with each offering.",
+      []
+    ],
+    "PHYS 581": [
+      "Quantum Mechanics II",
+      {
+        "A": [
+          "36784",
+          [
+            [
+              2,
+              "TR",
+              "276 Loomis Laboratory",
+              20,
+              [
+                "Song, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Spin and identical particles, simple many-particle systems and elements of second-quantization theory; time-dependent processes, radiative transitions, and quantization of the electromagnetic field; scattering of particles with spin; polarization; introduction to the Klein-Gordon and Dirac equations and properties of simple relativistic systems.",
+      []
+    ],
+    "PHYS 591": [
+      "Secondary Physics Curriculum Design for In-Service Teachers II",
+      {
+        "A": [
+          "78212",
+          [
+            [
+              7,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Lundsgaard, M",
+                "Mahmood, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Continuation of PHYS 590 with instructional focus on spring semester content. Continued curricular material development through selectively adapting and integrating pedagogies and instructional materials used in the introductory Physics courses at U of I into their unique high school classroom contexts.",
+      []
+    ],
+    "PHYS 583": [
+      "Advanced Field Theory",
+      {
+        "A": [
+          "36786",
+          [
+            [
+              2,
+              "TR",
+              "158 Loomis Laboratory",
+              20,
+              [
+                "Draper, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Quantization and Feynman path integral; gauge theories and renormalization; renormalization group with applications to particle physics and critical phenomena; approximation methods and recent developments.",
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "1400 - 1650",
+      "1100 - 1220",
+      "1400 - 1520",
+      "1830 - 1950",
+      "1500 - 1650",
+      "1530 - 1650",
+      "1000 - 1150",
+      "ARRANGED",
+      "1000 - 1050",
+      "1400 - 1450",
+      "1200 - 1250",
+      "1100 - 1150",
+      "1300 - 1350",
+      "1600 - 1650",
+      "1500 - 1550",
+      "1000 - 1120",
+      "1100 - 1215",
+      "1450 - 1735",
+      "1400 - 1620",
+      "1300 - 1420",
+      "1300 - 1520",
+      "1145 - 1305",
+      "1530 - 1750",
+      "1230 - 1350",
+      "1300 - 1550",
+      "1500 - 1720",
+      "1500 - 1750",
+      "0900 - 0950",
+      "1700 - 1750",
+      "1200 - 1350",
+      "0900 - 1150",
+      "1200 - 1450",
+      "1800 - 2050",
+      "0800 - 0950",
+      "1700 - 1850",
+      "1900 - 2050",
+      "1400 - 1550",
+      "1600 - 1750",
+      "0800 - 0850",
+      "1500 - 1620",
+      "0900 - 1050",
+      "1100 - 1250",
+      "1300 - 1450",
+      "1100 - 1350",
+      "1700 - 1950",
+      "1400 - 1515",
+      "1230 - 1345",
+      "0930 - 1050",
+      "0800 - 0920",
+      "1700 - 1800",
+      "1630 - 1745",
+      "1600 - 1850",
+      "0930 - 1220",
+      "0900 - 1020",
+      "0830 - 0950",
+      "1200 - 1320",
+      "1530 - 1645",
+      "1000 - 1250",
+      "1100 - 1230",
+      "1600 - 1720",
+      "1600 - 1800",
+      "1430 - 1550",
+      "1800 - 2000",
+      "1030 - 1150",
+      "1530 - 1720",
+      "0730 - 1530",
+      "1530 - 1550",
+      "1900 - 1930",
+      "1000 - 1700",
+      "1600 - 1715",
+      "1730 - 1850",
+      "1600 - 1730",
+      "1700 - 1820",
+      "1630 - 1800",
+      "0930 - 1045",
+      "1100 - 1320",
+      "1230 - 1430",
+      "1400 - 1630",
+      "1430 - 1820",
+      "1500 - 1730",
+      "1500 - 1700",
+      "0930 - 1200",
+      "1100 - 1330",
+      "1200 - 1430",
+      "1000 - 1200",
+      "1700 - 2000",
+      "1400 - 1700",
+      "1800 - 2100",
+      "1730 - 2020",
+      "1730 - 2030",
+      "1700 - 1900",
+      "1300 - 1600",
+      "1730 - 2130",
+      "0900 - 1200",
+      "1530 - 1820",
+      "1200 - 1650",
+      "1900 - 2200",
+      "1900 - 1950",
+      "1500 - 1615",
+      "1330 - 1450",
+      "0800 - 1220",
+      "1800 - 1920",
+      "1700 - 1920",
+      "1630 - 1910",
+      "1600 - 2050",
+      "0830 - 1350",
+      "0930 - 1040",
+      "1300 - 1430",
+      "1930 - 2050",
+      "1800 - 1950",
+      "1530 - 1620",
+      "1500 - 1600",
+      "1600 - 1820",
+      "0900 - 1145",
+      "0900 - 1120",
+      "1300 - 1545",
+      "1230 - 1520",
+      "1400 - 1720",
+      "0800 - 1150",
+      "1430 - 1620",
+      "1010 - 1100",
+      "1115 - 1205",
+      "0930 - 1020",
+      "1230 - 1320",
+      "0900 - 1140",
+      "1430 - 1720",
+      "1230 - 1420",
+      "1800 - 1850",
+      "1800 - 2020",
+      "1000 - 1220",
+      "0830 - 1120",
+      "1530 - 1710",
+      "1900 - 2020",
+      "0900 - 1030",
+      "1900 - 2030",
+      "0800 - 1050",
+      "1300 - 1650",
+      "1000 - 1130",
+      "1000 - 1100",
+      "0800 - 0940",
+      "0900 - 1040",
+      "1200 - 1340",
+      "1730 - 1845",
+      "1000 - 1115",
+      "1330 - 1620",
+      "0930 - 1120",
+      "1130 - 1320",
+      "1030 - 1120",
+      "1430 - 1520",
+      "1630 - 1720",
+      "1130 - 1220",
+      "1630 - 1750",
+      "1330 - 1445",
+      "1200 - 1259",
+      "1030 - 1145",
+      "1330 - 1520",
+      "1430 - 1545",
+      "1330 - 1420",
+      "0900 - 1015",
+      "1325 - 1445",
+      "0830 - 1020",
+      "1729 - 1920",
+      "1715 - 1830",
+      "1500 - 1659",
+      "1300 - 1459",
+      "0850 - 1020",
+      "1730 - 1930",
+      "1330 - 1535",
+      "0930 - 1135",
+      "1700 - 1930",
+      "0900 - 1159",
+      "0930 - 1130",
+      "0930 - 1129",
+      "0905 - 1159",
+      "1600 - 1859",
+      "1600 - 1810",
+      "1700 - 1859",
+      "1500 - 1629",
+      "1800 - 1915",
+      "1600 - 1759",
+      "1330 - 1625",
+      "1500 - 1555",
+      "1330 - 1615",
+      "1330 - 1559",
+      "1330 - 1640",
+      "1330 - 1630",
+      "1345 - 1645",
+      "1630 - 1820",
+      "0900 - 1700",
+      "0900 - 1035",
+      "1630 - 1920",
+      "1325 - 1450",
+      "1730 - 1920",
+      "1740 - 2000",
+      "1700 - 1830",
+      "1330 - 1529",
+      "1000 - 1159",
+      "1030 - 1159",
+      "1700 - 1910",
+      "1500 - 1745",
+      "1500 - 1729",
+      "1501 - 1745",
+      "1330 - 1429",
+      "1745 - 1925",
+      "1800 - 2005",
+      "0900 - 1000",
+      "1300 - 1415",
+      "1010 - 1125",
+      "0800 - 1030",
+      "1830 - 2030",
+      "1200 - 1330",
+      "1800 - 1930",
+      "1320 - 1450",
+      "1400 - 1750",
+      "0900 - 1250",
+      "1000 - 1350",
+      "1630 - 1730",
+      "1330 - 1500",
+      "0600 - 0720",
+      "0800 - 0930",
+      "1830 - 2050",
+      "1430 - 1630",
+      "1100 - 1300",
+      "0930 - 1100",
+      "1730 - 1900",
+      "1730 - 1820",
+      "1400 - 1530",
+      "1500 - 1630",
+      "1930 - 2130",
+      "1000 - 1300",
+      "1900 - 2150",
+      "1200 - 1300",
+      "1700 - 2050",
+      "1330 - 1430",
+      "1830 - 2000",
+      "1200 - 1550",
+      "1800 - 1900",
+      "1900 - 2100",
+      "1830 - 2130",
+      "0600 - 0750",
+      "1200 - 1315",
+      "1100 - 1200",
+      "1400 - 1600",
+      "1430 - 1530",
+      "1130 - 1250",
+      "2000 - 2050",
+      "0930 - 1210",
+      "1130 - 1300"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Lecture-Discussion",
+      "Online",
+      "Independent Study",
+      "Discussion/ Recitation",
+      "Lecture",
+      "Laboratory",
+      "Online Lab",
+      "Online Lecture",
+      "Online Discussion",
+      "Laboratory-Discussion",
+      "Seminar",
+      "Conference",
+      "Practice",
+      "Study Abroad",
+      "Studio",
+      "Internship",
+      "Online Lecture Discussion",
+      "Research",
+      "Travel",
+      "Quiz",
+      "Packaged Section"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": 40.102726858556835,
+        "long": -88.23259991223857
+      },
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.10628,
+        "long": -88.22621
+      },
+      {
+        "lat": 40.1047599,
+        "long": -88.2319514
+      },
+      {
+        "lat": 40.107534,
+        "long": -88.2281548
+      },
+      {
+        "lat": 40.1065684,
+        "long": -88.2281746
+      },
+      {
+        "lat": 40.105732,
+        "long": -88.2281018
+      },
+      {
+        "lat": 40.1083446,
+        "long": -88.2282555
+      },
+      {
+        "lat": 40.1035833,
+        "long": -88.228405
+      },
+      {
+        "lat": 40.1072225,
+        "long": -88.2262016
+      },
+      {
+        "lat": 40.11246109008789,
+        "long": -88.22831726074219
+      },
+      {
+        "lat": 40.104794,
+        "long": -88.224264
+      },
+      {
+        "lat": 40.103587,
+        "long": -88.230606
+      },
+      {
+        "lat": 40.110811306674734,
+        "long": -88.2248467072371
+      },
+      {
+        "lat": 40.1149296,
+        "long": -88.2280589
+      },
+      {
+        "lat": 40.11180304465921,
+        "long": -88.22613003543475
+      },
+      {
+        "lat": 40.1109722,
+        "long": -88.2282631
+      },
+      {
+        "lat": 40.11380515934119,
+        "long": -88.22490788390387
+      },
+      {
+        "lat": 40.11085653938169,
+        "long": -88.22609810215927
+      },
+      {
+        "lat": 40.1131317,
+        "long": -88.2264552
+      },
+      {
+        "lat": 40.1110937,
+        "long": -88.2232348
+      },
+      {
+        "lat": 40.10944320239664,
+        "long": -88.22602522743233
+      },
+      {
+        "lat": 40.10593795776367,
+        "long": -88.2270736694336
+      },
+      {
+        "lat": 40.1033599,
+        "long": -88.2292111
+      },
+      {
+        "lat": 40.103620555545135,
+        "long": -88.22982720445013
+      },
+      {
+        "lat": 40.1020773,
+        "long": -88.2296394
+      },
+      {
+        "lat": 40.103627234541904,
+        "long": -88.22601765311099
+      },
+      {
+        "lat": 40.1108856,
+        "long": -88.2269806
+      },
+      {
+        "lat": 40.11171215875622,
+        "long": -88.22530849701589
+      },
+      {
+        "lat": 40.111691,
+        "long": -88.2242511
+      },
+      {
+        "lat": 40.108419421661715,
+        "long": -88.2261156301609
+      },
+      {
+        "lat": 40.106778040727896,
+        "long": -88.2194617156191
+      },
+      {
+        "lat": 40.10783362157985,
+        "long": -88.22476189569741
+      },
+      {
+        "lat": 40.0995003,
+        "long": -88.223104
+      },
+      {
+        "lat": 40.10127390836906,
+        "long": -88.2226073524728
+      },
+      {
+        "lat": 40.092875494224195,
+        "long": -88.22082220247309
+      },
+      {
+        "lat": 40.1022093629303,
+        "long": -88.22800864058527
+      },
+      {
+        "lat": 40.10755766472843,
+        "long": -88.22995430218522
+      },
+      {
+        "lat": 40.10623714823253,
+        "long": -88.2232659093846
+      },
+      {
+        "lat": 40.1035872,
+        "long": -88.2306061
+      },
+      {
+        "lat": 40.11397164321797,
+        "long": -88.2265192685827
+      },
+      {
+        "lat": 40.105587640130146,
+        "long": -88.22025111416733
+      },
+      {
+        "lat": 40.10039170750639,
+        "long": -88.21813070187608
+      },
+      {
+        "lat": 40.1034533,
+        "long": -88.2327596
+      },
+      {
+        "lat": 40.1028373,
+        "long": -88.2251326
+      },
+      {
+        "lat": 40.1048704,
+        "long": -88.2229036
+      },
+      {
+        "lat": 40.10099,
+        "long": -88.23159
+      },
+      {
+        "lat": 40.107811,
+        "long": -88.2260761
+      },
+      {
+        "lat": 40.101862,
+        "long": -88.231737
+      },
+      {
+        "lat": 40.1116416,
+        "long": -88.2248868
+      },
+      {
+        "lat": 40.10802885201532,
+        "long": -88.22239700364068
+      },
+      {
+        "lat": 40.1149521,
+        "long": -88.2267561
+      },
+      {
+        "lat": 40.108570819242026,
+        "long": -88.22518453938676
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}
