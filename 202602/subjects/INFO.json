@@ -1,7 +1,7 @@
 {
   "subject": "INFO",
-  "scrapedAt": 1772418466617,
-  "courseCount": 16,
+  "scrapedAt": 1772418490168,
+  "courseCount": 22,
   "courses": {
     "INFO 199": [
       "Undergraduate Open Seminar",
@@ -1400,6 +1400,252 @@
       },
       [],
       "A broad introduction to faculty research in each Informatics Area. Consists of weekly presentations by Informatics faculty highlighting their recent research, practice, and related concepts.",
+      []
+    ],
+    "INFO 590": [
+      "Advanced Special Topics",
+      {
+        "I": [
+          "62700",
+          [
+            [
+              7,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Pincus, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Subject offerings of new and developing areas of knowledge in Informatics, intended to augment existing curriculum. See Class Schedule for specific topics and prerequisites.",
+      []
+    ],
+    "INFO 510": [
+      "Research Practicum",
+      {
+        "": [
+          "60303",
+          [
+            [
+              7,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "A one semester directed research project supervised by a member of the informatics faculty in the student's area of specialization or closely related area. These are intended to be practical research, not just literature surveys, and must have a definite output such as a paper or demonstration project. The research should be relevant to the thesis work or preparatory work to support the thesis. Informatics students must take two semesters, usually each semester should be under a different Informatics faculty member, but with the concurrence of their advising committee both may be taken under a single faculty member.",
+      []
+    ],
+    "INFO 555": [
+      "Advanced Educational Technologies for Engagement and Interactive Learning",
+      {
+        "A": [
+          "77748",
+          [
+            [
+              0,
+              "W",
+              "382 Education Building",
+              25,
+              [
+                "D'Angelo, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as CI 555 and EPSY 555. See EPSY 555.",
+      []
+    ],
+    "INFO 591": [
+      "Grad Bioinformatics Seminar",
+      {
+        "A": [
+          "55549",
+          [
+            [
+              10,
+              "R",
+              "ONLINE",
+              1,
+              [
+                "Rodriguez Zas, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "68684",
+          [
+            [
+              10,
+              "R",
+              "ONLINE",
+              1,
+              [
+                "Rodriguez Zas, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "C": [
+          "71688",
+          [
+            [
+              10,
+              "R",
+              "ONLINE",
+              1,
+              [
+                "Rodriguez Zas, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "This seminar series focuses on research in the field of bioinformatics and computational biology.",
+      []
+    ],
+    "INFO 599": [
+      "Thesis Research",
+      {
+        "JR": [
+          "78496",
+          [
+            [
+              7,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Rounds, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Approved for S/U grading only. May be repeated in separate terms. Prerequisite: Instructor approval required.",
+      []
+    ],
+    "INFO 597": [
+      "Individual Study",
+      {
+        "": [
+          "60304",
+          [
+            [
+              7,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "LR": [
+          "77463",
+          [
+            [
+              7,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Rodriguez, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Individual study in a subject related to informatics not covered in normal course offerings.",
       []
     ]
   },
