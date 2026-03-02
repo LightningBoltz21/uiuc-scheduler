@@ -1,22 +1,22 @@
 {
-  "subject": "FR",
-  "scrapedAt": 1772418328757,
-  "courseCount": 23,
+  "subject": "GER",
+  "scrapedAt": 1772418354353,
+  "courseCount": 24,
   "courses": {
-    "FR 101": [
-      "Elementary French I",
+    "GER 103": [
+      "Intermediate German I",
       {
-        "B": [
-          "32707",
+        "C": [
+          "33570",
           [
             [
-              27,
+              10,
               "MTWR",
-              "1128 Literatures, Cultures, & Ling",
-              2,
+              "149 English Building",
+              4,
               [
-                "Bunch, C",
-                "Clay, A"
+                "Kelsey, W",
+                "Webster, C"
               ],
               -1,
               -1,
@@ -30,16 +30,16 @@
           -1
         ],
         "D": [
-          "32706",
+          "33571",
           [
             [
               11,
               "MTWR",
-              "1038 Literatures, Cultures, & Ling",
-              2,
+              "149 English Building",
+              4,
               [
-                "Bunch, C",
-                "Clay, A"
+                "Cohen, J",
+                "Webster, C"
               ],
               -1,
               -1,
@@ -52,17 +52,17 @@
           [],
           -1
         ],
-        "E": [
-          "48104",
+        "G": [
+          "33569",
           [
             [
-              12,
+              9,
               "MTWR",
-              "1038 Literatures, Cultures, & Ling",
-              2,
+              "215 Davenport Hall",
+              9,
               [
-                "Clay, A",
-                "Norris, N"
+                "Kelsey, W",
+                "Webster, C"
               ],
               -1,
               -1,
@@ -77,23 +77,23 @@
         ]
       },
       [],
-      "Four-skill course leading toward elementary proficiency in oral expression, listening comprehension, reading, writing, and cultural understanding. Online language laboratory and internet assignments required.",
+      "Continuation of GER 102. Intermediate course focusing on listening comprehension, oral skills, reading, writing, and culture.",
       []
     ],
-    "FR 102": [
-      "Elementary French II",
+    "GER 101": [
+      "Beginning German I",
       {
-        "B": [
-          "32713",
+        "D": [
+          "33559",
           [
             [
-              27,
+              11,
               "MTWR",
-              "ONLINE",
-              1,
+              "1128 Literatures, Cultures, & Ling",
+              2,
               [
-                "Clay, A",
-                "Craig, S"
+                "Ezeokoli, C",
+                "Webster, C"
               ],
               -1,
               -1,
@@ -101,22 +101,53 @@
             ]
           ],
           4,
-          1,
+          0,
           0,
           [],
           -1
         ],
+        "E": [
+          "33561",
+          [
+            [
+              12,
+              "MTWR",
+              "1120 Literatures, Cultures, & Ling",
+              2,
+              [
+                "Pei, A",
+                "Webster, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introductory course focusing on listening comprehension, oral skills, reading, writing, and culture.",
+      []
+    ],
+    "GER 102": [
+      "Beginning German II",
+      {
         "C": [
-          "32709",
+          "33563",
           [
             [
               8,
               "MTWR",
-              "1128 Literatures, Cultures, & Ling",
+              "1022 Literatures, Cultures, & Ling",
               2,
               [
-                "Clay, A",
-                "Wikle, J"
+                "Avemarie, D",
+                "Webster, C"
               ],
               -1,
               -1,
@@ -130,16 +161,16 @@
           -1
         ],
         "D": [
-          "32711",
+          "33564",
           [
             [
               11,
               "MTWR",
-              "221 Gregory Hall",
+              "327 Gregory Hall",
               6,
               [
-                "Clay, A",
-                "Folger, D"
+                "Avemarie, D",
+                "Webster, C"
               ],
               -1,
               -1,
@@ -152,40 +183,17 @@
           [],
           -1
         ],
-        "E": [
-          "32710",
+        "D2": [
+          "33565",
           [
             [
               12,
               "MTWR",
-              "170 Wohlers Hall",
-              24,
-              [
-                "Clay, A",
-                "Guitard, M"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "E2": [
-          "64702",
-          [
-            [
-              9,
-              "MTWR",
-              "1048 Literatures, Cultures, & Ling",
+              "1136 Literatures, Cultures, & Ling",
               2,
               [
-                "Clay, A",
-                "Petre, M"
+                "Horn, R",
+                "Webster, C"
               ],
               -1,
               -1,
@@ -200,46 +208,23 @@
         ]
       },
       [],
-      "Continuation of FR 101. Introduces cultural and supplementary enrichment materials; requires online laboratory sessions as in FR 101.",
+      "Continuation of GER 101. Continued focus on listening comprehension, oral skills, reading, writing, and culture at an introductory level.",
       []
     ],
-    "FR 103": [
-      "Intermediate French I",
+    "GER 104": [
+      "Intermediate German II",
       {
-        "B": [
-          "32714",
+        "E": [
+          "33573",
           [
             [
-              9,
+              12,
               "MTWR",
-              "329 Davenport Hall",
-              9,
-              [
-                "Clay, A",
-                "Zghal, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "C": [
-          "32715",
-          [
-            [
-              8,
-              "MTWR",
-              "1126 Literatures, Cultures, & Ling",
+              "1030 Literatures, Cultures, & Ling",
               2,
               [
-                "Clay, A",
-                "Norris, N"
+                "Sollinger, B",
+                "Webster, C"
               ],
               -1,
               -1,
@@ -252,17 +237,17 @@
           [],
           -1
         ],
-        "D": [
-          "32716",
+        "X": [
+          "33572",
           [
             [
               11,
               "MTWR",
-              "316S Mumford Hall",
-              26,
+              "G48 Literatures, Cultures, & Ling",
+              2,
               [
-                "Clay, A",
-                "Zghal, S"
+                "Sollinger, B",
+                "Webster, C"
               ],
               -1,
               -1,
@@ -277,14 +262,14 @@
         ]
       },
       [],
-      "Continuation of FR 102. Introduces students to a full range of structures to complete their initial study of the grammatical system; emphasizes the development of all four skills and cultural understanding through readings and audiovisual enrichment materials. Online language laboratory and internet assignments required. Students planning to major or minor in French should take FR 133 in lieu of FR 103.",
+      "Continuation of GER 103. Continued focus on listening comprehension, oral skills, reading, writing, and culture at an intermediate level.",
       []
     ],
-    "FR 199": [
+    "GER 199": [
       "Undergraduate Open Seminar",
       {
-        "": [
-          "10135",
+        "A1": [
+          "42070",
           [
             [
               7,
@@ -310,400 +295,11 @@
       null,
       []
     ],
-    "FR 104": [
-      "Intermediate French II",
-      {
-        "C": [
-          "32721",
-          [
-            [
-              8,
-              "MTWR",
-              "325 Gregory Hall",
-              6,
-              [
-                "Clay, A",
-                "Peterson, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "D": [
-          "32722",
-          [
-            [
-              11,
-              "MTWR",
-              "174 Wohlers Hall",
-              24,
-              [
-                "Clay, A",
-                "Smith, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "E": [
-          "32723",
-          [
-            [
-              9,
-              "MTWR",
-              "1136 Literatures, Cultures, & Ling",
-              2,
-              [
-                "Clay, A",
-                "Keruskin, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "F": [
-          "32724",
-          [
-            [
-              12,
-              "MTWR",
-              "1118 Literatures, Cultures, & Ling",
-              2,
-              [
-                "Clay, A",
-                "Kenneth, K"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Continuation of FR 103. Comprehensive grammar review with emphasis on oral expression and the continued development of reading and written skills. Completion satisfies graduation requirement in the College of Liberal Arts and Sciences. Students planning to take advanced French courses should take FR 134 in lieu of FR 104.",
-      []
-    ],
-    "FR 165": [
-      "French in US Minority Cultures",
-      {
-        "A": [
-          "77364",
-          [
-            [
-              7,
-              "",
-              "ONLINE",
-              1,
-              [
-                "Fagyal, Z"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          1,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Introduction to the sociolinguistic and cultural history of French as a heritage language in African-American, Native American, and Cajun American communities from early colonial to late modern times. It focuses on the lived experiences and lasting heritage of contact and segregation between colonizers, farmers, refugees, and free and enslaved populations in the American Midwest and South. It features readings, music, heritage sites, and discussions of prejudice and discrimination, language shift and language loss, and the linguistic outcomes of slavery and settler colonialism.",
-      []
-    ],
-    "FR 205": [
-      "French in Conversation",
-      {
-        "D2": [
-          "32809",
-          [
-            [
-              8,
-              "MWF",
-              "G18 Literatures, Cultures, & Ling",
-              2,
-              [
-                "Blanchard, L",
-                "Mroz, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          2,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Developing speaking and listening skills, focusing on conversation about everyday topics in multiple contexts.",
-      []
-    ],
-    "FR 207": [
-      "Writing and Grammar Workshop",
-      {
-        "B": [
-          "32810",
-          [
-            [
-              11,
-              "MW",
-              "329 Gregory Hall",
-              6,
-              [
-                "Fagyal, Z",
-                "Laing, A"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              11,
-              "F",
-              "ONLINE",
-              1,
-              [
-                "Fagyal, Z",
-                "Laing, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Practice-intensive grammar review and vocabulary-building, with an emphasis on strategies to improve accuracy of, and expressivity in, speaking and writing in French. Grammar textbook supplemented with readings and materials from French and Francophone culture (articles, social media, literary works, films).",
-      []
-    ],
-    "FR 211": [
-      "Introduction to Literary Studies",
-      {
-        "A": [
-          "66018",
-          [
-            [
-              55,
-              "MW",
-              "G46 Literatures, Cultures, & Ling",
-              2,
-              [
-                "Mall, L"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Introduction to concepts of modernity and questions of representation, through French texts from the nineteenth through the twenty-first centuries. Analysis of diverse literary forms (poems, plays, narratives), and use of resources for literary, historical and cultural research. Strengthening of reading, writing and speaking skills in French through research projects, writing assignments and revisions, and oral presentations.",
-      []
-    ],
-    "FR 212": [
-      "Introduction to Cultural Analysis: French Identities",
-      {
-        "A": [
-          "64955",
-          [
-            [
-              2,
-              "MW",
-              "G18 Literatures, Cultures, & Ling",
-              2,
-              [
-                "Gaillard, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Introduction to concepts of and debates on French national identity. Materials are drawn from a multiplicity of media and from many spheres of modern life in France: political, artistic, the everyday, etc. Identification of major resources for the study of culture and analysis of diverse cultural texts. Strengthening of reading, writing and speaking skills in French through a wide range of exercises and projects.",
-      []
-    ],
-    "FR 319": [
-      "Francophone Worlds",
-      {
-        "A": [
-          "56830",
-          [
-            [
-              5,
-              "TR",
-              "G20 Literatures, Cultures, & Ling",
-              2,
-              [
-                "Keller, M"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "AG": [
-          "56831",
-          [
-            [
-              1,
-              "TR",
-              "21 Psychology Building",
-              37,
-              [
-                "Keller, M"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Study of one or several Francophone countries and cultures around the world through language, texts, images, film, and/or other media.",
-      []
-    ],
-    "FR 240": [
-      "Constr Afr and Carib Identity",
-      {
-        "X": [
-          "32901",
-          [
-            [
-              1,
-              "TR",
-              "1068 Lincoln Hall",
-              5,
-              [
-                "Reynolds, F"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Introduces students to cultural pluralism by comparing and contrasting African and Caribbean identities, as they are represented in literature and film. Taught in English.",
-      []
-    ],
-    "FR 322": [
-      "Movements and Perspectives",
-      {
-        "FP": [
-          "43802",
-          [
-            [
-              11,
-              "MW",
-              "207 Gregory Hall",
-              6,
-              [
-                "Gaillard, J"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              7,
-              "F",
-              "ONLINE",
-              1,
-              [
-                "Gaillard, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Focused study and discussion of a major literary movement or critical perspective. Topics will vary.",
-      []
-    ],
-    "FR 390": [
-      "Indiv Study Major Tutorial",
+    "GER 191": [
+      "Freshman Honors Tutorial",
       {
         "": [
-          "47496",
+          "10276",
           [
             [
               7,
@@ -718,7 +314,7 @@
               -1
             ]
           ],
-          12,
+          3,
           2,
           0,
           [],
@@ -726,14 +322,332 @@
         ]
       },
       [],
-      "Tutorial taken by students during two of their last four terms of undergraduate study. Students read the works on a departmental reading list with the guidance of a tutor.",
+      "Study of selected topics on an individually arranged basis. Open only to honors majors or to Cohn Scholars and Associates.",
       []
     ],
-    "FR 418": [
+    "GER 201": [
+      "German Popular Culture",
+      {
+        "A": [
+          "63431",
+          [
+            [
+              2,
+              "TR",
+              "323 Education Building",
+              25,
+              [
+                "Jenkins, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to the study of modern and contemporary german culture through examining examples of popular culture from the late-eighteenth century to the present. Looks at texts and films as a mirror and critique of modern German society. Topics to be discussed: nationalism, gender, ethnicity, minority cultures, Jewish life in Germany, German images of other cultures, etc. Course taught in English.",
+      []
+    ],
+    "GER 205": [
+      "Germany and Europe",
+      {
+        "A": [
+          "52355",
+          [
+            [
+              4,
+              "TR",
+              "G30 Literatures, Cultures, & Ling",
+              2,
+              [
+                "Niekerk, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction into major issues in contemporary German society with a special focus on Germany's functioning within Europe and the European Union through novels, films, essays, interviews etc. Course taught in English.",
+      []
+    ],
+    "GER 211": [
+      "Conversation and Writing I",
+      {
+        "F": [
+          "39080",
+          [
+            [
+              10,
+              "MWF",
+              "1022 Literatures, Cultures, & Ling",
+              2,
+              [
+                "Webster, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Prerequisite: GER 104 or equivalent, or consent of instructor.",
+      []
+    ],
+    "GER 251": [
+      "Grimm's Fairy Tales in Context",
+      {
+        "AD1": [
+          "60015",
+          [
+            [
+              8,
+              "F",
+              "115 David Kinley Hall",
+              8,
+              [
+                "Fam, M",
+                "Johnson, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "AD2": [
+          "60018",
+          [
+            [
+              11,
+              "F",
+              "115 David Kinley Hall",
+              8,
+              [
+                "Fam, M",
+                "Johnson, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "AD3": [
+          "60021",
+          [
+            [
+              12,
+              "F",
+              "115 David Kinley Hall",
+              8,
+              [
+                "Johnson, L",
+                "Ting, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "AD4": [
+          "68654",
+          [
+            [
+              27,
+              "F",
+              "115 David Kinley Hall",
+              8,
+              [
+                "Fam, M",
+                "Johnson, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "AD5": [
+          "68655",
+          [
+            [
+              10,
+              "F",
+              "115 David Kinley Hall",
+              8,
+              [
+                "Johnson, L",
+                "Ting, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "AD6": [
+          "68656",
+          [
+            [
+              9,
+              "F",
+              "115 David Kinley Hall",
+              8,
+              [
+                "Johnson, L",
+                "Ting, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "60024",
+          [
+            [
+              9,
+              "MW",
+              "116 Roger Adams Laboratory",
+              32,
+              [
+                "Johnson, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Special attention is paid to the Grimms' tales in terms of traditional narrative genres, elements of life in early modern Europe, and versions from Italy and France as well as Germany. Course is conducted in English.",
+      []
+    ],
+    "GER 299": [
+      "Study Abroad",
+      {
+        "A": [
+          "33584",
+          [
+            [
+              7,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Webster, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          18,
+          13,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Lectures, seminars, and practical work in German language, literature, civilization, and in other academic areas appropriate to the student's course of study.",
+      []
+    ],
+    "GER 331": [
+      "Intro to German Literature",
+      {
+        "F": [
+          "45898",
+          [
+            [
+              19,
+              "MW",
+              "1134 Literatures, Cultures, & Ling",
+              2,
+              [
+                "Weber, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introductory study of representative works (prose, drama, lyric) by outstanding German, Austrian, and Swiss writers of the modern period.",
+      []
+    ],
+    "GER 418": [
       "Language & Minorities in Europe",
       {
         "1G": [
-          "50090",
+          "50300",
           [
             [
               59,
@@ -767,7 +681,7 @@
           -1
         ],
         "1U": [
-          "50089",
+          "50299",
           [
             [
               59,
@@ -802,14 +716,44 @@
         ]
       },
       [],
-      "Introduction to political, judicial, linguistic, and cultural issues concerning indigenous and migrant/immigrant languages in the countries of the European Union. Focuses on political and judicial issues, such as legal aspects of bilingual education and minority language use, as well as linguistic and cultural aspects, such as assimilation, language-mixing, and language change. Taught in English.",
+      "Same as EURO 418, FR 418, ITAL 418, LING 418, PS 418, SLAV 418, and SPAN 418. See FR 418.",
       []
     ],
-    "FR 460": [
+    "GER 420": [
+      "German Cultural History",
+      {
+        "E": [
+          "50381",
+          [
+            [
+              55,
+              "TR",
+              "219 David Kinley Hall",
+              8,
+              [
+                "Niekerk, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "A general introduction to German culture from the pre-Christian period to the twenty-first century, focusing on the tension between forces of history and modernization in German culture. Course materials include literary and philosophical texts, film, painting, and music. Particular attention will be paid to the role of art in society.",
+      []
+    ],
+    "GER 460": [
       "Principles of Language Testing",
       {
         "G4": [
-          "31920",
+          "32938",
           [
             [
               2,
@@ -831,7 +775,7 @@
           -1
         ],
         "U3": [
-          "31919",
+          "32936",
           [
             [
               2,
@@ -854,51 +798,29 @@
         ]
       },
       [],
-      "Same as EIL 460, EPSY 487, GER 460, ITAL 460, PORT 460, and SPAN 460. See EIL 460.",
+      "Same as EIL 460, EPSY 487, FR 460, ITAL 460, PORT 460, and SPAN 460. See EIL 460.",
       []
     ],
-    "FR 462": [
-      "Introduction to Romance Linguistics",
+    "GER 465": [
+      "German Linguistics",
       {
-        "G4": [
-          "64880",
+        "S": [
+          "58484",
           [
             [
-              11,
-              "MWF",
-              "205 Gregory Hall",
-              6,
+              37,
+              "M",
+              "G20 Literatures, Cultures, & Ling",
+              2,
               [
-                "Hualde, J"
+                "Webster, C"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "U3": [
-          "58567",
-          [
-            [
-              11,
-              "MWF",
-              "205 Gregory Hall",
-              6,
-              [
-                "Hualde, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
+          3,
           0,
           0,
           [],
@@ -906,104 +828,74 @@
         ]
       },
       [],
-      "Same as ITAL 435, LING 462, PORT 435, RMLG 435, and SPAN 435. See SPAN 435.",
+      "Linguistic analysis of Germanic languages in historical, geographic, and social context. Taught in German or English, depending on topic.",
       []
     ],
-    "FR 481": [
-      "Theoretical Foundations of SLA",
+    "GER 470": [
+      "Middle Ages to Baroque",
       {
-        "G4": [
-          "38717",
+        "X": [
+          "45143",
           [
             [
-              8,
-              "MWF",
-              "329 Gregory Hall",
-              6,
-              [
-                "Zhang, Q"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "U3": [
-          "38714",
-          [
-            [
-              8,
-              "MWF",
-              "329 Gregory Hall",
-              6,
-              [
-                "Zhang, Q"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as GER 489, ITAL 489, LING 489, PORT 489, and SPAN 489. See LING 489.",
-      []
-    ],
-    "FR 492": [
-      "Senior Thesis",
-      {
-        "": [
-          "10138",
-          [
-            [
-              7,
-              "",
-              "ONLINE",
-              1,
-              [
-                "Unassigned Instructor"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          2,
-          2,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "For candidates for honors in French and for other seniors.",
-      []
-    ],
-    "FR 579": [
-      "Seminar in French Literature",
-      {
-        "FR": [
-          "39241",
-          [
-            [
-              36,
-              "W",
+              4,
+              "R",
               "Location Pending",
               1,
               [
-                "Mall, L"
+                "Horsfall, W"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Literary, thematic, cultural, and bibliographical analysis of the major authors, works, genres, and movements in German literature from 750-1720.",
+      []
+    ],
+    "GER 489": [
+      "Theoretical Foundations of SLA",
+      {
+        "G4": [
+          "38718",
+          [
+            [
+              8,
+              "MWF",
+              "329 Gregory Hall",
+              6,
+              [
+                "Zhang, Q"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "U3": [
+          "38715",
+          [
+            [
+              8,
+              "MWF",
+              "329 Gregory Hall",
+              6,
+              [
+                "Zhang, Q"
               ],
               -1,
               -1,
@@ -1018,14 +910,14 @@
         ]
       },
       [],
-      "Discussion and research on a specialized area in French literature. See Schedule for current topic.",
+      "Same as FR 481, ITAL 489, LING 489, PORT 489, and SPAN 489. See LING 489.",
       []
     ],
-    "FR 591": [
-      "Individual Topics",
+    "GER 491": [
+      "Honors Senior Thesis",
       {
         "": [
-          "10142",
+          "10289",
           [
             [
               7,
@@ -1040,51 +932,7 @@
               -1
             ]
           ],
-          8,
-          2,
-          0,
-          [],
-          -1
-        ],
-        "AM": [
-          "77474",
-          [
-            [
-              7,
-              "",
-              "ONLINE",
-              1,
-              [
-                "Mroz, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          8,
-          2,
-          0,
-          [],
-          -1
-        ],
-        "FVR": [
-          "78208",
-          [
-            [
-              7,
-              "",
-              "ONLINE",
-              1,
-              [
-                "Reynolds, F"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          8,
+          4,
           2,
           0,
           [],
@@ -1092,14 +940,104 @@
         ]
       },
       [],
-      "Prerequisite: Graduate standing with a major or minor in French.",
+      "Intended primarily for candidates for honors in German, but open to other seniors.",
       []
     ],
-    "FR 588": [
+    "GER 512": [
+      "Applied LiteraryTranslation II",
+      {
+        "A": [
+          "72207",
+          [
+            [
+              25,
+              "M",
+              "G96 Literatures, Cultures, & Ling",
+              2,
+              [
+                "Jenkins, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as CWL 512, EALC 512, SLAV 502, and TRST 502. See TRST 502.",
+      []
+    ],
+    "GER 571": [
+      "Medieval German Studies",
+      {
+        "G": [
+          "39100",
+          [
+            [
+              4,
+              "R",
+              "382 Education Building",
+              25,
+              [
+                "Horsfall, W"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Seminar in selected genres, themes, or authors of the Middle Ages. Epic, lyric, and didactic works in prose and verse are read in the original language.",
+      []
+    ],
+    "GER 576": [
+      "Open Seminar in German Studies",
+      {
+        "SH": [
+          "57117",
+          [
+            [
+              4,
+              "W",
+              "1136 Literatures, Cultures, & Ling",
+              2,
+              [
+                "Weber, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Seminar in literary phenomena (such as movements, genres and forms, relations, themes and types, interdisciplinary studies, women's studies) that go beyond the confines of a particular century.",
+      []
+    ],
+    "GER 588": [
       "Sem Second Lang Learn",
       {
         "AM1": [
-          "60349",
+          "60350",
           [
             [
               4,
@@ -1121,7 +1059,7 @@
           -1
         ],
         "SM": [
-          "35701",
+          "35710",
           [
             [
               23,
@@ -1155,7 +1093,7 @@
           -1
         ],
         "WM": [
-          "35695",
+          "35705",
           [
             [
               26,
@@ -1178,14 +1116,14 @@
         ]
       },
       [],
-      "Same as EALC 588, GER 588, ITAL 588, LING 588, PORT 588, and SPAN 588. See SPAN 588.",
+      "Same as EALC 588, FR 588, ITAL 588, LING 588, PORT 588, and SPAN 588. See SPAN 588.",
       []
     ],
-    "FR 599": [
-      "Thesis Research",
+    "GER 593": [
+      "Research in Special Topics",
       {
-        "DNM": [
-          "78209",
+        "": [
+          "10295",
           [
             [
               7,
@@ -1193,14 +1131,36 @@
               "ONLINE",
               1,
               [
-                "Maroun, D"
+                "Unassigned Instructor"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          16,
+          8,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "MM": [
+          "77638",
+          [
+            [
+              7,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Meyer, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
           2,
           0,
           [],
@@ -1208,7 +1168,7 @@
         ]
       },
       [],
-      "Approved for S/U grading only. May be repeated in the same term or in separate terms.",
+      "May be repeated to a maximum of 8 hours.",
       []
     ]
   },
@@ -1317,7 +1277,14 @@
       "0800 - 1220",
       "1800 - 1920",
       "1700 - 1920",
-      "1630 - 1910"
+      "1630 - 1910",
+      "1600 - 2050",
+      "0830 - 1350",
+      "0930 - 1040",
+      "1300 - 1430",
+      "1930 - 2050",
+      "1800 - 1950",
+      "1530 - 1620"
     ],
     "dateRanges": [],
     "scheduleTypes": [
@@ -1502,6 +1469,10 @@
       {
         "lat": 40.1035872,
         "long": -88.2306061
+      },
+      {
+        "lat": 40.11397164321797,
+        "long": -88.2265192685827
       }
     ],
     "finalDates": [],
