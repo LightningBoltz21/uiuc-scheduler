@@ -1,0 +1,1882 @@
+{
+  "subject": "CHBE",
+  "scrapedAt": 1773629200910,
+  "courseCount": 33,
+  "courses": {
+    "CHBE 199": [
+      "Undergraduate Open Seminar",
+      {
+        "": [
+          "10480",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Approved for letter and S/U grading. May be repeated.",
+      []
+    ],
+    "CHBE 202": [
+      "Cooperative Education Practice",
+      {
+        "1": [
+          "36312",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Simpson, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          17,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as CHEM 293. See CHEM 293.",
+      []
+    ],
+    "CHBE 210": [
+      "CHBE Internship",
+      {
+        "1": [
+          "29898",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Galan, A",
+                "Simpson, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Full-time practice of chemical science in an off-campus industrial setting or research laboratory environment. Summary report required.",
+      []
+    ],
+    "CHBE 221": [
+      "Principles of CHE",
+      {
+        "AE1": [
+          "31555",
+          [
+            [
+              5,
+              "MWF",
+              "1024 Chemistry Annex",
+              29,
+              [
+                "Rogers, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "BE1": [
+          "64581",
+          [
+            [
+              7,
+              "MWF",
+              "124 Burrill Hall",
+              3,
+              [
+                "Hammack, W"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Lectures and problems on material and energy balances.",
+      []
+    ],
+    "CHBE 297": [
+      "Individual Study Sophomores",
+      {
+        "": [
+          "50951",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Individual study of problems related to Chemical and Biomolecular Engineering.",
+      []
+    ],
+    "CHBE 321": [
+      "Thermodynamics",
+      {
+        "ADA": [
+          "62802",
+          [
+            [
+              5,
+              "F",
+              "G30 Literatures, Cultures, & Ling",
+              5,
+              [
+                "Kuenstler, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADB": [
+          "62803",
+          [
+            [
+              6,
+              "F",
+              "313 Davenport Hall",
+              8,
+              [
+                "Kuenstler, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADC": [
+          "62804",
+          [
+            [
+              5,
+              "F",
+              "1030 Literatures, Cultures, & Ling",
+              5,
+              [
+                "Kuenstler, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADD": [
+          "62805",
+          [
+            [
+              5,
+              "F",
+              "1136 Literatures, Cultures, & Ling",
+              5,
+              [
+                "Kuenstler, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "62801",
+          [
+            [
+              9,
+              "TR",
+              "1024 Chemistry Annex",
+              29,
+              [
+                "Kuenstler, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Fundamental concepts and the laws of thermodynamics; the first and second law applications to phase equilibrium and chemical equilibrium and other applications in the Chemical and Biomolecular Engineering profession.",
+      []
+    ],
+    "CHBE 397": [
+      "Individual Study for Juniors",
+      {
+        "": [
+          "39580",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Individual study of problems related to Chemical and Biomolecular Engineering.",
+      []
+    ],
+    "CHBE 411": [
+      "Probability and Statistics for ChBE",
+      {
+        "A": [
+          "78162",
+          [
+            [
+              9,
+              "TR",
+              "312 Davenport Hall",
+              8,
+              [
+                "Peters, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to the foundations of probability and statistics with applications from chemistry, chemical engineering, and biomolecular engineering. Topics include axioms, Bayes’ rule, counting techniques, common distributions, expectation values, confidence intervals, hypothesis testing, regression techniques, analysis of variance, error propagation, likelihood maximization, design of experiments, and an introduction to Bayesian statistics.",
+      []
+    ],
+    "CHBE 412": [
+      "Computational Tools in Chemical Engineering",
+      {
+        "A": [
+          "78121",
+          [
+            [
+              9,
+              "TR",
+              "2200 Sidney Lu Mech Engr Bldg",
+              22,
+              [
+                "Mullen, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "An introduction to computational tools in Python to solve problems in chemical engineering. Methods for solving nonlinear and differential equations, plotting/animation, optimization, and data modeling are discussed.",
+      []
+    ],
+    "CHBE 415": [
+      "Chemical Engineering Data Science Experience",
+      {
+        "A": [
+          "81535",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Through internships, research projects, or other off-campus experiences, students will engage in data projects in industry, research, or business settings. Students will gather and analyze data and create comprehensive reports linking their project with data analysis and engineering. Assessments will cover experimental planning, data acquisition, analysis, interpretation, written communication, and presentation.",
+      []
+    ],
+    "CHBE 421": [
+      "Momentum and Heat Transfer",
+      {
+        "AD1": [
+          "31561",
+          [
+            [
+              6,
+              "F",
+              "307 Gregory Hall",
+              6,
+              [
+                "Higdon, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AD2": [
+          "31564",
+          [
+            [
+              5,
+              "F",
+              "214 Davenport Hall",
+              8,
+              [
+                "Higdon, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AD3": [
+          "31566",
+          [
+            [
+              5,
+              "F",
+              "336 Davenport Hall",
+              8,
+              [
+                "Higdon, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AD4": [
+          "31568",
+          [
+            [
+              5,
+              "F",
+              "313 Davenport Hall",
+              8,
+              [
+                "Higdon, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AD5": [
+          "41667",
+          [
+            [
+              6,
+              "F",
+              "212 Davenport Hall",
+              8,
+              [
+                "Higdon, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "31577",
+          [
+            [
+              1,
+              "TR",
+              "124 Burrill Hall",
+              3,
+              [
+                "Higdon, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to fluid statics and dynamics; dimensional analysis; design of flow systems; introduction to heat transfer; conduction, convection, and radiation.",
+      []
+    ],
+    "CHBE 422": [
+      "Mass Transfer Operations",
+      {
+        "AD1": [
+          "64589",
+          [
+            [
+              5,
+              "F",
+              "163 Noyes Laboratory",
+              27,
+              [
+                "Schoetz, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AD2": [
+          "64590",
+          [
+            [
+              5,
+              "F",
+              "131 English Building",
+              1,
+              [
+                "Schoetz, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AD3": [
+          "66217",
+          [
+            [
+              6,
+              "F",
+              "G24 Literatures, Cultures, & Ling",
+              5,
+              [
+                "Schoetz, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AD4": [
+          "66218",
+          [
+            [
+              6,
+              "F",
+              "111 Gregory Hall",
+              6,
+              [
+                "Schoetz, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "64588",
+          [
+            [
+              4,
+              "MWF",
+              "Location Pending",
+              0,
+              [
+                "Schoetz, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to mass transfer processes and design methods for separation equipment.",
+      []
+    ],
+    "CHBE 430": [
+      "Unit Operations Laboratory",
+      {
+        "AB1": [
+          "31584",
+          [
+            [
+              74,
+              "M",
+              "219 Noyes Laboratory",
+              27,
+              [
+                "Leicht, J",
+                "Monye, U"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AB2": [
+          "31592",
+          [
+            [
+              74,
+              "T",
+              "219 Noyes Laboratory",
+              27,
+              [
+                "Leicht, J",
+                "Monye, U"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AB3": [
+          "31595",
+          [
+            [
+              74,
+              "W",
+              "219 Noyes Laboratory",
+              27,
+              [
+                "Leicht, J",
+                "Monye, U"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AB4": [
+          "31600",
+          [
+            [
+              74,
+              "R",
+              "219 Noyes Laboratory",
+              27,
+              [
+                "Leicht, J",
+                "Monye, U"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "31604",
+          [
+            [
+              37,
+              "F",
+              "2055 Sidney Lu Mech Engr Bldg",
+              22,
+              [
+                "Leicht, J",
+                "Monye, U"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Experiments and computation in fluid mechanics, heat transfer, mass transfer, and chemical reaction engineering. Exercises in effective Chemical and Biomolecular Engineering communications.",
+      []
+    ],
+    "CHBE 424": [
+      "Chemical Reaction Engineering",
+      {
+        "A": [
+          "62800",
+          [
+            [
+              2,
+              "MWF",
+              "132 Bevier Hall",
+              2,
+              [
+                "Monye, U"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Chemical kinetics; chemical reactor design; the interrelationship between transport, thermodynamics, and chemical reaction in open and closed systems.",
+      []
+    ],
+    "CHBE 431": [
+      "Process Design",
+      {
+        "AL1": [
+          "29900",
+          [
+            [
+              36,
+              "MWF",
+              "217 Noyes Laboratory",
+              27,
+              [
+                "Mullen, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Capstone design course applying principles from previous courses to the design of complete chemical process systems. Topics include techniques used in the synthesis and analysis of chemical processes, process simulation and optimization, and effective communication in a chemical process engineering environment.",
+      []
+    ],
+    "CHBE 440": [
+      "Process Control and Dynamics",
+      {
+        "AL1": [
+          "36100",
+          [
+            [
+              3,
+              "MWF",
+              "223 Gregory Hall",
+              6,
+              [
+                "Shukla, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Techniques used in the analysis of process dynamics and in the design of process control systems. Laplace transforms, stability analysis, and frequency response methods.",
+      []
+    ],
+    "CHBE 461": [
+      "Functional Materials Assembly",
+      {
+        "A": [
+          "81295",
+          [
+            [
+              1,
+              "TR",
+              "Location Pending",
+              0,
+              [
+                "Diao, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Discover essential principles, techniques, and industrial uses of self and directed assembly across scales (molecular to macro) in diverse materials, with a focus on molecular and polymeric substances. Explore intermolecular forces, surface energies, nucleation, crystal growth, phase separation, and interfacial instabilities. Lectures introduce assembly techniques and application of principles in producing materials like pharmaceuticals, fine chemicals, food products, electronics, and solar cells.",
+      []
+    ],
+    "CHBE 453": [
+      "Electrochemical Engineering",
+      {
+        "A": [
+          "61154",
+          [
+            [
+              1,
+              "TR",
+              "Location Pending",
+              0,
+              [
+                "Su, X"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Fundamentals of analysis, design, and optimization of electrochemical systems.",
+      []
+    ],
+    "CHBE 471": [
+      "Biochemical Engineering",
+      {
+        "A": [
+          "41112",
+          [
+            [
+              2,
+              "MWF",
+              "160 English Building",
+              1,
+              [
+                "Kraft, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Applications of chemical engineering principles to biological processes. Topics include enzyme mechanisms and kinetics, bioreactor design, cellular growth and metabolism, fermentation, and bioseparations.",
+      []
+    ],
+    "CHBE 476": [
+      "Biotransport",
+      {
+        "HJK": [
+          "61156",
+          [
+            [
+              9,
+              "TR",
+              "157 Noyes Laboratory",
+              27,
+              [
+                "Kong, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Investigates the critical roles the transports of mass, energy and momentum play in the function of living systems at varied levels (e.g., cells , tissues, and organs) and time scales. Transport phenomena are also central to the design and operation of devices for biological research, imaging, biochemical processes, and therapeutic interventions including drug delivery, gene therapy and tissue engineering. Students will explore conservation laws of mass, energy, and momentum to mathematically describe cell and molecular biology, immunology, physiology and biomedical engineering systems.",
+      []
+    ],
+    "CHBE 481": [
+      "Chemical Process Safety",
+      {
+        "A": [
+          "78151",
+          [
+            [
+              9,
+              "TR",
+              "Location Pending",
+              0,
+              [
+                "Floess, j"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Explores the hazards and risks of industrial chemical processes and the management of these risks. Topics include process safety management, process hazard analysis, case studies, and the engineering analyses used in the design of processes to safely handle and deal with flammable, toxic, and reactive chemicals.",
+      []
+    ],
+    "CHBE 497": [
+      "Individual Study for Seniors",
+      {
+        "": [
+          "39629",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Individual study of problems related to Chemical and Biomolecular Engineering.",
+      []
+    ],
+    "CHBE 499": [
+      "Senior Thesis",
+      {
+        "": [
+          "10482",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          6,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Limited in general to seniors in the curriculum in chemical and biomolecular engineering. Any others must have the consent of the head of the department. Each student taking the course must register in a minimum of 5 hours either in one term or divided over two terms. A maximum registration of 10 hours in two terms is permitted.",
+      []
+    ],
+    "CHBE 510": [
+      "Graduate CHBE Internship",
+      {
+        "A": [
+          "70362",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Galan, A",
+                "Simpson, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          9,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Full-time practice of chemical engineering in an off-campus industrial setting or research laboratory environment. Summary report required. Students must have received internship offer prior to enrolling in this course.",
+      []
+    ],
+    "CHBE 521": [
+      "Applied Mathematics in CHBE",
+      {
+        "A": [
+          "29905",
+          [
+            [
+              7,
+              "F",
+              "140 Burrill Hall",
+              3,
+              [
+                "Burcham, C"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              0,
+              "MW",
+              "140 Burrill Hall",
+              3,
+              [
+                "Burcham, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "C": [
+          "78229",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Burcham, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Development of mathematical models and a survey of modern mathematical methods currently used in the solution of chemical and biomolecular engineering problems; topics include the application of vectors and matrices, partial differential equations, numerical analysis, and methods of optimization in Chemical and Biomolecular Engineering.",
+      []
+    ],
+    "CHBE 551": [
+      "Chemical Kinetics & Catalysis",
+      {
+        "A": [
+          "61162",
+          [
+            [
+              19,
+              "TR",
+              "1002 Lincoln Hall",
+              9,
+              [
+                "Bickel Rogers, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "C": [
+          "80038",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Rates and mechanisms of chemical reactions, treatment of data, steady state and unsteady behavior predictions of mechanisms, prediction of rate constants and activation barriers. Introduction to catalysis. Catalysis by solvents, metals, organometallics, acids, enzymes, semiconductors.",
+      []
+    ],
+    "CHBE 525": [
+      "Statistical Thermodynamics for Chemical Engineers",
+      {
+        "A": [
+          "69430",
+          [
+            [
+              3,
+              "MWF",
+              "305 Materials Science & Eng Bld",
+              40,
+              [
+                "Mironenko, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Fundamentals and applications of both macroscopic thermodynamics and statistical mechanics. The formalism of statistical mechanics is introduced, in particular the development and calculation of partition functions, as well as its connections to thermodynamic equations of state and material properties. These concepts will be applied to problems relevant to chemical engineering, such as solution theory, electrolytes, adsorption, non-equilibrium thermodynamics, chemical reactions, molecular simulation, and dispersive interactions.",
+      []
+    ],
+    "CHBE 581": [
+      "Leadership Skills Application",
+      {
+        "B": [
+          "81292",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Morris, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "C": [
+          "81293",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Morris, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Application of foundational principles to real-world challenges faced by chemical engineers across diverse industries. Students will analyze case studies and engage with guest speakers to see how successful leaders have put key leadership competencies into action. Students will also build their own personalized leadership development plan and gain practical insights to shape and strengthen their leadership journey.",
+      []
+    ],
+    "CHBE 565": [
+      "CHBE Seminar",
+      {
+        "CHE": [
+          "76262",
+          [
+            [
+              0,
+              "TR",
+              "116 Roger Adams Laboratory",
+              10,
+              [
+                "Kuenstler, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Required of all graduate students whose major is Chemical and Biomolecular Engineering.",
+      []
+    ],
+    "CHBE 593": [
+      "Individual Study",
+      {
+        "": [
+          "10484",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Study under the supervision of a staff member in areas not covered in established course offerings.",
+      []
+    ],
+    "CHBE 594": [
+      "Special Topics",
+      {
+        "HJK": [
+          "71538",
+          [
+            [
+              9,
+              "TR",
+              "157 Noyes Laboratory",
+              27,
+              [
+                "Kong, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "MLK": [
+          "31570",
+          [
+            [
+              2,
+              "MWF",
+              "160 English Building",
+              1,
+              [
+                "Kraft, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "RGM": [
+          "31609",
+          [
+            [
+              9,
+              "TR",
+              "2200 Sidney Lu Mech Engr Bldg",
+              22,
+              [
+                "Mullen, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "XS": [
+          "46151",
+          [
+            [
+              1,
+              "TR",
+              "Location Pending",
+              0,
+              [
+                "Su, X"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "YD": [
+          "78577",
+          [
+            [
+              1,
+              "TR",
+              "Location Pending",
+              0,
+              [
+                "Diao, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Various advanced topics; generally taken during the second year of graduate study. Typical topics include turbulence, hydrodynamic instability, process dynamics, interfacial phenomena, reactor design, cellular bioengineering, properties of matter at high pressure, and phase transitions.",
+      []
+    ],
+    "CHBE 597": [
+      "Special Problems",
+      {
+        "": [
+          "10498",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Individual work on problem-oriented projects not included in theses. This could be research, engineering design, or professional work in chemical and biomolecular engineering which has educational values. The work must be done under the supervision of a staff member with the approval of the department head. Research topics will vary semester to semester and instructor to instructor.",
+      []
+    ],
+    "CHBE 598": [
+      "Research Seminar",
+      {
+        "": [
+          "10501",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Discussion of recent developments of importance to different areas of chemical and biomolecular engineering research. The course is divided into a number of sections, and subject matter differs from section to section and from time to time.",
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "1400 - 1520",
+      "0930 - 1050",
+      "0900 - 0950",
+      "1000 - 1050",
+      "1100 - 1150",
+      "1200 - 1250",
+      "1300 - 1350",
+      "1400 - 1450",
+      "ARRANGED",
+      "1100 - 1220",
+      "0930 - 1045",
+      "1630 - 1745",
+      "1400 - 1550",
+      "1400 - 1650",
+      "1400 - 1620",
+      "1300 - 1520",
+      "1300 - 1450",
+      "0800 - 0950",
+      "1000 - 1150",
+      "1230 - 1350",
+      "1500 - 1750",
+      "1530 - 1650",
+      "1400 - 1630",
+      "0800 - 0850",
+      "0800 - 0920",
+      "1700 - 1750",
+      "1730 - 1930",
+      "1600 - 1720",
+      "2000 - 2050",
+      "1300 - 1650",
+      "0830 - 0920",
+      "0800 - 1250",
+      "1100 - 1250",
+      "1500 - 1650",
+      "1000 - 1120",
+      "1430 - 1550",
+      "1300 - 1420",
+      "1500 - 1550",
+      "1600 - 1650",
+      "1200 - 1320",
+      "1500 - 1620",
+      "0900 - 1020",
+      "0900 - 1050",
+      "1600 - 1750",
+      "1030 - 1150",
+      "0830 - 0950",
+      "1800 - 1930",
+      "1730 - 1830",
+      "1230 - 1320",
+      "1500 - 1615",
+      "1200 - 1350",
+      "1700 - 1820",
+      "1230 - 1520",
+      "1330 - 1520",
+      "1200 - 1450",
+      "1100 - 1350",
+      "1700 - 1850",
+      "1900 - 2050",
+      "1330 - 1445",
+      "1330 - 1450",
+      "0600 - 0720",
+      "1700 - 1950",
+      "0730 - 0850",
+      "0930 - 1120",
+      "1000 - 1240",
+      "0930 - 1020",
+      "1730 - 2030",
+      "1130 - 1300",
+      "1230 - 1420",
+      "0730 - 0920",
+      "0700 - 0950",
+      "1030 - 1320",
+      "0900 - 1250",
+      "0900 - 1150",
+      "1300 - 1750",
+      "1530 - 1820",
+      "1830 - 1950",
+      "0900 - 1200",
+      "0800 - 1050",
+      "0900 - 1140",
+      "1300 - 1540",
+      "0930 - 1210",
+      "1600 - 1840",
+      "1700 - 1940",
+      "1400 - 1640",
+      "1400 - 1720",
+      "1400 - 1600",
+      "1800 - 1950",
+      "1630 - 1750",
+      "1730 - 1850",
+      "1930 - 2050",
+      "1700 - 2000",
+      "1600 - 1715",
+      "1300 - 1550",
+      "0930 - 1220",
+      "1100 - 1450",
+      "1530 - 1920",
+      "1500 - 1850",
+      "1600 - 1850",
+      "0800 - 1150",
+      "0800 - 1700",
+      "1100 - 1215",
+      "1400 - 1515",
+      "1530 - 1645",
+      "1700 - 1815",
+      "1830 - 1945",
+      "1230 - 1345"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Lecture-Discussion",
+      "Discussion/ Recitation",
+      "Lecture",
+      "Online",
+      "Online Lecture",
+      "Laboratory",
+      "Laboratory-Discussion",
+      "Independent Study",
+      "Online Discussion",
+      "Internship",
+      "Conference",
+      "Travel",
+      "Seminar",
+      "Study Abroad",
+      "Research",
+      "Online Lab",
+      "Studio",
+      "Practice"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.107534,
+        "long": -88.2281548
+      },
+      {
+        "lat": 40.104794,
+        "long": -88.224264
+      },
+      {
+        "lat": 40.103587,
+        "long": -88.230606
+      },
+      {
+        "lat": 40.10755766472843,
+        "long": -88.22995430218522
+      },
+      {
+        "lat": 40.10628,
+        "long": -88.22621
+      },
+      {
+        "lat": 40.105732,
+        "long": -88.2281018
+      },
+      {
+        "lat": 40.1035833,
+        "long": -88.228405
+      },
+      {
+        "lat": 40.1072225,
+        "long": -88.2262016
+      },
+      {
+        "lat": 40.1065684,
+        "long": -88.2281746
+      },
+      {
+        "lat": 40.10783362157985,
+        "long": -88.22476189569741
+      },
+      {
+        "lat": 40.1108856,
+        "long": -88.2269806
+      },
+      {
+        "lat": 40.1083446,
+        "long": -88.2282555
+      },
+      {
+        "lat": 40.1033599,
+        "long": -88.2292111
+      },
+      {
+        "lat": 40.1020773,
+        "long": -88.2296394
+      },
+      {
+        "lat": 40.103627234541904,
+        "long": -88.22601765311099
+      },
+      {
+        "lat": 40.106778040727896,
+        "long": -88.2194617156191
+      },
+      {
+        "lat": 40.102726858556835,
+        "long": -88.23259991223857
+      },
+      {
+        "lat": 40.11380515934119,
+        "long": -88.22490788390387
+      },
+      {
+        "lat": 40.1035872,
+        "long": -88.2306061
+      },
+      {
+        "lat": 40.103620555545135,
+        "long": -88.22982720445013
+      },
+      {
+        "lat": 40.0995003,
+        "long": -88.223104
+      },
+      {
+        "lat": 40.110811306674734,
+        "long": -88.2248467072371
+      },
+      {
+        "lat": 40.10127390836906,
+        "long": -88.2226073524728
+      },
+      {
+        "lat": 40.11246109008789,
+        "long": -88.22831726074219
+      },
+      {
+        "lat": 40.1047599,
+        "long": -88.2319514
+      },
+      {
+        "lat": 40.1034533,
+        "long": -88.2327596
+      },
+      {
+        "lat": 40.108419421661715,
+        "long": -88.2261156301609
+      },
+      {
+        "lat": 40.1022093629303,
+        "long": -88.22800864058527
+      },
+      {
+        "lat": 40.107811,
+        "long": -88.2260761
+      },
+      {
+        "lat": 40.1131317,
+        "long": -88.2264552
+      },
+      {
+        "lat": 40.11171215875622,
+        "long": -88.22530849701589
+      },
+      {
+        "lat": 40.1109722,
+        "long": -88.2282631
+      },
+      {
+        "lat": 40.111691,
+        "long": -88.2242511
+      },
+      {
+        "lat": 40.1149296,
+        "long": -88.2280589
+      },
+      {
+        "lat": 40.10623714823253,
+        "long": -88.2232659093846
+      },
+      {
+        "lat": 40.1149521,
+        "long": -88.2267561
+      },
+      {
+        "lat": 40.101862,
+        "long": -88.231737
+      },
+      {
+        "lat": 40.092875494224195,
+        "long": -88.22082220247309
+      },
+      {
+        "lat": 40.10944320239664,
+        "long": -88.22602522743233
+      },
+      {
+        "lat": 40.11085653938169,
+        "long": -88.22609810215927
+      },
+      {
+        "lat": 40.1110937,
+        "long": -88.2232348
+      },
+      {
+        "lat": 40.11397164321797,
+        "long": -88.2265192685827
+      },
+      {
+        "lat": 40.108570819242026,
+        "long": -88.22518453938676
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}

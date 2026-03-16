@@ -1,7 +1,7 @@
 {
   "subject": "ANTH",
-  "scrapedAt": 1773629064609,
-  "courseCount": 50,
+  "scrapedAt": 1773629087413,
+  "courseCount": 56,
   "courses": {
     "ANTH 102": [
       "Human Origins and Culture",
@@ -1949,6 +1949,253 @@
       [],
       "A guided independent research seminar for Anthropology majors normally taken during the Fall of the senior year. Students may select to conduct significant and original research in any of the four sub-fields of anthropology or combine interdisciplinary interests. Working closely with the course instructors and with additional guidance from a chosen anthropology faculty advisor, student will develop a research topic of their choice, identify significant research questions, before collecting and analyzing their field data.",
       []
+    ],
+    "ANTH 514": [
+      "Seminar in Cognitive Science",
+      {
+        "A": [
+          "48223",
+          [
+            [
+              21,
+              "MW",
+              "120 Architecture Building",
+              13,
+              [
+                "Hummel, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as PSYC 514, CS 549, EPSY 551, LING 570, PHIL 514. See PSYC 514.",
+      []
+    ],
+    "ANTH 499": [
+      "Topics in Anthropology",
+      {
+        "CH": [
+          "51127",
+          [
+            [
+              72,
+              "TR",
+              "Location Pending",
+              0,
+              [
+                "Houkes, A",
+                "Hughes, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "LD": [
+          "71917",
+          [
+            [
+              0,
+              "TR",
+              "326 David Kinley Hall",
+              7,
+              [
+                "David, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          12,
+          0,
+          [],
+          -1
+        ],
+        "RM": [
+          "50212",
+          [
+            [
+              39,
+              "MW",
+              "322 David Kinley Hall",
+              7,
+              [
+                "Malhi, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Research seminar on specialized topics in anthropology.",
+      []
+    ],
+    "ANTH 515": [
+      "Seminar in Anthropology",
+      {
+        "IA": [
+          "43528",
+          [
+            [
+              3,
+              "MW",
+              "109A Davenport Hall",
+              8,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "RR": [
+          "51131",
+          [
+            [
+              13,
+              "T",
+              "Location Pending",
+              0,
+              [
+                "Rabanes, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          12,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Analysis of selected topics of special interest in anthropology.",
+      []
+    ],
+    "ANTH 518": [
+      "Language in Culture II",
+      {
+        "1": [
+          "64777",
+          [
+            [
+              0,
+              "TR",
+              "219 David Kinley Hall",
+              7,
+              [
+                "Kramer, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          10,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Part II of the core theoretical seminar in linguistic anthropology. Continues examination of historical developments in the sub-field and its debates, and relationships with socio-cultural anthropology. Develops theoretical and critical analytical skills needed in contemporary ethnographic research.",
+      []
+    ],
+    "ANTH 589": [
+      "Readings in Anthropology",
+      {
+        "": [
+          "10319",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Individual guidance in intensive readings in the literature of one or more subdivisions of the field of anthropology, selected in consultation with the adviser in accordance with the needs and interest of the student.",
+      []
+    ],
+    "ANTH 590": [
+      "Dissertation Readings",
+      {
+        "": [
+          "10327",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Supervised individual investigation or study of a topic not covered by regular courses. The topic selected by the student and the proposed plan of study are approved by the adviser and the staff member who supervises the work.",
+      []
     ]
   },
   "caches": {
@@ -2024,7 +2271,8 @@
       "1230 - 1420",
       "0730 - 0920",
       "0700 - 0950",
-      "1030 - 1320"
+      "1030 - 1320",
+      "0900 - 1250"
     ],
     "dateRanges": [],
     "scheduleTypes": [
