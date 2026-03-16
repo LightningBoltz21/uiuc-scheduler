@@ -4,7 +4,7 @@
   "year": "2026",
   "term": "fall",
   "startedAt": 1773628856716,
-  "lastUpdated": 1773629374738,
+  "lastUpdated": 1773629514740,
   "totalSubjects": 183,
   "totalCourses": 4456,
   "subjects": [
@@ -18447,19 +18447,43 @@
     "DANC",
     "DTX",
     "EALC",
-    "ECE"
+    "ECE",
+    "ECON",
+    "EDPR",
+    "EDUC",
+    "EIL",
+    "ENG",
+    "ENGL",
+    "ENSU",
+    "ENVS",
+    "EPOL",
+    "EPSY",
+    "ERAM",
+    "ES",
+    "ESE",
+    "ESL",
+    "ETMA",
+    "EURO",
+    "EXP",
+    "FAA",
+    "FIN",
+    "FR",
+    "FSHN",
+    "GC",
+    "GEOL",
+    "GER"
   ],
   "partialSubjects": {
-    "ECON": {
-      "completed": 7,
-      "total": 45,
+    "GGIS": {
+      "completed": 15,
+      "total": 38,
       "lastCourse": "ABORTED"
     }
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 1571,
-    "failedCourses": 3,
+    "successfulCourses": 2129,
+    "failedCourses": 4,
     "rateLimitCount": 0
   }
 }
