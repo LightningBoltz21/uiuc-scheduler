@@ -1,0 +1,863 @@
+{
+  "termCode": "202605",
+  "termName": "Summer 2026",
+  "year": "2026",
+  "term": "summer",
+  "startedAt": 1774233772000,
+  "lastUpdated": 1774233855068,
+  "totalSubjects": 152,
+  "totalCourses": 127,
+  "subjects": [
+    "AAS",
+    "ABE",
+    "ACCY",
+    "ACE",
+    "ACES",
+    "ADV",
+    "AE",
+    "AFAS",
+    "AFRO",
+    "AFST",
+    "AGED",
+    "AHS",
+    "ANSC",
+    "ANTH",
+    "ARAB",
+    "ARCH",
+    "ART",
+    "ARTD",
+    "ARTE",
+    "ARTF",
+    "ARTH",
+    "ARTS",
+    "ASRM",
+    "ASST",
+    "ASTR",
+    "ATMS",
+    "BADM",
+    "BCOG",
+    "BIOC",
+    "BIOE",
+    "BIOP",
+    "BSE",
+    "BTW",
+    "BUS",
+    "CB",
+    "CDB",
+    "CEE",
+    "CHBE",
+    "CHEM",
+    "CI",
+    "CIC",
+    "CLCV",
+    "CLE",
+    "CMN",
+    "CPSC",
+    "CS",
+    "CSE",
+    "CW",
+    "CWL",
+    "EALC",
+    "ECE",
+    "ECON",
+    "EIL",
+    "ENG",
+    "ENGL",
+    "ENVS",
+    "EPOL",
+    "EPSY",
+    "ERAM",
+    "ESE",
+    "ESL",
+    "EURO",
+    "EXP",
+    "FAA",
+    "FIN",
+    "FR",
+    "FSHN",
+    "GC",
+    "GEOL",
+    "GER",
+    "GGIS",
+    "GLBL",
+    "GMC",
+    "GRK",
+    "GWS",
+    "HDFS",
+    "HIST",
+    "HK",
+    "HNDI",
+    "HORT",
+    "HT",
+    "HUM",
+    "IB",
+    "IE",
+    "INFO",
+    "IS",
+    "ITAL",
+    "JAPN",
+    "JOUR",
+    "JS",
+    "KOR",
+    "LA",
+    "LAS",
+    "LAST",
+    "LAT",
+    "LAW",
+    "LEAD",
+    "LER",
+    "LING",
+    "LLS",
+    "MACS",
+    "MATH",
+    "MBA",
+    "MCB",
+    "MDIA",
+    "ME",
+    "MICR",
+    "MILS",
+    "MIP",
+    "MSE",
+    "MUS",
+    "MUSC",
+    "MUSE",
+    "NEUR",
+    "NPRE",
+    "NRES",
+    "NS",
+    "NUTR",
+    "PATH",
+    "PERS",
+    "PHIL",
+    "PHYS",
+    "PLPA",
+    "PORT",
+    "PS",
+    "PSM",
+    "PSYC",
+    "REES",
+    "REL",
+    "RHET",
+    "RST",
+    "RUSS",
+    "SAME",
+    "SBC",
+    "SCAN",
+    "SE",
+    "SHS",
+    "SLCL",
+    "SOC",
+    "SOCW",
+    "SPAN",
+    "SPED",
+    "STAT",
+    "SWAH",
+    "TAM",
+    "TE",
+    "THEA",
+    "TURK",
+    "UP",
+    "VCM",
+    "VM",
+    "WRIT"
+  ],
+  "subjectCourseLists": {
+    "AAS": [
+      {
+        "subject": "AAS",
+        "number": "201"
+      },
+      {
+        "subject": "AAS",
+        "number": "589"
+      }
+    ],
+    "ABE": [
+      {
+        "subject": "ABE",
+        "number": "199"
+      },
+      {
+        "subject": "ABE",
+        "number": "397"
+      },
+      {
+        "subject": "ABE",
+        "number": "497"
+      },
+      {
+        "subject": "ABE",
+        "number": "498"
+      },
+      {
+        "subject": "ABE",
+        "number": "597"
+      }
+    ],
+    "ACCY": [
+      {
+        "subject": "ACCY",
+        "number": "199"
+      },
+      {
+        "subject": "ACCY",
+        "number": "200"
+      },
+      {
+        "subject": "ACCY",
+        "number": "202"
+      },
+      {
+        "subject": "ACCY",
+        "number": "290"
+      },
+      {
+        "subject": "ACCY",
+        "number": "301"
+      },
+      {
+        "subject": "ACCY",
+        "number": "302"
+      },
+      {
+        "subject": "ACCY",
+        "number": "303"
+      },
+      {
+        "subject": "ACCY",
+        "number": "304"
+      },
+      {
+        "subject": "ACCY",
+        "number": "410"
+      },
+      {
+        "subject": "ACCY",
+        "number": "499"
+      },
+      {
+        "subject": "ACCY",
+        "number": "501"
+      },
+      {
+        "subject": "ACCY",
+        "number": "516"
+      },
+      {
+        "subject": "ACCY",
+        "number": "550"
+      },
+      {
+        "subject": "ACCY",
+        "number": "554"
+      },
+      {
+        "subject": "ACCY",
+        "number": "590"
+      },
+      {
+        "subject": "ACCY",
+        "number": "593"
+      },
+      {
+        "subject": "ACCY",
+        "number": "599"
+      }
+    ],
+    "ACE": [
+      {
+        "subject": "ACE",
+        "number": "293"
+      },
+      {
+        "subject": "ACE",
+        "number": "294"
+      },
+      {
+        "subject": "ACE",
+        "number": "295"
+      },
+      {
+        "subject": "ACE",
+        "number": "396"
+      },
+      {
+        "subject": "ACE",
+        "number": "499"
+      },
+      {
+        "subject": "ACE",
+        "number": "591"
+      },
+      {
+        "subject": "ACE",
+        "number": "592"
+      }
+    ],
+    "ACES": [
+      {
+        "subject": "ACES",
+        "number": "199"
+      },
+      {
+        "subject": "ACES",
+        "number": "293"
+      },
+      {
+        "subject": "ACES",
+        "number": "295"
+      },
+      {
+        "subject": "ACES",
+        "number": "298"
+      },
+      {
+        "subject": "ACES",
+        "number": "299"
+      }
+    ],
+    "ADV": [
+      {
+        "subject": "ADV",
+        "number": "175"
+      },
+      {
+        "subject": "ADV",
+        "number": "281"
+      },
+      {
+        "subject": "ADV",
+        "number": "400"
+      },
+      {
+        "subject": "ADV",
+        "number": "480"
+      },
+      {
+        "subject": "ADV",
+        "number": "495"
+      },
+      {
+        "subject": "ADV",
+        "number": "590"
+      },
+      {
+        "subject": "ADV",
+        "number": "598"
+      }
+    ],
+    "AE": [
+      {
+        "subject": "AE",
+        "number": "199"
+      },
+      {
+        "subject": "AE",
+        "number": "395"
+      },
+      {
+        "subject": "AE",
+        "number": "397"
+      },
+      {
+        "subject": "AE",
+        "number": "402"
+      },
+      {
+        "subject": "AE",
+        "number": "419"
+      },
+      {
+        "subject": "AE",
+        "number": "420"
+      },
+      {
+        "subject": "AE",
+        "number": "497"
+      },
+      {
+        "subject": "AE",
+        "number": "597"
+      }
+    ],
+    "AFAS": [
+      {
+        "subject": "AFAS",
+        "number": "120"
+      },
+      {
+        "subject": "AFAS",
+        "number": "341"
+      }
+    ],
+    "AFRO": [
+      {
+        "subject": "AFRO",
+        "number": "132"
+      },
+      {
+        "subject": "AFRO",
+        "number": "201"
+      }
+    ],
+    "AFST": [
+      {
+        "subject": "AFST",
+        "number": "199"
+      },
+      {
+        "subject": "AFST",
+        "number": "222"
+      },
+      {
+        "subject": "AFST",
+        "number": "231"
+      },
+      {
+        "subject": "AFST",
+        "number": "232"
+      },
+      {
+        "subject": "AFST",
+        "number": "433"
+      },
+      {
+        "subject": "AFST",
+        "number": "434"
+      },
+      {
+        "subject": "AFST",
+        "number": "490"
+      },
+      {
+        "subject": "AFST",
+        "number": "550"
+      }
+    ],
+    "AGED": [
+      {
+        "subject": "AGED",
+        "number": "500"
+      }
+    ],
+    "AHS": [
+      {
+        "subject": "AHS",
+        "number": "292"
+      }
+    ],
+    "ANSC": [
+      {
+        "subject": "ANSC",
+        "number": "199"
+      },
+      {
+        "subject": "ANSC",
+        "number": "398"
+      },
+      {
+        "subject": "ANSC",
+        "number": "499"
+      },
+      {
+        "subject": "ANSC",
+        "number": "542"
+      },
+      {
+        "subject": "ANSC",
+        "number": "592"
+      },
+      {
+        "subject": "ANSC",
+        "number": "593"
+      }
+    ],
+    "ANTH": [
+      {
+        "subject": "ANTH",
+        "number": "103"
+      },
+      {
+        "subject": "ANTH",
+        "number": "180"
+      },
+      {
+        "subject": "ANTH",
+        "number": "199"
+      },
+      {
+        "subject": "ANTH",
+        "number": "209"
+      },
+      {
+        "subject": "ANTH",
+        "number": "222"
+      },
+      {
+        "subject": "ANTH",
+        "number": "246"
+      },
+      {
+        "subject": "ANTH",
+        "number": "390"
+      },
+      {
+        "subject": "ANTH",
+        "number": "399"
+      },
+      {
+        "subject": "ANTH",
+        "number": "444"
+      },
+      {
+        "subject": "ANTH",
+        "number": "445"
+      },
+      {
+        "subject": "ANTH",
+        "number": "454"
+      },
+      {
+        "subject": "ANTH",
+        "number": "455"
+      },
+      {
+        "subject": "ANTH",
+        "number": "495"
+      },
+      {
+        "subject": "ANTH",
+        "number": "496"
+      },
+      {
+        "subject": "ANTH",
+        "number": "497"
+      },
+      {
+        "subject": "ANTH",
+        "number": "589"
+      },
+      {
+        "subject": "ANTH",
+        "number": "590"
+      }
+    ],
+    "ARAB": [
+      {
+        "subject": "ARAB",
+        "number": "199"
+      },
+      {
+        "subject": "ARAB",
+        "number": "201"
+      },
+      {
+        "subject": "ARAB",
+        "number": "202"
+      },
+      {
+        "subject": "ARAB",
+        "number": "403"
+      },
+      {
+        "subject": "ARAB",
+        "number": "404"
+      }
+    ],
+    "ARCH": [
+      {
+        "subject": "ARCH",
+        "number": "372"
+      },
+      {
+        "subject": "ARCH",
+        "number": "473"
+      },
+      {
+        "subject": "ARCH",
+        "number": "474"
+      },
+      {
+        "subject": "ARCH",
+        "number": "491"
+      },
+      {
+        "subject": "ARCH",
+        "number": "536"
+      },
+      {
+        "subject": "ARCH",
+        "number": "571"
+      },
+      {
+        "subject": "ARCH",
+        "number": "574"
+      },
+      {
+        "subject": "ARCH",
+        "number": "588"
+      },
+      {
+        "subject": "ARCH",
+        "number": "590"
+      },
+      {
+        "subject": "ARCH",
+        "number": "594"
+      },
+      {
+        "subject": "ARCH",
+        "number": "597"
+      }
+    ],
+    "ART": [
+      {
+        "subject": "ART",
+        "number": "140"
+      },
+      {
+        "subject": "ART",
+        "number": "199"
+      }
+    ],
+    "ARTD": [
+      {
+        "subject": "ARTD",
+        "number": "391"
+      },
+      {
+        "subject": "ARTD",
+        "number": "399"
+      },
+      {
+        "subject": "ARTD",
+        "number": "591"
+      }
+    ],
+    "ARTE": [
+      {
+        "subject": "ARTE",
+        "number": "391"
+      },
+      {
+        "subject": "ARTE",
+        "number": "591"
+      }
+    ],
+    "ARTF": [
+      {
+        "subject": "ARTF",
+        "number": "199"
+      }
+    ],
+    "ARTH": [
+      {
+        "subject": "ARTH",
+        "number": "299"
+      },
+      {
+        "subject": "ARTH",
+        "number": "391"
+      },
+      {
+        "subject": "ARTH",
+        "number": "489"
+      },
+      {
+        "subject": "ARTH",
+        "number": "490"
+      },
+      {
+        "subject": "ARTH",
+        "number": "491"
+      },
+      {
+        "subject": "ARTH",
+        "number": "591"
+      }
+    ],
+    "ARTS": [
+      {
+        "subject": "ARTS",
+        "number": "391"
+      },
+      {
+        "subject": "ARTS",
+        "number": "399"
+      },
+      {
+        "subject": "ARTS",
+        "number": "591"
+      },
+      {
+        "subject": "ARTS",
+        "number": "593"
+      },
+      {
+        "subject": "ARTS",
+        "number": "595"
+      }
+    ],
+    "ASRM": [
+      {
+        "subject": "ASRM",
+        "number": "398"
+      },
+      {
+        "subject": "ASRM",
+        "number": "451"
+      },
+      {
+        "subject": "ASRM",
+        "number": "490"
+      },
+      {
+        "subject": "ASRM",
+        "number": "593"
+      }
+    ],
+    "ASST": [],
+    "ASTR": [],
+    "ATMS": [],
+    "BADM": [],
+    "BCOG": [],
+    "BIOC": [],
+    "BIOE": [],
+    "BIOP": [],
+    "BSE": [],
+    "BTW": [],
+    "BUS": [],
+    "CB": [],
+    "CDB": [],
+    "CEE": [],
+    "CHBE": [],
+    "CHEM": [],
+    "CI": [],
+    "CIC": [],
+    "CLCV": [],
+    "CLE": [],
+    "CMN": [],
+    "CPSC": [],
+    "CS": [],
+    "CSE": [],
+    "CW": [],
+    "CWL": [],
+    "EALC": [],
+    "ECE": [],
+    "ECON": [],
+    "EIL": [],
+    "ENG": [],
+    "ENGL": [],
+    "ENVS": [],
+    "EPOL": [],
+    "EPSY": [],
+    "ERAM": [],
+    "ESE": [],
+    "ESL": [],
+    "EURO": [],
+    "EXP": [],
+    "FAA": [],
+    "FIN": [],
+    "FR": [],
+    "FSHN": [],
+    "GC": [],
+    "GEOL": [],
+    "GER": [],
+    "GGIS": [],
+    "GLBL": [],
+    "GMC": [],
+    "GRK": [],
+    "GWS": [],
+    "HDFS": [],
+    "HIST": [],
+    "HK": [],
+    "HNDI": [],
+    "HORT": [],
+    "HT": [],
+    "HUM": [],
+    "IB": [],
+    "IE": [],
+    "INFO": [],
+    "IS": [],
+    "ITAL": [],
+    "JAPN": [],
+    "JOUR": [],
+    "JS": [],
+    "KOR": [],
+    "LA": [],
+    "LAS": [],
+    "LAST": [],
+    "LAT": [],
+    "LAW": [],
+    "LEAD": [],
+    "LER": [],
+    "LING": [],
+    "LLS": [],
+    "MACS": [],
+    "MATH": [],
+    "MBA": [],
+    "MCB": [],
+    "MDIA": [],
+    "ME": [],
+    "MICR": [],
+    "MILS": [],
+    "MIP": [],
+    "MSE": [],
+    "MUS": [],
+    "MUSC": [],
+    "MUSE": [],
+    "NEUR": [],
+    "NPRE": [],
+    "NRES": [],
+    "NS": [],
+    "NUTR": [],
+    "PATH": [],
+    "PERS": [],
+    "PHIL": [],
+    "PHYS": [],
+    "PLPA": [],
+    "PORT": [],
+    "PS": [],
+    "PSM": [],
+    "PSYC": [],
+    "REES": [],
+    "REL": [],
+    "RHET": [],
+    "RST": [],
+    "RUSS": [],
+    "SAME": [],
+    "SBC": [],
+    "SCAN": [],
+    "SE": [],
+    "SHS": [],
+    "SLCL": [],
+    "SOC": [],
+    "SOCW": [],
+    "SPAN": [],
+    "SPED": [],
+    "STAT": [],
+    "SWAH": [],
+    "TAM": [],
+    "TE": [],
+    "THEA": [],
+    "TURK": [],
+    "UP": [],
+    "VCM": [],
+    "VM": [],
+    "WRIT": []
+  },
+  "completedSubjects": [],
+  "partialSubjects": {
+    "AAS": {
+      "completed": 0,
+      "total": 2,
+      "lastCourse": "ABORTED"
+    }
+  },
+  "failedSubjects": [],
+  "stats": {
+    "successfulCourses": 0,
+    "failedCourses": 1,
+    "rateLimitCount": 0
+  }
+}
