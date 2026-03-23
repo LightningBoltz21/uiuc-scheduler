@@ -1,7 +1,7 @@
 {
   "subject": "GGIS",
-  "scrapedAt": 1773629514737,
-  "courseCount": 15,
+  "scrapedAt": 1774233176282,
+  "courseCount": 38,
   "courses": {
     "GGIS 103": [
       "Earth's Physical Systems",
@@ -782,6 +782,1161 @@
       },
       [],
       "Supervised independent study of special topics or regions.",
+      []
+    ],
+    "GGIS 407": [
+      "CyberGIS & Geospatial Data Science",
+      {
+        "MS": [
+          "77081",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Padmanabhan, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "76857",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Padmanabhan, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to CyberGIS: Geospatial Information Science and Systems (GIS) based on advanced cyberinfrastructure and state of the art high-performance computing, big data, and cloud computing in the context of geospatial data science. Students will work within the CyberGISX framework and Jupyter Notebook user environment to conduct data-intensive, reproducible, and scalable geospatial analytics and analyze and visualize geospatial data using leading-edge cyberGIS software and python libraries.",
+      []
+    ],
+    "GGIS 392": [
+      "Geography & GIS Internship",
+      {
+        "": [
+          "77142",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Supervised, off-campus experience in a field directly pertaining to Geography and/or GIS. A written report is required at the end of the internship relating work accomplishments to the student's program of study.",
+      []
+    ],
+    "GGIS 403": [
+      "Geographic Information Science and Systems",
+      {
+        "MS": [
+          "77078",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Portelli, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "76855",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Portelli, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduces the conceptual and technical fundamentals of geographic information science as a gateway to advanced study in geographic information science, and cover geographic information science as an interdisciplinary scientific field and geographic information systems as a tool in many application domains. Students will be introduced to unique characteristics of geospatial data in the capture, processing, storage, analysis, communication, and interpretation of geospatial information, which will prepare them to utilize information science techniques and critical spatial-thinking skills to address geospatially-related challenges.",
+      []
+    ],
+    "GGIS 410": [
+      "Green Development",
+      {
+        "A": [
+          "77071",
+          [
+            [
+              9,
+              "TR",
+              "336 Davenport Hall",
+              8,
+              [
+                "Brown, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Theory and practice of sustainable development. Course materials draw upon theoretical and case study material from the social and natural sciences to analyze environment and development relations with emphasis on the Global South.",
+      []
+    ],
+    "GGIS 412": [
+      "Geospatial Technologies & Society",
+      {
+        "A": [
+          "76858",
+          [
+            [
+              2,
+              "MWF",
+              "2020A Natural History Building",
+              39,
+              [
+                "Cidell, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Examines the use of geographic information systems (GIS) and global positioning systems (GPS) with emphasis on their social and political implications. Topics may include critical cartography, social theory, health geography, historical geography, geopolitics, crime mapping, environmental justice, data feminism, environmental change, and science, technology, and society studies (STS).",
+      []
+    ],
+    "GGIS 427": [
+      "Geospatial AI Literacy",
+      {
+        "A": [
+          "81492",
+          [
+            [
+              1,
+              "TR",
+              "Location Pending",
+              0,
+              [
+                "Portelli, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduces geospatial artificial intelligence (AI) methods through the lens of algorithmic fairness, environmental justice, and democratic governance. Students develop technical competency in machine learning, spatial statistics, and deep learning while critically examining how these tools can perpetuate or challenge spatial inequities. Through hands-on labs and community-engaged case studies, students learn to evaluate AI bias, implement fairness-aware algorithms, and design transparent, accountable geospatial AI systems that serve all communities equitably.",
+      []
+    ],
+    "GGIS 439": [
+      "Health Applications of GIS",
+      {
+        "A": [
+          "77149",
+          [
+            [
+              19,
+              "TR",
+              "338 Davenport Hall",
+              8,
+              [
+                "Kolak, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Students use spatial technologies and data to address issues of health. Topics include disease outbreak surveillance and response, environmental factors such as climate and socio-economic context, and the medical and other data needed to spatial analysis of health information. Application-based learning and class lectures are complemented by readings, guest lectures and class discussions. Geographic information system and global positioning system use is covered with examples drawn from public and veterinary health.",
+      []
+    ],
+    "GGIS 460": [
+      "Aerial Photo Analysis",
+      {
+        "G4": [
+          "80479",
+          [
+            [
+              50,
+              "W",
+              "338 Davenport Hall",
+              8,
+              [
+                "Umar, U"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              50,
+              "M",
+              "338 Davenport Hall",
+              8,
+              [
+                "Umar, U"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "U3": [
+          "80478",
+          [
+            [
+              50,
+              "W",
+              "338 Davenport Hall",
+              8,
+              [
+                "Umar, U"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              50,
+              "M",
+              "338 Davenport Hall",
+              8,
+              [
+                "Umar, U"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Review of methods for extracting quantitative and qualitative information from aerial photographs using computer-based techniques and visual interpretation. The first part of the course will cover basic photogrammetry and mapping. The second part will focus on interpretation of physical, biological, and cultural features.",
+      []
+    ],
+    "GGIS 471": [
+      "Modern Geographic Thought",
+      {
+        "A": [
+          "76859",
+          [
+            [
+              13,
+              "R",
+              "137C Davenport Hall",
+              8,
+              [
+                "Wang, J",
+                "Zaragocin, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Examination of recent trends in human and physical geography. Themes include empiricism, logical positivism, regionalism, Marxism, realism, phenomenology, and postmodernism as applied to geographic research. Emerging geographic literature is explored to identify the latest conceptual developments.",
+      []
+    ],
+    "GGIS 477": [
+      "Introduction to Remote Sensing",
+      {
+        "MS": [
+          "77079",
+          [
+            [
+              18,
+              "WF",
+              "ONLINE",
+              0,
+              [
+                "Diao, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "76861",
+          [
+            [
+              18,
+              "WF",
+              "ONLINE",
+              0,
+              [
+                "Diao, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Fundamentals of energy-matter interaction mechanisms, and the manifestation of reflected and emitted radiation on photographs and images; introduces characteristics of aerial films and filters, electro-optical scanners, and digital processing; and emphasizes applications in environmental problems.",
+      []
+    ],
+    "GGIS 473": [
+      "Digital Cartography & Map Design",
+      {
+        "A": [
+          "76860",
+          [
+            [
+              9,
+              "TR",
+              "1020 Natural History Building",
+              39,
+              [
+                "Portelli, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Instruction and practice in the basic techniques of map making followed by a consideration of problems involved in the construction of maps for presentation in a reproduced form (i.e., printed, photographed); the selection of proper source materials for the base and body of the map, the compilation and correlation of these materials, and methods of mechanical and photographic reproduction.",
+      []
+    ],
+    "GGIS 495": [
+      "Advanced Topics in Geography",
+      {
+        "MS": [
+          "81586",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Lin, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "81585",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Lin, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Explores special topics not covered in regularly scheduled Geography courses.",
+      []
+    ],
+    "GGIS 496": [
+      "Climate & Social Vulnerability",
+      {
+        "G1": [
+          "79412",
+          [
+            [
+              1,
+              "TR",
+              "2084 Natural History Building",
+              39,
+              [
+                "Zaragocin, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "U1": [
+          "79420",
+          [
+            [
+              1,
+              "TR",
+              "2084 Natural History Building",
+              39,
+              [
+                "Zaragocin, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Existing climate variability and likely climate change call for policies to protect vulnerable people who make their livelihoods in a changing environment. Students will explore: 1) causes of climate related stress and disaster; 2) theories of vulnerability and adaptation; 3) practices and policies designed to reduce economic loss, hunger, famine and dislocation in the face of climate trends and events. Focus on multiple policy scales affecting poor and marginal populations, who are disproportionately vulnerable when facing climate stress, drawing on case examples primarily from the developing world.",
+      []
+    ],
+    "GGIS 507": [
+      "High-Performance Geospatial Computing",
+      {
+        "MS": [
+          "77082",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Umar, U"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "78168",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Umar, U"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Intended to introduce students to high-performance geospatial computing using python to resolve computational bottlenecks and produce faster and scalable solutions. Students will learn how to use Python on high-performance and parallel computing architecture. Specifically, NumPy, SciPy, Numba, and Cython will be covered to optimize and speed up geospatial computation. Students will use CyberGISX as the primary learning environment, and be expected to learn how to develop such notebooks to address computational challenges in solving geospatial problems. By the end, students will have gained solid knowledge of common Python tools for developing high-performance geospatial computing solutions that can be applied to many applications.",
+      []
+    ],
+    "GGIS 527": [
+      "Geospatial Artificial Intelligence & Machine Learning",
+      {
+        "MS": [
+          "77085",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Lin, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "76864",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Lin, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "The field of Artificial Intelligence (AI) has made significant progress in recent years, and a number of AI algorithms have even surpassed human ability at tasks such as computer vision, natural language processing and machine translation. The intersection of AI and geospatial analysis is creating massive and unprecedented opportunities for knowledge discovery and innovative applications. A growing number of Geospatial AI and machine learning applications have emerged in a diverse set of disciplines such as geography and geographic information science, agriculture, business, economics, sustainable development, and urban planning. In this course, students will learn a variety of Geospatial AI and Machine Learning (ML) algorithms (e.g., decision trees, and support vector machine) and tools that allow us to investigate and identify patterns, clusters, classes, and anomalies based on various types of geospatial data. The course will include extensive hands-on interactions with geospatial data and applications based on cutting-edge AI and ML techniques. Prerequisite: GGIS 407 or equivalent.",
+      []
+    ],
+    "GGIS 560": [
+      "Spatial Epidemiology",
+      {
+        "A": [
+          "77205",
+          [
+            [
+              18,
+              "MW",
+              "320 Mumford Hall",
+              15,
+              [
+                "Varga, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as PATH 560. See PATH 560.",
+      []
+    ],
+    "GGIS 587": [
+      "Qualitative Research Methods",
+      {
+        "1G": [
+          "77435",
+          [
+            [
+              9,
+              "TR",
+              "2020A Natural History Building",
+              39,
+              [
+                "Butcher, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      null,
+      []
+    ],
+    "GGIS 590": [
+      "Graduate Independent Study",
+      {
+        "": [
+          "76945",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Independent research project or thesis topic development to be supervised by Geography & GIS faculty advisor.",
+      []
+    ],
+    "GGIS 594": [
+      "Seminar in Social Geography",
+      {
+        "A": [
+          "78294",
+          [
+            [
+              54,
+              "M",
+              "137C Davenport Hall",
+              8,
+              [
+                "Alvarado, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          12,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Advanced study of current research in social geography; topic will vary from term to term. Prepares students for thesis and dissertation research through the study of relevant literature and completion of a research paper.",
+      []
+    ],
+    "GGIS 593": [
+      "Geography & GIS Colloquium",
+      {
+        "A": [
+          "76946",
+          [
+            [
+              40,
+              "F",
+              "2049 Natural History Building",
+              39,
+              [
+                "Zaragocin, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          12,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Weekly research presentations by invited speakers and Geography & GIS PhD students on a wide range of topics. Required for all GGIS graduate (excluding PSM) students.",
+      []
+    ],
+    "GGIS 595": [
+      "Graduate Seminar",
+      {
+        "BJJ": [
+          "77237",
+          [
+            [
+              13,
+              "T",
+              "137C Davenport Hall",
+              8,
+              [
+                "Jefferson, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          12,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Graduate-level exploration of a topic in Geography & GIS that is not covered by an existing course. Topics and instructors vary by semester.",
+      []
+    ],
+    "GGIS 598": [
+      "Graduate Capstone Project",
+      {
+        "": [
+          "76900",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Major individual project that demonstrates the student's ability to solve an advanced geospatial problem or develop a GIS-based application. Student will work closely with a faculty capstone advisor to determine the project focus and expected outcome(s).",
+      []
+    ],
+    "GGIS 599": [
+      "Thesis Research",
+      {
+        "BJJ": [
+          "77020",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Jefferson, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "BLR": [
+          "77025",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Rhoads, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "CD": [
+          "77018",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Diao, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "DW": [
+          "77028",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Wilson, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "JLB": [
+          "77014",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Best, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "JLC": [
+          "77016",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Cidell, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "MJL": [
+          "77022",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Lara, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "MK": [
+          "77021",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Kolak, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "NAA": [
+          "77013",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Alvarado, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "RP": [
+          "77017",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Portelli, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "SCB": [
+          "77015",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Butcher, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "SW": [
+          "77027",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Wang, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "SZ": [
+          "77026",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Zaragocin, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Individual research under supervision of members of the faculty in their respective fields.",
       []
     ]
   },
