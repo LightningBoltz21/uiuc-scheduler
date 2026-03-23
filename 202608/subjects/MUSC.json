@@ -1,7 +1,7 @@
 {
   "subject": "MUSC",
-  "scrapedAt": 1774233475432,
-  "courseCount": 40,
+  "scrapedAt": 1774233512644,
+  "courseCount": 122,
   "courses": {
     "MUSC 105": [
       "Voice",
@@ -5025,6 +5025,5856 @@
       [],
       "Instruction in guitar at the advanced undergraduate and graduate levels, predominantly classical.",
       []
+    ],
+    "MUSC 422": [
+      "Advanced Bassoon",
+      {
+        "A": [
+          "74416",
+          [
+            [
+              4,
+              "T",
+              "0360 Music Building",
+              35,
+              [
+                "Roidl-Ward, B"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              9,
+              "R",
+              "0061A Music Building",
+              35,
+              [
+                "Roidl-Ward, B"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "T",
+              "ONLINE",
+              0,
+              [
+                "Roidl-Ward, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Instruction in bassoon at the advanced undergraduate and graduate level.",
+      []
+    ],
+    "MUSC 421": [
+      "Advanced Oboe",
+      {
+        "A": [
+          "74412",
+          [
+            [
+              4,
+              "R",
+              "0322 Music Building",
+              35,
+              [
+                "Dee, J"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              4,
+              "T",
+              "0359 Music Building",
+              35,
+              [
+                "Dee, J"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "R",
+              "ONLINE",
+              0,
+              [
+                "Dee, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "74413",
+          [
+            [
+              4,
+              "R",
+              "0322 Music Building",
+              35,
+              [
+                "Dee, J",
+                "Hutchinson, J"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              4,
+              "T",
+              "0359 Music Building",
+              35,
+              [
+                "Dee, J",
+                "Hutchinson, J"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "R",
+              "ONLINE",
+              0,
+              [
+                "Dee, J",
+                "Hutchinson, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "EH1": [
+          "74414",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Dee, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          17,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Instruction in oboe at the advanced undergraduate and graduate level.",
+      []
+    ],
+    "MUSC 420": [
+      "Advanced Flute",
+      {
+        "A": [
+          "74408",
+          [
+            [
+              9,
+              "R",
+              "220 Smith Memorial Hall",
+              0,
+              [
+                "Keeble, J"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "R",
+              "ONLINE",
+              0,
+              [
+                "Keeble, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "74409",
+          [
+            [
+              9,
+              "R",
+              "220 Smith Memorial Hall",
+              0,
+              [
+                "Keeble, J",
+                "Yang, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "R",
+              "ONLINE",
+              0,
+              [
+                "Keeble, J",
+                "Yang, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "PIC": [
+          "74410",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Keeble, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          17,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Instruction in flute at the advanced undergraduate and graduate level.",
+      []
+    ],
+    "MUSC 423": [
+      "Advanced Clarinet",
+      {
+        "A": [
+          "74418",
+          [
+            [
+              9,
+              "R",
+              "0359 Music Building",
+              35,
+              [
+                "Harris, J"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "R",
+              "ONLINE",
+              0,
+              [
+                "Harris, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "74419",
+          [
+            [
+              9,
+              "R",
+              "0359 Music Building",
+              35,
+              [
+                "Minor, J"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "R",
+              "ONLINE",
+              0,
+              [
+                "Minor, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Instruction in clarinet at the advanced undergraduate and graduate level.",
+      []
+    ],
+    "MUSC 424": [
+      "Advanced Saxophone",
+      {
+        "A": [
+          "74421",
+          [
+            [
+              9,
+              "T",
+              "2310 Krannert Center for Perf Arts",
+              46,
+              [
+                "Roman, N"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "T",
+              "ONLINE",
+              0,
+              [
+                "Roman, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "74422",
+          [
+            [
+              9,
+              "T",
+              "2310 Krannert Center for Perf Arts",
+              46,
+              [
+                "Gaffey, A",
+                "Roman, N"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "T",
+              "ONLINE",
+              0,
+              [
+                "Gaffey, A",
+                "Roman, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Instruction in saxophone at the advanced undergraduate and graduate level.",
+      []
+    ],
+    "MUSC 425": [
+      "Advanced Trumpet",
+      {
+        "A": [
+          "74425",
+          [
+            [
+              9,
+              "R",
+              "141 Harding Band Building",
+              0,
+              [
+                "Daval, C"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "R",
+              "ONLINE",
+              0,
+              [
+                "Daval, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "74424",
+          [
+            [
+              9,
+              "T",
+              "1030 Music Building",
+              35,
+              [
+                "Gilreath, A"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "T",
+              "ONLINE",
+              0,
+              [
+                "Gilreath, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "NM": [
+          "74426",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Gilreath, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          17,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Instruction in cornet and trumpet at the advanced undergraduate and graduate level.",
+      []
+    ],
+    "MUSC 426": [
+      "Advanced Horn",
+      {
+        "A": [
+          "74427",
+          [
+            [
+              9,
+              "R",
+              "1030 Music Building",
+              35,
+              [
+                "Scully, B"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "R",
+              "ONLINE",
+              0,
+              [
+                "Scully, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Instruction in French horn at the advanced undergraduate and graduate level.",
+      []
+    ],
+    "MUSC 428": [
+      "Advanced Euphonium",
+      {
+        "A": [
+          "74431",
+          [
+            [
+              57,
+              "M",
+              "1030 Music Building",
+              35,
+              [
+                "Tegge, S"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "M",
+              "ONLINE",
+              0,
+              [
+                "Tegge, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Instruction in euphonium at the advanced undergraduate and graduate level.",
+      []
+    ],
+    "MUSC 427": [
+      "Advanced Trombone",
+      {
+        "A": [
+          "74430",
+          [
+            [
+              9,
+              "T",
+              "0061A Music Building",
+              35,
+              [
+                "Whitaker, J"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              9,
+              "R",
+              "2310 Krannert Center for Perf Arts",
+              46,
+              [
+                "Whitaker, J"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "T",
+              "ONLINE",
+              0,
+              [
+                "Whitaker, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Instruction in trombone at the advanced undergraduate and graduate level.",
+      []
+    ],
+    "MUSC 429": [
+      "Advanced Tuba",
+      {
+        "A": [
+          "74432",
+          [
+            [
+              57,
+              "M",
+              "1030 Music Building",
+              35,
+              [
+                "Tegge, S"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "M",
+              "ONLINE",
+              0,
+              [
+                "Tegge, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Instruction in tuba at the advanced undergraduate and graduate level.",
+      []
+    ],
+    "MUSC 430": [
+      "Advanced Percussion",
+      {
+        "A": [
+          "74433",
+          [
+            [
+              4,
+              "TR",
+              "6 Smith Memorial Hall",
+              0,
+              [
+                "Flores, R",
+                "Graham, J"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "TR",
+              "ONLINE",
+              0,
+              [
+                "Flores, R",
+                "Graham, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "74434",
+          [
+            [
+              4,
+              "TR",
+              "6 Smith Memorial Hall",
+              0,
+              [
+                "Flores, R",
+                "Graham, J"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "TR",
+              "ONLINE",
+              0,
+              [
+                "Flores, R",
+                "Graham, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Instruction in percussion at the advanced undergraduate and graduate level.",
+      []
+    ],
+    "MUSC 432": [
+      "Advanced Jazz Saxophone",
+      {
+        "A": [
+          "74844",
+          [
+            [
+              5,
+              "W",
+              "25 Smith Memorial Hall",
+              0,
+              [
+                "McNeill, C"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "W",
+              "ONLINE",
+              0,
+              [
+                "McNeill, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "74849",
+          [
+            [
+              5,
+              "W",
+              "25 Smith Memorial Hall",
+              0,
+              [
+                "Bridgewater, R"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "W",
+              "ONLINE",
+              0,
+              [
+                "Bridgewater, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Instruction at the advanced undergraduate or graduate level in jazz saxophone normally associated with the jazz idiom.",
+      []
+    ],
+    "MUSC 434": [
+      "Advanced Jazz Trombone",
+      {
+        "A": [
+          "74880",
+          [
+            [
+              5,
+              "W",
+              "25 Smith Memorial Hall",
+              0,
+              [
+                "Pugh, J"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "W",
+              "ONLINE",
+              0,
+              [
+                "Pugh, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Instruction at the advanced undergraduate or graduate level in jazz trombone normally associated with the jazz idiom.",
+      []
+    ],
+    "MUSC 435": [
+      "Advanced Jazz Piano",
+      {
+        "A": [
+          "74889",
+          [
+            [
+              5,
+              "W",
+              "25 Smith Memorial Hall",
+              0,
+              [
+                "Hickey, J"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "W",
+              "ONLINE",
+              0,
+              [
+                "Hickey, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Instruction at the advanced undergraduate or graduate level in jazz piano normally associated with the jazz idiom.",
+      []
+    ],
+    "MUSC 436": [
+      "Advanced Jazz Bass",
+      {
+        "A": [
+          "74891",
+          [
+            [
+              5,
+              "W",
+              "25 Smith Memorial Hall",
+              0,
+              [
+                "Gray, L"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              7,
+              "F",
+              "25 Smith Memorial Hall",
+              0,
+              [
+                "Gray, L"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "W",
+              "ONLINE",
+              0,
+              [
+                "Gray, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "74892",
+          [
+            [
+              5,
+              "W",
+              "Location Pending",
+              0,
+              [
+                "Gray, L",
+                "Serda, V"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              7,
+              "F",
+              "Location Pending",
+              0,
+              [
+                "Gray, L",
+                "Serda, V"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "W",
+              "ONLINE",
+              0,
+              [
+                "Gray, L",
+                "Serda, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Instruction at the advanced undergraduate or graduate level in jazz bass normally associated with the jazz idiom.",
+      []
+    ],
+    "MUSC 437": [
+      "Advanced Jazz Guitar",
+      {
+        "A": [
+          "74893",
+          [
+            [
+              37,
+              "F",
+              "25 Smith Memorial Hall",
+              0,
+              [
+                "Gray, L"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              5,
+              "W",
+              "25 Smith Memorial Hall",
+              0,
+              [
+                "Gray, L"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "F",
+              "ONLINE",
+              0,
+              [
+                "Gray, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Instruction at the advanced undergraduate or graduate level in jazz guitar normally associated with the jazz idiom.",
+      []
+    ],
+    "MUSC 438": [
+      "Advanced Jazz Percussion",
+      {
+        "A": [
+          "74896",
+          [
+            [
+              5,
+              "W",
+              "25 Smith Memorial Hall",
+              0,
+              [
+                "Spencer, J"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "W",
+              "ONLINE",
+              0,
+              [
+                "Spencer, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Instruction at the advanced undergraduate or graduate level in jazz percussion normally associated with the jazz idiom.",
+      []
+    ],
+    "MUSC 449": [
+      "World Music Performance Ensembles",
+      {
+        "BAL": [
+          "77455",
+          [
+            [
+              111,
+              "T",
+              "0061A Music Building",
+              35,
+              [
+                "Smith, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          17,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Instruction and experience in the performance of various non-Western and vernacular music traditions such as African mbira, Andean panpipes, North American string band, Gamelan Kebyar, European and South American traditional music, etc. Topics vary according to available instructors.",
+      []
+    ],
+    "MUSC 450": [
+      "Chamber Music",
+      {
+        "CCW": [
+          "78847",
+          [
+            [
+              16,
+              "MW",
+              "205 Smith Memorial Hall",
+              0,
+              [
+                "Wu, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "S01": [
+          "74842",
+          [
+            [
+              16,
+              "MW",
+              "ARR Music Building",
+              35,
+              [
+                "Freivogel, L",
+                "Freivogel, M",
+                "McDonough, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "S02": [
+          "74843",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Freivogel, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "S03": [
+          "74845",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Freivogel, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "S04": [
+          "74846",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "McDonough, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "S05": [
+          "74847",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Moldover, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "S06": [
+          "74848",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Koo, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "S07": [
+          "74850",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Freivogel, L",
+                "Moldover, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "S08": [
+          "76620",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Freivogel, M",
+                "Moldover, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "S09": [
+          "76617",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Anderson, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "S10": [
+          "74851",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Yeung, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "S14": [
+          "77926",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Sanchez Portuguez, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "W01": [
+          "74852",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Keeble, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "W02": [
+          "74853",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Dee, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "W03": [
+          "74855",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Dee, J",
+                "Hutchinson, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "W04": [
+          "77865",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Roidl-Ward, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "W05": [
+          "76623",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Minor, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "W06": [
+          "76618",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Bi, S",
+                "Minor, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "W08": [
+          "78846",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Roidl-Ward, B",
+                "Roman, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "W09": [
+          "74841",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Keeble, J",
+                "Yang, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "W10": [
+          "76087",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Cox, M",
+                "Roidl-Ward, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          17,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "The study of music written for and performed by a small instrumental ensemble with one player per part. Students will be assigned to chamber groups that will be coached on a weekly basis by members of the faculty. At least one public performance per term may be required.",
+      []
+    ],
+    "MUSC 451": [
+      "Piano Ensemble",
+      {
+        "A": [
+          "74856",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Ehlen, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          17,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Piano Ensemble comprises the study of the piano duet and piano duo literature, in addition to other works written for multiple pianos.",
+      []
+    ],
+    "MUSC 452": [
+      "Guitar Ensemble",
+      {
+        "A": [
+          "74857",
+          [
+            [
+              111,
+              "W",
+              "0300 Music Building",
+              35,
+              [
+                "Sanchez Portuguez, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          17,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "The Guitar Ensemble is a chamber music group open to students who want to experience the practical essentials of music performance. The ensemble plays a wide array of styles and genres ranging from classical to jazz and rock arrangements, as well as several other forms of popular and commercial music. The guitar ensemble provides students with a unique opportunity to make music and connect with other students who share the same enthusiasm and passion for the guitar.",
+      []
+    ],
+    "MUSC 453": [
+      "Saxophone Ensemble",
+      {
+        "ENS": [
+          "76593",
+          [
+            [
+              51,
+              "R",
+              "141 Harding Band Building",
+              0,
+              [
+                "Gaffey, A",
+                "Roman, N"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              28,
+              "T",
+              "141 Harding Band Building",
+              0,
+              [
+                "Gaffey, A",
+                "Roman, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "GR": [
+          "74859",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Roman, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "UG1": [
+          "74860",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Roman, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "UG2": [
+          "77959",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Roman, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "UG3": [
+          "81130",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Gaffey, A",
+                "Roman, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          17,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Saxophone ensembles of all types performing a mixture of traditional and 20th-century music for soprano, alto, tenor, baritone, and bass saxophone.",
+      []
+    ],
+    "MUSC 454": [
+      "Brass Ensemble",
+      {
+        "BQ1": [
+          "74862",
+          [
+            [
+              25,
+              "R",
+              "Location Pending",
+              0,
+              [
+                "Daval, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "BQ2": [
+          "74863",
+          [
+            [
+              25,
+              "R",
+              "Location Pending",
+              0,
+              [
+                "Daval, C",
+                "Fields, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "BQ3": [
+          "76585",
+          [
+            [
+              25,
+              "R",
+              "Location Pending",
+              0,
+              [
+                "Anand, P",
+                "Daval, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "BQ4": [
+          "76586",
+          [
+            [
+              25,
+              "R",
+              "Location Pending",
+              0,
+              [
+                "Gilreath, A",
+                "Smith, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "HQ1": [
+          "76255",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Scully, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "TB2": [
+          "80130",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Whitaker, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "TEE": [
+          "76299",
+          [
+            [
+              9,
+              "T",
+              "141 Harding Band Building",
+              0,
+              [
+                "Smith, P",
+                "Tegge, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "TEQ": [
+          "77963",
+          [
+            [
+              25,
+              "R",
+              "1030 Music Building",
+              35,
+              [
+                "Smith, P",
+                "Tegge, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "TPT": [
+          "77982",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Gilreath, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "TRB": [
+          "76584",
+          [
+            [
+              9,
+              "R",
+              "2310 Krannert Center for Perf Arts",
+              46,
+              [
+                "Whitaker, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "TST": [
+          "80814",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Tegge, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          17,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "The study of music written for and performed by brass ensembles with generally one player on each part. The repertoire includes original compositions as well as arrangements of music from different styles and genres written specifically for brass. Ensemble size is flexible, ranging from trios and quartets, to ensembles of 30 or more musicians.",
+      []
+    ],
+    "MUSC 455": [
+      "Percussion Ensemble",
+      {
+        "A": [
+          "75227",
+          [
+            [
+              23,
+              "MTWR",
+              "114 Smith Memorial Hall",
+              0,
+              [
+                "Graham, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          17,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "The University of Illinois Percussion Ensemble specializes in the performance of contemporary and traditional repertoire for small and large ensembles. Percussion majors are automatically accepted into the Percussion Ensemble.",
+      []
+    ],
+    "MUSC 456": [
+      "Steel Band",
+      {
+        "A": [
+          "76046",
+          [
+            [
+              88,
+              "TR",
+              "6 Smith Memorial Hall",
+              0,
+              [
+                "Flores, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          17,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "The University of Illinois Steel Band performs music from the calypso, soca, jazz, and popular repertoire. Percussion majors are automatically accepted into the Steel Band.",
+      []
+    ],
+    "MUSC 457": [
+      "Hip-Hop Collective",
+      {
+        "A": [
+          "74864",
+          [
+            [
+              57,
+              "T",
+              "1030 Music Building",
+              35,
+              [
+                "Brown, E",
+                "Kruse, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          17,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Open to all UIUC instrumentalists, rappers, vocalists, DJs, emcees, beatboxers, writers, composers, arrangers, dancers, videographers, audio engineers, producers, graffiti artists, and all other students interested in studying and performing hip hop, trip hop, R&B, dubstep, drum & bass, trap, jazz rap, salsa hop, rap metal, chillwave, gospel hip hop, and related genres.",
+      []
+    ],
+    "MUSC 460": [
+      "Chamber Singers",
+      {
+        "A": [
+          "74087",
+          [
+            [
+              16,
+              "TR",
+              "2317 Krannert Center for Perf Arts",
+              46,
+              [
+                "Kwon, S",
+                "Pierle, N",
+                "Solya, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          17,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "A mixed-voice chorus for advanced singers that explores through study and performance a wide variety of choral music from various cultures, styles, and time periods. Open to all students who have been accepted by audition, with assignments made according to proficiency. Completion of course involves, in addition to the regular schedule of rehearsals, participation in public performances by the ensemble.",
+      []
+    ],
+    "MUSC 462": [
+      "University Chorus",
+      {
+        "B": [
+          "80131",
+          [
+            [
+              27,
+              "MW",
+              "2317 Krannert Center for Perf Arts",
+              46,
+              [
+                "Solya, A",
+                "Tiffin, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          17,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "A mixed-voice chorus open to students from all majors and disciplines on campus. Explores through study and performance a wide variety of choral music from various cultures, styles, and time periods. Completion of course involves, in addition to the regular schedule of rehearsals, participation in public performances by the ensemble.",
+      []
+    ],
+    "MUSC 464": [
+      "Women's Glee Club",
+      {
+        "A": [
+          "73708",
+          [
+            [
+              27,
+              "TR",
+              "2317 Krannert Center for Perf Arts",
+              46,
+              [
+                "Pierle, N",
+                "Solya, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          17,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Practical experience in the rehearsal and public performance of choral music of various periods and styles. Open to all treble voices (soprano and alto) on campus who have been accepted by audition, with assignments made according to proficiency. Completion of course involves, in addition to the regular schedule of rehearsals, participation in public performances by the ensemble.",
+      []
+    ],
+    "MUSC 463": [
+      "Black Chorus",
+      {
+        "A": [
+          "74090",
+          [
+            [
+              172,
+              "MW",
+              "2317 Krannert Center for Perf Arts",
+              46,
+              [
+                "Davis, O"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          17,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "A mixed-voice chorus of students from across campus performing the music of Black Americans, ranging from the Negro spiritual, anthems, and formal music, to traditional and contemporary gospel, jazz, and rhythm and blues. Open to all students with assignments made according to proficiency. Completion of course involves, in addition to the regular schedule of rehearsals, participation in public performances by the ensemble.",
+      []
+    ],
+    "MUSC 465": [
+      "Men's Glee Club",
+      {
+        "A": [
+          "73709",
+          [
+            [
+              89,
+              "TR",
+              "2317 Krannert Center for Perf Arts",
+              46,
+              [
+                "Major, A",
+                "Stephenson, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          17,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Practical experience in the rehearsal and public performance of traditional music, innovative compositions, and songs of brotherhood of various periods and styles. Open to all tenor, baritone, and bass voices on campus who have been accepted by audition, with assignments made according to proficiency. Completion of course involves, in addition to the regular schedule of rehearsals, participation in public performances by the ensemble.",
+      []
+    ],
+    "MUSC 466": [
+      "Oratorio Society",
+      {
+        "A": [
+          "74091",
+          [
+            [
+              198,
+              "T",
+              "2317 Krannert Center for Perf Arts",
+              46,
+              [
+                "Major, A",
+                "Pierle, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          17,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "An advanced mixed-voice chorus open to students, faculty, and members of the community. Performance of oratorios and other major choral works in cooperation with the University Symphony Orchestra, Wind Symphony, or other select ensemble. Open to all who have been accepted by audition, with assignments made according to proficiency. Completion of course involves, in addition to the regular schedule of rehearsals, participation in public performances by the ensemble.",
+      []
+    ],
+    "MUSC 468": [
+      "LTI Studio",
+      {
+        "A": [
+          "74871",
+          [
+            [
+              33,
+              "MW",
+              "2418 Krannert Center for Perf Arts",
+              46,
+              [
+                "Tilley, M",
+                "Wigley, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          17,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Acquaints the student with a variety of opera, operetta, and musical theatre literature in contrasting styles and historical periods, culminating in a public performance of full sung theatre. Develops skills as both a solo and ensemble performer including, but not limited to, stage movement, mind-body awareness, diction, acting, and improvisational techniques.",
+      []
+    ],
+    "MUSC 469": [
+      "LTI Main Stage",
+      {
+        "AUS": [
+          "76471",
+          [
+            [
+              91,
+              "F",
+              "2418 Krannert Center for Perf Arts",
+              46,
+              [
+                "MacLeod, S",
+                "Robards, C",
+                "Wigley, S"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              199,
+              "MTR",
+              "2418 Krannert Center for Perf Arts",
+              46,
+              [
+                "MacLeod, S",
+                "Robards, C",
+                "Wigley, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "SIR": [
+          "78481",
+          [
+            [
+              91,
+              "F",
+              "Location Pending",
+              0,
+              [
+                "Gunn, J",
+                "Tilley, M"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              199,
+              "MTR",
+              "Location Pending",
+              0,
+              [
+                "Gunn, J",
+                "Tilley, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          17,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Portrayal of a named role in a Main Stage Lyric Theatre Illinois production. Culminates in public performances of sung theatre, developing and demonstrating skills in singing, acting, and movement. Rigorous rehearsal schedule.",
+      []
+    ],
+    "MUSC 473": [
+      "Illinois Modern Ensemble",
+      {
+        "A": [
+          "74874",
+          [
+            [
+              43,
+              "MW",
+              "114 Smith Memorial Hall",
+              0,
+              [
+                "Taylor, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          17,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Advanced ensemble dedicated to the performance of contemporary and experimental music, from the masterworks of the 20th century to cutting-edge new compositions of today. Completion of course involves, in addition to the regular schedule of rehearsals, participation in public performances by the ensemble.",
+      []
+    ],
+    "MUSC 470": [
+      "Opera Scenes",
+      {
+        "A": [
+          "74872",
+          [
+            [
+              33,
+              "TR",
+              "2418 Krannert Center for Perf Arts",
+              46,
+              [
+                "Gunn, J",
+                "Gunn, N",
+                "Harris, D",
+                "MacLeod, S",
+                "Tilley, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          17,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Advanced work in musical preparation and staging of operatic roles and scenes. Repertoire includes core repertoire especially chosen for the student, and workshops of emerging pieces with industry professionals. Culminates in a public performance. For graduate students in vocal performance and select upperclassmen in vocal performance or Lyric Theatre. Audition is required for repertoire assignment.",
+      []
+    ],
+    "MUSC 474": [
+      "Improvisers Exchange Ensemble",
+      {
+        "A": [
+          "74875",
+          [
+            [
+              33,
+              "F",
+              "2310 Krannert Center for Perf Arts",
+              46,
+              [
+                "Finkelman, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          17,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "This performance ensemble investigates the field of music improvisation and is open to musicians of all genres who seek to explore omni-idiomatic improvisation, listening and performance strategies for the improviser, and engagement with visiting artists in the field. Open to all students on campus. Completion of course involves, in addition to the regular schedule of rehearsals, participation in public performances by the ensemble.",
+      []
+    ],
+    "MUSC 475": [
+      "Symphony Orchestra",
+      {
+        "A": [
+          "74096",
+          [
+            [
+              200,
+              "TR",
+              "Location Pending",
+              0,
+              [
+                "MacLeod, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          17,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "The Symphony Orchestra performs major literature from the 18th, 19th, 20th and 21st centuries. Student musicians include music majors, as well as exceptionally talented non-majors from across the University of Illinois campus. Open to all students who have been accepted by audition, with assignments made according to proficiency and instrumentation. Completion of course involves, in addition to the regular schedule of rehearsals, participation in public performances by the ensemble.",
+      []
+    ],
+    "MUSC 476": [
+      "Philharmonia Orchestra",
+      {
+        "A": [
+          "74097",
+          [
+            [
+              33,
+              "MW",
+              "2310 Krannert Center for Perf Arts",
+              46,
+              [
+                "MacLeod, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          17,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "The Philharmonia Orchestra performs major literature from the 18th, 19th, 20th and 21st centuries. Student musicians include music majors, as well as talented non-majors from across the University of Illinois campus. Open to all students who have been accepted by audition, with assignments made according to proficiency and instrumentation. Completion of course involves, in addition to the regular schedule of rehearsals, participation in public performances by the ensemble.",
+      []
+    ],
+    "MUSC 478": [
+      "Illini Strings",
+      {
+        "A": [
+          "74099",
+          [
+            [
+              201,
+              "M",
+              "2310 Krannert Center for Perf Arts",
+              46,
+              [
+                "MacLeod, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          17,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "This string orchestra performs music from the classics to music written in the 21st century. Musicians in the orchestra are comprised of non-music majors from all across the University of Illinois campus. Open to all students who have been accepted by audition, with assignments made according to proficiency and instrumentation. Completion of course involves, in addition to the regular schedule of rehearsals, participation in public performances by the ensemble.",
+      []
+    ],
+    "MUSC 481": [
+      "Wind Orchestra",
+      {
+        "A": [
+          "74094",
+          [
+            [
+              16,
+              "TR",
+              "141 Harding Band Building",
+              0,
+              [
+                "Houser, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          17,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Maintains a large wind ensemble instrumentation for the study and performance of all types of band literature. Open to all students who have been accepted by audition, with assignments made according to proficiency and instrumentation. Completion of course involves, in addition to the regular schedule of rehearsals, participation in public performances by the ensemble.",
+      []
+    ],
+    "MUSC 480": [
+      "Wind Symphony",
+      {
+        "A": [
+          "74093",
+          [
+            [
+              93,
+              "MW",
+              "141 Harding Band Building",
+              0,
+              [
+                "Geraldi, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          17,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Maintains a complete large wind ensemble instrumentation for the study and performance of band/wind ensemble/chamber wind literature. Open to all students who have been accepted by audition, with assignments made according to proficiency and instrumentation. Completion of course involves, in addition to the regular schedule of rehearsals, participation in public performances by the ensemble.",
+      []
+    ],
+    "MUSC 482": [
+      "Hindsley Symphonic Band",
+      {
+        "A": [
+          "74095",
+          [
+            [
+              33,
+              "TR",
+              "141 Harding Band Building",
+              0,
+              [
+                "Fleming, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          17,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Maintains the instrumentation of a standard concert band. The literature studied and performed is of the highest caliber and technical difficulty. Open to all students who have been accepted by audition, with assignments made according to proficiency and instrumentation. Completion of course involves, in addition to the regular schedule of rehearsals, participation in public performances by the band.",
+      []
+    ],
+    "MUSC 484": [
+      "Concert Band",
+      {
+        "A": [
+          "76063",
+          [
+            [
+              57,
+              "M",
+              "141 Harding Band Building",
+              0,
+              [
+                "Rudy, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "80128",
+          [
+            [
+              57,
+              "W",
+              "141 Harding Band Building",
+              0,
+              [
+                "Bujol, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          17,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Maintains the instrumentation of a large concert band. Performs high quality band literature that is technically less difficult than that of the more advanced band ensembles. Open to all students who have been accepted by audition, with assignments made according to proficiency and instrumentation. Completion of course involves, in addition to the regular schedule of rehearsals, participation in public performances by the band.",
+      []
+    ],
+    "MUSC 487": [
+      "Marching Illini",
+      {
+        "CG": [
+          "73710",
+          [
+            [
+              91,
+              "MTW",
+              "ARR Harding Band Building",
+              0,
+              [
+                "Houser, B",
+                "Rudy, H"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              120,
+              "F",
+              "ARR Harding Band Building",
+              0,
+              [
+                "Houser, B",
+                "Rudy, H"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              202,
+              "R",
+              "ARR Harding Band Building",
+              0,
+              [
+                "Houser, B",
+                "Rudy, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "DL": [
+          "73711",
+          [
+            [
+              120,
+              "MTWRF",
+              "ARR Harding Band Building",
+              0,
+              [
+                "Houser, B",
+                "Kavelman, A",
+                "Rudy, H"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              202,
+              "R",
+              "ARR Harding Band Building",
+              0,
+              [
+                "Houser, B",
+                "Kavelman, A",
+                "Rudy, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "IL": [
+          "73712",
+          [
+            [
+              91,
+              "MTW",
+              "ARR Harding Band Building",
+              0,
+              [
+                "Houser, B",
+                "Rudy, H"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              120,
+              "F",
+              "ARR Harding Band Building",
+              0,
+              [
+                "Houser, B",
+                "Rudy, H"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              202,
+              "R",
+              "ARR Harding Band Building",
+              0,
+              [
+                "Houser, B",
+                "Rudy, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "WB": [
+          "73713",
+          [
+            [
+              120,
+              "MTWF",
+              "ARR Harding Band Building",
+              0,
+              [
+                "Houser, B",
+                "Rudy, H"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              202,
+              "R",
+              "ARR Harding Band Building",
+              0,
+              [
+                "Houser, B",
+                "Rudy, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          17,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Prepares and performs music of the highest available quality in at least six shows per football season. Open to all students who have been accepted by audition, with assignments made according to proficiency and instrumentation. Completion of course involves, in addition to the regular schedule of rehearsals, participation in public performances by the band.",
+      []
+    ],
+    "MUSC 489": [
+      "Volleyball Band",
+      {
+        "A": [
+          "76570",
+          [
+            [
+              141,
+              "T",
+              "141 Harding Band Building",
+              0,
+              [
+                "Houser, B",
+                "Rudy, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          17,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Prepares and performs music of the highest available quality for volleyball games. Open to all students who have been accepted by audition, with assignments made according to proficiency and instrumentation. Completion of course involves, in addition to the regular schedule of rehearsals, participation in public performances by the band.",
+      []
+    ],
+    "MUSC 490": [
+      "Concert Jazz Band",
+      {
+        "A": [
+          "75628",
+          [
+            [
+              5,
+              "TR",
+              "25 Smith Memorial Hall",
+              0,
+              [
+                "McNeill, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          17,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Upper level jazz ensemble designed to acquaint proficient instrumentalists with jazz compositions, arrangements, and improvisational procedures, and to promote a high degree of stylistic and technical competence in performance. Open to all students who have been accepted by audition, with assignments made according to proficiency and instrumentation. Completion of course involves, in addition to the regular schedule of rehearsals, participation in public performances by the ensemble.",
+      []
+    ],
+    "MUSC 491": [
+      "Repertory Jazz Orchestra",
+      {
+        "A": [
+          "75632",
+          [
+            [
+              7,
+              "MTWR",
+              "25 Smith Memorial Hall",
+              0,
+              [
+                "Pugh, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          17,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Upper level jazz ensemble designed to acquaint proficient instrumentalists with jazz compositions, arrangements, and improvisational procedures, and to promote a high degree of stylistic and technical competence in performance. Open to all students who have been accepted by audition, with assignments made according to proficiency and instrumentation. Completion of course involves, in addition to the regular schedule of rehearsals, participation in public performances by the ensemble.",
+      []
+    ],
+    "MUSC 495": [
+      "Jazz Trombone Ensemble",
+      {
+        "JT1": [
+          "75636",
+          [
+            [
+              157,
+              "MW",
+              "Location Pending",
+              0,
+              [
+                "Pugh, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          17,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Ensemble designed to acquaint proficient instrumentalists with jazz compositions, arrangements, and improvisational procedures, and to promote a high degree of stylistic and technical competence in performance. Open to all students who have been accepted by audition, with assignments made according to proficiency and instrumentation. Completion of course involves, in addition to the regular schedule of rehearsals, participation in public performances by the ensemble.",
+      []
+    ],
+    "MUSC 492": [
+      "Jazz Ensemble",
+      {
+        "JB3": [
+          "75633",
+          [
+            [
+              57,
+              "T",
+              "25 Smith Memorial Hall",
+              0,
+              [
+                "Pugh, J",
+                "Serda, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          17,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "This jazz ensemble course is designed to acquaint proficient instrumentalists with jazz compositions, arrangements, and improvisational procedures, and to promote a high degree of stylistic and technical competence in performance. Open to all students who have been accepted by audition, with assignments made according to proficiency and instrumentation. Completion of course involves, in addition to the regular schedule of rehearsals, participation in public performances by the ensemble.",
+      []
+    ],
+    "MUSC 496": [
+      "Jazz Guitar Ensemble",
+      {
+        "A": [
+          "75638",
+          [
+            [
+              43,
+              "F",
+              "25 Smith Memorial Hall",
+              0,
+              [
+                "Gray, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          17,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Ensemble designed to acquaint proficient instrumentalists with jazz compositions, arrangements, and improvisational procedures, and to promote a high degree of stylistic and technical competence in performance. Open to all students who have been accepted by audition, with assignments made according to proficiency and instrumentation. Completion of course involves, in addition to the regular schedule of rehearsals, participation in public performances by the ensemble.",
+      []
+    ],
+    "MUSC 498": [
+      "Jazz Combo",
+      {
+        "C01": [
+          "74877",
+          [
+            [
+              37,
+              "MW",
+              "Location Pending",
+              0,
+              [
+                "Pugh, J",
+                "Yuan, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "C02": [
+          "74878",
+          [
+            [
+              25,
+              "MW",
+              "25 Smith Memorial Hall",
+              0,
+              [
+                "Spencer, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "CO6": [
+          "74883",
+          [
+            [
+              4,
+              "MW",
+              "25 Smith Memorial Hall",
+              0,
+              [
+                "Bridgewater, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          17,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Ensembles of various sizes designed to acquaint proficient instrumentalists with jazz compositions, arrangements, and improvisational procedures, and to promote a high degree of stylistic and technical competence in performance. Open to all students who have been accepted by audition, with assignments made according to proficiency and instrumentation. Completion of course involves, in addition to the regular schedule of rehearsals, participation in public performances by the ensemble.",
+      []
+    ],
+    "MUSC 500": [
+      "Graduate Recital",
+      {
+        "ASG": [
+          "78853",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Gilreath, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "AY": [
+          "77901",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Yeung, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "BDS": [
+          "77899",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Scully, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "BRW": [
+          "77895",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Roidl-Ward, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "CCW": [
+          "77888",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Wu, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "CJD": [
+          "77892",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Daval, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "CLM": [
+          "78781",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "McNeill, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "CR": [
+          "77905",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Robards, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "DJM": [
+          "77904",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "McDonough, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "DMH": [
+          "77882",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Harris, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "EDF": [
+          "77908",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Freivogel, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "GSP": [
+          "77902",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Sanchez Portuguez, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "JD": [
+          "77893",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Dee, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "JEP": [
+          "80181",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Pugh, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "JH": [
+          "77886",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Hickey, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "JLM": [
+          "77896",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Minor, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "JSK": [
+          "77894",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Keeble, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "JTG": [
+          "77889",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Graham, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "JWS": [
+          "80160",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Spencer, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "JWW": [
+          "77885",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Whitaker, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "KMG": [
+          "80172",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Geraldi, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "LRH": [
+          "77883",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Herrera, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "LWG": [
+          "78796",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Gray, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "MRF": [
+          "77907",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Freivogel, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "MT": [
+          "77898",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Tilley, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "NG": [
+          "77887",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Gunn, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "NR": [
+          "77906",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Roman, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "OWD": [
+          "77881",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Davis, O"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "RF": [
+          "77897",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Flores, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "RS": [
+          "77891",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Sennet, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "SJK": [
+          "77903",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Koo, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "ST": [
+          "77900",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Tegge, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "TE": [
+          "77890",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Ehlen, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "TJE": [
+          "77909",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Moldover, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "YGR": [
+          "77884",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Redman, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          17,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Recital presented in partial fulfillment of the requirements for the Master of Music and Doctor of Musical Arts.",
+      []
+    ],
+    "MUSC 501": [
+      "Graduate Level Piano",
+      {
+        "A": [
+          "74435",
+          [
+            [
+              122,
+              "F",
+              "114 Smith Memorial Hall",
+              0,
+              [
+                "Ehlen, T"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "F",
+              "ONLINE",
+              0,
+              [
+                "Ehlen, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "74436",
+          [
+            [
+              51,
+              "F",
+              "220 Smith Memorial Hall",
+              0,
+              [
+                "Sennet, R"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "F",
+              "ONLINE",
+              0,
+              [
+                "Sennet, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "C": [
+          "74437",
+          [
+            [
+              21,
+              "T",
+              "114 Smith Memorial Hall",
+              0,
+              [
+                "Wu, C"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "T",
+              "ONLINE",
+              0,
+              [
+                "Wu, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "D": [
+          "81052",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Tsitsaros, C"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Tsitsaros, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          17,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Study at the graduate level in piano; selected studies from the masterworks in piano literature. Graduate standing in music, or successful completion of a qualifying audition for the appropriate Keyboard faculty.",
+      []
+    ],
+    "MUSC 505": [
+      "Graduate Level Voice",
+      {
+        "A": [
+          "74888",
+          [
+            [
+              56,
+              "M",
+              "220 Smith Memorial Hall",
+              0,
+              [
+                "Redman, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "M",
+              "ONLINE",
+              0,
+              [
+                "Redman, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "74931",
+          [
+            [
+              33,
+              "M",
+              "Location Pending",
+              0,
+              [
+                "Lawrence, A"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "M",
+              "ONLINE",
+              0,
+              [
+                "Lawrence, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "C": [
+          "74932",
+          [
+            [
+              51,
+              "W",
+              "220 Smith Memorial Hall",
+              0,
+              [
+                "Gunn, N"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "W",
+              "ONLINE",
+              0,
+              [
+                "Gunn, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "D": [
+          "74933",
+          [
+            [
+              51,
+              "M",
+              "1030 Music Building",
+              35,
+              [
+                "Harris, D"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "M",
+              "ONLINE",
+              0,
+              [
+                "Harris, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "E": [
+          "74934",
+          [
+            [
+              21,
+              "W",
+              "220 Smith Memorial Hall",
+              0,
+              [
+                "Davis, O"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "W",
+              "ONLINE",
+              0,
+              [
+                "Davis, O"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "F": [
+          "74935",
+          [
+            [
+              51,
+              "W",
+              "220 Smith Memorial Hall",
+              0,
+              [
+                "MacLeod, S"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "W",
+              "ONLINE",
+              0,
+              [
+                "MacLeod, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "G": [
+          "74936",
+          [
+            [
+              0,
+              "F",
+              "220 Smith Memorial Hall",
+              0,
+              [
+                "Herrera, L"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "F",
+              "ONLINE",
+              0,
+              [
+                "Herrera, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Study at the graduate level in voice; selected studies from the masterworks in vocal literature. Graduate standing in music, or successful completion of a qualifying audition for the Voice faculty.",
+      []
+    ],
+    "MUSC 504": [
+      "Graduate Level Collaborative Piano",
+      {
+        "A": [
+          "75875",
+          [
+            [
+              21,
+              "F",
+              "4501C Krannert Center for Perf Arts",
+              46,
+              [
+                "Robards, C"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "F",
+              "ONLINE",
+              0,
+              [
+                "Robards, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "75876",
+          [
+            [
+              21,
+              "F",
+              "4501C Krannert Center for Perf Arts",
+              46,
+              [
+                "Tilley, M"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "F",
+              "ONLINE",
+              0,
+              [
+                "Tilley, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "C": [
+          "78830",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Wu, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          17,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Principles of accompanying singers and instrumentalists, practical experience in accompanying, and facility in sight reading for keyboard performers.",
+      []
+    ],
+    "MUSC 506": [
+      "Graduate Level Lyric Theatre Voice",
+      {
+        "A": [
+          "74938",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Wigley, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "C": [
+          "74937",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Brooks, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          17,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "This is an individualized voice class setting where the student and teacher work exclusively with the technical, musical, and communicative aspects of Lyric Theatre repertoire in a weekly one-on-one setting.",
+      []
+    ],
+    "MUSC 507": [
+      "Graduate Level Vocal Coaching",
+      {
+        "A": [
+          "74941",
+          [
+            [
+              43,
+              "TW",
+              "0354 Music Building",
+              35,
+              [
+                "Robards, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "74942",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Tilley, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "C": [
+          "74944",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Lawrence, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          17,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Individualized instruction in musical expression, language, performance practice, recital, or other specialized repertoire for advanced vocal students by coaching and accompanying faculty.",
+      []
+    ],
+    "MUSC 510": [
+      "Graduate Level Violin",
+      {
+        "A": [
+          "74958",
+          [
+            [
+              9,
+              "T",
+              "2317 Krannert Center for Perf Arts",
+              46,
+              [
+                "Moldover, M"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "T",
+              "ONLINE",
+              0,
+              [
+                "Moldover, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "74960",
+          [
+            [
+              9,
+              "T",
+              "2317 Krannert Center for Perf Arts",
+              46,
+              [
+                "Freivogel, M"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "T",
+              "ONLINE",
+              0,
+              [
+                "Freivogel, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "C": [
+          "74961",
+          [
+            [
+              9,
+              "R",
+              "114 Smith Memorial Hall",
+              0,
+              [
+                "Koo, S"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "R",
+              "ONLINE",
+              0,
+              [
+                "Koo, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Study at the graduate level in violin; selected studies from the masterworks in violin literature. Graduate standing in music, or successful completion of a qualifying audition for the String faculty.",
+      []
+    ],
+    "MUSC 511": [
+      "Graduate Level Viola",
+      {
+        "B": [
+          "74967",
+          [
+            [
+              57,
+              "W",
+              "220 Smith Memorial Hall",
+              0,
+              [
+                "Freivogel, L"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "W",
+              "ONLINE",
+              0,
+              [
+                "Freivogel, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Study at the graduate level in viola; selected studies from the masterworks in viola literature. Graduate standing in music, or successful completion of a qualifying audition for the String faculty.",
+      []
+    ],
+    "MUSC 512": [
+      "Graduate Level Cello",
+      {
+        "A": [
+          "74968",
+          [
+            [
+              9,
+              "R",
+              "2317 Krannert Center for Perf Arts",
+              46,
+              [
+                "McDonough, D"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "R",
+              "ONLINE",
+              0,
+              [
+                "McDonough, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Study at the graduate level in cello; selected studies from the masterworks in cello literature. Graduate standing in music, or successful completion of a qualifying audition for the String faculty.",
+      []
+    ],
+    "MUSC 514": [
+      "Graduate Level Harp",
+      {
+        "A": [
+          "74970",
+          [
+            [
+              32,
+              "T",
+              "0323 Music Building",
+              35,
+              [
+                "Yeung, A"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "T",
+              "ONLINE",
+              0,
+              [
+                "Yeung, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Study at the graduate level in harp; selected studies from the masterworks in harp literature. Graduate standing in music, or successful completion of a qualifying audition for the String faculty.",
+      []
+    ],
+    "MUSC 513": [
+      "Graduate Level Double Bass",
+      {
+        "A": [
+          "74969",
+          [
+            [
+              51,
+              "M",
+              "Location Pending",
+              0,
+              [
+                "Anderson, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          17,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Study at the graduate level in double bass; selected studies from the masterworks in double bass literature. Graduate standing in music, or successful completion of a qualifying audition for the String faculty.",
+      []
+    ],
+    "MUSC 515": [
+      "Graduate Level Guitar",
+      {
+        "A": [
+          "74971",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Sanchez Portuguez, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          17,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Study at the graduate level in guitar; selected studies from the masterworks in guitar literature. Graduate standing in music, or successful completion of a qualifying audition for the String faculty.",
+      []
+    ],
+    "MUSC 520": [
+      "Graduate Level Flute",
+      {
+        "A": [
+          "74972",
+          [
+            [
+              9,
+              "R",
+              "220 Smith Memorial Hall",
+              0,
+              [
+                "Keeble, J"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "R",
+              "ONLINE",
+              0,
+              [
+                "Keeble, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "PIC": [
+          "77655",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Keeble, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          17,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Study at the graduate level in flute; selected studies from the masterworks in flute literature. Graduate standing in music, or successful completion of a qualifying audition for the appropriate applied music faculty.",
+      []
+    ],
+    "MUSC 521": [
+      "Graduate Level Oboe",
+      {
+        "A": [
+          "74973",
+          [
+            [
+              4,
+              "R",
+              "0322 Music Building",
+              35,
+              [
+                "Dee, J"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              4,
+              "T",
+              "0359 Music Building",
+              35,
+              [
+                "Dee, J"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "R",
+              "ONLINE",
+              0,
+              [
+                "Dee, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "EH": [
+          "77563",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Dee, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          17,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Study at the graduate level in oboe; selected studies from the masterworks in oboe literature. Graduate standing in music, or successful completion of a qualifying audition for the appropriate applied music faculty.",
+      []
+    ],
+    "MUSC 522": [
+      "Graduate Level Bassoon",
+      {
+        "A": [
+          "74974",
+          [
+            [
+              4,
+              "T",
+              "0360 Music Building",
+              35,
+              [
+                "Roidl-Ward, B"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              9,
+              "R",
+              "0061A Music Building",
+              35,
+              [
+                "Roidl-Ward, B"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "T",
+              "ONLINE",
+              0,
+              [
+                "Roidl-Ward, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Study at the graduate level in bassoon; selected studies from the masterworks in bassoon literature. Graduate standing in music, or successful completion of a qualifying audition for the appropriate applied music faculty.",
+      []
+    ],
+    "MUSC 523": [
+      "Graduate Level Clarinet",
+      {
+        "A": [
+          "74975",
+          [
+            [
+              9,
+              "R",
+              "0359 Music Building",
+              35,
+              [
+                "Harris, J"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "R",
+              "ONLINE",
+              0,
+              [
+                "Harris, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "74976",
+          [
+            [
+              9,
+              "R",
+              "0359 Music Building",
+              35,
+              [
+                "Minor, J"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "R",
+              "ONLINE",
+              0,
+              [
+                "Minor, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Study at the graduate level in clarinet; selected studies from the masterworks in clarinet literature. Graduate standing in music, or successful completion of a qualifying audition for the appropriate applied music faculty.",
+      []
+    ],
+    "MUSC 524": [
+      "Graduate Level Saxophone",
+      {
+        "A": [
+          "74977",
+          [
+            [
+              9,
+              "T",
+              "2310 Krannert Center for Perf Arts",
+              46,
+              [
+                "Roman, N"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "T",
+              "ONLINE",
+              0,
+              [
+                "Roman, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Study at the graduate level in saxophone; selected studies from the masterworks in saxophone literature. Graduate standing in music, or successful completion of a qualifying audition for the appropriate applied music faculty.",
+      []
+    ],
+    "MUSC 525": [
+      "Graduate Level Trumpet",
+      {
+        "A": [
+          "74978",
+          [
+            [
+              9,
+              "R",
+              "141 Harding Band Building",
+              0,
+              [
+                "Daval, C"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "R",
+              "ONLINE",
+              0,
+              [
+                "Daval, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "76535",
+          [
+            [
+              9,
+              "T",
+              "1030 Music Building",
+              35,
+              [
+                "Gilreath, A"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "T",
+              "ONLINE",
+              0,
+              [
+                "Gilreath, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Study at the graduate level in trumpet; selected studies from the masterworks in trumpet literature. Graduate standing in music, or successful completion of a qualifying audition for the appropriate applied music faculty.",
+      []
+    ],
+    "MUSC 526": [
+      "Graduate Level Horn",
+      {
+        "A": [
+          "74979",
+          [
+            [
+              9,
+              "R",
+              "1030 Music Building",
+              35,
+              [
+                "Scully, B"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "R",
+              "ONLINE",
+              0,
+              [
+                "Scully, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Study at the graduate level in horn; selected studies from the masterworks in horn literature. Graduate standing in music, or successful completion of a qualifying audition for the appropriate applied music faculty.",
+      []
+    ],
+    "MUSC 527": [
+      "Graduate Level Trombone",
+      {
+        "A": [
+          "74980",
+          [
+            [
+              9,
+              "T",
+              "0061A Music Building",
+              35,
+              [
+                "Whitaker, J"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              9,
+              "R",
+              "2310 Krannert Center for Perf Arts",
+              46,
+              [
+                "Whitaker, J"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "T",
+              "ONLINE",
+              0,
+              [
+                "Whitaker, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Study at the graduate level in trombone; selected studies from the masterworks in trombone literature. Graduate standing in music, or successful completion of a qualifying audition for the appropriate applied music faculty.",
+      []
+    ],
+    "MUSC 528": [
+      "Graduate Level Euphonium",
+      {
+        "A": [
+          "74982",
+          [
+            [
+              57,
+              "M",
+              "1030 Music Building",
+              35,
+              [
+                "Tegge, S"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "M",
+              "ONLINE",
+              0,
+              [
+                "Tegge, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Study at the graduate level in euphonium; selected studies from the masterworks in euphonium literature. Graduate standing in music, or successful completion of a qualifying audition for the appropriate applied music faculty.",
+      []
+    ],
+    "MUSC 529": [
+      "Graduate Level Tuba",
+      {
+        "A": [
+          "74983",
+          [
+            [
+              57,
+              "M",
+              "1030 Music Building",
+              35,
+              [
+                "Tegge, S"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "M",
+              "ONLINE",
+              0,
+              [
+                "Tegge, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Study at the graduate level in tuba; selected studies from the masterworks in tuba literature. Graduate standing in music, or successful completion of a qualifying audition for the appropriate applied music faculty.",
+      []
+    ],
+    "MUSC 530": [
+      "Graduate Level Percussion",
+      {
+        "A": [
+          "74984",
+          [
+            [
+              4,
+              "TR",
+              "6 Smith Memorial Hall",
+              0,
+              [
+                "Flores, R",
+                "Graham, J"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "TR",
+              "ONLINE",
+              0,
+              [
+                "Flores, R",
+                "Graham, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "74985",
+          [
+            [
+              4,
+              "TR",
+              "6 Smith Memorial Hall",
+              0,
+              [
+                "Flores, R",
+                "Graham, J"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "TR",
+              "ONLINE",
+              0,
+              [
+                "Flores, R",
+                "Graham, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Study at the graduate level in percussion; selected studies from the masterworks in percussion literature. Graduate standing in music, or successful completion of a qualifying audition for the appropriate applied music faculty.",
+      []
+    ],
+    "MUSC 532": [
+      "Graduate Jazz Saxophone",
+      {
+        "A": [
+          "74987",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "McNeill, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "74988",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Bridgewater, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          17,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Instruction at the graduate level in jazz saxophone normally associated with the jazz idiom.",
+      []
+    ],
+    "MUSC 534": [
+      "Graduate Jazz Trombone",
+      {
+        "A": [
+          "74990",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Pugh, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          17,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Instruction at the graduate level in jazz trombone normally associated with the jazz idiom.",
+      []
+    ],
+    "MUSC 535": [
+      "Graduate Jazz Piano",
+      {
+        "B": [
+          "78003",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Hickey, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "C": [
+          "78751",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Gray, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          17,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Instruction at the graduate level in jazz piano normally associated with the jazz idiom.",
+      []
+    ],
+    "MUSC 536": [
+      "Graduate Jazz Bass",
+      {
+        "A": [
+          "74992",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Gray, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          17,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Instruction at the graduate level in jazz bass normally associated with the jazz idiom.",
+      []
+    ],
+    "MUSC 537": [
+      "Graduate Jazz Guitar",
+      {
+        "A": [
+          "74993",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Gray, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          17,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Instruction at the graduate level in jazz guitar normally associated with the jazz idiom.",
+      []
+    ],
+    "MUSC 538": [
+      "Graduate Jazz Percussion",
+      {
+        "A": [
+          "74994",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Spencer, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          17,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Instruction at the graduate level in jazz percussion normally associated with the jazz idiom.",
+      []
+    ],
+    "MUSC 542": [
+      "Graduate Jazz Strings",
+      {
+        "A": [
+          "77928",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Gray, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          17,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Instruction at the graduate level in jazz strings normally associated with the jazz idiom.",
+      []
     ]
   },
   "caches": {
@@ -5226,7 +11076,12 @@
       "1000 - 1130",
       "1600 - 1800",
       "1330 - 1420",
-      "1730 - 1845"
+      "1730 - 1845",
+      "1930 - 2130",
+      "1900 - 2200",
+      "1300 - 1530",
+      "1900 - 2120",
+      "2000 - 2130"
     ],
     "dateRanges": [],
     "scheduleTypes": [
