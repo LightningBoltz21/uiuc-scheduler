@@ -1,0 +1,105 @@
+{
+  "subject": "AGED",
+  "scrapedAt": 1774838844590,
+  "courseCount": 1,
+  "courses": {
+    "AGED 500": [
+      "Special Topics in Ag Education",
+      {
+        "AGM": [
+          "42582",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Johnson, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "CFP": [
+          "42581",
+          [
+            [
+              8,
+              "M",
+              "Location Pending",
+              0,
+              [
+                "Tracy, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Advanced study in selected phases of agricultural education applicable to agricultural educators in schools, community colleges, universities, cooperative extension, agribusiness, and community and governmental agencies.",
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "ARRANGED",
+      "1400 - 1520",
+      "1230 - 1350",
+      "1100 - 1220",
+      "0930 - 1050",
+      "1330 - 1450",
+      "0900 - 1050",
+      "1200 - 1350",
+      "0830 - 1800"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Online",
+      "Independent Study",
+      "Lecture-Discussion",
+      "Conference",
+      "Internship",
+      "Study Abroad"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.1035872,
+        "long": -88.2306061
+      },
+      {
+        "lat": 40.1108856,
+        "long": -88.2269806
+      },
+      {
+        "lat": 40.10628,
+        "long": -88.22621
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}

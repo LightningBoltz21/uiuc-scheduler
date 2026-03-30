@@ -1,0 +1,249 @@
+{
+  "subject": "ACE",
+  "scrapedAt": 1774838835077,
+  "courseCount": 7,
+  "courses": {
+    "ACE 295": [
+      "Independent Study",
+      {
+        "": [
+          "32440",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Individual or small group research, special problems, or other studies under the supervision of an appropriate member of the faculty.",
+      []
+    ],
+    "ACE 294": [
+      "On-Campus Internship",
+      {
+        "": [
+          "10057",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Supervised, on-campus, learning experience with faculty engaged in research.",
+      []
+    ],
+    "ACE 293": [
+      "Off-Campus Internship",
+      {
+        "": [
+          "10044",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Supervised, off-campus experience in a field directly pertaining to a subject matter in agricultural and consumer economics.",
+      []
+    ],
+    "ACE 499": [
+      "Contemporary Topics in ACE",
+      {
+        "": [
+          "10078",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Group discussion or an experimental course on a special topic in agricultural and consumer economics.",
+      []
+    ],
+    "ACE 396": [
+      "Honors Research or Thesis",
+      {
+        "": [
+          "10068",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Individual research, special problems, thesis, development and/or design work under the direction of the Honors advisor.",
+      []
+    ],
+    "ACE 591": [
+      "Independent Study",
+      {
+        "": [
+          "10085",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Individual research work under the supervision of an appropriate member of the faculty.",
+      []
+    ],
+    "ACE 592": [
+      "Special Topics",
+      {
+        "GIE": [
+          "37068",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Paulson, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Group instruction on a special topic under the direction of one or more members of the faculty.",
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "ARRANGED",
+      "1400 - 1520",
+      "1230 - 1350",
+      "1100 - 1220",
+      "0930 - 1050"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Online",
+      "Independent Study",
+      "Lecture-Discussion",
+      "Conference"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.1035872,
+        "long": -88.2306061
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}
