@@ -1,7 +1,7 @@
 {
   "subject": "ARCH",
-  "scrapedAt": 1775443791669,
-  "courseCount": 30,
+  "scrapedAt": 1775443823395,
+  "courseCount": 49,
   "courses": {
     "ARCH 101": [
       "Introduction to Architecture",
@@ -1780,6 +1780,940 @@
       [],
       "Soil properties and site exploration; stresses in soils; soil consolidation and settlement; shear strength of soils; bearing capacity; design of spread and combined footings; mats; pile foundations; lateral soil pressure and retaining walls.",
       []
+    ],
+    "ARCH 563": [
+      "Human-centric Research for Designed Environments",
+      {
+        "A": [
+          "58526",
+          [
+            [
+              42,
+              "TRF",
+              "1112 Literatures, Cultures, & Ling",
+              5,
+              [
+                "Zook, J"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "TRF",
+              "ONLINE",
+              1,
+              [
+                "Zook, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduces research methods and techniques for investigating the relationship between people and designed environments they inhabit. Approaches for gathering and analyzing social and behavioral data are introduced. Results are applied as evidence in environmental design decision-making to achieve healthier environments.",
+      []
+    ],
+    "ARCH 558": [
+      "Structural Wood Design",
+      {
+        "W": [
+          "43404",
+          [
+            [
+              19,
+              "TR",
+              "G48 Literatures, Cultures, & Ling",
+              5,
+              [
+                "Krishnan, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Analysis and design of wood structures for buildings; response of wood buildings to gravity and lateral loads; design of structural elements: beams, columns, beam-columns, members in tension, and trusses using NDS specifications; connections; plywood panels; diaphragms and shear walls.",
+      []
+    ],
+    "ARCH 571": [
+      "Design: Detail and Architectonics",
+      {
+        "E0": [
+          "55654",
+          [
+            [
+              75,
+              "MW",
+              "Location Pending",
+              1,
+              [
+                "Mies, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          6,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "E1": [
+          "36861",
+          [
+            [
+              75,
+              "MW",
+              "311 Temple Hoyne Buell Hall",
+              28,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          6,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "E2": [
+          "36868",
+          [
+            [
+              75,
+              "MW",
+              "217 Temple Hoyne Buell Hall",
+              28,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          6,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Design studio investigations of multiple techniques and methodologies addressing the design and fabrication of small-scale architectural constructions, explorations of specific sites and places, and interdisciplinary projects. Field trips may be required. Shop safety orientation required.",
+      []
+    ],
+    "ARCH 572": [
+      "Design: Health and Well-being",
+      {
+        "E1": [
+          "30034",
+          [
+            [
+              75,
+              "MW",
+              "311 Temple Hoyne Buell Hall",
+              28,
+              [
+                "Ekici, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          6,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "E2": [
+          "56061",
+          [
+            [
+              75,
+              "MW",
+              "305 Temple Hoyne Buell Hall",
+              28,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          6,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "E3": [
+          "56062",
+          [
+            [
+              75,
+              "MW",
+              "211 Temple Hoyne Buell Hall",
+              28,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          6,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Design studio explorations responding to social, economic, political, and behavioral dimensions of human existence and settlement to encourage healthier designed environments. Projects investigate the experience of physical environments at the human scale and socially sustaining design strategies addressing diverse human needs. Field trips may be required.",
+      []
+    ],
+    "ARCH 574": [
+      "Design: Architecture and Urban Design",
+      {
+        "B": [
+          "78566",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Lapunzina, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          6,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "E1": [
+          "30036",
+          [
+            [
+              75,
+              "MW",
+              "317 Temple Hoyne Buell Hall",
+              28,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          6,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "E3": [
+          "56064",
+          [
+            [
+              75,
+              "MW",
+              "201 Temple Hoyne Buell Hall",
+              28,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          6,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "E4": [
+          "56065",
+          [
+            [
+              75,
+              "MW",
+              "Location Pending",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          6,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Design studio investigations of issues that impact urban habitats, buildings and people. Architecture and urban design, preservation, and adaptation of new and existing buildings, cities, districts, public realms and urban environments. Designing and preserving buildings and communities in a sustainable manner. Field trips may be required.",
+      []
+    ],
+    "ARCH 573": [
+      "Design: Technology and Performance",
+      {
+        "E1": [
+          "36900",
+          [
+            [
+              75,
+              "MW",
+              "305 Temple Hoyne Buell Hall",
+              28,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          6,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Design studio investigations of buildings and systems focusing on structure, enclosure, technology and performance. Integration of building materials, components and systems and their impact on the design, construction, and sustainability of buildings. Field trips may be required.",
+      []
+    ],
+    "ARCH 575": [
+      "Integrative Architecture Design Studio",
+      {
+        "E1": [
+          "76365",
+          [
+            [
+              75,
+              "MW",
+              "207 Temple Hoyne Buell Hall",
+              28,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          6,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "E2": [
+          "77708",
+          [
+            [
+              75,
+              "MW",
+              "205 Temple Hoyne Buell Hall",
+              28,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          6,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "E4": [
+          "80989",
+          [
+            [
+              75,
+              "MW",
+              "301 Temple Hoyne Buell Hall",
+              28,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          6,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Schematic design and development of a public building focusing on the integration of environmental, structural, and building envelope systems, while also addressing issues of accessibility, life safety, environmental stewardship, and site conditions. Field trips may be required.",
+      []
+    ],
+    "ARCH 588": [
+      "Independent Study",
+      {
+        "": [
+          "77997",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "CHI": [
+          "77998",
+          [
+            [
+              78,
+              "M",
+              "Location Pending",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          12,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Independent guided study and investigation in a selected area of architecture.",
+      []
+    ],
+    "ARCH 577": [
+      "Theories of Architecture",
+      {
+        "AD1": [
+          "60588",
+          [
+            [
+              3,
+              "F",
+              "102A Architecture Building",
+              13,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AD2": [
+          "60589",
+          [
+            [
+              5,
+              "F",
+              "102A Architecture Building",
+              13,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AD3": [
+          "60590",
+          [
+            [
+              3,
+              "F",
+              "102B Architecture Building",
+              13,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AD5": [
+          "60592",
+          [
+            [
+              4,
+              "F",
+              "102A Architecture Building",
+              13,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AL": [
+          "55619",
+          [
+            [
+              1,
+              "TR",
+              "2 Education Building",
+              14,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Review of principles of architectural design; factors in programming architectural requirements; design development; and evaluation and criticism.",
+      []
+    ],
+    "ARCH 589": [
+      "PhD Colloquium",
+      {
+        "PH1": [
+          "55659",
+          [
+            [
+              52,
+              "W",
+              "205 Architecture Building",
+              13,
+              [
+                "Johnson, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          12,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Provides Ph.D. students insight on the opportunities, responsibilities and expectations of various career paths, including academia, industry, and government. Core responsibilities - research, teaching and service - required of academic faculty will be discussed, along with important resources and strategies to aid students in obtaining a position and plotting a successful career path.",
+      []
+    ],
+    "ARCH 591": [
+      "Special Problems in Architectural History and Theory",
+      {
+        "B": [
+          "39914",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Lapunzina, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          12,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Examines historical and/or theoretical problems in the history of architecture, the built environment, and related designed objects and arts in relation to emerging, interdisciplinary research. Topics can include thematic investigations of historical, conceptual, aesthetic, and theoretical problems; the work of particular architects and/or patrons; specific buildings or environments in a single or multiple geographic regions or periods.",
+      []
+    ],
+    "ARCH 590": [
+      "Directed Research",
+      {
+        "": [
+          "57149",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Nature and scope of projects to be determined through consultation between student and faculty advisor; open to architecture and landscape architecture majors as well as those from other disciplines who wish to engage in interdisciplinary work.",
+      []
+    ],
+    "ARCH 592": [
+      "Special Problems in Urbanism",
+      {
+        "DUP": [
+          "80167",
+          [
+            [
+              52,
+              "TR",
+              "6E Architecture Building",
+              13,
+              [
+                "Isern, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          12,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Addresses emerging issues and research focused on cities, regions and urbanism, with particular focus on issues pertinent to architecture. Topics may include urban theories, morphological studies, social, political and economic influences in cities, sustainable urbanism, comparative analysis or cities, and urbanism in global contexts.",
+      []
+    ],
+    "ARCH 593": [
+      "Special Problems in Detail and Fabrication",
+      {
+        "FAB": [
+          "77700",
+          [
+            [
+              5,
+              "MWF",
+              "205 Architecture Building",
+              13,
+              [
+                "Hemingway, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "The investigation and study of the design and fabrication of architectural components and assemblies.",
+      []
+    ],
+    "ARCH 594": [
+      "Special Problems in Building Performance",
+      {
+        "BER": [
+          "73695",
+          [
+            [
+              0,
+              "TR",
+              "6E Architecture Building",
+              13,
+              [
+                "Strand, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          12,
+          0,
+          [],
+          -1
+        ],
+        "EXP": [
+          "77701",
+          [
+            [
+              15,
+              "R",
+              "102B Architecture Building",
+              13,
+              [
+                "Murray, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          12,
+          0,
+          [],
+          -1
+        ],
+        "HPB": [
+          "77702",
+          [
+            [
+              79,
+              "T",
+              "ARR Architecture Annex",
+              1,
+              [
+                "Yi, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          12,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "In-depth investigation of emerging issues and specific areas of research interest beyond what is covered in graduate courses of regular offering in the area of building performance. Students, as individuals or in groups, are expected to propose a research plan and methods for a specific topic of research interest in consultation with the instructor, and execute it under the guidance of the instructor through consultation on a regular basis.",
+      []
+    ],
+    "ARCH 595": [
+      "Spec Prob Struct Theory & Des",
+      {
+        "SP": [
+          "31403",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          12,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Individual or group investigation and study in architectural engineering application; research in economy and design in correlation with architectural, mechanical, and structural requirements.",
+      []
+    ],
+    "ARCH 597": [
+      "Special Problems in Architectural Design",
+      {
+        "": [
+          "41799",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Individual investigation of building types and systems, aesthetic theories, programming and other problems in architectural design.",
+      []
+    ],
+    "ARCH 598": [
+      "Specialized Architectural Practice",
+      {
+        "": [
+          "67454",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "This course adds an academic dimension to professionally supervised field experiences in which problems in architectural design and technology are defined, researched, and solved. Advanced doctoral students are introduced to applied research processes in any of architecture's sub-disciplines. Sites of applied research may include commercial firms, not-for-profit organizations, and government agencies. Students work in school-approved firms or agencies of their choice. Written accounts of work accomplished, documentation of research questions developed and pursued, and reflective experiential learning reports must be submitted for evaluation. Field experiences may be part time or full time.",
+      []
+    ],
+    "ARCH 599": [
+      "Thesis Research",
+      {
+        "E0": [
+          "10349",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "For doctoral students in Architecture who have completed their required coursework and are working on their dissertations or who are completing their dissertation proposals prior to their preliminary examinations. Consists of focused writing of the dissertation or proposal as directed by Dissertation Advisor. Arranged sessions provide time devoted to meeting writing goals; discussion of the writing process; advisor feedback on students' writing, and guidance on how to make progress on the writing. Reserved for use by Ph.D. students in the writing phase of their dissertation work or in the semester leading to their preliminary examinations. In extraordinary cases it may be approved for use by M.S. students submitting a written thesis.",
+      []
     ]
   },
   "caches": {
@@ -1861,7 +2795,9 @@
       "0900 - 1150",
       "1300 - 1750",
       "1530 - 1820",
-      "1830 - 1950"
+      "1830 - 1950",
+      "0900 - 1200",
+      "0800 - 1050"
     ],
     "dateRanges": [],
     "scheduleTypes": [
