@@ -1,685 +1,670 @@
 {
-  "subject": "EDUC",
-  "scrapedAt": 1775444139607,
-  "courseCount": 8,
+  "subject": "GLBL",
+  "scrapedAt": 1775444263993,
+  "courseCount": 19,
   "courses": {
-    "EDUC 102": [
-      "Freshman Honors Seminar",
+    "GLBL 118": [
+      "Natural Disasters",
       {
         "A": [
-          "54753",
+          "41060",
+          [
+            [
+              6,
+              "MWF",
+              "2079 Natural History Building",
+              38,
+              [
+                "Johnson, T",
+                "Li, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "59929",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Austin, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as ESE 118 and GEOL 118. See GEOL 118.",
+      []
+    ],
+    "GLBL 199": [
+      "Undergraduate Open Seminar",
+      {
+        "A": [
+          "65741",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Chih, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          6,
+          10,
+          0,
+          [],
+          -1
+        ],
+        "GSL": [
+          "63674",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Ogwal, S",
+                "Schrag, D",
+                "Wedig, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          6,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "See Class Schedule for topics.",
+      []
+    ],
+    "GLBL 100": [
+      "Intro to Global Studies",
+      {
+        "A": [
+          "54575",
+          [
+            [
+              1,
+              "TR",
+              "329 Davenport Hall",
+              8,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "54577",
+          [
+            [
+              40,
+              "TR",
+              "310 David Kinley Hall",
+              7,
+              [
+                "Fogelman, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "C": [
+          "54856",
+          [
+            [
+              36,
+              "MW",
+              "145 Armory",
+              25,
+              [
+                "Schrag, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "D": [
+          "60712",
+          [
+            [
+              34,
+              "MW",
+              "145 Armory",
+              25,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "E": [
+          "61401",
+          [
+            [
+              21,
+              "MW",
+              "111A Pennsylvania Lounge Bld - PAR",
+              1,
+              [
+                "Schrag, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "F": [
+          "54580",
+          [
+            [
+              19,
+              "TR",
+              "329 Davenport Hall",
+              8,
+              [
+                "Wedig, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Foundation course for understanding a range of contemporary issues and learning to analyze them from multiple disciplinary perspectives. Students consider globalizing trends within themes of wealth and poverty; population, cultures, and human rights; environment and sustainability; and governance, conflict, and cooperation. Course objectives are to enhance knowledge of human cultures, their interactions and impacts on the world; develop skills for successfully negotiating realities of contemporary societies; and promote values for global learning, diversity, and sustainable futures.",
+      []
+    ],
+    "GLBL 201": [
+      "Energy Systems",
+      {
+        "I2": [
+          "72555",
+          [
+            [
+              44,
+              "MTWR",
+              "Location Pending",
+              1,
+              [
+                "Stubbins, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "I3": [
+          "48085",
+          [
+            [
+              44,
+              "MTWR",
+              "Location Pending",
+              1,
+              [
+                "Stubbins, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "Q": [
+          "41080",
+          [
+            [
+              5,
+              "MW",
+              "4029 Campus Instructional Facility",
+              23,
+              [
+                "Uddin, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "Q2": [
+          "49710",
+          [
+            [
+              5,
+              "F",
+              "2039 Campus Instructional Facility",
+              23,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              5,
+              "MW",
+              "4029 Campus Instructional Facility",
+              23,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as NPRE 201. See NPRE 201.",
+      []
+    ],
+    "GLBL 220": [
+      "Governance",
+      {
+        "A": [
+          "60293",
+          [
+            [
+              34,
+              "TR",
+              "242 Armory",
+              25,
+              [
+                "Schrag, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Gateway course into the Governance thematic area for Global Studies majors providing an introduction to important themes, problems and approaches to global governance in a series of issue areas, including security, economics, migration, and the environment. Covers the historical development of the international system as well as contemporary controversies. Case studies are used to explore the strength and weaknesses of current governance approaches, and students will conduct independent research into existing structures.",
+      []
+    ],
+    "GLBL 221": [
+      "Geographies of Global Conflict",
+      {
+        "AD1": [
+          "66496",
+          [
+            [
+              7,
+              "W",
+              "137C Davenport Hall",
+              8,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AD2": [
+          "66497",
+          [
+            [
+              3,
+              "F",
+              "137C Davenport Hall",
+              8,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AD3": [
+          "66498",
+          [
+            [
+              4,
+              "F",
+              "137C Davenport Hall",
+              8,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "66495",
+          [
+            [
+              4,
+              "MW",
+              "223 Gregory Hall",
+              6,
+              [
+                "Jefferson, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as GGIS 221. See GGIS 221.",
+      []
+    ],
+    "GLBL 225": [
+      "Career Development:Internships",
+      {
+        "A": [
+          "63888",
+          [
+            [
+              27,
+              "T",
+              "G48 Literatures, Cultures, & Ling",
+              5,
+              [
+                "Ogwal, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Teaches students with global studies academic interests how to identify internships and service-learning learning opportunities relevant to their major. Students prepare application materials, conduct informational interviews, participate in mock job interviews, explore networking strategies, and create a career narrative that represents their academic interests and skills. Prepares students on what to expect from their internships and how to develop and apply leadership skills.",
+      []
+    ],
+    "GLBL 240": [
+      "Global Health",
+      {
+        "A": [
+          "63656",
+          [
+            [
+              41,
+              "MW",
+              "ONLINE",
+              1,
+              [
+                "Bonatti, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to issues and problems in global health. As the world becomes more and more interconnected it is important for students to be aware of health issues from a global perspective. We will consider a variety of issues that influence the health of different population and countries. The topics to be discussed include: the environment, nutrition, education, the medical system, culture, and agency involvement in health. Case studies will be used to demonstrate some successes at addressing these issues and problems that were encountered.",
+      []
+    ],
+    "GLBL 272": [
+      "Language and Culture in Turkey",
+      {
+        "A": [
+          "71546",
+          [
+            [
+              9,
+              "T",
+              "1136 Literatures, Cultures, & Ling",
+              5,
+              [
+                "Saadah, E"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              9,
+              "R",
+              "ONLINE",
+              1,
+              [
+                "Saadah, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as ANTH 272, SAME 272, and TURK 270. See TURK 270.",
+      []
+    ],
+    "GLBL 283": [
+      "Intro to Intl Security",
+      {
+        "AD2": [
+          "45261",
+          [
+            [
+              3,
+              "F",
+              "207 Psychology Building",
+              4,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AD3": [
+          "45262",
+          [
+            [
+              7,
+              "F",
+              "310 David Kinley Hall",
+              7,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AD6": [
+          "51710",
+          [
+            [
+              4,
+              "F",
+              "207 Psychology Building",
+              4,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "45259",
           [
             [
               38,
-              "W",
-              "17 Education Building",
-              14,
-              [
-                "Mason, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          1,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Provides an introduction to critical issues in education with focus on selected contemporary issues in the field; emphasis is on critical analysis and reflection on relationships between teachers, schools, and society.",
-      []
-    ],
-    "EDUC 101": [
-      "Education Orientation Seminar",
-      {
-        "AD1": [
-          "65549",
-          [
-            [
-              37,
-              "M",
-              "323 Education Building",
-              14,
-              [
-                "Mason, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          1,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AD2": [
-          "65550",
-          [
-            [
-              37,
-              "M",
-              "242 Education Building",
-              14,
-              [
-                "Mason, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          1,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AD3": [
-          "65551",
-          [
-            [
-              37,
-              "M",
-              "389 Education Building",
-              14,
-              [
-                "Mason, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          1,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AD4": [
-          "78105",
-          [
-            [
-              37,
-              "M",
-              "376 Education Building",
-              14,
-              [
-                "Mason, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          1,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AD5": [
-          "81007",
-          [
-            [
-              37,
-              "M",
-              "385 Education Building",
-              14,
-              [
-                "Mason, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          1,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AE1": [
-          "45811",
-          [
-            [
-              7,
-              "M",
-              "213 Gregory Hall",
-              6,
-              [
-                "Mason, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          1,
-          2,
-          0,
-          [],
-          -1
-        ],
-        "BD1": [
-          "65552",
-          [
-            [
-              37,
-              "R",
-              "22 Education Building",
-              14,
-              [
-                "Mason, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          1,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "BD2": [
-          "65553",
-          [
-            [
-              37,
-              "R",
-              "389 Education Building",
-              14,
-              [
-                "Mason, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          1,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "BD3": [
-          "65554",
-          [
-            [
-              37,
-              "R",
-              "385 Education Building",
-              14,
-              [
-                "Mason, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          1,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "BD4": [
-          "80260",
-          [
-            [
-              37,
-              "R",
-              "G18 Literatures, Cultures, & Ling",
-              5,
-              [
-                "Mason, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          1,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "BD5": [
-          "81008",
-          [
-            [
-              37,
-              "R",
-              "236 Wohlers Hall",
-              20,
-              [
-                "Mason, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          1,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "BE1": [
-          "45812",
-          [
-            [
-              7,
-              "R",
-              "62 Krannert Art Museum",
-              36,
-              [
-                "Mason, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          1,
-          2,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Informational orientation seminar for Education majors to enhance their understanding of college life and the field of education as a profession.",
-      []
-    ],
-    "EDUC 199": [
-      "Undergraduate Open Seminar",
-      {
-        "LF": [
-          "75365",
-          [
-            [
-              44,
-              "M",
-              "64 Allen Residence Hall",
-              1,
-              [
-                "Fink, L"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          6,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "NS2": [
-          "78260",
-          [
-            [
-              152,
-              "S",
-              "Location Pending",
-              1,
-              [
-                "Sanden, N"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              44,
-              "M",
-              "Location Pending",
-              1,
-              [
-                "Sanden, N"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          6,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "NS3": [
-          "78261",
-          [
-            [
-              152,
-              "S",
-              "Location Pending",
-              1,
-              [
-                "Sanden, N"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              33,
-              "T",
-              "Location Pending",
-              1,
-              [
-                "Sanden, N"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          6,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "SA2": [
-          "75979",
-          [
-            [
-              1,
-              "W",
-              "323 Education Building",
-              14,
-              [
-                "Threadgill, R"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          6,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "SAS": [
-          "78882",
-          [
-            [
-              1,
-              "W",
-              "323 Education Building",
-              14,
-              [
-                "Threadgill, R"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          6,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "VSI": [
-          "76398",
-          [
-            [
-              8,
-              "",
-              "ONLINE",
-              1,
-              [
-                "Minniear, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          6,
-          3,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "See class schedule for topics.",
-      []
-    ],
-    "EDUC 201": [
-      "Identity and Difference in Education",
-      {
-        "AD1": [
-          "64441",
-          [
-            [
-              32,
-              "W",
-              "325 David Kinley Hall",
-              7,
-              [
-                "Carvalho de Castro, V"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AD2": [
-          "64442",
-          [
-            [
-              32,
-              "W",
-              "385 Education Building",
-              14,
-              [
-                "Carvalho de Castro, V"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AD3": [
-          "64443",
-          [
-            [
-              32,
-              "R",
-              "42A Education Building",
-              14,
-              [
-                "Carvalho de Castro, V"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AD4": [
-          "64444",
-          [
-            [
-              33,
-              "W",
-              "242 Education Building",
-              14,
-              [
-                "Carvalho de Castro, V"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AD5": [
-          "64445",
-          [
-            [
-              16,
-              "R",
-              "166 Education Building",
-              14,
-              [
-                "Carvalho de Castro, V"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AD6": [
-          "64446",
-          [
-            [
-              16,
-              "W",
-              "242 Bevier Hall",
+              "TR",
+              "132 Bevier Hall",
               2,
               [
-                "Carvalho de Castro, V"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AD7": [
-          "64447",
-          [
-            [
-              16,
-              "R",
-              "17 Education Building",
-              14,
-              [
-                "Carvalho de Castro, V"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "LE1": [
-          "64440",
-          [
-            [
-              4,
-              "T",
-              "134 Temple Hoyne Buell Hall",
-              28,
-              [
-                "Carvalho de Castro, V"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          2,
-          0,
-          [],
-          -1
-        ],
-        "LE2": [
-          "73455",
-          [
-            [
-              4,
-              "T",
-              "134 Temple Hoyne Buell Hall",
-              28,
-              [
-                "Carvalho de Castro, V"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          2,
-          0,
-          [],
-          -1
-        ],
-        "LE3": [
-          "73456",
-          [
-            [
-              4,
-              "T",
-              "134 Temple Hoyne Buell Hall",
-              28,
-              [
-                "Carvalho de Castro, V"
+                "Unassigned Instructor"
               ],
               -1,
               -1,
@@ -694,272 +679,342 @@
         ]
       },
       [],
-      "Focuses on the role of identity in schooling and the way in which identity is socially constructed. Examine how power and privilege impact equity and opportunities based on socially constructed identities such as race, social class, gender, sexual identity, language, (dis)ability, and nationalism. Explore asset-based frameworks that are identity affirming and counter deficit-based perspectives. This course is designed for students interested in reflecting on their own experiences as learners by critically examining their socially constructed identities and \"ways of knowing\" and the societal implications of these experiences. It is also for those considering careers in teaching, and anyone interested in reflecting on how issues of inclusion, exclusion, power, and privilege play out in education.",
+      null,
       []
     ],
-    "EDUC 205": [
-      "Introduction to Learning and Education Studies",
+    "GLBL 296": [
+      "Global St Foundation Seminar",
+      {
+        "KG": [
+          "70589",
+          [
+            [
+              51,
+              "T",
+              "137C Davenport Hall",
+              8,
+              [
+                "Kim, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "UP": [
+          "54533",
+          [
+            [
+              33,
+              "M",
+              "Location Pending",
+              1,
+              [
+                "Un, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Examination of current controversies and larger ethical issues in today's global society. Topics could include: immigration, global environmental debates, and population issues.",
+      []
+    ],
+    "GLBL 350": [
+      "Poverty in a Global Context",
       {
         "A": [
-          "81229",
+          "65017",
           [
             [
-              6,
+              60,
               "MW",
-              "37 Education Building",
-              14,
+              "G36 Literatures, Cultures, & Ling",
+              5,
               [
-                "Mason, C"
+                "Fogelman, C"
               ],
               -1,
               -1,
               -1
             ]
           ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Examines global poverty in the context of international development debates an practice. Despite global commitments (for example, the Millennium Development Goals), decades of research, and new and innovative policies, the \"solution\" to widespread and lasting poverty alleviation remains elusive. Class will define poverty and how it is measured, considered who is poor and why some people are more vulnerable to the negative effects of poverty than others, and examine what causes some countries to remain poor.",
+      []
+    ],
+    "GLBL 440": [
+      "Global Health: Interventions & Evaluations",
+      {
+        "A": [
+          "66131",
+          [
+            [
+              41,
+              "TR",
+              "ONLINE",
+              1,
+              [
+                "Bonatti, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "How do contemporary societies confront global health challenges, and how can we assess the success of intervention programs? This course offers hands-on experience to develop, evaluate, and enhance plans that address today's pressing global health challenges. Students will select a key global health issue, analyze it through a multidisciplinary lens—combining biomedical insights with social determinants of health—and apply project design skills to create effective interventions.",
+      []
+    ],
+    "GLBL 481": [
+      "Writing on Technol & Security",
+      {
+        "A": [
+          "40866",
+          [
+            [
+              9,
+              "TR",
+              "3038 Campus Instructional Facility",
+              23,
+              [
+                "Roy, W"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "A4": [
+          "69300",
+          [
+            [
+              9,
+              "TR",
+              "3038 Campus Instructional Facility",
+              23,
+              [
+                "Roy, W"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as NPRE 481. See NPRE 481.",
+      []
+    ],
+    "GLBL 499": [
+      "Special Topics",
+      {
+        "MM": [
+          "72151",
+          [
+            [
+              39,
+              "TR",
+              "11 Psychology Building",
+              4,
+              [
+                "Marshall, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Selected reading and research in Global Studies. See schedule for current topics.",
+      []
+    ],
+    "GLBL 494": [
+      "Research Methods I",
+      {
+        "A": [
+          "54276",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Fogelman, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Optional Capstone experience for Global Studies students. Students will develop research, communication and presentation skills and develop a proposal for an independent research project, goals and timeline. The proposal will include a literature review and methods section for their final project. Topics include: research approaches, design and implementation, as well as methods, analysis and ethics of data collection.",
+      []
+    ],
+    "GLBL 500": [
+      "Global Society",
+      {
+        "DT": [
+          "69246",
+          [
+            [
+              167,
+              "F",
+              "ONLINE",
+              1,
+              [
+                "Tonini, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "TD": [
+          "80975",
+          [
+            [
+              167,
+              "F",
+              "Location Pending",
+              1,
+              [
+                "Tonini, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
           2,
           0,
-          0,
           [],
           -1
         ]
       },
       [],
-      "Introduces students to foundational ideas in learning and education studies that extend beyond teaching in a traditional classroom context, including those related to educational technology; diversity, equity, and inclusion; workforce training and development; and education policy. Students will explore careers and opportunities related to these ideas and develop their own career and degree plans.",
+      "Seminar introducing global studies and the contested concepts of globalization. Students examine three propositions: the existence of a global society, flaws in its core institutions (state, markets, and democracy), and risks that arise absent reform. The course builds a theoretical foundation on governance frameworks (Order, Welfare, and Legitimacy) while developing practical skills through policy briefs. This dual approach equips students to analyze global phenomena and propose actionable reforms for a more equitable global order.",
       []
     ],
-    "EDUC 202": [
-      "Social Justice, School and Society",
+    "GLBL 570": [
+      "Methodologies of Global Studies",
       {
-        "AD1": [
-          "68060",
+        "A": [
+          "81386",
           [
             [
-              51,
-              "W",
-              "389 Education Building",
-              14,
+              168,
+              "T",
+              "1065 Lincoln Hall",
+              9,
               [
-                "Unassigned Instructor"
+                "Guth, A"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          3,
-          1,
+          4,
+          0,
           0,
           [],
           -1
         ],
-        "AD2": [
-          "68061",
+        "AG": [
+          "81388",
           [
             [
-              16,
-              "R",
-              "109 Sch of Info Sciences Bldg",
-              1,
-              [
-                "Unassigned Instructor"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AD3": [
-          "68062",
-          [
-            [
-              18,
-              "F",
-              "170 Wohlers Hall",
-              20,
-              [
-                "Unassigned Instructor"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AD4": [
-          "68063",
-          [
-            [
-              32,
-              "F",
-              "ONLINE",
-              1,
-              [
-                "Unassigned Instructor"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          8,
-          0,
-          [],
-          -1
-        ],
-        "AD5": [
-          "71371",
-          [
-            [
-              18,
-              "W",
-              "236 Wohlers Hall",
-              20,
-              [
-                "Unassigned Instructor"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AD6": [
-          "78106",
-          [
-            [
-              16,
-              "W",
-              "221 Gregory Hall",
-              6,
-              [
-                "Unassigned Instructor"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AD7": [
-          "80898",
-          [
-            [
-              51,
-              "F",
-              "ONLINE",
-              1,
-              [
-                "Unassigned Instructor"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          8,
-          0,
-          [],
-          -1
-        ],
-        "LE1": [
-          "68059",
-          [
-            [
-              4,
+              168,
               "T",
               "ONLINE",
               1,
               [
-                "Gutierrez, R"
+                "Guth, A"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          3,
           4,
-          0,
-          [],
-          -1
-        ],
-        "LE2": [
-          "73473",
-          [
-            [
-              4,
-              "T",
-              "ONLINE",
-              1,
-              [
-                "Gutierrez, R"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
           3,
-          4,
-          0,
-          [],
-          -1
-        ],
-        "LE3": [
-          "73474",
-          [
-            [
-              4,
-              "T",
-              "ONLINE",
-              1,
-              [
-                "Gutierrez, R"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          4,
           0,
           [],
           -1
         ]
       },
       [],
-      "Examines the nature of justice and the dynamics of a pluralistic society to derive a conception of social justice. Working with this conception, it asks how schools function to perpetuate and/or remediate social injustice. The course will consider the history and nature of schooling, issues of access and tracking, and notions of the public and the common. The course is designed for students interested in reflecting on their own educational histories, for those considering careers in teaching, and for all future parents and citizens needing to be able to reflect critically on justice, school, and society.",
+      "Explores research methodologies within the social sciences and humanities that are often used for research concerning global and globalized problems. Examines both qualitative and quantitative methods with the aim of introducing students to tools and techniques that can be used in professional settings. Focuses on modeling, GIS, statistics, and other quantitative methods and also examines qualitative research methods. Rather than mastery of any one technology or method, this course seeks to build conversance with a variety of methods.",
       []
     ],
-    "EDUC 299": [
-      "Education Study Abroad",
+    "GLBL 580": [
+      "Energy and Global Security",
       {
-        "STA": [
-          "77612",
+        "A": [
+          "81389",
           [
             [
               8,
@@ -967,150 +1022,22 @@
               "ONLINE",
               1,
               [
-                "Witt, A"
+                "Unassigned Instructor"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          18,
-          13,
+          4,
+          0,
           0,
           [],
           -1
         ]
       },
       [],
-      "Provides credit toward the undergraduate degree for study at approved, accredited foreign institutions or approved overseas programs. Final determination of credit is made upon the student's completion of the work. College of Education students studying abroad on a Campus or College of Education program should enroll in 299 as a placeholder course for a semester length study abroad and in 499 for short term study abroad programs.",
-      []
-    ],
-    "EDUC 499": [
-      "Education Abroad",
-      {
-        "GSA": [
-          "71150",
-          [
-            [
-              8,
-              "",
-              "ONLINE",
-              1,
-              [
-                "Liu, W",
-                "Minniear, J",
-                "Witt, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          3,
-          0,
-          [],
-          -1
-        ],
-        "IGS": [
-          "69728",
-          [
-            [
-              8,
-              "",
-              "ONLINE",
-              1,
-              [
-                "Liu, W",
-                "Minniear, J",
-                "Witt, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          3,
-          0,
-          [],
-          -1
-        ],
-        "SMA": [
-          "71149",
-          [
-            [
-              8,
-              "",
-              "ONLINE",
-              1,
-              [
-                "Liu, W",
-                "Minniear, J",
-                "Witt, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          3,
-          0,
-          [],
-          -1
-        ],
-        "SR": [
-          "72828",
-          [
-            [
-              8,
-              "",
-              "ONLINE",
-              1,
-              [
-                "Liu, W",
-                "Minniear, J",
-                "Witt, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          3,
-          0,
-          [],
-          -1
-        ],
-        "WBS": [
-          "69727",
-          [
-            [
-              8,
-              "",
-              "ONLINE",
-              1,
-              [
-                "Liu, W",
-                "Minniear, J",
-                "Witt, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          3,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "This course will serve as a foundation for your education abroad experience. The class will center on the experience of travel as it relates to education - your own education, the education systems and policies you encounter, as well as your prospective role as a future educator. This course will introduce comparative education inquiry and provide space to consider the cultural, political, and ethical implications of engaging in education travel and research in cross-cultural, global contexts.",
+      "Explores the intersection between energy resources and global security by examining a broad range of modern security threats both globally and regionally, including the Middle East, East Asia, and Russia. Students will improve their quantitative and qualitative analysis skills through relevant problem sets and security-related simulations, analyze climate change projections with different policy choices and their economic and human security implications, and develop cross-disciplinary technical communication skills through project assignments requiring collaboration and communication between students having different backgrounds that emphasize qualitative and quantitative analyses.",
       []
     ]
   },
@@ -1268,7 +1195,23 @@
       "0800 - 1500",
       "1600 - 1630",
       "0800 - 1200",
-      "1000 - 1700"
+      "1000 - 1700",
+      "1600 - 1730",
+      "1500 - 1700",
+      "1420 - 1640",
+      "0900 - 1100",
+      "1730 - 2020",
+      "1730 - 2120",
+      "1900 - 2150",
+      "1700 - 2050",
+      "1800 - 1920",
+      "1400 - 1540",
+      "1530 - 1710",
+      "0830 - 1350",
+      "1000 - 1250",
+      "1800 - 2000",
+      "1230 - 1450",
+      "1600 - 1820"
     ],
     "dateRanges": [],
     "scheduleTypes": [

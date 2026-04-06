@@ -1,28 +1,98 @@
 {
-  "subject": "EDUC",
-  "scrapedAt": 1775444139607,
-  "courseCount": 8,
+  "subject": "FR",
+  "scrapedAt": 1775444224035,
+  "courseCount": 25,
   "courses": {
-    "EDUC 102": [
-      "Freshman Honors Seminar",
+    "FR 102": [
+      "Elementary French II",
       {
-        "A": [
-          "54753",
+        "C": [
+          "66331",
           [
             [
-              38,
-              "W",
-              "17 Education Building",
-              14,
+              3,
+              "MTWR",
+              "326 David Kinley Hall",
+              7,
               [
-                "Mason, C"
+                "Clay, A",
+                "Petre, M"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          1,
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "D": [
+          "32510",
+          [
+            [
+              5,
+              "MTWR",
+              "222 David Kinley Hall",
+              7,
+              [
+                "Clay, A",
+                "Smith, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "D1": [
+          "32512",
+          [
+            [
+              4,
+              "MTWR",
+              "326 David Kinley Hall",
+              7,
+              [
+                "Clay, A",
+                "Smith, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "E": [
+          "32511",
+          [
+            [
+              6,
+              "MTWR",
+              "326 David Kinley Hall",
+              7,
+              [
+                "Clay, A",
+                "Folger, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
           0,
           0,
           [],
@@ -30,420 +100,167 @@
         ]
       },
       [],
-      "Provides an introduction to critical issues in education with focus on selected contemporary issues in the field; emphasis is on critical analysis and reflection on relationships between teachers, schools, and society.",
+      "Continuation of FR 101. Introduces cultural and supplementary enrichment materials; requires online laboratory sessions as in FR 101.",
       []
     ],
-    "EDUC 101": [
-      "Education Orientation Seminar",
+    "FR 101": [
+      "Elementary French I",
       {
-        "AD1": [
-          "65549",
+        "B": [
+          "37429",
           [
             [
-              37,
-              "M",
-              "323 Education Building",
-              14,
+              2,
+              "MTWR",
+              "ONLINE",
+              1,
               [
-                "Mason, C"
+                "Blanchard, L",
+                "Clay, A"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          1,
-          1,
+          4,
+          3,
           0,
           [],
           -1
         ],
-        "AD2": [
-          "65550",
+        "D": [
+          "37431",
           [
             [
-              37,
-              "M",
-              "242 Education Building",
-              14,
-              [
-                "Mason, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          1,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AD3": [
-          "65551",
-          [
-            [
-              37,
-              "M",
-              "389 Education Building",
-              14,
-              [
-                "Mason, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          1,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AD4": [
-          "78105",
-          [
-            [
-              37,
-              "M",
-              "376 Education Building",
-              14,
-              [
-                "Mason, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          1,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AD5": [
-          "81007",
-          [
-            [
-              37,
-              "M",
-              "385 Education Building",
-              14,
-              [
-                "Mason, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          1,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AE1": [
-          "45811",
-          [
-            [
+              4,
+              "MTWR",
+              "222 David Kinley Hall",
               7,
-              "M",
-              "213 Gregory Hall",
-              6,
               [
-                "Mason, C"
+                "Blanchard, L",
+                "Clay, A"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          1,
-          2,
+          4,
+          0,
           0,
           [],
           -1
         ],
-        "BD1": [
-          "65552",
+        "D1": [
+          "37434",
           [
             [
-              37,
-              "R",
-              "22 Education Building",
-              14,
-              [
-                "Mason, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          1,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "BD2": [
-          "65553",
-          [
-            [
-              37,
-              "R",
-              "389 Education Building",
-              14,
-              [
-                "Mason, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          1,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "BD3": [
-          "65554",
-          [
-            [
-              37,
-              "R",
-              "385 Education Building",
-              14,
-              [
-                "Mason, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          1,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "BD4": [
-          "80260",
-          [
-            [
-              37,
-              "R",
-              "G18 Literatures, Cultures, & Ling",
+              5,
+              "MTWR",
+              "1120 Literatures, Cultures, & Ling",
               5,
               [
-                "Mason, C"
+                "Clay, A",
+                "Guitard, M"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          1,
-          1,
+          4,
+          0,
           0,
           [],
           -1
         ],
-        "BD5": [
-          "81008",
+        "E": [
+          "37432",
           [
             [
-              37,
-              "R",
-              "236 Wohlers Hall",
-              20,
+              6,
+              "MTWR",
+              "313 Davenport Hall",
+              8,
               [
-                "Mason, C"
+                "Clay, A",
+                "Guitard, M"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          1,
-          1,
+          4,
+          0,
           0,
           [],
           -1
         ],
-        "BE1": [
-          "45812",
+        "F": [
+          "37433",
           [
             [
               7,
-              "R",
-              "62 Krannert Art Museum",
-              36,
+              "MTWR",
+              "G20 Literatures, Cultures, & Ling",
+              5,
               [
-                "Mason, C"
+                "Clay, A",
+                "Craig, S"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          1,
-          2,
+          4,
+          0,
           0,
           [],
           -1
         ]
       },
       [],
-      "Informational orientation seminar for Education majors to enhance their understanding of college life and the field of education as a profession.",
+      "Four-skill course leading toward elementary proficiency in oral expression, listening comprehension, reading, writing, and cultural understanding. Online language laboratory and internet assignments required.",
       []
     ],
-    "EDUC 199": [
+    "FR 156": [
+      "Exploring Paris",
+      {
+        "E": [
+          "49499",
+          [
+            [
+              9,
+              "TR",
+              "124 Burrill Hall",
+              3,
+              [
+                "Reynolds, F"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Examines the role of Paris in French culture through literature, art, and film. We will consider the city of Paris from its earliest beginnings to the modern era, as a physical, social, and symbolic reality. Through literature, art, and film we will explore the ways in which Paris is at the center of French political and intellectual life. Additionally, close attention will be paid to historical and political developments and their representation. All readings are in English and the course is conducted in English.",
+      []
+    ],
+    "FR 199": [
       "Undergraduate Open Seminar",
       {
-        "LF": [
-          "75365",
-          [
-            [
-              44,
-              "M",
-              "64 Allen Residence Hall",
-              1,
-              [
-                "Fink, L"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          6,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "NS2": [
-          "78260",
-          [
-            [
-              152,
-              "S",
-              "Location Pending",
-              1,
-              [
-                "Sanden, N"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              44,
-              "M",
-              "Location Pending",
-              1,
-              [
-                "Sanden, N"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          6,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "NS3": [
-          "78261",
-          [
-            [
-              152,
-              "S",
-              "Location Pending",
-              1,
-              [
-                "Sanden, N"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              33,
-              "T",
-              "Location Pending",
-              1,
-              [
-                "Sanden, N"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          6,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "SA2": [
-          "75979",
-          [
-            [
-              1,
-              "W",
-              "323 Education Building",
-              14,
-              [
-                "Threadgill, R"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          6,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "SAS": [
-          "78882",
-          [
-            [
-              1,
-              "W",
-              "323 Education Building",
-              14,
-              [
-                "Threadgill, R"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          6,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "VSI": [
-          "76398",
+        "": [
+          "10135",
           [
             [
               8,
@@ -451,265 +268,348 @@
               "ONLINE",
               1,
               [
-                "Minniear, J"
+                "Unassigned Instructor"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          6,
-          3,
+          5,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "ALC": [
+          "65026",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Clay, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          7,
           0,
           [],
           -1
         ]
       },
       [],
-      "See class schedule for topics.",
+      null,
       []
     ],
-    "EDUC 201": [
-      "Identity and Difference in Education",
+    "FR 203": [
+      "Intermediate French I",
       {
-        "AD1": [
-          "64441",
+        "B": [
+          "81354",
           [
             [
-              32,
-              "W",
-              "325 David Kinley Hall",
-              7,
+              3,
+              "MTWR",
+              "325 Gregory Hall",
+              6,
               [
-                "Carvalho de Castro, V"
+                "Clay, A"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          3,
-          1,
+          4,
+          0,
           0,
           [],
           -1
         ],
-        "AD2": [
-          "64442",
+        "C": [
+          "81355",
           [
             [
-              32,
-              "W",
-              "385 Education Building",
-              14,
+              4,
+              "MTWR",
+              "325 Gregory Hall",
+              6,
               [
-                "Carvalho de Castro, V"
+                "Clay, A"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          3,
-          1,
+          4,
+          0,
           0,
           [],
           -1
         ],
-        "AD3": [
-          "64443",
+        "D1": [
+          "81356",
           [
             [
-              32,
-              "R",
-              "42A Education Building",
-              14,
+              5,
+              "MTWR",
+              "1032 Literatures, Cultures, & Ling",
+              5,
               [
-                "Carvalho de Castro, V"
+                "Clay, A"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          3,
-          1,
+          4,
+          0,
           0,
           [],
           -1
         ],
-        "AD4": [
-          "64444",
+        "E": [
+          "81357",
           [
             [
-              33,
-              "W",
-              "242 Education Building",
-              14,
+              6,
+              "MTWR",
+              "325 Gregory Hall",
+              6,
               [
-                "Carvalho de Castro, V"
+                "Clay, A"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          3,
-          1,
+          4,
+          0,
           0,
           [],
           -1
         ],
-        "AD5": [
-          "64445",
+        "E2": [
+          "81358",
           [
             [
-              16,
-              "R",
-              "166 Education Building",
-              14,
-              [
-                "Carvalho de Castro, V"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AD6": [
-          "64446",
-          [
-            [
-              16,
-              "W",
-              "242 Bevier Hall",
               2,
+              "MTWR",
+              "ONLINE",
+              1,
               [
-                "Carvalho de Castro, V"
+                "Clay, A"
               ],
               -1,
               -1,
               -1
             ]
           ],
+          4,
           3,
-          1,
           0,
           [],
           -1
         ],
-        "AD7": [
-          "64447",
+        "F": [
+          "81359",
           [
             [
-              16,
-              "R",
-              "17 Education Building",
-              14,
+              7,
+              "MTWR",
+              "325 Gregory Hall",
+              6,
               [
-                "Carvalho de Castro, V"
+                "Clay, A"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          3,
-          1,
+          4,
           0,
-          [],
-          -1
-        ],
-        "LE1": [
-          "64440",
-          [
-            [
-              4,
-              "T",
-              "134 Temple Hoyne Buell Hall",
-              28,
-              [
-                "Carvalho de Castro, V"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          2,
-          0,
-          [],
-          -1
-        ],
-        "LE2": [
-          "73455",
-          [
-            [
-              4,
-              "T",
-              "134 Temple Hoyne Buell Hall",
-              28,
-              [
-                "Carvalho de Castro, V"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          2,
-          0,
-          [],
-          -1
-        ],
-        "LE3": [
-          "73456",
-          [
-            [
-              4,
-              "T",
-              "134 Temple Hoyne Buell Hall",
-              28,
-              [
-                "Carvalho de Castro, V"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          2,
           0,
           [],
           -1
         ]
       },
       [],
-      "Focuses on the role of identity in schooling and the way in which identity is socially constructed. Examine how power and privilege impact equity and opportunities based on socially constructed identities such as race, social class, gender, sexual identity, language, (dis)ability, and nationalism. Explore asset-based frameworks that are identity affirming and counter deficit-based perspectives. This course is designed for students interested in reflecting on their own experiences as learners by critically examining their socially constructed identities and \"ways of knowing\" and the societal implications of these experiences. It is also for those considering careers in teaching, and anyone interested in reflecting on how issues of inclusion, exclusion, power, and privilege play out in education.",
+      "Continuation of FR 102. Introduces students to a full range of structures to complete their initial study of the grammatical system; emphasizes the development of all four skills and cultural understanding through readings and audiovisual enrichment materials. Online language laboratory and internet assignments required.",
       []
     ],
-    "EDUC 205": [
-      "Introduction to Learning and Education Studies",
+    "FR 204": [
+      "Intermediate French II",
+      {
+        "C": [
+          "81360",
+          [
+            [
+              3,
+              "MTWR",
+              "1134 Literatures, Cultures, & Ling",
+              5,
+              [
+                "Clay, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "D": [
+          "81361",
+          [
+            [
+              5,
+              "MTWR",
+              "1110 Literatures, Cultures, & Ling",
+              5,
+              [
+                "Clay, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "F": [
+          "81362",
+          [
+            [
+              7,
+              "MTWR",
+              "1110 Literatures, Cultures, & Ling",
+              5,
+              [
+                "Clay, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Continuation of FR 203. Comprehensive grammar review with emphasis on oral expression and the continued development of reading and written skills. Completion satisfies graduation requirement in the College of Liberal Arts and Sciences.",
+      []
+    ],
+    "FR 207": [
+      "Writing and Grammar Workshop",
       {
         "A": [
-          "81229",
+          "32552",
+          [
+            [
+              19,
+              "TR",
+              "317 Gregory Hall",
+              6,
+              [
+                "Clay, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "54811",
+          [
+            [
+              0,
+              "TR",
+              "1060 Wymer Hall",
+              1,
+              [
+                "Clay, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Practice-intensive grammar review and vocabulary-building, with an emphasis on strategies to improve accuracy of, and expressivity in, speaking and writing in French. Grammar textbook supplemented with readings and materials from French and Francophone culture (articles, social media, literary works, films).",
+      []
+    ],
+    "FR 205": [
+      "French in Conversation",
+      {
+        "A": [
+          "32547",
+          [
+            [
+              3,
+              "MWF",
+              "1040 Literatures, Cultures, & Ling",
+              5,
+              [
+                "Mroz, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "E": [
+          "32548",
           [
             [
               6,
-              "MW",
-              "37 Education Building",
-              14,
+              "MWF",
+              "174 Wohlers Hall",
+              20,
               [
-                "Mason, C"
+                "Craig, S",
+                "Mroz, A"
               ],
               -1,
               -1,
@@ -724,44 +624,22 @@
         ]
       },
       [],
-      "Introduces students to foundational ideas in learning and education studies that extend beyond teaching in a traditional classroom context, including those related to educational technology; diversity, equity, and inclusion; workforce training and development; and education policy. Students will explore careers and opportunities related to these ideas and develop their own career and degree plans.",
+      "Developing speaking and listening skills, focusing on conversation about everyday topics in multiple contexts.",
       []
     ],
-    "EDUC 202": [
-      "Social Justice, School and Society",
+    "FR 211": [
+      "Introduction to Literary Studies",
       {
-        "AD1": [
-          "68060",
+        "A": [
+          "67090",
           [
             [
-              51,
-              "W",
-              "389 Education Building",
-              14,
-              [
-                "Unassigned Instructor"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AD2": [
-          "68061",
-          [
-            [
-              16,
-              "R",
-              "109 Sch of Info Sciences Bldg",
               1,
+              "MW",
+              "1134 Literatures, Cultures, & Ling",
+              5,
               [
-                "Unassigned Instructor"
+                "Mall, L"
               ],
               -1,
               -1,
@@ -769,21 +647,30 @@
             ]
           ],
           3,
-          1,
+          0,
           0,
           [],
           -1
-        ],
-        "AD3": [
-          "68062",
+        ]
+      },
+      [],
+      "Introduction to concepts of modernity and questions of representation, through French texts from the nineteenth through the twenty-first centuries. Analysis of diverse literary forms (poems, plays, narratives), and use of resources for literary, historical and cultural research. Strengthening of reading, writing and speaking skills in French through research projects, writing assignments and revisions, and oral presentations.",
+      []
+    ],
+    "FR 212": [
+      "Introduction to Cultural Analysis: French Identities",
+      {
+        "A": [
+          "67076",
           [
             [
-              18,
-              "F",
-              "170 Wohlers Hall",
-              20,
+              9,
+              "TR",
+              "1040 Literatures, Cultures, & Ling",
+              5,
               [
-                "Unassigned Instructor"
+                "Gaillard, J",
+                "Petre, M"
               ],
               -1,
               -1,
@@ -791,21 +678,21 @@
             ]
           ],
           3,
-          1,
+          0,
           0,
           [],
           -1
         ],
-        "AD4": [
-          "68063",
+        "AA": [
+          "77335",
           [
             [
-              32,
-              "F",
-              "ONLINE",
-              1,
+              41,
+              "TR",
+              "1120 Literatures, Cultures, & Ling",
+              5,
               [
-                "Unassigned Instructor"
+                "Gaillard, J"
               ],
               -1,
               -1,
@@ -813,21 +700,29 @@
             ]
           ],
           3,
-          8,
+          0,
           0,
           [],
           -1
-        ],
-        "AD5": [
-          "71371",
+        ]
+      },
+      [],
+      "Introduction to concepts of and debates on French national identity. Materials are drawn from a multiplicity of media and from many spheres of modern life in France: political, artistic, the everyday, etc. Identification of major resources for the study of culture and analysis of diverse cultural texts. Strengthening of reading, writing and speaking skills in French through a wide range of exercises and projects.",
+      []
+    ],
+    "FR 215": [
+      "French in the Community",
+      {
+        "AM": [
+          "80782",
           [
             [
-              18,
-              "W",
-              "236 Wohlers Hall",
-              20,
+              3,
+              "TR",
+              "1040 Literatures, Cultures, & Ling",
+              5,
               [
-                "Unassigned Instructor"
+                "Mroz, A"
               ],
               -1,
               -1,
@@ -835,21 +730,29 @@
             ]
           ],
           3,
-          1,
+          2,
           0,
           [],
           -1
-        ],
-        "AD6": [
-          "78106",
+        ]
+      },
+      [],
+      "Introduction to French-speaking communities in the Champaign-Urbana area. Students collaborate with community partners who serve French-speaking populations, developing contextualized oral proficiency and civic engagement. Taught in French.",
+      []
+    ],
+    "FR 240": [
+      "Constr Afr and Carib Identity",
+      {
+        "D": [
+          "43240",
           [
             [
-              16,
-              "W",
-              "221 Gregory Hall",
+              21,
+              "TR",
+              "317 Gregory Hall",
               6,
               [
-                "Unassigned Instructor"
+                "Reynolds, F"
               ],
               -1,
               -1,
@@ -857,17 +760,249 @@
             ]
           ],
           3,
-          1,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduces students to cultural pluralism by comparing and contrasting African and Caribbean identities, as they are represented in literature and film. Taught in English.",
+      []
+    ],
+    "FR 301": [
+      "Medieval and Early Modern Literature",
+      {
+        "": [
+          "81368",
+          [
+            [
+              19,
+              "TR",
+              "307 English Building",
+              0,
+              [
+                "Keller, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Overview of French literature from the Middle Ages to the Revolution in its historical context. Taught in French.",
+      []
+    ],
+    "FR 319": [
+      "Francophone Worlds",
+      {
+        "A": [
+          "77334",
+          [
+            [
+              19,
+              "TR",
+              "G58 Literatures, Cultures, & Ling",
+              5,
+              [
+                "Proulx, F"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Study of one or several Francophone countries and cultures around the world through language, texts, images, film, and/or other media.",
+      []
+    ],
+    "FR 322": [
+      "Movements and Perspectives",
+      {
+        "A": [
+          "43806",
+          [
+            [
+              27,
+              "MW",
+              "1110 Literatures, Cultures, & Ling",
+              5,
+              [
+                "Mall, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Focused study and discussion of a major literary movement or critical perspective. Topics will vary.",
+      []
+    ],
+    "FR 385": [
+      "Politics of the European Union",
+      {
+        "A": [
+          "44148",
+          [
+            [
+              60,
+              "MW",
+              "206 David Kinley Hall",
+              7,
+              [
+                "Kourtikakis, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as EURO 385, GER 385, and PS 385. See PS 385.",
+      []
+    ],
+    "FR 390": [
+      "Indiv Study Major Tutorial",
+      {
+        "APM": [
+          "81115",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Mroz, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          12,
+          7,
           0,
           [],
           -1
         ],
-        "AD7": [
-          "80898",
+        "MK": [
+          "49803",
           [
             [
-              51,
-              "F",
+              8,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Keller, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          12,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Tutorial taken by students during two of their last four terms of undergraduate study. Students read the works on a departmental reading list with the guidance of a tutor.",
+      []
+    ],
+    "FR 460": [
+      "Principles of Language Testing",
+      {
+        "G4": [
+          "33695",
+          [
+            [
+              36,
+              "TR",
+              "G27 Literatures, Cultures, & Ling",
+              5,
+              [
+                "Tywoniw, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "U3": [
+          "33433",
+          [
+            [
+              36,
+              "TR",
+              "G27 Literatures, Cultures, & Ling",
+              5,
+              [
+                "Tywoniw, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as EIL 460, EPSY 487, GER 460, ITAL 460, PORT 460, and SPAN 460. See EIL 460.",
+      []
+    ],
+    "FR 492": [
+      "Senior Thesis",
+      {
+        "": [
+          "10138",
+          [
+            [
+              8,
+              "",
               "ONLINE",
               1,
               [
@@ -878,239 +1013,217 @@
               -1
             ]
           ],
-          3,
+          2,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "For candidates for honors in French and for other seniors.",
+      []
+    ],
+    "FR 481": [
+      "Theoretical Foundations of SLA",
+      {
+        "G4": [
+          "33655",
+          [
+            [
+              3,
+              "MWF",
+              "G20 Literatures, Cultures, & Ling",
+              5,
+              [
+                "Mendoza, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "U3": [
+          "33454",
+          [
+            [
+              3,
+              "MWF",
+              "G20 Literatures, Cultures, & Ling",
+              5,
+              [
+                "Mendoza, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as GER 489, ITAL 489, LING 489, PORT 489, and SPAN 489. See LING 489.",
+      []
+    ],
+    "FR 505": [
+      "Teaching College and Secondary Foreign Language",
+      {
+        "B": [
+          "29911",
+          [
+            [
+              20,
+              "M",
+              "Location Pending",
+              1,
+              [
+                "Clay, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Examination and discussion of classroom goals, procedures and techniques in teaching a foreign language (French, Italian) at the college and secondary level, associated with a demonstration class and supervision of teaching practice. Required of new teaching assistants in the Department of French and Italian.",
+      []
+    ],
+    "FR 571": [
+      "Seminar 16thC French Lit",
+      {
+        "G": [
+          "59763",
+          [
+            [
+              33,
+              "W",
+              "Location Pending",
+              1,
+              [
+                "Keller, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Discussion and research on a specialized topic in sixteenth-century French literature. See Schedule for current topic.",
+      []
+    ],
+    "FR 578": [
+      "Seminar 20thC French Lit",
+      {
+        "NB": [
+          "51279",
+          [
+            [
+              33,
+              "T",
+              "Location Pending",
+              1,
+              [
+                "Proulx, F"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Discussion and research on a specialized topic in twentieth-century French literature. See Schedule for current topic.",
+      []
+    ],
+    "FR 584": [
+      "Theories in Second Language Acquisition",
+      {
+        "G": [
+          "35667",
+          [
+            [
+              20,
+              "M",
+              "1024 Lincoln Hall",
+              9,
+              [
+                "Jegerski, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as CI 584, EALC 584, EPSY 563, GER 584, ITAL 584, LING 584, PORT 584, and SPAN 584. See SPAN 584.",
+      []
+    ],
+    "FR 591": [
+      "Individual Topics",
+      {
+        "": [
+          "10142",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
           8,
-          0,
-          [],
-          -1
-        ],
-        "LE1": [
-          "68059",
-          [
-            [
-              4,
-              "T",
-              "ONLINE",
-              1,
-              [
-                "Gutierrez, R"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          4,
-          0,
-          [],
-          -1
-        ],
-        "LE2": [
-          "73473",
-          [
-            [
-              4,
-              "T",
-              "ONLINE",
-              1,
-              [
-                "Gutierrez, R"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          4,
-          0,
-          [],
-          -1
-        ],
-        "LE3": [
-          "73474",
-          [
-            [
-              4,
-              "T",
-              "ONLINE",
-              1,
-              [
-                "Gutierrez, R"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          4,
+          7,
           0,
           [],
           -1
         ]
       },
       [],
-      "Examines the nature of justice and the dynamics of a pluralistic society to derive a conception of social justice. Working with this conception, it asks how schools function to perpetuate and/or remediate social injustice. The course will consider the history and nature of schooling, issues of access and tracking, and notions of the public and the common. The course is designed for students interested in reflecting on their own educational histories, for those considering careers in teaching, and for all future parents and citizens needing to be able to reflect critically on justice, school, and society.",
-      []
-    ],
-    "EDUC 299": [
-      "Education Study Abroad",
-      {
-        "STA": [
-          "77612",
-          [
-            [
-              8,
-              "",
-              "ONLINE",
-              1,
-              [
-                "Witt, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          18,
-          13,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Provides credit toward the undergraduate degree for study at approved, accredited foreign institutions or approved overseas programs. Final determination of credit is made upon the student's completion of the work. College of Education students studying abroad on a Campus or College of Education program should enroll in 299 as a placeholder course for a semester length study abroad and in 499 for short term study abroad programs.",
-      []
-    ],
-    "EDUC 499": [
-      "Education Abroad",
-      {
-        "GSA": [
-          "71150",
-          [
-            [
-              8,
-              "",
-              "ONLINE",
-              1,
-              [
-                "Liu, W",
-                "Minniear, J",
-                "Witt, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          3,
-          0,
-          [],
-          -1
-        ],
-        "IGS": [
-          "69728",
-          [
-            [
-              8,
-              "",
-              "ONLINE",
-              1,
-              [
-                "Liu, W",
-                "Minniear, J",
-                "Witt, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          3,
-          0,
-          [],
-          -1
-        ],
-        "SMA": [
-          "71149",
-          [
-            [
-              8,
-              "",
-              "ONLINE",
-              1,
-              [
-                "Liu, W",
-                "Minniear, J",
-                "Witt, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          3,
-          0,
-          [],
-          -1
-        ],
-        "SR": [
-          "72828",
-          [
-            [
-              8,
-              "",
-              "ONLINE",
-              1,
-              [
-                "Liu, W",
-                "Minniear, J",
-                "Witt, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          3,
-          0,
-          [],
-          -1
-        ],
-        "WBS": [
-          "69727",
-          [
-            [
-              8,
-              "",
-              "ONLINE",
-              1,
-              [
-                "Liu, W",
-                "Minniear, J",
-                "Witt, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          3,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "This course will serve as a foundation for your education abroad experience. The class will center on the experience of travel as it relates to education - your own education, the education systems and policies you encounter, as well as your prospective role as a future educator. This course will introduce comparative education inquiry and provide space to consider the cultural, political, and ethical implications of engaging in education travel and research in cross-cultural, global contexts.",
+      "Prerequisite: Graduate standing with a major or minor in French.",
       []
     ]
   },
@@ -1268,7 +1381,16 @@
       "0800 - 1500",
       "1600 - 1630",
       "0800 - 1200",
-      "1000 - 1700"
+      "1000 - 1700",
+      "1600 - 1730",
+      "1500 - 1700",
+      "1420 - 1640",
+      "0900 - 1100",
+      "1730 - 2020",
+      "1730 - 2120",
+      "1900 - 2150",
+      "1700 - 2050",
+      "1800 - 1920"
     ],
     "dateRanges": [],
     "scheduleTypes": [

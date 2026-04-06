@@ -1,293 +1,82 @@
 {
-  "subject": "EDUC",
-  "scrapedAt": 1775444139607,
-  "courseCount": 8,
+  "subject": "ETMA",
+  "scrapedAt": 1775444198409,
+  "courseCount": 22,
   "courses": {
-    "EDUC 102": [
-      "Freshman Honors Seminar",
+    "ETMA 103": [
+      "Agricultural Machinery and Technology",
       {
-        "A": [
-          "54753",
+        "BMK": [
+          "77199",
           [
             [
-              38,
+              8,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Kuhns, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Provides an exploratory experience in modern agricultural machinery and technology. It covers the fundamentals of modern agriculture as a system including markets, plant and soil science, and operations. Agricultural machinery and its integration with advanced technologies will be introduced. Topics include seeders, combine harvesters, GPS and navigation, field robotics, remote sensing, and a global perspective of agricultural technology. Content is designed for any academic discipline or experience level.",
+      []
+    ],
+    "ETMA 100": [
+      "Technical Systems in Agr",
+      {
+        "AL1": [
+          "77202",
+          [
+            [
+              2,
+              "MWF",
+              "208 Agricultural Engr Sciences Bld",
+              1,
+              [
+                "Hollenback, B",
+                "Johnson, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "[IAI Code: AG906] Examples, problems, discussions, and laboratory exercises pointing to present and potential engineering applications in agriculture; emphasis on power and machinery, soil and water control, electricity, and structures.",
+      []
+    ],
+    "ETMA 123": [
+      "ETMAS Orientation to Illinois",
+      {
+        "AL1": [
+          "81028",
+          [
+            [
+              3,
               "W",
-              "17 Education Building",
-              14,
+              "248 Agricultural Engr Sciences Bld",
+              1,
               [
-                "Mason, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          1,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Provides an introduction to critical issues in education with focus on selected contemporary issues in the field; emphasis is on critical analysis and reflection on relationships between teachers, schools, and society.",
-      []
-    ],
-    "EDUC 101": [
-      "Education Orientation Seminar",
-      {
-        "AD1": [
-          "65549",
-          [
-            [
-              37,
-              "M",
-              "323 Education Building",
-              14,
-              [
-                "Mason, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          1,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AD2": [
-          "65550",
-          [
-            [
-              37,
-              "M",
-              "242 Education Building",
-              14,
-              [
-                "Mason, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          1,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AD3": [
-          "65551",
-          [
-            [
-              37,
-              "M",
-              "389 Education Building",
-              14,
-              [
-                "Mason, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          1,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AD4": [
-          "78105",
-          [
-            [
-              37,
-              "M",
-              "376 Education Building",
-              14,
-              [
-                "Mason, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          1,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AD5": [
-          "81007",
-          [
-            [
-              37,
-              "M",
-              "385 Education Building",
-              14,
-              [
-                "Mason, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          1,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AE1": [
-          "45811",
-          [
-            [
-              7,
-              "M",
-              "213 Gregory Hall",
-              6,
-              [
-                "Mason, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          1,
-          2,
-          0,
-          [],
-          -1
-        ],
-        "BD1": [
-          "65552",
-          [
-            [
-              37,
-              "R",
-              "22 Education Building",
-              14,
-              [
-                "Mason, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          1,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "BD2": [
-          "65553",
-          [
-            [
-              37,
-              "R",
-              "389 Education Building",
-              14,
-              [
-                "Mason, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          1,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "BD3": [
-          "65554",
-          [
-            [
-              37,
-              "R",
-              "385 Education Building",
-              14,
-              [
-                "Mason, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          1,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "BD4": [
-          "80260",
-          [
-            [
-              37,
-              "R",
-              "G18 Literatures, Cultures, & Ling",
-              5,
-              [
-                "Mason, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          1,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "BD5": [
-          "81008",
-          [
-            [
-              37,
-              "R",
-              "236 Wohlers Hall",
-              20,
-              [
-                "Mason, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          1,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "BE1": [
-          "45812",
-          [
-            [
-              7,
-              "R",
-              "62 Krannert Art Museum",
-              36,
-              [
-                "Mason, C"
+                "Woodward, K"
               ],
               -1,
               -1,
@@ -302,148 +91,14 @@
         ]
       },
       [],
-      "Informational orientation seminar for Education majors to enhance their understanding of college life and the field of education as a profession.",
+      "Explore the career paths and opportunities open to students in the Engineering Technology & Management for Agricultural Systems major, while also learning about the department and useful resources centered around student success.",
       []
     ],
-    "EDUC 199": [
+    "ETMA 199": [
       "Undergraduate Open Seminar",
       {
-        "LF": [
-          "75365",
-          [
-            [
-              44,
-              "M",
-              "64 Allen Residence Hall",
-              1,
-              [
-                "Fink, L"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          6,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "NS2": [
-          "78260",
-          [
-            [
-              152,
-              "S",
-              "Location Pending",
-              1,
-              [
-                "Sanden, N"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              44,
-              "M",
-              "Location Pending",
-              1,
-              [
-                "Sanden, N"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          6,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "NS3": [
-          "78261",
-          [
-            [
-              152,
-              "S",
-              "Location Pending",
-              1,
-              [
-                "Sanden, N"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              33,
-              "T",
-              "Location Pending",
-              1,
-              [
-                "Sanden, N"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          6,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "SA2": [
-          "75979",
-          [
-            [
-              1,
-              "W",
-              "323 Education Building",
-              14,
-              [
-                "Threadgill, R"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          6,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "SAS": [
-          "78882",
-          [
-            [
-              1,
-              "W",
-              "323 Education Building",
-              14,
-              [
-                "Threadgill, R"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          6,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "VSI": [
-          "76398",
+        "": [
+          "77302",
           [
             [
               8,
@@ -451,191 +106,61 @@
               "ONLINE",
               1,
               [
-                "Minniear, J"
+                "Unassigned Instructor"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          6,
-          3,
+          5,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "TCJ": [
+          "81626",
+          [
+            [
+              51,
+              "W",
+              "248 Agricultural Engr Sciences Bld",
+              1,
+              [
+                "Huffman, Z",
+                "Johnson, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          0,
           0,
           [],
           -1
         ]
       },
       [],
-      "See class schedule for topics.",
+      "Open seminar or experimental course on a topic in technical systems management.",
       []
     ],
-    "EDUC 201": [
-      "Identity and Difference in Education",
+    "ETMA 233": [
+      "Metallurgy & Welding Processes",
       {
-        "AD1": [
-          "64441",
+        "AB1": [
+          "77245",
           [
             [
-              32,
-              "W",
-              "325 David Kinley Hall",
-              7,
-              [
-                "Carvalho de Castro, V"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AD2": [
-          "64442",
-          [
-            [
-              32,
-              "W",
-              "385 Education Building",
-              14,
-              [
-                "Carvalho de Castro, V"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AD3": [
-          "64443",
-          [
-            [
-              32,
-              "R",
-              "42A Education Building",
-              14,
-              [
-                "Carvalho de Castro, V"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AD4": [
-          "64444",
-          [
-            [
-              33,
-              "W",
-              "242 Education Building",
-              14,
-              [
-                "Carvalho de Castro, V"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AD5": [
-          "64445",
-          [
-            [
-              16,
-              "R",
-              "166 Education Building",
-              14,
-              [
-                "Carvalho de Castro, V"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AD6": [
-          "64446",
-          [
-            [
-              16,
-              "W",
-              "242 Bevier Hall",
-              2,
-              [
-                "Carvalho de Castro, V"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AD7": [
-          "64447",
-          [
-            [
-              16,
-              "R",
-              "17 Education Building",
-              14,
-              [
-                "Carvalho de Castro, V"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "LE1": [
-          "64440",
-          [
-            [
-              4,
+              18,
               "T",
-              "134 Temple Hoyne Buell Hall",
-              28,
+              "119 Agricultural Engr Sciences Bld",
+              1,
               [
-                "Carvalho de Castro, V"
+                "Flores, F",
+                "Raveendran Nair, G"
               ],
               -1,
               -1,
@@ -643,21 +168,22 @@
             ]
           ],
           3,
-          2,
+          5,
           0,
           [],
           -1
         ],
-        "LE2": [
-          "73455",
+        "AB2": [
+          "77247",
           [
             [
-              4,
-              "T",
-              "134 Temple Hoyne Buell Hall",
-              28,
+              18,
+              "R",
+              "119 Agricultural Engr Sciences Bld",
+              1,
               [
-                "Carvalho de Castro, V"
+                "Flores, F",
+                "Raveendran Nair, G"
               ],
               -1,
               -1,
@@ -665,21 +191,68 @@
             ]
           ],
           3,
-          2,
+          5,
           0,
           [],
           -1
         ],
-        "LE3": [
-          "73456",
+        "AB3": [
+          "77250",
           [
             [
-              4,
+              17,
               "T",
-              "134 Temple Hoyne Buell Hall",
-              28,
+              "119 Agricultural Engr Sciences Bld",
+              1,
               [
-                "Carvalho de Castro, V"
+                "Flores, F",
+                "Raveendran Nair, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AB4": [
+          "77252",
+          [
+            [
+              17,
+              "R",
+              "119 Agricultural Engr Sciences Bld",
+              1,
+              [
+                "Flores, F",
+                "Raveendran Nair, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "77255",
+          [
+            [
+              37,
+              "TR",
+              "208 Agricultural Engr Sciences Bld",
+              1,
+              [
+                "Flores, F",
+                "Raveendran Nair, G"
               ],
               -1,
               -1,
@@ -694,52 +267,100 @@
         ]
       },
       [],
-      "Focuses on the role of identity in schooling and the way in which identity is socially constructed. Examine how power and privilege impact equity and opportunities based on socially constructed identities such as race, social class, gender, sexual identity, language, (dis)ability, and nationalism. Explore asset-based frameworks that are identity affirming and counter deficit-based perspectives. This course is designed for students interested in reflecting on their own experiences as learners by critically examining their socially constructed identities and \"ways of knowing\" and the societal implications of these experiences. It is also for those considering careers in teaching, and anyone interested in reflecting on how issues of inclusion, exclusion, power, and privilege play out in education.",
+      "Selecting and using metal-arc, inert-gas, submerged arc, oxyacetylene welding and plasma cutting processes for construction and maintenance. Includes laboratory.",
       []
     ],
-    "EDUC 205": [
-      "Introduction to Learning and Education Studies",
+    "ETMA 232": [
+      "Materials and Construction Sys",
       {
-        "A": [
-          "81229",
+        "AB1": [
+          "77257",
           [
             [
-              6,
+              16,
+              "T",
+              "119 Agricultural Engr Sciences Bld",
+              1,
+              [
+                "Pena, S",
+                "Raveendran Nair, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AB2": [
+          "77259",
+          [
+            [
+              16,
+              "R",
+              "119 Agricultural Engr Sciences Bld",
+              1,
+              [
+                "Pena, S",
+                "Raveendran Nair, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "77260",
+          [
+            [
+              4,
               "MW",
-              "37 Education Building",
-              14,
+              "208 Agricultural Engr Sciences Bld",
+              1,
               [
-                "Mason, C"
+                "Raveendran Nair, G"
               ],
               -1,
               -1,
               -1
             ]
           ],
+          3,
           2,
-          0,
           0,
           [],
           -1
         ]
       },
       [],
-      "Introduces students to foundational ideas in learning and education studies that extend beyond teaching in a traditional classroom context, including those related to educational technology; diversity, equity, and inclusion; workforce training and development; and education policy. Students will explore careers and opportunities related to these ideas and develop their own career and degree plans.",
+      "Selection, use, and maintenance of hand and power tools; shop safety; selection of building and roofing materials; concrete masonry construction; and site preparation. Includes laboratory.",
       []
     ],
-    "EDUC 202": [
-      "Social Justice, School and Society",
+    "ETMA 311": [
+      "Humanity in the Food Web",
       {
         "AD1": [
-          "68060",
+          "77178",
           [
             [
-              51,
+              5,
               "W",
-              "389 Education Building",
-              14,
+              "208 Agricultural Engr Sciences Bld",
+              1,
               [
-                "Unassigned Instructor"
+                "Green-Miller, A",
+                "Rinehart, H",
+                "Tucker, C"
               ],
               -1,
               -1,
@@ -753,15 +374,17 @@
           -1
         ],
         "AD2": [
-          "68061",
+          "77179",
           [
             [
-              16,
+              4,
               "R",
-              "109 Sch of Info Sciences Bldg",
+              "ONLINE",
               1,
               [
-                "Unassigned Instructor"
+                "Green-Miller, A",
+                "Kimbrough, S",
+                "Tucker, C"
               ],
               -1,
               -1,
@@ -769,21 +392,23 @@
             ]
           ],
           3,
-          1,
+          8,
           0,
           [],
           -1
         ],
         "AD3": [
-          "68062",
+          "77176",
           [
             [
-              18,
+              3,
               "F",
-              "170 Wohlers Hall",
-              20,
+              "ONLINE",
+              1,
               [
-                "Unassigned Instructor"
+                "Green-Miller, A",
+                "Tucker, C",
+                "Williams-Stroud, T"
               ],
               -1,
               -1,
@@ -791,21 +416,23 @@
             ]
           ],
           3,
-          1,
+          8,
           0,
           [],
           -1
         ],
         "AD4": [
-          "68063",
+          "77175",
           [
             [
-              32,
+              6,
               "F",
               "ONLINE",
               1,
               [
-                "Unassigned Instructor"
+                "Felton, M",
+                "Green-Miller, A",
+                "Tucker, C"
               ],
               -1,
               -1,
@@ -817,15 +444,53 @@
           0,
           [],
           -1
-        ],
-        "AD5": [
-          "71371",
+        ]
+      },
+      [],
+      "The human food web is the complex network of technologies, environments, people, and social institutions that produces, processes, and distributes the world's food supply. Students will study the food webs of the past, present, and future and will explore various human roles, including their own, in the global technology-environment-society-food system. Course topics include domestication, mechanization, urbanization, the green revolution, biotechnology, food safety, the environment, and appropriate technologies for developing countries.",
+      []
+    ],
+    "ETMA 295": [
+      "Undergrad Research or Thesis",
+      {
+        "": [
+          "77304",
           [
             [
-              18,
-              "W",
-              "236 Wohlers Hall",
-              20,
+              8,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Individual research, special problems, thesis, development and/or design work under the supervision of an appropriate member of the faculty.",
+      []
+    ],
+    "ETMA 293": [
+      "Off-Campus Internship",
+      {
+        "": [
+          "77303",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              1,
               [
                 "Unassigned Instructor"
               ],
@@ -835,21 +500,252 @@
             ]
           ],
           3,
-          1,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Supervised off-campus experience in a field directly related to Engineering Technology and Management for Agricultural Systems.",
+      []
+    ],
+    "ETMA 352": [
+      "Land and Water Mgt Systems",
+      {
+        "MLC": [
+          "77184",
+          [
+            [
+              2,
+              "T",
+              "ONLINE",
+              1,
+              [
+                "Chu, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Principles of planning, implementing and utilizing land and water practices for Illinois land uses, especially agriculture. Includes laboratory.",
+      []
+    ],
+    "ETMA 372": [
+      "Environ Control & HVAC Systems",
+      {
+        "LB1": [
+          "81616",
+          [
+            [
+              18,
+              "R",
+              "137 Agricultural Engr Sciences Bld",
+              1,
+              [
+                "Huffman, Z"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
           0,
           [],
           -1
         ],
-        "AD6": [
-          "78106",
+        "LB2": [
+          "81617",
+          [
+            [
+              51,
+              "R",
+              "137 Agricultural Engr Sciences Bld",
+              1,
+              [
+                "Huffman, Z"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "YZ": [
+          "77239",
+          [
+            [
+              3,
+              "MW",
+              "208 Agricultural Engr Sciences Bld",
+              1,
+              [
+                "Huffman, Z"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to heating, ventilating, and air-conditioning (HVAC) systems for building environment control. Topics include: psychrometrics, basic calculation of heating and cooling loads, human comfort and ventilation requirements, typical HVAC and control systems.",
+      []
+    ],
+    "ETMA 396": [
+      "UG Honors Research or Thesis",
+      {
+        "": [
+          "77305",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Individual research, special problems, thesis, development and/or design work under the direction of the Honors advisor.",
+      []
+    ],
+    "ETMA 422": [
+      "Industrial and Agricultural Occupational Illness Prevention",
+      {
+        "AB1": [
+          "77263",
+          [
+            [
+              20,
+              "T",
+              "137 Agricultural Engr Sciences Bld",
+              1,
+              [
+                "Issa, S",
+                "Rudolphi, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Overview of occupational illnesses and diseases in general industry and agricultural as well as associated practices. Occupational health hazards within agricultural production and general industry are examined. Potential hazards to non-farm populations and those interacting with production personnel are also explored. Industry practices are summarized with a special focus on the agricultural industry. Potential human health effects of specific practices identified. Specific preventative measures are outlined to reduce exposures and remediate exposure symptoms. Interaction with health/medical professionals is on-going during the semester to familiarize students with medical procedures pertinent to agricultural and occupational medicine.",
+      []
+    ],
+    "ETMA 430": [
+      "Project Management",
+      {
+        "LC1": [
+          "76956",
+          [
+            [
+              18,
+              "T",
+              "ONLINE",
+              1,
+              [
+                "Davidson, P",
+                "Kanner, D",
+                "Oberg, J",
+                "Reynolds, L",
+                "Steele, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      null,
+      []
+    ],
+    "ETMA 435": [
+      "Elec Computer Ctrl Sys",
+      {
+        "LB1": [
+          "76947",
+          [
+            [
+              33,
+              "W",
+              "220 Agricultural Engr Sciences Bld",
+              1,
+              [
+                "Fatemi Heydarabad, A",
+                "Grift, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "LB2": [
+          "76948",
           [
             [
               16,
               "W",
-              "221 Gregory Hall",
-              6,
+              "220 Agricultural Engr Sciences Bld",
+              1,
               [
-                "Unassigned Instructor"
+                "Fatemi Heydarabad, A",
+                "Grift, T"
               ],
               -1,
               -1,
@@ -857,17 +753,122 @@
             ]
           ],
           3,
-          1,
+          5,
           0,
           [],
           -1
         ],
-        "AD7": [
-          "80898",
+        "LC1": [
+          "76949",
           [
             [
-              51,
+              40,
+              "M",
+              "208 Agricultural Engr Sciences Bld",
+              1,
+              [
+                "Fatemi Heydarabad, A",
+                "Grift, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Microcomputer and electrical control applications; electrical fundamentals; solid-state devices; relays; biosensors; motor types and characteristics; three-phase power; logic devices; analog/digital convertors; and interfacing for agricultural control applications. Includes laboratory.",
+      []
+    ],
+    "ETMA 464": [
+      "Heavy Equipment Powertrains",
+      {
+        "CMA": [
+          "78074",
+          [
+            [
+              74,
               "F",
+              "137 Agricultural Engr Sciences Bld",
+              1,
+              [
+                "Allen, C",
+                "Yuan, S"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              2,
+              "TR",
+              "ONLINE",
+              1,
+              [
+                "Allen, C",
+                "Yuan, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Construction, performance and maintenance of internal combustion engines, power trains, and hydraulic systems for agricultural and construction equipment; methods and equipment for performance testing; and weight transfer and traction. Includes laboratory.",
+      []
+    ],
+    "ETMA 486": [
+      "Grain Bioprocessing Coproducts",
+      {
+        "KDR": [
+          "78087",
+          [
+            [
+              40,
+              "TR",
+              "248 Agricultural Engr Sciences Bld",
+              1,
+              [
+                "Rausch, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Bioprocessing of cereals and oilseeds by milling, fermentation and extraction processes in the production of a wide variety of coproducts used in animal foods. Includes the effects of the process variables and bioprocess on coproduct quality and the post-processing of coproducts.",
+      []
+    ],
+    "ETMA 496": [
+      "Independent Study",
+      {
+        "": [
+          "77306",
+          [
+            [
+              8,
+              "",
               "ONLINE",
               1,
               [
@@ -878,88 +879,22 @@
               -1
             ]
           ],
-          3,
-          8,
-          0,
-          [],
-          -1
-        ],
-        "LE1": [
-          "68059",
-          [
-            [
-              4,
-              "T",
-              "ONLINE",
-              1,
-              [
-                "Gutierrez, R"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
           4,
-          0,
-          [],
-          -1
-        ],
-        "LE2": [
-          "73473",
-          [
-            [
-              4,
-              "T",
-              "ONLINE",
-              1,
-              [
-                "Gutierrez, R"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          4,
-          0,
-          [],
-          -1
-        ],
-        "LE3": [
-          "73474",
-          [
-            [
-              4,
-              "T",
-              "ONLINE",
-              1,
-              [
-                "Gutierrez, R"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          4,
+          7,
           0,
           [],
           -1
         ]
       },
       [],
-      "Examines the nature of justice and the dynamics of a pluralistic society to derive a conception of social justice. Working with this conception, it asks how schools function to perpetuate and/or remediate social injustice. The course will consider the history and nature of schooling, issues of access and tracking, and notions of the public and the common. The course is designed for students interested in reflecting on their own educational histories, for those considering careers in teaching, and for all future parents and citizens needing to be able to reflect critically on justice, school, and society.",
+      "Individual research, special problems, thesis, development and/or design work under the supervision of a faculty member.",
       []
     ],
-    "EDUC 299": [
-      "Education Study Abroad",
+    "ETMA 499": [
+      "Seminar",
       {
-        "STA": [
-          "77612",
+        "": [
+          "77307",
           [
             [
               8,
@@ -967,29 +902,53 @@
               "ONLINE",
               1,
               [
-                "Witt, A"
+                "Unassigned Instructor"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          18,
-          13,
+          4,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "BEJ": [
+          "79872",
+          [
+            [
+              154,
+              "MW",
+              "248 Agricultural Engr Sciences Bld",
+              1,
+              [
+                "Huffman, Z",
+                "Jacobson, B",
+                "Lecher, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
           0,
           [],
           -1
         ]
       },
       [],
-      "Provides credit toward the undergraduate degree for study at approved, accredited foreign institutions or approved overseas programs. Final determination of credit is made upon the student's completion of the work. College of Education students studying abroad on a Campus or College of Education program should enroll in 299 as a placeholder course for a semester length study abroad and in 499 for short term study abroad programs.",
+      "Group discussion or an experimental course on a special topic in engineering technology and management for agricultural systems.",
       []
     ],
-    "EDUC 499": [
-      "Education Abroad",
+    "ETMA 596": [
+      "Independent Study",
       {
-        "GSA": [
-          "71150",
+        "": [
+          "77308",
           [
             [
               8,
@@ -997,9 +956,7 @@
               "ONLINE",
               1,
               [
-                "Liu, W",
-                "Minniear, J",
-                "Witt, A"
+                "Unassigned Instructor"
               ],
               -1,
               -1,
@@ -1007,110 +964,74 @@
             ]
           ],
           4,
-          3,
-          0,
-          [],
-          -1
-        ],
-        "IGS": [
-          "69728",
-          [
-            [
-              8,
-              "",
-              "ONLINE",
-              1,
-              [
-                "Liu, W",
-                "Minniear, J",
-                "Witt, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          3,
-          0,
-          [],
-          -1
-        ],
-        "SMA": [
-          "71149",
-          [
-            [
-              8,
-              "",
-              "ONLINE",
-              1,
-              [
-                "Liu, W",
-                "Minniear, J",
-                "Witt, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          3,
-          0,
-          [],
-          -1
-        ],
-        "SR": [
-          "72828",
-          [
-            [
-              8,
-              "",
-              "ONLINE",
-              1,
-              [
-                "Liu, W",
-                "Minniear, J",
-                "Witt, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          3,
-          0,
-          [],
-          -1
-        ],
-        "WBS": [
-          "69727",
-          [
-            [
-              8,
-              "",
-              "ONLINE",
-              1,
-              [
-                "Liu, W",
-                "Minniear, J",
-                "Witt, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          3,
+          7,
           0,
           [],
           -1
         ]
       },
       [],
-      "This course will serve as a foundation for your education abroad experience. The class will center on the experience of travel as it relates to education - your own education, the education systems and policies you encounter, as well as your prospective role as a future educator. This course will introduce comparative education inquiry and provide space to consider the cultural, political, and ethical implications of engaging in education travel and research in cross-cultural, global contexts.",
+      "Individual investigations or studies of any phases of technical systems management selected by the student and approved by the advisor and the faculty member who will supervise the study.",
+      []
+    ],
+    "ETMA 586": [
+      "Advanced Bioprocess Coproducts",
+      {
+        "KDR": [
+          "78089",
+          [
+            [
+              40,
+              "TR",
+              "248 Agricultural Engr Sciences Bld",
+              1,
+              [
+                "Rausch, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Bioprocessing of cereals and oilseeds by milling, fermentation and extraction processes in the production of a wide variety of coproducts used in animal foods. Includes the effects of the process variables and bioprocesses on coproduct quality and the post-processing of coproducts; also analysis of current literature and issues relating to coproducts.",
+      []
+    ],
+    "ETMA 598": [
+      "Special Topics",
+      {
+        "": [
+          "77309",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Group discussion or an experimental course on a special topic in technical systems management.",
       []
     ]
   },
@@ -1268,7 +1189,15 @@
       "0800 - 1500",
       "1600 - 1630",
       "0800 - 1200",
-      "1000 - 1700"
+      "1000 - 1700",
+      "1600 - 1730",
+      "1500 - 1700",
+      "1420 - 1640",
+      "0900 - 1100",
+      "1730 - 2020",
+      "1730 - 2120",
+      "1900 - 2150",
+      "1700 - 2050"
     ],
     "dateRanges": [],
     "scheduleTypes": [

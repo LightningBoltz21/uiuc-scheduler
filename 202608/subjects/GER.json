@@ -1,449 +1,13 @@
 {
-  "subject": "EDUC",
-  "scrapedAt": 1775444139607,
-  "courseCount": 8,
+  "subject": "GER",
+  "scrapedAt": 1775444250977,
+  "courseCount": 27,
   "courses": {
-    "EDUC 102": [
-      "Freshman Honors Seminar",
+    "GER 191": [
+      "Freshman Honors Tutorial",
       {
-        "A": [
-          "54753",
-          [
-            [
-              38,
-              "W",
-              "17 Education Building",
-              14,
-              [
-                "Mason, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          1,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Provides an introduction to critical issues in education with focus on selected contemporary issues in the field; emphasis is on critical analysis and reflection on relationships between teachers, schools, and society.",
-      []
-    ],
-    "EDUC 101": [
-      "Education Orientation Seminar",
-      {
-        "AD1": [
-          "65549",
-          [
-            [
-              37,
-              "M",
-              "323 Education Building",
-              14,
-              [
-                "Mason, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          1,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AD2": [
-          "65550",
-          [
-            [
-              37,
-              "M",
-              "242 Education Building",
-              14,
-              [
-                "Mason, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          1,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AD3": [
-          "65551",
-          [
-            [
-              37,
-              "M",
-              "389 Education Building",
-              14,
-              [
-                "Mason, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          1,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AD4": [
-          "78105",
-          [
-            [
-              37,
-              "M",
-              "376 Education Building",
-              14,
-              [
-                "Mason, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          1,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AD5": [
-          "81007",
-          [
-            [
-              37,
-              "M",
-              "385 Education Building",
-              14,
-              [
-                "Mason, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          1,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AE1": [
-          "45811",
-          [
-            [
-              7,
-              "M",
-              "213 Gregory Hall",
-              6,
-              [
-                "Mason, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          1,
-          2,
-          0,
-          [],
-          -1
-        ],
-        "BD1": [
-          "65552",
-          [
-            [
-              37,
-              "R",
-              "22 Education Building",
-              14,
-              [
-                "Mason, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          1,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "BD2": [
-          "65553",
-          [
-            [
-              37,
-              "R",
-              "389 Education Building",
-              14,
-              [
-                "Mason, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          1,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "BD3": [
-          "65554",
-          [
-            [
-              37,
-              "R",
-              "385 Education Building",
-              14,
-              [
-                "Mason, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          1,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "BD4": [
-          "80260",
-          [
-            [
-              37,
-              "R",
-              "G18 Literatures, Cultures, & Ling",
-              5,
-              [
-                "Mason, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          1,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "BD5": [
-          "81008",
-          [
-            [
-              37,
-              "R",
-              "236 Wohlers Hall",
-              20,
-              [
-                "Mason, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          1,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "BE1": [
-          "45812",
-          [
-            [
-              7,
-              "R",
-              "62 Krannert Art Museum",
-              36,
-              [
-                "Mason, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          1,
-          2,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Informational orientation seminar for Education majors to enhance their understanding of college life and the field of education as a profession.",
-      []
-    ],
-    "EDUC 199": [
-      "Undergraduate Open Seminar",
-      {
-        "LF": [
-          "75365",
-          [
-            [
-              44,
-              "M",
-              "64 Allen Residence Hall",
-              1,
-              [
-                "Fink, L"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          6,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "NS2": [
-          "78260",
-          [
-            [
-              152,
-              "S",
-              "Location Pending",
-              1,
-              [
-                "Sanden, N"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              44,
-              "M",
-              "Location Pending",
-              1,
-              [
-                "Sanden, N"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          6,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "NS3": [
-          "78261",
-          [
-            [
-              152,
-              "S",
-              "Location Pending",
-              1,
-              [
-                "Sanden, N"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              33,
-              "T",
-              "Location Pending",
-              1,
-              [
-                "Sanden, N"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          6,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "SA2": [
-          "75979",
-          [
-            [
-              1,
-              "W",
-              "323 Education Building",
-              14,
-              [
-                "Threadgill, R"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          6,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "SAS": [
-          "78882",
-          [
-            [
-              1,
-              "W",
-              "323 Education Building",
-              14,
-              [
-                "Threadgill, R"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          6,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "VSI": [
-          "76398",
+        "": [
+          "10276",
           [
             [
               8,
@@ -451,357 +15,181 @@
               "ONLINE",
               1,
               [
-                "Minniear, J"
+                "Unassigned Instructor"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          6,
           3,
+          7,
           0,
           [],
           -1
         ]
       },
       [],
-      "See class schedule for topics.",
+      "Study of selected topics on an individually arranged basis. Open only to honors majors or to Cohn Scholars and Associates.",
       []
     ],
-    "EDUC 201": [
-      "Identity and Difference in Education",
+    "GER 101": [
+      "Beginning German I",
       {
-        "AD1": [
-          "64441",
+        "B": [
+          "37582",
           [
             [
-              32,
-              "W",
-              "325 David Kinley Hall",
-              7,
+              3,
+              "MTWR",
+              "313 Davenport Hall",
+              8,
               [
-                "Carvalho de Castro, V"
+                "Webster, C"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          3,
-          1,
+          4,
+          0,
           0,
           [],
           -1
         ],
-        "AD2": [
-          "64442",
-          [
-            [
-              32,
-              "W",
-              "385 Education Building",
-              14,
-              [
-                "Carvalho de Castro, V"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AD3": [
-          "64443",
-          [
-            [
-              32,
-              "R",
-              "42A Education Building",
-              14,
-              [
-                "Carvalho de Castro, V"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AD4": [
-          "64444",
-          [
-            [
-              33,
-              "W",
-              "242 Education Building",
-              14,
-              [
-                "Carvalho de Castro, V"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AD5": [
-          "64445",
-          [
-            [
-              16,
-              "R",
-              "166 Education Building",
-              14,
-              [
-                "Carvalho de Castro, V"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AD6": [
-          "64446",
-          [
-            [
-              16,
-              "W",
-              "242 Bevier Hall",
-              2,
-              [
-                "Carvalho de Castro, V"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AD7": [
-          "64447",
-          [
-            [
-              16,
-              "R",
-              "17 Education Building",
-              14,
-              [
-                "Carvalho de Castro, V"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "LE1": [
-          "64440",
-          [
-            [
-              4,
-              "T",
-              "134 Temple Hoyne Buell Hall",
-              28,
-              [
-                "Carvalho de Castro, V"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          2,
-          0,
-          [],
-          -1
-        ],
-        "LE2": [
-          "73455",
-          [
-            [
-              4,
-              "T",
-              "134 Temple Hoyne Buell Hall",
-              28,
-              [
-                "Carvalho de Castro, V"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          2,
-          0,
-          [],
-          -1
-        ],
-        "LE3": [
-          "73456",
-          [
-            [
-              4,
-              "T",
-              "134 Temple Hoyne Buell Hall",
-              28,
-              [
-                "Carvalho de Castro, V"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          2,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Focuses on the role of identity in schooling and the way in which identity is socially constructed. Examine how power and privilege impact equity and opportunities based on socially constructed identities such as race, social class, gender, sexual identity, language, (dis)ability, and nationalism. Explore asset-based frameworks that are identity affirming and counter deficit-based perspectives. This course is designed for students interested in reflecting on their own experiences as learners by critically examining their socially constructed identities and \"ways of knowing\" and the societal implications of these experiences. It is also for those considering careers in teaching, and anyone interested in reflecting on how issues of inclusion, exclusion, power, and privilege play out in education.",
-      []
-    ],
-    "EDUC 205": [
-      "Introduction to Learning and Education Studies",
-      {
-        "A": [
-          "81229",
+        "E": [
+          "37587",
           [
             [
               6,
-              "MW",
-              "37 Education Building",
-              14,
+              "MTWR",
+              "313 Gregory Hall",
+              6,
               [
-                "Mason, C"
+                "Webster, C"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          2,
+          4,
           0,
+          0,
+          [],
+          -1
+        ],
+        "OL1": [
+          "37583",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Webster, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
           0,
           [],
           -1
         ]
       },
       [],
-      "Introduces students to foundational ideas in learning and education studies that extend beyond teaching in a traditional classroom context, including those related to educational technology; diversity, equity, and inclusion; workforce training and development; and education policy. Students will explore careers and opportunities related to these ideas and develop their own career and degree plans.",
+      "Introductory course focusing on listening comprehension, oral skills, reading, writing, and culture.",
       []
     ],
-    "EDUC 202": [
-      "Social Justice, School and Society",
+    "GER 102": [
+      "Beginning German II",
       {
-        "AD1": [
-          "68060",
+        "B": [
+          "32327",
           [
             [
-              51,
-              "W",
-              "389 Education Building",
-              14,
+              4,
+              "MTWR",
+              "327 Gregory Hall",
+              6,
               [
-                "Unassigned Instructor"
+                "Webster, C"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          3,
-          1,
+          4,
+          0,
           0,
           [],
           -1
         ],
-        "AD2": [
-          "68061",
+        "C": [
+          "49444",
           [
             [
-              16,
-              "R",
-              "109 Sch of Info Sciences Bldg",
+              5,
+              "MTWR",
+              "327 Gregory Hall",
+              6,
+              [
+                "Webster, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "OL1": [
+          "49443",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
               1,
               [
-                "Unassigned Instructor"
+                "Webster, C"
               ],
               -1,
               -1,
               -1
             ]
           ],
+          4,
           3,
-          1,
           0,
           [],
           -1
-        ],
-        "AD3": [
-          "68062",
+        ]
+      },
+      [],
+      "Continuation of GER 101. Continued focus on listening comprehension, oral skills, reading, writing, and culture at an introductory level.",
+      []
+    ],
+    "GER 199": [
+      "Undergraduate Open Seminar",
+      {
+        "": [
+          "10279",
           [
             [
-              18,
-              "F",
-              "170 Wohlers Hall",
-              20,
-              [
-                "Unassigned Instructor"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AD4": [
-          "68063",
-          [
-            [
-              32,
-              "F",
+              8,
+              "",
               "ONLINE",
               1,
               [
@@ -812,44 +200,276 @@
               -1
             ]
           ],
-          3,
-          8,
+          5,
+          7,
           0,
           [],
           -1
-        ],
-        "AD5": [
-          "71371",
+        ]
+      },
+      [],
+      null,
+      []
+    ],
+    "GER 203": [
+      "Intermediate German I",
+      {
+        "C": [
+          "81247",
           [
             [
-              18,
-              "W",
-              "236 Wohlers Hall",
-              20,
-              [
-                "Unassigned Instructor"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AD6": [
-          "78106",
-          [
-            [
-              16,
-              "W",
+              3,
+              "MTWR",
               "221 Gregory Hall",
               6,
               [
+                "Webster, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "D": [
+          "81248",
+          [
+            [
+              4,
+              "MTWR",
+              "221 Gregory Hall",
+              6,
+              [
+                "Webster, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "E": [
+          "81249",
+          [
+            [
+              5,
+              "MTWR",
+              "221 Gregory Hall",
+              6,
+              [
+                "Webster, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Continuation of GER 102. Intermediate course focusing on listening comprehension, oral skills, reading, writing, and culture.",
+      []
+    ],
+    "GER 201": [
+      "German Popular Culture",
+      {
+        "D": [
+          "53595",
+          [
+            [
+              167,
+              "TR",
+              "307 David Kinley Hall",
+              7,
+              [
+                "Hunt, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to the study of modern and contemporary german culture through examining examples of popular culture from the late-eighteenth century to the present. Looks at texts and films as a mirror and critique of modern German society. Topics to be discussed: nationalism, gender, ethnicity, minority cultures, Jewish life in Germany, German images of other cultures, etc. Course taught in English.",
+      []
+    ],
+    "GER 204": [
+      "Intermediate German II",
+      {
+        "E": [
+          "81250",
+          [
+            [
+              6,
+              "MTWR",
+              "1118 Literatures, Cultures, & Ling",
+              5,
+              [
+                "Webster, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "F": [
+          "81370",
+          [
+            [
+              5,
+              "MTWR",
+              "G18 Literatures, Cultures, & Ling",
+              5,
+              [
+                "Webster, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Continuation of GER 203. Continued focus on listening comprehension, oral skills, reading, writing, and culture at an intermediate level.",
+      []
+    ],
+    "GER 211": [
+      "Conversation and Writing I",
+      {
+        "G1": [
+          "47970",
+          [
+            [
+              4,
+              "MWF",
+              "G24 Literatures, Cultures, & Ling",
+              5,
+              [
+                "Webster, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Prerequisite: GER 104 or equivalent, or consent of instructor.",
+      []
+    ],
+    "GER 212": [
+      "Conversation and Writing II",
+      {
+        "X": [
+          "46780",
+          [
+            [
+              5,
+              "MWF",
+              "315 Gregory Hall",
+              6,
+              [
                 "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Prerequisite: GER 211 or equivalent, or consent of instructor.",
+      []
+    ],
+    "GER 261": [
+      "The Holocaust in Context",
+      {
+        "AE1": [
+          "61870",
+          [
+            [
+              9,
+              "TR",
+              "209 David Kinley Hall",
+              7,
+              [
+                "Hunt, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Examines cultural representations of the Holocaust in literature, film, and critical essays.",
+      []
+    ],
+    "GER 251": [
+      "Grimm's Fairy Tales in Context",
+      {
+        "AD1": [
+          "61886",
+          [
+            [
+              5,
+              "F",
+              "1022 Lincoln Hall",
+              9,
+              [
+                "Jenkins, R"
               ],
               -1,
               -1,
@@ -862,14 +482,118 @@
           [],
           -1
         ],
-        "AD7": [
-          "80898",
+        "AD2": [
+          "61887",
           [
             [
-              51,
+              6,
               "F",
-              "ONLINE",
-              1,
+              "1022 Lincoln Hall",
+              9,
+              [
+                "Jenkins, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AD3": [
+          "61888",
+          [
+            [
+              7,
+              "F",
+              "1022 Lincoln Hall",
+              9,
+              [
+                "Jenkins, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "61867",
+          [
+            [
+              5,
+              "MW",
+              "160 English Building",
+              0,
+              [
+                "Jenkins, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Special attention is paid to the Grimms' tales in terms of traditional narrative genres, elements of life in early modern Europe, and versions from Italy and France as well as Germany. Course is conducted in English.",
+      []
+    ],
+    "GER 270": [
+      "Sexuality and Literature",
+      {
+        "DIS": [
+          "55781",
+          [
+            [
+              36,
+              "TR",
+              "1024 Literatures, Cultures, & Ling",
+              5,
+              [
+                "Niekerk, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Examination of the historical contexts in which sexuality has been debated during the past three centuries, and to what extent sexuality is perceived differently in diverse cultures. Part one will look at the Western tradition, especially Germany. Part two will shift focus to the non-Western world, especially to the colonial history of Indonesia.",
+      []
+    ],
+    "GER 331": [
+      "Intro to German Literature",
+      {
+        "D": [
+          "46783",
+          [
+            [
+              36,
+              "MW",
+              "1128 Literatures, Cultures, & Ling",
+              5,
               [
                 "Unassigned Instructor"
               ],
@@ -879,87 +603,21 @@
             ]
           ],
           3,
-          8,
           0,
-          [],
-          -1
-        ],
-        "LE1": [
-          "68059",
-          [
-            [
-              4,
-              "T",
-              "ONLINE",
-              1,
-              [
-                "Gutierrez, R"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          4,
-          0,
-          [],
-          -1
-        ],
-        "LE2": [
-          "73473",
-          [
-            [
-              4,
-              "T",
-              "ONLINE",
-              1,
-              [
-                "Gutierrez, R"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          4,
-          0,
-          [],
-          -1
-        ],
-        "LE3": [
-          "73474",
-          [
-            [
-              4,
-              "T",
-              "ONLINE",
-              1,
-              [
-                "Gutierrez, R"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          4,
           0,
           [],
           -1
         ]
       },
       [],
-      "Examines the nature of justice and the dynamics of a pluralistic society to derive a conception of social justice. Working with this conception, it asks how schools function to perpetuate and/or remediate social injustice. The course will consider the history and nature of schooling, issues of access and tracking, and notions of the public and the common. The course is designed for students interested in reflecting on their own educational histories, for those considering careers in teaching, and for all future parents and citizens needing to be able to reflect critically on justice, school, and society.",
+      "Introductory study of representative works (prose, drama, lyric) by outstanding German, Austrian, and Swiss writers of the modern period.",
       []
     ],
-    "EDUC 299": [
-      "Education Study Abroad",
+    "GER 299": [
+      "Study Abroad",
       {
-        "STA": [
-          "77612",
+        "E": [
+          "50899",
           [
             [
               8,
@@ -967,7 +625,7 @@
               "ONLINE",
               1,
               [
-                "Witt, A"
+                "Unassigned Instructor"
               ],
               -1,
               -1,
@@ -982,14 +640,44 @@
         ]
       },
       [],
-      "Provides credit toward the undergraduate degree for study at approved, accredited foreign institutions or approved overseas programs. Final determination of credit is made upon the student's completion of the work. College of Education students studying abroad on a Campus or College of Education program should enroll in 299 as a placeholder course for a semester length study abroad and in 499 for short term study abroad programs.",
+      "Lectures, seminars, and practical work in German language, literature, civilization, and in other academic areas appropriate to the student's course of study.",
       []
     ],
-    "EDUC 499": [
-      "Education Abroad",
+    "GER 385": [
+      "Politics of the European Union",
       {
-        "GSA": [
-          "71150",
+        "A": [
+          "44149",
+          [
+            [
+              60,
+              "MW",
+              "206 David Kinley Hall",
+              7,
+              [
+                "Kourtikakis, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as EURO 385, FR 385, and PS 385. See PS 385.",
+      []
+    ],
+    "GER 455": [
+      "Multilingual Europe",
+      {
+        "CW": [
+          "81430",
           [
             [
               8,
@@ -997,9 +685,37 @@
               "ONLINE",
               1,
               [
-                "Liu, W",
-                "Minniear, J",
-                "Witt, A"
+                "Webster, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Exploration of multilingualism in the European context. Focus is on the historical, linguistic, cultural, and sociopolitical aspects of multilingualism across Europe. Topics include language policies and use in multinational institutions, language diversity, educational policies and practices, the role of English, and changing multilingualism in urban environments.",
+      []
+    ],
+    "GER 460": [
+      "Principles of Language Testing",
+      {
+        "G4": [
+          "33696",
+          [
+            [
+              36,
+              "TR",
+              "G27 Literatures, Cultures, & Ling",
+              5,
+              [
+                "Tywoniw, R"
               ],
               -1,
               -1,
@@ -1007,23 +723,21 @@
             ]
           ],
           4,
-          3,
+          0,
           0,
           [],
           -1
         ],
-        "IGS": [
-          "69728",
+        "U3": [
+          "33435",
           [
             [
-              8,
-              "",
-              "ONLINE",
-              1,
+              36,
+              "TR",
+              "G27 Literatures, Cultures, & Ling",
+              5,
               [
-                "Liu, W",
-                "Minniear, J",
-                "Witt, A"
+                "Tywoniw, R"
               ],
               -1,
               -1,
@@ -1031,23 +745,59 @@
             ]
           ],
           4,
-          3,
+          0,
           0,
           [],
           -1
-        ],
-        "SMA": [
-          "71149",
+        ]
+      },
+      [],
+      "Same as EIL 460, EPSY 487, FR 460, ITAL 460, PORT 460, and SPAN 460. See EIL 460.",
+      []
+    ],
+    "GER 471": [
+      "Enlightenment to Romanticism",
+      {
+        "UG": [
+          "46786",
           [
             [
-              8,
-              "",
-              "ONLINE",
-              1,
+              33,
+              "T",
+              "G46 Literatures, Cultures, & Ling",
+              5,
               [
-                "Liu, W",
-                "Minniear, J",
-                "Witt, A"
+                "Johnson, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Literary, thematic, cultural, and bibliographical analysis of the major authors, works, genres, and movements in German literature from 1720 to 1830.",
+      []
+    ],
+    "GER 489": [
+      "Theoretical Foundations of SLA",
+      {
+        "G4": [
+          "33656",
+          [
+            [
+              3,
+              "MWF",
+              "G20 Literatures, Cultures, & Ling",
+              5,
+              [
+                "Mendoza, A"
               ],
               -1,
               -1,
@@ -1055,23 +805,21 @@
             ]
           ],
           4,
-          3,
+          0,
           0,
           [],
           -1
         ],
-        "SR": [
-          "72828",
+        "U3": [
+          "33457",
           [
             [
-              8,
-              "",
-              "ONLINE",
-              1,
+              3,
+              "MWF",
+              "G20 Literatures, Cultures, & Ling",
+              5,
               [
-                "Liu, W",
-                "Minniear, J",
-                "Witt, A"
+                "Mendoza, A"
               ],
               -1,
               -1,
@@ -1079,13 +827,21 @@
             ]
           ],
           4,
-          3,
+          0,
           0,
           [],
           -1
-        ],
-        "WBS": [
-          "69727",
+        ]
+      },
+      [],
+      "Same as FR 481, ITAL 489, LING 489, PORT 489, and SPAN 489. See LING 489.",
+      []
+    ],
+    "GER 491": [
+      "Honors Senior Thesis",
+      {
+        "": [
+          "10289",
           [
             [
               8,
@@ -1093,9 +849,119 @@
               "ONLINE",
               1,
               [
-                "Liu, W",
-                "Minniear, J",
-                "Witt, A"
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Intended primarily for candidates for honors in German, but open to other seniors.",
+      []
+    ],
+    "GER 496": [
+      "Special Topics German Studies",
+      {
+        "": [
+          "10291",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Intensive study of restricted topics in German language, literature, and culture.",
+      []
+    ],
+    "GER 510": [
+      "Introduction to Graduate Study",
+      {
+        "T": [
+          "30463",
+          [
+            [
+              33,
+              "W",
+              "1024 Literatures, Cultures, & Ling",
+              5,
+              [
+                "Hilger, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Bibliography and methodology of the study of the Germanic languages and literatures, with particular regard to German literature and Germanic linguistics; introduction to scholarship in general and the German profession in particular, including the modes and methods of scholarly endeavor.",
+      []
+    ],
+    "GER 511": [
+      "Applied Literary Translation I",
+      {
+        "C": [
+          "72615",
+          [
+            [
+              133,
+              "M",
+              "G96 Literatures, Cultures, & Ling",
+              5,
+              [
+                "Jenkins, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "E": [
+          "73865",
+          [
+            [
+              133,
+              "M",
+              "ONLINE",
+              1,
+              [
+                "Jenkins, R"
               ],
               -1,
               -1,
@@ -1110,7 +976,149 @@
         ]
       },
       [],
-      "This course will serve as a foundation for your education abroad experience. The class will center on the experience of travel as it relates to education - your own education, the education systems and policies you encounter, as well as your prospective role as a future educator. This course will introduce comparative education inquiry and provide space to consider the cultural, political, and ethical implications of engaging in education travel and research in cross-cultural, global contexts.",
+      "Same as CWL 511, EALC 511, SLAV 501, and TRST 501. See TRST 501.",
+      []
+    ],
+    "GER 574": [
+      "19thC German Studies",
+      {
+        "G": [
+          "39733",
+          [
+            [
+              33,
+              "T",
+              "G46 Literatures, Cultures, & Ling",
+              5,
+              [
+                "Johnson, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Seminar in selected genres, themes, or authors of the nineteenth century.",
+      []
+    ],
+    "GER 582": [
+      "German Language Teaching",
+      {
+        "A": [
+          "30472",
+          [
+            [
+              33,
+              "M",
+              "G36 Literatures, Cultures, & Ling",
+              5,
+              [
+                "Webster, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "In-depth exploration of fundamental concepts of teaching German at the college level; designed for Teaching Assistants. Topics include teaching approaches, lesson planning, vocabulary, grammar, listening, speaking, reading, writing, culture, assessment, instructional technology, and curriculum design.",
+      []
+    ],
+    "GER 584": [
+      "Theories in Second Language Acquisition",
+      {
+        "G": [
+          "35669",
+          [
+            [
+              20,
+              "M",
+              "1024 Lincoln Hall",
+              9,
+              [
+                "Jegerski, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as CI 584, EALC 584, EPSY 563, FR 584, ITAL 584, LING 584, PORT 584, and SPAN 584. See SPAN 584.",
+      []
+    ],
+    "GER 593": [
+      "Research in Special Topics",
+      {
+        "": [
+          "10295",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "CRW": [
+          "78859",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Webster, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "May be repeated to a maximum of 8 hours.",
       []
     ]
   },
@@ -1268,7 +1276,22 @@
       "0800 - 1500",
       "1600 - 1630",
       "0800 - 1200",
-      "1000 - 1700"
+      "1000 - 1700",
+      "1600 - 1730",
+      "1500 - 1700",
+      "1420 - 1640",
+      "0900 - 1100",
+      "1730 - 2020",
+      "1730 - 2120",
+      "1900 - 2150",
+      "1700 - 2050",
+      "1800 - 1920",
+      "1400 - 1540",
+      "1530 - 1710",
+      "0830 - 1350",
+      "1000 - 1250",
+      "1800 - 2000",
+      "1230 - 1450"
     ],
     "dateRanges": [],
     "scheduleTypes": [

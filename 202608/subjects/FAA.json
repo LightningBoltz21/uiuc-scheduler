@@ -1,28 +1,77 @@
 {
-  "subject": "EDUC",
-  "scrapedAt": 1775444139607,
-  "courseCount": 8,
+  "subject": "FAA",
+  "scrapedAt": 1775444203852,
+  "courseCount": 14,
   "courses": {
-    "EDUC 102": [
-      "Freshman Honors Seminar",
+    "FAA 110": [
+      "Exploring Arts and Creativity",
       {
-        "A": [
-          "54753",
+        "B": [
+          "62348",
           [
             [
-              38,
-              "W",
-              "17 Education Building",
-              14,
+              1,
+              "T",
+              "Location Pending",
+              1,
               [
-                "Mason, C"
+                "Shumway, K",
+                "Smith, S"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          1,
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "C": [
+          "63086",
+          [
+            [
+              0,
+              "M",
+              "Location Pending",
+              1,
+              [
+                "Garcia, A",
+                "Huffman, R",
+                "Watkins, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "CHP": [
+          "66964",
+          [
+            [
+              60,
+              "R",
+              "3601 Krannert Center for Perf Arts",
+              46,
+              [
+                "Mehrtens, B",
+                "Morrissette, J",
+                "Watkins, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
           0,
           0,
           [],
@@ -30,22 +79,56 @@
         ]
       },
       [],
-      "Provides an introduction to critical issues in education with focus on selected contemporary issues in the field; emphasis is on critical analysis and reflection on relationships between teachers, schools, and society.",
+      "High and street art, tradition and experimentation, the familiar and unfamiliar, international and American creativity provide this course's foundation. Students will attend performances and exhibitions, interact with artists, and examine core issues associated with the creative process in our increasingly complex global society. Faculty from the arts, sciences, humanities, and other domains will lead students through visual arts, music, dance, and theatre experiences at Krannert Center and Krannert Art Museum to spark investigation and dialogue.",
       []
     ],
-    "EDUC 101": [
-      "Education Orientation Seminar",
+    "FAA 201": [
+      "Black Arts Today",
       {
-        "AD1": [
-          "65549",
+        "BA": [
+          "77410",
           [
             [
-              37,
-              "M",
-              "323 Education Building",
-              14,
+              8,
+              "",
+              "ONLINE",
+              1,
               [
-                "Mason, C"
+                "Adewunmi, T",
+                "Navy, S",
+                "Richardson, C",
+                "Robertson, T",
+                "Russell, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "A global course in theorizing Black cultural expression. It surveys artistic and cultural responses to types of racism (racial formations), modes of Black resistance and resiliency, and expressions of Black liberation and self-determination. Topics range from Spirituals, Gospel, and \"ring-shouts\" to Western classical music, ballet and modern dance; from Blues, Jazz, and Hip-Hop to African-inspired architecture and Blues tropes embedded in urban and regional segregationist planning; and from the lineage of Black Art + Design to the power of place of the Black Metropolis. As such, the course attends to the geographies of place and ontologies of time, i.e., moments formed from the intersection of Black social movements against white supremacy and Black reimagining of what it means to be human. Through a series of engagements with faculty-artists and researchers in the College of Fine & Applied Arts, Black Arts Today explores the practice and speculative spaces (imaginaries) in which FAA artists-instructors-researchers engage Black Arts or transmit Blackness to the arts.",
+      []
+    ],
+    "FAA 101": [
+      "Arts at Illinois",
+      {
+        "ADA": [
+          "58686",
+          [
+            [
+              23,
+              "T",
+              "156 English Building",
+              0,
+              [
+                "Daniels, R"
               ],
               -1,
               -1,
@@ -58,126 +141,16 @@
           [],
           -1
         ],
-        "AD2": [
-          "65550",
+        "ADB": [
+          "58692",
           [
             [
-              37,
+              5,
               "M",
-              "242 Education Building",
-              14,
-              [
-                "Mason, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          1,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AD3": [
-          "65551",
-          [
-            [
-              37,
-              "M",
-              "389 Education Building",
-              14,
-              [
-                "Mason, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          1,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AD4": [
-          "78105",
-          [
-            [
-              37,
-              "M",
-              "376 Education Building",
-              14,
-              [
-                "Mason, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          1,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AD5": [
-          "81007",
-          [
-            [
-              37,
-              "M",
-              "385 Education Building",
-              14,
-              [
-                "Mason, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          1,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AE1": [
-          "45811",
-          [
-            [
-              7,
-              "M",
-              "213 Gregory Hall",
+              "217 Gregory Hall",
               6,
               [
-                "Mason, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          1,
-          2,
-          0,
-          [],
-          -1
-        ],
-        "BD1": [
-          "65552",
-          [
-            [
-              37,
-              "R",
-              "22 Education Building",
-              14,
-              [
-                "Mason, C"
+                "Daniels, R"
               ],
               -1,
               -1,
@@ -190,60 +163,16 @@
           [],
           -1
         ],
-        "BD2": [
-          "65553",
+        "ADC": [
+          "58693",
           [
             [
-              37,
-              "R",
-              "389 Education Building",
-              14,
-              [
-                "Mason, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          1,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "BD3": [
-          "65554",
-          [
-            [
-              37,
-              "R",
-              "385 Education Building",
-              14,
-              [
-                "Mason, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          1,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "BD4": [
-          "80260",
-          [
-            [
-              37,
-              "R",
+              6,
+              "T",
               "G18 Literatures, Cultures, & Ling",
               5,
               [
-                "Mason, C"
+                "Daniels, R"
               ],
               -1,
               -1,
@@ -256,710 +185,472 @@
           [],
           -1
         ],
-        "BD5": [
-          "81008",
-          [
-            [
-              37,
-              "R",
-              "236 Wohlers Hall",
-              20,
-              [
-                "Mason, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          1,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "BE1": [
-          "45812",
-          [
-            [
-              7,
-              "R",
-              "62 Krannert Art Museum",
-              36,
-              [
-                "Mason, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          1,
-          2,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Informational orientation seminar for Education majors to enhance their understanding of college life and the field of education as a profession.",
-      []
-    ],
-    "EDUC 199": [
-      "Undergraduate Open Seminar",
-      {
-        "LF": [
-          "75365",
-          [
-            [
-              44,
-              "M",
-              "64 Allen Residence Hall",
-              1,
-              [
-                "Fink, L"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          6,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "NS2": [
-          "78260",
-          [
-            [
-              152,
-              "S",
-              "Location Pending",
-              1,
-              [
-                "Sanden, N"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              44,
-              "M",
-              "Location Pending",
-              1,
-              [
-                "Sanden, N"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          6,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "NS3": [
-          "78261",
-          [
-            [
-              152,
-              "S",
-              "Location Pending",
-              1,
-              [
-                "Sanden, N"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              33,
-              "T",
-              "Location Pending",
-              1,
-              [
-                "Sanden, N"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          6,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "SA2": [
-          "75979",
-          [
-            [
-              1,
-              "W",
-              "323 Education Building",
-              14,
-              [
-                "Threadgill, R"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          6,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "SAS": [
-          "78882",
-          [
-            [
-              1,
-              "W",
-              "323 Education Building",
-              14,
-              [
-                "Threadgill, R"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          6,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "VSI": [
-          "76398",
-          [
-            [
-              8,
-              "",
-              "ONLINE",
-              1,
-              [
-                "Minniear, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          6,
-          3,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "See class schedule for topics.",
-      []
-    ],
-    "EDUC 201": [
-      "Identity and Difference in Education",
-      {
-        "AD1": [
-          "64441",
-          [
-            [
-              32,
-              "W",
-              "325 David Kinley Hall",
-              7,
-              [
-                "Carvalho de Castro, V"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AD2": [
-          "64442",
-          [
-            [
-              32,
-              "W",
-              "385 Education Building",
-              14,
-              [
-                "Carvalho de Castro, V"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AD3": [
-          "64443",
-          [
-            [
-              32,
-              "R",
-              "42A Education Building",
-              14,
-              [
-                "Carvalho de Castro, V"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AD4": [
-          "64444",
-          [
-            [
-              33,
-              "W",
-              "242 Education Building",
-              14,
-              [
-                "Carvalho de Castro, V"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AD5": [
-          "64445",
-          [
-            [
-              16,
-              "R",
-              "166 Education Building",
-              14,
-              [
-                "Carvalho de Castro, V"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AD6": [
-          "64446",
-          [
-            [
-              16,
-              "W",
-              "242 Bevier Hall",
-              2,
-              [
-                "Carvalho de Castro, V"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AD7": [
-          "64447",
-          [
-            [
-              16,
-              "R",
-              "17 Education Building",
-              14,
-              [
-                "Carvalho de Castro, V"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "LE1": [
-          "64440",
+        "ADD": [
+          "58694",
           [
             [
               4,
               "T",
-              "134 Temple Hoyne Buell Hall",
-              28,
+              "G36 Literatures, Cultures, & Ling",
+              5,
               [
-                "Carvalho de Castro, V"
+                "Daniels, R"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          3,
-          2,
+          1,
+          1,
           0,
           [],
           -1
         ],
-        "LE2": [
-          "73455",
+        "ADE": [
+          "61620",
           [
             [
-              4,
+              5,
               "T",
-              "134 Temple Hoyne Buell Hall",
-              28,
-              [
-                "Carvalho de Castro, V"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          2,
-          0,
-          [],
-          -1
-        ],
-        "LE3": [
-          "73456",
-          [
-            [
-              4,
-              "T",
-              "134 Temple Hoyne Buell Hall",
-              28,
-              [
-                "Carvalho de Castro, V"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          2,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Focuses on the role of identity in schooling and the way in which identity is socially constructed. Examine how power and privilege impact equity and opportunities based on socially constructed identities such as race, social class, gender, sexual identity, language, (dis)ability, and nationalism. Explore asset-based frameworks that are identity affirming and counter deficit-based perspectives. This course is designed for students interested in reflecting on their own experiences as learners by critically examining their socially constructed identities and \"ways of knowing\" and the societal implications of these experiences. It is also for those considering careers in teaching, and anyone interested in reflecting on how issues of inclusion, exclusion, power, and privilege play out in education.",
-      []
-    ],
-    "EDUC 205": [
-      "Introduction to Learning and Education Studies",
-      {
-        "A": [
-          "81229",
-          [
-            [
+              "205 Gregory Hall",
               6,
-              "MW",
-              "37 Education Building",
-              14,
               [
-                "Mason, C"
+                "Daniels, R"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          2,
-          0,
+          1,
+          1,
           0,
           [],
           -1
-        ]
-      },
-      [],
-      "Introduces students to foundational ideas in learning and education studies that extend beyond teaching in a traditional classroom context, including those related to educational technology; diversity, equity, and inclusion; workforce training and development; and education policy. Students will explore careers and opportunities related to these ideas and develop their own career and degree plans.",
-      []
-    ],
-    "EDUC 202": [
-      "Social Justice, School and Society",
-      {
-        "AD1": [
-          "68060",
+        ],
+        "ADF": [
+          "58696",
           [
             [
-              51,
+              5,
               "W",
+              "217 Gregory Hall",
+              6,
+              [
+                "Daniels, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADG": [
+          "58699",
+          [
+            [
+              25,
+              "W",
+              "156 English Building",
+              0,
+              [
+                "Daniels, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADI": [
+          "58702",
+          [
+            [
+              38,
+              "R",
+              "127 English Building",
+              0,
+              [
+                "Daniels, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADJ": [
+          "58703",
+          [
+            [
+              4,
+              "R",
+              "2078 Natural History Building",
+              38,
+              [
+                "Daniels, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADK": [
+          "58704",
+          [
+            [
+              5,
+              "W",
+              "G48 Literatures, Cultures, & Ling",
+              5,
+              [
+                "Daniels, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADL": [
+          "58705",
+          [
+            [
+              23,
+              "W",
+              "156 English Building",
+              0,
+              [
+                "Daniels, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADM": [
+          "58698",
+          [
+            [
+              4,
+              "W",
+              "205 Gregory Hall",
+              6,
+              [
+                "Daniels, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADN": [
+          "58695",
+          [
+            [
+              5,
+              "M",
+              "205 Gregory Hall",
+              6,
+              [
+                "Daniels, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADO": [
+          "58697",
+          [
+            [
+              38,
+              "T",
+              "127 English Building",
+              0,
+              [
+                "Daniels, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADP": [
+          "58706",
+          [
+            [
+              4,
+              "M",
+              "205 Gregory Hall",
+              6,
+              [
+                "Daniels, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADQ": [
+          "58700",
+          [
+            [
+              38,
+              "R",
               "389 Education Building",
               14,
               [
-                "Unassigned Instructor"
+                "Daniels, R"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          3,
+          1,
           1,
           0,
           [],
           -1
         ],
-        "AD2": [
-          "68061",
+        "ADR": [
+          "61621",
           [
             [
-              16,
+              38,
               "R",
-              "109 Sch of Info Sciences Bldg",
-              1,
+              "G24 Literatures, Cultures, & Ling",
+              5,
               [
-                "Unassigned Instructor"
+                "Daniels, R"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          3,
+          1,
           1,
           0,
           [],
           -1
         ],
-        "AD3": [
-          "68062",
+        "ADS": [
+          "69419",
           [
             [
-              18,
-              "F",
-              "170 Wohlers Hall",
-              20,
-              [
-                "Unassigned Instructor"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AD4": [
-          "68063",
-          [
-            [
-              32,
-              "F",
-              "ONLINE",
-              1,
-              [
-                "Unassigned Instructor"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          8,
-          0,
-          [],
-          -1
-        ],
-        "AD5": [
-          "71371",
-          [
-            [
-              18,
-              "W",
-              "236 Wohlers Hall",
-              20,
-              [
-                "Unassigned Instructor"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AD6": [
-          "78106",
-          [
-            [
-              16,
-              "W",
-              "221 Gregory Hall",
+              4,
+              "M",
+              "215 Gregory Hall",
               6,
               [
-                "Unassigned Instructor"
+                "Daniels, R"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          3,
+          1,
           1,
           0,
           [],
           -1
         ],
-        "AD7": [
-          "80898",
+        "ADT": [
+          "69420",
           [
             [
-              51,
+              5,
+              "R",
+              "205 Gregory Hall",
+              6,
+              [
+                "Daniels, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADU": [
+          "78650",
+          [
+            [
+              23,
+              "T",
+              "162 Education Building",
+              14,
+              [
+                "Daniels, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "58685",
+          [
+            [
+              4,
               "F",
-              "ONLINE",
+              "114 Smith Memorial Hall",
               1,
               [
-                "Unassigned Instructor"
+                "Daniels, R"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          3,
-          8,
-          0,
-          [],
-          -1
-        ],
-        "LE1": [
-          "68059",
-          [
-            [
-              4,
-              "T",
-              "ONLINE",
-              1,
-              [
-                "Gutierrez, R"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          4,
-          0,
-          [],
-          -1
-        ],
-        "LE2": [
-          "73473",
-          [
-            [
-              4,
-              "T",
-              "ONLINE",
-              1,
-              [
-                "Gutierrez, R"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          4,
-          0,
-          [],
-          -1
-        ],
-        "LE3": [
-          "73474",
-          [
-            [
-              4,
-              "T",
-              "ONLINE",
-              1,
-              [
-                "Gutierrez, R"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          4,
+          1,
+          2,
           0,
           [],
           -1
         ]
       },
       [],
-      "Examines the nature of justice and the dynamics of a pluralistic society to derive a conception of social justice. Working with this conception, it asks how schools function to perpetuate and/or remediate social injustice. The course will consider the history and nature of schooling, issues of access and tracking, and notions of the public and the common. The course is designed for students interested in reflecting on their own educational histories, for those considering careers in teaching, and for all future parents and citizens needing to be able to reflect critically on justice, school, and society.",
+      "Common Arts experience for FAA first-year students that explores contemporary issues in the arts, cross-disciplinary ingenuity navigating a comprehensive research intensive university, professional practices and exposures to FAA faculty and guest artists through lectures, discussion groups, and online components.",
       []
     ],
-    "EDUC 299": [
-      "Education Study Abroad",
+    "FAA 250": [
+      "Interdisciplinary Design Lab I",
       {
-        "STA": [
-          "77612",
+        "A": [
+          "81593",
+          [
+            [
+              51,
+              "F",
+              "160 Armory",
+              25,
+              [
+                "Schultz, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "A project-based course where students from diverse fields collaborate on creative design challenges. Working in teams, they will conceptualize, prototype, and showcase interactive experiences informed by human-centered design. Emphasizing storytelling, structured feedback, and critical reflection, the course develops collaborative and creative problem-solving skills. Each semester introduces a new design challenge, preparing students for work in game design, interactive media, and related creative industries.",
+      []
+    ],
+    "FAA 230": [
+      "Sustainable Design of the Built Environment",
+      {
+        "DS": [
+          "74445",
+          [
+            [
+              1,
+              "MW",
+              "1046 Siebel Center for Design",
+              17,
+              [
+                "Hodgin Jones, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "This seminar introduces fundamental readings in sustainability and resilient design. Presents diverse perspectives on sustainability, encouraging students to understand and critique different meanings of sustainability over time and geography.",
+      []
+    ],
+    "FAA 299": [
+      "FAA Study Abroad",
+      {
+        "A": [
+          "30185",
           [
             [
               8,
@@ -967,7 +658,7 @@
               "ONLINE",
               1,
               [
-                "Witt, A"
+                "Turner, N"
               ],
               -1,
               -1,
@@ -982,135 +673,251 @@
         ]
       },
       [],
-      "Provides credit toward the undergraduate degree for study at approved, accredited foreign institutions or approved overseas programs. Final determination of credit is made upon the student's completion of the work. College of Education students studying abroad on a Campus or College of Education program should enroll in 299 as a placeholder course for a semester length study abroad and in 499 for short term study abroad programs.",
+      "Provides campus credit for foreign study and/or travel. A detailed proposal for study abroad must be submitted for approval by the appropriate committee of the department in which the student is studying and the college dean's office prior to such study abroad. Final determination of credit and its application toward the degree is made after a review of the student's work abroad by the above committee and college office. (summer session, 0 to 6 undergraduate hours).",
       []
     ],
-    "EDUC 499": [
-      "Education Abroad",
+    "FAA 310": [
+      "FAA Professional Development",
       {
-        "GSA": [
-          "71150",
+        "A": [
+          "65744",
           [
             [
-              8,
-              "",
-              "ONLINE",
-              1,
+              73,
+              "F",
+              "386 Armory",
+              25,
               [
-                "Liu, W",
-                "Minniear, J",
-                "Witt, A"
+                "Hodgin Jones, K",
+                "Smart, A"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          4,
-          3,
+          2,
           0,
-          [],
-          -1
-        ],
-        "IGS": [
-          "69728",
-          [
-            [
-              8,
-              "",
-              "ONLINE",
-              1,
-              [
-                "Liu, W",
-                "Minniear, J",
-                "Witt, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          3,
-          0,
-          [],
-          -1
-        ],
-        "SMA": [
-          "71149",
-          [
-            [
-              8,
-              "",
-              "ONLINE",
-              1,
-              [
-                "Liu, W",
-                "Minniear, J",
-                "Witt, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          3,
-          0,
-          [],
-          -1
-        ],
-        "SR": [
-          "72828",
-          [
-            [
-              8,
-              "",
-              "ONLINE",
-              1,
-              [
-                "Liu, W",
-                "Minniear, J",
-                "Witt, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          3,
-          0,
-          [],
-          -1
-        ],
-        "WBS": [
-          "69727",
-          [
-            [
-              8,
-              "",
-              "ONLINE",
-              1,
-              [
-                "Liu, W",
-                "Minniear, J",
-                "Witt, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          3,
           0,
           [],
           -1
         ]
       },
       [],
-      "This course will serve as a foundation for your education abroad experience. The class will center on the experience of travel as it relates to education - your own education, the education systems and policies you encounter, as well as your prospective role as a future educator. This course will introduce comparative education inquiry and provide space to consider the cultural, political, and ethical implications of engaging in education travel and research in cross-cultural, global contexts.",
+      "Focuses on tailoring written, verbal, and online presentations to targeted audiences. Students will develop an application package including resume, letter, LinkedIn profile, elevator pitch, interview skills, and website. Course information: Prerequisite: Sophomore, junior or senior standing in FAA is required.",
+      []
+    ],
+    "FAA 398": [
+      "Sustainable Design Internship",
+      {
+        "SD": [
+          "75986",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Smart, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          9,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Supervised field experience in a full-time or part-time internship position related to the field of Sustainable Design. Designed to introduce students to professional employment and actual practice. Full documentation and approval of internship activities required.",
+      []
+    ],
+    "FAA 430": [
+      "Sustainable Design Capstone Seminar",
+      {
+        "AD": [
+          "74765",
+          [
+            [
+              0,
+              "TR",
+              "1000 Siebel Center for Design",
+              17,
+              [
+                "Stallmeyer, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduces advanced research themes, methods, and techniques for seniors in the Bachelor of Science in Sustainable Design. Emphasis is placed on students developing their own research topics, using multiple representational forms, including writing, drawing, mapping, and modeling.",
+      []
+    ],
+    "FAA 490": [
+      "Minoritarian Aesthetics Independent Study",
+      {
+        "A": [
+          "80112",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Ruiz, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Independent study of a theoretical or creative project on a topic in the field of minoritarian aesthetics. Minoritarian Aesthetics is an interdisciplinary field focusing on performance and aesthetics as inseparable from social life. It values minoritarian practices and community involvement across the arts as a lens to examine the complex worlds we communally navigate and share. Students in this course engage in study beyond the current MA course offerings with attention paid to original research.",
+      []
+    ],
+    "FAA 491": [
+      "Special Problems in Sustainable Design",
+      {
+        "A": [
+          "77411",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Hodgin Jones, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Directed independent creative activity or research.",
+      []
+    ],
+    "FAA 495": [
+      "Minoritarian Aesthetics Practicum",
+      {
+        "A": [
+          "81004",
+          [
+            [
+              15,
+              "WF",
+              "1002 Siebel Center for Design",
+              17,
+              [
+                "Ruiz, S",
+                "Smith, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Following a minoritarian aesthetics compass, informed by the disciplines of relational ethnic and performance studies, students will approach critical theory, embodied practice, and collective learning as inseparable. Working closely with one another and with guest artists, scholars, teachers, and curators, as well as practice-based initiatives such as the Mellon funded Minor Aesthetics Lab, students will be asked to display and/or perform their work within the tradition of fusing aesthetics and social life.",
+      []
+    ],
+    "FAA 498": [
+      "Crip* Advanced Study",
+      {
+        "AS": [
+          "79651",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Jones, C",
+                "Sylvestre, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Undergraduate examination of Cripistemology and the Arts through independent study and/or group seminars. Crip* is a practice-based, experimental creative research project and transdisciplinary initiative that critically engages notions of access, embodiment, and representation and aims to develop a creative methodology founded in the application of critical epistemologies. Students in this advanced study course are supported in developing in-depth Crip*-informed research praxes in/around Crip/Disabled arts + culture, cripistemology, and other Crip* principles.",
+      []
+    ],
+    "FAA 597": [
+      "Crip* Graduate Directed Research",
+      {
+        "1": [
+          "78800",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Jones, C",
+                "Sylvestre, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          14,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Directed research project or creative project in the area of Cripistemology and the Arts.",
       []
     ]
   },
@@ -1268,7 +1075,15 @@
       "0800 - 1500",
       "1600 - 1630",
       "0800 - 1200",
-      "1000 - 1700"
+      "1000 - 1700",
+      "1600 - 1730",
+      "1500 - 1700",
+      "1420 - 1640",
+      "0900 - 1100",
+      "1730 - 2020",
+      "1730 - 2120",
+      "1900 - 2150",
+      "1700 - 2050"
     ],
     "dateRanges": [],
     "scheduleTypes": [
