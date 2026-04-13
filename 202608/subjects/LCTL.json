@@ -1,95 +1,13 @@
 {
-  "subject": "LAT",
-  "scrapedAt": 1776049091204,
-  "courseCount": 11,
+  "subject": "LCTL",
+  "scrapedAt": 1776049100598,
+  "courseCount": 3,
   "courses": {
-    "LAT 102": [
-      "Elementary Latin II",
+    "LCTL 201": [
+      "Intermediate Course in a Less Commonly Taught Language I",
       {
-        "E1": [
-          "39442",
-          [
-            [
-              5,
-              "MWF",
-              "1062 Lincoln Hall",
-              9,
-              [
-                "Reeber, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Grammar and reading of easy prose.",
-      []
-    ],
-    "LAT 101": [
-      "Elementary Latin I",
-      {
-        "E2": [
-          "42529",
-          [
-            [
-              4,
-              "MWF",
-              "G48 Literatures, Cultures, & Ling",
-              5,
-              [
-                "Reeber, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "X1": [
-          "31929",
-          [
-            [
-              5,
-              "MWF",
-              "312 Davenport Hall",
-              8,
-              [
-                "Reeber, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Grammar and reading for students who have had no work in Latin.",
-      []
-    ],
-    "LAT 199": [
-      "Undergraduate Open Seminar",
-      {
-        "": [
-          "10504",
+        "AA": [
+          "79976",
           [
             [
               8,
@@ -97,7 +15,7 @@
               "ONLINE",
               1,
               [
-                "Unassigned Instructor"
+                "Aghighi, A"
               ],
               -1,
               -1,
@@ -105,88 +23,29 @@
             ]
           ],
           5,
-          7,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      null,
-      []
-    ],
-    "LAT 201": [
-      "Intermediate Latin",
-      {
-        "A": [
-          "66193",
-          [
-            [
-              5,
-              "MWF",
-              "G20 Literatures, Cultures, & Ling",
-              5,
-              [
-                "Reeber, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Review of grammar; reading of easy narrative prose.",
-      []
-    ],
-    "LAT 401": [
-      "Survey of Latin Literature",
-      {
-        "G": [
-          "76571",
-          [
-            [
-              2,
-              "MWF",
-              "1018 Literatures, Cultures, & Ling",
-              5,
-              [
-                "Garcia-Molina, E"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
+          1,
           0,
           [],
           -1
         ],
-        "U": [
-          "67950",
+        "BUL": [
+          "76531",
           [
             [
-              2,
+              44,
               "MWF",
               "1018 Literatures, Cultures, & Ling",
               5,
               [
-                "Garcia-Molina, E"
+                "Cooper, D",
+                "Dimitrova, I"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          4,
+          5,
           0,
           0,
           [],
@@ -194,29 +53,30 @@
         ]
       },
       [],
-      "Advanced level readings in classical Latin literature.",
+      "Intermediate or intensive language instruction in a selected less commonly taught language. May be repeated with approval. Prerequisite: Consent of instructor.",
       []
     ],
-    "LAT 202": [
-      "Intro to Latin Literature",
+    "LCTL 101": [
+      "Elementary Course in a Less Commonly Taught Language I",
       {
-        "A": [
-          "66194",
+        "BUL": [
+          "76532",
           [
             [
-              5,
-              "MWF",
-              "G20 Literatures, Cultures, & Ling",
+              37,
+              "MTWF",
+              "1110 Literatures, Cultures, & Ling",
               5,
               [
-                "Reeber, J"
+                "Cooper, D",
+                "Dimitrova, I"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          4,
+          5,
           0,
           0,
           [],
@@ -224,111 +84,31 @@
         ]
       },
       [],
-      "Continuation of LAT 201, with readings chiefly in Latin poetic literature.",
+      "Beginner or intensive language instruction in a selected less commonly taught language.",
       []
     ],
-    "LAT 491": [
-      "Readings in Latin Literature",
+    "LCTL 102": [
+      "Elementary Course in a Less Commonly Taught Language II",
       {
-        "G": [
-          "50832",
+        "AMH": [
+          "77964",
           [
             [
-              2,
-              "MWF",
-              "1018 Literatures, Cultures, & Ling",
-              5,
-              [
-                "Garcia-Molina, E"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "U": [
-          "30786",
-          [
-            [
-              2,
-              "MWF",
-              "1018 Literatures, Cultures, & Ling",
-              5,
-              [
-                "Garcia-Molina, E"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Readings in authors or special topics chosen by the instructor from the entire extant literature in Latin.",
-      []
-    ],
-    "LAT 492": [
-      "Senior Thesis",
-      {
-        "": [
-          "10506",
-          [
-            [
-              8,
-              "",
-              "ONLINE",
+              18,
+              "TR",
+              "Location Pending",
               1,
               [
-                "Unassigned Instructor"
+                "Gathogo, M",
+                "Saadah, E",
+                "Wolde-Medhin, T"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          4,
-          7,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Thesis and honors. For candidates for honors in Latin and for other seniors.",
-      []
-    ],
-    "LAT 460": [
-      "Medieval Latin",
-      {
-        "A": [
-          "60231",
-          [
-            [
-              7,
-              "MWF",
-              "149 English Building",
-              0,
-              [
-                "Reeber, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
+          5,
           0,
           0,
           [],
@@ -336,67 +116,7 @@
         ]
       },
       [],
-      "Literary and historical texts in prose and poetry will be read in the original; the course will also cover patristic writings.",
-      []
-    ],
-    "LAT 531": [
-      "Special Disciplines",
-      {
-        "A": [
-          "39439",
-          [
-            [
-              20,
-              "W",
-              "327 Gregory Hall",
-              6,
-              [
-                "Williams, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      null,
-      []
-    ],
-    "LAT 493": [
-      "Independent Reading",
-      {
-        "": [
-          "10509",
-          [
-            [
-              8,
-              "",
-              "ONLINE",
-              1,
-              [
-                "Unassigned Instructor"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          7,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "See Department of the Classics for information.",
+      "Continuing beginning or intensive language instruction in a selected less commonly taught language. May be repeated with approval. Prerequisite: Consent of instructor.",
       []
     ]
   },
@@ -590,7 +310,34 @@
       "1130 - 1320",
       "1700 - 1900",
       "1715 - 1915",
-      "1630 - 1720"
+      "1630 - 1720",
+      "1030 - 1145",
+      "1610 - 1759",
+      "1320 - 1510",
+      "0830 - 0945",
+      "0900 - 1015",
+      "1730 - 1920",
+      "0850 - 1020",
+      "1000 - 1145",
+      "1500 - 1730",
+      "1800 - 2030",
+      "1330 - 1615",
+      "0900 - 1159",
+      "1300 - 1459",
+      "1700 - 1859",
+      "1030 - 1230",
+      "1330 - 1629",
+      "1500 - 1629",
+      "0915 - 1145",
+      "1500 - 1659",
+      "1630 - 1820",
+      "1325 - 1450",
+      "1305 - 1455",
+      "1330 - 1559",
+      "1630 - 1859",
+      "1745 - 1925",
+      "1315 - 1445",
+      "1800 - 2005"
     ],
     "dateRanges": [],
     "scheduleTypes": [
@@ -820,6 +567,10 @@
       {
         "lat": 40.1048704,
         "long": -88.2229036
+      },
+      {
+        "lat": 40.10099,
+        "long": -88.23159
       }
     ],
     "finalDates": [],

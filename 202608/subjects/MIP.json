@@ -1,80 +1,58 @@
 {
-  "subject": "LAT",
-  "scrapedAt": 1776049091204,
-  "courseCount": 11,
+  "subject": "MIP",
+  "scrapedAt": 1776049177589,
+  "courseCount": 3,
   "courses": {
-    "LAT 102": [
-      "Elementary Latin II",
+    "MIP 590": [
+      "Individual Topics",
       {
-        "E1": [
-          "39442",
+        "": [
+          "10166",
           [
             [
-              5,
-              "MWF",
-              "1062 Lincoln Hall",
-              9,
+              8,
+              "",
+              "ONLINE",
+              1,
               [
-                "Reeber, J"
+                "Unassigned Instructor"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          4,
-          0,
+          16,
+          7,
           0,
           [],
           -1
         ]
       },
       [],
-      "Grammar and reading of easy prose.",
+      "For graduate students wishing to study individual problems or topics not assigned in other courses.",
       []
     ],
-    "LAT 101": [
-      "Elementary Latin I",
+    "MIP 595": [
+      "Seminars in Physiology",
       {
-        "E2": [
-          "42529",
+        "1": [
+          "32811",
           [
             [
               4,
-              "MWF",
-              "G48 Literatures, Cultures, & Ling",
-              5,
+              "R",
+              "Location Pending",
+              1,
               [
-                "Reeber, J"
+                "Sweeney, P"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "X1": [
-          "31929",
-          [
-            [
-              5,
-              "MWF",
-              "312 Davenport Hall",
-              8,
-              [
-                "Reeber, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
+          1,
           0,
           0,
           [],
@@ -82,14 +60,14 @@
         ]
       },
       [],
-      "Grammar and reading for students who have had no work in Latin.",
+      "Advanced seminars on current topics of interest in physiology.",
       []
     ],
-    "LAT 199": [
-      "Undergraduate Open Seminar",
+    "MIP 599": [
+      "Thesis Research",
       {
-        "": [
-          "10504",
+        "BDA": [
+          "25520",
           [
             [
               8,
@@ -97,193 +75,21 @@
               "ONLINE",
               1,
               [
-                "Unassigned Instructor"
+                "Auerbach, B"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          5,
+          16,
           7,
           0,
           [],
           -1
-        ]
-      },
-      [],
-      null,
-      []
-    ],
-    "LAT 201": [
-      "Intermediate Latin",
-      {
-        "A": [
-          "66193",
-          [
-            [
-              5,
-              "MWF",
-              "G20 Literatures, Cultures, & Ling",
-              5,
-              [
-                "Reeber, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Review of grammar; reading of easy narrative prose.",
-      []
-    ],
-    "LAT 401": [
-      "Survey of Latin Literature",
-      {
-        "G": [
-          "76571",
-          [
-            [
-              2,
-              "MWF",
-              "1018 Literatures, Cultures, & Ling",
-              5,
-              [
-                "Garcia-Molina, E"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
         ],
-        "U": [
-          "67950",
-          [
-            [
-              2,
-              "MWF",
-              "1018 Literatures, Cultures, & Ling",
-              5,
-              [
-                "Garcia-Molina, E"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Advanced level readings in classical Latin literature.",
-      []
-    ],
-    "LAT 202": [
-      "Intro to Latin Literature",
-      {
-        "A": [
-          "66194",
-          [
-            [
-              5,
-              "MWF",
-              "G20 Literatures, Cultures, & Ling",
-              5,
-              [
-                "Reeber, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Continuation of LAT 201, with readings chiefly in Latin poetic literature.",
-      []
-    ],
-    "LAT 491": [
-      "Readings in Latin Literature",
-      {
-        "G": [
-          "50832",
-          [
-            [
-              2,
-              "MWF",
-              "1018 Literatures, Cultures, & Ling",
-              5,
-              [
-                "Garcia-Molina, E"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "U": [
-          "30786",
-          [
-            [
-              2,
-              "MWF",
-              "1018 Literatures, Cultures, & Ling",
-              5,
-              [
-                "Garcia-Molina, E"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Readings in authors or special topics chosen by the instructor from the entire extant literature in Latin.",
-      []
-    ],
-    "LAT 492": [
-      "Senior Thesis",
-      {
-        "": [
-          "10506",
+        "BW": [
+          "25547",
           [
             [
               8,
@@ -291,89 +97,21 @@
               "ONLINE",
               1,
               [
-                "Unassigned Instructor"
+                "Wang, B"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          4,
+          16,
           7,
           0,
           [],
           -1
-        ]
-      },
-      [],
-      "Thesis and honors. For candidates for honors in Latin and for other seniors.",
-      []
-    ],
-    "LAT 460": [
-      "Medieval Latin",
-      {
-        "A": [
-          "60231",
-          [
-            [
-              7,
-              "MWF",
-              "149 English Building",
-              0,
-              [
-                "Reeber, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Literary and historical texts in prose and poetry will be read in the original; the course will also cover patristic writings.",
-      []
-    ],
-    "LAT 531": [
-      "Special Disciplines",
-      {
-        "A": [
-          "39439",
-          [
-            [
-              20,
-              "W",
-              "327 Gregory Hall",
-              6,
-              [
-                "Williams, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      null,
-      []
-    ],
-    "LAT 493": [
-      "Independent Reading",
-      {
-        "": [
-          "10509",
+        ],
+        "CCH": [
+          "64149",
           [
             [
               8,
@@ -381,14 +119,410 @@
               "ONLINE",
               1,
               [
-                "Unassigned Instructor"
+                "Christian-Hinman, C"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          4,
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "CFG": [
+          "25513",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Grosman, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "DAL": [
+          "25533",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Llano, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "ECB": [
+          "55795",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Bolton, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "EJR": [
+          "25527",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Roy, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "EN": [
+          "64154",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Nelson, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "HJC": [
+          "55794",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Chung, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "HQ": [
+          "25428",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Qiao, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "JVS": [
+          "25521",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Sweedler, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "LTR": [
+          "25539",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Raetzman, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "MKB": [
+          "25542",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Bagchi, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "MUG": [
+          "25543",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Gillette, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "NPT": [
+          "64159",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Tsai, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "PPP": [
+          "25541",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Perez Pinera, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "PSW": [
+          "25517",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Sweeney, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "RG": [
+          "25530",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Gillette, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "SA": [
+          "25525",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Anakk, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "TMF": [
+          "25512",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Fan, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "XY": [
+          "25544",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Yu, X"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
           7,
           0,
           [],
@@ -396,7 +530,7 @@
         ]
       },
       [],
-      "See Department of the Classics for information.",
+      "Research may be conducted under supervision of the thesis advisor in the following areas: (a) cellular and molecular physiology; (b) comparative physiology; (c) mammalian physiology; (d) human physiology; (e) endocrinology; (f) neurophysiology; (g) radiobiology; and (h) environmental and stress physiology.",
       []
     ]
   },
@@ -590,7 +724,42 @@
       "1130 - 1320",
       "1700 - 1900",
       "1715 - 1915",
-      "1630 - 1720"
+      "1630 - 1720",
+      "1030 - 1145",
+      "1610 - 1759",
+      "1320 - 1510",
+      "0830 - 0945",
+      "0900 - 1015",
+      "1730 - 1920",
+      "0850 - 1020",
+      "1000 - 1145",
+      "1500 - 1730",
+      "1800 - 2030",
+      "1330 - 1615",
+      "0900 - 1159",
+      "1300 - 1459",
+      "1700 - 1859",
+      "1030 - 1230",
+      "1330 - 1629",
+      "1500 - 1629",
+      "0915 - 1145",
+      "1500 - 1659",
+      "1630 - 1820",
+      "1325 - 1450",
+      "1305 - 1455",
+      "1330 - 1559",
+      "1630 - 1859",
+      "1745 - 1925",
+      "1315 - 1445",
+      "1800 - 2005",
+      "0800 - 1030",
+      "1200 - 1330",
+      "1130 - 1350",
+      "0830 - 1020",
+      "1130 - 1250",
+      "1000 - 1350",
+      "1600 - 1745",
+      "1000 - 1130"
     ],
     "dateRanges": [],
     "scheduleTypes": [
@@ -820,6 +989,10 @@
       {
         "lat": 40.1048704,
         "long": -88.2229036
+      },
+      {
+        "lat": 40.10099,
+        "long": -88.23159
       }
     ],
     "finalDates": [],

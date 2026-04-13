@@ -1,379 +1,167 @@
 {
-  "subject": "LAT",
-  "scrapedAt": 1776049091204,
-  "courseCount": 11,
+  "subject": "LEAD",
+  "scrapedAt": 1776049101983,
+  "courseCount": 6,
   "courses": {
-    "LAT 102": [
-      "Elementary Latin II",
+    "LEAD 260": [
+      "Foundations of Leadership",
       {
-        "E1": [
-          "39442",
+        "ADA": [
+          "73063",
           [
             [
-              5,
-              "MWF",
-              "1062 Lincoln Hall",
-              9,
+              3,
+              "W",
+              "103 Bevier Hall",
+              2,
               [
-                "Reeber, J"
+                "Smist, J"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          4,
-          0,
+          3,
+          1,
           0,
           [],
           -1
-        ]
-      },
-      [],
-      "Grammar and reading of easy prose.",
-      []
-    ],
-    "LAT 101": [
-      "Elementary Latin I",
-      {
-        "E2": [
-          "42529",
+        ],
+        "ADB": [
+          "73064",
+          [
+            [
+              6,
+              "W",
+              "393 Bevier Hall",
+              2,
+              [
+                "Smist, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADC": [
+          "73065",
           [
             [
               4,
-              "MWF",
-              "G48 Literatures, Cultures, & Ling",
-              5,
+              "R",
+              "103 Bevier Hall",
+              2,
               [
-                "Reeber, J"
+                "Smist, J"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          4,
-          0,
+          3,
+          1,
           0,
           [],
           -1
         ],
-        "X1": [
-          "31929",
-          [
-            [
-              5,
-              "MWF",
-              "312 Davenport Hall",
-              8,
-              [
-                "Reeber, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Grammar and reading for students who have had no work in Latin.",
-      []
-    ],
-    "LAT 199": [
-      "Undergraduate Open Seminar",
-      {
-        "": [
-          "10504",
-          [
-            [
-              8,
-              "",
-              "ONLINE",
-              1,
-              [
-                "Unassigned Instructor"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          7,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      null,
-      []
-    ],
-    "LAT 201": [
-      "Intermediate Latin",
-      {
-        "A": [
-          "66193",
-          [
-            [
-              5,
-              "MWF",
-              "G20 Literatures, Cultures, & Ling",
-              5,
-              [
-                "Reeber, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Review of grammar; reading of easy narrative prose.",
-      []
-    ],
-    "LAT 401": [
-      "Survey of Latin Literature",
-      {
-        "G": [
-          "76571",
-          [
-            [
-              2,
-              "MWF",
-              "1018 Literatures, Cultures, & Ling",
-              5,
-              [
-                "Garcia-Molina, E"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "U": [
-          "67950",
-          [
-            [
-              2,
-              "MWF",
-              "1018 Literatures, Cultures, & Ling",
-              5,
-              [
-                "Garcia-Molina, E"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Advanced level readings in classical Latin literature.",
-      []
-    ],
-    "LAT 202": [
-      "Intro to Latin Literature",
-      {
-        "A": [
-          "66194",
-          [
-            [
-              5,
-              "MWF",
-              "G20 Literatures, Cultures, & Ling",
-              5,
-              [
-                "Reeber, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Continuation of LAT 201, with readings chiefly in Latin poetic literature.",
-      []
-    ],
-    "LAT 491": [
-      "Readings in Latin Literature",
-      {
-        "G": [
-          "50832",
-          [
-            [
-              2,
-              "MWF",
-              "1018 Literatures, Cultures, & Ling",
-              5,
-              [
-                "Garcia-Molina, E"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "U": [
-          "30786",
-          [
-            [
-              2,
-              "MWF",
-              "1018 Literatures, Cultures, & Ling",
-              5,
-              [
-                "Garcia-Molina, E"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Readings in authors or special topics chosen by the instructor from the entire extant literature in Latin.",
-      []
-    ],
-    "LAT 492": [
-      "Senior Thesis",
-      {
-        "": [
-          "10506",
-          [
-            [
-              8,
-              "",
-              "ONLINE",
-              1,
-              [
-                "Unassigned Instructor"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          7,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Thesis and honors. For candidates for honors in Latin and for other seniors.",
-      []
-    ],
-    "LAT 460": [
-      "Medieval Latin",
-      {
-        "A": [
-          "60231",
+        "ADD": [
+          "73066",
           [
             [
               7,
-              "MWF",
-              "149 English Building",
-              0,
+              "R",
+              "393 Bevier Hall",
+              2,
               [
-                "Reeber, J"
+                "Smist, J"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          4,
-          0,
+          3,
+          1,
           0,
           [],
           -1
-        ]
-      },
-      [],
-      "Literary and historical texts in prose and poetry will be read in the original; the course will also cover patristic writings.",
-      []
-    ],
-    "LAT 531": [
-      "Special Disciplines",
-      {
-        "A": [
-          "39439",
+        ],
+        "ADE": [
+          "73067",
           [
             [
-              20,
-              "W",
-              "327 Gregory Hall",
-              6,
+              49,
+              "R",
+              "5 Weston Hall",
+              1,
               [
-                "Williams, C"
+                "Smist, J"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          4,
-          0,
+          3,
+          1,
           0,
           [],
           -1
-        ]
-      },
-      [],
-      null,
-      []
-    ],
-    "LAT 493": [
-      "Independent Reading",
-      {
-        "": [
-          "10509",
+        ],
+        "ADF": [
+          "73068",
+          [
+            [
+              4,
+              "W",
+              "393 Bevier Hall",
+              2,
+              [
+                "Smist, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADJ": [
+          "77359",
+          [
+            [
+              25,
+              "W",
+              "W115 Turner Hall",
+              1,
+              [
+                "Smist, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "73069",
           [
             [
               8,
@@ -381,7 +169,317 @@
               "ONLINE",
               1,
               [
-                "Unassigned Instructor"
+                "Smist, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Study of leadership theories and their application to the development of leadership skills. Students develop a personal philosophy of leadership, prepare a development plan for enhancing leadership skills, and begin a portfolio to record their leadership growth. Explores topics concerning diversity, ethics, and leadership/follower roles.",
+      []
+    ],
+    "LEAD 116": [
+      "Honors Uncommon Reads",
+      {
+        "1": [
+          "78630",
+          [
+            [
+              3,
+              "T",
+              "94AB Illinois Street Residence Lng",
+              1,
+              [
+                "Fitzjarrald, A",
+                "Jackson, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "2": [
+          "78631",
+          [
+            [
+              7,
+              "T",
+              "89 Illinois Street Residence Lng",
+              1,
+              [
+                "Fitzjarrald, A",
+                "Floyd, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "3": [
+          "78632",
+          [
+            [
+              2,
+              "T",
+              "94AB Illinois Street Residence Lng",
+              1,
+              [
+                "Fitzjarrald, A",
+                "Jackson, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "4": [
+          "78633",
+          [
+            [
+              4,
+              "W",
+              "94AB Illinois Street Residence Lng",
+              1,
+              [
+                "Fitzjarrald, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "5": [
+          "78634",
+          [
+            [
+              37,
+              "W",
+              "Location Pending",
+              1,
+              [
+                "Fitzjarrald, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "6": [
+          "78635",
+          [
+            [
+              5,
+              "R",
+              "Location Pending",
+              1,
+              [
+                "Fitzjarrald, A",
+                "White, Z"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "7": [
+          "80578",
+          [
+            [
+              5,
+              "F",
+              "Location Pending",
+              1,
+              [
+                "Fitzjarrald, A",
+                "White, Z"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "8": [
+          "80579",
+          [
+            [
+              2,
+              "R",
+              "94AB Illinois Street Residence Lng",
+              1,
+              [
+                "Carter, A",
+                "Fitzjarrald, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Fosters student inquiry, civic engagement, and leadership through an interdisciplinary exploration of current issues in society. Students will acquire knowledge of current issues, identify connections to their academic major, and increase their motivation to challenge the society in which they live.",
+      []
+    ],
+    "LEAD 140": [
+      "Harnessing Your Interpersonal Intelligence",
+      {
+        "A": [
+          "73431",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Smist, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Students will expand their capacity for communication, collaboration and team leadership to navigate the complexities of the university and beyond. In this course, students will learn communication strategies to work with others and practice self-awareness, self-management, and interpersonal communication skills in a supportive setting to reach their personal potential as emerging leaders.",
+      []
+    ],
+    "LEAD 425": [
+      "Leading Teams",
+      {
+        "A": [
+          "79557",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Rosch, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "This course provides a strong foundation to build the knowledge, attitudes, and behaviors necessary to provide leadership to professional and community work teams. Concepts include the theory and practice of team leadership including group dynamics, group process and development, problem-identification and goal-setting, conflict management and resolution, supervision, and leading diverse teams and in times of change and disruption.",
+      []
+    ],
+    "LEAD 440": [
+      "Interpersonal Intelligence for Professional Success",
+      {
+        "A": [
+          "73439",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Smist, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Students will learn theoretical elements and practical strategies to solve problems, negotiate, and navigate complex situations as an effective leader. This course is designed for students interested in developing their capacity for collaboration and team leadership by addressing the unique challenges facing professionals in business and academic research teams. Whether landing a professional internship, preparing for graduate school, or professional employment, students will develop the essential interpersonal intelligence skills to influence others.",
+      []
+    ],
+    "LEAD 480": [
+      "Collaborative Leadership",
+      {
+        "A": [
+          "73441",
+          [
+            [
+              9,
+              "TR",
+              "166 Bevier Hall",
+              2,
+              [
+                "Smist, J"
               ],
               -1,
               -1,
@@ -389,14 +487,36 @@
             ]
           ],
           4,
-          7,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "AG": [
+          "73442",
+          [
+            [
+              9,
+              "TR",
+              "166 Bevier Hall",
+              2,
+              [
+                "Smist, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
           0,
           [],
           -1
         ]
       },
       [],
-      "See Department of the Classics for information.",
+      "Leadership operates within the context of community. The course will teach the research, theory, and practice of building effective community collaborations to deal with complex societal issues. A collaborative framework will be delivered by which students apply their knowledge of person, organizational, and community leadership to real-world problems.",
       []
     ]
   },
@@ -590,7 +710,34 @@
       "1130 - 1320",
       "1700 - 1900",
       "1715 - 1915",
-      "1630 - 1720"
+      "1630 - 1720",
+      "1030 - 1145",
+      "1610 - 1759",
+      "1320 - 1510",
+      "0830 - 0945",
+      "0900 - 1015",
+      "1730 - 1920",
+      "0850 - 1020",
+      "1000 - 1145",
+      "1500 - 1730",
+      "1800 - 2030",
+      "1330 - 1615",
+      "0900 - 1159",
+      "1300 - 1459",
+      "1700 - 1859",
+      "1030 - 1230",
+      "1330 - 1629",
+      "1500 - 1629",
+      "0915 - 1145",
+      "1500 - 1659",
+      "1630 - 1820",
+      "1325 - 1450",
+      "1305 - 1455",
+      "1330 - 1559",
+      "1630 - 1859",
+      "1745 - 1925",
+      "1315 - 1445",
+      "1800 - 2005"
     ],
     "dateRanges": [],
     "scheduleTypes": [
@@ -820,6 +967,10 @@
       {
         "lat": 40.1048704,
         "long": -88.2229036
+      },
+      {
+        "lat": 40.10099,
+        "long": -88.23159
       }
     ],
     "finalDates": [],
