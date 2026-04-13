@@ -4,7 +4,7 @@
   "year": "2026",
   "term": "fall",
   "startedAt": 1775443586770,
-  "lastUpdated": 1775444271700,
+  "lastUpdated": 1776049067394,
   "totalSubjects": 185,
   "totalCourses": 4498,
   "subjects": [
@@ -18651,19 +18651,42 @@
     "GLBL",
     "GMC",
     "GRK",
-    "GRKM"
+    "GRKM",
+    "GSD",
+    "GWS",
+    "HBSE",
+    "HDFS",
+    "HEBR",
+    "HIST",
+    "HK",
+    "HNDI",
+    "HORT",
+    "HT",
+    "HUM",
+    "IB",
+    "IE",
+    "INFO",
+    "IS",
+    "ITAL",
+    "JAPN",
+    "JOUR",
+    "JS",
+    "KOR",
+    "LA",
+    "LAS",
+    "LAST"
   ],
   "partialSubjects": {
-    "GSD": {
-      "completed": 15,
-      "total": 20,
+    "LAT": {
+      "completed": 9,
+      "total": 11,
       "lastCourse": "ABORTED"
     }
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 2210,
-    "failedCourses": 4,
+    "successfulCourses": 2795,
+    "failedCourses": 5,
     "rateLimitCount": 0
   }
 }

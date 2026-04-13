@@ -1,191 +1,21 @@
 {
-  "subject": "GSD",
-  "scrapedAt": 1776048943485,
-  "courseCount": 20,
+  "subject": "GWS",
+  "scrapedAt": 1776048950062,
+  "courseCount": 31,
   "courses": {
-    "GSD 103": [
-      "The Basics of Game Design",
+    "GWS 100": [
+      "Intro Gender & Women's Studies",
       {
-        "AB1": [
-          "80762",
+        "AD1": [
+          "55561",
           [
             [
-              169,
-              "W",
-              "FAB LAB Art-East Annex, Studio 2",
-              1,
-              [
-                "Unassigned Instructor"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          6,
-          0,
-          [],
-          -1
-        ],
-        "AB2": [
-          "80763",
-          [
-            [
-              169,
+              3,
               "F",
-              "FAB LAB Art-East Annex, Studio 2",
-              1,
-              [
-                "Unassigned Instructor"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          6,
-          0,
-          [],
-          -1
-        ],
-        "AL": [
-          "80761",
-          [
-            [
-              7,
-              "M",
-              "305 Materials Science & Eng Bld",
-              39,
-              [
-                "Butt, E"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          2,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Will introduce you to the tools and principles of game design, as well as the history of game studies and the maker movement. You will learn some of the introductory tools and techniques for rapid prototyping along with exploring games, their history, impacts, and design.",
-      []
-    ],
-    "GSD 101": [
-      "Introduction to Game Studies and Design",
-      {
-        "AD1": [
-          "77118",
-          [
-            [
-              34,
-              "W",
-              "331 Gregory Hall",
-              6,
-              [
-                "Durmaz, O"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AD2": [
-          "77119",
-          [
-            [
-              36,
-              "W",
-              "307 Gregory Hall",
-              6,
-              [
-                "Durmaz, O"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AD3": [
-          "77120",
-          [
-            [
-              27,
-              "W",
-              "53 Sch of Info Sciences Bldg",
-              1,
-              [
-                "Wang, O"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AL": [
-          "77117",
-          [
-            [
-              27,
-              "M",
-              "ONLINE",
-              1,
-              [
-                "Dixon, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          4,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "This broad survey course will provide students across campus an introduction to interdisciplinary game studies, covering both historical/social perspectives and game design. It will explore humanities, social science understandings of play, and the social contexts from which our games and gaming practices arise, as well as the development and consequences of gaming cultures. This course will serve as a broad introduction to issues covered in greater depth in upper-level courses available for students pursuing an Undergraduate Minor in Game Studies & Design.",
-      []
-    ],
-    "GSD 102": [
-      "Introduction to the Videogame Industry",
-      {
-        "AD1": [
-          "77162",
-          [
-            [
-              21,
-              "R",
-              "1022 Literatures, Cultures, & Ling",
+              "G18 Literatures, Cultures, & Ling",
               5,
               [
-                "Shi, S"
+                "Velez, E"
               ],
               -1,
               -1,
@@ -199,15 +29,15 @@
           -1
         ],
         "AD2": [
-          "77163",
+          "55562",
           [
             [
-              1,
-              "R",
-              "119 David Kinley Hall",
-              7,
+              4,
+              "F",
+              "G18 Literatures, Cultures, & Ling",
+              5,
               [
-                "Rangamudri, P"
+                "Velez, E"
               ],
               -1,
               -1,
@@ -221,15 +51,15 @@
           -1
         ],
         "AD3": [
-          "77164",
+          "55564",
           [
             [
-              1,
+              37,
               "R",
-              "1060 Wymer Hall",
-              1,
+              "207 Gregory Hall",
+              6,
               [
-                "Boyce, C"
+                "Velez, E"
               ],
               -1,
               -1,
@@ -242,624 +72,45 @@
           [],
           -1
         ],
-        "AL": [
-          "77161",
-          [
-            [
-              170,
-              "T",
-              "Location Pending",
-              1,
-              [
-                "Bregermann, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          2,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Designed to introduce individuals to the Video Game Industry, its history, current status, processes and future. It includes a survey of the positions and information about how to prepare to enter the Industry.",
-      []
-    ],
-    "GSD 190": [
-      "Explorations in Games",
-      {
-        "BGD": [
-          "80805",
-          [
-            [
-              27,
-              "MW",
-              "Location Pending",
-              1,
-              [
-                "Bequette, K"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          6,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Exploratory study or skills-based instruction in an emerging or special topic related to Game Studies and Design not covered in normal course offerings.",
-      []
-    ],
-    "GSD 390": [
-      "Special Topics in Game Studies & Design",
-      {
-        "AN2": [
-          "77859",
-          [
-            [
-              81,
-              "F",
-              "0060 Siebel Center for Design",
-              17,
-              [
-                "Velazquez, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          6,
-          0,
-          [],
-          -1
-        ],
-        "BLN": [
-          "78560",
-          [
-            [
-              82,
-              "F",
-              "0060 Siebel Center for Design",
-              17,
-              [
-                "Velazquez, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          6,
-          0,
-          [],
-          -1
-        ],
-        "DBU": [
-          "78029",
-          [
-            [
-              171,
-              "MW",
-              "Location Pending",
-              1,
-              [
-                "Baird, D"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          6,
-          0,
-          [],
-          -1
-        ],
-        "DHP": [
-          "78600",
-          [
-            [
-              12,
-              "MW",
-              "322 David Kinley Hall",
-              7,
-              [
-                "Hopping, D"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          6,
-          0,
-          [],
-          -1
-        ],
-        "EB": [
-          "81636",
-          [
-            [
-              21,
-              "TR",
-              "215 Gregory Hall",
-              6,
-              [
-                "Butt, E"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          6,
-          0,
-          [],
-          -1
-        ],
-        "JGP": [
-          "78012",
-          [
-            [
-              170,
-              "TR",
-              "Location Pending",
-              1,
-              [
-                "Hurtado Duarte, P"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          5,
-          0,
-          [],
-          -1
-        ],
-        "MCR": [
-          "78069",
-          [
-            [
-              113,
-              "W",
-              "0060 Siebel Center for Design",
-              17,
-              [
-                "Curtin, M"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          6,
-          0,
-          [],
-          -1
-        ],
-        "U2D": [
-          "80772",
-          [
-            [
-              0,
-              "TR",
-              "146 Armory",
-              25,
-              [
-                "Baird, D"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          6,
-          0,
-          [],
-          -1
-        ],
-        "URP": [
-          "79791",
-          [
-            [
-              8,
-              "",
-              "ONLINE",
-              1,
-              [
-                "Bregermann, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          3,
-          0,
-          [],
-          -1
-        ],
-        "UTP": [
-          "79793",
-          [
-            [
-              172,
-              "R",
-              "ONLINE",
-              1,
-              [
-                "Song, A",
-                "Starks, K"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          3,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Advanced study or skills-based instruction in an emerging or special topic related to Game Studies and Design not covered in normal course offerings.",
-      []
-    ],
-    "GSD 399": [
-      "Advanced Individual Study",
-      {
-        "DCM": [
-          "80148",
-          [
-            [
-              8,
-              "",
-              "ONLINE",
-              1,
-              [
-                "Cermak, D"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          7,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Advanced individual study in a subject related to game studies & design not covered in normal course offerings.",
-      []
-    ],
-    "GSD 403": [
-      "An Introduction to Top Down Video Game Design",
-      {
-        "A": [
-          "77122",
-          [
-            [
-              0,
-              "TR",
-              "110 Speech & Hearing Science Bldg",
-              43,
-              [
-                "Cermak, D"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "The emphasis of this course is on developing an understanding of top down video game design using the various design methodologies and tools introduced in class. Students will form small groups (4-6) and work on their own design within a selected genre (to be determined at the beginning of the semester). Areas of focus include high level design vision, audience evaluation, User Interface and its impact on the design, iteration of a series of design documents (high, medium and low level) and the team dynamics of communication, critique and integration. The goal of the class is to have the small teams use the concepts and the tools taught in class to create a complete design document that will be cataloged for later use.",
-      []
-    ],
-    "GSD 490": [
-      "Advanced Special Topics in Game Studies & Design",
-      {
-        "3DG": [
-          "80760",
-          [
-            [
-              82,
-              "T",
-              "0060 Siebel Center for Design",
-              17,
-              [
-                "Velazquez, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          6,
-          0,
-          [],
-          -1
-        ],
-        "3DU": [
-          "80759",
-          [
-            [
-              82,
-              "T",
-              "0060 Siebel Center for Design",
-              17,
-              [
-                "Velazquez, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          6,
-          0,
-          [],
-          -1
-        ],
-        "ADS": [
-          "79995",
-          [
-            [
-              9,
-              "MW",
-              "Location Pending",
-              1,
-              [
-                "Schultz, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          6,
-          0,
-          [],
-          -1
-        ],
-        "KMS": [
-          "80739",
-          [
-            [
-              173,
-              "WF",
-              "Location Pending",
-              1,
-              [
-                "Starks, K"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          6,
-          0,
-          [],
-          -1
-        ],
-        "TS": [
-          "81632",
-          [
-            [
-              106,
-              "MW",
-              "61 English Building",
-              0,
-              [
-                "Sanders, T"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "TSG": [
-          "81633",
-          [
-            [
-              106,
-              "MW",
-              "61 English Building",
-              0,
-              [
-                "Sanders, T"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Topics of current interest. Advanced study in an emerging or special topic related to Game Studies and Design not covered in normal course offerings.",
-      []
-    ],
-    "GSD 409": [
-      "Design & Programming of Narrative Games & Simulations",
-      {
-        "ALG": [
-          "77657",
-          [
-            [
-              174,
-              "T",
-              "Location Pending",
-              1,
-              [
-                "Pintar, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          6,
-          0,
-          [],
-          -1
-        ],
-        "ALU": [
-          "77656",
-          [
-            [
-              174,
-              "T",
-              "Location Pending",
-              1,
-              [
-                "Pintar, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          6,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Introduction to the narrative design process for the authoring of text-based digital games and simulations. You will become proficient in Inform 7, a programming language and design system for parser-based interactive fiction (IF). By the end of the semester you will have developed a game or literary work of IF and made a substantive contribution to a collaborative project. No prior programming knowledge is required for students to be successful in the course. Students will be expected to bring a laptop to class. Please note that this course teaches design and programming techniques for \"parser-based\" interactive fiction, and does not cover Twine, or other hyper-text based interactive narrative systems.",
-      []
-    ],
-    "GSD 511": [
-      "Game Development I",
-      {
-        "1": [
-          "81675",
-          [
-            [
-              8,
-              "",
-              "ONLINE",
-              1,
-              [
-                "Unassigned Instructor"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          3,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "The focus of this course is on implementing professional studio business practices into the planning of interactive projects. Areas of focus include high level design vision, audience evaluation, User Interface and its impact on the design, iteration of a series of design documents (high, medium and low level) and the team dynamics of communication, critique and integration. Students will create work plans, development documents, and a prototype for a collaborative game project.",
-      []
-    ],
-    "GSD 503": [
-      "Seminar in Game Design",
-      {
-        "AL": [
-          "78530",
-          [
-            [
-              14,
-              "F",
-              "135 English Building",
-              0,
-              [
-                "Starks, K"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          6,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "This team-taught seminar provides students an in-depth exploration of game design methodologies across a range of modalities (board games, interactive narrative games, role-playing games, video games, escape rooms). This course is meant to create an intellectual community for game studies minors whose main interest is in the design and development of games, either by themselves, or with applications in their own disciplinary areas. Guest speakers from participating units across campus will present their work as it pertains to game design and development. Graduate level readings will address contemporary game design challenges. Students who take this course as part of their minor degree will be expected to return to the seminar as a guest speaker near the end of their program, to share their game design accomplishments or ongoing work.",
-      []
-    ],
-    "GSD 500": [
-      "Colloquium in Game Studies & Design",
-      {
-        "A": [
-          "77206",
+        "AD4": [
+          "55565",
           [
             [
               38,
               "R",
-              "170 Wohlers Hall",
-              20,
+              "221 Gregory Hall",
+              6,
               [
-                "Starks, K"
+                "Velez, E"
               ],
               -1,
               -1,
               -1
             ]
           ],
+          3,
           1,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "55560",
+          [
+            [
+              4,
+              "MW",
+              "1092 Lincoln Hall",
+              9,
+              [
+                "Velez, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
           2,
           0,
           [],
@@ -867,14 +118,837 @@
         ]
       },
       [],
-      "This once weekly orientation to graduate study in games studies and game design at the University of Illinois will be offered in fall semesters and will feature presentations of research and professional activities by faculty, advanced graduate students, and staff who will share their game-related research and design projects and provide students with a broad introduction to critical, theoretical and methodological approaches to the field. Some sessions will meet in labs and makerspaces around campus, familiarizing students with facilities and support services available to them for their own research and design projects. Students are required to take this course once for credit. Graduate students enrolled in the Graduate Minor will be expected to return to the seminar as a guest speaker near the end of their program, to share their work.",
+      "Interdisciplinary introduction to the study of gender, women, and sexuality. Addresses issues such as social experience, representation and popular culture, femininities and masculinities, family structure, education, employment, economics, literature and the arts, religion, history, and technology. Explores interrelationships of race, ethnicity, sexuality, gender, ability, and age from a transnational perspective.",
       []
     ],
-    "GSD 531": [
-      "Tools & Techniques: Contemporary Techniques in Game Design",
+    "GWS 202": [
+      "Sexualities",
       {
-        "1": [
-          "81676",
+        "AD1": [
+          "80372",
+          [
+            [
+              3,
+              "F",
+              "222 David Kinley Hall",
+              7,
+              [
+                "Williams, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AD2": [
+          "80373",
+          [
+            [
+              4,
+              "F",
+              "222 David Kinley Hall",
+              7,
+              [
+                "Williams, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AD3": [
+          "80374",
+          [
+            [
+              37,
+              "R",
+              "331 Gregory Hall",
+              6,
+              [
+                "Williams, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AD4": [
+          "80375",
+          [
+            [
+              38,
+              "R",
+              "207 Gregory Hall",
+              6,
+              [
+                "Williams, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "80371",
+          [
+            [
+              37,
+              "MW",
+              "160 English Building",
+              0,
+              [
+                "Williams, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Surveys sexualities from multiple perspectives, standpoints, disciplines, and theories. How have different cultures, different people, and different viewpoints understood, shaped, and interpreted sex, sexualities and genders? Course places the concept of sexuality at its core to examine citizenship, education, reproduction, science, tourism, urban/rural space, and politics. Topics may include: gender, race, identities, power, transformation, reproduction.",
+      []
+    ],
+    "GWS 201": [
+      "Race, Gender & Power",
+      {
+        "A": [
+          "57507",
+          [
+            [
+              9,
+              "TR",
+              "1010 Wymer Hall",
+              1,
+              [
+                "Barnes, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Presents multiple windows into perceptions and perspectives upon gender, sexuality, power, identity and culture, and their multiple intersections. The concept of race in its many manifestations is used to examine relationships of self to society, state institutions and cultures. By paying greater attention to race and power, nuanced understandings of the way the gender systems are maintained, patrolled and formed will be examined. Topics may include: film, media, technology, culture, religion, identities, sexualities.",
+      []
+    ],
+    "GWS 235": [
+      "Race and the Politics of Reproduction",
+      {
+        "A": [
+          "72007",
+          [
+            [
+              9,
+              "MW",
+              "103 1207 W Oregon",
+              16,
+              [
+                "Lira, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      null,
+      []
+    ],
+    "GWS 250": [
+      "Gender and Representation",
+      {
+        "MK": [
+          "55678",
+          [
+            [
+              36,
+              "MW",
+              "147 Armory",
+              25,
+              [
+                "Khan, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Focusing primarily on gender, race, sexuality, and their intersections, this introductory course analyzes the politics of representation drawn from popular culture, painting, television and film, literature, music, religion, and new media.",
+      []
+    ],
+    "GWS 255": [
+      "Queer Lives, Queer Politics",
+      {
+        "DV": [
+          "57987",
+          [
+            [
+              27,
+              "MW",
+              "323 Education Building",
+              14,
+              [
+                "Vergara Bracamontes, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Investigates queer lives in relation to dominant ideas about \"deviance\" and \"equal rights.\" Drawing on case studies, the course investigates questions related to nation, race, economy, bodies, drugs, health, identities, agency and action as they intersect with contemporary queer politics. Students will learn conceptual and qualitative methods to investigate issues related to queer lives.",
+      []
+    ],
+    "GWS 270": [
+      "Sexuality and Literature",
+      {
+        "DIS": [
+          "55949",
+          [
+            [
+              36,
+              "TR",
+              "1024 Literatures, Cultures, & Ling",
+              5,
+              [
+                "Niekerk, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as GER 270 and CWL 272. See CWL 272.",
+      []
+    ],
+    "GWS 282": [
+      "Feminist and Queer Activisms",
+      {
+        "TCB": [
+          "81226",
+          [
+            [
+              0,
+              "TR",
+              "106B1 Engineering Hall",
+              11,
+              [
+                "Beauchamp, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "From anti-lynching campaigns to Black Lives Matter, Wages for Housework to domestic worker organizing, ACT UP to queer migration politics, this course examines the history of feminist, queer, and anti-racist movements. We will pay particular attention to women of color theorists and activists, and the ways in which they develop interdisciplinary and intersectional approaches to activism and advocacy.",
+      []
+    ],
+    "GWS 295": [
+      "Beginning Topics GWS",
+      {
+        "CW": [
+          "55679",
+          [
+            [
+              9,
+              "MW",
+              "323 Education Building",
+              14,
+              [
+                "Williams, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Approved for letter and S/U grading. May be repeated in the same term to a maximum of 9 hours; may be repeated in separate terms to a maximum of 12 hours.",
+      []
+    ],
+    "GWS 317": [
+      "Gender and Human Rights",
+      {
+        "MKH": [
+          "79542",
+          [
+            [
+              9,
+              "MW",
+              "125 David Kinley Hall",
+              7,
+              [
+                "Khan, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Examines the complex relationship between culture, gender roles, and gender-based human rights and violations. Addresses topics such as the evolution of the human rights framework, strategies and ethical dilemmas of human rights work, and transnational feminist activism. Students will discuss case studies of rights violations and local change-making strategies and will construct a human rights campaign on a gender-based issue.",
+      []
+    ],
+    "GWS 325": [
+      "Topics in LGBT Lit and Film",
+      {
+        "D": [
+          "81625",
+          [
+            [
+              5,
+              "MWF",
+              "44 English Building",
+              0,
+              [
+                "Shetina, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as ENGL 325. see ENGL 325.",
+      []
+    ],
+    "GWS 340": [
+      "Gender, Relationshps & Society",
+      {
+        "A": [
+          "38499",
+          [
+            [
+              9,
+              "TR",
+              "7 Christopher Hall",
+              1,
+              [
+                "Brown, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as HDFS 340 and SOC 322. See HDFS 340.",
+      []
+    ],
+    "GWS 356": [
+      "Sex & Gender in Popular Media",
+      {
+        "A": [
+          "47811",
+          [
+            [
+              0,
+              "TR",
+              "215 Gregory Hall",
+              6,
+              [
+                "Cole, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as MACS 356. See MACS 356.",
+      []
+    ],
+    "GWS 363": [
+      "Gender, Health & Pop Culture",
+      {
+        "CN": [
+          "57509",
+          [
+            [
+              1,
+              "TR",
+              "133 1207 W Oregon",
+              16,
+              [
+                "Nadeau, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Aspects of popular culture, including television, magazines, newspapers, social networking sites, and internet sources to name a few, are ways that health information is disseminated. Students will examine how we define health and understand disease as related to popular culture. Discusses how people resist or reinforce these messages about health, well being, fitness, and diet. Also discusses how understandings of race, sexuality and class affect the ways that we think about sickness, health and constructions of gender.",
+      []
+    ],
+    "GWS 370": [
+      "Queer Theory",
+      {
+        "A": [
+          "42909",
+          [
+            [
+              19,
+              "TR",
+              "W115 Turner Hall",
+              1,
+              [
+                "Nadeau, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Traces the development of queer theory as a mode for understanding queer studies methodologies and the changing intellectual landscape of key issues in the field. As part of the course, students will review key concepts and theoretical schools of thought, navigating important debates guiding the field. Theories will engage questions of the social and cultural through topics including race, gender, nation, family, history, identity formation, sexology, the state, and capital.",
+      []
+    ],
+    "GWS 376": [
+      "Children and Youth Literature",
+      {
+        "U": [
+          "66776",
+          [
+            [
+              1,
+              "TR",
+              "115 English Building",
+              0,
+              [
+                "Horsfall, W"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as CWL 376, EURO 376, and SCAN 376. See SCAN 376.",
+      []
+    ],
+    "GWS 378": [
+      "Fairy Tales & Gender Formation",
+      {
+        "Q": [
+          "61294",
+          [
+            [
+              36,
+              "MW",
+              "110 Speech & Hearing Science Bldg",
+              43,
+              [
+                "Velez, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Discusses how femininity and gender formation are related through fairy tales. As children grow they are taught the difference between male and female roles. One of the main ways this instruction takes place is through the pleasurable media of fairy tales in books, poems, and more recently, films. Sleeping Beauty, Snow White, Beauty and the Best, and the Little Mermaid, among others, will be examined to understand how sexual identity is constructed differently in different cultures, and how issues such as rape and incest are addressed within the narratives. The readings explore the ways that fairy tales work to express psychological reactions to maturation while conditioning both characters and readers to adopt specific social roles in adulthood.",
+      []
+    ],
+    "GWS 387": [
+      "History of Sexuality in U.S.",
+      {
+        "DVB": [
+          "57515",
+          [
+            [
+              19,
+              "MW",
+              "323 Education Building",
+              14,
+              [
+                "Vergara Bracamontes, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Explores a wide variety of sources to understand how notions of sexuality have emerged and been contested at key moments in U.S. history. Our guiding questions include: How have \"official\" or governing discourses of sexuality (in law, medicine, religions, science) been formulated? In turn, how have \"ordinary\" people understood and practiced their sexuality? How has the meaning of particular sexual practices changed over time? How have ideas about race, gender, and/or class been embedded within the discourse of sexuality at different moments in U.S. history? What methods of reading and interpretation are most useful for the historical study of sexuality? Also emphasizes skills such as critically analyzing primary sources within their historical context; interpreting different types of primary sources; locating, understanding, and evaluating scholarly secondary sources; and presenting historical arguments, based on both primary and secondary sources.",
+      []
+    ],
+    "GWS 392": [
+      "Chicanas&Latinas: Self&Society",
+      {
+        "A": [
+          "50123",
+          [
+            [
+              175,
+              "R",
+              "119 English Building",
+              0,
+              [
+                "Corona Valencia, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as LLS 392 and SOC 392. See LLS 392.",
+      []
+    ],
+    "GWS 409": [
+      "Women's Health",
+      {
+        "A": [
+          "35435",
+          [
+            [
+              19,
+              "TR",
+              "112 Huff Hall",
+              26,
+              [
+                "Gobin, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      null,
+      []
+    ],
+    "GWS 423": [
+      "Cmnty Dev in the Global South",
+      {
+        "FM": [
+          "81621",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Miraftab, F"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      null,
+      []
+    ],
+    "GWS 425": [
+      "Minoritarian Aesthetics Practicum",
+      {
+        "A": [
+          "81162",
+          [
+            [
+              15,
+              "WF",
+              "1002 Siebel Center for Design",
+              17,
+              [
+                "Ruiz, S",
+                "Smith, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as AAS 495, ENGL 495, FAA 495, and THEA 468. See FAA 495.",
+      []
+    ],
+    "GWS 432": [
+      "Gender Communication",
+      {
+        "2": [
+          "41095",
+          [
+            [
+              9,
+              "TR",
+              "145 Armory",
+              25,
+              [
+                "Giorgio, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "3": [
+          "41096",
+          [
+            [
+              19,
+              "TR",
+              "148 Armory",
+              25,
+              [
+                "Giorgio, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      null,
+      []
+    ],
+    "GWS 435": [
+      "Commodifying Difference",
+      {
+        "U": [
+          "60149",
+          [
+            [
+              13,
+              "T",
+              "103 1207 W Oregon",
+              16,
+              [
+                "Gomez-Perez, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as AAS 435, AFRO 435, LLS 435, and MACS 432. See LLS 435.",
+      []
+    ],
+    "GWS 442": [
+      "Body, Culture & Society",
+      {
+        "OG2": [
+          "59078",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "OU2": [
+          "59079",
           [
             [
               8,
@@ -897,22 +971,22 @@
         ]
       },
       [],
-      "Examination of key elements of high and mid-level design and how they are used in games. Students will critically examine a series of games looking for how the key elements of design are used or not used. Games will be examined for positive and negative design aspects. Consideration will be given to different genres, time periods (early games will be included), acclaim (via ratings and sales) and platform.",
+      null,
       []
     ],
-    "GSD 522": [
-      "Tools & Techniques: Contemporary Techniques of 3D Art for Games",
+    "GWS 462": [
+      "Hip Hop Feminism",
       {
-        "B": [
-          "81043",
+        "BSG": [
+          "59580",
           [
             [
-              8,
-              "",
-              "ONLINE",
+              15,
+              "M",
+              "Location Pending",
               1,
               [
-                "Hurtado Duarte, P"
+                "Smith, B"
               ],
               -1,
               -1,
@@ -920,29 +994,21 @@
             ]
           ],
           4,
-          3,
+          0,
           0,
           [],
           -1
-        ]
-      },
-      [],
-      "Advanced techniques for exploring modern 3D artistry for game development. From characters to environments, students will gain a comprehensive skillset in creating immersive game visuals, equipping them with 3D modeling and design to craft captivating game assets, building a strong foundation for Game Art Development. Blender, a powerful 3D creation software used by game development and special effects studios, will be used; students are expected to be familiar with Blender's interface, navigation, and tools.",
-      []
-    ],
-    "GSD 523": [
-      "Tools & Techniques: Contemporary Techniques of 3D Animation for Games",
-      {
-        "B": [
-          "81044",
+        ],
+        "BSU": [
+          "59581",
           [
             [
-              8,
-              "",
-              "ONLINE",
+              15,
+              "M",
+              "Location Pending",
               1,
               [
-                "Damarjian, A"
+                "Smith, B"
               ],
               -1,
               -1,
@@ -950,29 +1016,29 @@
             ]
           ],
           4,
-          3,
+          0,
           0,
           [],
           -1
         ]
       },
       [],
-      "The principles and techniques of creating 3D animation. Students will develop basic skills and knowledge in 3D modeling and rigging, as well as the fundamentals of animation principles. The course will utilize Blender to create a variety of animation projects.",
+      "Explores how hip hop has shaped the culture, aesthetics, experiences, and perspectives of an emergent generation of artists, scholars, and writers with several aims: 1) To challenge systemic social inequalities. 2) To articulate new visions of justice that depend on the power young people possess. To better understand how and why the relationship between hip hop and feminism is coherent, meaningful, and compelling, students will become familiar with artists working within and beyond various elements of hip hop (rap, graffiti, emceeing, dee-jaying, etc.), social critics concerned with documenting hip hop's cultural practices, and critical educator (broadly defined).",
       []
     ],
-    "GSD 551": [
-      "Tools & Techniques: Contemporary Techniques for Programming of Games",
+    "GWS 464": [
+      "Theories & Theologies of Liberation",
       {
-        "1": [
-          "81678",
+        "MKG": [
+          "72916",
           [
             [
-              8,
-              "",
-              "ONLINE",
+              15,
+              "T",
+              "102 1205 W Nevada",
               1,
               [
-                "Unassigned Instructor"
+                "Kashani, M"
               ],
               -1,
               -1,
@@ -980,29 +1046,21 @@
             ]
           ],
           4,
-          3,
+          0,
           0,
           [],
           -1
-        ]
-      },
-      [],
-      "Special systems and techniques used by programmers in video game development. Students will learn and apply the tools and algorithms that are key to developing video games in the current and coming marketplace.",
-      []
-    ],
-    "GSD 561": [
-      "Tools & Techniques of Game Narrative: Contemporary Techniques in Writing for Games",
-      {
-        "1": [
-          "80828",
+        ],
+        "MKU": [
+          "72918",
           [
             [
-              8,
-              "",
-              "ONLINE",
+              15,
+              "T",
+              "102 1205 W Nevada",
               1,
               [
-                "Starks, K"
+                "Kashani, M"
               ],
               -1,
               -1,
@@ -1010,51 +1068,21 @@
             ]
           ],
           4,
-          3,
+          0,
           0,
           [],
           -1
         ]
       },
       [],
-      "Introduction to writing for games. The purpose of this course is to help writers with experience in other media to understand the nuances of writing for games. Video games writers have the responsibility to incorporate the “reader”/player into the writing in ways that other media does not. They must not only incorporate story elements, but also puzzles, organizational principles, and the consideration of multiple branches and scenarios. This course will help traditional writers become more dynamic, and interactive writers will learn to hone their craft.",
+      "Examination of theories and theologies of liberation, from Latin American liberation theologies and Islamic feminisms and anticolonial movements to Third World liberation struggles, the Gay Liberation Front, and the Black Freedom movement. Uses an expansive feminist lens to discuss these histories, theories, and theologies in relation to issues of violence/nonviolence; religion/secularity; art and aesthetics; gender, sex, and sexuality; and power.",
       []
     ],
-    "GSD 541": [
-      "Tools & Techniques: Contemporary Techniques of Game Production",
-      {
-        "1": [
-          "81677",
-          [
-            [
-              8,
-              "",
-              "ONLINE",
-              1,
-              [
-                "Unassigned Instructor"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          3,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "The phases of the video game production process, how they are managed, and the potential for issues that can arise in the development cycle. Students will work as schedulers and team managers within a simulation of the development cycle for a major video game.",
-      []
-    ],
-    "GSD 597": [
-      "Independent Study in Game Studies & Design",
+    "GWS 490": [
+      "Individual Study",
       {
         "": [
-          "78841",
+          "10361",
           [
             [
               8,
@@ -1077,22 +1105,52 @@
         ]
       },
       [],
-      "Advanced individual study in a subject related to Game Studies and Design not covered in normal course offerings. Project examples include comprehensive literature reviews on a topic of special or emerging interest, small research projects (e.g. surveys or play-testing experiments), development projects (e.g. building a game based on a design developed as part of another course), or other study approved by the instructor. Pre-approval is required and an approved advisor must commit to supervise the independent study.",
+      "Supervised reading and research in Gender and Women's Studies chosen by the student with instructor approval.",
       []
     ],
-    "GSD 590": [
-      "Special Topics in Game Studies & Design",
+    "GWS 498": [
+      "Senior Seminar",
       {
-        "KMS": [
-          "80738",
+        "SS": [
+          "54012",
           [
             [
-              173,
-              "WF",
-              "Location Pending",
+              15,
+              "W",
+              "102 1205 W Nevada",
               1,
               [
-                "Starks, K"
+                "Somerville, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Considers the relationship between theory and research in Women's Studies. Reviews and examines the key issues of feminist scholarship. Provides students with the methodological knowledge and opportunity to carry out a research project.",
+      []
+    ],
+    "GWS 512": [
+      "Gender Relations & International Development",
+      {
+        "A": [
+          "81629",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Fogelman, C"
               ],
               -1,
               -1,
@@ -1100,14 +1158,44 @@
             ]
           ],
           4,
-          6,
+          3,
           0,
           [],
           -1
         ]
       },
       [],
-      "Allows for affiliated Game Studies & Design faculty to propose and offer new courses on emerging and special topics of immediate interest. Students will experience an in-depth exploration of significant and emerging areas of social, psychological, historical, and critical game studies, focusing on theoretical approaches, methodological issues and aspects of contemporary game studies research and/or design.",
+      "Same as CGGE 581 and SOCW 581. See CGGE 581.",
+      []
+    ],
+    "GWS 580": [
+      "Queer Theories & Methods",
+      {
+        "GM": [
+          "79545",
+          [
+            [
+              56,
+              "T",
+              "102 1205 W Nevada",
+              1,
+              [
+                "Moussawi, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Interdisciplinary study in queer theories and methods produced in and across various disciplines. Contemporary philosophical and theoretical developments in queer studies specific to histories of class, race, ethnicity, nation and sexuality.",
       []
     ]
   },
@@ -1287,7 +1375,8 @@
       "0330 - 0450",
       "1800 - 2100",
       "1000 - 1200",
-      "1530 - 1750"
+      "1530 - 1750",
+      "1000 - 1220"
     ],
     "dateRanges": [],
     "scheduleTypes": [
