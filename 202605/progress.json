@@ -4,7 +4,7 @@
   "year": "2026",
   "term": "summer",
   "startedAt": 1776049527997,
-  "lastUpdated": 1776654100028,
+  "lastUpdated": 1776654259986,
   "totalSubjects": 154,
   "totalCourses": 396,
   "subjects": [
@@ -1992,19 +1992,23 @@
     "CB",
     "CDB",
     "CEE",
-    "CHBE"
+    "CHBE",
+    "CHEM",
+    "CI",
+    "CIC",
+    "CLCV"
   ],
   "partialSubjects": {
-    "CHEM": {
-      "completed": 7,
-      "total": 18,
+    "CLE": {
+      "completed": 67,
+      "total": 74,
       "lastCourse": "ABORTED"
     }
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 237,
-    "failedCourses": 3,
+    "successfulCourses": 333,
+    "failedCourses": 4,
     "rateLimitCount": 0
   }
 }
