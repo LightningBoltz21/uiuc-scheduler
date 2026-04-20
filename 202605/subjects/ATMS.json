@@ -1,7 +1,7 @@
 {
   "subject": "ATMS",
-  "scrapedAt": 1776653939965,
-  "courseCount": 7,
+  "scrapedAt": 1776654078107,
+  "courseCount": 10,
   "courses": {
     "ATMS 140": [
       "Climate and Global Change",
@@ -211,6 +211,118 @@
       },
       [],
       "Introduces concepts and methods in quantitative risk analysis in the Earth, atmospheric, and environmental sciences. Key concepts will include probability, impacts, risk, uncertainty, statistical estimation, and decision making. Students will use simple risk analysis methods to apply these concepts to example problems related to drought, flooding, weather extremes, and anthropogenic climate change. The students will learn the R programming language for statistical computing, which will be used to integrate concepts and methods using observational data and model output, and we will focus on real-world multi-disciplinary applications.",
+      []
+    ],
+    "ATMS 596": [
+      "Non-Thesis Research",
+      {
+        "RS": [
+          "42472",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Sriver, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Non-thesis research in the Atmospheric Sciences.",
+      []
+    ],
+    "ATMS 599": [
+      "Thesis Research",
+      {
+        "JET": [
+          "42435",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Trujillo, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "SWN": [
+          "14230",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Nesbitt, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Check with the department to identify which CRN is needed for your advisor and any related registration questions.",
+      []
+    ],
+    "ATMS 590": [
+      "Individual Study",
+      {
+        "SWN": [
+          "14045",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Nesbitt, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Individual study or reading in a subject not covered in normal course offerings.",
       []
     ]
   },

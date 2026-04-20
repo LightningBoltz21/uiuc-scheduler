@@ -4,7 +4,7 @@
   "year": "2026",
   "term": "summer",
   "startedAt": 1776049527997,
-  "lastUpdated": 1776653939966,
+  "lastUpdated": 1776654100028,
   "totalSubjects": 154,
   "totalCourses": 396,
   "subjects": [
@@ -1979,19 +1979,32 @@
     "ARTS",
     "ASRM",
     "ASST",
-    "ASTR"
+    "ASTR",
+    "ATMS",
+    "BADM",
+    "BCOG",
+    "BIOC",
+    "BIOE",
+    "BIOP",
+    "BSE",
+    "BTW",
+    "BUS",
+    "CB",
+    "CDB",
+    "CEE",
+    "CHBE"
   ],
   "partialSubjects": {
-    "ATMS": {
+    "CHEM": {
       "completed": 7,
-      "total": 10,
+      "total": 18,
       "lastCourse": "ABORTED"
     }
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 146,
-    "failedCourses": 2,
+    "successfulCourses": 237,
+    "failedCourses": 3,
     "rateLimitCount": 0
   }
 }

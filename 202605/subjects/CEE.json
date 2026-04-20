@@ -1,0 +1,334 @@
+{
+  "subject": "CEE",
+  "scrapedAt": 1776654095428,
+  "courseCount": 4,
+  "courses": {
+    "CEE 469": [
+      "Wood Structures",
+      {
+        "G4": [
+          "30839",
+          [
+            [
+              16,
+              "MWF",
+              "2312 Newmark Civil Engineering Bldg",
+              5,
+              [
+                "Henschen, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "ONC": [
+          "42393",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Henschen, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "40728",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Henschen, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "UG3": [
+          "30819",
+          [
+            [
+              16,
+              "MWF",
+              "2312 Newmark Civil Engineering Bldg",
+              5,
+              [
+                "Henschen, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Mechanical properties of wood, stress grades, and working stresses; effects of strength-reducing characteristics, moisture content, and duration of loading and causes of wood deterioration; glued-laminated timber and plywood; behavior and design of connections, beams, and beam-columns; design of buildings and bridges; other structural applications: trusses, rigid frames, arches, and pole-type buildings; prismatic plates and hyperbolic paraboloids.",
+      []
+    ],
+    "CEE 497": [
+      "Independent Study",
+      {
+        "": [
+          "10474",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Individual investigations or studies of any phase of civil engineering selected by the student and approved by the department.",
+      []
+    ],
+    "CEE 498": [
+      "Special Topics",
+      {
+        "CH3": [
+          "37439",
+          [
+            [
+              15,
+              "MWF",
+              "403B2 Engineering Hall",
+              2,
+              [
+                "Greer, W"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "CH4": [
+          "33063",
+          [
+            [
+              15,
+              "MWF",
+              "403B2 Engineering Hall",
+              2,
+              [
+                "Greer, W"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "CHC": [
+          "39151",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Greer, W"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "CHO": [
+          "39150",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Greer, W"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Subject offerings of new and developing areas of knowledge in civil and environmental engineering intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites.",
+      []
+    ],
+    "CEE 597": [
+      "Independent Study",
+      {
+        "": [
+          "10476",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Individual investigations or studies of any phase of civil engineering selected by the student and approved by the adviser and the staff member who will supervise the investigation.",
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "ARRANGED",
+      "1230 - 1350",
+      "1400 - 1520",
+      "1100 - 1220",
+      "0930 - 1050",
+      "1330 - 1450",
+      "0900 - 1050",
+      "1200 - 1350",
+      "0830 - 1800",
+      "1300 - 1750",
+      "0900 - 1150",
+      "1300 - 1650",
+      "1800 - 2000",
+      "0800 - 0920",
+      "0800 - 1150",
+      "1000 - 1150",
+      "0800 - 0950",
+      "1800 - 1915",
+      "1000 - 1115"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Online",
+      "Independent Study",
+      "Lecture-Discussion",
+      "Conference",
+      "Internship",
+      "Study Abroad",
+      "Online Lab",
+      "Travel",
+      "Seminar",
+      "Laboratory",
+      "Studio",
+      "Lecture",
+      "Online Lecture",
+      "Discussion/ Recitation",
+      "Laboratory-Discussion",
+      "Research",
+      "Practice"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.1035872,
+        "long": -88.2306061
+      },
+      {
+        "lat": 40.1108856,
+        "long": -88.2269806
+      },
+      {
+        "lat": 40.10628,
+        "long": -88.22621
+      },
+      {
+        "lat": 40.108570819242026,
+        "long": -88.22518453938676
+      },
+      {
+        "lat": 40.11397164321797,
+        "long": -88.2265192685827
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}
