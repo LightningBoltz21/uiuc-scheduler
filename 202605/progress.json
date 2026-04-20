@@ -4,7 +4,7 @@
   "year": "2026",
   "term": "summer",
   "startedAt": 1776049527997,
-  "lastUpdated": 1776049615321,
+  "lastUpdated": 1776653939966,
   "totalSubjects": 154,
   "totalCourses": 396,
   "subjects": [
@@ -1954,18 +1954,44 @@
     "VM": [],
     "WRIT": []
   },
-  "completedSubjects": [],
+  "completedSubjects": [
+    "AAS",
+    "ABE",
+    "ACCY",
+    "ACE",
+    "ACES",
+    "ADV",
+    "AE",
+    "AFAS",
+    "AFRO",
+    "AFST",
+    "AGED",
+    "AHS",
+    "ANSC",
+    "ANTH",
+    "ARAB",
+    "ARCH",
+    "ART",
+    "ARTD",
+    "ARTE",
+    "ARTF",
+    "ARTH",
+    "ARTS",
+    "ASRM",
+    "ASST",
+    "ASTR"
+  ],
   "partialSubjects": {
-    "AAS": {
-      "completed": 0,
-      "total": 2,
+    "ATMS": {
+      "completed": 7,
+      "total": 10,
       "lastCourse": "ABORTED"
     }
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 0,
-    "failedCourses": 1,
+    "successfulCourses": 146,
+    "failedCourses": 2,
     "rateLimitCount": 0
   }
 }
