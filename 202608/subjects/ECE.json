@@ -1,7 +1,7 @@
 {
   "subject": "ECE",
-  "scrapedAt": 1777260665736,
-  "courseCount": 38,
+  "scrapedAt": 1777260707876,
+  "courseCount": 109,
   "courses": {
     "ECE 120": [
       "Introduction to Computing",
@@ -4317,6 +4317,4679 @@
       [],
       "Basic concepts and principles underlying quantum computing and communication with equal emphasis on mathematical tools and principles of quantum information processing, quantum communication, and nonlocality and entanglement theory. Topics covered reflect areas of recent interest within the quantum research community. Students will be expected to perform detailed mathematical calculations and construct proofs. By the end of the semester they should be equipped with enough background and technical skills needed for quantum information research.",
       []
+    ],
+    "ECE 407": [
+      "Cryptography",
+      {
+        "A": [
+          "75631",
+          [
+            [
+              49,
+              "TR",
+              "3013 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Luo, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Cryptography is a powerful toolbox for building secure systems --- not just for private communication, but also for building fault tolerant protocols, for securely outsourcing computation to untrusted services, and more. The goal of this course is to introduce the concepts of modern cryptography, including a combination of theoretical foundations (how do we precisely state security guarantees and assumptions, and prove that a protocol is designed correctly?) and practical techniques (how do we combine secure primitives to make effective systems?). This course is intended for senior undergraduate students with an interest in applying cryptographic techniques to building secure systems, and for graduate students with an interest in cryptography or systems security.",
+      []
+    ],
+    "ECE 405": [
+      "Quantum Systems II",
+      {
+        "AL3": [
+          "80806",
+          [
+            [
+              1,
+              "MWF",
+              "3081 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Bogdanov, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AL4": [
+          "80807",
+          [
+            [
+              1,
+              "MWF",
+              "3081 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Bogdanov, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "A survey of the modern quantum technology landscape with an introduction to platforms including single photons, atoms, ions and superconducting qubits. Two-level systems and their coupling to electromagnetic fields. Basic protocols for quantum networks and quantum information processing. Elementary discussions of qubit interactions and noise.",
+      []
+    ],
+    "ECE 408": [
+      "Applied Parallel Programming",
+      {
+        "AB": [
+          "58791",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              6,
+              [
+                "Kindratenko, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "76323",
+          [
+            [
+              6,
+              "TR",
+              "1002 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Kindratenko, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "CSP": [
+          "58790",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              6,
+              [
+                "Kindratenko, V"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "",
+              "ONLINE",
+              6,
+              [
+                "Kindratenko, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          15,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "80060",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              6,
+              [
+                "Kindratenko, V"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              6,
+              "TR",
+              "ONLINE",
+              6,
+              [
+                "Kindratenko, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          15,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Parallel programming with emphasis on developing applications for processors with many computation cores. Computational thinking, forms of parallelism, programming models, mapping computations to parallel hardware, efficient data structures, paradigms for efficient parallel algorithms, and application case studies.",
+      []
+    ],
+    "ECE 410": [
+      "Neural Circuits and Systems",
+      {
+        "NC1": [
+          "77869",
+          [
+            [
+              7,
+              "TR",
+              "3025 Campus Instructional Facility",
+              22,
+              [
+                "Yang, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "NC2": [
+          "77870",
+          [
+            [
+              7,
+              "TR",
+              "3025 Campus Instructional Facility",
+              22,
+              [
+                "Yang, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      null,
+      []
+    ],
+    "ECE 411": [
+      "Computer Organization & Design",
+      {
+        "AB1": [
+          "29937",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              6,
+              [
+                "Wang, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AD1": [
+          "29942",
+          [
+            [
+              22,
+              "TR",
+              "1002 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Wang, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "CSP": [
+          "72393",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              6,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "",
+              "ONLINE",
+              6,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Basic computer organization and design: integer and floating-point computer arithmetic; control unit design; pipelining; system interconnect; memory organization; I/O design; reliability and performance evaluation. Laboratory for computer design implementation, simulation, and layout.",
+      []
+    ],
+    "ECE 414": [
+      "Biomedical Instrumentation",
+      {
+        "B": [
+          "63208",
+          [
+            [
+              2,
+              "MWF",
+              "1306 Everitt Laboratory",
+              31,
+              [
+                "Irudayaraj, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as BIOE 414. See BIOE 414.",
+      []
+    ],
+    "ECE 415": [
+      "Biomedical Instrumentation Lab",
+      {
+        "AB2": [
+          "63212",
+          [
+            [
+              14,
+              "M",
+              "0201 Everitt Laboratory",
+              31,
+              [
+                "Reck, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AB3": [
+          "63211",
+          [
+            [
+              40,
+              "M",
+              "0201 Everitt Laboratory",
+              31,
+              [
+                "Reck, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AB4": [
+          "63210",
+          [
+            [
+              19,
+              "W",
+              "0201 Everitt Laboratory",
+              31,
+              [
+                "Reck, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "63209",
+          [
+            [
+              3,
+              "M",
+              "2233 Everitt Laboratory",
+              31,
+              [
+                "Reck, R",
+                "Tibbs, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as BIOE 415. See BIOE 415.",
+      []
+    ],
+    "ECE 419": [
+      "Security Laboratory",
+      {
+        "ALG": [
+          "80843",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              6,
+              [
+                "Nicol, D",
+                "O'Brien, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "ALU": [
+          "80842",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              6,
+              [
+                "Nicol, D",
+                "O'Brien, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "LB1": [
+          "80844",
+          [
+            [
+              40,
+              "W",
+              "0218 Siebel Center for Comp Sci",
+              18,
+              [
+                "Nicol, D",
+                "O'Brien, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      null,
+      []
+    ],
+    "ECE 420": [
+      "Embedded DSP Laboratory",
+      {
+        "AB1": [
+          "31821",
+          [
+            [
+              146,
+              "T",
+              "5072 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Moon, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AB2": [
+          "31826",
+          [
+            [
+              12,
+              "W",
+              "5072 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Moon, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AB3": [
+          "31829",
+          [
+            [
+              39,
+              "W",
+              "5072 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Moon, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AB4": [
+          "31833",
+          [
+            [
+              147,
+              "F",
+              "5072 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Moon, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "31840",
+          [
+            [
+              5,
+              "M",
+              "3015 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Moon, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Development of real-time digital signal processing (DSP) systems using a DSP microprocessor; several structured laboratory exercises, such as sampling and digital filtering; followed by an extensive DSP project of the student's choice.",
+      []
+    ],
+    "ECE 422": [
+      "Computer Security I",
+      {
+        "ADB": [
+          "69018",
+          [
+            [
+              2,
+              "W",
+              "0218 Siebel Center for Comp Sci",
+              18,
+              [
+                "Zhang, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "ADC": [
+          "69019",
+          [
+            [
+              3,
+              "W",
+              "0218 Siebel Center for Comp Sci",
+              18,
+              [
+                "Champion, A",
+                "Zhang, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "ADD": [
+          "69022",
+          [
+            [
+              4,
+              "W",
+              "0218 Siebel Center for Comp Sci",
+              18,
+              [
+                "Zhang, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "ADE": [
+          "66982",
+          [
+            [
+              5,
+              "W",
+              "0218 Siebel Center for Comp Sci",
+              18,
+              [
+                "Zhang, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "ALG": [
+          "72176",
+          [
+            [
+              107,
+              "TR",
+              "1320 Digital Computer Laboratory",
+              29,
+              [
+                "Zhang, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ALU": [
+          "49549",
+          [
+            [
+              107,
+              "TR",
+              "1320 Digital Computer Laboratory",
+              29,
+              [
+                "Zhang, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      null,
+      []
+    ],
+    "ECE 427": [
+      "Advanced VLSI System Design",
+      {
+        "A": [
+          "80783",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              6,
+              [
+                "Wang, D"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              2,
+              "TR",
+              "2013 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Wang, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Students will work in teams on a semester-long project to design and fabricate their own digital, analog, or mixed-signal chip using modern EDA tools. Each team will propose a design in the form of specifications, write an RTL (or equivalent) model for their chip and its components, design schematics, create a testing/debug strategy, and perform layout, integration, and verification of their chip. Final GDS files will be sent to foundry at the end of semester.",
+      []
+    ],
+    "ECE 424": [
+      "Computer Security II",
+      {
+        "B3": [
+          "49553",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              6,
+              [
+                "Chandrasekaran, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "B4": [
+          "80993",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              6,
+              [
+                "Chandrasekaran, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "BU": [
+          "49552",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              6,
+              [
+                "Chandrasekaran, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      null,
+      []
+    ],
+    "ECE 428": [
+      "Distributed Systems",
+      {
+        "CSP": [
+          "72170",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              6,
+              [
+                "Ganesan, A",
+                "Kesavan, R"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "",
+              "ONLINE",
+              6,
+              [
+                "Ganesan, A",
+                "Kesavan, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "DS4": [
+          "67400",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              6,
+              [
+                "Ganesan, A",
+                "Kesavan, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "SG": [
+          "57771",
+          [
+            [
+              104,
+              "TR",
+              "0027/1025 Campus Instructional Facility",
+              22,
+              [
+                "Ganesan, A",
+                "Kesavan, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "SU": [
+          "36102",
+          [
+            [
+              104,
+              "TR",
+              "0027/1025 Campus Instructional Facility",
+              22,
+              [
+                "Ganesan, A",
+                "Kesavan, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      null,
+      []
+    ],
+    "ECE 435": [
+      "Computer Networking Laboratory",
+      {
+        "C": [
+          "69187",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              6,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              10,
+              "MW",
+              "Location Pending",
+              6,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "C1": [
+          "69188",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              6,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              10,
+              "MW",
+              "Location Pending",
+              6,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      null,
+      []
+    ],
+    "ECE 437": [
+      "Sensors and Instrumentation",
+      {
+        "AB2": [
+          "49832",
+          [
+            [
+              76,
+              "W",
+              "4022 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Gruev, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AB3": [
+          "49834",
+          [
+            [
+              113,
+              "T",
+              "4022 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Gruev, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AL": [
+          "49831",
+          [
+            [
+              7,
+              "M",
+              "3081 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Gruev, V"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "M",
+              "ONLINE",
+              6,
+              [
+                "Gruev, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Hands-on exposure to fundamental technology and practical application of sensors. Capacitive, inductive, optical, electromagnetic, and other sensing methods are examined. Instrumentation techniques incorporating computer control, sampling, and data collection and analysis are reviewed in the context of real-world scenarios.",
+      []
+    ],
+    "ECE 441": [
+      "Physcs & Modeling Semicond Dev",
+      {
+        "A": [
+          "74007",
+          [
+            [
+              2,
+              "MWF",
+              "2015 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Zhu, W"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Advanced concepts including generation-recombination, hot electron effects, and breakdown mechanisms; essential features of small ac characteristics, switching and transient behavior of p-n junctions, and bipolar and MOS transistors; fundamental issues for device modeling; perspective and limitations of Si-devices.",
+      []
+    ],
+    "ECE 438": [
+      "Computer Networks",
+      {
+        "ONL": [
+          "77935",
+          [
+            [
+              102,
+              "MW",
+              "ONLINE",
+              6,
+              [
+                "Agarwal, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "X3": [
+          "36066",
+          [
+            [
+              102,
+              "TR",
+              "1404 Siebel Center for Comp Sci",
+              18,
+              [
+                "Agarwal, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "X4": [
+          "57774",
+          [
+            [
+              102,
+              "TR",
+              "1404 Siebel Center for Comp Sci",
+              18,
+              [
+                "Agarwal, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      null,
+      []
+    ],
+    "ECE 439": [
+      "Wireless Networks",
+      {
+        "B3": [
+          "61195",
+          [
+            [
+              104,
+              "WF",
+              "1304 Siebel Center for Comp Sci",
+              18,
+              [
+                "Kravets, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "B4": [
+          "61197",
+          [
+            [
+              104,
+              "WF",
+              "1304 Siebel Center for Comp Sci",
+              18,
+              [
+                "Kravets, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Overview of wireless network architectures including cellular networks, local area networks, multi-hop wireless networks such as ad hoc networks, mesh networks, and sensor networks; capacity of wireless networks; medium access control, routing protocols, and transport protocols for wireless networks; mechanisms to improve performance and security in wireless networks; energy-efficient protocols for sensor networks.",
+      []
+    ],
+    "ECE 448": [
+      "Artificial Intelligence",
+      {
+        "R3": [
+          "67006",
+          [
+            [
+              1,
+              "MWF",
+              "0027/1025 Campus Instructional Facility",
+              22,
+              [
+                "Fleck, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "R4": [
+          "67010",
+          [
+            [
+              1,
+              "MWF",
+              "0027/1025 Campus Instructional Facility",
+              22,
+              [
+                "Fleck, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      null,
+      []
+    ],
+    "ECE 445": [
+      "Senior Design Project Lab",
+      {
+        "H": [
+          "29951",
+          [
+            [
+              41,
+              "T",
+              "1002 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Fliflet, A",
+                "Gruev, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Team-based design projects in various areas of electrical and computer engineering; projects are chosen by students with approval of instructor. A professionally kept lab notebook, a written report, prepared to journal publication standards, and an oral presentation required. The projects involve building and testing of the designed hardware device and a demonstration of the device is required.",
+      []
+    ],
+    "ECE 444": [
+      "IC Device Theory & Fabrication",
+      {
+        "AB1": [
+          "36808",
+          [
+            [
+              14,
+              "F",
+              "ARR Micro & Nanotechnology Lab",
+              6,
+              [
+                "Froeter, P",
+                "Kim, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AB2": [
+          "36809",
+          [
+            [
+              76,
+              "T",
+              "ARR Micro & Nanotechnology Lab",
+              6,
+              [
+                "Froeter, P",
+                "Kim, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AB3": [
+          "36819",
+          [
+            [
+              14,
+              "T",
+              "ARR Micro & Nanotechnology Lab",
+              6,
+              [
+                "Froeter, P",
+                "Kim, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AB4": [
+          "36817",
+          [
+            [
+              14,
+              "W",
+              "ARR Micro & Nanotechnology Lab",
+              6,
+              [
+                "Froeter, P",
+                "Kim, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AB5": [
+          "36816",
+          [
+            [
+              76,
+              "R",
+              "ARR Micro & Nanotechnology Lab",
+              6,
+              [
+                "Froeter, P",
+                "Kim, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AB6": [
+          "36814",
+          [
+            [
+              14,
+              "M",
+              "ARR Micro & Nanotechnology Lab",
+              6,
+              [
+                "Froeter, P",
+                "Kim, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AB7": [
+          "41682",
+          [
+            [
+              14,
+              "R",
+              "ARR Micro & Nanotechnology Lab",
+              6,
+              [
+                "Froeter, P",
+                "Kim, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AD1": [
+          "36813",
+          [
+            [
+              0,
+              "MWF",
+              "3015 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Froeter, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "AD2": [
+          "36811",
+          [
+            [
+              1,
+              "MWF",
+              "3015 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Kim, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Fabrication lab emphasizing physical theory and design of devices suitable for integrated circuitry; electrical properties of semiconductors and techniques (epitaxial growth, oxidation, photolithography diffusion, ion implantation, metallization, and characterization) for fabricating integrated circuit devices such as p-n junction diodes, bipolar transistors, and field effect transistors.",
+      []
+    ],
+    "ECE 450": [
+      "Fiber Optic Communications",
+      {
+        "AB0": [
+          "81696",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              6,
+              [
+                "Dragic, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AB1": [
+          "81697",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              6,
+              [
+                "Dragic, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AL": [
+          "81698",
+          [
+            [
+              7,
+              "TR",
+              "3017 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Dragic, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Characterization, design, and lab measurements of optical fibers and lightwave channels, optical transmitters, receivers, and amplifiers; quantum and thermal noise processes; design of optical receivers; multimode and single-mode link analysis.",
+      []
+    ],
+    "ECE 449": [
+      "Machine Learning",
+      {
+        "B3": [
+          "73597",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              6,
+              [
+                "Gui, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "B4": [
+          "77677",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              6,
+              [
+                "Gui, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "BU": [
+          "73595",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              6,
+              [
+                "Gui, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      null,
+      []
+    ],
+    "ECE 453": [
+      "Wireless Communication Systems",
+      {
+        "AB1": [
+          "39244",
+          [
+            [
+              76,
+              "T",
+              "5080 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Schutt-Aine, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AB2": [
+          "39245",
+          [
+            [
+              148,
+              "T",
+              "5080 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Schutt-Aine, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AB3": [
+          "39246",
+          [
+            [
+              76,
+              "R",
+              "5080 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Schutt-Aine, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "39243",
+          [
+            [
+              0,
+              "MWF",
+              "4070 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Schutt-Aine, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "75650",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              6,
+              [
+                "Schutt-Aine, J"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              0,
+              "MWF",
+              "ONLINE",
+              6,
+              [
+                "Schutt-Aine, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          15,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Design of a radio system for transmission of information; modulation, receivers, impedance matching, oscillators, two-port network analysis, receiver and antenna noise, nonlinear effects, mixers, phase-locked loops.",
+      []
+    ],
+    "ECE 457": [
+      "Microwave Devices & Circuits",
+      {
+        "G": [
+          "74196",
+          [
+            [
+              0,
+              "MWF",
+              "2015 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Gong, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Electromagnetic wave propagation, microwave transmission systems, passive components, microwave tubes, solid state microwave devices, microwave integrated circuits, S-parameter analysis, and microstrip transmission lines.",
+      []
+    ],
+    "ECE 459": [
+      "Communications Systems",
+      {
+        "ONL": [
+          "70443",
+          [
+            [
+              1,
+              "MWF",
+              "ONLINE",
+              6,
+              [
+                "Alvarez, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "R": [
+          "29959",
+          [
+            [
+              1,
+              "MWF",
+              "2015 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Alvarez, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Analog underpinning of analog and digital communication systems: representation of signals and systems in the time and frequency domains; analog modulation schemes; random processes; prediction and noise analysis using random processes; noise sensitivity and bandwidth requirements of modulation schemes. Brief introduction to digital communications.",
+      []
+    ],
+    "ECE 463": [
+      "Digital Communications Lab",
+      {
+        "AB2": [
+          "70232",
+          [
+            [
+              63,
+              "R",
+              "5080 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Moon, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AB4": [
+          "70233",
+          [
+            [
+              63,
+              "F",
+              "5080 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Moon, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AL": [
+          "70234",
+          [
+            [
+              5,
+              "W",
+              "3013 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Moon, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Hands-on experience in the configuration and performance evaluation of digital communication systems employing both radio and optical signals.",
+      []
+    ],
+    "ECE 464": [
+      "Power Electronics",
+      {
+        "B": [
+          "29963",
+          [
+            [
+              32,
+              "MW",
+              "2017 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Stillwell, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Switching functions and methods of control such as pulse-width modulation, phase control, and phase modulation; dc-dc, ac-dc, dc-ac, and ac-ac power converters; power components, including magnetic components and power semiconductor switching devices.",
+      []
+    ],
+    "ECE 469": [
+      "Power Electronics Laboratory",
+      {
+        "AB2": [
+          "61862",
+          [
+            [
+              76,
+              "W",
+              "4024 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Stillwell, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AB3": [
+          "54565",
+          [
+            [
+              76,
+              "R",
+              "4024 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Stillwell, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AB4": [
+          "31891",
+          [
+            [
+              51,
+              "R",
+              "4024 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Stillwell, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "31893",
+          [
+            [
+              2,
+              "T",
+              "3015 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Stillwell, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Circuits and devices used for switching power converters, solid-state motor drives, and power controllers; dc-dc, ac-dc, and dc-ac converters and applications; high-power transistors and magnetic components; design considerations including heat transfer.",
+      []
+    ],
+    "ECE 470": [
+      "Introduction to Robotics",
+      {
+        "AB1": [
+          "36913",
+          [
+            [
+              39,
+              "T",
+              "3071 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Belabbas, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AB2": [
+          "36943",
+          [
+            [
+              39,
+              "R",
+              "3071 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Belabbas, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AB3": [
+          "41536",
+          [
+            [
+              30,
+              "T",
+              "3071 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Belabbas, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AB4": [
+          "59290",
+          [
+            [
+              30,
+              "R",
+              "3071 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Belabbas, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AB5": [
+          "63483",
+          [
+            [
+              12,
+              "W",
+              "3071 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Belabbas, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AB6": [
+          "69204",
+          [
+            [
+              39,
+              "W",
+              "3071 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Belabbas, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AB7": [
+          "70610",
+          [
+            [
+              39,
+              "M",
+              "3071 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Belabbas, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "36956",
+          [
+            [
+              18,
+              "TR",
+              "1015 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Belabbas, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Fundamentals of robotics including rigid motions; homogeneous transformations; forward and inverse kinematics; velocity kinematics; motion planning; trajectory generation; sensing, vision; control.",
+      []
+    ],
+    "ECE 473": [
+      "Fund of Engrg Acoustics",
+      {
+        "G4": [
+          "36985",
+          [
+            [
+              1,
+              "MWF",
+              "3013 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Oelze, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "ON1": [
+          "74008",
+          [
+            [
+              1,
+              "MWF",
+              "ONLINE",
+              6,
+              [
+                "Oelze, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "ON2": [
+          "75683",
+          [
+            [
+              1,
+              "MWF",
+              "ONLINE",
+              6,
+              [
+                "Oelze, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "U3": [
+          "36973",
+          [
+            [
+              1,
+              "MWF",
+              "3013 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Oelze, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Development of the basic theoretical concepts of acoustical systems; mechanical vibration, plane and spherical wave phenomena in fluid media, lumped and distributed resonant systems, and absorption phenomena and hearing.",
+      []
+    ],
+    "ECE 476": [
+      "Power System Analysis",
+      {
+        "ONL": [
+          "80059",
+          [
+            [
+              6,
+              "TR",
+              "ONLINE",
+              6,
+              [
+                "Dominguez-Garcia, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "R": [
+          "29964",
+          [
+            [
+              6,
+              "TR",
+              "4070 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Dominguez-Garcia, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Development of power system equivalents by phase network analysis, load flow, symmetrical components, sequence networks, fault analysis, and digital simulation.",
+      []
+    ],
+    "ECE 477": [
+      "Engineering Electromagnetic Compatibility",
+      {
+        "AL3": [
+          "81651",
+          [
+            [
+              2,
+              "MWF",
+              "3015 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Shao, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AL4": [
+          "81652",
+          [
+            [
+              2,
+              "MWF",
+              "3015 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Shao, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Fundamentals of electromagnetic compatibility (EMC) and electromagnetic interference (EMI) with a focus on principles, practices, and applications. Prepares students for EMC circuit design issues. Topics include how EMI affects electronic devices, how to design electronic systems that meet the United States and international EMC standards, different coupling mechanisms, radiated and conducted emissions and susceptibility, crosstalk, grounding and shielding, and system design for EMC.",
+      []
+    ],
+    "ECE 478": [
+      "Formal Software Development Methods",
+      {
+        "G": [
+          "66707",
+          [
+            [
+              103,
+              "TR",
+              "3018 Campus Instructional Facility",
+              22,
+              [
+                "Parthasarathy, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "U": [
+          "66706",
+          [
+            [
+              103,
+              "TR",
+              "3018 Campus Instructional Facility",
+              22,
+              [
+                "Parthasarathy, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      null,
+      []
+    ],
+    "ECE 482": [
+      "Digital IC Design",
+      {
+        "G": [
+          "29966",
+          [
+            [
+              34,
+              "MWF",
+              "1015 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Rosenbaum, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "ONM": [
+          "77916",
+          [
+            [
+              34,
+              "MWF",
+              "ONLINE",
+              6,
+              [
+                "Rosenbaum, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          8,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Bipolar and MOS field effect transistor characteristics; VLSI fabrication techniques for MOS and bipolar circuits; calculation of circuit parameters from the process parameters; design of VLSI circuits such as logic, memories, charge-coupled devices, and A/D and D/A converters.",
+      []
+    ],
+    "ECE 484": [
+      "Principles of Safe Autonomy",
+      {
+        "AB1": [
+          "77730",
+          [
+            [
+              1,
+              "F",
+              "5072 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Zhang, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AB2": [
+          "77731",
+          [
+            [
+              2,
+              "F",
+              "5072 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Zhang, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AB3": [
+          "77732",
+          [
+            [
+              23,
+              "F",
+              "5072 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Zhang, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AB4": [
+          "77733",
+          [
+            [
+              128,
+              "F",
+              "5072 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Zhang, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AB5": [
+          "77734",
+          [
+            [
+              149,
+              "F",
+              "5072 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Zhang, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "77453",
+          [
+            [
+              9,
+              "TR",
+              "1015 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Zhang, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "MC4": [
+          "79896",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              6,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "",
+              "ONLINE",
+              6,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "80057",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              6,
+              [
+                "Bhowmik, U"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              9,
+              "TR",
+              "ONLINE",
+              6,
+              [
+                "Bhowmik, U"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          15,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduces techniques for building autonomous systems such as autonomous cars, delivery drones, and manufacturing robots, and techniques for performing their safety analysis. Covers key algorithms and approaches in perception, modeling, motion planning, control, and safety analysis, with a view towards understanding their basic assumptions and performance guarantees. Also provides exposure to some of the state-of-the-art software tools for control, simulation, and analysis. Students will get experience through labs, programming assignments, and they will perform hands-on laboratory work on the Polaris GEM autonomous vehicle platform. Course material is distilled from recent research papers; thus, there is no required textbook.",
+      []
+    ],
+    "ECE 486": [
+      "Control Systems",
+      {
+        "AB1": [
+          "31775",
+          [
+            [
+              14,
+              "R",
+              "3077 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Bose, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AB2": [
+          "31777",
+          [
+            [
+              76,
+              "T",
+              "3077 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Bose, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AB3": [
+          "31778",
+          [
+            [
+              14,
+              "T",
+              "3077 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Bose, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AB4": [
+          "61864",
+          [
+            [
+              76,
+              "R",
+              "3077 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Bose, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AB5": [
+          "66456",
+          [
+            [
+              76,
+              "W",
+              "3077 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Bose, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AB6": [
+          "69131",
+          [
+            [
+              14,
+              "W",
+              "3077 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Bose, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AD1": [
+          "31772",
+          [
+            [
+              18,
+              "TR",
+              "3017 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Bose, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Analysis and design of control systems with emphasis on modeling, state variable representation, computer solutions, modern design principles, and laboratory techniques.",
+      []
+    ],
+    "ECE 490": [
+      "Introduction to Optimization",
+      {
+        "P3": [
+          "70863",
+          [
+            [
+              9,
+              "TR",
+              "3081 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Zhang, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "P4": [
+          "70864",
+          [
+            [
+              9,
+              "TR",
+              "3081 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Zhang, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Basic theory and methods for the solution of optimization problems; iterative techniques for unconstrained minimization; linear and nonlinear programming with engineering applications.",
+      []
+    ],
+    "ECE 491": [
+      "Numerical Analysis",
+      {
+        "BL1": [
+          "36027",
+          [
+            [
+              103,
+              "TR",
+              "0035 Campus Instructional Facility",
+              22,
+              [
+                "Solomonik, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "BL2": [
+          "36036",
+          [
+            [
+              103,
+              "TR",
+              "0035 Campus Instructional Facility",
+              22,
+              [
+                "Solomonik, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as CS 450, CSE 401 and MATH 450. See CS 450.",
+      []
+    ],
+    "ECE 494": [
+      "Deep Learning for Computer Vision",
+      {
+        "CVG": [
+          "80657",
+          [
+            [
+              10,
+              "MW",
+              "1320 Digital Computer Laboratory",
+              29,
+              [
+                "Gupta, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "CVU": [
+          "80652",
+          [
+            [
+              10,
+              "MW",
+              "1320 Digital Computer Laboratory",
+              29,
+              [
+                "Gupta, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      null,
+      []
+    ],
+    "ECE 493": [
+      "Advanced Engineering Math",
+      {
+        "B13": [
+          "68402",
+          [
+            [
+              9,
+              "TR",
+              "3020 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Ilie, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "B14": [
+          "69830",
+          [
+            [
+              9,
+              "TR",
+              "3020 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Ilie, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as MATH 487. See MATH 487.",
+      []
+    ],
+    "ECE 496": [
+      "Senior Research Project",
+      {
+        "IL": [
+          "58246",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              6,
+              [
+                "Lourentzou, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Individual research project under the guidance of a faculty member: for example, mathematical analysis, laboratory experiments, computer simulations, software development, circuit design, or device fabrication. Preparation of a written research proposal, including preliminary results.",
+      []
+    ],
+    "ECE 498": [
+      "Special Topics in ECE",
+      {
+        "JH": [
+          "31770",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              6,
+              [
+                "Huang, J"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              7,
+              "TR",
+              "3013 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Huang, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "OS": [
+          "55024",
+          [
+            [
+              9,
+              "TR",
+              "3017 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Levchenko, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "RK": [
+          "80120",
+          [
+            [
+              22,
+              "TR",
+              "1002 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Wang, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Subject offerings of new and developing areas of knowledge in electrical and computer engineering intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites.",
+      []
+    ],
+    "ECE 499": [
+      "Senior Thesis",
+      {
+        "": [
+          "10018",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              6,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Completion of the research project begun under ECE 496. Preparation and oral presentation of a written thesis that reports the results of the project.",
+      []
+    ],
+    "ECE 500": [
+      "ECE Colloquium",
+      {
+        "U2": [
+          "41517",
+          [
+            [
+              35,
+              "R",
+              "1002 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Bayram, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "U3": [
+          "41518",
+          [
+            [
+              35,
+              "R",
+              "1002 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Bayram, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Required of all graduate students.",
+      []
+    ],
+    "ECE 509": [
+      "High Speed and Programmable Networks",
+      {
+        "HPN": [
+          "81618",
+          [
+            [
+              7,
+              "WF",
+              "3015 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Mittal, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Networking infrastructure has been evolving over the years to support increasing demands for higher performance, new functionality, and flexibility. Students are introduced to cutting-edge research and industrial advancements in networking. Lectures focus on recent papers that propose or use unconventional designs for network stack, interface cards, or switches. The papers are systems oriented, focusing on challenges associated with designing and implementing network systems covering the latest topics.",
+      []
+    ],
+    "ECE 514": [
+      "Advanced Biosensors",
+      {
+        "AL1": [
+          "79775",
+          [
+            [
+              18,
+              "TR",
+              "4070 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Cunningham, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Fundamental principles at the intersection of engineering, biology, and data science that are pushing the forefront of biosensor technology used for diagnostics and life science research",
+      []
+    ],
+    "ECE 515": [
+      "Control System Theory & Design",
+      {
+        "N": [
+          "29983",
+          [
+            [
+              9,
+              "TR",
+              "3013 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Raginsky, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "ON1": [
+          "74012",
+          [
+            [
+              9,
+              "TR",
+              "ONLINE",
+              6,
+              [
+                "Raginsky, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Feedback control systems emphasizing state space techniques. Basic principles, modeling, analysis, stability, structural properties, optimization, and design to meet specifications.",
+      []
+    ],
+    "ECE 518": [
+      "Adv Semiconductor Nanotech",
+      {
+        "A": [
+          "69474",
+          [
+            [
+              6,
+              "TR",
+              "3013 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Lyding, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "65066",
+          [
+            [
+              6,
+              "TR",
+              "ONLINE",
+              6,
+              [
+                "Lyding, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Semiconductor nanotechnology from the formation and characterization of low-dimensional structures to device applications. Compound semiconductors, epitaxial growth, quantum dots, nanowires, membranes, strain effect, quantum confinement, surface states, 3D transistors, nanolasers, multijunction tandem solar cells, and nanowire thermoelectrics. Handouts are supplemented with papers from the research literature. Critical literature review assignments, research proposals in National Science Foundation format, and oral presentations are required.",
+      []
+    ],
+    "ECE 517": [
+      "Nonlinear & Adaptive Control",
+      {
+        "ONL": [
+          "75736",
+          [
+            [
+              7,
+              "TR",
+              "ONLINE",
+              6,
+              [
+                "Liberzon, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "P": [
+          "30430",
+          [
+            [
+              7,
+              "TR",
+              "3015 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Liberzon, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Design of nonlinear control systems based on stability considerations; Lyapunov and hyperstability approaches to analysis and design of model reference adaptive systems; identifiers, observers, and controllers for unknown plants.",
+      []
+    ],
+    "ECE 520": [
+      "EM Waves & Radiating Systems",
+      {
+        "D": [
+          "29985",
+          [
+            [
+              7,
+              "TR",
+              "2015 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Peng, Z"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "ONM": [
+          "75737",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              6,
+              [
+                "Peng, Z"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Fundamental electromagnetic theory with applications to plane waves, waveguides, cavities, antennas, and scattering; electromagnetic principles and theorems; and solution of electromagnetic boundary-value problems.",
+      []
+    ],
+    "ECE 523": [
+      "Plasma Technology of Gaseous Electronics",
+      {
+        "A": [
+          "74055",
+          [
+            [
+              15,
+              "MW",
+              "4039 Campus Instructional Facility",
+              22,
+              [
+                "Andruczyk, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as NPRE 527. See NPRE 527.",
+      []
+    ],
+    "ECE 524": [
+      "Advanced Computer Security",
+      {
+        "B": [
+          "76257",
+          [
+            [
+              103,
+              "MW",
+              "ONLINE",
+              6,
+              [
+                "Bates, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "DSO": [
+          "54598",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              6,
+              [
+                "Bates, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      null,
+      []
+    ],
+    "ECE 534": [
+      "Random Processes",
+      {
+        "C": [
+          "29989",
+          [
+            [
+              31,
+              "WF",
+              "1015 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Milenkovic, O"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Basic concepts of random processes; linear systems with random inputs; Markov processes; spectral analysis; Wiener and Kalman filtering; applications to systems engineering.",
+      []
+    ],
+    "ECE 535": [
+      "Theory of Semicond & Devices",
+      {
+        "E": [
+          "37127",
+          [
+            [
+              4,
+              "MWF",
+              "2015 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Rakheja, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introductory quantum mechanics of semiconductors; energy bands; dynamics of Block electrons in static and high-frequency electric and magnetic fields; equilibrium statistics; transport theory, diffusion, drift, and thermoelectric effects; characteristics of p-n junctions, heterojunctions, and transistor devices.",
+      []
+    ],
+    "ECE 537": [
+      "Speech Processing Fundamentals",
+      {
+        "E": [
+          "29993",
+          [
+            [
+              3,
+              "MWF",
+              "3020 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Hasegawa-Johnson, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Development of an intuitive understanding of speech processing by the auditory system, in three parts. I): The theory of acoustics of speech production, introductory acoustic phonetics, inhomogeneous transmission line theory (and reflectance), room acoustics, the short-time Fourier Transform (and its inverse), and signal processing of speech (LPC, CELP, VQ). II): Psychoacoustics of speech perception, critical bands, masking (JNDs), and the physiology of the auditory pathway (cochlear modeling). III): Information theory entropy, channel capacity, the confusion matrix, state models, EM algorithms, and Bayesian networks. Presentation of classic papers on speech processing and speech perception by student groups. MATLAB (or equivalent) programming in majority of assignments.",
+      []
+    ],
+    "ECE 541": [
+      "Computer Systems Analysis",
+      {
+        "B": [
+          "35928",
+          [
+            [
+              10,
+              "TR",
+              "Location Pending",
+              6,
+              [
+                "Nicol, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Development of analytical models of computer systems and application of such models to performance evaluation: scheduling policies, paging algorithms, multiprogrammed resource management, and queuing theory.",
+      []
+    ],
+    "ECE 544": [
+      "Topics in Signal Processing",
+      {
+        "NA": [
+          "49835",
+          [
+            [
+              9,
+              "TR",
+              "2036 Campus Instructional Facility",
+              22,
+              [
+                "Schwing, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Lectures and discussions related to advanced topics and new areas of interest in signal processing: speech, image, and multidimensional processing.",
+      []
+    ],
+    "ECE 549": [
+      "Computer Vision",
+      {
+        "A": [
+          "37131",
+          [
+            [
+              103,
+              "WF",
+              "1404 Siebel Center for Comp Sci",
+              18,
+              [
+                "Forsyth, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "76187",
+          [
+            [
+              103,
+              "WF",
+              "ONLINE",
+              6,
+              [
+                "Forsyth, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Information processing approaches to computer vision, algorithms, and architectures for artificial intelligence and robotics systems capable of vision: inference of three-dimensional properties of a scene from its images, such as distance, orientation, motion, size and shape, acquisition, and representation of spatial information for navigation and manipulation in robotics.",
+      []
+    ],
+    "ECE 551": [
+      "Digital Signal Processing II",
+      {
+        "F": [
+          "37133",
+          [
+            [
+              18,
+              "TR",
+              "2017 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Liang, Z"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Basic concept review of digital signals and systems; computer-aided digital filter design, quantization effects, decimation and interpolation, and fast algorithms for convolution and the DFT; introduction to adaptive signal processing.",
+      []
+    ],
+    "ECE 563": [
+      "Information Theory",
+      {
+        "A": [
+          "37140",
+          [
+            [
+              18,
+              "TR",
+              "3081 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Veeravalli, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Mathematical models for channels and sources; entropy, information, data compression, channel capacity, Shannon's theorems, and rate-distortion theory.",
+      []
+    ],
+    "ECE 564": [
+      "Modern Light Microscopy",
+      {
+        "G": [
+          "66458",
+          [
+            [
+              6,
+              "TR",
+              "3015 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Chen, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Current research topics in modern light microscopy: optics principles (statistical optics, Gaussian optics, elastic light scattering, dynamic light scattering); traditional microscopy (bright field, dark field, DIC, phase contract, confocal, epi-fluorescence, confocal fluorescence); current research topics (multiphoton, CARS, STED, FRET, FIONA, STORM, PALM, quantitative phase).",
+      []
+    ],
+    "ECE 566": [
+      "Computational Inference and Learning",
+      {
+        "G": [
+          "68111",
+          [
+            [
+              7,
+              "TR",
+              "3020 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Moulin, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Computational inference and machine learning have seen a surge of interest in the last 15 years, motivated by applications as diverse as computer vision, speech recognition, analysis of networks and distributed systems, big-data analytics, large-scale computer simulations, and indexing and searching of very large databases. This course introduces the mathematical and computational methods that enable such applications. Topics include computational methods for statistical inference, sparsity analysis, approximate inference and search, and fast optimization.",
+      []
+    ],
+    "ECE 572": [
+      "Quantum Opto-Electronics",
+      {
+        "A": [
+          "81672",
+          [
+            [
+              4,
+              "MWF",
+              "3020 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Choquette, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Theoretical approach to quantum mechanics and atomic physics, with many applications in spin resonance and modern maser theory.",
+      []
+    ],
+    "ECE 586": [
+      "Topics in Decision and Control",
+      {
+        "GT": [
+          "68114",
+          [
+            [
+              6,
+              "TR",
+              "1015 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Hajek, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "IC": [
+          "44092",
+          [
+            [
+              36,
+              "TR",
+              "3015 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Hu, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Lectures and discussions related to advanced topics and new areas of interest in decision and control theory: hybrid, sampled-data, and fault tolerant systems; control over networks; vision-based control; system estimation and identification; dynamic games.",
+      []
+    ],
+    "ECE 579": [
+      "Computational Complexity",
+      {
+        "F": [
+          "51781",
+          [
+            [
+              102,
+              "TR",
+              "1302 Siebel Center for Comp Sci",
+              18,
+              [
+                "Forbes, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      null,
+      []
+    ],
+    "ECE 590": [
+      "Graduate Seminar in Special Topics",
+      {
+        "CAP": [
+          "37015",
+          [
+            [
+              131,
+              "T",
+              "ARR Siebel Center for Comp Sci",
+              17,
+              [
+                "Ghose, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "D": [
+          "36946",
+          [
+            [
+              35,
+              "T",
+              "4269 Beckman Institute",
+              6,
+              [
+                "Oelze, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "I": [
+          "36953",
+          [
+            [
+              3,
+              "W",
+              "3081 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Stillwell, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "K": [
+          "76488",
+          [
+            [
+              2,
+              "W",
+              "Location Pending",
+              6,
+              [
+                "Driggs-Campbell, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "SP": [
+          "79942",
+          [
+            [
+              132,
+              "F",
+              "2017 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Luo, N",
+                "Xing, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Lectures and discussions on current research and literature on advanced topics in electrical engineering.",
+      []
+    ],
+    "ECE 592": [
+      "Teaching and Leadership skills for Graduate Engineering Students and Teaching Assistants",
+      {
+        "TL": [
+          "80972",
+          [
+            [
+              4,
+              "F",
+              "3039 Campus Instructional Facility",
+              22,
+              [
+                "Beckman, M",
+                "Chen, Y",
+                "Johnson, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      null,
+      []
+    ],
+    "ECE 596": [
+      "Master's Project",
+      {
+        "": [
+          "10020",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              6,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Individual or team projects in electrical and computer engineering emphasizing advanced engineering analysis and design.",
+      []
+    ],
+    "ECE 597": [
+      "Individual Study in ECE",
+      {
+        "": [
+          "10023",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              6,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Individual projects. Approved written application to department as specified by department or instructor is required.",
+      []
+    ],
+    "ECE 598": [
+      "Special Topics in ECE",
+      {
+        "A": [
+          "80794",
+          [
+            [
+              35,
+              "TW",
+              "3020 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Bishop, M",
+                "Gallo, F"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "CR": [
+          "47508",
+          [
+            [
+              38,
+              "MW",
+              "3020 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Hanumolu, P",
+                "Radhakrishnan, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "DA": [
+          "80770",
+          [
+            [
+              18,
+              "TR",
+              "3013 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Alabi, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "JK": [
+          "56132",
+          [
+            [
+              49,
+              "TR",
+              "4070 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Kim, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "RE": [
+          "81006",
+          [
+            [
+              9,
+              "TR",
+              "4070 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Engelken, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "RI": [
+          "56456",
+          [
+            [
+              18,
+              "TR",
+              "3020 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Ilie, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "YB": [
+          "43841",
+          [
+            [
+              24,
+              "MW",
+              "3015 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Baryshnikov, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "YH": [
+          "37033",
+          [
+            [
+              6,
+              "TR",
+              "2015 Electrical & Computer Eng Bldg",
+              33,
+              [
+                "Hu, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ZZ": [
+          "72081",
+          [
+            [
+              20,
+              "TR",
+              "ONLINE",
+              6,
+              [
+                "Zhao, Z"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Subject offerings of new and developing areas of knowledge in electrical and computer engineering intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites.",
+      []
     ]
   },
   "caches": {
@@ -4466,7 +9139,11 @@
       "1430 - 1545",
       "1030 - 1200",
       "1200 - 1420",
-      "1105 - 1345"
+      "1105 - 1345",
+      "1430 - 1620",
+      "1500 - 1640",
+      "1430 - 1720",
+      "1900 - 1950"
     ],
     "dateRanges": [],
     "scheduleTypes": [
