@@ -1,7 +1,7 @@
 {
   "subject": "ANSC",
-  "scrapedAt": 1777260365782,
-  "courseCount": 33,
+  "scrapedAt": 1777260391024,
+  "courseCount": 44,
   "courses": {
     "ANSC 110": [
       "Animal Exploration: A Global Perspective",
@@ -2121,6 +2121,1049 @@
       [],
       "Same as ANTH 441. See ANTH 441.",
       []
+    ],
+    "ANSC 444": [
+      "Applied Animal Genetics",
+      {
+        "A": [
+          "77445",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              6,
+              [
+                "Rodriguez Zas, S",
+                "Sunderland, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Principles of heredity and their application to the problems of animal improvement.",
+      []
+    ],
+    "ANSC 452": [
+      "Animal Growth and Development",
+      {
+        "A": [
+          "29889",
+          [
+            [
+              0,
+              "MWF",
+              "131 Animal Sciences Laboratory",
+              20,
+              [
+                "Dilger, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Basic principles of animal growth from early fetal development through typical marketing ages for the major domestic animal species. Topics discussed include molecular and cellular determinants of tissue development and whole animal growth, with coverage of current and future technologies for manipulating growth to enhance animal production.",
+      []
+    ],
+    "ANSC 498": [
+      "Integrating Animal Sciences",
+      {
+        "A": [
+          "59523",
+          [
+            [
+              30,
+              "R",
+              "1306 Everitt Laboratory",
+              31,
+              [
+                "Shasteen, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to the theoretical basis of and skills associated with leadership, inquiry, and collaborative learning. Capstone experience in integrating knowledge, practicing skills, and applying theory through collaborative projects that address current issues in animal sciences. Projects relate to the impact of animals and animal use on humans and societal issues facing the world today.",
+      []
+    ],
+    "ANSC 499": [
+      "Seminar",
+      {
+        "": [
+          "10254",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              6,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "CA1": [
+          "81725",
+          [
+            [
+              6,
+              "TR",
+              "111 Stock Pavilion",
+              6,
+              [
+                "Archer, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "CUB": [
+          "81726",
+          [
+            [
+              71,
+              "TR",
+              "326 David Kinley Hall",
+              7,
+              [
+                "Urbano Braz, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "E1": [
+          "62843",
+          [
+            [
+              7,
+              "W",
+              "292 Animal Sciences Laboratory",
+              20,
+              [
+                "Kukekova, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Group discussion or an experimental course on a special topic in animal sciences.",
+      []
+    ],
+    "ANSC 523": [
+      "Techniques in Animal Nutrition",
+      {
+        "1": [
+          "29894",
+          [
+            [
+              30,
+              "TR",
+              "107 Animal Sciences Laboratory",
+              20,
+              [
+                "Dilger, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Discusses and applies methods of laboratory analysis and animal experimentation frequently used in nutrition research.",
+      []
+    ],
+    "ANSC 502": [
+      "What is Milk and Milk Quality",
+      {
+        "ONL": [
+          "80967",
+          [
+            [
+              20,
+              "T",
+              "ONLINE",
+              6,
+              [
+                "Loor, J",
+                "Nolan, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Explore the composition and synthesis of milk, maternal adaptations supporting milk production, and the impact of cow's milk on human nutrition. Students will examine the digestion of dairy products, health disorders (e.g., lactose intolerance), and milk quality. The course includes self-paced learning, current research, on-farm applications, and interactive discussions. Instructors and guest experts will present case studies, share hands-on experience in milk quality and economics, and discuss the economic relevance of milk quality.",
+      []
+    ],
+    "ANSC 525": [
+      "Topics in Nutrition Research",
+      {
+        "C1": [
+          "71226",
+          [
+            [
+              38,
+              "MW",
+              "W115 Turner Hall",
+              6,
+              [
+                "Murphy, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as FSHN 510 and NUTR 510. See NUTR 510.",
+      []
+    ],
+    "ANSC 541": [
+      "Regression Analysis",
+      {
+        "AB1": [
+          "46818",
+          [
+            [
+              15,
+              "F",
+              "Location Pending",
+              6,
+              [
+                "Ersoz, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "46812",
+          [
+            [
+              72,
+              "MW",
+              "Location Pending",
+              6,
+              [
+                "Ersoz, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as CPSC 541. See CPSC 541.",
+      []
+    ],
+    "ANSC 590": [
+      "Animal Sciences Seminar",
+      {
+        "A": [
+          "36762",
+          [
+            [
+              3,
+              "M",
+              "292 Animal Sciences Laboratory",
+              20,
+              [
+                "Bresolin, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          12,
+          0,
+          [],
+          -1
+        ],
+        "A1": [
+          "43991",
+          [
+            [
+              3,
+              "M",
+              "292 Animal Sciences Laboratory",
+              20,
+              [
+                "Bresolin, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          12,
+          0,
+          [],
+          -1
+        ],
+        "A2": [
+          "43992",
+          [
+            [
+              3,
+              "M",
+              "292 Animal Sciences Laboratory",
+              20,
+              [
+                "Bresolin, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          12,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "36763",
+          [
+            [
+              4,
+              "T",
+              "292 Animal Sciences Laboratory",
+              20,
+              [
+                "Condotta, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          12,
+          0,
+          [],
+          -1
+        ],
+        "B1": [
+          "43993",
+          [
+            [
+              4,
+              "T",
+              "292 Animal Sciences Laboratory",
+              20,
+              [
+                "Condotta, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          12,
+          0,
+          [],
+          -1
+        ],
+        "B2": [
+          "43994",
+          [
+            [
+              4,
+              "T",
+              "292 Animal Sciences Laboratory",
+              20,
+              [
+                "Condotta, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          12,
+          0,
+          [],
+          -1
+        ],
+        "C": [
+          "36765",
+          [
+            [
+              4,
+              "T",
+              "292 Animal Sciences Laboratory",
+              20,
+              [
+                "Condotta, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          12,
+          0,
+          [],
+          -1
+        ],
+        "C1": [
+          "43995",
+          [
+            [
+              4,
+              "T",
+              "292 Animal Sciences Laboratory",
+              20,
+              [
+                "Condotta, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          12,
+          0,
+          [],
+          -1
+        ],
+        "C2": [
+          "43996",
+          [
+            [
+              4,
+              "T",
+              "292 Animal Sciences Laboratory",
+              20,
+              [
+                "Condotta, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          12,
+          0,
+          [],
+          -1
+        ],
+        "D": [
+          "36766",
+          [
+            [
+              2,
+              "M",
+              "208 Meat Science Laboratory",
+              35,
+              [
+                "Dilger, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          12,
+          0,
+          [],
+          -1
+        ],
+        "D1": [
+          "43997",
+          [
+            [
+              2,
+              "M",
+              "208 Meat Science Laboratory",
+              35,
+              [
+                "Dilger, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          12,
+          0,
+          [],
+          -1
+        ],
+        "D2": [
+          "43998",
+          [
+            [
+              2,
+              "M",
+              "208 Meat Science Laboratory",
+              35,
+              [
+                "Dilger, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          12,
+          0,
+          [],
+          -1
+        ],
+        "E": [
+          "36767",
+          [
+            [
+              3,
+              "R",
+              "292 Animal Sciences Laboratory",
+              20,
+              [
+                "McCann, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          12,
+          0,
+          [],
+          -1
+        ],
+        "E1": [
+          "43999",
+          [
+            [
+              3,
+              "R",
+              "292 Animal Sciences Laboratory",
+              20,
+              [
+                "McCann, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          12,
+          0,
+          [],
+          -1
+        ],
+        "F": [
+          "36769",
+          [
+            [
+              35,
+              "W",
+              "3526 Vet Med Basic Sciences Bldg",
+              37,
+              [
+                "Bagchi, I",
+                "Wang, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          12,
+          0,
+          [],
+          -1
+        ],
+        "F1": [
+          "44001",
+          [
+            [
+              35,
+              "W",
+              "3526 Vet Med Basic Sciences Bldg",
+              37,
+              [
+                "Bagchi, I",
+                "Wang, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          12,
+          0,
+          [],
+          -1
+        ],
+        "H": [
+          "36774",
+          [
+            [
+              35,
+              "T",
+              "404 Animal Sciences Laboratory",
+              20,
+              [
+                "Mackie, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          12,
+          0,
+          [],
+          -1
+        ],
+        "H1": [
+          "44005",
+          [
+            [
+              35,
+              "T",
+              "404 Animal Sciences Laboratory",
+              20,
+              [
+                "Mackie, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          12,
+          0,
+          [],
+          -1
+        ],
+        "H2": [
+          "44006",
+          [
+            [
+              35,
+              "T",
+              "404 Animal Sciences Laboratory",
+              20,
+              [
+                "Mackie, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          12,
+          0,
+          [],
+          -1
+        ],
+        "I": [
+          "36776",
+          [
+            [
+              4,
+              "W",
+              "292 Animal Sciences Laboratory",
+              20,
+              [
+                "Antonson, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          12,
+          0,
+          [],
+          -1
+        ],
+        "I1": [
+          "44007",
+          [
+            [
+              4,
+              "W",
+              "292 Animal Sciences Laboratory",
+              20,
+              [
+                "Antonson, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          12,
+          0,
+          [],
+          -1
+        ],
+        "I2": [
+          "44008",
+          [
+            [
+              4,
+              "W",
+              "ONLINE",
+              6,
+              [
+                "Antonson, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "N": [
+          "36777",
+          [
+            [
+              3,
+              "F",
+              "396 Animal Sciences Laboratory",
+              20,
+              [
+                "Wheeler, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          12,
+          0,
+          [],
+          -1
+        ],
+        "N1": [
+          "44011",
+          [
+            [
+              3,
+              "F",
+              "396 Animal Sciences Laboratory",
+              20,
+              [
+                "Wheeler, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          12,
+          0,
+          [],
+          -1
+        ],
+        "N2": [
+          "44012",
+          [
+            [
+              3,
+              "F",
+              "396 Animal Sciences Laboratory",
+              20,
+              [
+                "Wheeler, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          12,
+          0,
+          [],
+          -1
+        ],
+        "O": [
+          "69939",
+          [
+            [
+              3,
+              "W",
+              "292 Animal Sciences Laboratory",
+              20,
+              [
+                "Emmert, J",
+                "Parsons, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          12,
+          0,
+          [],
+          -1
+        ],
+        "O1": [
+          "69940",
+          [
+            [
+              3,
+              "W",
+              "292 Animal Sciences Laboratory",
+              20,
+              [
+                "Emmert, J",
+                "Parsons, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          12,
+          0,
+          [],
+          -1
+        ],
+        "PD": [
+          "81630",
+          [
+            [
+              34,
+              "M",
+              "292 Animal Sciences Laboratory",
+              20,
+              [
+                "Crofts, T",
+                "Robben, M",
+                "Taves, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          12,
+          0,
+          [],
+          -1
+        ],
+        "T": [
+          "81073",
+          [
+            [
+              3,
+              "F",
+              "3526 Vet Med Basic Sciences Bldg",
+              37,
+              [
+                "Flaws, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          12,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Discussions of current research and literature. Registration for 0 to 2 hours each term is expected for animal sciences graduate students.",
+      []
+    ],
+    "ANSC 592": [
+      "Adv Topics in Animal Science",
+      {
+        "AT": [
+          "42524",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              6,
+              [
+                "Dilger, A",
+                "Parsons, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Selected topics associated with teaching, research, and production related to the animal industry.",
+      []
+    ],
+    "ANSC 593": [
+      "Res Studies in Animal Sciences",
+      {
+        "": [
+          "10258",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              6,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Directed and supervised study of selected research topics in Animal Sciences.",
+      []
     ]
   },
   "caches": {
@@ -2195,7 +3238,9 @@
       "1230 - 1420",
       "0730 - 0920",
       "0700 - 0950",
-      "0930 - 1150"
+      "0930 - 1150",
+      "1400 - 1540",
+      "1530 - 1700"
     ],
     "dateRanges": [],
     "scheduleTypes": [
@@ -2368,6 +3413,10 @@
       {
         "lat": 40.101862,
         "long": -88.231737
+      },
+      {
+        "lat": 40.092875494224195,
+        "long": -88.22082220247309
       }
     ],
     "finalDates": [],
