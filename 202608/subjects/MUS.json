@@ -1,7 +1,7 @@
 {
   "subject": "MUS",
-  "scrapedAt": 1777865685752,
-  "courseCount": 86,
+  "scrapedAt": 1777865715310,
+  "courseCount": 99,
   "courses": {
     "MUS 090": [
       "Seminar in Music Education",
@@ -6273,6 +6273,566 @@
       },
       [],
       "Weekly seminar involving special topic discussions on critical issues within the profession. Required each semester for all resident doctoral students in music education during their residency.",
+      []
+    ],
+    "MUS 552": [
+      "Career Preparation for Opera Singers and Coaches",
+      {
+        "A": [
+          "80949",
+          [
+            [
+              31,
+              "F",
+              "Location Pending",
+              6,
+              [
+                "Gunn, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          12,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Focuses on the practical side of becoming a professional classical singer. Meetings and coursework consist of mock auditions; student presentations on American (US) opera houses, young artists’ programs, and competitions; the keeping of an audition log; periodic self-evaluations; and discussions with faculty and guests about the structure and nature of our industry. We will discuss the roles that concert work, recitals, digital forms, and musical theatre may play in your career.",
+      []
+    ],
+    "MUS 555": [
+      "Advanced Choral Conducting",
+      {
+        "A": [
+          "71888",
+          [
+            [
+              39,
+              "MW",
+              "2317 Krannert Center for Perf Arts",
+              46,
+              [
+                "Solya, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Intensive laboratory approach to the development of advanced techniques necessary for working effectively with choral ensembles.",
+      []
+    ],
+    "MUS 550": [
+      "Choral Literature I",
+      {
+        "A": [
+          "71887",
+          [
+            [
+              9,
+              "TR",
+              "2334 Music Building",
+              49,
+              [
+                "Major, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Survey of choral and vocal ensemble repertoire from the Middle Ages to about 1750.",
+      []
+    ],
+    "MUS 557": [
+      "Piano Literature",
+      {
+        "A": [
+          "30740",
+          [
+            [
+              12,
+              "TR",
+              "Location Pending",
+              6,
+              [
+                "Sennet, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "May be repeated to a maximum of 8 hours. Prerequisite: Graduate standing in music or consent of instructor.",
+      []
+    ],
+    "MUS 561": [
+      "Wind Instrument Literature",
+      {
+        "BN": [
+          "38319",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              6,
+              [
+                "Roidl-Ward, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          10,
+          0,
+          [],
+          -1
+        ],
+        "CL": [
+          "38317",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              6,
+              [
+                "Minor, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "FL": [
+          "38316",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              6,
+              [
+                "Keeble, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          10,
+          0,
+          [],
+          -1
+        ],
+        "HN": [
+          "38323",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              6,
+              [
+                "Scully, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          10,
+          0,
+          [],
+          -1
+        ],
+        "OB": [
+          "38318",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              6,
+              [
+                "Dee, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          10,
+          0,
+          [],
+          -1
+        ],
+        "TPT": [
+          "38321",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              6,
+              [
+                "Daval, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "TRB": [
+          "38327",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              6,
+              [
+                "Whitaker, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Survey of solo and ensemble wind literature; includes analysis and performance (when possible) of the music itself, recordings, and collateral readings.",
+      []
+    ],
+    "MUS 558": [
+      "Vocal Literature",
+      {
+        "A": [
+          "30741",
+          [
+            [
+              57,
+              "W",
+              "0304 Music Building",
+              49,
+              [
+                "Robards, C"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              5,
+              "M",
+              "0304 Music Building",
+              49,
+              [
+                "Robards, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Study of solo song in larger works and solo art song.",
+      []
+    ],
+    "MUS 564": [
+      "Choral Conducting Project",
+      {
+        "A": [
+          "30782",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              6,
+              [
+                "Solya, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Participation in a graduate choral conducting laboratory and preparation of a choral ensemble for public performance. Required during the final term in residence for candidates in the Master of Music in choral music curriculum.",
+      []
+    ],
+    "MUS 565": [
+      "Doctoral Choral Conducting",
+      {
+        "A": [
+          "30784",
+          [
+            [
+              39,
+              "MW",
+              "2317 Krannert Center for Perf Arts",
+              46,
+              [
+                "Solya, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Study of performance problems and musical analysis of choral music with techniques of preparation and rehearsal from the various style periods: Renaissance, Baroque, Classic-Romantic, and Contemporary.",
+      []
+    ],
+    "MUS 568": [
+      "Graduate Seminar in Collaborative Piano Techniques",
+      {
+        "A1": [
+          "81139",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              6,
+              [
+                "Wu, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Techniques of collaborative piano playing as applied to various stylistic schools and periods of vocal and instrumental duo literature. Includes written and reading assignments as well as in-class presentations, coachings, and performances.",
+      []
+    ],
+    "MUS 570": [
+      "Prac Pno Tchg Child and Teens",
+      {
+        "A": [
+          "30792",
+          [
+            [
+              4,
+              "W",
+              "106 Smith Memorial Hall",
+              6,
+              [
+                "Tsitsaros, C"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              30,
+              "M",
+              "106 Smith Memorial Hall",
+              6,
+              [
+                "Tsitsaros, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Student teaching of group piano and musicianship classes for elementary, middle school, and high school students; weekly seminar devoted to evaluation and improvement of teaching techniques.",
+      []
+    ],
+    "MUS 573": [
+      "Doctoral Wind Band Conducting",
+      {
+        "A": [
+          "58298",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              6,
+              [
+                "Geraldi, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Advanced study in wind band conducting performance, pedagogy, score study/ analysis, and rehearsal techniques.",
+      []
+    ],
+    "MUS 576": [
+      "Doctoral Projects",
+      {
+        "": [
+          "10028",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              6,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Special projects for candidates for the Doctor of Musical Arts degree. Open only to students in the Doctor of Musical Arts program.",
+      []
+    ],
+    "MUS 578": [
+      "Vocal Pedagogy",
+      {
+        "A1": [
+          "79823",
+          [
+            [
+              6,
+              "T",
+              "0357 Music Building",
+              49,
+              [
+                "Brooks, L",
+                "Redman, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              57,
+              "F",
+              "0359 Music Building",
+              49,
+              [
+                "Brooks, L",
+                "Redman, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Explores applications of healthy voice instruction. This class has a flipped and blended learning design in which online work introduces the material and digital tools support training. The classroom is primarily interactive and integrative to address real-world scenarios.",
       []
     ]
   },

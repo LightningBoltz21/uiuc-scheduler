@@ -4,7 +4,7 @@
   "year": "2026",
   "term": "fall",
   "startedAt": 1777260175136,
-  "lastUpdated": 1777865685755,
+  "lastUpdated": 1777865835998,
   "totalSubjects": 185,
   "totalCourses": 4494,
   "subjects": [
@@ -18676,19 +18676,40 @@
     "MICR",
     "MILS",
     "MIP",
-    "MSE"
+    "MSE",
+    "MUS",
+    "MUSC",
+    "MUSE",
+    "NE",
+    "NEUR",
+    "NPRE",
+    "NRES",
+    "NS",
+    "NUTR",
+    "PATH",
+    "PERS",
+    "PHIL",
+    "PHYS",
+    "PLPA",
+    "POL",
+    "PORT",
+    "PS",
+    "PSM",
+    "PSYC",
+    "QUEC",
+    "REES"
   ],
   "partialSubjects": {
-    "MUS": {
-      "completed": 86,
-      "total": 99,
+    "REL": {
+      "completed": 0,
+      "total": 26,
       "lastCourse": "ABORTED"
     }
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 3313,
-    "failedCourses": 6,
+    "successfulCourses": 3859,
+    "failedCourses": 7,
     "rateLimitCount": 0
   }
 }
