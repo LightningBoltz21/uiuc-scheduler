@@ -1,0 +1,1832 @@
+{
+  "subject": "SE",
+  "scrapedAt": 1777865894897,
+  "courseCount": 23,
+  "courses": {
+    "SE 100": [
+      "Introduction to ISE",
+      {
+        "T": [
+          "68129",
+          [
+            [
+              39,
+              "W",
+              "2035 Campus Instructional Facility",
+              16,
+              [
+                "Shamma, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Overview of the engineering profession, the Industrial & Enterprise Systems Engineering Department, and the curricula in Industrial Engineering and Systems Engineering and Design.",
+      []
+    ],
+    "SE 199": [
+      "Undergraduate Open Seminar",
+      {
+        "": [
+          "68209",
+          [
+            [
+              7,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      null,
+      []
+    ],
+    "SE 101": [
+      "Engineering Graphics & Design",
+      {
+        "ABA": [
+          "68134",
+          [
+            [
+              8,
+              "W",
+              "110A Engineering Hall",
+              17,
+              [
+                "Goldstein, M"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              0,
+              "M",
+              "207 Transportation Building",
+              18,
+              [
+                "Goldstein, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "ABB": [
+          "68135",
+          [
+            [
+              8,
+              "W",
+              "110A Engineering Hall",
+              17,
+              [
+                "Goldstein, M"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              2,
+              "M",
+              "207 Transportation Building",
+              18,
+              [
+                "Goldstein, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "ABC": [
+          "68136",
+          [
+            [
+              6,
+              "W",
+              "110A Engineering Hall",
+              17,
+              [
+                "Goldstein, M"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              1,
+              "M",
+              "207 Transportation Building",
+              18,
+              [
+                "Goldstein, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "ABD": [
+          "68137",
+          [
+            [
+              6,
+              "W",
+              "110A Engineering Hall",
+              17,
+              [
+                "Goldstein, M"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              3,
+              "M",
+              "207 Transportation Building",
+              18,
+              [
+                "Goldstein, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "ABE": [
+          "68138",
+          [
+            [
+              44,
+              "R",
+              "110A Engineering Hall",
+              17,
+              [
+                "Goldstein, M"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              22,
+              "T",
+              "207 Transportation Building",
+              18,
+              [
+                "Goldstein, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "ABF": [
+          "68139",
+          [
+            [
+              44,
+              "R",
+              "110A Engineering Hall",
+              17,
+              [
+                "Goldstein, M"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              5,
+              "T",
+              "207 Transportation Building",
+              18,
+              [
+                "Goldstein, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "AL": [
+          "68140",
+          [
+            [
+              4,
+              "MW",
+              "4029 Campus Instructional Facility",
+              16,
+              [
+                "Goldstein, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "BBA": [
+          "68142",
+          [
+            [
+              45,
+              "R",
+              "316 Transportation Building",
+              18,
+              [
+                "Goldstein, M"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              2,
+              "T",
+              "207 Transportation Building",
+              18,
+              [
+                "Goldstein, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "BBB": [
+          "68143",
+          [
+            [
+              45,
+              "R",
+              "316 Transportation Building",
+              18,
+              [
+                "Goldstein, M"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              1,
+              "T",
+              "207 Transportation Building",
+              18,
+              [
+                "Goldstein, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "BBC": [
+          "68145",
+          [
+            [
+              42,
+              "R",
+              "316 Transportation Building",
+              18,
+              [
+                "Goldstein, M"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              3,
+              "T",
+              "207 Transportation Building",
+              18,
+              [
+                "Goldstein, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "BBD": [
+          "68146",
+          [
+            [
+              42,
+              "R",
+              "316 Transportation Building",
+              18,
+              [
+                "Goldstein, M"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              43,
+              "T",
+              "207 Transportation Building",
+              18,
+              [
+                "Goldstein, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "BBE": [
+          "68147",
+          [
+            [
+              46,
+              "R",
+              "316 Transportation Building",
+              18,
+              [
+                "Goldstein, M"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              39,
+              "T",
+              "207 Transportation Building",
+              18,
+              [
+                "Goldstein, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "BBF": [
+          "68148",
+          [
+            [
+              46,
+              "R",
+              "316 Transportation Building",
+              18,
+              [
+                "Goldstein, M"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              47,
+              "T",
+              "207 Transportation Building",
+              18,
+              [
+                "Goldstein, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "BBG": [
+          "68149",
+          [
+            [
+              44,
+              "F",
+              "316 Transportation Building",
+              18,
+              [
+                "Goldstein, M"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              22,
+              "W",
+              "207 Transportation Building",
+              18,
+              [
+                "Goldstein, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "BBH": [
+          "68150",
+          [
+            [
+              44,
+              "F",
+              "316 Transportation Building",
+              18,
+              [
+                "Goldstein, M"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              5,
+              "W",
+              "207 Transportation Building",
+              18,
+              [
+                "Goldstein, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "BBI": [
+          "68152",
+          [
+            [
+              48,
+              "F",
+              "316 Transportation Building",
+              18,
+              [
+                "Goldstein, M"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              4,
+              "W",
+              "207 Transportation Building",
+              18,
+              [
+                "Goldstein, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "BBJ": [
+          "68153",
+          [
+            [
+              48,
+              "F",
+              "316 Transportation Building",
+              18,
+              [
+                "Goldstein, M"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              0,
+              "W",
+              "207 Transportation Building",
+              18,
+              [
+                "Goldstein, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "BL": [
+          "68141",
+          [
+            [
+              0,
+              "TR",
+              "2035 Campus Instructional Facility",
+              16,
+              [
+                "Goldstein, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "[IAI Code: EGR941] Computer-aided design (CAD) software modeling of parts and assemblies. Parametric and non-parametric solid, surface, and wireframe models. Part editing and two-dimensional documentation of models. Planar projection theory, including sketching of perspective, isometric, multiview, auxiliary, and section views. Spatial visualization exercises. Dimensioning guidelines, tolerancing techniques. Team design project.",
+      []
+    ],
+    "SE 261": [
+      "Business Side of Engineering",
+      {
+        "H": [
+          "68161",
+          [
+            [
+              3,
+              "TR",
+              "2035 Campus Instructional Facility",
+              16,
+              [
+                "Khaleghi, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Important elements and metrics of business and contemporary engineering economics: wealth creation, cash flow diagrams, internal rate of return, net present value, breakeven analysis, companies, corporations, profits, prices, balance sheets, income statements, and the basics of business plan writing. Particular emphasis is given to preparation for the economic analysis component of engineering practice.",
+      []
+    ],
+    "SE 297": [
+      "Independent Study",
+      {
+        "": [
+          "69043",
+          [
+            [
+              7,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Individual investigations of any phase of Systems Engineering and Design selected by the students and approved by the department.",
+      []
+    ],
+    "SE 290": [
+      "ISE Undergraduate Seminar",
+      {
+        "A": [
+          "69280",
+          [
+            [
+              0,
+              "R",
+              "1310 Digital Computer Laboratory",
+              19,
+              [
+                "Murphy, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Lecture-discussion series by department faculty and visiting professional engineers addressing ethics, professional registration, the role of technical societies, and the relation of engineering to such disciplines as economics, sociology, and government.",
+      []
+    ],
+    "SE 298": [
+      "Special Topics",
+      {
+        "SSF": [
+          "81583",
+          [
+            [
+              11,
+              "TR",
+              "Location Pending",
+              1,
+              [
+                "Touri, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Subject offerings of new and developing areas of knowledge in general engineering intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites.",
+      []
+    ],
+    "SE 310": [
+      "Design of Structures and Mechanisms",
+      {
+        "A": [
+          "68166",
+          [
+            [
+              0,
+              "MWF",
+              "114 Transportation Building",
+              18,
+              [
+                "Dong, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Fundamental concepts in the classical and computer-based analysis and design of structural and machine components and assemblies. External loads, internal forces, and displacements in statically determinate and indeterminate configurations: kinematics of linkages, gears, and cams; static forces in machines.",
+      []
+    ],
+    "SE 320": [
+      "Control Systems",
+      {
+        "AB1": [
+          "68168",
+          [
+            [
+              48,
+              "T",
+              "3075 Electrical & Computer Eng Bldg",
+              20,
+              [
+                "Block, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "AB2": [
+          "68169",
+          [
+            [
+              49,
+              "T",
+              "3075 Electrical & Computer Eng Bldg",
+              20,
+              [
+                "Block, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "AB3": [
+          "68170",
+          [
+            [
+              50,
+              "T",
+              "3075 Electrical & Computer Eng Bldg",
+              20,
+              [
+                "Block, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "AB4": [
+          "68171",
+          [
+            [
+              50,
+              "W",
+              "3075 Electrical & Computer Eng Bldg",
+              20,
+              [
+                "Block, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "AB5": [
+          "68172",
+          [
+            [
+              48,
+              "R",
+              "3075 Electrical & Computer Eng Bldg",
+              20,
+              [
+                "Block, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "AB6": [
+          "68173",
+          [
+            [
+              49,
+              "R",
+              "3075 Electrical & Computer Eng Bldg",
+              20,
+              [
+                "Block, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "AB8": [
+          "72506",
+          [
+            [
+              51,
+              "W",
+              "3075 Electrical & Computer Eng Bldg",
+              20,
+              [
+                "Block, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "AE1": [
+          "68167",
+          [
+            [
+              12,
+              "TR",
+              "119 Materials Science & Eng Bld",
+              21,
+              [
+                "Etesami, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Fundamental control systems and control systems technology. Sensors, actuators, modeling of physical systems, design and implementation of feedback controllers; operational techniques used in describing, analyzing and designing linear continuous systems; Laplace transforms; response via transfer functions; stability; performance specifications; controller design via transfer functions; frequency response; simple nonlinearities.",
+      []
+    ],
+    "SE 361": [
+      "Emotional Intelligence Skills",
+      {
+        "R": [
+          "68175",
+          [
+            [
+              52,
+              "MW",
+              "1038 Campus Instructional Facility",
+              16,
+              [
+                "Spencer, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Understanding emotions in ourselves and others. Assessment and improvement of interpersonal skills and emotional intelligence competencies including self-regulation, motivation, empathetic listening, communication, influence collaboration and cooperation, conflict management, leadership, teamwork, and managing change. Includes one Saturday laboratory session.",
+      []
+    ],
+    "SE 400": [
+      "Engineering Law",
+      {
+        "B": [
+          "68178",
+          [
+            [
+              53,
+              "R",
+              "119 Materials Science & Eng Bld",
+              21,
+              [
+                "Barich, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "C": [
+          "71116",
+          [
+            [
+              53,
+              "R",
+              "119 Materials Science & Eng Bld",
+              21,
+              [
+                "Barich, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Nature and development of the legal system; legal rights and duties important to engineers in their professions; contracts, uniform commercial code and sales of goods, torts, agency, worker's compensation, labor law, property, environmental law, intellectual property.",
+      []
+    ],
+    "SE 397": [
+      "Independent Study",
+      {
+        "": [
+          "69044",
+          [
+            [
+              7,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Individual investigations or studies of any phase of Systems Engineering and Design selected by the students and approved by the department.",
+      []
+    ],
+    "SE 402": [
+      "Comp-Aided Product Realization",
+      {
+        "ID": [
+          "68154",
+          [
+            [
+              12,
+              "R",
+              "Location Pending",
+              1,
+              [
+                "Goldstein, M"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              12,
+              "T",
+              "Location Pending",
+              1,
+              [
+                "Goldstein, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "ID2": [
+          "79862",
+          [
+            [
+              12,
+              "R",
+              "Location Pending",
+              1,
+              [
+                "Goldstein, M"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              12,
+              "T",
+              "Location Pending",
+              1,
+              [
+                "Goldstein, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Computer-aided design, analysis, and prototyping tools used in the produce development process. Principles of computer graphics and geometric modeling, including transformations, coordinate systems, parametric solid modeling, spline curves, and surface modeling. Finite element and kinematics analyses. Rapid prototyping, product dissection, CAD-CAM-CAE operability issues, and CAD collaboration tools.",
+      []
+    ],
+    "SE 410": [
+      "Component Design",
+      {
+        "E": [
+          "68156",
+          [
+            [
+              1,
+              "MWF",
+              "101 Transportation Building",
+              18,
+              [
+                "Li, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Design of basic engineering components: structural members, machine parts, and connections. Principles applied include: material failure (yield, fracture, fatigue); buckling and other instabilities; design reliability; analytical simulation.",
+      []
+    ],
+    "SE 420": [
+      "Digital Control Systems",
+      {
+        "AB1": [
+          "68158",
+          [
+            [
+              15,
+              "M",
+              "3075 Electrical & Computer Eng Bldg",
+              20,
+              [
+                "Block, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "AB2": [
+          "68159",
+          [
+            [
+              15,
+              "W",
+              "3075 Electrical & Computer Eng Bldg",
+              20,
+              [
+                "Block, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "AL": [
+          "68157",
+          [
+            [
+              54,
+              "TR",
+              "206 Transportation Building",
+              18,
+              [
+                "Stipanovic, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Theory and techniques for control of dynamic processes by digital computer; linear discrete systems, digital filters, sampling signal reconstruction, digital design, state space methods, computers, state estimators, and laboratory techniques.",
+      []
+    ],
+    "SE 450": [
+      "Decision Analysis I",
+      {
+        "G": [
+          "68206",
+          [
+            [
+              5,
+              "MWF",
+              "114 Transportation Building",
+              18,
+              [
+                "Wang, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "GO": [
+          "76050",
+          [
+            [
+              5,
+              "MWF",
+              "ONLINE",
+              1,
+              [
+                "Wang, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "U": [
+          "68205",
+          [
+            [
+              5,
+              "MWF",
+              "114 Transportation Building",
+              18,
+              [
+                "Wang, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Rules of thought that transform complex decision situations into simpler ones where the course of action is clear. Practical application of decision analysis in large organizations; methods to generate insights into real-life decision problems, avoid the common pitfalls in decision processes, and overcome the possible barriers to implementing a high-quality decision-making process for individual and organizational decision making; graphical representations of decision problems such as decision diagrams and utility diagrams.",
+      []
+    ],
+    "SE 494": [
+      "Senior Engineering Project I",
+      {
+        "S1": [
+          "68435",
+          [
+            [
+              55,
+              "TR",
+              "114 Transportation Building",
+              18,
+              [
+                "Titone, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "S2": [
+          "68436",
+          [
+            [
+              55,
+              "TR",
+              "103 Transportation Building",
+              18,
+              [
+                "Titone, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "S3": [
+          "68437",
+          [
+            [
+              55,
+              "TR",
+              "103 Transportation Building",
+              18,
+              [
+                "Titone, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "S4": [
+          "68438",
+          [
+            [
+              55,
+              "TR",
+              "114 Transportation Building",
+              18,
+              [
+                "Titone, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          9,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Senior engineering project - team component. Student teams of three or four, guided by faculty advisors, develop solutions to real-world engineering problems provided by industry-partnering companies, subject to realistic constraints and supported by economic analyses and recommendations for implementation. Prototype solutions fabricated where practical. Multiple reports and presentations throughout the term. Several trips to company typical. Common project grade for all team members.",
+      []
+    ],
+    "SE 495": [
+      "Senior Engineering Project II",
+      {
+        "SEP": [
+          "68434",
+          [
+            [
+              7,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Titone, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Adjunct to SE 494. Senior engineering project -- individual component. Individual grade for each team member.",
+      []
+    ],
+    "SE 497": [
+      "Independent Study",
+      {
+        "": [
+          "69045",
+          [
+            [
+              7,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Advanced problems related to Systems Engineering and Design.",
+      []
+    ],
+    "SE 522": [
+      "Control System Theory & Design",
+      {
+        "N": [
+          "80799",
+          [
+            [
+              9,
+              "TR",
+              "3013 Electrical & Computer Eng Bldg",
+              20,
+              [
+                "Raginsky, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ON1": [
+          "80800",
+          [
+            [
+              9,
+              "TR",
+              "ONLINE",
+              1,
+              [
+                "Raginsky, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          10,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as ECE 515 and ME 540. See ECE 515.",
+      []
+    ],
+    "SE 590": [
+      "Seminar",
+      {
+        "B": [
+          "68208",
+          [
+            [
+              4,
+              "F",
+              "4029 Campus Instructional Facility",
+              16,
+              [
+                "Dong, R",
+                "Jones, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Presentations by graduate students, staff, and guest lecturers of current topics in research and development in Systems and Entrepreneurial Engineering.",
+      []
+    ],
+    "SE 597": [
+      "Independent Study",
+      {
+        "": [
+          "69046",
+          [
+            [
+              7,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Advanced problems related to Systems and Entrepreneurial Engineering.",
+      []
+    ],
+    "SE 594": [
+      "Project Design",
+      {
+        "": [
+          "69048",
+          [
+            [
+              7,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Engineering design projects emphasizing advanced engineering analysis, synthesis, optimization, and engineering economics.",
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "1100 - 1150",
+      "1300 - 1350",
+      "1200 - 1250",
+      "1400 - 1450",
+      "1000 - 1050",
+      "0900 - 0950",
+      "1300 - 1450",
+      "ARRANGED",
+      "1100 - 1250",
+      "1100 - 1220",
+      "1230 - 1320",
+      "1400 - 1520",
+      "1230 - 1350",
+      "1200 - 1320",
+      "1300 - 1420",
+      "1400 - 1650",
+      "1300 - 1550",
+      "1500 - 1720",
+      "0930 - 1045",
+      "1100 - 1215",
+      "1230 - 1345",
+      "1400 - 1515",
+      "0800 - 0850",
+      "1530 - 1645",
+      "0800 - 0915",
+      "1700 - 1815",
+      "1800 - 1915",
+      "1900 - 2020",
+      "0930 - 1050",
+      "1700 - 1800",
+      "1500 - 1620",
+      "1130 - 1250",
+      "1800 - 2040",
+      "1230 - 1410",
+      "1100 - 1240",
+      "0900 - 1040",
+      "1600 - 1740",
+      "1500 - 1640",
+      "1200 - 1315",
+      "1600 - 1650",
+      "1400 - 1620",
+      "0900 - 1020",
+      "1400 - 1550",
+      "1500 - 1550",
+      "0800 - 0950",
+      "1200 - 1350",
+      "1600 - 1750",
+      "1700 - 1750",
+      "1000 - 1150",
+      "1500 - 1650",
+      "1800 - 1950",
+      "0900 - 1050",
+      "1530 - 1650",
+      "1600 - 1820",
+      "0800 - 0920",
+      "0900 - 1150"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Lecture",
+      "Discussion/ Recitation",
+      "Lecture-Discussion",
+      "Independent Study",
+      "Laboratory",
+      "Online",
+      "Online Lecture",
+      "Internship",
+      "Conference",
+      "Laboratory-Discussion",
+      "Online Discussion"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": 40.1072225,
+        "long": -88.2262016
+      },
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.1035833,
+        "long": -88.228405
+      },
+      {
+        "lat": 40.10628,
+        "long": -88.22621
+      },
+      {
+        "lat": 40.1020773,
+        "long": -88.2296394
+      },
+      {
+        "lat": 40.1047599,
+        "long": -88.2319514
+      },
+      {
+        "lat": 40.10783362157985,
+        "long": -88.22476189569741
+      },
+      {
+        "lat": 40.1065684,
+        "long": -88.2281746
+      },
+      {
+        "lat": 40.1083446,
+        "long": -88.2282555
+      },
+      {
+        "lat": 40.105732,
+        "long": -88.2281018
+      },
+      {
+        "lat": 40.107534,
+        "long": -88.2281548
+      },
+      {
+        "lat": 40.104794,
+        "long": -88.224264
+      },
+      {
+        "lat": 40.10127390836906,
+        "long": -88.2226073524728
+      },
+      {
+        "lat": 40.108419421661715,
+        "long": -88.2261156301609
+      },
+      {
+        "lat": 40.1034533,
+        "long": -88.2327596
+      },
+      {
+        "lat": 40.1048704,
+        "long": -88.2229036
+      },
+      {
+        "lat": 40.11246109008789,
+        "long": -88.22831726074219
+      },
+      {
+        "lat": 40.1108856,
+        "long": -88.2269806
+      },
+      {
+        "lat": 40.11171215875622,
+        "long": -88.22530849701589
+      },
+      {
+        "lat": 40.1131317,
+        "long": -88.2264552
+      },
+      {
+        "lat": 40.1149296,
+        "long": -88.2280589
+      },
+      {
+        "lat": 40.11085653938169,
+        "long": -88.22609810215927
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}

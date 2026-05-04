@@ -1,0 +1,3847 @@
+{
+  "subject": "TAM",
+  "scrapedAt": 1777865961930,
+  "courseCount": 29,
+  "courses": {
+    "TAM 195": [
+      "Mechanics in the Modern World",
+      {
+        "U": [
+          "30960",
+          [
+            [
+              59,
+              "R",
+              "3101 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Johnson, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to engineering mechanics and its role in modern engineering analysis and design. Project activity.",
+      []
+    ],
+    "TAM 199": [
+      "Undergraduate Open Seminar",
+      {
+        "": [
+          "10204",
+          [
+            [
+              7,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      null,
+      []
+    ],
+    "TAM 201": [
+      "Mechanics for Technol & Mgmt",
+      {
+        "G": [
+          "59890",
+          [
+            [
+              52,
+              "TR",
+              "226 Wohlers Hall",
+              30,
+              [
+                "Ott-Monsivais, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Engineering mechanics (statics, dynamics, solid mechanics, and fluid mechanics) and the role that mechanics plays in engineering analysis and design. For Technology and Management majors only.",
+      []
+    ],
+    "TAM 211": [
+      "Statics",
+      {
+        "AD1": [
+          "80920",
+          [
+            [
+              22,
+              "R",
+              "0023 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AD2": [
+          "80922",
+          [
+            [
+              39,
+              "F",
+              "0023 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADA": [
+          "33292",
+          [
+            [
+              4,
+              "M",
+              "0023 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADB": [
+          "33379",
+          [
+            [
+              0,
+              "M",
+              "0023 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADC": [
+          "33519",
+          [
+            [
+              3,
+              "M",
+              "0023 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADD": [
+          "34912",
+          [
+            [
+              43,
+              "M",
+              "0023 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADE": [
+          "33479",
+          [
+            [
+              39,
+              "M",
+              "0023 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADG": [
+          "34948",
+          [
+            [
+              5,
+              "T",
+              "0023 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADH": [
+          "34950",
+          [
+            [
+              4,
+              "T",
+              "0023 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADI": [
+          "34952",
+          [
+            [
+              0,
+              "T",
+              "0023 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADJ": [
+          "34955",
+          [
+            [
+              2,
+              "T",
+              "0023 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADK": [
+          "34957",
+          [
+            [
+              5,
+              "W",
+              "0023 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADL": [
+          "34960",
+          [
+            [
+              4,
+              "W",
+              "0023 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADM": [
+          "34963",
+          [
+            [
+              3,
+              "W",
+              "0023 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADN": [
+          "34965",
+          [
+            [
+              43,
+              "W",
+              "0023 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADO": [
+          "34967",
+          [
+            [
+              39,
+              "W",
+              "0023 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADP": [
+          "64913",
+          [
+            [
+              5,
+              "M",
+              "0023 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADQ": [
+          "35258",
+          [
+            [
+              5,
+              "R",
+              "0023 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADR": [
+          "35268",
+          [
+            [
+              4,
+              "R",
+              "0023 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADS": [
+          "64911",
+          [
+            [
+              0,
+              "R",
+              "0023 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADT": [
+          "64912",
+          [
+            [
+              2,
+              "R",
+              "0023 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADV": [
+          "64914",
+          [
+            [
+              4,
+              "F",
+              "0023 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADW": [
+          "34923",
+          [
+            [
+              3,
+              "F",
+              "0023 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADX": [
+          "35249",
+          [
+            [
+              43,
+              "F",
+              "0023 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADY": [
+          "80888",
+          [
+            [
+              2,
+              "M",
+              "0023 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADZ": [
+          "80889",
+          [
+            [
+              1,
+              "M",
+              "0023 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "35220",
+          [
+            [
+              2,
+              "MWF",
+              "0027/1025 Campus Instructional Facility",
+              16,
+              [
+                "Halloran, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "AL2": [
+          "35221",
+          [
+            [
+              1,
+              "MWF",
+              "0027/1025 Campus Instructional Facility",
+              16,
+              [
+                "Admal, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "[IAI Code: EGR942] Forces, moments, and couples; resultants of force systems; equilibrium analysis and free-body diagrams; analysis of forces acting on members of trusses, frames, etc.; shear-force and bending-moment distributions; Coulomb friction; centroids, center of mass, moment of inertia, polar moment of inertia, and product of inertia; virtual work; hydrostatic pressure; applications of statics in design.",
+      []
+    ],
+    "TAM 212": [
+      "Introductory Dynamics",
+      {
+        "AD1": [
+          "32956",
+          [
+            [
+              1,
+              "R",
+              "0023 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AD2": [
+          "32958",
+          [
+            [
+              3,
+              "R",
+              "0023 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AD3": [
+          "32960",
+          [
+            [
+              43,
+              "R",
+              "0023 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AD4": [
+          "32962",
+          [
+            [
+              39,
+              "R",
+              "0023 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AD6": [
+          "52452",
+          [
+            [
+              0,
+              "F",
+              "0023 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AD7": [
+          "60723",
+          [
+            [
+              2,
+              "F",
+              "0023 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AD8": [
+          "61995",
+          [
+            [
+              1,
+              "F",
+              "0023 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AD9": [
+          "32964",
+          [
+            [
+              5,
+              "F",
+              "0023 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AE1": [
+          "32966",
+          [
+            [
+              43,
+              "MWF",
+              "100 Materials Science & Eng Bld",
+              21,
+              [
+                "West, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "OD1": [
+          "81739",
+          [
+            [
+              43,
+              "R",
+              "Location Pending",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "OD2": [
+          "81740",
+          [
+            [
+              39,
+              "R",
+              "Location Pending",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "OE1": [
+          "60861",
+          [
+            [
+              7,
+              "",
+              "ONLINE",
+              1,
+              [
+                "West, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "[IAI Code: EGR943] Kinematics and dynamics of the three-dimensional motion of particles; kinematics and dynamics of the plane motion of rigid bodies; methods of work energy and impulse momentum; moving reference frames.",
+      []
+    ],
+    "TAM 210": [
+      "Introduction to Statics",
+      {
+        "AD1": [
+          "80919",
+          [
+            [
+              22,
+              "R",
+              "0023 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AD2": [
+          "80921",
+          [
+            [
+              39,
+              "F",
+              "0023 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADA": [
+          "33377",
+          [
+            [
+              4,
+              "M",
+              "0023 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADB": [
+          "33414",
+          [
+            [
+              0,
+              "M",
+              "0023 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADC": [
+          "33477",
+          [
+            [
+              3,
+              "M",
+              "0023 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADD": [
+          "33516",
+          [
+            [
+              43,
+              "M",
+              "0023 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADE": [
+          "34911",
+          [
+            [
+              39,
+              "M",
+              "0023 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADG": [
+          "34947",
+          [
+            [
+              5,
+              "T",
+              "0023 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADH": [
+          "34949",
+          [
+            [
+              4,
+              "T",
+              "0023 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADI": [
+          "34951",
+          [
+            [
+              0,
+              "T",
+              "0023 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADJ": [
+          "34954",
+          [
+            [
+              2,
+              "T",
+              "0023 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADK": [
+          "34956",
+          [
+            [
+              5,
+              "W",
+              "0023 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADL": [
+          "34958",
+          [
+            [
+              4,
+              "W",
+              "0023 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADM": [
+          "34961",
+          [
+            [
+              3,
+              "W",
+              "0023 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADN": [
+          "34964",
+          [
+            [
+              43,
+              "W",
+              "0023 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADO": [
+          "34966",
+          [
+            [
+              39,
+              "W",
+              "0023 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADP": [
+          "64909",
+          [
+            [
+              5,
+              "M",
+              "0023 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADQ": [
+          "35262",
+          [
+            [
+              5,
+              "R",
+              "0023 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADR": [
+          "35273",
+          [
+            [
+              4,
+              "R",
+              "0023 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADS": [
+          "64907",
+          [
+            [
+              0,
+              "R",
+              "0023 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADT": [
+          "64908",
+          [
+            [
+              2,
+              "R",
+              "0023 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADV": [
+          "64910",
+          [
+            [
+              4,
+              "F",
+              "0023 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADW": [
+          "35255",
+          [
+            [
+              3,
+              "F",
+              "0023 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADX": [
+          "34922",
+          [
+            [
+              43,
+              "F",
+              "0023 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADY": [
+          "80886",
+          [
+            [
+              2,
+              "M",
+              "0023 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADZ": [
+          "80887",
+          [
+            [
+              1,
+              "M",
+              "0023 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "35219",
+          [
+            [
+              2,
+              "MWF",
+              "0027/1025 Campus Instructional Facility",
+              16,
+              [
+                "Halloran, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "AL2": [
+          "35222",
+          [
+            [
+              1,
+              "MWF",
+              "0027/1025 Campus Instructional Facility",
+              16,
+              [
+                "Admal, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Forces, moments, couples; resultants of force systems; equilibrium analysis and free-body diagrams; analysis of forces acting on members of trusses, frames, etc.; shear-force and bending-moment distributions; Coulomb friction; centroids and center of mass; applications of statics in design.",
+      []
+    ],
+    "TAM 251": [
+      "Introductory Solid Mechanics",
+      {
+        "ADA": [
+          "33294",
+          [
+            [
+              1,
+              "T",
+              "0023 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADB": [
+          "33381",
+          [
+            [
+              3,
+              "T",
+              "0023 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADC": [
+          "33482",
+          [
+            [
+              43,
+              "T",
+              "0023 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADD": [
+          "33532",
+          [
+            [
+              39,
+              "T",
+              "0023 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADF": [
+          "34924",
+          [
+            [
+              0,
+              "W",
+              "0023 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADG": [
+          "52451",
+          [
+            [
+              2,
+              "W",
+              "0023 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADH": [
+          "64897",
+          [
+            [
+              1,
+              "W",
+              "0023 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "35217",
+          [
+            [
+              5,
+              "MWF",
+              "100 Materials Science & Eng Bld",
+              21,
+              [
+                "Golecki, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "OB1": [
+          "34913",
+          [
+            [
+              43,
+              "T",
+              "2058 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "OB2": [
+          "60900",
+          [
+            [
+              39,
+              "T",
+              "2058 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ONC": [
+          "60901",
+          [
+            [
+              7,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Golecki, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "[IAI Code: EGR945] Relationship between internal stresses and deformations produced by external forces acting on deformable bodies, and design principles based on mechanics of solids: normal stresses, shear stresses, and deformations produced by tensile, compressive, torsional, and bending loading of members; beam deflections; elastic energy and impact; multi-dimensional stress states; buckling of columns.",
+      []
+    ],
+    "TAM 270": [
+      "Design for Manufacturability",
+      {
+        "AB1": [
+          "70018",
+          [
+            [
+              51,
+              "M",
+              "0023B Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "AB2": [
+          "70019",
+          [
+            [
+              8,
+              "M",
+              "0023B Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "AB3": [
+          "70020",
+          [
+            [
+              6,
+              "M",
+              "0023B Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "AB4": [
+          "70021",
+          [
+            [
+              49,
+              "M",
+              "0023B Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "AB5": [
+          "70022",
+          [
+            [
+              99,
+              "M",
+              "0023B Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "AB6": [
+          "70023",
+          [
+            [
+              51,
+              "T",
+              "0023B Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "AB7": [
+          "70024",
+          [
+            [
+              8,
+              "T",
+              "0023B Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "AB8": [
+          "70025",
+          [
+            [
+              6,
+              "T",
+              "0023B Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "AB9": [
+          "70026",
+          [
+            [
+              99,
+              "T",
+              "0023B Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "ABA": [
+          "70027",
+          [
+            [
+              45,
+              "W",
+              "0023B Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "ABB": [
+          "70028",
+          [
+            [
+              42,
+              "W",
+              "0023B Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "ABC": [
+          "70029",
+          [
+            [
+              46,
+              "W",
+              "0023B Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "ABD": [
+          "70030",
+          [
+            [
+              50,
+              "W",
+              "0023B Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "ABE": [
+          "70031",
+          [
+            [
+              48,
+              "R",
+              "0023B Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "ABF": [
+          "70032",
+          [
+            [
+              45,
+              "R",
+              "0023B Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "ABG": [
+          "76372",
+          [
+            [
+              99,
+              "R",
+              "0023B Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "70017",
+          [
+            [
+              43,
+              "TR",
+              "100 Materials Science & Eng Bld",
+              21,
+              [
+                "Clemon, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      null,
+      []
+    ],
+    "TAM 297": [
+      "Introductory Independent Study",
+      {
+        "": [
+          "68342",
+          [
+            [
+              7,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Independent study and/or individual projects related to engineering mechanics.",
+      []
+    ],
+    "TAM 324": [
+      "Behavior of Materials",
+      {
+        "AB1": [
+          "33355",
+          [
+            [
+              48,
+              "M",
+              "201 Talbot Laboratory",
+              1,
+              [
+                "Garg, Y",
+                "Iqbal, F"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "AB2": [
+          "33375",
+          [
+            [
+              42,
+              "M",
+              "201 Talbot Laboratory",
+              1,
+              [
+                "Iqbal, F",
+                "Tabassum, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "AB3": [
+          "33320",
+          [
+            [
+              48,
+              "T",
+              "201 Talbot Laboratory",
+              1,
+              [
+                "Maxwell, T",
+                "Moreno-Colin, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "AB4": [
+          "33335",
+          [
+            [
+              6,
+              "T",
+              "201 Talbot Laboratory",
+              1,
+              [
+                "Iqbal, A",
+                "Iqbal, F"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "AB5": [
+          "33351",
+          [
+            [
+              48,
+              "W",
+              "201 Talbot Laboratory",
+              1,
+              [
+                "Maxwell, T",
+                "Qadri, F"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "AB6": [
+          "54855",
+          [
+            [
+              99,
+              "W",
+              "201 Talbot Laboratory",
+              1,
+              [
+                "Maxwell, T",
+                "Yellampalli, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "AB7": [
+          "56690",
+          [
+            [
+              44,
+              "F",
+              "201 Talbot Laboratory",
+              1,
+              [
+                "Jaiswal, B",
+                "Maxwell, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "35223",
+          [
+            [
+              12,
+              "MW",
+              "1017 Civil & Envir Eng Bldg",
+              1,
+              [
+                "Garg, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Students must register for one lab and one lecture section.",
+      []
+    ],
+    "TAM 335": [
+      "Introductory Fluid Mechanics",
+      {
+        "ABA": [
+          "33316",
+          [
+            [
+              45,
+              "M",
+              "126 Talbot Laboratory",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "ABC": [
+          "33347",
+          [
+            [
+              48,
+              "T",
+              "126 Talbot Laboratory",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "ABD": [
+          "33357",
+          [
+            [
+              6,
+              "T",
+              "126 Talbot Laboratory",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "ABE": [
+          "33359",
+          [
+            [
+              49,
+              "T",
+              "126 Talbot Laboratory",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "ABF": [
+          "33360",
+          [
+            [
+              49,
+              "W",
+              "126 Talbot Laboratory",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "ABG": [
+          "33361",
+          [
+            [
+              45,
+              "W",
+              "126 Talbot Laboratory",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "ABH": [
+          "33362",
+          [
+            [
+              49,
+              "M",
+              "126 Talbot Laboratory",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "ABJ": [
+          "35169",
+          [
+            [
+              48,
+              "F",
+              "126 Talbot Laboratory",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "ABK": [
+          "35195",
+          [
+            [
+              6,
+              "R",
+              "126 Talbot Laboratory",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "ABL": [
+          "45601",
+          [
+            [
+              48,
+              "R",
+              "126 Talbot Laboratory",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "ABM": [
+          "54573",
+          [
+            [
+              49,
+              "R",
+              "126 Talbot Laboratory",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "ABN": [
+          "54582",
+          [
+            [
+              45,
+              "F",
+              "126 Talbot Laboratory",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "ABO": [
+          "54850",
+          [
+            [
+              99,
+              "M",
+              "126 Talbot Laboratory",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "35218",
+          [
+            [
+              3,
+              "MWF",
+              "2100 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Tang, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "AL2": [
+          "70179",
+          [
+            [
+              43,
+              "MWF",
+              "161 Noyes Laboratory",
+              13,
+              [
+                "Constante Amores, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Fluid statics; continuity, momentum, and energy principles via control volumes; ideal and real fluid flow; introduction to the Navier-Stokes equation; similitude; laminar and turbulent boundary layers; closed-conduit flow, open-channel flow, and turbomachinery.",
+      []
+    ],
+    "TAM 413": [
+      "Fund of Engrg Acoustics",
+      {
+        "G4": [
+          "36982",
+          [
+            [
+              4,
+              "MWF",
+              "3013 Electrical & Computer Eng Bldg",
+              20,
+              [
+                "Oelze, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ON1": [
+          "75684",
+          [
+            [
+              4,
+              "MWF",
+              "ONLINE",
+              1,
+              [
+                "Oelze, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          10,
+          0,
+          [],
+          -1
+        ],
+        "ON2": [
+          "75685",
+          [
+            [
+              4,
+              "MWF",
+              "ONLINE",
+              1,
+              [
+                "Oelze, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          10,
+          0,
+          [],
+          -1
+        ],
+        "U3": [
+          "36979",
+          [
+            [
+              4,
+              "MWF",
+              "3013 Electrical & Computer Eng Bldg",
+              20,
+              [
+                "Oelze, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      null,
+      []
+    ],
+    "TAM 416": [
+      "Introduction to Nonlinear Dynamics and Vibrations",
+      {
+        "GR4": [
+          "62710",
+          [
+            [
+              6,
+              "MW",
+              "3100 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Vakakis, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "73427",
+          [
+            [
+              7,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Vakakis, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "UG4": [
+          "73566",
+          [
+            [
+              6,
+              "MW",
+              "3100 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Vakakis, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Single- and multi-degree-of-freedom oscillators; asymptotic methods; forced, internal and combination resonances; time-discrete dynamical systems (maps); complex dynamics; parametric vibrations and resonances; introduction to nonlinear localization and nonlinear targeted energy transfer; nonlinear vibrations of elastic continua; application in mechanics and engineering.",
+      []
+    ],
+    "TAM 424": [
+      "Mechanics of Structural Metals",
+      {
+        "3CR": [
+          "49317",
+          [
+            [
+              30,
+              "MW",
+              "3100 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Tawfick, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "GR": [
+          "71894",
+          [
+            [
+              30,
+              "MW",
+              "3100 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Tawfick, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "73823",
+          [
+            [
+              7,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Tawfick, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Micromechanisms at the atomic, single-crystal, and polycrystal levels and their use in explaining the deformation and failure characteristics of metals; elastic deformation, dislocation mechanics, plastic deformation and strengthening mechanisms, fracture mechanics and fracture mechanisms, fatigue, and creep; design criteria; special topics.",
+      []
+    ],
+    "TAM 428": [
+      "Mechanics of Composites",
+      {
+        "F": [
+          "35291",
+          [
+            [
+              9,
+              "TR",
+              "2018 Campus Instructional Facility",
+              16,
+              [
+                "Baur, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as AE 428 and MSE 456. See MSE 456.",
+      []
+    ],
+    "TAM 451": [
+      "Intermediate Solid Mechanics",
+      {
+        "C": [
+          "30962",
+          [
+            [
+              48,
+              "MW",
+              "2045 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Faghir Hagh, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Analysis of stress and strain (definitions, transformation of axes, equilibrium equations, and symmetry of the stress tensor); linear materials, Hooke's law; strain energy, potential energy, energy principles and methods; two-dimensional problems in elasticity (torsion, axisymmetric problems); the finite-element method for two- and three-dimensional boundary-value problems in linear elasticity; plasticity (introduction, yield criteria, elastic-plastic behavior, and limit-load calculations); linear-elastic fracture mechanics (introduction, Griffith's approach, stress intensity factor, and energy release rate).",
+      []
+    ],
+    "TAM 435": [
+      "Intermediate Fluid Mechanics",
+      {
+        "A": [
+          "30963",
+          [
+            [
+              49,
+              "MW",
+              "2045 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Feng, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Analytical solution methods for problems involving ideal and real fluids: potential flow theory, boundary-layer theory; surface waves, vortex dynamics, and compressible flows.",
+      []
+    ],
+    "TAM 461": [
+      "Cellular Biomechanics",
+      {
+        "C": [
+          "30961",
+          [
+            [
+              6,
+              "TR",
+              "2058 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Han, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Mechanics of biological cells and tissues: cell structure; mechanics of biomembranes; the cytoskeleton and cortex; dynamic cell processes; cell motility and control of cell shape and proliferation; experimental approaches and theoretical models.",
+      []
+    ],
+    "TAM 470": [
+      "Computational Mechanics",
+      {
+        "E3": [
+          "35028",
+          [
+            [
+              1,
+              "MWF",
+              "2101 Everitt Laboratory",
+              27,
+              [
+                "Raj, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "E4": [
+          "40082",
+          [
+            [
+              1,
+              "MWF",
+              "2101 Everitt Laboratory",
+              27,
+              [
+                "Raj, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Modercomputational mechanics: mappings and iterative methods; stability; convergence; consistency; numerical and symbolic solutions of ordinary and partial differential equations; finite-difference methods; the finite-element method; spectral methods. Applications to problems in solid mechanics, fluid mechanics, and dynamics.",
+      []
+    ],
+    "TAM 497": [
+      "Independent Study",
+      {
+        "": [
+          "10211",
+          [
+            [
+              7,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Individual studies in any area of theoretical and applied mechanics.",
+      []
+    ],
+    "TAM 500": [
+      "Seminar",
+      {
+        "G": [
+          "30964",
+          [
+            [
+              46,
+              "TR",
+              "2079 Natural History Building",
+              28,
+              [
+                "Calcagno, M",
+                "Ertekin, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Lectures and discussion on current topics in theoretical and applied mechanics.",
+      []
+    ],
+    "TAM 537": [
+      "Experimental Fluid Mechanics",
+      {
+        "K": [
+          "39107",
+          [
+            [
+              6,
+              "MW",
+              "ARR Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Chamorro Chavez, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Methods and techniques for measurement and analysis of data used in experimental fluid mechanics: signal processing, electronics, and electro-optics; fluid mechanical properties; experimental signal processing; random data and signal analysis; analog and digital data processing; dynamic similarity, self-preservation; pressure measurement, thermal anemometry, and laser-Doppler velocimetry; flow visualization, particle-image velocimetry.",
+      []
+    ],
+    "TAM 531": [
+      "Inviscid Flow",
+      {
+        "A": [
+          "30965",
+          [
+            [
+              42,
+              "TR",
+              "2045 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Pearlstein, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Dynamics of fluids in the limit of zero viscosity: governing equations of motion, kinematics, and vorticity transport; general theory of irrotational flow, including two-dimensional potential flow, the complex potential, and three-dimensional potential flow; applications to thin airfoil theory and free streamline theory; inviscid flows with vorticity; vortex dynamics; water wave theory; aspects of inviscid compressible flow.",
+      []
+    ],
+    "TAM 539": [
+      "Fluid Mechanics Seminar",
+      {
+        "C": [
+          "30967",
+          [
+            [
+              39,
+              "R",
+              "4100 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Chamorro Chavez, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          8,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Weekly seminar on current research topics in turbulent and other complex flows: theoretical modeling, numerical analysis, computational techniques, and experimental investigations.",
+      []
+    ],
+    "TAM 541": [
+      "Mathematical Methods I",
+      {
+        "G": [
+          "30968",
+          [
+            [
+              8,
+              "MW",
+              "4100 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Hilgenfeldt, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Vector and tensor algebra and complex-variable methods; ordinary differential equations, qualitative questions of existence and uniqueness; analytic solution methods, numerical methods, power-series solution and special functions; eigenvalue problems, Green's functions, Laplace transforms, stability of solutions; engineering applications drawn from mechanics.",
+      []
+    ],
+    "TAM 551": [
+      "Solid Mechanics I",
+      {
+        "E": [
+          "30969",
+          [
+            [
+              48,
+              "TR",
+              "2051 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Sofronis, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Mechanics of elastic deformable bodies, based on the fundamental concepts of modern continuum mechanics: kinematics, balance laws, constitutive equations; classical small-deformation theory; formulation of initial boundary-value problems of linear elastodynamics and boundary-value problems of linear elastostatics; variational formulations, minimum principles; applications of theory to engineering problems.",
+      []
+    ],
+    "TAM 555": [
+      "Fracture Mechanics",
+      {
+        "C": [
+          "46525",
+          [
+            [
+              48,
+              "TR",
+              "2045 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Wharry, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "73429",
+          [
+            [
+              7,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Wharry, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Unified analytical treatment of modern fracture problems: macroscopic theories used to determine the static strength of bodies containing cracks; Griffith criterion, linear-elastic fracture mechanics, elastic-plastic fracture mechanics models; small-scale yielding results and their implications; general yielding; interfacial fracture; fracture control; micromechanisms of fracture.",
+      []
+    ],
+    "TAM 597": [
+      "Advanced Independent Study",
+      {
+        "": [
+          "10215",
+          [
+            [
+              7,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Analytical, experimental, or computational studies in one or more areas of theoretical and applied mechanics, including solid mechanics, behavior of materials, fluid mechanics, dynamics, applied mathematics, and computational science and engineering.",
+      []
+    ],
+    "TAM 598": [
+      "Advanced Special Topics",
+      {
+        "CML": [
+          "61225",
+          [
+            [
+              6,
+              "TR",
+              "2051 Sidney Lu Mech Engr Bldg",
+              26,
+              [
+                "Luetkemeyer, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "64903",
+          [
+            [
+              7,
+              "",
+              "ONLINE",
+              1,
+              [
+                "Luetkemeyer, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Subject offerings of new and developing areas of knowledge in theoretical and applied mechanics intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites.",
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "1100 - 1150",
+      "1300 - 1350",
+      "1200 - 1250",
+      "1400 - 1450",
+      "1000 - 1050",
+      "0900 - 0950",
+      "1300 - 1450",
+      "ARRANGED",
+      "1100 - 1250",
+      "1100 - 1220",
+      "1230 - 1320",
+      "1400 - 1520",
+      "1230 - 1350",
+      "1200 - 1320",
+      "1300 - 1420",
+      "1400 - 1650",
+      "1300 - 1550",
+      "1500 - 1720",
+      "0930 - 1045",
+      "1100 - 1215",
+      "1230 - 1345",
+      "1400 - 1515",
+      "0800 - 0850",
+      "1530 - 1645",
+      "0800 - 0915",
+      "1700 - 1815",
+      "1800 - 1915",
+      "1900 - 2020",
+      "0930 - 1050",
+      "1700 - 1800",
+      "1500 - 1620",
+      "1130 - 1250",
+      "1800 - 2040",
+      "1230 - 1410",
+      "1100 - 1240",
+      "0900 - 1040",
+      "1600 - 1740",
+      "1500 - 1640",
+      "1200 - 1315",
+      "1600 - 1650",
+      "1400 - 1620",
+      "0900 - 1020",
+      "1400 - 1550",
+      "1500 - 1550",
+      "0800 - 0950",
+      "1200 - 1350",
+      "1600 - 1750",
+      "1700 - 1750",
+      "1000 - 1150",
+      "1500 - 1650",
+      "1800 - 1950",
+      "0900 - 1050",
+      "1530 - 1650",
+      "1600 - 1820",
+      "0800 - 0920",
+      "0900 - 1150",
+      "0830 - 1020",
+      "0830 - 0950",
+      "1330 - 1520",
+      "1000 - 1120",
+      "1100 - 1350",
+      "1730 - 2020",
+      "1730 - 1920",
+      "1600 - 1720",
+      "1000 - 1220",
+      "1530 - 1850",
+      "1600 - 1715",
+      "1500 - 1615",
+      "1800 - 1930",
+      "1530 - 1700",
+      "1300 - 1415",
+      "1430 - 1600",
+      "1630 - 1745",
+      "1000 - 1115",
+      "1030 - 1220",
+      "0900 - 1015",
+      "1800 - 2000",
+      "1430 - 1545",
+      "1130 - 1245",
+      "0900 - 1000",
+      "1300 - 1500",
+      "1300 - 1445",
+      "1500 - 1700",
+      "1500 - 1645",
+      "1600 - 1800",
+      "1600 - 1745",
+      "1700 - 1950",
+      "1900 - 2030",
+      "1900 - 1950",
+      "1800 - 1850",
+      "1000 - 1250",
+      "1030 - 1250",
+      "1500 - 1750",
+      "1600 - 1850",
+      "1800 - 2050",
+      "1600 - 1630",
+      "1200 - 1450",
+      "1700 - 1820",
+      "1030 - 1150",
+      "1700 - 1850"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Lecture",
+      "Discussion/ Recitation",
+      "Lecture-Discussion",
+      "Independent Study",
+      "Laboratory",
+      "Online",
+      "Online Lecture",
+      "Internship",
+      "Conference",
+      "Laboratory-Discussion",
+      "Online Discussion",
+      "Research",
+      "Study Abroad",
+      "Practice",
+      "Seminar"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": 40.1072225,
+        "long": -88.2262016
+      },
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.1035833,
+        "long": -88.228405
+      },
+      {
+        "lat": 40.10628,
+        "long": -88.22621
+      },
+      {
+        "lat": 40.1020773,
+        "long": -88.2296394
+      },
+      {
+        "lat": 40.1047599,
+        "long": -88.2319514
+      },
+      {
+        "lat": 40.10783362157985,
+        "long": -88.22476189569741
+      },
+      {
+        "lat": 40.1065684,
+        "long": -88.2281746
+      },
+      {
+        "lat": 40.1083446,
+        "long": -88.2282555
+      },
+      {
+        "lat": 40.105732,
+        "long": -88.2281018
+      },
+      {
+        "lat": 40.107534,
+        "long": -88.2281548
+      },
+      {
+        "lat": 40.104794,
+        "long": -88.224264
+      },
+      {
+        "lat": 40.10127390836906,
+        "long": -88.2226073524728
+      },
+      {
+        "lat": 40.108419421661715,
+        "long": -88.2261156301609
+      },
+      {
+        "lat": 40.1034533,
+        "long": -88.2327596
+      },
+      {
+        "lat": 40.1048704,
+        "long": -88.2229036
+      },
+      {
+        "lat": 40.11246109008789,
+        "long": -88.22831726074219
+      },
+      {
+        "lat": 40.1108856,
+        "long": -88.2269806
+      },
+      {
+        "lat": 40.11171215875622,
+        "long": -88.22530849701589
+      },
+      {
+        "lat": 40.1131317,
+        "long": -88.2264552
+      },
+      {
+        "lat": 40.1149296,
+        "long": -88.2280589
+      },
+      {
+        "lat": 40.11085653938169,
+        "long": -88.22609810215927
+      },
+      {
+        "lat": 40.111691,
+        "long": -88.2242511
+      },
+      {
+        "lat": 40.10755766472843,
+        "long": -88.22995430218522
+      },
+      {
+        "lat": 40.1033599,
+        "long": -88.2292111
+      },
+      {
+        "lat": 40.10764262805109,
+        "long": -88.23074052515514
+      },
+      {
+        "lat": 40.110811306674734,
+        "long": -88.2248467072371
+      },
+      {
+        "lat": 40.1109722,
+        "long": -88.2282631
+      },
+      {
+        "lat": 40.10944320239664,
+        "long": -88.22602522743233
+      },
+      {
+        "lat": 40.103587,
+        "long": -88.230606
+      },
+      {
+        "lat": 40.103620555545135,
+        "long": -88.22982720445013
+      },
+      {
+        "lat": 40.103627234541904,
+        "long": -88.22601765311099
+      },
+      {
+        "lat": 40.11380515934119,
+        "long": -88.22490788390387
+      },
+      {
+        "lat": 40.106778040727896,
+        "long": -88.2194617156191
+      },
+      {
+        "lat": 40.10593795776367,
+        "long": -88.2270736694336
+      },
+      {
+        "lat": 40.1110937,
+        "long": -88.2232348
+      },
+      {
+        "lat": 40.1028373,
+        "long": -88.2251326
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}
