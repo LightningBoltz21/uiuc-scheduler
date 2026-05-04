@@ -1,248 +1,21 @@
 {
-  "subject": "GEOL",
-  "scrapedAt": 1777865384535,
-  "courseCount": 31,
+  "subject": "GGIS",
+  "scrapedAt": 1777865398875,
+  "courseCount": 37,
   "courses": {
-    "GEOL 110": [
-      "Exploring Geology in the Field",
+    "GGIS 100": [
+      "Introduction to Meteorology",
       {
-        "1": [
-          "32316",
+        "ADB": [
+          "77208",
           [
             [
-              2,
-              "T",
-              "1051 Lincoln Hall",
-              9,
-              [
-                "Austin, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          1,
-          1,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Introduces practical techniques for identification of rocks, minerals, and fossils; interpretation of geologic maps and cross-sections; appreciation of Midwestern geologic history and geologic features and landforms in the field.",
-      []
-    ],
-    "GEOL 100": [
-      "Planet Earth",
-      {
-        "ONL": [
-          "61100",
-          [
-            [
-              8,
-              "",
-              "ONLINE",
-              6,
-              [
-                "Cole, T"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          3,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "[IAI Code: P1907] Introduces non-science majors to physical aspects (earthquakes, volcanoes, floods, tsunamis, mountains, plate tectonics) and historical aspects (formation of earth and life, dinosaurs, ice age, evolution of climate) in earth science. Presents information on earth resources, natural hazards, and development of natural landscapes. Focuses on humanistic issues; provides context for understanding environmental change. Optional lab demonstrations and field trips with co-registration in GEOL 110.",
-      []
-    ],
-    "GEOL 107": [
-      "Physical Geology",
-      {
-        "AL1": [
-          "32315",
-          [
-            [
-              2,
-              "MWF",
-              "1024 Chemistry Annex",
-              28,
-              [
-                "Austin, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AY1": [
-          "32313",
-          [
-            [
-              15,
-              "W",
-              "219 Davenport Hall",
-              8,
-              [
-                "Austin, S",
-                "Peterson, K"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          7,
-          0,
-          [],
-          -1
-        ],
-        "AY2": [
-          "66132",
-          [
-            [
-              15,
+              1,
               "R",
-              "219 Davenport Hall",
-              8,
+              "G27 Literatures, Cultures, & Ling",
+              3,
               [
-                "Austin, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          7,
-          0,
-          [],
-          -1
-        ],
-        "AY3": [
-          "43017",
-          [
-            [
-              30,
-              "R",
-              "219 Davenport Hall",
-              8,
-              [
-                "Austin, S",
-                "Weaver, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          7,
-          0,
-          [],
-          -1
-        ],
-        "AY5": [
-          "43019",
-          [
-            [
-              39,
-              "F",
-              "219 Davenport Hall",
-              8,
-              [
-                "Austin, S",
-                "Peterson, K"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          7,
-          0,
-          [],
-          -1
-        ],
-        "AY6": [
-          "44249",
-          [
-            [
-              15,
-              "T",
-              "219 Davenport Hall",
-              8,
-              [
-                "Austin, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          7,
-          0,
-          [],
-          -1
-        ],
-        "AY7": [
-          "43021",
-          [
-            [
-              15,
-              "F",
-              "219 Davenport Hall",
-              8,
-              [
-                "Austin, S",
-                "Weaver, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          7,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Introduces Earth phenomena and processes. Includes minerals and rocks, continental drift, plate tectonics, rock deformation, igneous and sedimentary processes, geologic time, landscape evolution, internal structure and composition of the earth, groundwater, seismology and earthquakes, and formation of natural resources. Emphasizes the chemical and physical aspects of the Earth, and the basis for geological inference. Field trip required.",
-      []
-    ],
-    "GEOL 143": [
-      "History of Life",
-      {
-        "AB2": [
-          "37557",
-          [
-            [
-              17,
-              "T",
-              "121 Davenport Hall",
-              8,
-              [
-                "Christie, M",
-                "Lusk, S"
+                "Frame, J"
               ],
               -1,
               -1,
@@ -250,128 +23,131 @@
             ]
           ],
           3,
-          5,
+          0,
           0,
           [],
           -1
         ],
-        "AB7": [
-          "48935",
-          [
-            [
-              30,
-              "W",
-              "121 Davenport Hall",
-              8,
-              [
-                "Christie, M",
-                "Lusk, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          5,
-          0,
-          [],
-          -1
-        ],
-        "ABA": [
-          "37565",
-          [
-            [
-              15,
-              "R",
-              "121 Davenport Hall",
-              8,
-              [
-                "Christie, M",
-                "Scott, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          5,
-          0,
-          [],
-          -1
-        ],
-        "AL1": [
-          "37574",
-          [
-            [
-              5,
-              "MW",
-              "157 Noyes Laboratory",
-              26,
-              [
-                "Christie, M"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          1,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Evolution of life from its beginning, illustrating changing faunas and floras through time; the invasion of land and of the skies; the effects of a changing atmosphere, changing climates, and continental drift. Emphasis on dinosaur evolution, ecology, and extinction; also other vertebrates, including mammal-like reptiles, mammals, and the emergence of humans, as well as plants and invertebrates.",
-      []
-    ],
-    "GEOL 117": [
-      "The Oceans",
-      {
-        "ONL": [
-          "61106",
-          [
-            [
-              8,
-              "",
-              "ONLINE",
-              6,
-              [
-                "Austin, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          3,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Integrated introduction to oceanography and marine geology and geophysics. Topics include ocean-basin formation and evolution (in the context of plate tectonics), ocean ecology, the hydrologic cycle, water chemistry, currents and waves, the interaction of oceans with climate, coastal hazards, resources, pollution, and the Law of the Sea. Course is oriented toward students not majoring in science.",
-      []
-    ],
-    "GEOL 118": [
-      "Natural Disasters",
-      {
-        "A": [
-          "30379",
+        "ADE": [
+          "77215",
           [
             [
               4,
-              "MWF",
-              "2079 Natural History Building",
+              "R",
+              "1020 Natural History Building",
               38,
               [
-                "Johnson, T",
-                "Li, Y"
+                "Frame, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "ADG": [
+          "77217",
+          [
+            [
+              34,
+              "R",
+              "G27 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Frame, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "ADK": [
+          "77221",
+          [
+            [
+              1,
+              "F",
+              "1020 Natural History Building",
+              38,
+              [
+                "Frame, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "ADL": [
+          "77222",
+          [
+            [
+              2,
+              "F",
+              "1020 Natural History Building",
+              38,
+              [
+                "Frame, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "ADM": [
+          "77223",
+          [
+            [
+              3,
+              "F",
+              "G27 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Frame, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "77224",
+          [
+            [
+              4,
+              "MW",
+              "101 Armory",
+              24,
+              [
+                "Frame, J"
               ],
               -1,
               -1,
@@ -383,45 +159,23 @@
           0,
           [],
           -1
-        ],
-        "ONL": [
-          "59604",
-          [
-            [
-              8,
-              "",
-              "ONLINE",
-              6,
-              [
-                "Austin, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          3,
-          0,
-          [],
-          -1
         ]
       },
       [],
-      "Introduces the nature, causes, risks, effects, and prediction of natural disasters including earthquakes, volcanoes, landslides, subsidence, global climate change, severe weather, coastal erosion, floods, mass extinctions, and meteorite impacts; covers scientific principles and case histories of natural disasters as well as human responses (societal impact, mitigation strategies, and public policy).",
+      "Same as ATMS 100. See ATMS 100.",
       []
     ],
-    "GEOL 199": [
-      "Undergraduate Open Seminar",
+    "GGIS 103": [
+      "Earth's Physical Systems",
       {
-        "": [
-          "10244",
+        "AB1": [
+          "76832",
           [
             [
+              18,
+              "R",
+              "137C Davenport Hall",
               8,
-              "",
-              "ONLINE",
-              6,
               [
                 "Unassigned Instructor"
               ],
@@ -430,30 +184,246 @@
               -1
             ]
           ],
-          5,
-          6,
+          4,
+          7,
           0,
           [],
           -1
         ],
-        "MLC": [
-          "76152",
+        "AB2": [
+          "76833",
           [
             [
-              34,
-              "M",
-              "4004 Natural History Building",
-              38,
+              18,
+              "F",
+              "137C Davenport Hall",
+              8,
               [
-                "Christie, M"
+                "Unassigned Instructor"
               ],
               -1,
               -1,
               -1
             ]
           ],
+          4,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "AE1": [
+          "76831",
+          [
+            [
+              6,
+              "TR",
+              "140 Burrill Hall",
+              1,
+              [
+                "McAlister, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "A basic introduction to the environmental systems of the Earth's surface, including landforms, soils, and ecosystems and how these systems are affected by global change. Emphasizes the importance of human-Earth relations and a holistic view of environmental systems.",
+      []
+    ],
+    "GGIS 101": [
+      "Global Development & Environment",
+      {
+        "ONL": [
+          "76830",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              6,
+              [
+                "Butcher, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "[IAI Code: S4902N] Introduces geographical perspectives on environment and development studies with case studies drawn from Africa, Asia, and Latin America. Investigates the origins of the global South in relation to the global North, especially the historical and contemporary processes driving environmental, economic, and cultural change.",
+      []
+    ],
+    "GGIS 106": [
+      "Geographies of Globalization",
+      {
+        "A": [
+          "76843",
+          [
+            [
+              0,
+              "MWF",
+              "1090 Lincoln Hall",
+              9,
+              [
+                "McAlister, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "A survey of major world regions by systematically considering five themes: environment, population and settlement patterns, cultural coherence and diversity, geopolitical fragmentation and unity, and economic and social development. While examining the persistence of unique regions, the course will both scale up to global linkages and scale down to place-specific impacts of globalization processes.",
+      []
+    ],
+    "GGIS 204": [
+      "Cities of the World",
+      {
+        "A": [
+          "76844",
+          [
+            [
+              3,
+              "MWF",
+              "217 Noyes Laboratory",
+              26,
+              [
+                "McAlister, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "In-depth exploration of global urbanization. Using a comparative regional approach, discuss the recent history of global urbanization, dissect its problems, and offer possible solutions. Approximately ten major regions of the world will be examined, exploring the significant urban patterns and processes, built and natural environments, and social, economic, and cultural landscapes of each.",
+      []
+    ],
+    "GGIS 210": [
+      "Social & Environmental Issues",
+      {
+        "A1": [
+          "76846",
+          [
+            [
+              1,
+              "MWF",
+              "1002 Lincoln Hall",
+              9,
+              [
+                "Alvarado, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to the complex relationship between people and the natural environment from a social science perspective. Explores different approaches to environmental issues, and examines the role of population change, political economy, technologies, environmental policymaking, and social institutions in causing and resolving contemporary social and environmental global issues.",
+      []
+    ],
+    "GGIS 280": [
+      "Intro to Social Statistics",
+      {
+        "A": [
+          "77356",
+          [
+            [
+              6,
+              "TR",
+              "1043 Sidney Lu Mech Engr Bldg",
+              21,
+              [
+                "Kamis, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "77357",
+          [
+            [
+              2,
+              "F",
+              "Location Pending",
+              6,
+              [
+                "Kamis, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
           5,
-          12,
+          0,
+          [],
+          -1
+        ],
+        "AQ2": [
+          "77358",
+          [
+            [
+              4,
+              "W",
+              "Location Pending",
+              6,
+              [
+                "Kamis, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
           0,
           [],
           -1
@@ -463,19 +433,85 @@
       null,
       []
     ],
-    "GEOL 201": [
-      "History of Geology",
+    "GGIS 221": [
+      "Geographies of Global Conflict",
       {
-        "A": [
-          "55548",
+        "AD1": [
+          "78314",
           [
             [
-              18,
-              "TR",
-              "2020A Natural History Building",
-              38,
+              5,
+              "W",
+              "137C Davenport Hall",
+              8,
               [
-                "Wood, G"
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "AD2": [
+          "78315",
+          [
+            [
+              1,
+              "F",
+              "137C Davenport Hall",
+              8,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "AD3": [
+          "78317",
+          [
+            [
+              2,
+              "F",
+              "137C Davenport Hall",
+              8,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "78311",
+          [
+            [
+              2,
+              "MW",
+              "223 Gregory Hall",
+              4,
+              [
+                "Jefferson, B"
               ],
               -1,
               -1,
@@ -490,97 +526,14 @@
         ]
       },
       [],
-      "Traces the development of key ideas in the science, beginning with musings of the ancient Greek and Roman philosophers and early observations of the Earth by European and Arab scholars. Considers advances in mapmaking that span thousands of years and examines the origins of the Geologic Time Scale, including determination of the ages of rocks. Looks at early geologists from around the world, in the US, in Illinois, and at the U of I. Reads some classic papers establishing the grand unifying theory of geology: plate tectonics.",
+      "Focuses on geopolitical conflicts over ideology, resources, and territory from the mid-nineteenth century to the present. Examines these conflicts from the perspectives of political geography and political theory.",
       []
     ],
-    "GEOL 208": [
-      "History of the Earth System",
-      {
-        "AB2": [
-          "61109",
-          [
-            [
-              15,
-              "R",
-              "1022 Natural History Building",
-              38,
-              [
-                "Christie, M",
-                "Rank, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ],
-        "AL1": [
-          "61110",
-          [
-            [
-              1,
-              "MWF",
-              "2020A Natural History Building",
-              38,
-              [
-                "Christie, M"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          1,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Presents systematic analysis of formation and evolution of the Earth and its dynamic systems (lithosphere, hydrosphere, atmosphere, and biosphere). Also introduces methods of reconstructing Earth's history through use of geochronology, paleontology, and the stratigraphic records. Introduces the geological history of life evolution, mountain belts and continents, geochemical systems, climate, sea level, and the Earth's interior. Field trip required.",
-      []
-    ],
-    "GEOL 390": [
-      "Individual Study",
-      {
-        "": [
-          "65287",
-          [
-            [
-              8,
-              "",
-              "ONLINE",
-              6,
-              [
-                "Unassigned Instructor"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          6,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Research and individual study in geology.",
-      []
-    ],
-    "GEOL 370": [
+    "GGIS 370": [
       "Water Planet, Water Crisis",
       {
         "A": [
-          "64424",
+          "77313",
           [
             [
               8,
@@ -603,14 +556,104 @@
         ]
       },
       [],
-      "Same as ESE 320 and GGIS 370. See ESE 320.",
+      "Same as ESE 320 and GEOL 370. See ESE 320.",
       []
     ],
-    "GEOL 391": [
-      "Individual Honors Study",
+    "GGIS 379": [
+      "Introduction to Geographic Information Systems",
+      {
+        "HYB": [
+          "79453",
+          [
+            [
+              12,
+              "W",
+              "223 Gregory Hall",
+              4,
+              [
+                "Minn, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Investigates the fundamentals of geographic information science as well as the basic skills in the execution of that theoretical knowledge with industry standard software packages. Student will learn the basics of projections and coordinate systems, how geographic information is stored and manipulated, and the theory and practice behind the production of thematic maps. Includes lecture and hands-on laboratory components.",
+      []
+    ],
+    "GGIS 380": [
+      "Geographic Information Systems II",
+      {
+        "A": [
+          "77391",
+          [
+            [
+              20,
+              "TR",
+              "1020 Natural History Building",
+              38,
+              [
+                "Minn, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Study of the analytical capabilities of geographic information systems with an emphasis on learning to solve spatial problems in both the vector and raster data formats. Students will develop the skills necessary to answer questions or solve problems in their areas of interest, with particular emphasis on problems and questions that require multiple steps to resolve. Students will learn the fundamental theory behind spatial problem solving, but also learn to execute these procedures with industry-standard software packages. Thus, this class contains both lecture/discussion elements and hands-on laboratory work.",
+      []
+    ],
+    "GGIS 381": [
+      "Enterprise GIS",
+      {
+        "A": [
+          "80412",
+          [
+            [
+              7,
+              "TR",
+              "1020 Natural History Building",
+              38,
+              [
+                "Minn, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Geospatial data used by public-sector, private-sector, and research organizations is commonly kept in enterprise geodatabases and distributed using geospatial data servers. Following successful completion of this course, students will be able to perform tasks typical for early-career positions in such organizations. Topics include creation and maintenance of spatial and non-spatial database tables, construction of basic SQL queries for selection and joins, publication of geospatial services and web apps, and security best practices.",
+      []
+    ],
+    "GGIS 390": [
+      "Independent Study",
       {
         "": [
-          "10248",
+          "76873",
           [
             [
               8,
@@ -633,90 +676,14 @@
         ]
       },
       [],
-      "Research and individual study in geology for honors credit.",
+      "Supervised independent study of special topics or regions.",
       []
     ],
-    "GEOL 411": [
-      "Structural Geol and Tectonics",
+    "GGIS 392": [
+      "Geography & GIS Internship",
       {
-        "AB1": [
-          "32324",
-          [
-            [
-              13,
-              "F",
-              "220 Davenport Hall",
-              8,
-              [
-                "Guenthner, W",
-                "Guertin, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ],
-        "AB2": [
-          "32325",
-          [
-            [
-              13,
-              "R",
-              "220 Davenport Hall",
-              8,
-              [
-                "Guenthner, W",
-                "Guertin, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ],
-        "AL1": [
-          "32326",
-          [
-            [
-              1,
-              "MWF",
-              "2020B Natural History Building",
-              38,
-              [
-                "Guenthner, W"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          1,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Introduction to principles of rock deformation, stress, and strain; description and interpretation of geologic structures; study of methods for structural analysis; outline of geotectonic processes; three hours of lecture and a three-hour lab per week. Required four-day field trip.",
-      []
-    ],
-    "GEOL 407": [
-      "CyberGIS & Geospatial Data Science",
-      {
-        "MS": [
-          "80636",
+        "": [
+          "77142",
           [
             [
               8,
@@ -724,7 +691,66 @@
               "ONLINE",
               6,
               [
-                "Guo, T",
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Supervised, off-campus experience in a field directly pertaining to Geography and/or GIS. A written report is required at the end of the internship relating work accomplishments to the student's program of study.",
+      []
+    ],
+    "GGIS 391": [
+      "Honors Independent Study",
+      {
+        "": [
+          "76874",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              6,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Independent study and research projects for students who are working toward the degree with distinction in geography.",
+      []
+    ],
+    "GGIS 407": [
+      "CyberGIS & Geospatial Data Science",
+      {
+        "MS": [
+          "77081",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              6,
+              [
                 "Padmanabhan, A"
               ],
               -1,
@@ -739,7 +765,7 @@
           -1
         ],
         "ONL": [
-          "74440",
+          "76857",
           [
             [
               8,
@@ -747,7 +773,6 @@
               "ONLINE",
               6,
               [
-                "Guo, T",
                 "Padmanabhan, A"
               ],
               -1,
@@ -763,14 +788,14 @@
         ]
       },
       [],
-      "Same as GGIS 407. See GGIS 407.",
+      "Introduction to CyberGIS: Geospatial Information Science and Systems (GIS) based on advanced cyberinfrastructure and state of the art high-performance computing, big data, and cloud computing in the context of geospatial data science. Students will work within the CyberGISX framework and Jupyter Notebook user environment to conduct data-intensive, reproducible, and scalable geospatial analytics and analyze and visualize geospatial data using leading-edge cyberGIS software and python libraries.",
       []
     ],
-    "GEOL 415": [
-      "Field Geology",
+    "GGIS 403": [
+      "Geographic Information Science and Systems",
       {
-        "": [
-          "10255",
+        "MS": [
+          "77078",
           [
             [
               8,
@@ -778,726 +803,263 @@
               "ONLINE",
               6,
               [
-                "Unassigned Instructor"
+                "Portelli, R"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          8,
-          6,
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "76855",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              6,
+              [
+                "Portelli, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
           0,
           [],
           -1
         ]
       },
       [],
-      "Group field study in a prominent geologic locality; includes in-class meetings, student-led presentation, and field trip; trips run during spring break, winter break, in mid-end May or intercession; dates depend on location.",
+      "Introduces the conceptual and technical fundamentals of geographic information science as a gateway to advanced study in geographic information science, and cover geographic information science as an interdisciplinary scientific field and geographic information systems as a tool in many application domains. Students will be introduced to unique characteristics of geospatial data in the capture, processing, storage, analysis, communication, and interpretation of geospatial information, which will prepare them to utilize information science techniques and critical spatial-thinking skills to address geospatially-related challenges.",
       []
     ],
-    "GEOL 451": [
-      "Environmental Geophysics",
+    "GGIS 410": [
+      "Green Development",
       {
         "A": [
-          "76826",
-          [
-            [
-              8,
-              "",
-              "ONLINE",
-              6,
-              [
-                "Balikian, R"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          3,
-          0,
-          [],
-          -1
-        ],
-        "B": [
-          "77569",
-          [
-            [
-              8,
-              "",
-              "ONLINE",
-              6,
-              [
-                "Balikian, R"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          3,
-          0,
-          [],
-          -1
-        ],
-        "C": [
-          "79378",
-          [
-            [
-              8,
-              "",
-              "ONLINE",
-              6,
-              [
-                "Balikian, R"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          3,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Discusses geophysical methods to reveal subsurface structures. Topics include seismic methods, gravity, magnetics, electrical methods, ground penetrating radar, borehole geophysics, and their applications to hydrocarbon and mineral exploration as well as engineering and environmental investigations.",
-      []
-    ],
-    "GEOL 436": [
-      "Petrology and Petrography",
-      {
-        "AB1": [
-          "79379",
-          [
-            [
-              76,
-              "M",
-              "1022 Natural History Building",
-              38,
-              [
-                "Lundstrom, C",
-                "Webb, T"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ],
-        "AB2": [
-          "79380",
-          [
-            [
-              63,
-              "M",
-              "1022 Natural History Building",
-              38,
-              [
-                "Lundstrom, C",
-                "Webb, T"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ],
-        "AL1": [
-          "79381",
-          [
-            [
-              6,
-              "TR",
-              "1022 Natural History Building",
-              38,
-              [
-                "Lundstrom, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          1,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Study of the minerals, compositions, textures, structures, classifications, and origins of igneous and metamorphic rocks; lectures emphasize rock forming processes (petrology), and laboratories emphasize use of the petrographic microscope (petrography).",
-      []
-    ],
-    "GEOL 490": [
-      "Undergraduate Research",
-      {
-        "": [
-          "66567",
-          [
-            [
-              8,
-              "",
-              "ONLINE",
-              6,
-              [
-                "Unassigned Instructor"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          6,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Students will conduct research under the direct supervision of a geology faculty member. Research topics will vary, and either a summary paper or a poster presentation at a regional or national science conference is required.",
-      []
-    ],
-    "GEOL 491": [
-      "Honors Undergraduate Research",
-      {
-        "": [
-          "66568",
-          [
-            [
-              8,
-              "",
-              "ONLINE",
-              6,
-              [
-                "Unassigned Instructor"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          6,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Students will conduct research for honors credit under the direct supervision of a geology faculty member. Research topics will vary, and either a summary paper or a poster presentation at a regional or national science conference is required.",
-      []
-    ],
-    "GEOL 492": [
-      "Senior Thesis",
-      {
-        "": [
-          "10249",
-          [
-            [
-              8,
-              "",
-              "ONLINE",
-              6,
-              [
-                "Unassigned Instructor"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          8,
-          6,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Research in geology, with thesis; a thesis must be submitted for credit to be received.",
-      []
-    ],
-    "GEOL 493": [
-      "Honors Senior Thesis",
-      {
-        "": [
-          "10252",
-          [
-            [
-              8,
-              "",
-              "ONLINE",
-              6,
-              [
-                "Unassigned Instructor"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          8,
-          6,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Research in geology with honors thesis; a thesis must be submitted for credit to be received.",
-      []
-    ],
-    "GEOL 497": [
-      "Special Topics in Geology",
-      {
-        "": [
-          "10260",
-          [
-            [
-              8,
-              "",
-              "ONLINE",
-              6,
-              [
-                "Unassigned Instructor"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          6,
-          0,
-          [],
-          -1
-        ],
-        "C": [
-          "67440",
-          [
-            [
-              6,
-              "TR",
-              "122 Davenport Hall",
-              8,
-              [
-                "Nguyen, H"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          1,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Seminar or lectures in subjects not covered by regular course offerings; for advanced undergraduates and graduate students.",
-      []
-    ],
-    "GEOL 507": [
-      "GIS for Geology",
-      {
-        "A": [
-          "79382",
-          [
-            [
-              8,
-              "",
-              "ONLINE",
-              6,
-              [
-                "Anders, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          3,
-          0,
-          [],
-          -1
-        ],
-        "B": [
-          "79383",
-          [
-            [
-              8,
-              "",
-              "ONLINE",
-              6,
-              [
-                "Anders, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          3,
-          0,
-          [],
-          -1
-        ],
-        "C": [
-          "79384",
-          [
-            [
-              8,
-              "",
-              "ONLINE",
-              6,
-              [
-                "Anders, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          3,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Common applications of geographic information science in geology including examples involving environmental geology, geomorphology, water quality, natural hazards, and structural geology. Develops practical skills using industry-standard GIS software. Case studies requiring GIS analyses will be completed to produce written reports, maps and oral presentations for a range of audiences.",
-      []
-    ],
-    "GEOL 515": [
-      "Advanced Field Geology",
-      {
-        "": [
-          "10263",
-          [
-            [
-              8,
-              "",
-              "ONLINE",
-              6,
-              [
-                "Unassigned Instructor"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          6,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Group field study in a prominent geologic locality; includes in-class meetings, student-led presentation, and field trip; trips run during spring break, winter break, mid-end May or intercession; dates depend on location.",
-      []
-    ],
-    "GEOL 517": [
-      "Data Science for the Geosciences",
-      {
-        "AB1": [
-          "77630",
-          [
-            [
-              7,
-              "M",
-              "ONLINE",
-              6,
-              [
-                "Klees, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          15,
-          0,
-          [],
-          -1
-        ],
-        "AB2": [
-          "77631",
-          [
-            [
-              93,
-              "M",
-              "ONLINE",
-              6,
-              [
-                "Klees, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          15,
-          0,
-          [],
-          -1
-        ],
-        "AL1": [
-          "74567",
-          [
-            [
-              8,
-              "",
-              "ONLINE",
-              6,
-              [
-                "Klees, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          4,
-          0,
-          [],
-          -1
-        ],
-        "BB1": [
-          "77632",
-          [
-            [
-              7,
-              "M",
-              "ONLINE",
-              6,
-              [
-                "Klees, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          15,
-          0,
-          [],
-          -1
-        ],
-        "BB2": [
-          "77633",
-          [
-            [
-              93,
-              "M",
-              "ONLINE",
-              6,
-              [
-                "Klees, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          15,
-          0,
-          [],
-          -1
-        ],
-        "BL1": [
-          "75880",
-          [
-            [
-              8,
-              "",
-              "ONLINE",
-              6,
-              [
-                "Klees, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          4,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as ATMS 517. See ATMS 517.",
-      []
-    ],
-    "GEOL 552": [
-      "Geodynamics",
-      {
-        "AL1": [
-          "48946",
-          [
-            [
-              31,
-              "MW",
-              "Location Pending",
-              6,
-              [
-                "Gregg, T"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          1,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Explores dynamic characteristics of the solid earth. Covers physical and mathematical theories of deformation occurring on the surface and within the lithosphere and mantle. Discusses observations that can help us understand past and ongoing earth dynamics; these observation include topography, gravity, heat flow, geology, mineral physics, and seismic and magnetotelluric images, as well as plate tectonics theory. Includes regular lectures and tutorials on geodynamic modeling.",
-      []
-    ],
-    "GEOL 572": [
-      "Hydrogeology with Python",
-      {
-        "A": [
-          "80537",
-          [
-            [
-              8,
-              "",
-              "ONLINE",
-              6,
-              [
-                "Abrams, D"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          3,
-          0,
-          [],
-          -1
-        ],
-        "B": [
-          "80538",
-          [
-            [
-              8,
-              "",
-              "ONLINE",
-              6,
-              [
-                "Abrams, D"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          3,
-          0,
-          [],
-          -1
-        ],
-        "C": [
-          "80539",
-          [
-            [
-              8,
-              "",
-              "ONLINE",
-              6,
-              [
-                "Pettijohn, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          3,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Hydrogeologic concepts and real-world datasets are explored using the coding language Python and associated packages (SciPy, NumPy, Pandas, Matplotlib, FloPy). Data will be imported from a variety of sources, then analyzed to develop scientific models, and finally visualized. There will be hands-on experience with: 1) evaluating well tests to determine aquifer properties, 2) developing geologic and potentiometric surfaces from observed data, and 3) understanding implications of boundary conditions (surface waters, faults) on regional groundwater flow.",
-      []
-    ],
-    "GEOL 591": [
-      "Current Research in Geoscience",
-      {
-        "A": [
-          "30405",
+          "77071",
           [
             [
               9,
-              "R",
-              "2079 Natural History Building",
+              "TR",
+              "336 Davenport Hall",
+              8,
+              [
+                "Brown, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Theory and practice of sustainable development. Course materials draw upon theoretical and case study material from the social and natural sciences to analyze environment and development relations with emphasis on the Global South.",
+      []
+    ],
+    "GGIS 412": [
+      "Geospatial Technologies & Society",
+      {
+        "A": [
+          "76858",
+          [
+            [
+              0,
+              "MWF",
+              "2020A Natural History Building",
               38,
               [
-                "Gregg, T"
+                "Cidell, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Examines the use of geographic information systems (GIS) and global positioning systems (GPS) with emphasis on their social and political implications. Topics may include critical cartography, social theory, health geography, historical geography, geopolitics, crime mapping, environmental justice, data feminism, environmental change, and science, technology, and society studies (STS).",
+      []
+    ],
+    "GGIS 427": [
+      "Geospatial AI Literacy",
+      {
+        "A": [
+          "81492",
+          [
+            [
+              6,
+              "TR",
+              "Location Pending",
+              6,
+              [
+                "Portelli, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduces geospatial artificial intelligence (AI) methods through the lens of algorithmic fairness, environmental justice, and democratic governance. Students develop technical competency in machine learning, spatial statistics, and deep learning while critically examining how these tools can perpetuate or challenge spatial inequities. Through hands-on labs and community-engaged case studies, students learn to evaluate AI bias, implement fairness-aware algorithms, and design transparent, accountable geospatial AI systems that serve all communities equitably.",
+      []
+    ],
+    "GGIS 439": [
+      "Health Applications of GIS",
+      {
+        "A": [
+          "77149",
+          [
+            [
+              18,
+              "TR",
+              "338 Davenport Hall",
+              8,
+              [
+                "Kolak, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Students use spatial technologies and data to address issues of health. Topics include disease outbreak surveillance and response, environmental factors such as climate and socio-economic context, and the medical and other data needed to spatial analysis of health information. Application-based learning and class lectures are complemented by readings, guest lectures and class discussions. Geographic information system and global positioning system use is covered with examples drawn from public and veterinary health.",
+      []
+    ],
+    "GGIS 460": [
+      "Aerial Photo Analysis",
+      {
+        "G4": [
+          "80479",
+          [
+            [
+              55,
+              "W",
+              "338 Davenport Hall",
+              8,
+              [
+                "Umar, U"
               ],
               -1,
               -1,
               -1
             ],
             [
-              3,
-              "W",
-              "2078 Natural History Building",
-              38,
+              55,
+              "M",
+              "338 Davenport Hall",
+              8,
               [
-                "Gregg, T"
+                "Umar, U"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          1,
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "U3": [
+          "80478",
+          [
+            [
+              55,
+              "W",
+              "338 Davenport Hall",
+              8,
+              [
+                "Umar, U"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              55,
+              "M",
+              "338 Davenport Hall",
+              8,
+              [
+                "Umar, U"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Review of methods for extracting quantitative and qualitative information from aerial photographs using computer-based techniques and visual interpretation. The first part of the course will cover basic photogrammetry and mapping. The second part will focus on interpretation of physical, biological, and cultural features.",
+      []
+    ],
+    "GGIS 471": [
+      "Modern Geographic Thought",
+      {
+        "A": [
+          "76859",
+          [
+            [
+              14,
+              "R",
+              "137C Davenport Hall",
+              8,
+              [
+                "Wang, J",
+                "Zaragocin, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
           2,
           0,
           [],
@@ -1505,14 +1067,364 @@
         ]
       },
       [],
-      "Brings students up-to-date with current research over a broad spectrum of geoscience; improves students' oral presentation skills by practice and example. Required for all graduate students in Geology.",
+      "Examination of recent trends in human and physical geography. Themes include empiricism, logical positivism, regionalism, Marxism, realism, phenomenology, and postmodernism as applied to geographic research. Emerging geographic literature is explored to identify the latest conceptual developments.",
       []
     ],
-    "GEOL 593": [
-      "Advanced Studies in Geology",
+    "GGIS 473": [
+      "Digital Cartography & Map Design",
+      {
+        "A": [
+          "76860",
+          [
+            [
+              9,
+              "TR",
+              "1020 Natural History Building",
+              38,
+              [
+                "Portelli, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Instruction and practice in the basic techniques of map making followed by a consideration of problems involved in the construction of maps for presentation in a reproduced form (i.e., printed, photographed); the selection of proper source materials for the base and body of the map, the compilation and correlation of these materials, and methods of mechanical and photographic reproduction.",
+      []
+    ],
+    "GGIS 477": [
+      "Introduction to Remote Sensing",
+      {
+        "A": [
+          "76861",
+          [
+            [
+              17,
+              "MW",
+              "1020 Natural History Building",
+              38,
+              [
+                "Diao, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "MS": [
+          "77079",
+          [
+            [
+              17,
+              "MW",
+              "1020 Natural History Building",
+              38,
+              [
+                "Diao, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Fundamentals of energy-matter interaction mechanisms, and the manifestation of reflected and emitted radiation on photographs and images; introduces characteristics of aerial films and filters, electro-optical scanners, and digital processing; and emphasizes applications in environmental problems.",
+      []
+    ],
+    "GGIS 495": [
+      "Advanced Topics in Geography",
+      {
+        "MS": [
+          "81586",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              6,
+              [
+                "Lin, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "81585",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              6,
+              [
+                "Lin, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Explores special topics not covered in regularly scheduled Geography courses.",
+      []
+    ],
+    "GGIS 496": [
+      "Climate & Social Vulnerability",
+      {
+        "G1": [
+          "79412",
+          [
+            [
+              6,
+              "TR",
+              "2084 Natural History Building",
+              38,
+              [
+                "Zaragocin, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "U1": [
+          "79420",
+          [
+            [
+              6,
+              "TR",
+              "2084 Natural History Building",
+              38,
+              [
+                "Zaragocin, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Existing climate variability and likely climate change call for policies to protect vulnerable people who make their livelihoods in a changing environment. Students will explore: 1) causes of climate related stress and disaster; 2) theories of vulnerability and adaptation; 3) practices and policies designed to reduce economic loss, hunger, famine and dislocation in the face of climate trends and events. Focus on multiple policy scales affecting poor and marginal populations, who are disproportionately vulnerable when facing climate stress, drawing on case examples primarily from the developing world.",
+      []
+    ],
+    "GGIS 527": [
+      "Geospatial Artificial Intelligence & Machine Learning",
+      {
+        "MS": [
+          "77085",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              6,
+              [
+                "Lin, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "76864",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              6,
+              [
+                "Lin, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "The field of Artificial Intelligence (AI) has made significant progress in recent years, and a number of AI algorithms have even surpassed human ability at tasks such as computer vision, natural language processing and machine translation. The intersection of AI and geospatial analysis is creating massive and unprecedented opportunities for knowledge discovery and innovative applications. A growing number of Geospatial AI and machine learning applications have emerged in a diverse set of disciplines such as geography and geographic information science, agriculture, business, economics, sustainable development, and urban planning. In this course, students will learn a variety of Geospatial AI and Machine Learning (ML) algorithms (e.g., decision trees, and support vector machine) and tools that allow us to investigate and identify patterns, clusters, classes, and anomalies based on various types of geospatial data. The course will include extensive hands-on interactions with geospatial data and applications based on cutting-edge AI and ML techniques. Prerequisite: GGIS 407 or equivalent.",
+      []
+    ],
+    "GGIS 507": [
+      "High-Performance Geospatial Computing",
+      {
+        "MS": [
+          "77082",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              6,
+              [
+                "Umar, U"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "78168",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              6,
+              [
+                "Umar, U"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Intended to introduce students to high-performance geospatial computing using python to resolve computational bottlenecks and produce faster and scalable solutions. Students will learn how to use Python on high-performance and parallel computing architecture. Specifically, NumPy, SciPy, Numba, and Cython will be covered to optimize and speed up geospatial computation. Students will use CyberGISX as the primary learning environment, and be expected to learn how to develop such notebooks to address computational challenges in solving geospatial problems. By the end, students will have gained solid knowledge of common Python tools for developing high-performance geospatial computing solutions that can be applied to many applications.",
+      []
+    ],
+    "GGIS 560": [
+      "Spatial Epidemiology",
+      {
+        "A": [
+          "77205",
+          [
+            [
+              17,
+              "MW",
+              "320 Mumford Hall",
+              15,
+              [
+                "Varga, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as PATH 560. See PATH 560.",
+      []
+    ],
+    "GGIS 587": [
+      "Qualitative Research Methods",
+      {
+        "1G": [
+          "77435",
+          [
+            [
+              9,
+              "TR",
+              "2084 Natural History Building",
+              38,
+              [
+                "Butcher, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      null,
+      []
+    ],
+    "GGIS 590": [
+      "Graduate Independent Study",
       {
         "": [
-          "10267",
+          "76945",
           [
             [
               8,
@@ -1532,179 +1444,137 @@
           0,
           [],
           -1
-        ],
-        "C8": [
-          "53499",
+        ]
+      },
+      [],
+      "Independent research project or thesis topic development to be supervised by Geography & GIS faculty advisor.",
+      []
+    ],
+    "GGIS 593": [
+      "Geography & GIS Colloquium",
+      {
+        "A": [
+          "76946",
+          [
+            [
+              37,
+              "F",
+              "2049 Natural History Building",
+              38,
+              [
+                "Zaragocin, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          12,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Weekly research presentations by invited speakers and Geography & GIS PhD students on a wide range of topics. Required for all GGIS graduate (excluding PSM) students.",
+      []
+    ],
+    "GGIS 594": [
+      "Seminar in Social Geography",
+      {
+        "A": [
+          "78294",
+          [
+            [
+              51,
+              "M",
+              "137C Davenport Hall",
+              8,
+              [
+                "Alvarado, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          12,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Advanced study of current research in social geography; topic will vary from term to term. Prepares students for thesis and dissertation research through the study of relevant literature and completion of a research paper.",
+      []
+    ],
+    "GGIS 598": [
+      "Graduate Capstone Project",
+      {
+        "": [
+          "76900",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              6,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Major individual project that demonstrates the student's ability to solve an advanced geospatial problem or develop a GIS-based application. Student will work closely with a faculty capstone advisor to determine the project focus and expected outcome(s).",
+      []
+    ],
+    "GGIS 595": [
+      "Graduate Seminar",
+      {
+        "BJJ": [
+          "77237",
           [
             [
               14,
               "T",
-              "Location Pending",
-              6,
-              [
-                "Buckley, E"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          8,
-          2,
-          0,
-          [],
-          -1
-        ],
-        "K9": [
-          "46081",
-          [
-            [
-              32,
-              "MW",
-              "Location Pending",
-              6,
-              [
-                "Maguire, R"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          8,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "U": [
-          "54872",
-          [
-            [
-              13,
-              "F",
-              "122 Davenport Hall",
+              "137C Davenport Hall",
               8,
               [
-                "Conroy, J"
+                "Jefferson, B"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          8,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "Y4": [
-          "78120",
-          [
-            [
-              8,
-              "",
-              "ONLINE",
-              6,
-              [
-                "Pettijohn, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          8,
-          3,
-          0,
-          [],
-          -1
-        ],
-        "Y5": [
-          "80540",
-          [
-            [
-              8,
-              "",
-              "ONLINE",
-              6,
-              [
-                "Pettijohn, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          8,
-          3,
-          0,
-          [],
-          -1
-        ],
-        "Y6": [
-          "30428",
-          [
-            [
-              8,
-              "",
-              "ONLINE",
-              6,
-              [
-                "Pettijohn, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          8,
-          3,
+          4,
+          12,
           0,
           [],
           -1
         ]
       },
       [],
-      "Work may be taken in the following fields: (a) general geology; Field trip fee may be required for this section. (b) engineering geology; (c) geomorphology and glacial geology; (d) clay mineralogy; (e) ground-water geology; (f) geomicrobiology; (g) geological fluid dynamics; (h) mineralogy and crystallography; (i) paleontology; (j) geochemistry: (k) geophysics; (l) petrography and petrology; (m) sedimentology; (n) stratigraphy; (o) oceanography; (p) submarine geology; (q) structural geology and geotectonics; (r) mathematical geology; (s) sedimentary petrography; (t) petroleum geology; (u) coal geology; (v) isotope geology and geochronology; (w) electron beam analysis; (x) vulcanology; (y) environmental geology; and (z) planetology.",
+      "Graduate-level exploration of a topic in Geography & GIS that is not covered by an existing course. Topics and instructors vary by semester.",
       []
     ],
-    "GEOL 598": [
-      "Capstone Research Project",
-      {
-        "": [
-          "79385",
-          [
-            [
-              8,
-              "",
-              "ONLINE",
-              6,
-              [
-                "Unassigned Instructor"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          8,
-          6,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Supervised individual research project in applied geology as a final requirement for non-thesis master’s degree in Geology. Applies theory and knowledge from program course work in applied Geology to a project in their profession through planning, research, and the collection, analysis, modeling, assimilation, and presentation of data. Student work closely with faculty capstone advisor to determine project focus and expected outcome(s).",
-      []
-    ],
-    "GEOL 599": [
+    "GGIS 599": [
       "Thesis Research",
       {
-        "AMA": [
-          "50770",
+        "BJJ": [
+          "77020",
           [
             [
               8,
@@ -1712,7 +1582,7 @@
               "ONLINE",
               6,
               [
-                "Anders, A"
+                "Jefferson, B"
               ],
               -1,
               -1,
@@ -1725,8 +1595,8 @@
           [],
           -1
         ],
-        "BWF": [
-          "19077",
+        "BLR": [
+          "77025",
           [
             [
               8,
@@ -1734,7 +1604,7 @@
               "ONLINE",
               6,
               [
-                "Fouke, B"
+                "Rhoads, B"
               ],
               -1,
               -1,
@@ -1747,8 +1617,8 @@
           [],
           -1
         ],
-        "CCL": [
-          "19073",
+        "CD": [
+          "77018",
           [
             [
               8,
@@ -1756,7 +1626,7 @@
               "ONLINE",
               6,
               [
-                "Lundstrom, C"
+                "Diao, C"
               ],
               -1,
               -1,
@@ -1769,8 +1639,8 @@
           [],
           -1
         ],
-        "EMB": [
-          "19083",
+        "DW": [
+          "77028",
           [
             [
               8,
@@ -1778,7 +1648,7 @@
               "ONLINE",
               6,
               [
-                "Buckley, E"
+                "Wilson, D"
               ],
               -1,
               -1,
@@ -1791,30 +1661,8 @@
           [],
           -1
         ],
-        "HN": [
-          "19023",
-          [
-            [
-              8,
-              "",
-              "ONLINE",
-              6,
-              [
-                "Nguyen, H"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          16,
-          6,
-          0,
-          [],
-          -1
-        ],
-        "JBE": [
-          "52618",
+        "JLB": [
+          "77014",
           [
             [
               8,
@@ -1836,7 +1684,7 @@
           -1
         ],
         "JLC": [
-          "19031",
+          "77016",
           [
             [
               8,
@@ -1844,7 +1692,7 @@
               "ONLINE",
               6,
               [
-                "Conroy, J"
+                "Cidell, J"
               ],
               -1,
               -1,
@@ -1857,8 +1705,8 @@
           [],
           -1
         ],
-        "JLD": [
-          "19028",
+        "MJL": [
+          "77022",
           [
             [
               8,
@@ -1866,7 +1714,7 @@
               "ONLINE",
               6,
               [
-                "Druhan, J"
+                "Lara, M"
               ],
               -1,
               -1,
@@ -1879,8 +1727,8 @@
           [],
           -1
         ],
-        "JMS": [
-          "19068",
+        "MK": [
+          "77021",
           [
             [
               8,
@@ -1888,7 +1736,7 @@
               "ONLINE",
               6,
               [
-                "Smith, J"
+                "Kolak, M"
               ],
               -1,
               -1,
@@ -1901,8 +1749,8 @@
           [],
           -1
         ],
-        "MLC": [
-          "19045",
+        "NAA": [
+          "77013",
           [
             [
               8,
@@ -1910,7 +1758,7 @@
               "ONLINE",
               6,
               [
-                "Christie, M"
+                "Alvarado, N"
               ],
               -1,
               -1,
@@ -1923,8 +1771,8 @@
           [],
           -1
         ],
-        "PMG": [
-          "19063",
+        "RP": [
+          "77017",
           [
             [
               8,
@@ -1932,7 +1780,7 @@
               "ONLINE",
               6,
               [
-                "Gregg, T"
+                "Portelli, R"
               ],
               -1,
               -1,
@@ -1945,8 +1793,8 @@
           [],
           -1
         ],
-        "RRM": [
-          "19054",
+        "SCB": [
+          "77015",
           [
             [
               8,
@@ -1954,7 +1802,7 @@
               "ONLINE",
               6,
               [
-                "Maguire, R"
+                "Butcher, S"
               ],
               -1,
               -1,
@@ -1967,8 +1815,8 @@
           [],
           -1
         ],
-        "TMJ": [
-          "19036",
+        "SW": [
+          "77027",
           [
             [
               8,
@@ -1976,7 +1824,7 @@
               "ONLINE",
               6,
               [
-                "Johnson, T"
+                "Wang, S"
               ],
               -1,
               -1,
@@ -1989,8 +1837,8 @@
           [],
           -1
         ],
-        "WRG": [
-          "19059",
+        "SZ": [
+          "77026",
           [
             [
               8,
@@ -1998,7 +1846,7 @@
               "ONLINE",
               6,
               [
-                "Guenthner, W"
+                "Zaragocin, S"
               ],
               -1,
               -1,
@@ -2186,7 +2034,8 @@
       "0830 - 1350",
       "1530 - 1710",
       "1000 - 1250",
-      "1800 - 2000"
+      "1800 - 2000",
+      "1230 - 1450"
     ],
     "dateRanges": [],
     "scheduleTypes": [
