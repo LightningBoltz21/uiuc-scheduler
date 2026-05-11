@@ -1,0 +1,271 @@
+{
+  "subject": "GC",
+  "scrapedAt": 1778471496049,
+  "courseCount": 2,
+  "courses": {
+    "GC 498": [
+      "Graduate Domestic Study Away",
+      {
+        "A": [
+          "35259",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Thompson, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          12,
+          11,
+          0,
+          [],
+          -1
+        ],
+        "S1": [
+          "34515",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Thompson, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          12,
+          11,
+          0,
+          [],
+          -1
+        ],
+        "S2": [
+          "34516",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Thompson, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          12,
+          11,
+          0,
+          [],
+          -1
+        ],
+        "SF": [
+          "34517",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Thompson, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          12,
+          11,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Provides campus credit for study at accredited domestics institutions outside the CIC.",
+      []
+    ],
+    "GC 499": [
+      "Graduate College Study Abroad",
+      {
+        "A": [
+          "29944",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Thompson, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          18,
+          11,
+          0,
+          [],
+          -1
+        ],
+        "A1": [
+          "30736",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Thompson, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          18,
+          11,
+          0,
+          [],
+          -1
+        ],
+        "Z": [
+          "34275",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Thompson, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          18,
+          11,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Provides campus credit for study at accredited foreign institutions or approved overseas programs. Final determination of credit granted is made after the student's successful completion of work. Credit will not count toward residence requirements.",
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "ARRANGED",
+      "1330 - 1520",
+      "1830 - 2130",
+      "1100 - 1215",
+      "1100 - 1150",
+      "1000 - 1120",
+      "0900 - 1040",
+      "1000 - 1150",
+      "1100 - 1250",
+      "1500 - 1550",
+      "0850 - 0950",
+      "1600 - 1750",
+      "0900 - 1020",
+      "1200 - 1250",
+      "0900 - 0950",
+      "1600 - 1650",
+      "1000 - 1050",
+      "1300 - 1350",
+      "1400 - 1550",
+      "1900 - 2100",
+      "1100 - 1220",
+      "1400 - 1520",
+      "1800 - 2000",
+      "1700 - 1950",
+      "1700 - 2000",
+      "1600 - 1850",
+      "0900 - 1200",
+      "1100 - 1300",
+      "1600 - 1800",
+      "1000 - 1200",
+      "1600 - 1950",
+      "0930 - 1120",
+      "1700 - 1850",
+      "1500 - 1650",
+      "0900 - 1050",
+      "0930 - 1050",
+      "0830 - 1350",
+      "1900 - 2000"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Independent Study",
+      "Internship",
+      "Online",
+      "Online Lecture Discussion",
+      "Online Lecture",
+      "Discussion/ Recitation",
+      "Online Discussion",
+      "Online Lab",
+      "Laboratory",
+      "Lecture",
+      "Lecture-Discussion",
+      "Study Abroad",
+      "Practice"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.1149296,
+        "long": -88.2280589
+      },
+      {
+        "lat": 40.1035833,
+        "long": -88.228405
+      },
+      {
+        "lat": 40.1020773,
+        "long": -88.2296394
+      },
+      {
+        "lat": 40.1035872,
+        "long": -88.2306061
+      },
+      {
+        "lat": 40.10628,
+        "long": -88.22621
+      },
+      {
+        "lat": 40.104794,
+        "long": -88.224264
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}

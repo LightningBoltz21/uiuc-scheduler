@@ -1,0 +1,100 @@
+{
+  "subject": "ENVS",
+  "scrapedAt": 1778471476250,
+  "courseCount": 1,
+  "courses": {
+    "ENVS 299": [
+      "Ind Studies of Env. Topics",
+      {
+        "": [
+          "10084",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Approved for letter and S/U grading. Prerequisite: Consent of instructor.",
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "ARRANGED",
+      "1330 - 1520",
+      "1830 - 2130",
+      "1100 - 1215",
+      "1100 - 1150",
+      "1000 - 1120",
+      "0900 - 1040",
+      "1000 - 1150",
+      "1100 - 1250",
+      "1500 - 1550",
+      "0850 - 0950",
+      "1600 - 1750",
+      "0900 - 1020",
+      "1200 - 1250",
+      "0900 - 0950",
+      "1600 - 1650",
+      "1000 - 1050",
+      "1300 - 1350",
+      "1400 - 1550",
+      "1900 - 2100",
+      "1100 - 1220",
+      "1400 - 1520",
+      "1800 - 2000"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Independent Study",
+      "Internship",
+      "Online",
+      "Online Lecture Discussion",
+      "Online Lecture",
+      "Discussion/ Recitation",
+      "Online Discussion",
+      "Online Lab",
+      "Laboratory",
+      "Lecture",
+      "Lecture-Discussion",
+      "Study Abroad",
+      "Practice"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.1149296,
+        "long": -88.2280589
+      },
+      {
+        "lat": 40.1035833,
+        "long": -88.228405
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}

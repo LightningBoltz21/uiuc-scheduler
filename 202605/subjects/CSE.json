@@ -1,0 +1,232 @@
+{
+  "subject": "CSE",
+  "scrapedAt": 1778471457519,
+  "courseCount": 4,
+  "courses": {
+    "CSE 448": [
+      "Advanced Data Analysis",
+      {
+        "1GR": [
+          "38364",
+          [
+            [
+              7,
+              "TWR",
+              "ONLINE",
+              0,
+              [
+                "Glosemeyer, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "1UG": [
+          "39723",
+          [
+            [
+              7,
+              "TWR",
+              "ONLINE",
+              0,
+              [
+                "Glosemeyer, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as STAT 448. See STAT 448.",
+      []
+    ],
+    "CSE 451": [
+      "Finite Element Analysis",
+      {
+        "": [
+          "42402",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Chew, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "ONC": [
+          "40026",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Chew, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as AE 420 and ME 471. See ME 471.",
+      []
+    ],
+    "CSE 408": [
+      "Applied Parallel Programming",
+      {
+        "AB": [
+          "42282",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Lumetta, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "42281",
+          [
+            [
+              6,
+              "MW",
+              "ONLINE",
+              0,
+              [
+                "Lumetta, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as CS 483 and ECE 408. See ECE 408.",
+      []
+    ],
+    "CSE 527": [
+      "Scientific Visualization",
+      {
+        "G": [
+          "41700",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Shaffer, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      null,
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "ARRANGED",
+      "1330 - 1520",
+      "1830 - 2130",
+      "1100 - 1215",
+      "1100 - 1150",
+      "1000 - 1120",
+      "0900 - 1040",
+      "1000 - 1150"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Independent Study",
+      "Internship",
+      "Online",
+      "Online Lecture Discussion",
+      "Online Lecture",
+      "Discussion/ Recitation",
+      "Online Discussion",
+      "Online Lab"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.1149296,
+        "long": -88.2280589
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}

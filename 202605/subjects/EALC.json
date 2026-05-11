@@ -1,0 +1,188 @@
+{
+  "subject": "EALC",
+  "scrapedAt": 1778471462123,
+  "courseCount": 4,
+  "courses": {
+    "EALC 199": [
+      "Undergraduate Open Seminar",
+      {
+        "": [
+          "10596",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      null,
+      []
+    ],
+    "EALC 390": [
+      "Individual Study",
+      {
+        "": [
+          "10597",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "DS": [
+          "39323",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Shao, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Directed readings in the languages and literatures of East Asia. The area selected depends on the student's interest.",
+      []
+    ],
+    "EALC 490": [
+      "Individual Study",
+      {
+        "": [
+          "10599",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          12,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Supervised individualized study of a topic not covered by regular course offerings. The topic must be approved by the instructor.",
+      []
+    ],
+    "EALC 590": [
+      "Individual Study and Research",
+      {
+        "": [
+          "10003",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          12,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Supervised individual investigation or study of a topic not covered by regular course offerings. The topic selected by the student and the proposed plan of study must be approved by the adviser and the instructor.",
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "ARRANGED",
+      "1330 - 1520",
+      "1830 - 2130",
+      "1100 - 1215",
+      "1100 - 1150",
+      "1000 - 1120",
+      "0900 - 1040",
+      "1000 - 1150"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Independent Study",
+      "Internship",
+      "Online",
+      "Online Lecture Discussion",
+      "Online Lecture",
+      "Discussion/ Recitation",
+      "Online Discussion",
+      "Online Lab"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.1149296,
+        "long": -88.2280589
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}

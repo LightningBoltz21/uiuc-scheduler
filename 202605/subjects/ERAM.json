@@ -1,0 +1,164 @@
+{
+  "subject": "ERAM",
+  "scrapedAt": 1778471481646,
+  "courseCount": 2,
+  "courses": {
+    "ERAM 550": [
+      "Methods of Educational Inquiry",
+      {
+        "OB": [
+          "42345",
+          [
+            [
+              30,
+              "M",
+              "ONLINE",
+              0,
+              [
+                "Nelson, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "42346",
+          [
+            [
+              23,
+              "W",
+              "ONLINE",
+              0,
+              [
+                "Hinze-Pifer, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as CI 550, EPSY 550, and SPED 550. See CI 550.",
+      []
+    ],
+    "ERAM 511": [
+      "Introductory Qualitative Research Methods",
+      {
+        "ONL": [
+          "42549",
+          [
+            [
+              25,
+              "W",
+              "ONLINE",
+              0,
+              [
+                "Davila, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Designed to introduce qualitative methods for educational research, this course focuses on how to align research questions and theoretical explorations with grounded qualitative research. The course covers techniques such as observations, taking field notes, interviewing, and analyzing qualitative data in online and on-site spaces. Readings will cover both applied aspects of conducting qualitative research and how to position such writing in larger bodies of knowledge, taking into account voice, reflexivity, and theoretical frameworks.",
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "ARRANGED",
+      "1330 - 1520",
+      "1830 - 2130",
+      "1100 - 1215",
+      "1100 - 1150",
+      "1000 - 1120",
+      "0900 - 1040",
+      "1000 - 1150",
+      "1100 - 1250",
+      "1500 - 1550",
+      "0850 - 0950",
+      "1600 - 1750",
+      "0900 - 1020",
+      "1200 - 1250",
+      "0900 - 0950",
+      "1600 - 1650",
+      "1000 - 1050",
+      "1300 - 1350",
+      "1400 - 1550",
+      "1900 - 2100",
+      "1100 - 1220",
+      "1400 - 1520",
+      "1800 - 2000",
+      "1700 - 1950",
+      "1700 - 2000",
+      "1600 - 1850",
+      "0900 - 1200",
+      "1100 - 1300",
+      "1600 - 1800",
+      "1000 - 1200",
+      "1600 - 1950"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Independent Study",
+      "Internship",
+      "Online",
+      "Online Lecture Discussion",
+      "Online Lecture",
+      "Discussion/ Recitation",
+      "Online Discussion",
+      "Online Lab",
+      "Laboratory",
+      "Lecture",
+      "Lecture-Discussion",
+      "Study Abroad",
+      "Practice"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.1149296,
+        "long": -88.2280589
+      },
+      {
+        "lat": 40.1035833,
+        "long": -88.228405
+      },
+      {
+        "lat": 40.1020773,
+        "long": -88.2296394
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}
