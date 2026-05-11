@@ -1,0 +1,128 @@
+{
+  "subject": "AHS",
+  "scrapedAt": 1778471338516,
+  "courseCount": 1,
+  "courses": {
+    "AHS 292": [
+      "AHS Study Abroad",
+      {
+        "S2": [
+          "38437",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Klebek, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          18,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "S2B": [
+          "38753",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          18,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "SF": [
+          "39359",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Klebek, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          18,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Provides credit toward the undergraduate degree for study at an accredited international institution or approved overseas program. Final determination of credit granted is made upon the student' s successful completion of work.",
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "ARRANGED",
+      "1400 - 1520",
+      "1230 - 1350",
+      "1100 - 1220",
+      "0930 - 1050",
+      "1330 - 1450",
+      "0900 - 1050",
+      "1200 - 1350",
+      "1000 - 1200",
+      "0830 - 1800"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Online",
+      "Independent Study",
+      "Conference",
+      "Lecture-Discussion",
+      "Internship",
+      "Study Abroad"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.1035872,
+        "long": -88.2306061
+      },
+      {
+        "lat": 40.1108856,
+        "long": -88.2269806
+      },
+      {
+        "lat": 40.10628,
+        "long": -88.22621
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}

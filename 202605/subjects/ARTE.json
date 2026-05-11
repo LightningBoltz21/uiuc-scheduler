@@ -1,0 +1,122 @@
+{
+  "subject": "ARTE",
+  "scrapedAt": 1778471349771,
+  "courseCount": 2,
+  "courses": {
+    "ARTE 391": [
+      "Independent Study",
+      {
+        "": [
+          "10367",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Directed independent research or creative activity.",
+      []
+    ],
+    "ARTE 591": [
+      "Independent Graduate Studies",
+      {
+        "": [
+          "10370",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Individual direction in research and in creative activity; thesis.",
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "ARRANGED",
+      "1400 - 1520",
+      "1230 - 1350",
+      "1100 - 1220",
+      "0930 - 1050",
+      "1330 - 1450",
+      "0900 - 1050",
+      "1200 - 1350",
+      "1000 - 1200",
+      "0830 - 1800",
+      "1300 - 1750",
+      "0900 - 1150",
+      "1300 - 1650"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Online",
+      "Independent Study",
+      "Conference",
+      "Lecture-Discussion",
+      "Internship",
+      "Study Abroad",
+      "Online Lab",
+      "Travel",
+      "Seminar",
+      "Laboratory",
+      "Studio"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.1035872,
+        "long": -88.2306061
+      },
+      {
+        "lat": 40.1108856,
+        "long": -88.2269806
+      },
+      {
+        "lat": 40.10628,
+        "long": -88.22621
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}
