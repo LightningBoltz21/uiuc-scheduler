@@ -1,7 +1,7 @@
 {
   "subject": "ECON",
-  "scrapedAt": 1779077070159,
-  "courseCount": 30,
+  "scrapedAt": 1779077096758,
+  "courseCount": 45,
   "courses": {
     "ECON 102": [
       "Microeconomic Principles",
@@ -4445,6 +4445,769 @@
       },
       [],
       "Emphasis on macroeconomic theory; principal topics include a review of Keynesian macroeconomic theory, formal growth theory, and selected business cycle theory.",
+      []
+    ],
+    "ECON 504": [
+      "Time Series Analysis in Econ",
+      {
+        "M1": [
+          "70095",
+          [
+            [
+              0,
+              "TR",
+              "215 David Kinley Hall",
+              8,
+              [
+                "Lee, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Modern time series analysis techniques for handling economic data which arises in a happenstance fashion through time and their application to specific economic problems.",
+      []
+    ],
+    "ECON 502": [
+      "Economic Statistics",
+      {
+        "M1": [
+          "64709",
+          [
+            [
+              11,
+              "F",
+              "123 David Kinley Hall",
+              8,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              11,
+              "TR",
+              "302 Architecture Building",
+              16,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Classical statistics and regression analysis; descriptive statistics, probability and point and interval estimation; decision theory; variance analysis; and linear regression and least-squares estimates.",
+      []
+    ],
+    "ECON 505": [
+      "Introduction to Game Theory",
+      {
+        "M1": [
+          "30054",
+          [
+            [
+              8,
+              "MW",
+              "215 David Kinley Hall",
+              8,
+              [
+                "Lemus Encalada, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Applications of game theory. Introduction to basic static games and dynamic games with particular attention to applying these games to real world situations.",
+      []
+    ],
+    "ECON 513": [
+      "International Trade",
+      {
+        "M1": [
+          "64714",
+          [
+            [
+              21,
+              "MW",
+              "215B David Kinley Hall",
+              8,
+              [
+                "Sora, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "The pure theory of international trade, general equilibrium income and welfare, tariffs, the theory of policy ranking, strategic trade policy, customs unions, international trade law and the WTO.",
+      []
+    ],
+    "ECON 510": [
+      "Economics of Taxation",
+      {
+        "M1": [
+          "64713",
+          [
+            [
+              8,
+              "TR",
+              "215 David Kinley Hall",
+              8,
+              [
+                "Dubovyk, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Theoretical and empirical analysis of the impact of taxation on the economic system; topics include tax equity and excess burden, incentive effects of taxation, tax incidence, structure of major types of taxes (income, consumption, and wealth), normative tax analysis, and taxation in developing economies.",
+      []
+    ],
+    "ECON 516": [
+      "Monetary Theory",
+      {
+        "M1": [
+          "56349",
+          [
+            [
+              21,
+              "TR",
+              "317 David Kinley Hall",
+              8,
+              [
+                "Dziuba, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Micro- and macroeconomic theories of the supply of and demand for money; money substitutes and their significance; review of current empirical research; money in closed economy, macroeconomic, and static general equilibrium models; and analysis of inflation and unemployment.",
+      []
+    ],
+    "ECON 520": [
+      "Economic Development: Theory and Evidence",
+      {
+        "M1": [
+          "81288",
+          [
+            [
+              11,
+              "MW",
+              "215 David Kinley Hall",
+              8,
+              [
+                "Akresh, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Broad examination of economic development, integrating both micro and macro perspectives. Explores factors that drive economic growth and influence development outcomes across countries. Students will analyze key challenges, evaluate development policies, and consider the role of empirical methods in assessing economic progress. By the end of the course, students will have a deeper understanding of the patterns of development and the policy approaches aimed at fostering economic growth and reducing global disparities.",
+      []
+    ],
+    "ECON 523": [
+      "Causal Inference and Policy Evaluation",
+      {
+        "M1": [
+          "81002",
+          [
+            [
+              0,
+              "MW",
+              "215 David Kinley Hall",
+              8,
+              [
+                "Bartik, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Provides a solid foundation in modern econometric methods for causal analysis, with a focus on their applications to policy-relevant questions. Covers a wide range of approaches for identifying causal relationships, including randomized controlled trials, observational studies, matching methods, difference-in-differences, synthetic control, regression discontinuity designs, instrumental variables, and local average treatment effects. Both theoretical underpinnings and practical application of each method are examined. By the semester’s end students will be critically equipped to assess, design, and evaluate causal inference strategies in applied economic research.",
+      []
+    ],
+    "ECON 521": [
+      "Financial Economic Analysis",
+      {
+        "M1": [
+          "80979",
+          [
+            [
+              11,
+              "TR",
+              "215B David Kinley Hall",
+              8,
+              [
+                "Lee, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to financial economics and empirical finance, with the main focus being the study of core concepts in finance, comprehension of various finance models, and their application to real financial data. Begins with review essential background concepts, followed by an exploration of popular finance models. Students will engage in both analytical problem sets and data exercises as a way of reinforcing and understanding key lecture concepts.",
+      []
+    ],
+    "ECON 531": [
+      "Macroeconomic Theory I",
+      {
+        "P1": [
+          "64719",
+          [
+            [
+              11,
+              "F",
+              "138 Wohlers Hall",
+              3,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              0,
+              "MW",
+              "215B David Kinley Hall",
+              8,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduces students to a variety of dynamic general equilibrium models that currently dominate the study of growth and economic fluctuations. These models include: neoclassical growth models, overlapping generations models, CAPM models, search models, and endogenous growth models. In covering these models, the course also seeks to develop a set of techniques for students to use. These techniques include discrete time optimization, continuous time optimization, dynamic programming and model calibration.",
+      []
+    ],
+    "ECON 530": [
+      "Microeconomic Theory I",
+      {
+        "P1": [
+          "64717",
+          [
+            [
+              43,
+              "F",
+              "111 David Kinley Hall",
+              8,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              11,
+              "MW",
+              "111 David Kinley Hall",
+              8,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Emphasizes microeconomic theory particularly theory of the consumer, theory of the firm, general equilibrium analysis and welfare analysis. Also, covers uncertainty in general equilibrium and informational economics.",
+      []
+    ],
+    "ECON 532": [
+      "Econometric Analysis I",
+      {
+        "P1": [
+          "64721",
+          [
+            [
+              7,
+              "F",
+              "209 David Kinley Hall",
+              8,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              0,
+              "TR",
+              "212 David Kinley Hall",
+              8,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Theoretical treatment of economic statistics. Covers probability theory, set theory, asymptotic theory, estimation and hypothesis testing.",
+      []
+    ],
+    "ECON 543": [
+      "Workplace Dispute Resolution",
+      {
+        "A": [
+          "33185",
+          [
+            [
+              52,
+              "W",
+              "Location Pending",
+              7,
+              [
+                "Kallas, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      null,
+      []
+    ],
+    "ECON 590": [
+      "Individual Study and Research",
+      {
+        "3Y1": [
+          "66599",
+          [
+            [
+              11,
+              "TR",
+              "223 David Kinley Hall",
+              8,
+              [
+                "Deltas, G",
+                "Wu, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "NME": [
+          "65936",
+          [
+            [
+              7,
+              "MTWR",
+              "119 David Kinley Hall",
+              8,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          10,
+          0,
+          [],
+          -1
+        ],
+        "P1": [
+          "63642",
+          [
+            [
+              21,
+              "TR",
+              "307 David Kinley Hall",
+              8,
+              [
+                "Shea, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "P2": [
+          "63646",
+          [
+            [
+              0,
+              "MW",
+              "312 David Kinley Hall",
+              8,
+              [
+                "Creal, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "P3": [
+          "72191",
+          [
+            [
+              0,
+              "TR",
+              "307 David Kinley Hall",
+              8,
+              [
+                "Sora, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "P4": [
+          "72192",
+          [
+            [
+              7,
+              "MW",
+              "307 David Kinley Hall",
+              8,
+              [
+                "Albouy, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "P5": [
+          "61993",
+          [
+            [
+              11,
+              "MW",
+              "212 David Kinley Hall",
+              8,
+              [
+                "Bartik, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "RW1": [
+          "72127",
+          [
+            [
+              7,
+              "TR",
+              "317 David Kinley Hall",
+              8,
+              [
+                "Osman, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          12,
+          0,
+          [],
+          -1
+        ],
+        "RW2": [
+          "31801",
+          [
+            [
+              7,
+              "R",
+              "125 English Building",
+              0,
+              [
+                "Xie, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          12,
+          0,
+          [],
+          -1
+        ],
+        "RW3": [
+          "70942",
+          [
+            [
+              107,
+              "MWF",
+              "317 David Kinley Hall",
+              8,
+              [
+                "Bernhardt, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          12,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Directed reading and research.",
+      []
+    ],
+    "ECON 598": [
+      "Workshop and Research Seminar",
+      {
+        "01": [
+          "37934",
+          [
+            [
+              8,
+              "MW",
+              "317 David Kinley Hall",
+              8,
+              [
+                "Yoo, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          10,
+          0,
+          [],
+          -1
+        ],
+        "02": [
+          "37936",
+          [
+            [
+              8,
+              "T",
+              "317 David Kinley Hall",
+              8,
+              [
+                "Xie, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          10,
+          0,
+          [],
+          -1
+        ],
+        "03": [
+          "37938",
+          [
+            [
+              8,
+              "R",
+              "317 David Kinley Hall",
+              8,
+              [
+                "Durandard, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          10,
+          0,
+          [],
+          -1
+        ],
+        "04": [
+          "37939",
+          [
+            [
+              8,
+              "F",
+              "317 David Kinley Hall",
+              8,
+              [
+                "Shea, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          10,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Workshops are offered in all areas of specialization in which graduate students are writing Ph.D. dissertations. The specific format varies, but in general workshop sessions include presentations by graduate students of thesis research, by faculty members of their current research, and by occasional outside speakers.",
       []
     ]
   },
