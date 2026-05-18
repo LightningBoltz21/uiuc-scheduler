@@ -1,381 +1,57 @@
 {
-  "subject": "CHIN",
-  "scrapedAt": 1779076927585,
-  "courseCount": 7,
+  "subject": "CIC",
+  "scrapedAt": 1779076941396,
+  "courseCount": 1,
   "courses": {
-    "CHIN 241": [
-      "Chinese Reading and Writing",
+    "CIC 500": [
+      "CIC Traveling Scholar",
       {
-        "B": [
-          "31589",
+        "A": [
+          "41113",
           [
             [
-              3,
-              "MWF",
-              "315 Gregory Hall",
-              5,
-              [
-                "Su, Y",
-                "Wang, R"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
               9,
-              "TR",
+              "",
               "ONLINE",
               7,
               [
-                "Su, Y",
-                "Wang, R"
+                "Thompson, A"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          4,
-          0,
+          20,
+          10,
           0,
           [],
           -1
-        ]
-      },
-      [],
-      "Students with a basic background in spoken Mandarin will help develop their ability to read and write Chinese characters. This course fulfills the language requirement for those programs with a two-term sequence. Successful completion of CHIN 241 and CHIN 242 fulfills the Liberal Arts and Science foreign language requirement.",
-      []
-    ],
-    "CHIN 203": [
-      "Intermediate Chinese I",
-      {
+        ],
         "B": [
-          "31585",
+          "45844",
           [
             [
-              4,
-              "MWF",
-              "149 English Building",
-              0,
-              [
-                "Su, Y",
-                "Xu, L"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
               9,
-              "TR",
+              "",
               "ONLINE",
               7,
               [
-                "Su, Y",
-                "Xu, L"
+                "Thompson, A"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          5,
-          0,
+          20,
+          10,
           0,
           [],
           -1
         ],
         "C": [
-          "50724",
-          [
-            [
-              2,
-              "MWF",
-              "331 Gregory Hall",
-              5,
-              [
-                "Su, Y",
-                "Xiao, S"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              9,
-              "TR",
-              "ONLINE",
-              7,
-              [
-                "Su, Y",
-                "Xiao, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "First term of second year of the Chinese language, including drill for more advanced conversational fluency; introduction to a greater variety of styles and levels of discourse and usage; and increasing study of the written language and more formal grammar.",
-      []
-    ],
-    "CHIN 201": [
-      "Elementary Chinese I",
-      {
-        "C": [
-          "54732",
-          [
-            [
-              2,
-              "MWF",
-              "215 Davenport Hall",
-              9,
-              [
-                "Chen, Y",
-                "Su, Y"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              9,
-              "TR",
-              "ONLINE",
-              7,
-              [
-                "Chen, Y",
-                "Su, Y"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "D": [
-          "42602",
-          [
-            [
-              3,
-              "MWF",
-              "1136 Literatures, Cultures, & Ling",
-              4,
-              [
-                "Guo, S",
-                "Su, Y"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              9,
-              "TR",
-              "ONLINE",
-              7,
-              [
-                "Guo, S",
-                "Su, Y"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "X": [
-          "45861",
-          [
-            [
-              4,
-              "MWF",
-              "1051 Lincoln Hall",
-              10,
-              [
-                "Su, Y",
-                "Xing, Y"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              9,
-              "TR",
-              "ONLINE",
-              7,
-              [
-                "Su, Y",
-                "Xing, Y"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Introduction to Mandarin Chinese, including basic skills in speaking, reading, and writing. Not open to students with a background in Chinese language.",
-      []
-    ],
-    "CHIN 305": [
-      "Advanced Chinese I",
-      {
-        "X": [
-          "29973",
-          [
-            [
-              31,
-              "TR",
-              "204 Transportation Building",
-              30,
-              [
-                "Chen, Y",
-                "Su, Y"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              9,
-              "MW",
-              "ONLINE",
-              7,
-              [
-                "Chen, Y",
-                "Su, Y"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "An advanced-level course that emphasizes rapid reading, vocabulary acquisition, and newspaper reading.",
-      []
-    ],
-    "CHIN 440": [
-      "Fourth-Year Chinese I",
-      {
-        "F": [
-          "29979",
-          [
-            [
-              11,
-              "TR",
-              "1057 Lincoln Hall",
-              10,
-              [
-                "Chen, Y",
-                "Su, Y"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "FG": [
-          "42884",
-          [
-            [
-              11,
-              "TR",
-              "1057 Lincoln Hall",
-              10,
-              [
-                "Chen, Y",
-                "Su, Y"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "The focus of this course is on reading and discussing modern and pre-modern Chinese literary selections in Chinese. Students continue to develop dictionary, literary and writing skills begun at the advanced (305-306) levels.",
-      []
-    ],
-    "CHIN 407": [
-      "Intro to Classical Chinese",
-      {
-        "YW": [
-          "78716",
-          [
-            [
-              31,
-              "TR",
-              "1024 Literatures, Cultures, & Ling",
-              4,
-              [
-                "Unassigned Instructor"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Introduction to the classical literary language, style, and structural patterns as shown in well-known literary, philosophical, and historical texts. Approaching these texts through modern Chinese translation, students will not only absorb rich intellectual contents but also grasp essential differences between traditional literary Chinese and modern Chinese in various aspects, ranging from script form to vocabulary and sentence structures.",
-      []
-    ],
-    "CHIN 490": [
-      "Readings in Chinese Lit",
-      {
-        "": [
-          "10517",
+          "45845",
           [
             [
               9,
@@ -390,15 +66,169 @@
               -1
             ]
           ],
-          4,
-          7,
+          20,
+          10,
+          0,
+          [],
+          -1
+        ],
+        "D": [
+          "45846",
+          [
+            [
+              9,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          20,
+          10,
+          0,
+          [],
+          -1
+        ],
+        "E": [
+          "45847",
+          [
+            [
+              9,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          20,
+          10,
+          0,
+          [],
+          -1
+        ],
+        "F": [
+          "45848",
+          [
+            [
+              9,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          20,
+          10,
+          0,
+          [],
+          -1
+        ],
+        "G": [
+          "45849",
+          [
+            [
+              9,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          20,
+          10,
+          0,
+          [],
+          -1
+        ],
+        "H": [
+          "45850",
+          [
+            [
+              9,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          20,
+          10,
+          0,
+          [],
+          -1
+        ],
+        "I": [
+          "45851",
+          [
+            [
+              9,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          20,
+          10,
+          0,
+          [],
+          -1
+        ],
+        "J": [
+          "45852",
+          [
+            [
+              9,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          20,
+          10,
           0,
           [],
           -1
         ]
       },
       [],
-      "Guided readings in Chinese literature in the vernacular with regular individual conferences and a paper.",
+      "For students participating in the Traveling Scholar Program.",
       []
     ]
   },
@@ -513,7 +343,11 @@
       "1400 - 1750",
       "1530 - 1720",
       "1930 - 2150",
-      "1730 - 1950"
+      "1730 - 1950",
+      "1600 - 1850",
+      "1800 - 2050",
+      "0900 - 1120",
+      "1600 - 1900"
     ],
     "dateRanges": [],
     "scheduleTypes": [

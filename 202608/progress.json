@@ -4,7 +4,7 @@
   "year": "2026",
   "term": "fall",
   "startedAt": 1779076555190,
-  "lastUpdated": 1779076900014,
+  "lastUpdated": 1779077070162,
   "totalSubjects": 185,
   "totalCourses": 4495,
   "subjects": [
@@ -18593,19 +18593,36 @@
     "CEE",
     "CGGE",
     "CHBE",
-    "CHEM"
+    "CHEM",
+    "CHIN",
+    "CHP",
+    "CI",
+    "CIC",
+    "CLCV",
+    "CLE",
+    "CMN",
+    "CPSC",
+    "CS",
+    "CSE",
+    "CW",
+    "CWL",
+    "CZCH",
+    "DANC",
+    "DTX",
+    "EALC",
+    "ECE"
   ],
   "partialSubjects": {
-    "CHIN": {
-      "completed": 6,
-      "total": 7,
+    "ECON": {
+      "completed": 30,
+      "total": 45,
       "lastCourse": "ABORTED"
     }
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 989,
-    "failedCourses": 2,
+    "successfulCourses": 1606,
+    "failedCourses": 3,
     "rateLimitCount": 0
   }
 }
