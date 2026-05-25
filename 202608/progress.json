@@ -4,7 +4,7 @@
   "year": "2026",
   "term": "fall",
   "startedAt": 1779076555190,
-  "lastUpdated": 1779681989896,
+  "lastUpdated": 1779682149797,
   "totalSubjects": 185,
   "totalCourses": 4495,
   "subjects": [
@@ -18663,19 +18663,37 @@
     "LA",
     "LAS",
     "LAST",
-    "LAT"
+    "LAT",
+    "LAW",
+    "LCTL",
+    "LEAD",
+    "LER",
+    "LING",
+    "LLS",
+    "MACS",
+    "MATH",
+    "MBA",
+    "MCB",
+    "MDIA",
+    "MDVL",
+    "ME",
+    "MICR",
+    "MILS",
+    "MIP",
+    "MSE",
+    "MUS"
   ],
   "partialSubjects": {
-    "LAW": {
-      "completed": 13,
-      "total": 39,
+    "MUSC": {
+      "completed": 53,
+      "total": 122,
       "lastCourse": "ABORTED"
     }
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 2808,
-    "failedCourses": 5,
+    "successfulCourses": 3383,
+    "failedCourses": 6,
     "rateLimitCount": 0
   }
 }
