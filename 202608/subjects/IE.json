@@ -1,0 +1,1981 @@
+{
+  "subject": "IE",
+  "scrapedAt": 1779681934220,
+  "courseCount": 28,
+  "courses": {
+    "IE 199": [
+      "Undergraduate Open Seminar",
+      {
+        "": [
+          "10438",
+          [
+            [
+              9,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      null,
+      []
+    ],
+    "IE 297": [
+      "Independent Study",
+      {
+        "": [
+          "55119",
+          [
+            [
+              9,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Individual investigations of any phase of Industrial Engineering.",
+      []
+    ],
+    "IE 300": [
+      "Analysis of Data",
+      {
+        "AD1": [
+          "51894",
+          [
+            [
+              24,
+              "M",
+              "L440 Digital Computer Laboratory",
+              28,
+              [
+                "Cho, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AD2": [
+          "51896",
+          [
+            [
+              24,
+              "W",
+              "L440 Digital Computer Laboratory",
+              28,
+              [
+                "Rajopanth, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AD3": [
+          "53219",
+          [
+            [
+              4,
+              "M",
+              "L440 Digital Computer Laboratory",
+              28,
+              [
+                "Cho, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AD4": [
+          "57756",
+          [
+            [
+              4,
+              "T",
+              "L440 Digital Computer Laboratory",
+              28,
+              [
+                "Anzoom, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "30395",
+          [
+            [
+              21,
+              "TR",
+              "103 Transportation Building",
+              30,
+              [
+                "Beck, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "BD1": [
+          "51895",
+          [
+            [
+              24,
+              "T",
+              "L440 Digital Computer Laboratory",
+              28,
+              [
+                "Anzoom, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "BD2": [
+          "51898",
+          [
+            [
+              24,
+              "R",
+              "L440 Digital Computer Laboratory",
+              28,
+              [
+                "Zhu, X"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "BD3": [
+          "53221",
+          [
+            [
+              4,
+              "W",
+              "L440 Digital Computer Laboratory",
+              28,
+              [
+                "Rajopanth, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "BD4": [
+          "57757",
+          [
+            [
+              4,
+              "R",
+              "L440 Digital Computer Laboratory",
+              28,
+              [
+                "Zhu, X"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "BL1": [
+          "53217",
+          [
+            [
+              3,
+              "MWF",
+              "3025 Campus Instructional Facility",
+              22,
+              [
+                "Hanasusanto, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Nature of probabilistic models for observed data; discrete and continuous distribution function models; inferences on universe parameters based on sample values; control charts, acceptance sampling, and measurement theory.",
+      []
+    ],
+    "IE 360": [
+      "Facilities Planning and Design",
+      {
+        "AB1": [
+          "61504",
+          [
+            [
+              41,
+              "W",
+              "106B3 Engineering Hall",
+              12,
+              [
+                "Eraslan, E",
+                "Gupta, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AB2": [
+          "61505",
+          [
+            [
+              41,
+              "R",
+              "106B3 Engineering Hall",
+              12,
+              [
+                "Eraslan, E",
+                "Gupta, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AB3": [
+          "70699",
+          [
+            [
+              17,
+              "F",
+              "1035 Campus Instructional Facility",
+              22,
+              [
+                "Eraslan, E",
+                "Gupta, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "61503",
+          [
+            [
+              2,
+              "MW",
+              "4025 Campus Instructional Facility",
+              22,
+              [
+                "Gupta, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Facility planning, plant layout design, and materials handling analysis; determination of facilities requirements, site selection, materials flow, use of analytical and computerized techniques including simulation, and applications to areas such as manufacturing, warehousing, and office planning.",
+      []
+    ],
+    "IE 310": [
+      "Deterministic Models in Optimization",
+      {
+        "AE1": [
+          "31822",
+          [
+            [
+              11,
+              "TR",
+              "Location Pending",
+              7,
+              [
+                "Chandrasekaran, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Linear Optimization - Simplex method, duality, and sensitivity analysis, Transportation and Assignment Problems, Network Optimization Models, Dynamic Programming, Nonlinear optimization, and Discrete optimization.",
+      []
+    ],
+    "IE 397": [
+      "Independent Study",
+      {
+        "": [
+          "62672",
+          [
+            [
+              9,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Individual investigations or studies of any phase of Industrial Engineering.",
+      []
+    ],
+    "IE 400": [
+      "Design & Anlys of Experiments",
+      {
+        "A": [
+          "70689",
+          [
+            [
+              8,
+              "MW",
+              "ONLINE",
+              7,
+              [
+                "King, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "X": [
+          "30400",
+          [
+            [
+              8,
+              "MW",
+              "ONLINE",
+              7,
+              [
+                "King, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Concepts and methods of design of experiments for quality design, improvement and control. Simple comparative experiments, including concepts of randomization and blocking, and analysis of variance techniques; factorial and fractional factorial designs; Taguchi's concepts and methods; second-order designs; response surface methodology. Engineering applications and case studies.",
+      []
+    ],
+    "IE 405": [
+      "Computing for ISE",
+      {
+        "G": [
+          "71533",
+          [
+            [
+              21,
+              "TR",
+              "114 Transportation Building",
+              30,
+              [
+                "Garg, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "U": [
+          "71532",
+          [
+            [
+              21,
+              "TR",
+              "114 Transportation Building",
+              30,
+              [
+                "Garg, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduces students to algorithm design, computer programming in C++, and database SQL queries. Provides the fundamental methods, concepts and principles of these topics to give students enough breadth to use these techniques in their jobs and to prepare them to pursue advanced topics in these areas. There will be weekly programming assignments to implement algorithms and SQL covered in the class.",
+      []
+    ],
+    "IE 410": [
+      "Advanced Topics in Stochastic Processes & Applications",
+      {
+        "E": [
+          "30396",
+          [
+            [
+              35,
+              "MW",
+              "1310 Digital Computer Laboratory",
+              28,
+              [
+                "Jacobson, S"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              34,
+              "MW",
+              "1310 Digital Computer Laboratory",
+              28,
+              [
+                "Jacobson, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "G": [
+          "58068",
+          [
+            [
+              35,
+              "MW",
+              "1310 Digital Computer Laboratory",
+              28,
+              [
+                "Jacobson, S"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              34,
+              "MW",
+              "1310 Digital Computer Laboratory",
+              28,
+              [
+                "Jacobson, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Modeling and analysis of stochastic processes. Transient and steady-state behavior of continuous-time Markov chains; renewal processes; models of queuing systems (birth-and-death models, embedded-Markov-chain models, queuing networks); reliability models; inventory models. Familiarity with discrete-time Markov chains, Poisson processes, and birth-and-death processes is assumed.",
+      []
+    ],
+    "IE 411": [
+      "Optimization of Large Systems",
+      {
+        "A": [
+          "62888",
+          [
+            [
+              8,
+              "TR",
+              "101 Transportation Building",
+              30,
+              [
+                "Marla, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "62889",
+          [
+            [
+              8,
+              "TR",
+              "101 Transportation Building",
+              30,
+              [
+                "Marla, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Practical methods of optimization of large-scale linear systems including extreme point algorithms, duality theory, parametric linear programming, generalized upper bounding technique, price-directive and resource-directive decomposition techniques, Lagrangian duality, Karmarkar's algorithm, applications in engineering systems, and use of state-of-the-art computer codes.",
+      []
+    ],
+    "IE 412": [
+      "OR Models for Mfg Systems",
+      {
+        "D": [
+          "30397",
+          [
+            [
+              7,
+              "TR",
+              "101 Transportation Building",
+              30,
+              [
+                "King, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "69492",
+          [
+            [
+              9,
+              "",
+              "ONLINE",
+              7,
+              [
+                "King, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Operations research techniques applied to problems in manufacturing and distribution. Single and multi-stage lot sizing problems, scheduling and sequencing problems, and performance evaluation of manufacturing systems.",
+      []
+    ],
+    "IE 421": [
+      "High Frequency Trading Technology",
+      {
+        "A": [
+          "77289",
+          [
+            [
+              65,
+              "W",
+              "1310 Digital Computer Laboratory",
+              28,
+              [
+                "Lariviere, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "79612",
+          [
+            [
+              65,
+              "W",
+              "ONLINE",
+              7,
+              [
+                "Lariviere, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Teaches students both the core concepts and underlying mechanics of, step by step, message by message, bit for bit, exactly how trillions of dollars in notional value are automatically traded daily around the globe, whether it is stocks, bonds, options, futures, currencies, crypto, etc. High Frequency Trading will provide students with an exciting introduction both to the modern world of automated finance and to many exciting technologies that power it. Where does the \"actual\" real-time price of a particular asset come from at any point in time? How exactly is it being calculated and by who or what? Is there even a single price or are there multiple, and are any of those prices actually correct? Just how fast can modern traders process market data or execute trades and how do they accomplish this?",
+      []
+    ],
+    "IE 441": [
+      "Work and Organization Design",
+      {
+        "AW": [
+          "79459",
+          [
+            [
+              8,
+              "TR",
+              "Location Pending",
+              7,
+              [
+                "Wooldridge, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "In Work and Organization Design, we will learn about models and theories of work and organization design. By the end of the class you will be able to distinguish between good and bad jobs, including important characteristics of organizations, based on empiric evidence. This class will also provide tools and skills to analyze and redesign jobs to make bad jobs into good ones. We will discuss various implementation strategies to intelligently apply redesigns, which improves their success.",
+      []
+    ],
+    "IE 445": [
+      "Human Performance and Cognition in Context",
+      {
+        "AG4": [
+          "37985",
+          [
+            [
+              8,
+              "TR",
+              "166 Wohlers Hall",
+              3,
+              [
+                "Cromley, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "AU3": [
+          "42726",
+          [
+            [
+              8,
+              "TR",
+              "166 Wohlers Hall",
+              3,
+              [
+                "Cromley, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "GO": [
+          "75064",
+          [
+            [
+              9,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Cromley, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "UGO": [
+          "75063",
+          [
+            [
+              9,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Cromley, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as EPSY 456 and PSYC 456. See EPSY 456.",
+      []
+    ],
+    "IE 497": [
+      "Independent Study",
+      {
+        "": [
+          "10441",
+          [
+            [
+              9,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Independent study of advanced problems related to industrial engineering.",
+      []
+    ],
+    "IE 498": [
+      "Special Topics",
+      {
+        "AI1": [
+          "70464",
+          [
+            [
+              8,
+              "TR",
+              "Location Pending",
+              7,
+              [
+                "Ray Chaudhury, B",
+                "Xu, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "AI2": [
+          "70465",
+          [
+            [
+              8,
+              "TR",
+              "Location Pending",
+              7,
+              [
+                "Ray Chaudhury, B",
+                "Xu, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "ML": [
+          "76213",
+          [
+            [
+              0,
+              "TR",
+              "Location Pending",
+              7,
+              [
+                "Murphy, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "MM": [
+          "48514",
+          [
+            [
+              8,
+              "TR",
+              "218 Ceramics Building",
+              32,
+              [
+                "Murphy, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "SC": [
+          "50209",
+          [
+            [
+              75,
+              "S",
+              "Location Pending",
+              7,
+              [
+                "Prasad, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Subject offerings of new and developing areas of knowledge in industrial engineering intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites.",
+      []
+    ],
+    "IE 518": [
+      "Queueing Systems",
+      {
+        "A": [
+          "73947",
+          [
+            [
+              21,
+              "TR",
+              "203 Transportation Building",
+              30,
+              [
+                "Stolyar, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "An introduction to queueing systems and their applications in engineering. Topics include both classical single-stage models and queueing networks. Students will learn how to apply key ideas and methods of queueing theory, such as: Markov processes, embedded Markov chains, PASTA property, reversibility, productform stationary distributions, stochastic stability, asymptotic analysis.",
+      []
+    ],
+    "IE 517": [
+      "Machine Learning in Finance Lab",
+      {
+        "A": [
+          "74048",
+          [
+            [
+              0,
+              "TR",
+              "1302 Siebel Center for Comp Sci",
+              19,
+              [
+                "Murphy, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Machine Learning includes the design and the study of algorithms that can learn from experience, improve their performance and make predictions. This course is designed specifically and exclusively for MSFE first semester students. It features rigorous coding exercises in Python and acts as preparation for later courses. Students will learn the concepts behind different supervised machine learning algorithms and implement them in Python using advanced packages; pandas, NumPy, and scikit-learn. All the data for this course features unique real-world financial datasets.",
+      []
+    ],
+    "IE 521": [
+      "Convex Optimization",
+      {
+        "A": [
+          "60067",
+          [
+            [
+              33,
+              "MW",
+              "2018 Campus Instructional Facility",
+              22,
+              [
+                "Dong, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "81765",
+          [
+            [
+              9,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Dong, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Finite dimensional convex optimization problems; characterization of optimal solutions; iterative algorithms for differentiable and nondifferentiable problems; distributed optimization algorithms; robust problems and solutions; applications of convex optimization models.",
+      []
+    ],
+    "IE 522": [
+      "Statistical Methods in Finance",
+      {
+        "B": [
+          "77432",
+          [
+            [
+              182,
+              "MW",
+              "103 Transportation Building",
+              30,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Statistical tools that are fundamental for financial modeling, analyzing financial data and further studies in financial engineering. Topics include summary statistics, statistical plots, point estimation, accuracy and precision, confidence interval, Monte Carlo simulation, maximum likelihood estimation, normal mixture, resampling, hypothesis testing, simple linear regression, multiple linear regression, variable selection, regression diagnostics, autocorrelation, moving average models, filtering, autoregressive models, ARIMA, forecasting, and selected additional topics. Implementations are done using R.",
+      []
+    ],
+    "IE 523": [
+      "Financial Computing",
+      {
+        "B": [
+          "55482",
+          [
+            [
+              37,
+              "MW",
+              "2039 Campus Instructional Facility",
+              22,
+              [
+                "Vogiatzis, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Review of C++ programming: structures, classes, I/O, C++ standard libraries, Recursion. Linear Algebra tools and MILP solvers in C++. Computational aspects of probability, statistics and simulation in C++. Methods: Root-finding, Taylor's Expansion, FFTs, Dynamic Programming, Monte Carlo Methods. Financial computing case studies in C++.",
+      []
+    ],
+    "IE 527": [
+      "MSFE Professional Development",
+      {
+        "ML1": [
+          "65199",
+          [
+            [
+              3,
+              "M",
+              "4035 Campus Instructional Facility",
+              22,
+              [
+                "Feng, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Preparing MSFE students for successful careers in financial engineering. Topics include financial engineering career paths, MSFE concentrations and electives, preparing resumes and cover letters, interview procedures and preparation, networking, and job offer and salary negotiation. Lectures will be supplemented with seminars given by MSFE alumni, MSFE practicum project sponsors, and practitioners. They will give insights on financial markets, employment opportunities, market trends, internship and full-time job searching, and much more.",
+      []
+    ],
+    "IE 524": [
+      "Optimization in Finance",
+      {
+        "A": [
+          "60072",
+          [
+            [
+              146,
+              "TR",
+              "106B8 Engineering Hall",
+              12,
+              [
+                "Wang, Q"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "73988",
+          [
+            [
+              146,
+              "TR",
+              "106B8 Engineering Hall",
+              12,
+              [
+                "Wang, Q"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Basic optimization models, theory and methods for financial engineering including linear, quadratic, nonlinear, dynamic integer, and stochastic programming; applications to portfolio selection, index fund tracking, asset management, arbitrage detection, option pricing and risk management; optimization software for classes of optimization problems. Projects requiring building optimization models based on financial market data and solutions using optimization solvers.",
+      []
+    ],
+    "IE 532": [
+      "Analysis of Network Data",
+      {
+        "AN": [
+          "68237",
+          [
+            [
+              8,
+              "TR",
+              "144 Loomis Laboratory",
+              39,
+              [
+                "Vogiatzis, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "69491",
+          [
+            [
+              9,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Vogiatzis, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "This course will focus on statistical aspects analyzing network data. It will review illustrative problems relating to aggregation of information, decision-making, and inference tasks over various graphical models and networks. Prerequisite: MATH 412. ISE graduate students and students enrolled in the Master of Science in Advanced Analytics (MCAA) are eligible to take the course.",
+      []
+    ],
+    "IE 583": [
+      "MSFE Practicum Project",
+      {
+        "A": [
+          "78429",
+          [
+            [
+              182,
+              "F",
+              "Location Pending",
+              7,
+              [
+                "Feng, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Application of mathematical, statistical, computing, machine learning and data analytics tools to a real life financial engineering team project sponsored by the industry. Projects in each semester are different and may require different skill sets. Regular meetings with the sponsor required.",
+      []
+    ],
+    "IE 597": [
+      "Independent Study",
+      {
+        "": [
+          "10445",
+          [
+            [
+              9,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Independent study of advanced problems related to industrial engineering.",
+      []
+    ],
+    "IE 590": [
+      "Seminar",
+      {
+        "A": [
+          "30404",
+          [
+            [
+              2,
+              "F",
+              "2310 Everitt Laboratory",
+              31,
+              [
+                "Dong, R",
+                "Jones, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "70950",
+          [
+            [
+              2,
+              "F",
+              "ONLINE",
+              7,
+              [
+                "Jones, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Presentation and discussion of significant developments in industrial engineering.",
+      []
+    ],
+    "IE 598": [
+      "Special Topics",
+      {
+        "RS": [
+          "50019",
+          [
+            [
+              21,
+              "TR",
+              "Location Pending",
+              7,
+              [
+                "Sreenivas, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "SC": [
+          "79961",
+          [
+            [
+              75,
+              "S",
+              "Location Pending",
+              7,
+              [
+                "Prasad, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "YYL": [
+          "60476",
+          [
+            [
+              8,
+              "TR",
+              "1024 Lincoln Hall",
+              10,
+              [
+                "Li, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Subject offerings of new and developing areas of knowledge in industrial engineering intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites.",
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "0930 - 1050",
+      "0900 - 0950",
+      "1000 - 1050",
+      "1100 - 1150",
+      "1200 - 1250",
+      "1300 - 1350",
+      "1400 - 1450",
+      "1230 - 1350",
+      "1400 - 1520",
+      "ARRANGED",
+      "1600 - 1720",
+      "1100 - 1220",
+      "1400 - 1550",
+      "0930 - 1045",
+      "1630 - 1745",
+      "1400 - 1650",
+      "1300 - 1520",
+      "1300 - 1450",
+      "0800 - 0950",
+      "1000 - 1150",
+      "1500 - 1750",
+      "1530 - 1650",
+      "0800 - 0850",
+      "0800 - 0920",
+      "1700 - 1750",
+      "2000 - 2050",
+      "1300 - 1650",
+      "0830 - 0920",
+      "0800 - 1250",
+      "1100 - 1250",
+      "1500 - 1650",
+      "1000 - 1120",
+      "1430 - 1550",
+      "1300 - 1420",
+      "1500 - 1550",
+      "1600 - 1650",
+      "1200 - 1320",
+      "1500 - 1620",
+      "0900 - 1020",
+      "0900 - 1050",
+      "1700 - 1950",
+      "1600 - 1750",
+      "1030 - 1150",
+      "0830 - 0950",
+      "1800 - 1930",
+      "1330 - 1520",
+      "1730 - 1830",
+      "1230 - 1320",
+      "1500 - 1615",
+      "1700 - 1820",
+      "1230 - 1520",
+      "1200 - 1450",
+      "1100 - 1350",
+      "1700 - 1850",
+      "1900 - 2050",
+      "1200 - 1350",
+      "1330 - 1445",
+      "1330 - 1450",
+      "0600 - 0720",
+      "0730 - 0850",
+      "0930 - 1120",
+      "1000 - 1240",
+      "1500 - 1700",
+      "1300 - 1550",
+      "0930 - 1020",
+      "1730 - 2030",
+      "1130 - 1300",
+      "1230 - 1420",
+      "0730 - 0920",
+      "0700 - 0950",
+      "1400 - 1540",
+      "1530 - 1700",
+      "1030 - 1320",
+      "0900 - 1250",
+      "1200 - 1550",
+      "0900 - 1150",
+      "1300 - 1750",
+      "1530 - 1820",
+      "1830 - 1950",
+      "0800 - 1050",
+      "1400 - 1640",
+      "0900 - 1140",
+      "1300 - 1540",
+      "0930 - 1210",
+      "1600 - 1840",
+      "1400 - 1720",
+      "1400 - 1600",
+      "1700 - 1940",
+      "1800 - 1950",
+      "1730 - 1850",
+      "1930 - 2050",
+      "1700 - 2000",
+      "1600 - 1715",
+      "0930 - 1220",
+      "1100 - 1450",
+      "1530 - 1920",
+      "1500 - 1850",
+      "0800 - 1150",
+      "0800 - 1700",
+      "1400 - 1515",
+      "1530 - 1645",
+      "1100 - 1215",
+      "1230 - 1345",
+      "1700 - 1815",
+      "1830 - 1945",
+      "1330 - 1500",
+      "1400 - 1750",
+      "1530 - 1720",
+      "1930 - 2150",
+      "1730 - 1950",
+      "1600 - 1850",
+      "1800 - 2050",
+      "0900 - 1120",
+      "1600 - 1900",
+      "1530 - 1620",
+      "1830 - 2030",
+      "1100 - 1200",
+      "1300 - 1440",
+      "1830 - 2100",
+      "1400 - 1700",
+      "0900 - 1200",
+      "1630 - 1800",
+      "1830 - 2000",
+      "1700 - 1830",
+      "1900 - 2000",
+      "1700 - 1800",
+      "1800 - 1850",
+      "1200 - 1300",
+      "1300 - 1415",
+      "1600 - 1700",
+      "1300 - 1400",
+      "1100 - 1145",
+      "1245 - 1345",
+      "1400 - 1630",
+      "1400 - 1620",
+      "1500 - 1720",
+      "0900 - 1030",
+      "1035 - 1150",
+      "1040 - 1150",
+      "1430 - 1630",
+      "0800 - 0900",
+      "1430 - 1545",
+      "1030 - 1200",
+      "1200 - 1420",
+      "1105 - 1345",
+      "1430 - 1620",
+      "1500 - 1640",
+      "1430 - 1720",
+      "1900 - 1950",
+      "1530 - 1550",
+      "0800 - 1500",
+      "1600 - 1630",
+      "0800 - 1200",
+      "1000 - 1700",
+      "1530 - 1750",
+      "1600 - 1730",
+      "1500 - 1800",
+      "1420 - 1640",
+      "0900 - 1100",
+      "1730 - 2020",
+      "1730 - 2120",
+      "1900 - 2150",
+      "1700 - 2050",
+      "1800 - 1920",
+      "0830 - 1350",
+      "1530 - 1710",
+      "1000 - 1250",
+      "1800 - 2000",
+      "1230 - 1450",
+      "1600 - 1820",
+      "1400 - 1545",
+      "1800 - 2100",
+      "1000 - 1200",
+      "1000 - 1220",
+      "1530 - 1630",
+      "1115 - 1205",
+      "1010 - 1100",
+      "1630 - 1750",
+      "1800 - 2020",
+      "1030 - 1120",
+      "1900 - 2020",
+      "1730 - 2000",
+      "0900 - 1040"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Lecture-Discussion",
+      "Discussion/ Recitation",
+      "Lecture",
+      "Online",
+      "Online Lecture",
+      "Laboratory",
+      "Laboratory-Discussion",
+      "Independent Study",
+      "Online Discussion",
+      "Internship",
+      "Conference",
+      "Travel",
+      "Seminar",
+      "Study Abroad",
+      "Research",
+      "Online Lab",
+      "Studio",
+      "Practice",
+      "Quiz",
+      "Online Lecture Discussion"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": 40.107534,
+        "long": -88.2281548
+      },
+      {
+        "lat": 40.104794,
+        "long": -88.224264
+      },
+      {
+        "lat": 40.103587,
+        "long": -88.230606
+      },
+      {
+        "lat": 40.103620555545135,
+        "long": -88.22982720445013
+      },
+      {
+        "lat": 40.10628,
+        "long": -88.22621
+      },
+      {
+        "lat": 40.105732,
+        "long": -88.2281018
+      },
+      {
+        "lat": 40.1047599,
+        "long": -88.2319514
+      },
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.1035833,
+        "long": -88.228405
+      },
+      {
+        "lat": 40.1072225,
+        "long": -88.2262016
+      },
+      {
+        "lat": 40.1065684,
+        "long": -88.2281746
+      },
+      {
+        "lat": 40.10783362157985,
+        "long": -88.22476189569741
+      },
+      {
+        "lat": 40.1108856,
+        "long": -88.2269806
+      },
+      {
+        "lat": 40.1083446,
+        "long": -88.2282555
+      },
+      {
+        "lat": 40.1020773,
+        "long": -88.2296394
+      },
+      {
+        "lat": 40.103627234541904,
+        "long": -88.22601765311099
+      },
+      {
+        "lat": 40.1033599,
+        "long": -88.2292111
+      },
+      {
+        "lat": 40.106778040727896,
+        "long": -88.2194617156191
+      },
+      {
+        "lat": 40.102726858556835,
+        "long": -88.23259991223857
+      },
+      {
+        "lat": 40.11380515934119,
+        "long": -88.22490788390387
+      },
+      {
+        "lat": 40.1035872,
+        "long": -88.2306061
+      },
+      {
+        "lat": 40.0995003,
+        "long": -88.223104
+      },
+      {
+        "lat": 40.11246109008789,
+        "long": -88.22831726074219
+      },
+      {
+        "lat": 40.10127390836906,
+        "long": -88.2226073524728
+      },
+      {
+        "lat": 40.1034533,
+        "long": -88.2327596
+      },
+      {
+        "lat": 40.108419421661715,
+        "long": -88.2261156301609
+      },
+      {
+        "lat": 40.1022093629303,
+        "long": -88.22800864058527
+      },
+      {
+        "lat": 40.107811,
+        "long": -88.2260761
+      },
+      {
+        "lat": 40.1131317,
+        "long": -88.2264552
+      },
+      {
+        "lat": 40.110811306674734,
+        "long": -88.2248467072371
+      },
+      {
+        "lat": 40.11171215875622,
+        "long": -88.22530849701589
+      },
+      {
+        "lat": 40.1109722,
+        "long": -88.2282631
+      },
+      {
+        "lat": 40.111691,
+        "long": -88.2242511
+      },
+      {
+        "lat": 40.1149296,
+        "long": -88.2280589
+      },
+      {
+        "lat": 40.10755766472843,
+        "long": -88.22995430218522
+      },
+      {
+        "lat": 40.1149521,
+        "long": -88.2267561
+      },
+      {
+        "lat": 40.101862,
+        "long": -88.231737
+      },
+      {
+        "lat": 40.092875494224195,
+        "long": -88.22082220247309
+      },
+      {
+        "lat": 40.10944320239664,
+        "long": -88.22602522743233
+      },
+      {
+        "lat": 40.1110937,
+        "long": -88.2232348
+      },
+      {
+        "lat": 40.11397164321797,
+        "long": -88.2265192685827
+      },
+      {
+        "lat": 40.11085653938169,
+        "long": -88.22609810215927
+      },
+      {
+        "lat": 40.108570819242026,
+        "long": -88.22518453938676
+      },
+      {
+        "lat": 40.10764262805109,
+        "long": -88.23074052515514
+      },
+      {
+        "lat": 40.10593795776367,
+        "long": -88.2270736694336
+      },
+      {
+        "lat": 40.105587640130146,
+        "long": -88.22025111416733
+      },
+      {
+        "lat": 40.10802885201532,
+        "long": -88.22239700364068
+      },
+      {
+        "lat": 40.11180304465921,
+        "long": -88.22613003543475
+      },
+      {
+        "lat": 40.1028373,
+        "long": -88.2251326
+      },
+      {
+        "lat": 40.10623714823253,
+        "long": -88.2232659093846
+      },
+      {
+        "lat": 40.1048704,
+        "long": -88.2229036
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}
