@@ -4,7 +4,7 @@
   "year": "2026",
   "term": "summer",
   "startedAt": 1779682465089,
-  "lastUpdated": 1780287891458,
+  "lastUpdated": 1780288051396,
   "totalSubjects": 150,
   "totalCourses": 148,
   "subjects": [
@@ -942,19 +942,31 @@
     "AFST",
     "AGED",
     "AHS",
-    "ANSC"
+    "ANSC",
+    "ANTH",
+    "ARAB",
+    "ARCH",
+    "ART",
+    "ARTD",
+    "ARTE",
+    "ARTF",
+    "ARTH",
+    "ARTS",
+    "ASRM",
+    "ASST",
+    "ASTR"
   ],
   "partialSubjects": {
-    "ANTH": {
-      "completed": 3,
-      "total": 17,
+    "ATMS": {
+      "completed": 5,
+      "total": 10,
       "lastCourse": "ABORTED"
     }
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 71,
-    "failedCourses": 3,
+    "successfulCourses": 143,
+    "failedCourses": 4,
     "rateLimitCount": 0
   }
 }
