@@ -1,7 +1,7 @@
 {
   "subject": "AE",
-  "scrapedAt": 1780287731553,
-  "courseCount": 3,
+  "scrapedAt": 1780287884381,
+  "courseCount": 8,
   "courses": {
     "AE 199": [
       "Undergraduate Open Seminar",
@@ -92,6 +92,244 @@
       [],
       "Independent theoretical and experimental projects in aerospace engineering.",
       []
+    ],
+    "AE 402": [
+      "Orbital Mechanics",
+      {
+        "AO": [
+          "38842",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Panag, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "42270",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Panag, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Analysis of orbits in an inverse-square gravitational field; elementary rocket dynamics, impulsive orbit transfer and rendezvous, and Lambert's Theorem with applications; patched-conic trajectories, planetary gravity-assist maneuvers, and linearized orbit theory with application to simplified analytical models; perturbations.",
+      []
+    ],
+    "AE 419": [
+      "Aircraft Flight Mechanics",
+      {
+        "A": [
+          "42353",
+          [
+            [
+              5,
+              "MTR",
+              "403B2 Engineering Hall",
+              2,
+              [
+                "Gupta, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "AO": [
+          "42354",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Gupta, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "42355",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Gupta, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Steady and quasi-steady aircraft flight performance; take-off and landing, climbing and diving, cruise, level turn, and energy methods; longitudinal, directional, and lateral static stability and control; longitudinal and lateral motion and dynamic stability.",
+      []
+    ],
+    "AE 420": [
+      "Finite Element Analysis",
+      {
+        "ON1": [
+          "41864",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Chew, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "ONC": [
+          "39995",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Chew, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as CSE 451 and ME 471. See ME 471.",
+      []
+    ],
+    "AE 497": [
+      "Independent Study",
+      {
+        "": [
+          "10019",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Independent theoretical and experimental projects in aerospace engineering.",
+      []
+    ],
+    "AE 597": [
+      "Independent Study",
+      {
+        "": [
+          "10021",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Independent theoretical and experimental projects in aerospace engineering.",
+      []
     ]
   },
   "caches": {
@@ -100,7 +338,8 @@
       "1230 - 1350",
       "1400 - 1520",
       "1100 - 1220",
-      "0930 - 1050"
+      "0930 - 1050",
+      "1330 - 1450"
     ],
     "dateRanges": [],
     "scheduleTypes": [
@@ -123,6 +362,10 @@
       {
         "lat": 40.1035872,
         "long": -88.2306061
+      },
+      {
+        "lat": 40.1108856,
+        "long": -88.2269806
       }
     ],
     "finalDates": [],

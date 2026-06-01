@@ -4,7 +4,7 @@
   "year": "2026",
   "term": "summer",
   "startedAt": 1779682465089,
-  "lastUpdated": 1780287731553,
+  "lastUpdated": 1780287891458,
   "totalSubjects": 150,
   "totalCourses": 148,
   "subjects": [
@@ -935,19 +935,26 @@
     "ACCY",
     "ACE",
     "ACES",
-    "ADV"
+    "ADV",
+    "AE",
+    "AFAS",
+    "AFRO",
+    "AFST",
+    "AGED",
+    "AHS",
+    "ANSC"
   ],
   "partialSubjects": {
-    "AE": {
+    "ANTH": {
       "completed": 3,
-      "total": 8,
+      "total": 17,
       "lastCourse": "ABORTED"
     }
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 46,
-    "failedCourses": 2,
+    "successfulCourses": 71,
+    "failedCourses": 3,
     "rateLimitCount": 0
   }
 }
