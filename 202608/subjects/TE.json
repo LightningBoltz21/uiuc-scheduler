@@ -1,529 +1,411 @@
 {
-  "subject": "REL",
-  "scrapedAt": 1781499052748,
-  "courseCount": 24,
+  "subject": "TE",
+  "scrapedAt": 1781499148052,
+  "courseCount": 19,
   "courses": {
-    "REL 101": [
-      "Bible as Literature",
+    "TE 100": [
+      "Introduction to Innovation, Leadership and Engineering Entrepreneurship",
       {
         "A": [
-          "67740",
+          "69144",
           [
             [
-              3,
-              "MWF",
-              "136 Davenport Hall",
-              21,
+              2,
+              "T",
+              "2320 Digital Computer Laboratory",
+              24,
               [
-                "Layton, R"
+                "Jahnke, K"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          3,
-          2,
+          1,
+          5,
           0,
           [],
           -1
         ]
       },
       [],
-      "[IAI Code: H5901] Themes and literary genres in the Bible, emphasizing content important in Western culture.",
+      "Students will learn about innovation, identify key attributes of innovation leadership, and practice innovation leadership personally and professionally. Students will identify opportunities and work in teams to address them, practicing leadership and followership and honing their written and verbal presentation skills. Students also complete a personal plan for continuing to develop their innovation leadership skills. Open to all majors.",
       []
     ],
-    "REL 104": [
-      "Asian Mythology",
+    "TE 200": [
+      "Introduction to Innovation",
       {
-        "ADA": [
-          "68182",
+        "B1": [
+          "63099",
+          [
+            [
+              7,
+              "W",
+              "94AB Illinois Street Residence Lng",
+              4,
+              [
+                "Koon, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "B2": [
+          "63100",
           [
             [
               4,
-              "F",
-              "310 David Kinley Hall",
-              6,
-              [
-                "Unassigned Instructor"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "ADB": [
-          "68183",
-          [
-            [
-              3,
-              "F",
-              "336 Davenport Hall",
-              21,
-              [
-                "Unassigned Instructor"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "ADD": [
-          "68185",
-          [
-            [
-              6,
-              "R",
-              "G24 Literatures, Cultures, & Ling",
-              15,
-              [
-                "Unassigned Instructor"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "ADI": [
-          "68190",
-          [
-            [
-              2,
-              "F",
-              "166 Education Building",
-              10,
-              [
-                "Unassigned Instructor"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "ADL": [
-          "68193",
-          [
-            [
+              "W",
+              "89 Illinois Street Residence Lng",
               4,
-              "F",
-              "144 Armory",
-              0,
               [
-                "Unassigned Instructor"
+                "Kasdan, T"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          3,
+          1,
           0,
           0,
           [],
           -1
         ],
-        "ADM": [
-          "68194",
+        "B3": [
+          "73901",
           [
             [
               5,
-              "F",
-              "385 Education Building",
-              10,
-              [
-                "Unassigned Instructor"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "AL1": [
-          "68127",
-          [
-            [
-              2,
-              "MW",
-              "116 Roger Adams Laboratory",
-              40,
-              [
-                "Newman, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          2,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Introductory survey of the mythologies of India, China, and Japan.",
-      []
-    ],
-    "REL 110": [
-      "World Religions",
-      {
-        "ADA": [
-          "67749",
-          [
-            [
+              "W",
+              "89 Illinois Street Residence Lng",
               4,
-              "R",
-              "1030 Literatures, Cultures, & Ling",
-              15,
               [
-                "Unassigned Instructor"
+                "Kasdan, T"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          3,
+          1,
           0,
           0,
           [],
           -1
         ],
-        "ADB": [
-          "67750",
+        "B4": [
+          "73902",
           [
             [
-              5,
-              "R",
-              "1030 Literatures, Cultures, & Ling",
-              15,
-              [
-                "Unassigned Instructor"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "ADC": [
-          "67751",
-          [
-            [
-              3,
-              "F",
-              "429 Armory",
-              0,
-              [
-                "Unassigned Instructor"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "ADE": [
-          "67753",
-          [
-            [
-              6,
-              "R",
-              "136 Davenport Hall",
-              21,
-              [
-                "Unassigned Instructor"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "ADF": [
-          "67754",
-          [
-            [
-              6,
-              "R",
-              "132 Davenport Hall",
-              21,
-              [
-                "Unassigned Instructor"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "ADI": [
-          "67757",
-          [
-            [
-              2,
-              "F",
-              "143 Armory",
-              0,
-              [
-                "Unassigned Instructor"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "ADL": [
-          "67761",
-          [
-            [
-              3,
-              "F",
-              "1022 Lincoln Hall",
-              5,
-              [
-                "Unassigned Instructor"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "ADM": [
-          "67762",
-          [
-            [
+              8,
+              "W",
+              "94AB Illinois Street Residence Lng",
               4,
-              "F",
-              "140 Henry Administration Bldg",
-              29,
               [
-                "Unassigned Instructor"
+                "Koon, S"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          3,
+          1,
           0,
           0,
           [],
           -1
         ],
-        "ADO": [
-          "67767",
+        "B5": [
+          "78647",
           [
             [
-              1,
-              "F",
-              "G32 Literatures, Cultures, & Ling",
-              15,
-              [
-                "Unassigned Instructor"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "ADP": [
-          "67768",
-          [
-            [
-              5,
-              "F",
-              "1030 Literatures, Cultures, & Ling",
-              15,
-              [
-                "Unassigned Instructor"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "ADS": [
-          "67771",
-          [
-            [
-              6,
-              "F",
-              "1022 Literatures, Cultures, & Ling",
-              15,
-              [
-                "Unassigned Instructor"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "AL1": [
-          "67741",
-          [
-            [
-              2,
-              "MW",
-              "112 Gregory Hall",
               9,
+              "W",
+              "94AB Illinois Street Residence Lng",
+              4,
               [
-                "Ebel, J"
+                "Koon, S"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          3,
-          5,
+          1,
+          0,
           0,
           [],
           -1
-        ]
-      },
-      [],
-      "[IAI Code: H5904N] Survey of the leading living religions, including Hinduism, Buddhism, Confucianism, Taoism, Judaism, Christianity, and Islam; examination of basic texts and of philosophic theological elaborations of each religion.",
-      []
-    ],
-    "REL 160": [
-      "Ancient Greek & Roman Religion",
-      {
-        "B": [
-          "68408",
+        ],
+        "B6": [
+          "78649",
           [
             [
-              28,
-              "MW",
-              "259 English Building",
-              3,
-              [
-                "Tzanetou, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as CLCV 160. See CLCV 160.",
-      []
-    ],
-    "REL 111": [
-      "Elementary Greek I",
-      {
-        "A": [
-          "68348",
-          [
-            [
-              3,
-              "MWF",
-              "1026 Lincoln Hall",
               5,
+              "T",
+              "94AB Illinois Street Residence Lng",
+              4,
               [
-                "Mylli, E",
-                "Reeber, J"
+                "Sharifironizi, M"
               ],
               -1,
               -1,
               -1
-            ],
+            ]
+          ],
+          1,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "B7": [
+          "78648",
+          [
+            [
+              6,
+              "T",
+              "94AB Illinois Street Residence Lng",
+              4,
+              [
+                "Sharifironizi, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "D1": [
+          "63097",
+          [
+            [
+              7,
+              "W",
+              "94AB Illinois Street Residence Lng",
+              4,
+              [
+                "Koon, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "D2": [
+          "73672",
+          [
+            [
+              4,
+              "W",
+              "89 Illinois Street Residence Lng",
+              4,
+              [
+                "Kasdan, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "D3": [
+          "73673",
+          [
+            [
+              5,
+              "W",
+              "89 Illinois Street Residence Lng",
+              4,
+              [
+                "Kasdan, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "D4": [
+          "73674",
+          [
+            [
+              8,
+              "W",
+              "94AB Illinois Street Residence Lng",
+              4,
+              [
+                "Koon, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "D5": [
+          "76319",
+          [
+            [
+              9,
+              "W",
+              "94AB Illinois Street Residence Lng",
+              4,
+              [
+                "Koon, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "D6": [
+          "77396",
+          [
+            [
+              5,
+              "T",
+              "94AB Illinois Street Residence Lng",
+              4,
+              [
+                "Sharifironizi, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "D7": [
+          "63098",
+          [
+            [
+              6,
+              "T",
+              "94AB Illinois Street Residence Lng",
+              4,
+              [
+                "Sharifironizi, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "D8": [
+          "81005",
+          [
+            [
+              2,
+              "T",
+              "89 Illinois Street Residence Lng",
+              4,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "D9": [
+          "81050",
+          [
+            [
+              3,
+              "T",
+              "89 Illinois Street Residence Lng",
+              4,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Fundamental concepts of entrepreneurship, creativity and innovation will be explored within the context of new and existing businesses. Creative thinking and inventive problem solving will be emphasized.",
+      []
+    ],
+    "TE 198": [
+      "Special Topics",
+      {
+        "FI2": [
+          "80683",
+          [
             [
               10,
-              "MWF",
+              "",
               "ONLINE",
               4,
               [
-                "Mylli, E",
-                "Reeber, J"
+                "Karasek, M"
               ],
               -1,
               -1,
@@ -531,37 +413,36 @@
             ]
           ],
           4,
-          2,
+          7,
           0,
           [],
           -1
         ]
       },
       [],
-      null,
+      "Subject offerings of innovation, creativity, technology and entrepreneurship intended to augment the existing curriculum.",
       []
     ],
-    "REL 200": [
-      "Classical & Koine Greek I",
+    "TE 230": [
+      "Design Thinking/Need-Finding",
       {
-        "A": [
-          "69689",
+        "CLD": [
+          "67832",
           [
             [
-              3,
-              "MWF",
-              "1040 Literatures, Cultures, & Ling",
-              15,
+              31,
+              "MW",
+              "306 Flagg Hall",
+              4,
               [
-                "Reeber, J",
-                "Sotiroudis, P"
+                "Schmit, B"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          4,
+          3,
           5,
           0,
           [],
@@ -569,22 +450,135 @@
         ]
       },
       [],
-      null,
+      "Same as ARTD 230. See ARTD 230.",
       []
     ],
-    "REL 223": [
-      "The Qur'an (Koran)",
+    "TE 250": [
+      "From Idea to Enterprise",
       {
-        "MA": [
-          "71023",
+        "CV": [
+          "75119",
           [
             [
               27,
-              "MW",
-              "336 Davenport Hall",
-              21,
+              "T",
+              "1038 Campus Instructional Facility",
+              18,
               [
-                "Ali, M"
+                "Vodnik, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "JT": [
+          "66578",
+          [
+            [
+              28,
+              "W",
+              "1038 Campus Instructional Facility",
+              18,
+              [
+                "Thode, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Examines the fundamentals of technology entrepreneurship and addresses critical areas of the entrepreneurial process such as: problem and solution identification; validation of product-market fit; market assessment; team formation; product development; intellectual property; financing a technology-based startup. This class combines lecture, discussion & case studies, and is built around a hands-on group project leveraging the lean startup methodology from the National Science Foundation I-Corps program. The class is intended for all students of all disciplines interested in technology entrepreneurship.",
+      []
+    ],
+    "TE 333": [
+      "Creativity, Innovation, Vision",
+      {
+        "C2": [
+          "66676",
+          [
+            [
+              12,
+              "TR",
+              "2320 Digital Computer Laboratory",
+              24,
+              [
+                "Jahnke, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Personal creativity enhancement via exploration of the nature of creativity, how creativity works, and how to envision what others may not. Practice of techniques and processes to enhance personal and group creativity and to nurture a creative lifestyle. Application to a major term project providing the opportunity to move an idea, product, process or service from vision to reality.",
+      []
+    ],
+    "TE 401": [
+      "Developing Breakthrough Projects",
+      {
+        "MS": [
+          "69697",
+          [
+            [
+              11,
+              "T",
+              "2078 Natural History Building",
+              39,
+              [
+                "Sharifironizi, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Project-based exploration with teams of students working together in a large innovation and entrepreneurial context. Encourage development of innovative, leadership, and entrepreneurial skill sets, including financing, marketing, sales, operations, business plans, and management.",
+      []
+    ],
+    "TE 440": [
+      "Engineering City Scholars",
+      {
+        "A": [
+          "78438",
+          [
+            [
+              233,
+              "R",
+              "406 200 S Wacker",
+              4,
+              [
+                "Kumar, R",
+                "Taylor, J"
               ],
               -1,
               -1,
@@ -599,22 +593,126 @@
         ]
       },
       [],
-      "Introduction to the Qur'an (Koran), the holy scripture of Islam, examining its major doctrines, thematic development, literary style, and its relationship to pre-Qur'anic, especially Biblical, traditions. Special attention is given to various methods Muslims have used to interpret the Qur'an.",
+      "Fundamental concepts in entrepreneurship and data visualization for Chicago’s local economy. Guest speaker topics vary but typically include: product design cycles across leading Chicago industries, challenges and impacts of growing and scaling businesses in the local economy, effects of regulation on Chicago businesses, market impacts on financing, and more. Students will explore how consistent engineering problems appear across multiple sectors of Chicago’s economy and use data provided by the City of Chicago to analyze trends in Chicago’s innovation ecosystem.",
       []
     ],
-    "REL 235": [
-      "History of Religion in America",
+    "TE 360": [
+      "Lectures in Engineering Entrepreneurship",
       {
         "A": [
-          "81254",
+          "53023",
           [
             [
-              5,
-              "MWF",
+              201,
+              "T",
+              "1320 Digital Computer Laboratory",
+              24,
+              [
+                "Wilson, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Fundamental concepts of entrepreneurship and commercialization of new technology in new and existing businesses. Guest speaker topics vary, but typically include: evaluation of technologies and business ideas in genera; commercializing new technologies; financing through private and public sources; legal issues; product development; marketing; international business issues.",
+      []
+    ],
+    "TE 460": [
+      "Lectures in Engineering Entrepreneurship",
+      {
+        "A": [
+          "56934",
+          [
+            [
+              201,
+              "T",
+              "1320 Digital Computer Laboratory",
+              24,
+              [
+                "Wilson, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "ONC": [
+          "69707",
+          [
+            [
+              10,
+              "",
+              "ONLINE",
+              4,
+              [
+                "Wilson, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "60408",
+          [
+            [
+              10,
+              "",
+              "ONLINE",
+              4,
+              [
+                "Wilson, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Fundamental concepts of entrepreneurship and commercialization of new technology in new and existing engineering and high-tech businesses. Guest speaker topics vary, but typically include: evaluation of technologies and business ideas in general; commercializing new technologies; financing through private and public sources; legal issues; product development; marketing; international business issues.",
+      []
+    ],
+    "TE 450": [
+      "Startups: Incorporation, Funding, Contracts, & Intellectual Property",
+      {
+        "JB": [
+          "75134",
+          [
+            [
+              87,
+              "R",
               "Location Pending",
               4,
               [
-                "Ebel, J"
+                "Barich, J"
               ],
               -1,
               -1,
@@ -629,145 +727,74 @@
         ]
       },
       [],
-      "Examines the religious history of the lands that have become the United States and the people who have become known as Americans through texts written by and about people of all races and creeds. From the precontact era through the twentieth century, this course emphasizes the diversity of American religion, the discord caused by and present in American religion, and the many instances of dialogue that have been a part of America's religious history.",
+      "Explores how legal tools may be used in the construction and successful operation of your company to deliver the next great product to market. Topics covered in the class include: issues with business formation, funding, intellectual property, non-disclosure agreements, contracts, and other corporate legal issues particularly impacting startups.",
       []
     ],
-    "REL 260": [
-      "Mystics and Saints in Islam",
+    "TE 466": [
+      "High-Tech Venture Marketing",
       {
         "A": [
-          "74064",
+          "56791",
           [
             [
-              13,
-              "MW",
-              "212 Davenport Hall",
-              21,
-              [
-                "Ali, M"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Examines mystical concepts and practices in Islam through the ages, through the lives and writings of important mystics and Sufi holy men and women, as well as the integration of mysticism and the Sufi Orders into Muslim society and Islamic orthodoxy.",
-      []
-    ],
-    "REL 251": [
-      "Viking Mythology",
-      {
-        "AD1": [
-          "68415",
-          [
-            [
-              2,
+              44,
               "F",
-              "125 David Kinley Hall",
-              6,
-              [
-                "Fam, M",
-                "Horsfall, W"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "AD2": [
-          "68417",
-          [
-            [
-              3,
-              "F",
-              "125 David Kinley Hall",
-              6,
-              [
-                "Fam, M",
-                "Horsfall, W"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "AD3": [
-          "68416",
-          [
-            [
+              "ONLINE",
               4,
-              "F",
-              "125 David Kinley Hall",
-              6,
               [
-                "Fam, M",
-                "Horsfall, W"
+                "Bivona, M"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          3,
-          0,
+          2,
+          7,
           0,
           [],
           -1
         ],
-        "AD4": [
-          "71832",
+        "ONL": [
+          "60410",
           [
             [
-              5,
+              44,
               "F",
-              "113 David Kinley Hall",
-              6,
-              [
-                "Horsfall, W",
-                "Ting, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "AD5": [
-          "71834",
-          [
-            [
+              "ONLINE",
               4,
-              "F",
-              "113 David Kinley Hall",
-              6,
               [
-                "Horsfall, W",
-                "Ting, S"
+                "Bivona, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Cornerstone marketing concepts for innovators and engineers to enable analysis of products and technologies from a marketing perspective: engineering product development and adoption life cycle; objectives and strategies; marketing management; communication skills; sales process and tactics; special considerations for new high-tech engineering products and innovations.",
+      []
+    ],
+    "TE 461": [
+      "Technology Entrepreneurship",
+      {
+        "A": [
+          "50650",
+          [
+            [
+              43,
+              "TR",
+              "1038 Campus Instructional Facility",
+              18,
+              [
+                "Lilly, B"
               ],
               -1,
               -1,
@@ -775,186 +802,13 @@
             ]
           ],
           3,
-          0,
+          5,
           0,
           [],
           -1
         ],
-        "AD6": [
-          "71835",
-          [
-            [
-              6,
-              "F",
-              "113 David Kinley Hall",
-              6,
-              [
-                "Horsfall, W",
-                "Ting, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "AL1": [
-          "68413",
-          [
-            [
-              75,
-              "TR",
-              "149 National Soybean Res Ctr",
-              37,
-              [
-                "Horsfall, W"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as CWL 251, MDVL 251, and SCAN 251. See SCAN 251.",
-      []
-    ],
-    "REL 287": [
-      "Introduction to Buddhism",
-      {
-        "A": [
-          "69951",
-          [
-            [
-              13,
-              "TR",
-              "307 Gregory Hall",
-              9,
-              [
-                "Callahan, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Thematic approach to the history of Buddhism from its origin in India to its spread throughout China and Japan; explores how the doctrinal and social development of Buddhism in East Asia is related to the process of cultural adaptation.",
-      []
-    ],
-    "REL 308": [
-      "Psychology of Religion and Spirituality",
-      {
-        "A": [
-          "78469",
-          [
-            [
-              12,
-              "TR",
-              "223 Gregory Hall",
-              9,
-              [
-                "Rios, K"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          2,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as PSYC 308. See PSYC 308.",
-      []
-    ],
-    "REL 347": [
-      "Protestant & Catholic Refs",
-      {
-        "A": [
-          "70178",
-          [
-            [
-              12,
-              "TR",
-              "1027 Lincoln Hall",
-              5,
-              [
-                "Koslofsky, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as HIST 347. See HIST 347.",
-      []
-    ],
-    "REL 350": [
-      "South Asian Goddesses",
-      {
-        "AT": [
-          "78224",
-          [
-            [
-              85,
-              "MW",
-              "209 Huff Hall",
-              31,
-              [
-                "Tosato, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          2,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Introduction to the most well-known Hindu goddesses, at both the pan-Hindu and local level, and explores their mythical narratives, associated powers, iconography, and rituals of worship. Presents different methodological approaches scholars employ in the interpretation of goddess worship in South Asia and abroad. Materials are drawn from textual, historical sources as well as contemporary ethnographic research, and seek to include representative figures from different regions throughout India and the Himalayan region.",
-      []
-    ],
-    "REL 390": [
-      "Independent Study",
-      {
-        "": [
-          "67814",
+        "ONC": [
+          "69708",
           [
             [
               10,
@@ -962,185 +816,21 @@
               "ONLINE",
               4,
               [
-                "Unassigned Instructor"
+                "Lilly, B"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          6,
           3,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Special topics not treated in regularly scheduled courses; designed primarily for upperclassmen.",
-      []
-    ],
-    "REL 424": [
-      "Philosophy of Religion",
-      {
-        "G1": [
-          "68353",
-          [
-            [
-              13,
-              "TR",
-              "1002 Lincoln Hall",
-              5,
-              [
-                "Saenz, N"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
+          7,
           0,
           [],
           -1
         ],
-        "U1": [
-          "68352",
-          [
-            [
-              13,
-              "TR",
-              "1002 Lincoln Hall",
-              5,
-              [
-                "Saenz, N"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as PHIL 424. See PHIL 424.",
-      []
-    ],
-    "REL 440": [
-      "Early Christian Thought",
-      {
-        "G4": [
-          "76907",
-          [
-            [
-              31,
-              "MW",
-              "G24 Literatures, Cultures, & Ling",
-              15,
-              [
-                "Layton, R"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ],
-        "U3": [
-          "76906",
-          [
-            [
-              31,
-              "MW",
-              "G24 Literatures, Cultures, & Ling",
-              15,
-              [
-                "Layton, R"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Study of major developments in early Christian thought (first four centuries) through discussion of primary texts in translation.",
-      []
-    ],
-    "REL 464": [
-      "Theories & Theologies of Liberation",
-      {
-        "MKG": [
-          "72923",
-          [
-            [
-              49,
-              "T",
-              "102 1205 W Nevada",
-              4,
-              [
-                "Kashani, M"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ],
-        "MKU": [
-          "72924",
-          [
-            [
-              49,
-              "T",
-              "102 1205 W Nevada",
-              4,
-              [
-                "Kashani, M"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as AAS 464, ANTH 464, and GWS 464. See GWS 464.",
-      []
-    ],
-    "REL 493": [
-      "Honors Senior Thesis",
-      {
-        "": [
-          "67815",
+        "ONL": [
+          "60409",
           [
             [
               10,
@@ -1148,7 +838,7 @@
               "ONLINE",
               4,
               [
-                "Unassigned Instructor"
+                "Lilly, B"
               ],
               -1,
               -1,
@@ -1156,111 +846,133 @@
             ]
           ],
           3,
-          3,
+          7,
           0,
           [],
           -1
         ]
       },
       [],
-      "3 undergraduate hours. No graduate credit. May be repeated in separate terms for a total of 6 undergraduate hours. Prerequisite: Senior majors in religion who are eligible for graduating with distinction from the program.",
+      "Critical factors affecting technology-based ventures: opportunity assessment; the entrepreneurial process; founders and team building; preparation of a business plan including market research, marketing and sales, finance, and manufacturing considerations. Students must have an idea for a new venture to participate in the course, and must be prepared to develop this new venture idea as part of the course.",
       []
     ],
-    "REL 485": [
-      "Karma of Words: Buddhism, Language and the Literary Arts of Japan",
+    "TE 468": [
+      "Transforming Marketing with AI",
       {
-        "CC": [
-          "79801",
+        "A": [
+          "80821",
           [
             [
-              58,
-              "F",
-              "309 English Building",
-              3,
-              [
-                "Callahan, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          2,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as EALC 485. See EALC 485.",
-      []
-    ],
-    "REL 495": [
-      "Topics in Asian Religions",
-      {
-        "AT3": [
-          "79766",
-          [
-            [
-              12,
-              "TR",
-              "1026 Lincoln Hall",
-              5,
-              [
-                "Tosato, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ],
-        "AT4": [
-          "79767",
-          [
-            [
-              12,
-              "TR",
-              "1026 Lincoln Hall",
-              5,
-              [
-                "Tosato, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Topics in Hinduism, Buddhism, Taoism, and other Asian religious traditions.",
-      []
-    ],
-    "REL 510": [
-      "Graduate Intro to Religion",
-      {
-        "A1": [
-          "67805",
-          [
-            [
-              65,
+              44,
               "M",
-              "123 English Building",
-              3,
+              "ONLINE",
+              4,
               [
-                "Ebel, J"
+                "Bivona, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "80822",
+          [
+            [
+              44,
+              "M",
+              "ONLINE",
+              4,
+              [
+                "Bivona, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Cutting-edge use of artificial intelligence (AI) in marketing for technology ventures. How AI can revolutionize entrepreneurial marketing in targeting, personalization, content creation, analytics, optimization, customer service, sales, research, and ethics. Weekly examination of real-world case studies where leading companies harness the power of AI, supercharging their marketing efforts. Recognize how AI can be used to create more effective and efficient marketing campaigns in engineering entrepreneurship.",
+      []
+    ],
+    "TE 565": [
+      "Technol Innovation & Strategy",
+      {
+        "ONC": [
+          "69710",
+          [
+            [
+              10,
+              "",
+              "ONLINE",
+              4,
+              [
+                "Chopra, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "60413",
+          [
+            [
+              10,
+              "",
+              "ONLINE",
+              4,
+              [
+                "Chopra, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Concepts and frameworks for analyzing how firms can create, commercialize and capture value from technology-based products and services. Business, commercialization, and management aspects of technology. Emphasis on reasons that existing firms or startups which have successfully commercialized products or services fail to sustain their success as technology changes and evolves.",
+      []
+    ],
+    "TE 510": [
+      "Advanced Creativity",
+      {
+        "A": [
+          "77293",
+          [
+            [
+              11,
+              "TR",
+              "2320 Digital Computer Laboratory",
+              24,
+              [
+                "Jahnke, K"
               ],
               -1,
               -1,
@@ -1275,22 +987,74 @@
         ]
       },
       [],
-      "Introduction for first semester graduate students to selected methods and techniques for conducting research in the area of Religion. Students will receive general guidance on strategies for conducting bibliographic research and designing research projects. Includes study of some currently salient issues and areas of inquiry in a number of disciplines pertaining to the study of religion. The course will be supervised by one professor and will offer a series of presentations on several methodologies and historical issues by experts in various fields.",
+      "Exploration of concepts and theories in creativity and innovation with application of techniques and processes in order to enhance creativity skills. Emphasis on personalized learning objectives based on individual fields of study culminating in a major project with the opportunity to move a technical idea from vision to reality.",
       []
     ],
-    "REL 520": [
-      "Hindu Pilgrimage, Power & Place",
+    "TE 566": [
+      "Finance for Engineering Mgmt",
       {
-        "A": [
-          "71393",
+        "ONC": [
+          "69711",
           [
             [
-              65,
-              "W",
-              "1068 Lincoln Hall",
-              5,
+              10,
+              "",
+              "ONLINE",
+              4,
               [
-                "Newman, A"
+                "Lilly, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "60415",
+          [
+            [
+              10,
+              "",
+              "ONLINE",
+              4,
+              [
+                "Lilly, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Cornerstone financial concepts for engineering management to enable analysis of engineering projects from a financial perspective: income statements; the balance sheet; cash flow statements; corporate organization; the time value of money; net present value; discounted cash flow analysis; portfolio theory.",
+      []
+    ],
+    "TE 598": [
+      "Special Topics IV",
+      {
+        "PMR": [
+          "65712",
+          [
+            [
+              30,
+              "W",
+              "1038 Campus Instructional Facility",
+              18,
+              [
+                "Thode, J"
               ],
               -1,
               -1,
@@ -1305,14 +1069,36 @@
         ]
       },
       [],
-      "This course undertakes a critical examination of the nature and practices of Hindu pilgrims, pilgrimages, and pilgrimage sites. We will examine central beliefs and practices of lived religion in the Hindu tradition and situate Hindu pilgrimage within the broader context of pilgrimage and related discussions of power and place.",
+      "Subject offerings of innovation, creativity, technology and entrepreneurship intended to augment the existing curriculum. See class schedule or departmental course information for topics and prerequisites.",
       []
     ],
-    "REL 590": [
-      "Independent Study",
+    "TE 567": [
+      "Venture Funded Startups",
       {
-        "": [
-          "67816",
+        "A": [
+          "54757",
+          [
+            [
+              6,
+              "R",
+              "1038 Campus Instructional Facility",
+              18,
+              [
+                "Chopra, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "60416",
           [
             [
               10,
@@ -1320,22 +1106,22 @@
               "ONLINE",
               4,
               [
-                "Unassigned Instructor"
+                "Chopra, S"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          6,
-          3,
+          1,
+          7,
           0,
           [],
           -1
         ]
       },
       [],
-      "Special topics not treated in regularly scheduled courses; for graduates.",
+      "Concepts, tools, and language used by venture capitalists (VCs). Venture-scale opportunity assessment and articulation; venture capital financing and valuation; deal structure; term sheets; financial plans for startups; customer development and marketing; product iterations; sales execution.",
       []
     ]
   },
@@ -1553,7 +1339,28 @@
       "1330 - 1550",
       "1530 - 1715",
       "1530 - 1800",
-      "1400 - 1720"
+      "1400 - 1720",
+      "0800 - 0915",
+      "1800 - 1915",
+      "1700 - 1800",
+      "1800 - 2040",
+      "1230 - 1410",
+      "1100 - 1240",
+      "1600 - 1740",
+      "1200 - 1315",
+      "1130 - 1420",
+      "1530 - 1850",
+      "1530 - 1700",
+      "1300 - 1415",
+      "1430 - 1600",
+      "1000 - 1115",
+      "1030 - 1220",
+      "1130 - 1245",
+      "1300 - 1500",
+      "1300 - 1445",
+      "1500 - 1645",
+      "1030 - 1250",
+      "1030 - 1215"
     ],
     "dateRanges": [],
     "scheduleTypes": [
