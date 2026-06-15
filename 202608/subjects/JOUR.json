@@ -1,7 +1,7 @@
 {
   "subject": "JOUR",
-  "scrapedAt": 1781498699841,
-  "courseCount": 25,
+  "scrapedAt": 1781498723758,
+  "courseCount": 30,
   "courses": {
     "JOUR 100": [
       "News in America",
@@ -1117,6 +1117,212 @@
       },
       [],
       "Covers how to get noticed when you’re out searching for an internship or job, including how to produce a resume that attracts positive attention, how to write a cover letter designed for the job you’re applying to, how to present yourself in an interview, what employers are looking for in those interviews, and where to look to find internships and jobs.",
+      []
+    ],
+    "JOUR 505": [
+      "Journalism Proseminar",
+      {
+        "1": [
+          "39937",
+          [
+            [
+              44,
+              "T",
+              "336 Gregory Hall",
+              9,
+              [
+                "Garza, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "78378",
+          [
+            [
+              44,
+              "T",
+              "ONLINE",
+              4,
+              [
+                "Garza, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to scholarship and research in journalism and mass communication examining theoretical approaches to the meanings, uses, and effects of mass media in society; discussion of media freedom and accountability; humanistic and social scientific contributions to understanding mass communication.",
+      []
+    ],
+    "JOUR 501": [
+      "Multimedia Storytelling",
+      {
+        "ONL": [
+          "78377",
+          [
+            [
+              10,
+              "",
+              "ONLINE",
+              4,
+              [
+                "Davis, A"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              3,
+              "M",
+              "ONLINE",
+              4,
+              [
+                "Davis, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          15,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "The course is designed to equip graduate students who have little or no journalism experience to report in a multimedia environment. In the first part of the course, students learn where to find stories and how to develop story ideas, as well as basic research and interviewing techniques. Students will then be introduced to the various ways in which stories can be told using media platforms such as print, radio, television and the web.",
+      []
+    ],
+    "JOUR 495": [
+      "Internship Seminar",
+      {
+        "1": [
+          "50822",
+          [
+            [
+              10,
+              "",
+              "ONLINE",
+              4,
+              [
+                "Almanza, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "2": [
+          "30466",
+          [
+            [
+              10,
+              "",
+              "ONLINE",
+              4,
+              [
+                "Almanza, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Seminar based on internship experience. Offered for College of Media students who complete an approved professional, industry related internship.",
+      []
+    ],
+    "JOUR 515": [
+      "Master's Project",
+      {
+        "": [
+          "10472",
+          [
+            [
+              10,
+              "",
+              "ONLINE",
+              4,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "A professional journalism project demonstrating development of analytical and critical thinking abilities appropriate to the profession and effective application of journalism methodology.",
+      []
+    ],
+    "JOUR 590": [
+      "Advanced Topics in Science and Technology Journalism",
+      {
+        "": [
+          "58770",
+          [
+            [
+              10,
+              "",
+              "ONLINE",
+              4,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Advanced special projects, research or reading in science and technology journalism at the master's and doctoral level.",
       []
     ]
   },

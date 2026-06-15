@@ -4,7 +4,7 @@
   "year": "2026",
   "term": "fall",
   "startedAt": 1780892129180,
-  "lastUpdated": 1781498699843,
+  "lastUpdated": 1781498859727,
   "totalSubjects": 185,
   "totalCourses": 4497,
   "subjects": [
@@ -18664,19 +18664,43 @@
     "INFO",
     "IS",
     "ITAL",
-    "JAPN"
+    "JAPN",
+    "JOUR",
+    "JS",
+    "KOR",
+    "LA",
+    "LAS",
+    "LAST",
+    "LAT",
+    "LAW",
+    "LCTL",
+    "LEAD",
+    "LER",
+    "LING",
+    "LLS",
+    "MACS",
+    "MATH",
+    "MBA",
+    "MCB",
+    "MDIA",
+    "MDVL",
+    "ME",
+    "MICR",
+    "MILS",
+    "MIP",
+    "MSE"
   ],
   "partialSubjects": {
-    "JOUR": {
-      "completed": 25,
-      "total": 30,
+    "MUS": {
+      "completed": 97,
+      "total": 99,
       "lastCourse": "ABORTED"
     }
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 2714,
-    "failedCourses": 5,
+    "successfulCourses": 3329,
+    "failedCourses": 6,
     "rateLimitCount": 0
   }
 }
