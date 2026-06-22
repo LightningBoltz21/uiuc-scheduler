@@ -1,0 +1,221 @@
+{
+  "subject": "BUS",
+  "scrapedAt": 1782103479780,
+  "courseCount": 3,
+  "courses": {
+    "BUS 299": [
+      "BUS Internship",
+      {
+        "INT": [
+          "33699",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Headtke, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Accommodates students who must be registered for a course at the University while completing an internship, either because the internship is unpaid and the company requires registration, or because of visa requirements. Only internships in the College of Business will be considered.",
+      []
+    ],
+    "BUS 199": [
+      "Undergraduate Open Seminar",
+      {
+        "NL2": [
+          "35157",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Lamers, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Approved for both letter and S/U grading. May be repeated.",
+      []
+    ],
+    "BUS 399": [
+      "Business Study Abroad",
+      {
+        "A2": [
+          "30745",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          18,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "A3": [
+          "35840",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          18,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "A4": [
+          "29894",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          18,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Upon prior written approval of the College of Business' Office of Undergraduate Affairs, a student may earn up to 18 credit hours per term undertaking a study and/or research project in international business at accredited foreign institutions or approved overseas programs. Final determination of appropriate credit will be made upon completion of the work done abroad. While absent from the Urbana-Champaign campus, the student must continue to pay all fees required by the University of Illinois to retain continuity of enrollment and to allow the time spent away from this campus to count toward residency.",
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "ARRANGED",
+      "1230 - 1350",
+      "1400 - 1520",
+      "0930 - 1050",
+      "1100 - 1220",
+      "1330 - 1450",
+      "1000 - 1200",
+      "0830 - 1800",
+      "0900 - 1050",
+      "1200 - 1350",
+      "1300 - 1750",
+      "0900 - 1150",
+      "1300 - 1650",
+      "1800 - 2000",
+      "1000 - 1150",
+      "1400 - 1550",
+      "0800 - 0920",
+      "0800 - 1150",
+      "0800 - 0950",
+      "1300 - 1500",
+      "0930 - 1700",
+      "1300 - 1350",
+      "1800 - 1915",
+      "1000 - 1115"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Online",
+      "Independent Study",
+      "Lecture-Discussion",
+      "Conference",
+      "Internship",
+      "Study Abroad",
+      "Online Lab",
+      "Travel",
+      "Seminar",
+      "Laboratory",
+      "Studio",
+      "Lecture",
+      "Online Lecture",
+      "Discussion/ Recitation",
+      "Laboratory-Discussion",
+      "Research",
+      "Practice"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.1035872,
+        "long": -88.2306061
+      },
+      {
+        "lat": 40.1108856,
+        "long": -88.2269806
+      },
+      {
+        "lat": 40.10628,
+        "long": -88.22621
+      },
+      {
+        "lat": 40.1065684,
+        "long": -88.2281746
+      },
+      {
+        "lat": 40.108570819242026,
+        "long": -88.22518453938676
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "subject": "ANSC",
+  "scrapedAt": 1782103443889,
+  "courseCount": 5,
+  "courses": {
+    "ANSC 499": [
+      "Seminar",
+      {
+        "": [
+          "10254",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Group discussion or an experimental course on a special topic in animal sciences.",
+      []
+    ],
+    "ANSC 398": [
+      "UG Experiential Learning",
+      {
+        "A": [
+          "37669",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Archer, C",
+                "Taves, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "E": [
+          "38224",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Fischer-Brown, A",
+                "Richardson, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "F": [
+          "39343",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Shike, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Student-directed experiential learning on special topics directly pertaining to subject matter in animal sciences. Students are required to complete a Memorandum of Agreement prior to enrolling in this course.",
+      []
+    ],
+    "ANSC 199": [
+      "Undergraduate Open Seminar",
+      {
+        "": [
+          "10232",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "An experimental course on a special topic in animal sciences.",
+      []
+    ],
+    "ANSC 592": [
+      "Adv Topics in Animal Science",
+      {
+        "A": [
+          "38053",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Rodriguez Zas, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Selected topics associated with teaching, research, and production related to the animal industry.",
+      []
+    ],
+    "ANSC 593": [
+      "Res Studies in Animal Sciences",
+      {
+        "": [
+          "10258",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Directed and supervised study of selected research topics in Animal Sciences.",
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "ARRANGED",
+      "1230 - 1350",
+      "1400 - 1520",
+      "0930 - 1050",
+      "1100 - 1220",
+      "1330 - 1450",
+      "1000 - 1200",
+      "0830 - 1800"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Online",
+      "Independent Study",
+      "Lecture-Discussion",
+      "Conference",
+      "Internship",
+      "Study Abroad"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.1035872,
+        "long": -88.2306061
+      },
+      {
+        "lat": 40.1108856,
+        "long": -88.2269806
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}
