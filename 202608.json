@@ -331912,6 +331912,36 @@
       "Survey of more advanced grammar, with emphasis on increasing conversational fluency, composition skills, study of written texts in standard and Dakar Wolof, and discussion of grammatical variations.",
       []
     ],
+    "WLOF 202": [
+      "Elementary Wolof II",
+      {
+        "A": [
+          "59638",
+          [
+            [
+              2,
+              "MTWRF",
+              "215 Davenport Hall",
+              9,
+              [
+                "Toure, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Continuation of elementary Wolof, with introduction of more advanced grammar; emphasizes more fluency in speaking, reading, and writing simple sentences in standard Wolof.",
+      []
+    ],
     "WLOF 201": [
       "Elementary Wolof I",
       {
@@ -331964,36 +331994,6 @@
       "Introduction to Wolof; emphasizes grammar, pronunciation, reading, and conversation in standard Wolof.",
       []
     ],
-    "WLOF 202": [
-      "Elementary Wolof II",
-      {
-        "A": [
-          "59638",
-          [
-            [
-              2,
-              "MTWRF",
-              "215 Davenport Hall",
-              9,
-              [
-                "Toure, V"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          2,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Continuation of elementary Wolof, with introduction of more advanced grammar; emphasizes more fluency in speaking, reading, and writing simple sentences in standard Wolof.",
-      []
-    ],
     "WLOF 405": [
       "Advanced Wolof I",
       {
@@ -332036,37 +332036,6 @@
       "Third year Wolof with emphasis on conversational fluency and on increased ability in reading and comprehending texts, including newspaper prose and West African cultural materials. Course will also deal with the advanced level grammar found in such texts.",
       []
     ],
-    "WLTE 475": [
-      "Learning to Teach World Language",
-      {
-        "A1": [
-          "81673",
-          [
-            [
-              276,
-              "W",
-              "Location Pending",
-              7,
-              [
-                "Ericson, E",
-                "Krushnowski, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          2,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Course focuses on pedagogy, teacher knowledge and efficacy, and proficiency-based language teaching in K–12 teaching. Emphasis is on lesson planning through Backward Design, thematic unit development, and assessment design using Integrated Performance Assessments aligned with World-Readiness Standards and ACTFL Core Practices. Includes multiple teaching components and 55 hours of early field experience.",
-      []
-    ],
     "WLTE 478": [
       "Principled World Language Teaching",
       {
@@ -332074,7 +332043,7 @@
           "81674",
           [
             [
-              277,
+              276,
               "T",
               "Location Pending",
               7,
@@ -332096,6 +332065,37 @@
       },
       [],
       "Practical aspects of teaching and learning in the 21st century. Emphasis on teaching world languages at the secondary level. Majors topics include differentiation, culturally responsive teaching, teaching with technology, and classroom management. In the fall semester, students enroll for 3 hours. In the spring semester, students enroll for 1 hour. At the end of the fall semester, students will have completed all Early Field Experiences in accordance with the ISBE/CoTE requirement that teacher candidates fulfill all EFE hours prior to Student Teaching.",
+      []
+    ],
+    "WLTE 475": [
+      "Learning to Teach World Language",
+      {
+        "A1": [
+          "81673",
+          [
+            [
+              277,
+              "W",
+              "Location Pending",
+              7,
+              [
+                "Ericson, E",
+                "Krushnowski, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Course focuses on pedagogy, teacher knowledge and efficacy, and proficiency-based language teaching in K–12 teaching. Emphasis is on lesson planning through Backward Design, thematic unit development, and assessment design using Integrated Performance Assessments aligned with World-Readiness Standards and ACTFL Core Practices. Includes multiple teaching components and 55 hours of early field experience.",
       []
     ],
     "WRIT 300": [
@@ -332547,8 +332547,8 @@
       "1110 - 1230",
       "0940 - 1100",
       "1030 - 1520",
-      "1630 - 1910",
-      "1630 - 1900"
+      "1630 - 1900",
+      "1630 - 1910"
     ],
     "dateRanges": [],
     "scheduleTypes": [
@@ -332802,6 +332802,6 @@
     "finalDates": [],
     "finalTimes": []
   },
-  "updatedAt": "2026-06-22T04:42:17.562Z",
+  "updatedAt": "2026-06-22T04:46:05.311Z",
   "version": 3
 }

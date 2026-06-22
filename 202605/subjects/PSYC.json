@@ -1,0 +1,978 @@
+{
+  "subject": "PSYC",
+  "scrapedAt": 1782103688670,
+  "courseCount": 18,
+  "courses": {
+    "PSYC 204": [
+      "Intro to Brain and Cognition",
+      {
+        "1ON": [
+          "40182",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Dolcos, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "2ON": [
+          "38244",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Dolcos, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to the interdisciplinary field of cognitive neuroscience, which is concerned with how the cognitive systems supporting a broad range of capacities including memory, attention, and social and emotional processing, arise from the functioning of specific brain modules and brain mechanisms. Emphasizes how functional brain imaging and other cognitive neuroscience methods can be brought to bear on answering these questions. Prerequisite: PSYC 100 or PSYC 103 or PSYC 105.",
+      []
+    ],
+    "PSYC 100": [
+      "Intro Psych",
+      {
+        "1ON": [
+          "39086",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Shenouda, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "2ON": [
+          "31257",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Shenouda, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "[IAI Code: S6900] Study of human behavior with special reference to perception, learning, memory, thinking, emotional life, and individual differences in intelligence, aptitude, and personality; emphasis on the scientific nature of psychological investigations; and discussion of research methods and the relation of their results to daily life and everyday problems. Lectures, discussions, and six hours of participation as a subject in psychological experiments. Credit is not given toward graduation for: Credit is not given for both PSYC 100 and either PSYC 103 or PSYC 105.",
+      []
+    ],
+    "PSYC 201": [
+      "Intro to Social Psych",
+      {
+        "1ON": [
+          "34254",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Shenouda, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "2ON": [
+          "30330",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Shenouda, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "[IAI Code: S8900 and PSY908] Systematic study of social factors in individual and group behavior; attention to social perception, motivation, and learning; attitudes, norms, and social influence processes; the development and dynamics of groups; and the effects of social and cultural factors on the individual. Prerequisite: PSYC 100 or PSYC 103.",
+      []
+    ],
+    "PSYC 224": [
+      "Cognitive Psych",
+      {
+        "1ON": [
+          "34296",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Federmeier, K",
+                "Rogers, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "2ON": [
+          "30332",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Federmeier, K",
+                "Rogers, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to the psychological study of human information processing and memory; acquisition, retrieval, and forgetting; and general knowledge, concepts, reasoning, and related issues in cognition. Prerequisite: PSYC 100 or PSYC 103.",
+      []
+    ],
+    "PSYC 216": [
+      "Child Psych",
+      {
+        "1ON": [
+          "34255",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Hyde, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "2ON": [
+          "30331",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Hyde, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "[IAI Code: S6903] Study of the psychological development of the child. Credit is not given toward graduation for: Credit is not given for both PSYC 216 and EPSY 236. Prerequisite: PSYC 100 or PSYC 103.",
+      []
+    ],
+    "PSYC 230": [
+      "Perception & Sensory Processes",
+      {
+        "1ON": [
+          "40181",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Lleras Buetti, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "2ON": [
+          "32930",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Lleras Buetti, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Survey of the experimental psychology of sensory and perceptual processes and behavior; emphasis on the contribution of behavior science to understanding subjective experience of the physical and social environment.",
+      []
+    ],
+    "PSYC 245": [
+      "Industrial Org Psych",
+      {
+        "1ON": [
+          "40586",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Shenouda, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "2ON": [
+          "33103",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Shenouda, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Systematic study of the application of psychological methods and principles in business and industry; emphasis on personnel selection and factors influencing efficiency. Prerequisite: PSYC 100 or PSYC 103; credit or concurrent registration in a statistics course.",
+      []
+    ],
+    "PSYC 238": [
+      "Psychopathology and Problems in Living",
+      {
+        "1ON": [
+          "34258",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Shenouda, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "2ON": [
+          "30337",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Shenouda, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Conceptions and facts about disordered behavior, including psychoses, neuroses, and other patterns of psychological disturbance. Prerequisite: PSYC 100 or PSYC 103.",
+      []
+    ],
+    "PSYC 248": [
+      "Learning and Memory",
+      {
+        "1ON": [
+          "34778",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Holden, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "2ON": [
+          "40571",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Holden, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Survey of basic phenomena in learning and memory emphasizing experimental data from animal and human research. Prerequisite: PSYC 100 or PSYC 103.",
+      []
+    ],
+    "PSYC 313": [
+      "Drugs, Brain and Behavior",
+      {
+        "2ON": [
+          "41316",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Gulley, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Drugs are ubiquitous in our society, whether used for medicinal or recreational purposes. We may be led to believe that chemical substances can be the cure for all that ails us, or the source of our demise. In this course, we cut through the noise by introducing key concepts critical for understanding how drugs can impact behavior: where drugs come from, how they get into the brain, what they do once they are there, and how drug action can lead to complex behavioral responses.",
+      []
+    ],
+    "PSYC 355": [
+      "The Attentive Mind",
+      {
+        "2ON": [
+          "42157",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Lleras Buetti, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "In this class, we will study basic mechanisms of attention, how researchers investigate attention, and how these basic concepts are used in design, legal, and engineering applications. We will also cover a wide range of attention-related topics, including multi-tasking, mind-wandering, mindfulness, neuropsychological disorders of attention (such as spatial neglect), and ADHD. This is an active learning course involving weekly group activities and discussions.",
+      []
+    ],
+    "PSYC 290": [
+      "Research Experience in Psych",
+      {
+        "": [
+          "30981",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Supervised participation in research and scholarly activities, usually as an assistant to an investigator.",
+      []
+    ],
+    "PSYC 363": [
+      "Developmental Child Psych Lab",
+      {
+        "AB2": [
+          "33559",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Shenouda, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "AL2": [
+          "33558",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Shenouda, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          12,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Provides students with a background in developmental research methodology, such as observational techniques used with children. Students will gain experience collecting data and learn how to write research papers.",
+      []
+    ],
+    "PSYC 472": [
+      "Environmental Psychology",
+      {
+        "MSU": [
+          "37050",
+          [
+            [
+              13,
+              "W",
+              "ONLINE",
+              0,
+              [
+                "Browning, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as NRES 472. See NRES 472.",
+      []
+    ],
+    "PSYC 396": [
+      "Intermediate Current Topics in Psychology",
+      {
+        "IN2": [
+          "38781",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Vermillion, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Intermediate treatment of current topics in the field of psychology.",
+      []
+    ],
+    "PSYC 590": [
+      "Individual Research",
+      {
+        "": [
+          "10262",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "For graduate students who wish to conduct research on special problems not included in graduate theses.",
+      []
+    ],
+    "PSYC 598": [
+      "Proseminar in Psychology",
+      {
+        "IN2": [
+          "38829",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Fisher, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "PSI": [
+          "41920",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Tancredy, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Weekly presentation and discussions of current research by faculty, graduate students and visiting scholars. Sections of these proseminars are offered by each division in the Psychology Department. Requirements include attendance and participation in discussion.",
+      []
+    ],
+    "PSYC 494": [
+      "Advanced Research in Psych",
+      {
+        "": [
+          "10229",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Supervised independent investigation of special topics in psychology; requires a written report with a final copy submitted for departmental records.",
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "ARRANGED",
+      "1230 - 1350",
+      "1400 - 1520",
+      "0930 - 1050",
+      "1100 - 1220",
+      "1330 - 1450",
+      "1000 - 1200",
+      "0830 - 1800",
+      "0900 - 1050",
+      "1200 - 1350",
+      "1300 - 1750",
+      "0900 - 1150",
+      "1300 - 1650",
+      "1800 - 2000",
+      "1000 - 1150",
+      "1400 - 1550",
+      "0800 - 0920",
+      "0800 - 1150",
+      "0800 - 0950",
+      "1300 - 1500",
+      "0930 - 1700",
+      "1300 - 1350",
+      "1800 - 1915",
+      "1000 - 1115",
+      "1730 - 1930",
+      "1700 - 1950",
+      "1300 - 1550",
+      "1800 - 2050",
+      "1700 - 2000",
+      "1600 - 1850",
+      "1300 - 1700",
+      "0800 - 1700",
+      "1230 - 1520",
+      "1330 - 1520",
+      "1830 - 2130",
+      "1100 - 1215",
+      "1100 - 1150",
+      "1000 - 1120",
+      "0900 - 1040",
+      "1100 - 1250",
+      "0850 - 0950",
+      "1500 - 1550",
+      "1600 - 1750",
+      "0900 - 1020",
+      "1200 - 1250",
+      "0900 - 0950",
+      "1000 - 1050",
+      "1900 - 2100",
+      "0900 - 1200",
+      "1100 - 1300",
+      "1600 - 1800",
+      "1600 - 1950",
+      "1500 - 1650",
+      "0930 - 1120",
+      "1700 - 1850",
+      "0830 - 1350",
+      "1900 - 2000",
+      "1800 - 1950",
+      "0800 - 0850",
+      "1200 - 1320",
+      "1400 - 1530",
+      "1700 - 1820",
+      "1900 - 2055",
+      "1800 - 1920",
+      "1830 - 2020",
+      "1000 - 1650",
+      "1300 - 1450",
+      "1900 - 2050",
+      "0630 - 1900",
+      "0800 - 1930",
+      "0900 - 2200",
+      "0930 - 1430",
+      "0930 - 1530",
+      "0930 - 1730",
+      "1030 - 1220",
+      "0830 - 1020",
+      "1830 - 2030",
+      "0800 - 1050",
+      "1000 - 1250",
+      "1200 - 1315"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Online",
+      "Independent Study",
+      "Lecture-Discussion",
+      "Conference",
+      "Internship",
+      "Study Abroad",
+      "Online Lab",
+      "Travel",
+      "Seminar",
+      "Laboratory",
+      "Studio",
+      "Lecture",
+      "Online Lecture",
+      "Discussion/ Recitation",
+      "Laboratory-Discussion",
+      "Research",
+      "Practice",
+      "Online Lecture Discussion",
+      "Online Discussion",
+      "Packaged Section"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.1035872,
+        "long": -88.2306061
+      },
+      {
+        "lat": 40.1108856,
+        "long": -88.2269806
+      },
+      {
+        "lat": 40.10628,
+        "long": -88.22621
+      },
+      {
+        "lat": 40.1065684,
+        "long": -88.2281746
+      },
+      {
+        "lat": 40.108570819242026,
+        "long": -88.22518453938676
+      },
+      {
+        "lat": 40.1020773,
+        "long": -88.2296394
+      },
+      {
+        "lat": 40.1047599,
+        "long": -88.2319514
+      },
+      {
+        "lat": 40.1149296,
+        "long": -88.2280589
+      },
+      {
+        "lat": 40.1035833,
+        "long": -88.228405
+      },
+      {
+        "lat": 40.104794,
+        "long": -88.224264
+      },
+      {
+        "lat": 40.1034533,
+        "long": -88.2327596
+      },
+      {
+        "lat": 40.103587,
+        "long": -88.230606
+      },
+      {
+        "lat": 40.110811306674734,
+        "long": -88.2248467072371
+      },
+      {
+        "lat": 40.10623714823253,
+        "long": -88.2232659093846
+      },
+      {
+        "lat": 40.107534,
+        "long": -88.2281548
+      },
+      {
+        "lat": 40.1110937,
+        "long": -88.2232348
+      },
+      {
+        "lat": 40.11246109008789,
+        "long": -88.22831726074219
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}
