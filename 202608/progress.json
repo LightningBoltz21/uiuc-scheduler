@@ -4,7 +4,7 @@
   "year": "2026",
   "term": "fall",
   "startedAt": 1782706250881,
-  "lastUpdated": 1782706854950,
+  "lastUpdated": 1783309770284,
   "totalSubjects": 185,
   "totalCourses": 4496,
   "subjects": [
@@ -18638,19 +18638,44 @@
     "GSD",
     "GWS",
     "GGIS",
-    "GEOL"
+    "GEOL",
+    "GER",
+    "GMC",
+    "GLBL",
+    "GC",
+    "GRK",
+    "HT",
+    "HK",
+    "HBSE",
+    "HNDI",
+    "HIST",
+    "HORT",
+    "HDFS",
+    "DTX",
+    "HUM",
+    "IE",
+    "INFO",
+    "IS",
+    "IB",
+    "ITAL",
+    "JAPN",
+    "ARTJ",
+    "JS",
+    "JOUR",
+    "KOR",
+    "LER"
   ],
   "partialSubjects": {
-    "GER": {
-      "completed": 18,
-      "total": 27,
+    "LA": {
+      "completed": 24,
+      "total": 29,
       "lastCourse": "ABORTED"
     }
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 2192,
-    "failedCourses": 4,
+    "successfulCourses": 2778,
+    "failedCourses": 5,
     "rateLimitCount": 0
   }
 }
