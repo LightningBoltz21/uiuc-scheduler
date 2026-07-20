@@ -4,7 +4,7 @@
   "year": "2026",
   "term": "fall",
   "startedAt": 1784519245392,
-  "lastUpdated": 1784519434900,
+  "lastUpdated": 1784519574688,
   "totalSubjects": 185,
   "totalCourses": 4503,
   "subjects": [
@@ -18594,19 +18594,51 @@
     "AFAS",
     "AIS",
     "ANSC",
-    "ANTH"
+    "ANTH",
+    "AHS",
+    "ARAB",
+    "ARCH",
+    "ART",
+    "ARTD",
+    "ARTE",
+    "ARTF",
+    "ARTH",
+    "ARTS",
+    "AAS",
+    "ASST",
+    "ASTR",
+    "ATMS",
+    "BASQ",
+    "BIOC",
+    "BIOE",
+    "BSE",
+    "BIOP",
+    "BCS",
+    "BCOG",
+    "BULG",
+    "BUS",
+    "BADM",
+    "BDI",
+    "BTW",
+    "CHP",
+    "CDB",
+    "CGGE",
+    "CHBE",
+    "CHEM",
+    "CHIN",
+    "CEE"
   ],
   "partialSubjects": {
-    "AHS": {
-      "completed": 0,
-      "total": 3,
+    "CLCV": {
+      "completed": 6,
+      "total": 19,
       "lastCourse": "ABORTED"
     }
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 402,
-    "failedCourses": 1,
+    "successfulCourses": 990,
+    "failedCourses": 2,
     "rateLimitCount": 0
   }
 }
