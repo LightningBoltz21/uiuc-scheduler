@@ -4,7 +4,7 @@
   "year": "2026",
   "term": "fall",
   "startedAt": 1784519245392,
-  "lastUpdated": 1784519714701,
+  "lastUpdated": 1784519854547,
   "totalSubjects": 185,
   "totalCourses": 4503,
   "subjects": [
@@ -18643,19 +18643,39 @@
     "ESE",
     "EALC",
     "ECON",
-    "EDUC"
+    "EDUC",
+    "EPOL",
+    "ERAM",
+    "EDPR",
+    "EPSY",
+    "ECE",
+    "ES",
+    "ENG",
+    "ETMA",
+    "ENGL",
+    "ESL",
+    "EIL",
+    "ENVS",
+    "ENSU",
+    "EURO",
+    "EXP",
+    "FIN",
+    "FAA",
+    "FSHN",
+    "FR",
+    "GSD"
   ],
   "partialSubjects": {
-    "EPOL": {
-      "completed": 17,
-      "total": 44,
+    "GWS": {
+      "completed": 30,
+      "total": 32,
       "lastCourse": "ABORTED"
     }
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 1555,
-    "failedCourses": 3,
+    "successfulCourses": 2109,
+    "failedCourses": 4,
     "rateLimitCount": 0
   }
 }
