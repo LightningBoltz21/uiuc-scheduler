@@ -4,7 +4,7 @@
   "year": "2026",
   "term": "fall",
   "startedAt": 1784519245392,
-  "lastUpdated": 1785122954456,
+  "lastUpdated": 1785726985651,
   "totalSubjects": 185,
   "totalCourses": 4503,
   "subjects": [
@@ -18733,19 +18733,45 @@
     "PSM",
     "PSYC",
     "QUEC",
-    "RST"
+    "RST",
+    "MBA",
+    "REL",
+    "RHET",
+    "RUSS",
+    "REES",
+    "SCAN",
+    "SLAV",
+    "SOCW",
+    "SOC",
+    "SAME",
+    "SPAN",
+    "SPED",
+    "SHS",
+    "STAT",
+    "SBC",
+    "SWAH",
+    "SE",
+    "TE",
+    "TMGT",
+    "THEA",
+    "TAM",
+    "TRST",
+    "TURK",
+    "UKR",
+    "UP",
+    "VCM"
   ],
   "partialSubjects": {
-    "MBA": {
-      "completed": 6,
-      "total": 14,
+    "VM": {
+      "completed": 8,
+      "total": 10,
       "lastCourse": "ABORTED"
     }
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 3908,
-    "failedCourses": 7,
+    "successfulCourses": 4493,
+    "failedCourses": 8,
     "rateLimitCount": 0
   }
 }
