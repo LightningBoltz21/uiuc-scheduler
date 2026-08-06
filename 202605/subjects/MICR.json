@@ -1,0 +1,117 @@
+{
+  "subject": "MICR",
+  "scrapedAt": 1785981969573,
+  "courseCount": 2,
+  "courses": {
+    "MICR 599": [
+      "Thesis Research",
+      {
+        "WQ": [
+          "23812",
+          [
+            [
+              1,
+              "",
+              "TBA",
+              0,
+              [
+                "Qin, W"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Approved for S/U grading only. May be repeated in the same term or in separate terms.",
+      []
+    ],
+    "MICR 590": [
+      "Individual Topics",
+      {
+        "10582": [
+          "10582",
+          [
+            [
+              1,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Approved for S/U grading only. May be repeated. Prerequisite: Consent of instructor.",
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "1800 - 2000",
+      "ARRANGED",
+      "0630 - 1900",
+      "0800 - 1930",
+      "0900 - 2200",
+      "0930 - 1430",
+      "0930 - 1530",
+      "0930 - 1730",
+      "0900 - 1050",
+      "1600 - 1650",
+      "0800 - 0950",
+      "1000 - 1050",
+      "1000 - 1150"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Online",
+      "Internship",
+      "Independent Study",
+      "Lecture",
+      "Seminar",
+      "Lecture 05/22/26",
+      "Study Abroad",
+      "Online Discussion",
+      "Lecture-Discussion",
+      "Online Lecture"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.1108856,
+        "long": -88.2269806
+      },
+      {
+        "lat": 40.110811306674734,
+        "long": -88.2248467072371
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}

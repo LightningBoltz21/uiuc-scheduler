@@ -1,0 +1,61 @@
+{
+  "subject": "LAST",
+  "scrapedAt": 1785981955236,
+  "courseCount": 1,
+  "courses": {
+    "LAST 490": [
+      "Individual Study",
+      {
+        "10499": [
+          "10499",
+          [
+            [
+              1,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Major tutorial normally taken in the senior year. Students read the works from list devised in consultation with a faculty tutor and write a term paper.",
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "1800 - 2000",
+      "ARRANGED"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Online",
+      "Internship",
+      "Independent Study"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}

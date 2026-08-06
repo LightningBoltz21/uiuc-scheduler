@@ -1,0 +1,301 @@
+{
+  "subject": "LAS",
+  "scrapedAt": 1785981958237,
+  "courseCount": 5,
+  "courses": {
+    "LAS 199": [
+      "Undergraduate Open Seminar",
+      {
+        "10492": [
+          "10492",
+          [
+            [
+              1,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "JPM": [
+          "21155",
+          [
+            [
+              1,
+              "",
+              "TBA",
+              0,
+              [
+                "Makela, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Topics will vary. See class schedule.",
+      []
+    ],
+    "LAS 289": [
+      "Internship Experience",
+      {
+        "1": [
+          "39639",
+          [
+            [
+              1,
+              "",
+              "TBA",
+              0,
+              [
+                "Makela, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Students follow a program of study and research through an approved internship. Written work report required.",
+      []
+    ],
+    "LAS 103": [
+      "BLS Online Student Success",
+      {
+        "1": [
+          "42605",
+          [
+            [
+              1,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Sackley, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Empowers first-term students in the online Bachelor of Liberal Studies program to thrive at Illinois. Students will learn about support services, connect with peers in the program, plan their transfer journey, and develop strategies for balancing academics and life. Tools are provided that will align academic and career experiences with students' unique goals.",
+      []
+    ],
+    "LAS 299": [
+      "LAS Study Abroad",
+      {
+        "A": [
+          "29966",
+          [
+            [
+              1,
+              "",
+              "TBA",
+              0,
+              [
+                "Beirn, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          18,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "A1": [
+          "30907",
+          [
+            [
+              1,
+              "",
+              "TBA",
+              0,
+              [
+                "Beirn, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          18,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "38429",
+          [
+            [
+              1,
+              "",
+              "TBA",
+              0,
+              [
+                "Beirn, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          18,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "S18": [
+          "42611",
+          [
+            [
+              1,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          18,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "Z": [
+          "34260",
+          [
+            [
+              1,
+              "",
+              "TBA",
+              0,
+              [
+                "Beirn, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          18,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Provides credit toward the undergraduate degree for study at accredited foreign institutions or approved overseas programs. Final determination of credit is made upon the student's completion of the work. (Summer session, 0 to 8 hours).",
+      []
+    ],
+    "LAS 494": [
+      "Senior Project",
+      {
+        "10493": [
+          "10493",
+          [
+            [
+              1,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "For students seeking graduation with distinction in IPS.",
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "1800 - 2000",
+      "ARRANGED",
+      "0630 - 1900",
+      "0800 - 1930",
+      "0900 - 2200",
+      "0930 - 1430",
+      "0930 - 1530",
+      "0930 - 1730"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Online",
+      "Internship",
+      "Independent Study",
+      "Lecture",
+      "Seminar",
+      "Lecture 05/22/26",
+      "Study Abroad"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}
