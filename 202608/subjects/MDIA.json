@@ -1,112 +1,198 @@
 {
-  "subject": "LCTL",
-  "scrapedAt": 1785981091202,
-  "courseCount": 4,
+  "subject": "MDIA",
+  "scrapedAt": 1785981132377,
+  "courseCount": 6,
   "courses": {
-    "LCTL 101": [
-      "Elementary Course in a Less Commonly Taught Language I",
+    "MDIA 299": [
+      "Media Study Abroad",
       {
-        "BU1": [
-          "74281",
+        "A": [
+          "56129",
           [
             [
-              37,
-              "MWRF",
-              "1140 Literatures, Cultures, & Ling",
-              23,
+              0,
+              "",
+              "TBA",
+              0,
               [
-                "Cooper, D",
-                "Dimitrova, I"
+                "Unassigned Instructor"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          5,
-          6,
+          18,
+          14,
           0,
           [],
           -1
         ]
       },
       [],
-      "Beginner or intensive language instruction in a selected less commonly taught language.",
+      "Provides credit toward the undergraduate degree for study at accredited foreign institutions or approved overseas programs. Final determination of credit is made upon the student's completion of the work.",
       []
     ],
-    "LCTL 301": [
-      "Advanced Course in a Less Commonly Taught Language I",
+    "MDIA 100": [
+      "College of Media Orientation",
       {
-        "BTA": [
-          "80074",
+        "AD1": [
+          "66241",
           [
             [
-              146,
-              "MW",
-              "ONLINE",
-              0,
+              10,
+              "W",
+              "259 English Building",
+              17,
               [
-                "Blazek, K"
+                "Morley, A"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          5,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Advanced or intensive language instruction in a selected less commonly taught language. May be repeated with approval. Prerequisite: Consent of instructor.",
-      []
-    ],
-    "LCTL 201": [
-      "Intermediate Course in a Less Commonly Taught Language I",
-      {
-        "BTA": [
-          "78563",
-          [
-            [
-              221,
-              "TR",
-              "ONLINE",
-              0,
-              [
-                "Blazek, K"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          0,
+          1,
+          3,
           0,
           [],
           -1
         ],
-        "BU2": [
-          "80051",
+        "AD4": [
+          "66242",
           [
             [
-              82,
-              "MW",
-              "1140 Literatures, Cultures, & Ling",
-              23,
+              10,
+              "W",
+              "165 Noyes Laboratory",
+              13,
               [
-                "Cooper, D",
-                "Dimitrova, I"
+                "Wolff, A"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          5,
+          1,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "AD5": [
+          "66243",
+          [
+            [
+              10,
+              "W",
+              "31 Psychology Building",
+              38,
+              [
+                "Chupp, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "AD6": [
+          "52464",
+          [
+            [
+              10,
+              "W",
+              "317 Gregory Hall",
+              12,
+              [
+                "Njoroge, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "66238",
+          [
+            [
+              10,
+              "M",
+              "100 Gregory Hall",
+              12,
+              [
+                "Njoroge, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "52462",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Njoroge, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "College of Media Orientation is designed to build academic and social integrity and to give students the resources they need to be responsible members of the University of Illinois community who earn degrees in a timely manner.",
+      []
+    ],
+    "MDIA 199": [
+      "Special Topics",
+      {
+        "NV": [
+          "63297",
+          [
+            [
+              10,
+              "MW",
+              "1 Gregory Hall",
+              12,
+              [
+                "Almanza, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
           6,
           0,
           [],
@@ -114,37 +200,97 @@
         ]
       },
       [],
-      "Intermediate or intensive language instruction in a selected less commonly taught language. May be repeated with approval. Prerequisite: Consent of instructor.",
+      "Subject offerings of new and developing areas of knowledge and practice in the fields of media. The course is intended to augment the existing curriculum. See Class Schedule or college course information for topics and prerequisites.",
       []
     ],
-    "LCTL 302": [
-      "Advanced Course in a Less Commonly Taught Language II",
+    "MDIA 400": [
+      "Special Topics",
       {
-        "BTA": [
-          "81899",
+        "A": [
+          "61462",
           [
             [
-              122,
-              "TR",
-              "ONLINE",
-              0,
+              46,
+              "R",
+              "336 Gregory Hall",
+              12,
               [
-                "Blazek, K"
+                "Su, L"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          5,
-          0,
+          3,
+          6,
           0,
           [],
           -1
         ]
       },
       [],
-      "Advanced or intensive language instruction in a selected less commonly taught language. May be repeated with approval. Prerequisite: Consent of instructor.",
+      "Varying topics including the cultural, social, historical, legal, economic, political, and other issues that influence or are influenced by Media.",
+      []
+    ],
+    "MDIA 571": [
+      "Proseminar I",
+      {
+        "G": [
+          "53207",
+          [
+            [
+              55,
+              "R",
+              "336 Gregory Hall",
+              12,
+              [
+                "Su, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Addresses the mass media of communications, their role as social institutions, and their control and support. Examines evolution of research on mass media content, audience, and effects.",
+      []
+    ],
+    "MDIA 590": [
+      "Special Topics",
+      {
+        "53208": [
+          "53208",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "May be repeated in the same or in multiple semesters if topics vary.",
       []
     ]
   },
@@ -371,7 +517,11 @@
       "1745 - 1925",
       "1315 - 1445",
       "1800 - 2005",
-      "1010 - 1125"
+      "1010 - 1125",
+      "1700 - 1900",
+      "1715 - 1915",
+      "0830 - 1020",
+      "1000 - 1130"
     ],
     "dateRanges": [],
     "scheduleTypes": [
@@ -410,7 +560,8 @@
       "Lecture 08/25/26-10/06/26",
       "Lecture-Discussion 08/25/26-10/06/26",
       "Lecture-Discussion 09/21/26-10/01/26",
-      "Online 11/09/26-11/20/26"
+      "Online 11/09/26-11/20/26",
+      "Lecture-Discussion 08/30/26-12/09/26"
     ],
     "campuses": [],
     "attributes": [],
@@ -624,6 +775,10 @@
       {
         "lat": 40.10099,
         "long": -88.23159
+      },
+      {
+        "lat": 40.1116416,
+        "long": -88.2248868
       }
     ],
     "finalDates": [],

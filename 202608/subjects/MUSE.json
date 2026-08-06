@@ -1,29 +1,28 @@
 {
-  "subject": "LCTL",
-  "scrapedAt": 1785981091202,
-  "courseCount": 4,
+  "subject": "MUSE",
+  "scrapedAt": 1785981154993,
+  "courseCount": 3,
   "courses": {
-    "LCTL 101": [
-      "Elementary Course in a Less Commonly Taught Language I",
+    "MUSE 500": [
+      "Core Prob Museum Theory & Prac",
       {
-        "BU1": [
-          "74281",
+        "1": [
+          "55607",
           [
             [
-              37,
-              "MWRF",
-              "1140 Literatures, Cultures, & Ling",
-              23,
+              3,
+              "MWF",
+              "1068 Lincoln Hall",
+              11,
               [
-                "Cooper, D",
-                "Dimitrova, I"
+                "Frankenberg, S"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          5,
+          4,
           6,
           0,
           [],
@@ -31,82 +30,59 @@
         ]
       },
       [],
-      "Beginner or intensive language instruction in a selected less commonly taught language.",
+      "A critical examination of both historical and current theoretical issues in museum practice. Addresses the development of museums within varied social, cultural and intellectual contexts, and the conceptualizations and criticisms of museums in terms of paradigmatic, institutional, symbolic and other theories. In addition to surveying the broad range of theoretical frameworks adopted in contemporary museum scholarship, students will examine and evaluate curatorial and institutional strategies for responding to the myriad external pressure (including multiple constituencies, standards and best practices) currently placed on museums.",
       []
     ],
-    "LCTL 301": [
-      "Advanced Course in a Less Commonly Taught Language I",
+    "MUSE 390": [
+      "Museum Internship",
       {
-        "BTA": [
-          "80074",
+        "1": [
+          "60355",
           [
             [
-              146,
-              "MW",
-              "ONLINE",
+              0,
+              "",
+              "TBA",
               0,
               [
-                "Blazek, K"
+                "Frankenberg, S"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          5,
-          0,
+          3,
+          4,
           0,
           [],
           -1
         ]
       },
       [],
-      "Advanced or intensive language instruction in a selected less commonly taught language. May be repeated with approval. Prerequisite: Consent of instructor.",
+      "Supervised field experience in museums, both on and off-campus, designed to introduce students to professional practice. Builds on museum studies coursework, and provides opportunities for applying academic knowledge and analyzing personal development. Students work part-time (150 hours) in a program-approved museum under the guidance of an instructional team. Requires an internship contract before the term, regular reporting and documentation during the term, and compilation of a project portfolio at the end of the term.",
       []
     ],
-    "LCTL 201": [
-      "Intermediate Course in a Less Commonly Taught Language I",
+    "MUSE 200": [
+      "Introduction to Museums",
       {
-        "BTA": [
-          "78563",
+        "1": [
+          "55606",
           [
             [
-              221,
-              "TR",
-              "ONLINE",
-              0,
+              1,
+              "MWF",
+              "214 Davenport Hall",
+              18,
               [
-                "Blazek, K"
+                "Frankenberg, S"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          5,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "BU2": [
-          "80051",
-          [
-            [
-              82,
-              "MW",
-              "1140 Literatures, Cultures, & Ling",
-              23,
-              [
-                "Cooper, D",
-                "Dimitrova, I"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
+          3,
           6,
           0,
           [],
@@ -114,37 +90,7 @@
         ]
       },
       [],
-      "Intermediate or intensive language instruction in a selected less commonly taught language. May be repeated with approval. Prerequisite: Consent of instructor.",
-      []
-    ],
-    "LCTL 302": [
-      "Advanced Course in a Less Commonly Taught Language II",
-      {
-        "BTA": [
-          "81899",
-          [
-            [
-              122,
-              "TR",
-              "ONLINE",
-              0,
-              [
-                "Blazek, K"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Advanced or intensive language instruction in a selected less commonly taught language. May be repeated with approval. Prerequisite: Consent of instructor.",
+      "A broad introduction to the museum world, focusing on what a museum is, what differentiates various types of museums, and how museums function. Examines museums in terms of education, curation, exhibition, public relations, research, administration, ethical and legal obligations, funding and knowledge.",
       []
     ]
   },
@@ -371,7 +317,14 @@
       "1745 - 1925",
       "1315 - 1445",
       "1800 - 2005",
-      "1010 - 1125"
+      "1010 - 1125",
+      "1700 - 1900",
+      "1715 - 1915",
+      "0830 - 1020",
+      "1000 - 1130",
+      "1130 - 1250",
+      "1000 - 1350",
+      "1600 - 1745"
     ],
     "dateRanges": [],
     "scheduleTypes": [
@@ -410,7 +363,8 @@
       "Lecture 08/25/26-10/06/26",
       "Lecture-Discussion 08/25/26-10/06/26",
       "Lecture-Discussion 09/21/26-10/01/26",
-      "Online 11/09/26-11/20/26"
+      "Online 11/09/26-11/20/26",
+      "Lecture-Discussion 08/30/26-12/09/26"
     ],
     "campuses": [],
     "attributes": [],
@@ -624,6 +578,10 @@
       {
         "lat": 40.10099,
         "long": -88.23159
+      },
+      {
+        "lat": 40.1116416,
+        "long": -88.2248868
       }
     ],
     "finalDates": [],

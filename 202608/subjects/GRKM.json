@@ -1,22 +1,51 @@
 {
-  "subject": "LCTL",
-  "scrapedAt": 1785981091202,
+  "subject": "GRKM",
+  "scrapedAt": 1785981144338,
   "courseCount": 4,
   "courses": {
-    "LCTL 101": [
-      "Elementary Course in a Less Commonly Taught Language I",
+    "GRKM 403": [
+      "Intermediate Modern Greek I",
       {
-        "BU1": [
-          "74281",
+        "A": [
+          "70930",
           [
             [
-              37,
-              "MWRF",
-              "1140 Literatures, Cultures, & Ling",
-              23,
+              6,
+              "MWF",
+              "1026 Lincoln Hall",
+              11,
               [
-                "Cooper, D",
-                "Dimitrova, I"
+                "Moulita, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Advances students' knowledge of Modern Greek grammar and vocabulary and enables them to converse in Modern Greek by exposing them to different uses of Modern Greek in day-to-day communication, and to expand their knowledge of Modern Greek culture. Online language laboratory and internet assignments required.",
+      []
+    ],
+    "GRKM 201": [
+      "Elementary Modern Greek I",
+      {
+        "A": [
+          "70931",
+          [
+            [
+              4,
+              "MWF",
+              "1065 Lincoln Hall",
+              11,
+              [
+                "Pyrgali, M"
               ],
               -1,
               -1,
@@ -31,22 +60,22 @@
         ]
       },
       [],
-      "Beginner or intensive language instruction in a selected less commonly taught language.",
+      "Develops elementary proficiency in spoken and written Modern Greek, and introduces elements of cultural knowledge. Familiarizes beginning students with the Greek alphabet and modern Greek pronunciation rules, and introduces Modern Greek morphology and syntax. Emphasizes listening comprehension, reading skills, and basic conversational skills. Online language laboratory and internet assignments required.",
       []
     ],
-    "LCTL 301": [
-      "Advanced Course in a Less Commonly Taught Language I",
+    "GRKM 199": [
+      "Undergraduate Open Seminar",
       {
-        "BTA": [
-          "80074",
+        "61152": [
+          "61152",
           [
             [
-              146,
-              "MW",
-              "ONLINE",
+              0,
+              "",
+              "TBA",
               0,
               [
-                "Blazek, K"
+                "Unassigned Instructor"
               ],
               -1,
               -1,
@@ -54,59 +83,36 @@
             ]
           ],
           5,
-          0,
+          1,
           0,
           [],
           -1
         ]
       },
       [],
-      "Advanced or intensive language instruction in a selected less commonly taught language. May be repeated with approval. Prerequisite: Consent of instructor.",
+      "May be repeated in separate terms.",
       []
     ],
-    "LCTL 201": [
-      "Intermediate Course in a Less Commonly Taught Language I",
+    "GRKM 453": [
+      "Advanced Modern Greek I",
       {
-        "BTA": [
-          "78563",
+        "A": [
+          "80755",
           [
             [
-              221,
-              "TR",
-              "ONLINE",
-              0,
-              [
-                "Blazek, K"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "BU2": [
-          "80051",
-          [
-            [
-              82,
+              7,
               "MW",
-              "1140 Literatures, Cultures, & Ling",
-              23,
+              "1020 Lincoln Hall",
+              11,
               [
-                "Cooper, D",
-                "Dimitrova, I"
+                "Hadjipolycarpou, M"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          5,
+          3,
           6,
           0,
           [],
@@ -114,37 +120,7 @@
         ]
       },
       [],
-      "Intermediate or intensive language instruction in a selected less commonly taught language. May be repeated with approval. Prerequisite: Consent of instructor.",
-      []
-    ],
-    "LCTL 302": [
-      "Advanced Course in a Less Commonly Taught Language II",
-      {
-        "BTA": [
-          "81899",
-          [
-            [
-              122,
-              "TR",
-              "ONLINE",
-              0,
-              [
-                "Blazek, K"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Advanced or intensive language instruction in a selected less commonly taught language. May be repeated with approval. Prerequisite: Consent of instructor.",
+      "Practice to enable students to attain conversational fluency and to become independent users of the language who deal effectively and with a good deal of accuracy with familiar communication situations.",
       []
     ]
   },
@@ -371,7 +347,12 @@
       "1745 - 1925",
       "1315 - 1445",
       "1800 - 2005",
-      "1010 - 1125"
+      "1010 - 1125",
+      "1700 - 1900",
+      "1715 - 1915",
+      "0830 - 1020",
+      "1000 - 1130",
+      "1130 - 1250"
     ],
     "dateRanges": [],
     "scheduleTypes": [
@@ -410,7 +391,8 @@
       "Lecture 08/25/26-10/06/26",
       "Lecture-Discussion 08/25/26-10/06/26",
       "Lecture-Discussion 09/21/26-10/01/26",
-      "Online 11/09/26-11/20/26"
+      "Online 11/09/26-11/20/26",
+      "Lecture-Discussion 08/30/26-12/09/26"
     ],
     "campuses": [],
     "attributes": [],
@@ -624,6 +606,10 @@
       {
         "lat": 40.10099,
         "long": -88.23159
+      },
+      {
+        "lat": 40.1116416,
+        "long": -88.2248868
       }
     ],
     "finalDates": [],

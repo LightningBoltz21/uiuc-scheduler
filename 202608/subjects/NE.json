@@ -1,153 +1,8 @@
 {
-  "subject": "LCTL",
-  "scrapedAt": 1785981091202,
-  "courseCount": 4,
-  "courses": {
-    "LCTL 101": [
-      "Elementary Course in a Less Commonly Taught Language I",
-      {
-        "BU1": [
-          "74281",
-          [
-            [
-              37,
-              "MWRF",
-              "1140 Literatures, Cultures, & Ling",
-              23,
-              [
-                "Cooper, D",
-                "Dimitrova, I"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          6,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Beginner or intensive language instruction in a selected less commonly taught language.",
-      []
-    ],
-    "LCTL 301": [
-      "Advanced Course in a Less Commonly Taught Language I",
-      {
-        "BTA": [
-          "80074",
-          [
-            [
-              146,
-              "MW",
-              "ONLINE",
-              0,
-              [
-                "Blazek, K"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Advanced or intensive language instruction in a selected less commonly taught language. May be repeated with approval. Prerequisite: Consent of instructor.",
-      []
-    ],
-    "LCTL 201": [
-      "Intermediate Course in a Less Commonly Taught Language I",
-      {
-        "BTA": [
-          "78563",
-          [
-            [
-              221,
-              "TR",
-              "ONLINE",
-              0,
-              [
-                "Blazek, K"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "BU2": [
-          "80051",
-          [
-            [
-              82,
-              "MW",
-              "1140 Literatures, Cultures, & Ling",
-              23,
-              [
-                "Cooper, D",
-                "Dimitrova, I"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          6,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Intermediate or intensive language instruction in a selected less commonly taught language. May be repeated with approval. Prerequisite: Consent of instructor.",
-      []
-    ],
-    "LCTL 302": [
-      "Advanced Course in a Less Commonly Taught Language II",
-      {
-        "BTA": [
-          "81899",
-          [
-            [
-              122,
-              "TR",
-              "ONLINE",
-              0,
-              [
-                "Blazek, K"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Advanced or intensive language instruction in a selected less commonly taught language. May be repeated with approval. Prerequisite: Consent of instructor.",
-      []
-    ]
-  },
+  "subject": "NE",
+  "scrapedAt": 1785981205680,
+  "courseCount": 0,
+  "courses": {},
   "caches": {
     "periods": [
       "ARRANGED",
@@ -371,7 +226,29 @@
       "1745 - 1925",
       "1315 - 1445",
       "1800 - 2005",
-      "1010 - 1125"
+      "1010 - 1125",
+      "1700 - 1900",
+      "1715 - 1915",
+      "0830 - 1020",
+      "1000 - 1130",
+      "1130 - 1250",
+      "1000 - 1350",
+      "1600 - 1745",
+      "1430 - 1520",
+      "1600 - 1800",
+      "1400 - 1530",
+      "1730 - 1845",
+      "1930 - 2020",
+      "1930 - 2130",
+      "1900 - 2200",
+      "1000 - 1300",
+      "1300 - 1530",
+      "1900 - 2120",
+      "2000 - 2130",
+      "1830 - 2130",
+      "1900 - 2030",
+      "1540 - 1830",
+      "0600 - 0750"
     ],
     "dateRanges": [],
     "scheduleTypes": [
@@ -410,7 +287,8 @@
       "Lecture 08/25/26-10/06/26",
       "Lecture-Discussion 08/25/26-10/06/26",
       "Lecture-Discussion 09/21/26-10/01/26",
-      "Online 11/09/26-11/20/26"
+      "Online 11/09/26-11/20/26",
+      "Lecture-Discussion 08/30/26-12/09/26"
     ],
     "campuses": [],
     "attributes": [],
@@ -624,6 +502,10 @@
       {
         "lat": 40.10099,
         "long": -88.23159
+      },
+      {
+        "lat": 40.1116416,
+        "long": -88.2248868
       }
     ],
     "finalDates": [],

@@ -1,150 +1,36 @@
 {
-  "subject": "LCTL",
-  "scrapedAt": 1785981091202,
-  "courseCount": 4,
+  "subject": "SLCL",
+  "scrapedAt": 1785981102290,
+  "courseCount": 1,
   "courses": {
-    "LCTL 101": [
-      "Elementary Course in a Less Commonly Taught Language I",
+    "SLCL 520": [
+      "SLCL Practice",
       {
-        "BU1": [
-          "74281",
+        "78228": [
+          "78228",
           [
             [
-              37,
-              "MWRF",
-              "1140 Literatures, Cultures, & Ling",
-              23,
-              [
-                "Cooper, D",
-                "Dimitrova, I"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          6,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Beginner or intensive language instruction in a selected less commonly taught language.",
-      []
-    ],
-    "LCTL 301": [
-      "Advanced Course in a Less Commonly Taught Language I",
-      {
-        "BTA": [
-          "80074",
-          [
-            [
-              146,
-              "MW",
-              "ONLINE",
+              0,
+              "",
+              "TBA",
               0,
               [
-                "Blazek, K"
+                "Unassigned Instructor"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          5,
           0,
+          5,
           0,
           [],
           -1
         ]
       },
       [],
-      "Advanced or intensive language instruction in a selected less commonly taught language. May be repeated with approval. Prerequisite: Consent of instructor.",
-      []
-    ],
-    "LCTL 201": [
-      "Intermediate Course in a Less Commonly Taught Language I",
-      {
-        "BTA": [
-          "78563",
-          [
-            [
-              221,
-              "TR",
-              "ONLINE",
-              0,
-              [
-                "Blazek, K"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "BU2": [
-          "80051",
-          [
-            [
-              82,
-              "MW",
-              "1140 Literatures, Cultures, & Ling",
-              23,
-              [
-                "Cooper, D",
-                "Dimitrova, I"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          6,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Intermediate or intensive language instruction in a selected less commonly taught language. May be repeated with approval. Prerequisite: Consent of instructor.",
-      []
-    ],
-    "LCTL 302": [
-      "Advanced Course in a Less Commonly Taught Language II",
-      {
-        "BTA": [
-          "81899",
-          [
-            [
-              122,
-              "TR",
-              "ONLINE",
-              0,
-              [
-                "Blazek, K"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Advanced or intensive language instruction in a selected less commonly taught language. May be repeated with approval. Prerequisite: Consent of instructor.",
+      "Internship course for international graduate students in the School of Literatures, Cultures and Linguistics who are completing curricular practical training (CPT), either full-time or part-time, that is related to their major field of study and forms an important part of their program of study.",
       []
     ]
   },
@@ -371,7 +257,10 @@
       "1745 - 1925",
       "1315 - 1445",
       "1800 - 2005",
-      "1010 - 1125"
+      "1010 - 1125",
+      "1700 - 1900",
+      "1715 - 1915",
+      "0830 - 1020"
     ],
     "dateRanges": [],
     "scheduleTypes": [

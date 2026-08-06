@@ -1,112 +1,528 @@
 {
-  "subject": "LCTL",
-  "scrapedAt": 1785981091202,
-  "courseCount": 4,
+  "subject": "MIP",
+  "scrapedAt": 1785981154478,
+  "courseCount": 3,
   "courses": {
-    "LCTL 101": [
-      "Elementary Course in a Less Commonly Taught Language I",
+    "MIP 599": [
+      "Thesis Research",
       {
-        "BU1": [
-          "74281",
+        "BDA": [
+          "25520",
           [
             [
-              37,
-              "MWRF",
-              "1140 Literatures, Cultures, & Ling",
-              23,
-              [
-                "Cooper, D",
-                "Dimitrova, I"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          6,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Beginner or intensive language instruction in a selected less commonly taught language.",
-      []
-    ],
-    "LCTL 301": [
-      "Advanced Course in a Less Commonly Taught Language I",
-      {
-        "BTA": [
-          "80074",
-          [
-            [
-              146,
-              "MW",
-              "ONLINE",
+              0,
+              "",
+              "TBA",
               0,
               [
-                "Blazek, K"
+                "Auerbach, B"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          5,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Advanced or intensive language instruction in a selected less commonly taught language. May be repeated with approval. Prerequisite: Consent of instructor.",
-      []
-    ],
-    "LCTL 201": [
-      "Intermediate Course in a Less Commonly Taught Language I",
-      {
-        "BTA": [
-          "78563",
-          [
-            [
-              221,
-              "TR",
-              "ONLINE",
-              0,
-              [
-                "Blazek, K"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          0,
+          16,
+          1,
           0,
           [],
           -1
         ],
-        "BU2": [
-          "80051",
+        "BW": [
+          "25547",
           [
             [
-              82,
-              "MW",
-              "1140 Literatures, Cultures, & Ling",
-              23,
+              0,
+              "",
+              "TBA",
+              0,
               [
-                "Cooper, D",
-                "Dimitrova, I"
+                "Wang, B"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          5,
+          16,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "CCH": [
+          "64149",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Christian-Hinman, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "CFG": [
+          "25513",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Grosman, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "DAL": [
+          "25533",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Llano, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ECB": [
+          "55795",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Bolton, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "EJR": [
+          "25527",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Roy, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "EN": [
+          "64154",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Nelson, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "HJC": [
+          "55794",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Chung, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "HQ": [
+          "25428",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Qiao, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "JVS": [
+          "25521",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Sweedler, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "LTR": [
+          "25539",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Raetzman, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "MKB": [
+          "25542",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Bagchi, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "MUG": [
+          "25543",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Gillette, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "NPT": [
+          "64159",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Tsai, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "PPP": [
+          "25541",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Perez Pinera, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "PSW": [
+          "25517",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Sweeney, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "RG": [
+          "25530",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Gillette, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "SA": [
+          "25525",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Anakk, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "TMF": [
+          "25512",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Fan, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "XY": [
+          "25544",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Yu, X"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Research may be conducted under supervision of the thesis advisor in the following areas: (a) cellular and molecular physiology; (b) comparative physiology; (c) mammalian physiology; (d) human physiology; (e) endocrinology; (f) neurophysiology; (g) radiobiology; and (h) environmental and stress physiology.",
+      []
+    ],
+    "MIP 590": [
+      "Individual Topics",
+      {
+        "10166": [
+          "10166",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "For graduate students wishing to study individual problems or topics not assigned in other courses.",
+      []
+    ],
+    "MIP 595": [
+      "Seminars in Physiology",
+      {
+        "1": [
+          "32811",
+          [
+            [
+              3,
+              "R",
+              "TBA",
+              0,
+              [
+                "Sweeney, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
           6,
           0,
           [],
@@ -114,37 +530,7 @@
         ]
       },
       [],
-      "Intermediate or intensive language instruction in a selected less commonly taught language. May be repeated with approval. Prerequisite: Consent of instructor.",
-      []
-    ],
-    "LCTL 302": [
-      "Advanced Course in a Less Commonly Taught Language II",
-      {
-        "BTA": [
-          "81899",
-          [
-            [
-              122,
-              "TR",
-              "ONLINE",
-              0,
-              [
-                "Blazek, K"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Advanced or intensive language instruction in a selected less commonly taught language. May be repeated with approval. Prerequisite: Consent of instructor.",
+      "Advanced seminars on current topics of interest in physiology.",
       []
     ]
   },
@@ -371,7 +757,14 @@
       "1745 - 1925",
       "1315 - 1445",
       "1800 - 2005",
-      "1010 - 1125"
+      "1010 - 1125",
+      "1700 - 1900",
+      "1715 - 1915",
+      "0830 - 1020",
+      "1000 - 1130",
+      "1130 - 1250",
+      "1000 - 1350",
+      "1600 - 1745"
     ],
     "dateRanges": [],
     "scheduleTypes": [
@@ -410,7 +803,8 @@
       "Lecture 08/25/26-10/06/26",
       "Lecture-Discussion 08/25/26-10/06/26",
       "Lecture-Discussion 09/21/26-10/01/26",
-      "Online 11/09/26-11/20/26"
+      "Online 11/09/26-11/20/26",
+      "Lecture-Discussion 08/30/26-12/09/26"
     ],
     "campuses": [],
     "attributes": [],
@@ -624,6 +1018,10 @@
       {
         "lat": 40.10099,
         "long": -88.23159
+      },
+      {
+        "lat": 40.1116416,
+        "long": -88.2248868
       }
     ],
     "finalDates": [],
