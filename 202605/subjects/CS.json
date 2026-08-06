@@ -1,0 +1,1111 @@
+{
+  "subject": "CS",
+  "scrapedAt": 1785981694343,
+  "courseCount": 16,
+  "courses": {
+    "CS 199": [
+      "Undergraduate Open Seminar in Computer Science",
+      {
+        "REU": [
+          "40367",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Amato, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Approved for Letter and S/U grading. May be repeated.",
+      []
+    ],
+    "CS 173": [
+      "Discrete Structures",
+      {
+        "ONL": [
+          "37287",
+          [
+            [
+              20,
+              "TWRF",
+              "ONLINE",
+              0,
+              [
+                "Braught, K Braught, K"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              21,
+              "M",
+              "ONLINE",
+              0,
+              [
+                "Braught, K Braught, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "[IAI Code: CS915] Discrete mathematical structures frequently encountered in the study of Computer Science. Sets, propositions, Boolean algebra, induction, recursion, relations, functions, and graphs.",
+      []
+    ],
+    "CS 128": [
+      "Introduction to Computer Science II",
+      {
+        "AL1": [
+          "41573",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Nowak, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Continuation of CS 124. More advanced concepts in computing and techniques and approaches for solving computational problems.",
+      []
+    ],
+    "CS 397": [
+      "Individual Study",
+      {
+        "14855": [
+          "14855",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "May be repeated. Prerequisite: Consent of instructor.",
+      []
+    ],
+    "CS 374": [
+      "Introduction to Algorithms & Models of Computation",
+      {
+        "AL1": [
+          "42186",
+          [
+            [
+              22,
+              "TR",
+              "2015 Electrical & Computer Eng Bldg",
+              6,
+              [
+                "Kani, N Kani, N"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Kani, N Kani, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          11,
+          0,
+          [],
+          -1
+        ],
+        "OL1": [
+          "42237",
+          [
+            [
+              22,
+              "TR",
+              "ONLINE",
+              0,
+              [
+                "Kani, N Kani, N"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Kani, N Kani, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          14,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Analysis of algorithms, major paradigms of algorithm design including recursive algorithms, divide-and-conquer algorithms, dynamic programming, greedy algorithms, and graph algorithms. Formal models of computation including finite automata and Turing machines. Limitations of computation arising from fundamental notions of algorithm and from complexity-theoretic constraints. Reductions, undecidability and NP-completeness.",
+      []
+    ],
+    "CS 411": [
+      "Database Systems",
+      {
+        "DS3": [
+          "32359",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Alawini, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "DS4": [
+          "37192",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Alawini, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "G3": [
+          "30787",
+          [
+            [
+              20,
+              "MTW",
+              "ONLINE",
+              0,
+              [
+                "Alawini, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "G4": [
+          "40318",
+          [
+            [
+              20,
+              "MTW",
+              "ONLINE",
+              0,
+              [
+                "Alawini, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "U3": [
+          "40317",
+          [
+            [
+              20,
+              "MTW",
+              "ONLINE",
+              0,
+              [
+                "Alawini, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Examination of the logical organization of databases: the entity-relationship model; the hierarchical, network, and relational data models and their languages. Functional dependencies and normal forms. Design, implementation, and optimization of query languages; security and integrity; concurrency control, and distributed database systems.",
+      []
+    ],
+    "CS 412": [
+      "Introduction to Data Mining",
+      {
+        "DS3": [
+          "42629",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Tahboub, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "DS4": [
+          "42388",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Tahboub, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "G3": [
+          "42630",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Tahboub, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "G4": [
+          "38747",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Tahboub, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "U": [
+          "38746",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Tahboub, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Concepts, techniques, and systems of data warehousing and data mining. Design and implementation of data warehouse and on-line analytical processing (OLAP) systems; data mining concepts, methods, systems, implementations, and applications.",
+      []
+    ],
+    "CS 416": [
+      "Data Visualization",
+      {
+        "DSO": [
+          "41346",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Hart, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "G3": [
+          "42633",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Hart, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "G4": [
+          "41345",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Hart, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "U": [
+          "41652",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Hart, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Elements of databases, computer graphics and perceptual psychology combined to utilize the human visual system to improve user understanding of large datasets. Topics include appropriate and effective selection and construction of charts, organization of dashboards, and design for user engagement and interaction.",
+      []
+    ],
+    "CS 421": [
+      "Programming Languages & Compilers",
+      {
+        "DS3": [
+          "40640",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Beckman, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "DS4": [
+          "37194",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Beckman, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "G3": [
+          "40621",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Beckman, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "G4": [
+          "30794",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Beckman, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "U": [
+          "30792",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Beckman, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Structure of programming languages and their implementation. Basic language design principles; abstract data types; functional languages; type systems; object-oriented languages. Basics of lexing, parsing, syntax-directed translation, semantic analysis, and code generation.",
+      []
+    ],
+    "CS 440": [
+      "Artificial Intelligence",
+      {
+        "DS3": [
+          "42634",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Attali, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "DS4": [
+          "42635",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Attali, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "G3": [
+          "42637",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Attali, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "G4": [
+          "42638",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Attali, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "U": [
+          "42636",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Attali, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Major topics in and directions of research in artificial intelligence: basic problem solving techniques, knowledge representation and computer inference, machine learning, natural language understanding, computer vision, robotics, and societal impacts.",
+      []
+    ],
+    "CS 483": [
+      "Applied Parallel Programming",
+      {
+        "AB": [
+          "42284",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Lumetta, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          13,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "42283",
+          [
+            [
+              19,
+              "MW",
+              "ONLINE",
+              0,
+              [
+                "Lumetta, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as CSE 408 and ECE 408. See ECE 408.",
+      []
+    ],
+    "CS 499": [
+      "Senior Thesis",
+      {
+        "10465": [
+          "10465",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Research and thesis development experience in computer science under guidance of a faculty member. Literature search, oral presentation, analysis and implementation, paper preparation, and completion of a written thesis.",
+      []
+    ],
+    "CS 513": [
+      "Theory & Practice of Data Cleaning",
+      {
+        "AO": [
+          "40022",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Ludaescher, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "CHI": [
+          "42250",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Ludaescher, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      null,
+      []
+    ],
+    "CS 519": [
+      "Scientific Visualization",
+      {
+        "DSO": [
+          "41654",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Shaffer, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "G": [
+          "41653",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Shaffer, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Visualization techniques useful in analysis of engineering and scientific data. Physical models; methods of computational science; two- and three-dimensional data types; visual representation schemes for scalar, vector, and tensor data; isosurface and volume visualization methods; visual monitoring; interactive steering.",
+      []
+    ],
+    "CS 591": [
+      "Advanced Seminar",
+      {
+        "TA": [
+          "42760",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Lewis, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          15,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Seminar on topics of current interest as announced in the Class Schedule.",
+      []
+    ],
+    "CS 598": [
+      "Special Topics",
+      {
+        "DM": [
+          "40021",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Farivar, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Subject offerings of new and developing areas of knowledge in computer science intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites.",
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "ARRANGED",
+      "0800 - 1150",
+      "1000 - 1150",
+      "0800 - 0950",
+      "1300 - 1500",
+      "0930 - 1700",
+      "1300 - 1350",
+      "0800 - 1700",
+      "1800 - 2000",
+      "1400 - 1550",
+      "1230 - 1350",
+      "0800 - 0920",
+      "0930 - 1050",
+      "1800 - 1915",
+      "1000 - 1115",
+      "1730 - 1930",
+      "1300 - 1700",
+      "1000 - 2000",
+      "1230 - 1520",
+      "0900 - 1040",
+      "1100 - 1215",
+      "1100 - 1150",
+      "1000 - 1120"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Online",
+      "Independent Study",
+      "Internship",
+      "Travel",
+      "Lecture",
+      "Online Lecture",
+      "Conference",
+      "Laboratory-Discussion",
+      "Lecture-Discussion",
+      "Research",
+      "Practice",
+      "Discussion/Recitation",
+      "Study Abroad",
+      "Online Lab",
+      "Online Discussion",
+      "Online Lecture-Discussion"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.108570819242026,
+        "long": -88.22518453938676
+      },
+      {
+        "lat": 40.1035872,
+        "long": -88.2306061
+      },
+      {
+        "lat": 40.1065684,
+        "long": -88.2281746
+      },
+      {
+        "lat": 40.1108856,
+        "long": -88.2269806
+      },
+      {
+        "lat": 40.1047599,
+        "long": -88.2319514
+      },
+      {
+        "lat": 40.1149296,
+        "long": -88.2280589
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}

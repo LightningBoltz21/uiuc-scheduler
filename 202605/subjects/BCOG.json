@@ -1,0 +1,80 @@
+{
+  "subject": "BCOG",
+  "scrapedAt": 1785981659235,
+  "courseCount": 1,
+  "courses": {
+    "BCOG 200": [
+      "Introduction to Programming for the Brain and Cognitive Sciences",
+      {
+        "2ON": [
+          "41914",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Willits, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to computer programming concepts and their application to the study of brain and cognitive sciences. The course will teach basic programming concepts in Python, and introduce applications to experiment and game design, data analysis, computational modeling, and simulations.",
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "ARRANGED",
+      "0800 - 1150",
+      "1000 - 1150",
+      "0800 - 0950",
+      "1300 - 1500",
+      "0930 - 1700",
+      "1300 - 1350",
+      "0800 - 1700"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Online",
+      "Independent Study",
+      "Internship",
+      "Travel",
+      "Lecture",
+      "Online Lecture",
+      "Conference",
+      "Laboratory-Discussion",
+      "Lecture-Discussion",
+      "Research",
+      "Practice",
+      "Discussion/Recitation"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.108570819242026,
+        "long": -88.22518453938676
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}

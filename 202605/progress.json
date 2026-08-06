@@ -4,7 +4,7 @@
   "year": "2026",
   "term": "summer",
   "startedAt": 1785981443927,
-  "lastUpdated": 1785981555792,
+  "lastUpdated": 1785981705603,
   "totalSubjects": 150,
   "totalCourses": 1062,
   "subjects": [
@@ -4733,19 +4733,48 @@
     "ARTH",
     "ARTS",
     "AAS",
-    "ASST"
+    "ASST",
+    "ASTR",
+    "ATMS",
+    "BIOC",
+    "BIOE",
+    "BSE",
+    "BIOP",
+    "BCOG",
+    "BUS",
+    "BADM",
+    "BTW",
+    "CDB",
+    "CHBE",
+    "CHEM",
+    "CEE",
+    "CLCV",
+    "CLE",
+    "CIC",
+    "CMN",
+    "CB",
+    "CWL",
+    "CSE",
+    "CS",
+    "CW",
+    "CPSC",
+    "CI",
+    "DANC",
+    "ESE",
+    "EALC",
+    "ECON"
   ],
   "partialSubjects": {
-    "ASTR": {
+    "EDUC": {
       "completed": 0,
-      "total": 6,
+      "total": 1,
       "lastCourse": "ABORTED"
     }
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 133,
-    "failedCourses": 1,
+    "successfulCourses": 429,
+    "failedCourses": 2,
     "rateLimitCount": 0
   }
 }
