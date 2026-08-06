@@ -4,7 +4,7 @@
   "year": "2026",
   "term": "fall",
   "startedAt": 1785980334393,
-  "lastUpdated": 1785981205683,
+  "lastUpdated": 1785981355601,
   "totalSubjects": 186,
   "totalCourses": 4497,
   "subjects": [
@@ -18696,19 +18696,48 @@
     "MUS",
     "MUSC",
     "NRES",
-    "NS"
+    "NS",
+    "NE",
+    "NEUR",
+    "NPRE",
+    "NUTR",
+    "LEAD",
+    "PATH",
+    "PERS",
+    "PHIL",
+    "PHYS",
+    "PLPA",
+    "POL",
+    "PS",
+    "PORT",
+    "PSM",
+    "PSYC",
+    "QUEC",
+    "RST",
+    "MBA",
+    "REL",
+    "RHET",
+    "RUSS",
+    "REES",
+    "SCAN",
+    "SLAV",
+    "SOCW",
+    "SOC",
+    "SAME",
+    "SPAN",
+    "SPED"
   ],
   "partialSubjects": {
-    "NE": {
-      "completed": 0,
-      "total": 5,
+    "SHS": {
+      "completed": 31,
+      "total": 42,
       "lastCourse": "ABORTED"
     }
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 3491,
-    "failedCourses": 6,
+    "successfulCourses": 4167,
+    "failedCourses": 7,
     "rateLimitCount": 0
   }
 }
