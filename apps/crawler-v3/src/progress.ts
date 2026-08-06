@@ -761,10 +761,72 @@ export function writeIndexTemp(
   terms: Array<{ term: string; name: string }>,
   outputDir: string
 ): void {
-  const indexData = { terms };
+  const indexData = { terms: mergeWithExistingTerms(terms, outputDir) };
   const tempPath = path.join(outputDir, 'indextemp.json');
   const json = JSON.stringify(indexData, null, 2);
   fs.writeFileSync(tempPath, json, 'utf-8');
+}
+
+/**
+ * Merge the terms being scraped with terms already listed in index.json.
+ *
+ * The crawler only scrapes the most recent terms, but previously scraped terms
+ * remain published alongside them. Writing only the current terms would drop
+ * those older terms from the index and make them disappear from the website
+ * even though their data files are still there, so any existing term whose
+ * `<term>.json` is still present is preserved.
+ */
+function mergeWithExistingTerms(
+  terms: Array<{ term: string; name: string }>,
+  outputDir: string
+): Array<{ term: string; name: string }> {
+  const merged = new Map<string, string>();
+
+  const indexPath = path.join(outputDir, 'index.json');
+  if (fs.existsSync(indexPath)) {
+    try {
+      const existing = JSON.parse(fs.readFileSync(indexPath, 'utf-8')) as {
+        terms?: Array<{ term: string; name: string }>;
+      };
+      for (const entry of existing.terms ?? []) {
+        if (!entry?.term) continue;
+        // Only keep terms whose data file is still published
+        if (!fs.existsSync(path.join(outputDir, `${entry.term}.json`))) {
+          console.log(`  ⚠️  Dropping ${entry.term} from index (no ${entry.term}.json)`);
+          continue;
+        }
+        merged.set(entry.term, entry.name);
+      }
+    } catch (error) {
+      console.warn(`  ⚠️  Could not read existing index.json, starting fresh:`, error);
+    }
+  }
+
+  // Terms from this run take precedence (their names may have been corrected)
+  for (const entry of terms) {
+    merged.set(entry.term, entry.name);
+  }
+
+  // Sort newest first. Winter terms are coded with month 12 but fall before the
+  // spring of the same coded year, so sort them as the previous year.
+  const sortKey = (term: string): string =>
+    term.slice(4, 6) === '12'
+      ? `${parseInt(term.slice(0, 4), 10) - 1}12`
+      : term;
+
+  const result = [...merged.entries()]
+    .map(([term, name]) => ({ term, name }))
+    .sort((a, b) => sortKey(b.term).localeCompare(sortKey(a.term)));
+
+  const retained = result.filter(t => !terms.some(n => n.term === t.term));
+  if (retained.length > 0) {
+    console.log(
+      `  ✓ Preserving ${retained.length} previously published term(s): ` +
+      retained.map(t => t.term).join(', ')
+    );
+  }
+
+  return result;
 }
 
 /**

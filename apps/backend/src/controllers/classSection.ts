@@ -11,6 +11,85 @@ interface SectionData {
   restricted?: string;
 }
 
+/** Table holding one row per section on a course page */
+const SECTION_TABLE_SELECTOR = "#schedule-course-table";
+
+/**
+ * Locate a section row by CRN and read its availability out of the rendered
+ * section table.
+ *
+ * Columns are resolved by header text rather than by position so that a column
+ * being added or reordered upstream doesn't silently shift every field.
+ */
+function findSectionByCrn(html: string, crn: string): SectionData | null {
+  const $ = cheerio.load(html);
+  const table = $(SECTION_TABLE_SELECTOR);
+
+  const columns: Record<string, number> = {};
+  table.find("thead th").each((index, th) => {
+    const $th = $(th);
+    let label = $th.text().replace(/\s+/g, " ").trim().toLowerCase();
+    if (!label) {
+      // Sortable columns are labelled like "CRN: Activate to sort"
+      const aria = $th.attr("aria-label") || "";
+      label = aria.split(":")[0].replace(/\s+/g, " ").trim().toLowerCase();
+    }
+    if (label && columns[label] === undefined) columns[label] = index;
+  });
+
+  const crnColumn = columns.crn;
+  if (crnColumn === undefined) return null;
+
+  let match: SectionData | null = null;
+  table.find("tbody tr").each((_index, row) => {
+    if (match) return;
+    const cells = $(row).find("td");
+    if ($(cells[crnColumn]).text().trim() !== crn) return;
+
+    // Read the nested definition list in the "Section Details" cell
+    const details: Record<string, string> = {};
+    const detailIndex = columns["section details"];
+    if (detailIndex !== undefined) {
+      let label = "";
+      $(cells[detailIndex])
+        .find("dl")
+        .first()
+        .children()
+        .each((_i, el) => {
+          const text = $(el).text().replace(/\s+/g, " ").trim();
+          if (el.tagName === "dt") {
+            label = text.replace(/:$/, "").toLowerCase();
+          } else if (el.tagName === "dd" && label) {
+            details[label] = text;
+            label = "";
+          }
+        });
+    }
+
+    // Fall back to the status icon, labelled like "Section Open (Restricted)"
+    const statusIndex = columns.status;
+    const statusLabel =
+      statusIndex === undefined
+        ? ""
+        : $(cells[statusIndex]).find("[aria-label]").attr("aria-label") || "";
+
+    const restrictions = Object.keys(details)
+      .filter((label) => label.indexOf("restriction") !== -1)
+      .map((label) => details[label])
+      .join("; ");
+
+    match = {
+      crn,
+      availability:
+        details.availability || statusLabel.replace(/^Section\s+/i, ""),
+      status: "",
+      restricted: restrictions,
+    };
+  });
+
+  return match;
+}
+
 /**
  * Proxy Controller to fetch real-time section availability from UIUC Course Explorer
  *
@@ -51,20 +130,21 @@ export const ClassSectionProxy = async (
     const monthCode = termStr.substring(4, 6);
 
     const semesterMap: Record<string, string> = {
-      '01': 'spring',
-      '02': 'spring',
-      '05': 'summer',
-      '06': 'summer',
-      '08': 'fall',
-      '09': 'fall',
-      '12': 'winter'
+      "01": "spring",
+      "02": "spring",
+      "05": "summer",
+      "06": "summer",
+      "08": "fall",
+      "09": "fall",
+      "12": "winter",
     };
 
     const semester = semesterMap[monthCode];
 
     if (!year || !semester) {
       return res.status(400).send({
-        message: "Invalid term format. Expected: YYYYMM (e.g., 202602 for Spring 2026)",
+        message:
+          "Invalid term format. Expected: YYYYMM (e.g., 202602 for Spring 2026)",
       });
     }
 
@@ -80,20 +160,10 @@ export const ClassSectionProxy = async (
 
     const html = response.data;
 
-    // Extract sectionDataObj from the embedded JavaScript
-    // Using [\s\S] instead of . with s flag for ES2017 compatibility
-    const sectionDataMatch = html.match(/var sectionDataObj = (\[[\s\S]*?\]);/);
-
-    if (!sectionDataMatch) {
-      return res.status(404).send({
-        message: "Could not find section data on page",
-      });
-    }
-
-    const sectionData: SectionData[] = JSON.parse(sectionDataMatch[1]);
-
-    // Find the section by CRN
-    const section = sectionData.find((s) => s.crn === String(crn));
+    // Sections are rendered server-side into #schedule-course-table.
+    // (Course Explorer previously embedded them as a `var sectionDataObj = [...]`
+    // JavaScript array; that variable no longer exists.)
+    const section = findSectionByCrn(html, String(crn));
 
     if (!section) {
       return res.status(404).send({
@@ -101,22 +171,18 @@ export const ClassSectionProxy = async (
       });
     }
 
-    // Parse the availability status
     const availability = section.availability || "Unknown";
-
-    // Parse restriction info if present
-    let restrictions = "";
-    if (section.restricted) {
-      const $restricted = cheerio.load(section.restricted);
-      restrictions = $restricted('body').text().trim();
-    }
+    const restrictions = section.restricted || "";
 
     // Normalize to standard status
     let statusCategory: "open" | "closed" | "restricted" = "open";
     const availLower = availability.toLowerCase();
     if (availLower.includes("closed")) {
       statusCategory = "closed";
-    } else if (availLower.includes("restricted") || availLower.includes("reserved")) {
+    } else if (
+      availLower.includes("restricted") ||
+      availLower.includes("reserved")
+    ) {
       statusCategory = "restricted";
     }
 

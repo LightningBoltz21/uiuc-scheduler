@@ -35,11 +35,11 @@ uiuc-scheduler/
 | Component | Technology |
 |-----------|------------|
 | Frontend | React 18, TypeScript, SCSS |
-| Backend API | Express.js, TypeScript (Azure Functions) |
+| Backend API | Azure Functions (Node.js, TypeScript) |
 | Database | Firebase Firestore |
-| Serverless | Firebase Cloud Functions |
+| Serverless | Firebase Cloud Functions (`us-east1`) |
 | Course Data | Custom web scraper (Node.js) |
-| Hosting | GitHub Pages (website), Firebase (functions) |
+| Hosting | GitHub Pages + Cloudflare (website), Azure (API), Firebase (functions) |
 | CI/CD | GitHub Actions |
 | Analytics | Google Analytics |
 | Error Tracking | Sentry |
@@ -48,10 +48,11 @@ uiuc-scheduler/
 
 ### Prerequisites
 
-- Node.js 18+
+- Node.js 18+ (CI builds the website on 18, the crawler and Firebase functions on 20, and the backend on 24)
 - Yarn v1 (for website)
-- npm (for crawler and firebase functions)
-- Firebase CLI (`npm install -g firebase-tools`)
+- npm (for crawler, backend, and firebase functions)
+- Firebase CLI (`npm install -g firebase-tools`), for Firebase functions
+- Azure Functions Core Tools v4 (`npm install -g azure-functions-core-tools@4`), for the backend
 
 ### Running the Website Locally
 
@@ -77,9 +78,14 @@ cd apps/crawler-v3
 # Install dependencies
 npm install
 
-# Run the crawler
+# Building coordinates are read from data/coordinates.csv
+mkdir -p data && cp coordinates.csv data/coordinates.csv
+
+# Run the crawler (must be run from apps/crawler-v3)
 npm start
 ```
+
+A full scrape is long and UIUC rate-limits aggressively, so the crawler saves progress as it goes and resumes where it left off if re-run. Behavior is configured entirely through environment variables — `SPECIFIED_TERMS`, `CONCURRENCY`, `REQUEST_DELAY_MS`, and the `MAX_SUBJECTS` / `COURSES_PER_SUBJECT` testing limits.
 
 ### Running Firebase Functions Locally
 
@@ -103,7 +109,7 @@ The main React single-page application.
 
 ### Backend (`apps/backend/`)
 
-Express API server deployed on Azure Functions. Provides a proxy endpoint to fetch real-time section availability (Open/Closed/Restricted) from courses.illinois.edu.
+An Azure Function (`/api/classSection`) that fetches real-time section availability (Open/Closed/Restricted) from courses.illinois.edu on behalf of the website, with a 5-minute cache. Note that Course Explorer does not expose numeric seat counts — only availability status. The Express server under `src/` is inherited from GT Scheduler and is wrapped by the Azure handler rather than deployed on its own. See [AZURE_SETUP.md](AZURE_SETUP.md).
 
 ### Crawler v3 (`apps/crawler-v3/`)
 
@@ -111,17 +117,22 @@ Web scraper that collects course data from courses.illinois.edu and generates JS
 
 ### Firebase Configuration (`infra/firebase-conf/`)
 
-Firebase Cloud Functions for:
-- Schedule storage and retrieval
-- Friend invitation system
-- Schedule sharing
+Firestore rules and Firebase Cloud Functions for:
+- Friend invitation system (creation, links, acceptance)
+- Fetching and deleting shared schedules
 - Automated Firestore backups
+
+Schedules themselves are read and written directly from the browser to Firestore; the functions exist for the cross-user operations that Firestore rules deliberately forbid the client from doing.
 
 ## Deployment
 
 ### Website Deployment
 
-The website automatically deploys to GitHub Pages when changes are pushed to the `main` branch.
+The website automatically deploys to GitHub Pages when changes under `apps/website/` are pushed to the `main` branch. The workflow also downloads the crawler's JSON output from the `gh-pages` branch into the build, so the term data served with the site is refreshed on each deploy, and purges the Cloudflare cache afterward.
+
+### Backend Deployment
+
+The Azure Function deploys automatically when changes under `apps/backend/` are pushed to `main`.
 
 ### Firebase Functions Deployment
 
@@ -139,9 +150,10 @@ The crawler runs automatically via GitHub Actions every Monday at midnight UTC (
 
 ### Website
 
+All website environment variables are prefixed with `REACT_APP_` and are baked into the published bundle, so none of them are secret.
+
 Create `.env` in `apps/website/`:
 ```
-REACT_APP_SENTRY_DSN=<your-sentry-dsn>
 REACT_APP_FIREBASE_API_KEY=<firebase-api-key>
 REACT_APP_FIREBASE_AUTH_DOMAIN=<firebase-auth-domain>
 REACT_APP_FIREBASE_PROJECT_ID=<firebase-project-id>
@@ -152,26 +164,34 @@ REACT_APP_FIREBASE_MEASUREMENT_ID=<firebase-measurement-id>
 REACT_APP_MAPBOX_TOKEN=<mapbox-token>
 ```
 
+All of these are optional for local development. If `REACT_APP_FIREBASE_API_KEY` is unset, Firebase is never initialized and the app runs entirely on local storage, with account login and schedule sharing disabled. Without `REACT_APP_MAPBOX_TOKEN`, the map view will not render tiles.
+
+Two additional variables are useful when developing against local services:
+
+```
+REACT_APP_LOCAL_CRAWLER_URL=<url>    # serve crawler output locally instead of uiucscheduler.org
+REACT_APP_AZURE_FUNCTION_URL=<url>   # point live availability at a local `func start`
+```
+
+The Sentry DSN is not configured via environment variable; it is hardcoded in [apps/website/src/index.tsx](apps/website/src/index.tsx) and Sentry is only initialized in production builds. CI additionally sets `REACT_APP_SENTRY_VERSION` to the commit SHA to tag the release.
+
 ### Firebase Functions
 
 Environment variables are managed via Firebase Functions configuration or GitHub Secrets for deployment.
 
 ## Contributing
 
-We welcome contributions from the UIUC community! Please read the following guidelines:
+We welcome contributions from the UIUC community! See [CONTRIBUTING.md](CONTRIBUTING.md) for the full guide.
 
-1. **Fork the repository** and create a feature branch
-2. **Make your changes** following the existing code style
-3. **Run linting** before committing: `yarn lint` or `npm run lint`
-4. **Submit a pull request** with a clear description of changes
+The short version:
 
-For major changes, please open an issue first to discuss the proposed modifications.
+1. **Open an issue** first for anything substantial, so the approach can be agreed on
+2. **Fork the repository** and create a branch named `[your-first-name]/[issue-#]-[slug]`
+3. **Make your changes** in TypeScript, following the existing code style
+4. **Run the checks** for the app you touched — `yarn lint && yarn format:check`, plus `yarn test` for the website. There is no CI, so these only run if you run them.
+5. **Submit a pull request** against `main` describing what changed and how to test it
 
-### Code Style
-
-- TypeScript for all new code
-- ESLint + Prettier for formatting
-- Pre-commit hooks enforce code quality
+`apps/website` and `apps/backend` install Husky pre-commit hooks that lint and format staged files automatically once their dependencies are installed.
 
 ## License
 

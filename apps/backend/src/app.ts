@@ -2,7 +2,6 @@ import express from "express";
 import logger from "morgan";
 import * as path from "path";
 import cors from "cors";
-import { errors } from "celebrate";
 
 // Middlewares
 import { errorHandler, errorNotFoundHandler } from "./middlewares/errorHandler";
@@ -34,6 +33,5 @@ app.disable("etag");
 app.use("/", index);
 app.use("/", express.static(path.join(__dirname, "../public")));
 
-app.use(errors());
 app.use(errorNotFoundHandler);
 app.use(errorHandler);

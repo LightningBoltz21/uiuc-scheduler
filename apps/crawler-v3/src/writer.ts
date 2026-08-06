@@ -254,6 +254,7 @@ export class DataWriter {
 
   /**
    * Import existing caches to restore writer state when resuming.
+   * @internal see `validateTermData` for the published-output sanity check
    * This ensures that new courses get indices consistent with existing courses.
    */
   public importCaches(existingCaches: Caches): void {
@@ -293,5 +294,75 @@ export class DataWriter {
       this.caches.locations = [...existingCaches.locations];
       // Note: locations use findIndex for deduplication in addLocationToCache
     }
+  }
+}
+
+/**
+ * Sanity-check a term's data before it is written and published.
+ *
+ * A parsing regression upstream (Course Explorer changing its markup, for
+ * example) produces courses with zero sections rather than an error, which
+ * previously sailed through as a "successful" run and replaced good data on the
+ * live site. Refuse to publish output that is obviously broken, and treat a
+ * large drop against the previously published file for the same term as broken
+ * too.
+ */
+export function validateTermData(
+  termData: TermData,
+  termCode: string,
+  outputDir: string
+): void {
+  const courseCount = Object.keys(termData.courses).length;
+  const sectionCount = Object.values(termData.courses).reduce(
+    (total, course) => total + Object.keys(course[1]).length,
+    0
+  );
+
+  if (courseCount === 0) {
+    throw new Error(`${termCode}: scrape produced no courses at all`);
+  }
+
+  if (sectionCount === 0) {
+    throw new Error(
+      `${termCode}: scraped ${courseCount} courses but zero sections. ` +
+      `This almost always means the section parser no longer matches ` +
+      `Course Explorer's markup. Refusing to publish empty data.`
+    );
+  }
+
+  if (termData.caches.periods.length === 0) {
+    throw new Error(
+      `${termCode}: no meeting times were parsed across ${sectionCount} ` +
+      `sections. Refusing to publish.`
+    );
+  }
+
+  // Compare against the previously published file for this term, if present
+  if (process.env['ALLOW_SECTION_DROP'] === '1') return;
+  const existingPath = path.join(outputDir, `${termCode}.json`);
+  if (!fs.existsSync(existingPath)) return;
+
+  let previousSections = 0;
+  try {
+    const previous = JSON.parse(
+      fs.readFileSync(existingPath, 'utf-8')
+    ) as TermData;
+    previousSections = Object.values(previous.courses ?? {}).reduce(
+      (total, course) => total + Object.keys(course[1] ?? {}).length,
+      0
+    );
+  } catch {
+    // An unreadable existing file is not a reason to block a good scrape
+    return;
+  }
+
+  if (previousSections > 0 && sectionCount < previousSections * 0.5) {
+    throw new Error(
+      `${termCode}: scraped ${sectionCount} sections, down from ` +
+      `${previousSections} in the published data (a ` +
+      `${Math.round((1 - sectionCount / previousSections) * 100)}% drop). ` +
+      `Refusing to publish. Re-run to resume if this was a partial scrape, ` +
+      `or set ALLOW_SECTION_DROP=1 if the decrease is real.`
+    );
   }
 }

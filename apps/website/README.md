@@ -19,12 +19,12 @@ Copyright (c) 2024 Anish Malepati and Aneesh Kalla
 
 The app is a React single-page application (SPA) (built using [`create-react-app`](https://github.com/facebook/create-react-app)) that forms the frontend website users interact with when they go to https://uiucscheduler.org/. It is written in [TypeScript](https://www.typescriptlang.org/) (a typed superset of JavaScript), and uses [SCSS](https://sass-lang.com/) for styling (a superset of CSS that supports advanced features).
 
-To implement its goal of facilitating schedule creation and class exploration, UIUC Scheduler stores all data **locally in cookies**. Then, it sources any relevant data at runtime from a variety of sources, such as:
+To implement its goal of facilitating schedule creation and class exploration, UIUC Scheduler stores all schedule data **locally in the browser's local storage** (older versions used cookies; the data is migrated forward automatically). Then, it sources any relevant data at runtime from a variety of sources, such as:
 
-- The list of terms (strings like `202502`, which corresponds to Spring 2025) that have been scraped by the [Crawler application](https://github.com/lightningboltz21/uiuc-scheduler): https://lightningboltz21.github.io/uiuc-scheduler/index.json
-- The data for a single term, which is the full output of the Crawler application in a single JSON file: https://lightningboltz21.github.io/uiuc-scheduler/202502.json
+- The list of terms (strings like `202502`, which corresponds to Spring 2025) that have been scraped by the [Crawler application](../crawler-v3): https://uiucscheduler.org/index.json
+- The data for a single term, which is the full output of the Crawler application in a single JSON file: https://uiucscheduler.org/202502.json
 
-Once features are merged into the `main` branch, they are automatically deployed to the `gh-pages` branch using a [GitHub Action workflow](https://github.com/lightningboltz21/uiuc-scheduler/blob/main/.github/workflows/deploy.yml). This branch is set up to serve traffic to the public site, https://uiucscheduler.org/, using the [GitHub Pages](https://pages.github.com/) service.
+Once features are merged into the `main` branch, they are automatically built and published to [GitHub Pages](https://pages.github.com/) by the [deploy workflow](../../.github/workflows/deploy-website.yml) at the repository root, which serves the public site at https://uiucscheduler.org/ (fronted by Cloudflare). That workflow also downloads the crawler's JSON output from the `gh-pages` branch into the build, so the term data served alongside the site is refreshed on every deploy.
 
 The website uses [Google Analytics](https://marketingplatform.google.com/about/analytics/) for aggregate analytics and information about how many people are using the app. It also utilizes [Sentry](https://sentry.io/welcome/) for automatic error reporting.
 
@@ -89,4 +89,4 @@ The project uses pre-commit hooks using [Husky](https://typicode.github.io/husky
 
 The UIUC Scheduler project welcomes (and encourages) contributions from the community. Regular development is performed by the project owners (Anish Malepati and Aneesh Kalla), but we still encourage others to work on adding new features or fixing existing bugs and make the registration process better for the UIUC community.
 
-More information on how to contribute can be found [in the contributing guide](/CONTRIBUTING.md).
+More information on how to contribute can be found [in the contributing guide](../../CONTRIBUTING.md) at the repository root.

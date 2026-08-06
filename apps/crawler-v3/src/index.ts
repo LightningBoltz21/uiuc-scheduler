@@ -1,5 +1,5 @@
 import { scrapeCourse, scrapeSubjects, scrapeCourseList, CourseInfo } from './scraper';
-import { DataWriter } from './writer';
+import { DataWriter, validateTermData } from './writer';
 import { getIntConfig, discoverLatestTerms, getTermCode, getTermName } from './utils';
 import { 
   ProgressManager, 
@@ -493,6 +493,17 @@ async function main() {
       console.log(`  ✓ Cached locations: ${mergedCaches.locations.length}`);
       console.log(`  ✓ Cached scheduleTypes: ${mergedCaches.scheduleTypes.length}`);
 
+      // Refuse to publish obviously broken output (see `validateTermData`).
+      // Without this, a parsing regression looks like a successful run and
+      // replaces good data on the live site with empty course listings.
+      console.log('\n🔎 Validating scraped data...');
+      validateTermData(termData, termCode, OUTPUT_DIR);
+      const totalSections = Object.values(allCourses).reduce(
+        (sum, course) => sum + Object.keys(course[1]).length,
+        0
+      );
+      console.log(`  ✓ ${totalCourses} courses / ${totalSections} sections`);
+
       // Write final term data JSON
       console.log('\n💾 Writing final output file...');
       const finalWriter = new DataWriter();
@@ -543,6 +554,9 @@ async function main() {
     console.log(`   - index.json`);
   } else {
     console.log(`   - indextemp.json (not promoted)`);
+    // Exit non-zero so CI reports the run as failed rather than treating a
+    // refused-to-publish term as a success and deploying stale data.
+    process.exitCode = 1;
   }
 }
 

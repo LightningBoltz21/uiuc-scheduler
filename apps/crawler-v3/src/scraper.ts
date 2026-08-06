@@ -4,6 +4,12 @@ import { ScrapedCourse, ScrapedSection, ScrapedMeeting } from './types';
 
 const UIUC_BASE_URL = 'https://courses.illinois.edu';
 
+/** Table holding one row per section on a course page */
+const SECTION_TABLE_SELECTOR = '#schedule-course-table';
+
+/** Block holding the course title, description and credit hours */
+const COURSE_DETAIL_SELECTOR = '#schedule-course-detail';
+
 /**
  * Standard headers for HTTP requests
  */
@@ -144,40 +150,33 @@ export async function scrapeCourse(
     const html = response.data;
     const $ = cheerio.load(html);
 
-    // Extract course title from the span inside #app-course-info
-    // HTML structure: <span class="app-label app-text-engage">Introduction to Advertising</span>
-    let courseTitle = $('#app-course-info span.app-text-engage').first().text().trim();
-    if (!courseTitle) {
-      // Try without the parent selector
-      courseTitle = $('span.app-text-engage').first().text().trim();
-    }
-    if (!courseTitle) {
-      // Try the class separately
-      courseTitle = $('.app-text-engage').first().text().trim();
-    }
+    // Extract the course title.
+    // The page has several `.app-text-engage` elements; the first is the term
+    // label ("Fall 2026 All Classes"), so select the one that is also an
+    // `.app-label` rather than just taking the first match.
+    let courseTitle = $('.app-text-engage.app-label').first().text().trim();
     if (!courseTitle) {
       // Fallback to subject + number
       courseTitle = `${subject} ${courseNumber}`;
     }
-    
-    console.log(`    Title extracted: "${courseTitle}"`);
-    
+
     // Extract course description
     let description: string | null = null;
-    $('#app-course-info p').each((i, el) => {
+    $(`${COURSE_DETAIL_SELECTOR} p`).each((i, el) => {
       const text = $(el).text().trim();
-      
+
       // Skip short text, credit info, and GenEd boilerplate
       if (text.length < 30) return true; // continue to next
       if (text.includes('Credit:')) return true;
       if (text.startsWith('This course satisfies')) return true;
       if (text.includes('General Education Criteria')) return true;
-      if (text.includes('Winter 2025') || text.includes('Spring 2026') || text.includes('Fall 2025')) return true;
-      
+      // Skip the "same as"/prerequisite/registration boilerplate
+      if (/^(Credit is not given|Prerequisite:|Students must register)/.test(text)) return true;
+
       // Skip text that's mostly whitespace/formatting artifacts
       const cleanText = text.replace(/\s+/g, ' ').trim();
       if (cleanText.length < 30) return true;
-      
+
       // Found a real description
       if (!description) {
         description = cleanText;
@@ -186,18 +185,20 @@ export async function scrapeCourse(
 
     // Extract credit hours
     let creditHours = 3; // Default
-    const creditText = $('#app-course-info p:contains("Credit:")').text();
+    const creditText = $(`${COURSE_DETAIL_SELECTOR} p:contains("Credit:")`).first().text();
     const creditMatch = creditText.match(/(\d+(?:\.\d+)?)\s*hours?/i);
     if (creditMatch) {
       creditHours = parseFloat(creditMatch[1]);
     }
 
-    // Extract sectionDataObj from the embedded JavaScript
-    const sectionDataMatch = html.match(/var sectionDataObj = (\[.*?\]);/s);
-    
-    if (!sectionDataMatch) {
-      console.warn(`⚠️  No section data found for ${subject} ${courseNumber}`);
-      console.log(`    Searched in ${html.length} bytes of HTML`);
+    // Sections are rendered server-side into #schedule-course-table.
+    // (Course Explorer previously embedded them as a `var sectionDataObj = [...]`
+    // JavaScript array; that variable no longer exists.)
+    const table = $(SECTION_TABLE_SELECTOR);
+    const rows = table.find('tbody tr');
+
+    if (rows.length === 0) {
+      // A course with no scheduled sections this term is normal and not an error.
       return {
         subject,
         number: courseNumber,
@@ -208,130 +209,120 @@ export async function scrapeCourse(
       };
     }
 
-    // Parse the JSON data
-    const sectionData = JSON.parse(sectionDataMatch[1]);
+    // Map column headers to indices so that a column being added or reordered
+    // upstream doesn't silently shift every field.
+    const columns = buildColumnMap($, table);
+    const required = ['crn', 'type', 'section', 'time', 'day', 'location'];
+    const missing = required.filter(name => columns[name] === undefined);
+    if (missing.length > 0) {
+      throw new Error(
+        `Section table for ${subject} ${courseNumber} is missing expected ` +
+        `column(s): ${missing.join(', ')}. Found: ${Object.keys(columns).join(', ')}`
+      );
+    }
+
     const sections: ScrapedSection[] = [];
 
-    for (const sectionObj of sectionData) {
-      // Parse HTML-encoded fields - each field may have multiple .app-meeting elements
-      const $type = cheerio.load(sectionObj.type);
-      const $section = cheerio.load(sectionObj.section);
-      const $time = cheerio.load(sectionObj.time);
-      const $day = cheerio.load(sectionObj.day);
-      const $location = cheerio.load(sectionObj.location);
-      const $instructor = cheerio.load(sectionObj.instructor);
+    rows.each((_, row) => {
+      const cells = $(row).find('td');
+      // Read every `.app-meeting` in a cell, so sections with more than one
+      // meeting pattern produce one value per meeting.
+      const meetingValues = (name: string): string[] => {
+        const index = columns[name];
+        if (index === undefined) return [];
+        const cell = $(cells[index]);
+        const values = cell
+          .find('.app-meeting')
+          .map((_i, el) => $(el).text().replace(/\s+/g, ' ').trim())
+          .get();
+        if (values.length > 0) return values;
+        const text = cell.text().replace(/\s+/g, ' ').trim();
+        return text ? [text] : [];
+      };
 
-      // Get arrays of values for each field (one per meeting)
-      const scheduleTypes: string[] = [];
-      $type('.app-meeting').each((_, el) => {
-        let typeText = $type(el).text().trim() || 'Lecture';
+      const crn = $(cells[columns['crn'] as number]).text().trim();
+      if (!crn) return;
 
-        // The UIUC website sometimes concatenates schedule type with meeting dates
-        // like "LaboratoryMeets 03/16/26-05/06/26" - we need to extract just the type
-        // Pattern: "Meets" followed by dates in MM/DD/YY format (single date or range)
-        const meetsPattern = /Meets\s+\d{2}\/\d{2}\/\d{2}(?:-\d{2}\/\d{2}\/\d{2})?$/;
-        typeText = typeText.replace(meetsPattern, '').trim();
-
-        scheduleTypes.push(typeText);
-      });
+      const scheduleTypes = meetingValues('type').map(stripMeetingDates);
       if (scheduleTypes.length === 0) scheduleTypes.push('Lecture');
 
-      const sectionIds: string[] = [];
-      $section('.app-meeting').each((_, el) => {
-        sectionIds.push($section(el).text().trim());
-      });
-      if (sectionIds.length === 0) sectionIds.push('');
+      const sectionIds = meetingValues('section');
+      const timeTexts = meetingValues('time');
+      const daysArray = meetingValues('day').map(d => (isPlaceholderDay(d) ? '' : d));
+      const locations = meetingValues('location');
 
-      const timeTexts: string[] = [];
-      $time('.app-meeting').each((_, el) => {
-        timeTexts.push($time(el).text().trim());
-      });
-      if (timeTexts.length === 0) timeTexts.push('');
+      // Instructors are shared across all meetings of a section
+      const instructorIndex = columns['instructor'];
+      const instructorCell =
+        instructorIndex === undefined ? null : $(cells[instructorIndex]);
+      const instructors = (instructorCell?.html() ?? '')
+        .split(/<br\s*\/?>/i)
+        .map(fragment => cheerio.load(fragment).text().replace(/\s+/g, ' ').trim())
+        .filter(name => name && name !== 'TBA');
 
-      const daysArray: string[] = [];
-      $day('.app-meeting').each((_, el) => {
-        let d = $day(el).text().trim();
-        if (d === 'n.a.' || d === 'n.a') d = '';
-        daysArray.push(d);
-      });
-      if (daysArray.length === 0) daysArray.push('');
+      // Details are in a nested definition list in the "Section Details" cell
+      const details = parseSectionDetails($, cells, columns);
 
-      const locations: string[] = [];
-      $location('.app-meeting').each((_, el) => {
-        locations.push($location(el).text().trim() || 'TBA');
-      });
-      if (locations.length === 0) locations.push('TBA');
+      // Use the first section ID / schedule type as the canonical one.
+      // Sections without an ID (independent study, for example) fall back to
+      // the CRN so that they don't all collide under the same empty key.
+      const sectionId = sectionIds[0] || crn;
+      const scheduleType = scheduleTypes[0] as string;
 
-      // Instructors are shared across all meetings
-      const instructorText = $instructor('.app-meeting').html() || '';
-      const instructors = instructorText
-        .split('<br>')
-        .map(i => cheerio.load(i).text().trim())
-        .filter(i => i && i !== 'TBA');
+      const dateRange = details['date range']
+        ? normalizeDateRange(details['date range'] as string, year)
+        : `${getTermStartDate(year, term)} - ${getTermEndDate(year, term)}`;
 
-      // Use the first section ID as the canonical one
-      const sectionId = sectionIds[0];
-      // Use the first schedule type as the canonical one
-      const scheduleType = scheduleTypes[0];
-
-      // Get date range
-      const dateRange = sectionObj.sectionDateRange || 
-                       `${getTermStartDate(year, term)} - ${getTermEndDate(year, term)}`;
-
-      // Parse restrictions
       const restrictions: string[] = [];
-      if (sectionObj.restricted) {
-        const $restricted = cheerio.load(sectionObj.restricted);
-        const restrictionText = $restricted.text().trim();
-        if (restrictionText) {
-          restrictions.push(restrictionText);
-        }
+      for (const [label, value] of Object.entries(details)) {
+        if (label.includes('restriction') && value) restrictions.push(value);
       }
 
-      // Get section title
-      const sectionTitle = sectionObj.sectionTitle || courseTitle;
+      // Availability comes from the details list, falling back to the
+      // status icon's aria-label ("Section Open", "Section Open (Restricted)").
+      const statusIndex = columns['status'];
+      const statusLabel =
+        statusIndex === undefined
+          ? ''
+          : $(cells[statusIndex]).find('[aria-label]').attr('aria-label') ?? '';
+      const availabilityText = (details['availability'] || statusLabel).toLowerCase();
 
-      // Parse enrollment status and availability
       let enrollmentStatus = 'Open';
-      let seatsAvailable = 0;
-      
-      if (sectionObj.availability) {
-        const availText = sectionObj.availability.toLowerCase();
-        if (availText.includes('closed')) {
-          enrollmentStatus = 'Closed';
-        } else if (availText.includes('restricted')) {
-          enrollmentStatus = 'Restricted';
-        } else {
-          enrollmentStatus = 'Open';
-        }
+      if (availabilityText.includes('closed')) {
+        enrollmentStatus = 'Closed';
+      } else if (availabilityText.includes('restricted')) {
+        enrollmentStatus = 'Restricted';
       }
-      
-      // Try to parse seat count from status HTML
-      if (sectionObj.status) {
-        const $status = cheerio.load(sectionObj.status);
-        const statusText = $status.text();
-        const seatMatch = statusText.match(/(\d+)\s+seat/i);
-        if (seatMatch) {
-          seatsAvailable = parseInt(seatMatch[1], 10);
-        }
-      }
+
+      // Course Explorer does not publish numeric seat counts
+      const seatsAvailable = 0;
 
       // Create meetings array - one for each meeting time
-      const numMeetings = Math.max(timeTexts.length, daysArray.length, locations.length);
+      const numMeetings = Math.max(
+        timeTexts.length,
+        daysArray.length,
+        locations.length,
+        1
+      );
       const meetings: ScrapedMeeting[] = [];
 
       for (let i = 0; i < numMeetings; i++) {
-        const timeText = timeTexts[i] || timeTexts[0] || '';
-        const days = daysArray[i] || daysArray[0] || '';
-        let location = locations[i] || locations[0] || 'TBA';
+        const timeText = timeTexts[i] ?? timeTexts[0] ?? '';
+        const days = daysArray[i] ?? daysArray[0] ?? '';
+        const rawLocation = locations[i] ?? locations[0] ?? '';
+        const type = scheduleTypes[i] ?? scheduleType;
 
-        // Detect online/arranged classes
-        const isOnlineOrArranged = location === 'n.a.' || location === 'n.a' || 
-                                    (scheduleTypes[i] || scheduleType).toLowerCase().includes('online') ||
-                                    timeText === 'ARRANGED';
-        
-        if (isOnlineOrArranged) {
+        const isOnline = type.toLowerCase().includes('online');
+        // "Location Pending"/"n.a." mean the room is unassigned, not that the
+        // section is online, so they map to TBA rather than ONLINE.
+        const hasNoRoom = isPlaceholderLocation(rawLocation);
+        let location: string;
+        if (isOnline) {
           location = 'ONLINE';
+        } else if (hasNoRoom) {
+          location = 'TBA';
+        } else {
+          location = rawLocation;
         }
 
         // Parse time
@@ -344,14 +335,15 @@ export async function scrapeCourse(
           room: location,
           instructors: instructors.length > 0 ? instructors : ['Unassigned Instructor'],
           dateRange,
-          isOnline: isOnlineOrArranged
+          // `isOnline` tells the writer to skip the building coordinate lookup
+          isOnline: isOnline || hasNoRoom
         });
       }
 
       sections.push({
-        crn: sectionObj.crn,
+        crn,
         sectionId,
-        sectionTitle,
+        sectionTitle: courseTitle,
         scheduleType,
         campus: 'Urbana-Champaign',
         attributes: [],
@@ -361,7 +353,7 @@ export async function scrapeCourse(
         gradeBase: 'Letter Grade',
         meetings
       });
-    }
+    });
 
     return {
       subject,
@@ -379,6 +371,105 @@ export async function scrapeCourse(
 }
 
 // ===== Helper Functions =====
+
+/**
+ * Build a map of normalized column header text to column index, so that
+ * fields are read by name rather than by hardcoded position.
+ */
+function buildColumnMap(
+  $: cheerio.CheerioAPI,
+  table: cheerio.Cheerio<any>
+): Record<string, number> {
+  const columns: Record<string, number> = {};
+  table
+    .find('thead th')
+    .each((index, th) => {
+      const $th = $(th);
+      // Prefer the visible text; fall back to the aria-label, which is
+      // formatted like "CRN: Activate to sort" for sortable columns.
+      let label = $th.text().replace(/\s+/g, ' ').trim().toLowerCase();
+      if (!label) {
+        const aria = $th.attr('aria-label') ?? '';
+        label = aria.split(':')[0]?.replace(/\s+/g, ' ').trim().toLowerCase() ?? '';
+      }
+      if (label && columns[label] === undefined) {
+        columns[label] = index;
+      }
+    });
+  return columns;
+}
+
+/**
+ * Read the nested definition list in a row's "Section Details" cell into a
+ * map of lowercased label (without the trailing colon) to value.
+ */
+function parseSectionDetails(
+  $: cheerio.CheerioAPI,
+  cells: cheerio.Cheerio<any>,
+  columns: Record<string, number>
+): Record<string, string> {
+  const details: Record<string, string> = {};
+  const index = columns['section details'];
+  if (index === undefined) return details;
+
+  const dl = $(cells[index]).find('dl').first();
+  let label = '';
+  dl.children().each((_i, el) => {
+    const text = $(el).text().replace(/\s+/g, ' ').trim();
+    if (el.tagName === 'dt') {
+      label = text.replace(/:$/, '').toLowerCase();
+    } else if (el.tagName === 'dd' && label) {
+      details[label] = text;
+      label = '';
+    }
+  });
+  return details;
+}
+
+/**
+ * Course Explorer sometimes concatenates the schedule type with the meeting
+ * dates, like "LaboratoryMeets 03/16/26-05/06/26".
+ */
+function stripMeetingDates(typeText: string): string {
+  const meetsPattern = /Meets\s+\d{2}\/\d{2}\/\d{2}(?:-\d{2}\/\d{2}\/\d{2})?$/;
+  const stripped = typeText.replace(meetsPattern, '').trim();
+  return stripped || 'Lecture';
+}
+
+function isPlaceholderDay(day: string): boolean {
+  const normalized = day.trim().toLowerCase();
+  return normalized === 'n.a.' || normalized === 'n.a' || normalized === '';
+}
+
+function isPlaceholderLocation(location: string): boolean {
+  const normalized = location.trim().toLowerCase();
+  return (
+    normalized === '' ||
+    normalized === 'n.a.' ||
+    normalized === 'n.a' ||
+    normalized === 'tba' ||
+    normalized === 'location pending'
+  );
+}
+
+/**
+ * Convert a Course Explorer date range ("08/24/26-12/09/26") into the
+ * " - "-separated, 4-digit-year form that the website's `Oscar` bean parses
+ * with `new Date(...)`.
+ */
+function normalizeDateRange(raw: string, year: string): string {
+  const match = raw.match(
+    /(\d{1,2})\/(\d{1,2})\/(\d{2,4})\s*-\s*(\d{1,2})\/(\d{1,2})\/(\d{2,4})/
+  );
+  if (!match) return raw.trim();
+
+  const century = year.slice(0, 2);
+  const expand = (value: string): string =>
+    value.length === 4 ? value : `${century}${value.padStart(2, '0')}`;
+
+  const [, m1, d1, y1, m2, d2, y2] = match as unknown as string[];
+  return `${m1}/${d1}/${expand(y1)} - ${m2}/${d2}/${expand(y2)}`;
+}
 
 function parseTimeToMinutes(timeStr: string): number {
   // Parse "03:00 PM" -> 900 minutes from midnight (15 * 60)
