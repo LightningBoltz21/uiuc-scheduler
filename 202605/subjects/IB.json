@@ -1,0 +1,263 @@
+{
+  "subject": "IB",
+  "scrapedAt": 1785981851101,
+  "courseCount": 5,
+  "courses": {
+    "IB 390": [
+      "Undergraduate Research Experience",
+      {
+        "32820": [
+          "32820",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Laboratory and/or field research and/or reading supervised by faculty members in the School of Integrative Biology.",
+      []
+    ],
+    "IB 490": [
+      "Independent Study",
+      {
+        "32821": [
+          "32821",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Laboratory and/or field research supervised by faculty members in the School of Integrative Biology. A written report is required.",
+      []
+    ],
+    "IB 150": [
+      "Organismal & Evolutionary Biol",
+      {
+        "A": [
+          "37351",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Clegg, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "[IAI Code: L1910L and BIO910 with IB 151] Introduction to physiology, genetics, and evolution of organisms, and their ecology and diversity.",
+      []
+    ],
+    "IB 496": [
+      "Special Courses",
+      {
+        "JLM": [
+          "42592",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Manaster, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Experimental and temporary courses.",
+      []
+    ],
+    "IB 590": [
+      "Individual Topics",
+      {
+        "10455": [
+          "10455",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          12,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Individual topics in research conducted under the supervision of faculty members in the School of Integrative Biology. Designed for graduate students who would like to become more familiar with specialized fields of study prior to committing themselves to a specific area for their doctorate degree.",
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "ARRANGED",
+      "1700 - 1950",
+      "1700 - 2000",
+      "1600 - 1850",
+      "1600 - 1950",
+      "0900 - 1200",
+      "1100 - 1300",
+      "1600 - 1800",
+      "1000 - 1200",
+      "1100 - 1250",
+      "0850 - 0950",
+      "1500 - 1550",
+      "1200 - 1250",
+      "0900 - 1020",
+      "1600 - 1750",
+      "0900 - 0950",
+      "1600 - 1650",
+      "1000 - 1050",
+      "1100 - 1150",
+      "1300 - 1350",
+      "1000 - 1120",
+      "1400 - 1550",
+      "1900 - 2100",
+      "0900 - 1040",
+      "0930 - 1120",
+      "1700 - 1850",
+      "1500 - 1650",
+      "0900 - 1050",
+      "0930 - 1050",
+      "1100 - 1220",
+      "0830 - 1350",
+      "1000 - 1150",
+      "1900 - 2000",
+      "1800 - 1950",
+      "0800 - 1150",
+      "0800 - 0850",
+      "1100 - 1215",
+      "1200 - 1320",
+      "1330 - 1450",
+      "1400 - 1530",
+      "1700 - 1820",
+      "1900 - 2055",
+      "1800 - 1920",
+      "1830 - 2020",
+      "1000 - 1650",
+      "1200 - 1350",
+      "1300 - 1450",
+      "1800 - 2050",
+      "1900 - 2050"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Study Abroad",
+      "Online",
+      "Independent Study",
+      "Lecture-Discussion",
+      "Online Lab",
+      "Online Lecture",
+      "Laboratory",
+      "Discussion/Recitation",
+      "Online Discussion",
+      "Practice",
+      "Internship",
+      "Lecture",
+      "Laboratory-Discussion",
+      "Research"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.1020773,
+        "long": -88.2296394
+      },
+      {
+        "lat": 40.1149296,
+        "long": -88.2280589
+      },
+      {
+        "lat": 40.1035872,
+        "long": -88.2306061
+      },
+      {
+        "lat": 40.104794,
+        "long": -88.224264
+      },
+      {
+        "lat": 40.10628,
+        "long": -88.22621
+      },
+      {
+        "lat": 40.1034533,
+        "long": -88.2327596
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}

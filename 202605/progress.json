@@ -4,7 +4,7 @@
   "year": "2026",
   "term": "summer",
   "startedAt": 1785981443927,
-  "lastUpdated": 1785981705603,
+  "lastUpdated": 1785981855836,
   "totalSubjects": 150,
   "totalCourses": 1062,
   "subjects": [
@@ -4762,19 +4762,59 @@
     "DANC",
     "ESE",
     "EALC",
-    "ECON"
+    "ECON",
+    "EDUC",
+    "EPOL",
+    "ERAM",
+    "EPSY",
+    "ECE",
+    "ENG",
+    "ENGL",
+    "ESL",
+    "EIL",
+    "ENVS",
+    "EURO",
+    "EXP",
+    "FIN",
+    "FAA",
+    "FSHN",
+    "FR",
+    "GWS",
+    "GGIS",
+    "GEOL",
+    "GER",
+    "GMC",
+    "GLBL",
+    "GC",
+    "GRK",
+    "HT",
+    "HK",
+    "HNDI",
+    "HIST",
+    "HORT",
+    "HDFS",
+    "HUM",
+    "IE",
+    "INFO",
+    "IS",
+    "IB",
+    "ITAL",
+    "JAPN",
+    "JS",
+    "JOUR",
+    "KOR"
   ],
   "partialSubjects": {
-    "EDUC": {
+    "LER": {
       "completed": 0,
-      "total": 1,
+      "total": 9,
       "lastCourse": "ABORTED"
     }
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 429,
-    "failedCourses": 2,
+    "successfulCourses": 693,
+    "failedCourses": 3,
     "rateLimitCount": 0
   }
 }

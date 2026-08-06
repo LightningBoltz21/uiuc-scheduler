@@ -1,0 +1,2649 @@
+{
+  "subject": "IS",
+  "scrapedAt": 1785981849914,
+  "courseCount": 39,
+  "courses": {
+    "IS 204": [
+      "Research Design for Information Sciences",
+      {
+        "OA": [
+          "40600",
+          [
+            [
+              37,
+              "TR",
+              "ONLINE",
+              0,
+              [
+                "Besser, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "This course provides an introduction to different approaches to research in the information sciences, including social science methods, data and text mining, digital humanities, historical approaches, and others. Topics include methods for evaluating research, developing research questions, selecting research methods, conducting research ethically, and communicating findings clearly and effectively through words, graphics, and other visualizations.",
+      []
+    ],
+    "IS 189": [
+      "Independent Study",
+      {
+        "41825": [
+          "41825",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "MSU": [
+          "42462",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Sun, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Individual study in a subject related to information sciences not covered in normal course offerings.",
+      []
+    ],
+    "IS 202": [
+      "Social Aspects Info Tech",
+      {
+        "OA": [
+          "41627",
+          [
+            [
+              27,
+              "W",
+              "ONLINE",
+              0,
+              [
+                "Darch, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Explores the way in which information technologies have and are transforming society and how these affect a range of social, political and economic issues from the individual to societal levels.",
+      []
+    ],
+    "IS 205": [
+      "Programming for Information Problems",
+      {
+        "OA": [
+          "41889",
+          [
+            [
+              38,
+              "TR",
+              "ONLINE",
+              0,
+              [
+                "Alicea, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Covers common data processing methods and computing concepts used in the information sciences. Evaluates strengths and weaknesses of the techniques in the context of our discipline. No prior programming background is assumed. Course will use the Python programming language.",
+      []
+    ],
+    "IS 236": [
+      "User Research & Evaluation",
+      {
+        "OA": [
+          "42324",
+          [
+            [
+              31,
+              "MW",
+              "ONLINE",
+              0,
+              [
+                "Wilder, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "This course will teach students about user research and evaluation. They will learn to apply various user research methods, gather and understand user requirements and needs for a wide range of user populations, especially those that are under-served (e.g., children, older adults, people with disabilities), conduct user evaluations of prototypes and interactive systems, and communicate effectively about the research insights and make actionable design suggestions.",
+      []
+    ],
+    "IS 249": [
+      "BSIS Practicum",
+      {
+        "RRH": [
+          "41153",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Haider, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "A professional field experience program designed to provide the student with the opportunity to work in a professional environment under the supervision of an experienced information professional with the guidance of a faculty advisor. This opportunity allows students to integrate the theory and knowledge of course content with the application of principles and practices in a work environment, including these specific objectives",
+      []
+    ],
+    "IS 269": [
+      "BSIS Internship",
+      {
+        "FT": [
+          "41566",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Haider, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          10,
+          0,
+          [],
+          -1
+        ],
+        "PT": [
+          "41017",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Haider, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          10,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Designed to provide students an opportunity to apply the skills and concepts learned in Information Sciences classes to a work environment. Students will complete internships of their choosing under supervision and will be expected to complete activities online including a reflective paper and presentation. The goal of this course is to provide an experience that will form a connection between a student’s academic career and career goals for the future.",
+      []
+    ],
+    "IS 312": [
+      "Reading and Writing Data",
+      {
+        "OA": [
+          "42141",
+          [
+            [
+              39,
+              "MW",
+              "ONLINE",
+              0,
+              [
+                "Wickes, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "OB": [
+          "42179",
+          [
+            [
+              40,
+              "TR",
+              "ONLINE",
+              0,
+              [
+                "Maia, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Explores how we tell stories and make arguments in the age of the internet and \"big data.\" We will explore both creative and scholarly works that experiment with the forms of expression that digital and online media make possible, and others that question the cultural, political, and social consequences of computational media and data. Students will develop skills for writing _about data_ and writing _with data_ through a variety of media.",
+      []
+    ],
+    "IS 299": [
+      "Information Science Study Abroad",
+      {
+        "SAB": [
+          "41519",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          18,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Provides campus credit toward the undergraduate degree for study at accredited foreign institutions or approved overseas programs. Final determination of credit and its application toward the degree is made by the School of Information Sciences (iSchool) office after a review of the student's work abroad.",
+      []
+    ],
+    "IS 357": [
+      "Introduction to Data Storytelling",
+      {
+        "OA": [
+          "41224",
+          [
+            [
+              21,
+              "MW",
+              "ONLINE",
+              0,
+              [
+                "Jenkins, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Storytelling thinking, introducing students to the philosophical, social, and relational dynamics of \"story\" in information organizations of all sizes. Students are exposed to a range of opportunities to apply storytelling thinking as a tool to identify the audience, design means to communicate with them, and develop dynamic triangle of people sharing stories, engaging in constructive dialogs and reinterpreting etc.",
+      []
+    ],
+    "IS 407": [
+      "Introduction to Data Science",
+      {
+        "OAG": [
+          "40978",
+          [
+            [
+              41,
+              "M",
+              "ONLINE",
+              0,
+              [
+                "Turk, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "OAU": [
+          "40997",
+          [
+            [
+              41,
+              "M",
+              "ONLINE",
+              0,
+              [
+                "Turk, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "This course introduces students to data science approaches that have emerged from recent advances in programming and computing technology. They will learn to collect and use data from a variety of sources, including the web, in a modern statistical inference and visualization paradigm. The course will be based in the programming language R, but will also use HTML, regular expressions, basic unix tools, XML, and SQL. Supervised and unsupervised statistical learning techniques made possible by recent advances in computing power will also be covered.",
+      []
+    ],
+    "IS 389": [
+      "Independent Study",
+      {
+        "41154": [
+          "41154",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "MES": [
+          "42700",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Sun, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Advanced individual study in a subject related to Information Sciences not covered in normal course offerings.",
+      []
+    ],
+    "IS 403": [
+      "Children's Materials",
+      {
+        "OAG": [
+          "40670",
+          [
+            [
+              40,
+              "TR",
+              "ONLINE",
+              0,
+              [
+                "Betts-Green, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Evaluation, selection and use of books and other resources for children (ages 0-14) in public libraries and school media centers; explores standard selection criteria for print and nonprint materials in all formats and develops the ability to evaluate and promote materials according to their various uses (personal and curricular) and according to children's various needs (intellectual, emotional, social and physical).",
+      []
+    ],
+    "IS 409": [
+      "Web Technologies & Techniques",
+      {
+        "OAG": [
+          "40252",
+          [
+            [
+              21,
+              "W",
+              "ONLINE",
+              0,
+              [
+                "Rusch, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "This course provides an introduction to the technologies behind the Web. Topics covered include: hypertext, hypermedia, the history of the Web, the role of Web standards and their impact on the development of Web resources. The course introduces principles of Web design and usability. Students will gain an understanding how the Web works and how to design, construct, evaluate, and maintain Web-based materials.",
+      []
+    ],
+    "IS 423": [
+      "Early Literacy",
+      {
+        "OAG": [
+          "41225",
+          [
+            [
+              33,
+              "M",
+              "ONLINE",
+              0,
+              [
+                "Stier, Z"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Librarians fill a key role in the literacy development of young children with opportunities for interaction both in the library and through outreach programs. Key skills center on developing literacy-rich library environments, classroom instructional support, intentional embedding of essentials skills and practices within daily activities and lessons, resources about early literacy strategies to share with families and caregivers. Practitioners will understand the importance of integration of technology to meet the diverse developmental, cultural, social and linguistic needs of children to ensure they are able to create meaning from text.",
+      []
+    ],
+    "IS 413": [
+      "Teen Materials",
+      {
+        "OAG": [
+          "40979",
+          [
+            [
+              42,
+              "MW",
+              "ONLINE",
+              0,
+              [
+                "Betts-Green, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Evaluation, selection and use of books and other resources for young adults (ages 12-18) in public libraries and school media centers; explores standard selection criteria for print and nonprint materials in all formats and develops the ability to evaluate and promote materials according to their various uses (personal and curricular) and according to young adults' various needs (intellectual, emotional, social and physical).",
+      []
+    ],
+    "IS 430": [
+      "Foundations of Information Processing",
+      {
+        "OAG": [
+          "40980",
+          [
+            [
+              29,
+              "TR",
+              "ONLINE",
+              0,
+              [
+                "Alicea, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "OAU": [
+          "40998",
+          [
+            [
+              29,
+              "TR",
+              "ONLINE",
+              0,
+              [
+                "Alicea, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Covers common data, document processing, and programming constructs and concepts. Focuses on problem solving and abstraction with a programming language. By the end of the course students will be able to design, develop and test a moderately complex computer program to manage full text, bibliographic records or multimedia. The course prepares students for working with applications in data analytics, data science, digital libraries, text mining and knowledge management. No prior programming background is assumed.",
+      []
+    ],
+    "IS 453": [
+      "Information Books and Resources for Youth",
+      {
+        "OAG": [
+          "40981",
+          [
+            [
+              14,
+              "R",
+              "ONLINE",
+              0,
+              [
+                "Diekman, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Evaluation, selection and use of information books and other resources for young people (ages 0-18) in public libraries and school media centers; explores standard selection criteria for factual print and nonprint materials in all formats and develops the ability to evaluate and promote nonfiction books and resources according to their various uses (personal and curricular) and according to young people's various needs (intellectual, emotional, social and physical).",
+      []
+    ],
+    "IS 445": [
+      "Data Visualization",
+      {
+        "OAG": [
+          "39546",
+          [
+            [
+              21,
+              "T",
+              "ONLINE",
+              0,
+              [
+                "Besser, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "OAU": [
+          "41669",
+          [
+            [
+              21,
+              "T",
+              "ONLINE",
+              0,
+              [
+                "Besser, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Data visualization is crucial to conveying information drawn from models, observations or investigations. This course will provide an overview of historical and modern techniques for visualizing data, drawing on quantitative, statistical, and network-focused datasets. Topics will include construction of communicative visualizations, the modern software ecosystem of visualization, and techniques for aggregation and interpretation of data through visualization. Particular attention will be paid to the Python ecosystem and multi-dimensional quantitative datasets.",
+      []
+    ],
+    "IS 455": [
+      "Database Design and Prototyping",
+      {
+        "OAG": [
+          "40523",
+          [
+            [
+              42,
+              "TR",
+              "ONLINE",
+              0,
+              [
+                "Rahman, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "The course provides students with both theoretical and practical training in good database design. By the end of the course students will create a conceptual data model using entity-relationship diagrams, understand the importance of referential integrity and how to enforce data integrity constraints when creating a database. Students will be proficient in writing basic queries in the structured query language (SQL) and have a general understanding of relational database theory including normalization.",
+      []
+    ],
+    "IS 467": [
+      "Ethics and Policy for Data Science",
+      {
+        "OAU": [
+          "42143",
+          [
+            [
+              17,
+              "TR",
+              "ONLINE",
+              0,
+              [
+                "Tibebu, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "The course will address common ethical challenges related to data including privacy, bias, and data access. These challenges will be explored through real-world cases of corporate settings, non-profits, governments, academic research, and healthcare. The course emphasizes the complexity of ethical decision-making and that trade-offs between priorities are often necessary. The course also considers how the burdens of addressing ethical concerns should be distributed among stakeholders. Students will be introduced to a range of relevant policy responses at the organizational, institutional, governmental,and supranational levels.",
+      []
+    ],
+    "IS 471": [
+      "Instructional Strategies and Techniques for Information Professionals",
+      {
+        "OAG": [
+          "40984",
+          [
+            [
+              21,
+              "M",
+              "ONLINE",
+              0,
+              [
+                "Wong, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Provides an introduction to learning theories and instructional methods used in a variety of information settings, including libraries, archives, museums, online, and educational environments. Includes an overview of theoretical and applied research and discusses relevant issues and concepts. Students will have an opportunity to design and present an instructional program.",
+      []
+    ],
+    "IS 501": [
+      "Reference and Information Services",
+      {
+        "OB": [
+          "41226",
+          [
+            [
+              25,
+              "M",
+              "ONLINE",
+              0,
+              [
+                "Wong, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Explores reference and information services in a variety of settings, introduces widely used print and online sources, and develops question negotiation skills and search strategies.",
+      []
+    ],
+    "IS 530": [
+      "Collection Development",
+      {
+        "OA": [
+          "40986",
+          [
+            [
+              26,
+              "W",
+              "ONLINE",
+              0,
+              [
+                "Barnhart, A",
+                "Reyes, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Examines issues affecting the development and management of collections for academic, public, special, and school libraries: collection development policies, collection assessment, the marketplace, publishing, legal issues, and budget allocation; document delivery; collaboration and cooperation.",
+      []
+    ],
+    "IS 544": [
+      "Administration & Management of Libraries and Information Centers",
+      {
+        "OA": [
+          "40988",
+          [
+            [
+              25,
+              "T",
+              "ONLINE",
+              0,
+              [
+                "McCallon, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Designed to explore the principles that govern how organizations and institutions work, this course provides a foundation for and introduction to the theories, practices and procedures involved in the management and administration of libraries and information centers.",
+      []
+    ],
+    "IS 549": [
+      "Practicum",
+      {
+        "RRH": [
+          "41344",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Haider, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Supervised field experience of professional-level duties in an approved library or information center.",
+      []
+    ],
+    "IS 565": [
+      "Cataloging for School Libraries",
+      {
+        "OA": [
+          "40990",
+          [
+            [
+              21,
+              "R",
+              "ONLINE",
+              0,
+              [
+                "Ochs, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "This course will introduce the student to the principles, practices and standards for information representation and organization in school media centers. Course content will include an introduction to original cataloging of non-standard materials (such as realia and audiovisual materials), evaluation of bibliographic records, exposure to authority control and subject access systems with a special focus on the Dewey Decimal System and Sears Subject Headings. The course will also provide an overview and exploration of different library systems/OPACS.",
+      []
+    ],
+    "IS 569": [
+      "Internship",
+      {
+        "FT": [
+          "41571",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Haider, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          10,
+          0,
+          [],
+          -1
+        ],
+        "PT": [
+          "41175",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Haider, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          10,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Supervised field experience designed for learning professional-level duties in an approved information-related organization or institution.",
+      []
+    ],
+    "IS 571": [
+      "Advanced Topics in Use and Users of Information",
+      {
+        "LRO": [
+          "41680",
+          [
+            [
+              27,
+              "W",
+              "ONLINE",
+              0,
+              [
+                "Dapier, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "OAG": [
+          "42532",
+          [
+            [
+              43,
+              "W",
+              "ONLINE",
+              0,
+              [
+                "Chacon, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "TLP": [
+          "42542",
+          [
+            [
+              44,
+              "TWRF",
+              "13 Sch of Info Sciences Bldg",
+              0,
+              [
+                "Magee, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Variety of newly developed and advanced topics courses within the field of Use and Users of Information, intended to augment the existing Information Sciences curricula.",
+      []
+    ],
+    "IS 581": [
+      "Advanced Topics in Youth Services",
+      {
+        "DCE": [
+          "41635",
+          [
+            [
+              45,
+              "W",
+              "ONLINE",
+              0,
+              [
+                "Mattson, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ISM": [
+          "41636",
+          [
+            [
+              21,
+              "T",
+              "ONLINE",
+              0,
+              [
+                "Mattson, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "MLO": [
+          "40992",
+          [
+            [
+              46,
+              "M",
+              "ONLINE",
+              0,
+              [
+                "Mattson, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Variety of newly developed and advanced topics courses within the field of Youth Services, intended to augment the existing Information Sciences curricula.",
+      []
+    ],
+    "IS 582": [
+      "Advanced Topics in Librarianship",
+      {
+        "MDL": [
+          "42599",
+          [
+            [
+              44,
+              "TWRF",
+              "TBA",
+              0,
+              [
+                "Ballenger, S",
+                "Butt, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          11,
+          0,
+          [],
+          -1
+        ],
+        "RBO": [
+          "41232",
+          [
+            [
+              33,
+              "R",
+              "ONLINE",
+              0,
+              [
+                "Dankert, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Variety of newly developed and advanced topics courses within the field of Librarianship, intended to augment the existing Information Sciences curricula.",
+      []
+    ],
+    "IS 585": [
+      "Bibliographic Metadata",
+      {
+        "OB": [
+          "41380",
+          [
+            [
+              26,
+              "M",
+              "ONLINE",
+              0,
+              [
+                "Myers, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to basic principles and concepts of descriptive and subject cataloging in the context of information service needs for various user communities. Explores principles, structures, standards, technologies and practices relating to organizing and creating access to print and non-print media. Includes coverage of subject analysis and descriptive practices. Introduces controlled vocabularies.",
+      []
+    ],
+    "IS 589": [
+      "Independent Study",
+      {
+        "41826": [
+          "41826",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Permits the intermediate or advanced student opportunity to undertake the study of a topic not otherwise offered in the curriculum or to pursue a topic beyond or in greater depth than is possible within the context of a regular course.",
+      []
+    ],
+    "IS 590": [
+      "Advanced Topics in Information Foundations",
+      {
+        "SSR": [
+          "42586",
+          [
+            [
+              44,
+              "TWRF",
+              "109 Sch of Info Sciences Bldg",
+              0,
+              [
+                "Ocepek, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          11,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Variety of newly developed and advanced topics courses within the field of information foundations, intended to augment the existing Information Sciences curricula.",
+      []
+    ],
+    "IS 591": [
+      "Advanced Topics in Information Services",
+      {
+        "BTO": [
+          "41612",
+          [
+            [
+              25,
+              "TR",
+              "ONLINE",
+              0,
+              [
+                "Hotchkiss, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "PLP": [
+          "39882",
+          [
+            [
+              47,
+              "R",
+              "ONLINE",
+              0,
+              [
+                "Stier, Z"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Variety of newly developed and advanced topics courses within the fields of Information Services, intended to augment the existing Information Sciences curricula.",
+      []
+    ],
+    "IS 592": [
+      "Advanced Topics In Information Organizations",
+      {
+        "GBO": [
+          "42533",
+          [
+            [
+              33,
+              "R",
+              "ONLINE",
+              0,
+              [
+                "Ng-He, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "GWC": [
+          "42619",
+          [
+            [
+              27,
+              "S",
+              "ONLINE",
+              0,
+              [
+                "Ng-He, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "GWR": [
+          "42539",
+          [
+            [
+              44,
+              "MTWRF",
+              "131 Sch of Info Sciences Bldg",
+              0,
+              [
+                "Hinchliffe, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Variety of newly developed and advanced topics courses within the fields of Information Organization, intended to augment the existing Information Sciences curricula.",
+      []
+    ],
+    "IS 593": [
+      "Advanced Topics in Preservation & Tech Services",
+      {
+        "TSO": [
+          "40995",
+          [
+            [
+              48,
+              "W",
+              "ONLINE",
+              0,
+              [
+                "Oberg, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Variety of newly developed and advanced topics courses within the fields of Preservation & Tech Services, intended to augment the existing Information Sciences curricula.",
+      []
+    ],
+    "IS 595": [
+      "Advanced Topics in Organization & Representation",
+      {
+        "PIR": [
+          "42585",
+          [
+            [
+              44,
+              "MTWRF",
+              "TBA",
+              0,
+              [
+                "Wagner, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Variety of newly developed and advanced topics courses within the fields of Organization & Representation, intended to augment the existing Information Sciences curricula.",
+      []
+    ],
+    "IS 599": [
+      "Thesis Research",
+      {
+        "AHR": [
+          "39856",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Renear, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "ASC": [
+          "40761",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Chan, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "BL": [
+          "39851",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Ludaescher, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "BM": [
+          "39853",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Mak, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "BTZ": [
+          "42628",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Batzloff, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "CLB": [
+          "39838",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Blake, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "CLT": [
+          "39860",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Tilley, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "CMC": [
+          "40756",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Chu, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "DSD": [
+          "39845",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Dubin, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "DW": [
+          "41705",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Wang, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "EES": [
+          "40759",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Santos, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "EFH": [
+          "39847",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Hoiem, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "EJK": [
+          "39849",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Knox, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "HHK": [
+          "40765",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Kilicoglu, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "JAP": [
+          "40851",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Pintar, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "JAS": [
+          "39857",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Schneider, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "JC": [
+          "40762",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Chin, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "JM": [
+          "41537",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Ma, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "JRH": [
+          "40763",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "He, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "JS": [
+          "39864",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Seo, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "JSD": [
+          "39844",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Downie, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "KAL": [
+          "39850",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "La Barre, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "KHW": [
+          "39865",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Williams, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "KM": [
+          "39855",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "McDowell, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "KMW": [
+          "39843",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Wickett, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "KOH": [
+          "40766",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Koh, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "LCS": [
+          "39858",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Smith, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "LSK": [
+          "39848",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Kendall, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "MBT": [
+          "39863",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Twidale, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "MBW": [
+          "39866",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Wolske, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "MGO": [
+          "40758",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Ocepek, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "MJT": [
+          "39862",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Turk, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "MNB": [
+          "39837",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Bashir, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "MRS": [
+          "39854",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Sanfilippo, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "MSB": [
+          "39839",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Bonn, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "NAC": [
+          "39841",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Cooke, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "PNB": [
+          "40760",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Bosch, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "PTD": [
+          "39842",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Darch, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "RAD": [
+          "39859",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Adler, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "RCC": [
+          "41536",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Cordell, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "RJB": [
+          "39840",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Brunner, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "RMM": [
+          "39852",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Magee, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "SPD": [
+          "39846",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Dahlen, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "VIT": [
+          "39861",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Torvik, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "WEU": [
+          "39938",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Underwood, W"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "YH": [
+          "40764",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Huang, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "YVW": [
+          "40767",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Wang, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Individual study and research.",
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "ARRANGED",
+      "1700 - 1950",
+      "1700 - 2000",
+      "1600 - 1850",
+      "1600 - 1950",
+      "0900 - 1200",
+      "1100 - 1300",
+      "1600 - 1800",
+      "1000 - 1200",
+      "1100 - 1250",
+      "0850 - 0950",
+      "1500 - 1550",
+      "1200 - 1250",
+      "0900 - 1020",
+      "1600 - 1750",
+      "0900 - 0950",
+      "1600 - 1650",
+      "1000 - 1050",
+      "1100 - 1150",
+      "1300 - 1350",
+      "1000 - 1120",
+      "1400 - 1550",
+      "1900 - 2100",
+      "0900 - 1040",
+      "0930 - 1120",
+      "1700 - 1850",
+      "1500 - 1650",
+      "0900 - 1050",
+      "0930 - 1050",
+      "1100 - 1220",
+      "0830 - 1350",
+      "1000 - 1150",
+      "1900 - 2000",
+      "1800 - 1950",
+      "0800 - 1150",
+      "0800 - 0850",
+      "1100 - 1215",
+      "1200 - 1320",
+      "1330 - 1450",
+      "1400 - 1530",
+      "1700 - 1820",
+      "1900 - 2055",
+      "1800 - 1920",
+      "1830 - 2020",
+      "1000 - 1650",
+      "1200 - 1350",
+      "1300 - 1450",
+      "1800 - 2050",
+      "1900 - 2050"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Study Abroad",
+      "Online",
+      "Independent Study",
+      "Lecture-Discussion",
+      "Online Lab",
+      "Online Lecture",
+      "Laboratory",
+      "Discussion/Recitation",
+      "Online Discussion",
+      "Practice",
+      "Internship",
+      "Lecture",
+      "Laboratory-Discussion",
+      "Research"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.1020773,
+        "long": -88.2296394
+      },
+      {
+        "lat": 40.1149296,
+        "long": -88.2280589
+      },
+      {
+        "lat": 40.1035872,
+        "long": -88.2306061
+      },
+      {
+        "lat": 40.104794,
+        "long": -88.224264
+      },
+      {
+        "lat": 40.10628,
+        "long": -88.22621
+      },
+      {
+        "lat": 40.1034533,
+        "long": -88.2327596
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}

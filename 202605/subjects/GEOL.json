@@ -1,0 +1,627 @@
+{
+  "subject": "GEOL",
+  "scrapedAt": 1785981826776,
+  "courseCount": 14,
+  "courses": {
+    "GEOL 117": [
+      "The Oceans",
+      {
+        "ONL": [
+          "37296",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Pettijohn, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Integrated introduction to oceanography and marine geology and geophysics. Topics include ocean-basin formation and evolution (in the context of plate tectonics), ocean ecology, the hydrologic cycle, water chemistry, currents and waves, the interaction of oceans with climate, coastal hazards, resources, pollution, and the Law of the Sea. Course is oriented toward students not majoring in science.",
+      []
+    ],
+    "GEOL 111": [
+      "Emergence of Life",
+      {
+        "ONL": [
+          "37771",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Meghani, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Examines important theoretical and practical questions regarding the origin and evolution of life, as well as the search for life elsewhere in the universe. Uses the pioneering work of Carl Woese, whose \"Tree of Life\" revolutionized our understanding of the fundamental structure and evolutionary relatedness of all living entities on Earth.",
+      []
+    ],
+    "GEOL 104": [
+      "Geology of the National Parks",
+      {
+        "B": [
+          "38689",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Pettijohn, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Develops geologic background, concepts, and principles through study of selected national parks and monuments. Examines the geologic framework and history, modern geologic processes, and factors influencing the present day landscape for each park area.",
+      []
+    ],
+    "GEOL 118": [
+      "Natural Disasters",
+      {
+        "A": [
+          "33479",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Austin, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduces the nature, causes, risks, effects, and prediction of natural disasters including earthquakes, volcanoes, landslides, subsidence, global climate change, severe weather, coastal erosion, floods, mass extinctions, and meteorite impacts; covers scientific principles and case histories of natural disasters as well as human responses (societal impact, mitigation strategies, and public policy).",
+      []
+    ],
+    "GEOL 199": [
+      "Undergraduate Open Seminar",
+      {
+        "10244": [
+          "10244",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      null,
+      []
+    ],
+    "GEOL 390": [
+      "Individual Study",
+      {
+        "10245": [
+          "10245",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Research and individual study in geology.",
+      []
+    ],
+    "GEOL 391": [
+      "Individual Honors Study",
+      {
+        "10248": [
+          "10248",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Research and individual study in geology for honors credit.",
+      []
+    ],
+    "GEOL 407": [
+      "CyberGIS & Geospatial Data Science",
+      {
+        "MS": [
+          "42372",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Padmanabhan, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "41315",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Padmanabhan, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as GGIS 407. See GGIS 407.",
+      []
+    ],
+    "GEOL 416": [
+      "Applied Digital Geosciences",
+      {
+        "A": [
+          "41621",
+          [
+            [
+              17,
+              "MW",
+              "ONLINE",
+              0,
+              [
+                "Meghani, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "41622",
+          [
+            [
+              17,
+              "MW",
+              "ONLINE",
+              0,
+              [
+                "Meghani, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Applied digital field methods. Students develop research strategies, collect remote field observations, compile unit descriptions, measure stratigraphic sections, evaluate and interpret uncertainty in data, construct geologic maps and cross sections, and interpret natural hazard maps. Uses digital topographic overlays in Google Earth and remote data imported into GIS. Designed to prepare students for successful careers in the geosciences.",
+      []
+    ],
+    "GEOL 417": [
+      "Geol Field Methods, Western US",
+      {
+        "A": [
+          "30761",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Austin, S",
+                "Christie, M",
+                "Stewart, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          6,
+          12,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Field course based in the mountains of the western United States. Provides intensive practical experience in geologic mapping, as well as instruction in field structural, stratigraphic, geomorphologic, and petrologic analysis. Offered during summer session only.",
+      []
+    ],
+    "GEOL 492": [
+      "Senior Thesis",
+      {
+        "10249": [
+          "10249",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Research in geology, with thesis; a thesis must be submitted for credit to be received.",
+      []
+    ],
+    "GEOL 493": [
+      "Honors Senior Thesis",
+      {
+        "10252": [
+          "10252",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Research in geology with honors thesis; a thesis must be submitted for credit to be received.",
+      []
+    ],
+    "GEOL 497": [
+      "Special Topics in Geology",
+      {
+        "10260": [
+          "10260",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "A": [
+          "18824",
+          [
+            [
+              33,
+              "W",
+              "ONLINE",
+              0,
+              [
+                "Johnson, T Johnson, T"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Johnson, T Johnson, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "18829",
+          [
+            [
+              33,
+              "W",
+              "ONLINE",
+              0,
+              [
+                "Johnson, T Johnson, T"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Johnson, T Johnson, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Seminar or lectures in subjects not covered by regular course offerings; for advanced undergraduates and graduate students.",
+      []
+    ],
+    "GEOL 593": [
+      "Advanced Studies in Geology",
+      {
+        "10267": [
+          "10267",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Work may be taken in the following fields: (a) general geology; Field trip fee may be required for this section. (b) engineering geology; (c) geomorphology and glacial geology; (d) clay mineralogy; (e) ground-water geology; (f) geomicrobiology; (g) geological fluid dynamics; (h) mineralogy and crystallography; (i) paleontology; (j) geochemistry: (k) geophysics; (l) petrography and petrology; (m) sedimentology; (n) stratigraphy; (o) oceanography; (p) submarine geology; (q) structural geology and geotectonics; (r) mathematical geology; (s) sedimentary petrography; (t) petroleum geology; (u) coal geology; (v) isotope geology and geochronology; (w) electron beam analysis; (x) vulcanology; (y) environmental geology; and (z) planetology.",
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "ARRANGED",
+      "1700 - 1950",
+      "1700 - 2000",
+      "1600 - 1850",
+      "1600 - 1950",
+      "0900 - 1200",
+      "1100 - 1300",
+      "1600 - 1800",
+      "1000 - 1200",
+      "1100 - 1250",
+      "0850 - 0950",
+      "1500 - 1550",
+      "1200 - 1250",
+      "0900 - 1020",
+      "1600 - 1750",
+      "0900 - 0950",
+      "1600 - 1650",
+      "1000 - 1050",
+      "1100 - 1150",
+      "1300 - 1350",
+      "1000 - 1120",
+      "1400 - 1550",
+      "1900 - 2100",
+      "0900 - 1040",
+      "0930 - 1120",
+      "1700 - 1850",
+      "1500 - 1650",
+      "0900 - 1050",
+      "0930 - 1050",
+      "1100 - 1220",
+      "0830 - 1350",
+      "1000 - 1150",
+      "1900 - 2000",
+      "1800 - 1950"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Study Abroad",
+      "Online",
+      "Independent Study",
+      "Lecture-Discussion",
+      "Online Lab",
+      "Online Lecture",
+      "Laboratory",
+      "Discussion/Recitation",
+      "Online Discussion",
+      "Practice",
+      "Internship",
+      "Lecture",
+      "Laboratory-Discussion"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.1020773,
+        "long": -88.2296394
+      },
+      {
+        "lat": 40.1149296,
+        "long": -88.2280589
+      },
+      {
+        "lat": 40.1035872,
+        "long": -88.2306061
+      },
+      {
+        "lat": 40.104794,
+        "long": -88.224264
+      },
+      {
+        "lat": 40.10628,
+        "long": -88.22621
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}
