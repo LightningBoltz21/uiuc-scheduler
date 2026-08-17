@@ -1,7 +1,7 @@
 {
   "subject": "ARCH",
-  "scrapedAt": 1786929896204,
-  "courseCount": 47,
+  "scrapedAt": 1786929926176,
+  "courseCount": 50,
   "courses": {
     "ARCH 200": [
       "Construction History",
@@ -2882,6 +2882,184 @@
       },
       [],
       "Individual or group investigation and study in architectural engineering application; research in economy and design in correlation with architectural, mechanical, and structural requirements.",
+      []
+    ],
+    "ARCH 599": [
+      "Thesis Research",
+      {
+        "DFR": [
+          "55150",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Ruggles, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "E0": [
+          "10349",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "KEH": [
+          "12269",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Holliday, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "RKS": [
+          "12249",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Strand, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "YKY": [
+          "76481",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Yi, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "For doctoral students in Architecture who have completed their required coursework and are working on their dissertations or who are completing their dissertation proposals prior to their preliminary examinations. Consists of focused writing of the dissertation or proposal as directed by Dissertation Advisor. Arranged sessions provide time devoted to meeting writing goals; discussion of the writing process; advisor feedback on students' writing, and guidance on how to make progress on the writing. Reserved for use by Ph.D. students in the writing phase of their dissertation work or in the semester leading to their preliminary examinations. In extraordinary cases it may be approved for use by M.S. students submitting a written thesis.",
+      []
+    ],
+    "ARCH 598": [
+      "Specialized Architectural Practice",
+      {
+        "67454": [
+          "67454",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Academic dimension to professionally supervised field experiences in which problems in architectural design and technology are defined, researched, and solved. Advanced doctoral students are introduced to applied research processes in any of architecture's sub-disciplines. Sites of applied research may include commercial firms, not-for-profit organizations, and government agencies. Students work in school-approved firms or agencies of their choice. Written accounts of work, documentation of research questions, and reflective experiential learning reports must be submitted.",
+      []
+    ],
+    "ARCH 597": [
+      "Special Problems in Architectural Design",
+      {
+        "41799": [
+          "41799",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Individual investigation of building types and systems, aesthetic theories, programming and other problems in architectural design.",
       []
     ]
   },
