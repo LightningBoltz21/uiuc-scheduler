@@ -4,7 +4,7 @@
   "year": "2026",
   "term": "fall",
   "startedAt": 1786929710508,
-  "lastUpdated": 1786930186369,
+  "lastUpdated": 1786930346658,
   "totalSubjects": 186,
   "totalCourses": 4484,
   "subjects": [
@@ -18574,19 +18574,44 @@
     "EPOL",
     "ERAM",
     "EDPR",
-    "EPSY"
+    "EPSY",
+    "ECE",
+    "ES",
+    "ENG",
+    "ETMA",
+    "ENGL",
+    "ESL",
+    "EIL",
+    "ENVS",
+    "ENSU",
+    "EURO",
+    "EXP",
+    "FIN",
+    "FAA",
+    "FSHN",
+    "FR",
+    "GSD",
+    "GWS",
+    "GGIS",
+    "GEOL",
+    "GER",
+    "GMC",
+    "GLBL",
+    "GC",
+    "GRK",
+    "HT"
   ],
   "partialSubjects": {
-    "ECE": {
-      "completed": 22,
-      "total": 109,
+    "HK": {
+      "completed": 73,
+      "total": 117,
       "lastCourse": "ABORTED"
     }
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 1653,
-    "failedCourses": 3,
+    "successfulCourses": 2305,
+    "failedCourses": 4,
     "rateLimitCount": 0
   }
 }
