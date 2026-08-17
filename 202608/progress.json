@@ -4,7 +4,7 @@
   "year": "2026",
   "term": "fall",
   "startedAt": 1786929710508,
-  "lastUpdated": 1786930056226,
+  "lastUpdated": 1786930186369,
   "totalSubjects": 186,
   "totalCourses": 4484,
   "subjects": [
@@ -18556,19 +18556,37 @@
     "CEE",
     "CLCV",
     "CLE",
-    "CIC"
+    "CIC",
+    "CMN",
+    "CB",
+    "CWL",
+    "CSE",
+    "CS",
+    "CW",
+    "CPSC",
+    "CI",
+    "CZCH",
+    "DANC",
+    "ESE",
+    "EALC",
+    "ECON",
+    "EDUC",
+    "EPOL",
+    "ERAM",
+    "EDPR",
+    "EPSY"
   ],
   "partialSubjects": {
-    "CMN": {
-      "completed": 2,
-      "total": 51,
+    "ECE": {
+      "completed": 22,
+      "total": 109,
       "lastCourse": "ABORTED"
     }
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 1074,
-    "failedCourses": 2,
+    "successfulCourses": 1653,
+    "failedCourses": 3,
     "rateLimitCount": 0
   }
 }
