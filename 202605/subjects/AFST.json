@@ -1,0 +1,44 @@
+{
+  "subject": "AFST",
+  "scrapedAt": 1787078119931,
+  "courseCount": 0,
+  "courses": {},
+  "caches": {
+    "periods": [
+      "ARRANGED",
+      "1230 - 1350",
+      "1400 - 1520",
+      "0930 - 1050",
+      "1100 - 1220",
+      "1330 - 1450"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Independent Study",
+      "Online",
+      "Lecture-Discussion",
+      "Conference",
+      "Internship"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.1035872,
+        "long": -88.2306061
+      },
+      {
+        "lat": 40.1108856,
+        "long": -88.2269806
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}
