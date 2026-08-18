@@ -4,7 +4,7 @@
   "year": "2026",
   "term": "summer",
   "startedAt": 1787078031208,
-  "lastUpdated": 1787078279541,
+  "lastUpdated": 1787078439496,
   "totalSubjects": 150,
   "totalCourses": 1062,
   "subjects": [
@@ -4748,19 +4748,41 @@
     "CHBE",
     "CHEM",
     "CEE",
-    "CLCV"
+    "CLCV",
+    "CLE",
+    "CIC",
+    "CMN",
+    "CB",
+    "CWL",
+    "CSE",
+    "CS",
+    "CW",
+    "CPSC",
+    "CI",
+    "DANC",
+    "ESE",
+    "EALC",
+    "ECON",
+    "EDUC",
+    "EPOL",
+    "ERAM",
+    "EPSY",
+    "ECE",
+    "ENG",
+    "ENGL",
+    "ESL"
   ],
   "partialSubjects": {
-    "CLE": {
-      "completed": 3,
-      "total": 75,
+    "EIL": {
+      "completed": 0,
+      "total": 1,
       "lastCourse": "ABORTED"
     }
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 256,
-    "failedCourses": 2,
+    "successfulCourses": 495,
+    "failedCourses": 3,
     "rateLimitCount": 0
   }
 }
