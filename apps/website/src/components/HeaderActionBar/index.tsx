@@ -3,7 +3,7 @@ import {
   faCalendarAlt,
   faPaste,
   faCaretDown,
-  faHandHoldingDollar,
+  faMugHot,
 } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import React, { useCallback, useState } from 'react';
@@ -101,10 +101,10 @@ export default function HeaderActionBar({
         <FontAwesomeIcon
           className="header-action-bar__button-icon"
           fixedWidth
-          icon={faHandHoldingDollar}
+          icon={faMugHot}
         />
 
-        <div className="header-action-bar__button-text">Donate</div>
+        <div className="header-action-bar__button-text">Tips</div>
       </Button>
 
       <DropdownMenu

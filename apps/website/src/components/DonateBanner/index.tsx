@@ -15,7 +15,7 @@ function Content(): React.ReactElement {
         rel="noopener noreferrer"
         target="_blank"
       >
-        <b className="buttonText">Donate Today.</b>
+        <b className="buttonText">Leave a Tip.</b>
       </a>
     </span>
   );
@@ -31,7 +31,7 @@ function MobileContent(): React.ReactElement {
         rel="noopener noreferrer"
         target="_blank"
       >
-        <b className="buttonText">donate today.</b>
+        <b className="buttonText">leave a tip.</b>
       </a>
     </span>
   );

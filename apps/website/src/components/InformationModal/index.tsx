@@ -71,8 +71,8 @@ export function InformationModalContent({
           <br />
           <br />
           However, to keep UIUC Scheduler and its amazing features, we need to
-          maintain our costs. Please consider donating to help keep UIUC
-          Scheduler running!
+          maintain our costs. If it has been useful to you, consider leaving a
+          tip to help keep UIUC Scheduler running!
         </p>
         <div className="information-images">
           <img
@@ -123,7 +123,7 @@ export default function InformationModal(): React.ReactElement {
       onHide={(): void => setShow(false)}
       buttons={[
         {
-          label: 'Donate Today',
+          label: 'Leave a Tip',
           onClick: (): void => {
             setShow(false);
             window.open(DONATE_LINK);
