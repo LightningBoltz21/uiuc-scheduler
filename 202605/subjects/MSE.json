@@ -1,0 +1,273 @@
+{
+  "subject": "MSE",
+  "scrapedAt": 1787078717143,
+  "courseCount": 7,
+  "courses": {
+    "MSE 497": [
+      "Independent Study",
+      {
+        "10601": [
+          "10601",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Individual study of any topic in materials science and engineering under the supervision of a member of the faculty.",
+      []
+    ],
+    "MSE 199": [
+      "Undergraduate Open Seminar",
+      {
+        "10557": [
+          "10557",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "May be repeated to a maximum of 5 hours. May be repeated in the same term.",
+      []
+    ],
+    "MSE 397": [
+      "Independent Study",
+      {
+        "10559": [
+          "10559",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Individual study of any topic in materials science and engineering selected by the student and conducted under the supervision of a member of the faculty.",
+      []
+    ],
+    "MSE 499": [
+      "Senior Thesis",
+      {
+        "10561": [
+          "10561",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Individual research in an area of materials science and engineering under the supervision of members of the staff.",
+      []
+    ],
+    "MSE 498": [
+      "Special Topics",
+      {
+        "JTG": [
+          "40669",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "TerBush, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "JTU": [
+          "40668",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "TerBush, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Subject offerings of new and developing areas of knowledge in materials science and engineering intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites.",
+      []
+    ],
+    "MSE 590": [
+      "Research Seminars",
+      {
+        "10568": [
+          "10568",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Discussions and lectures on current research under the direction of individual staff members.",
+      []
+    ],
+    "MSE 597": [
+      "Independent Study",
+      {
+        "10566": [
+          "10566",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Individual study of any topic in materials science and engineering under the supervision of a member of the faculty.",
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "ARRANGED",
+      "0630 - 1900",
+      "0800 - 1930",
+      "0900 - 2200",
+      "0930 - 1430",
+      "0930 - 1530",
+      "0930 - 1730",
+      "0900 - 1050"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Independent Study",
+      "Online",
+      "Seminar",
+      "Lecture",
+      "Lecture 05/22/26",
+      "Internship",
+      "Study Abroad"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}

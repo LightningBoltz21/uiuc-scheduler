@@ -1,0 +1,138 @@
+{
+  "subject": "MDIA",
+  "scrapedAt": 1787078723214,
+  "courseCount": 2,
+  "courses": {
+    "MDIA 590": [
+      "Special Topics",
+      {
+        "38526": [
+          "38526",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "May be repeated in the same or in multiple semesters if topics vary.",
+      []
+    ],
+    "MDIA 299": [
+      "Media Study Abroad",
+      {
+        "A": [
+          "41687",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          18,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "42195",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          18,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Provides credit toward the undergraduate degree for study at accredited foreign institutions or approved overseas programs. Final determination of credit is made upon the student's completion of the work.",
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "ARRANGED",
+      "0630 - 1900",
+      "0800 - 1930",
+      "0900 - 2200",
+      "0930 - 1430",
+      "0930 - 1530",
+      "0930 - 1730",
+      "0900 - 1050",
+      "1600 - 1650",
+      "0800 - 0950",
+      "1000 - 1050",
+      "1000 - 1150"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Independent Study",
+      "Online",
+      "Seminar",
+      "Lecture",
+      "Lecture 05/22/26",
+      "Internship",
+      "Study Abroad",
+      "Lecture-Discussion",
+      "Online Discussion",
+      "Online Lecture"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.1108856,
+        "long": -88.2269806
+      },
+      {
+        "lat": 40.110811306674734,
+        "long": -88.2248467072371
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}
