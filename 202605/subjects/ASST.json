@@ -1,43 +1,13 @@
 {
-  "subject": "AFST",
-  "scrapedAt": 1787078229872,
-  "courseCount": 4,
+  "subject": "ASST",
+  "scrapedAt": 1787078251859,
+  "courseCount": 3,
   "courses": {
-    "AFST 490": [
-      "Independent Study",
+    "ASST 208": [
+      "Cultures & Literatures of South Asia",
       {
-        "A": [
-          "40769",
-          [
-            [
-              0,
-              "R",
-              "TBA",
-              0,
-              [
-                "Toure, V"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Supervised readings and research in selected fields in consultation with the instructor.",
-      []
-    ],
-    "AFST 222": [
-      "Introduction to Modern Africa",
-      {
-        "A": [
-          "37829",
+        "RBM": [
+          "40221",
           [
             [
               1,
@@ -45,7 +15,7 @@
               "ONLINE",
               0,
               [
-                "Toure, V"
+                "Mehta, R"
               ],
               -1,
               -1,
@@ -60,14 +30,14 @@
         ]
       },
       [],
-      "Interdisciplinary introduction to Africa dealing with basic themes and problems in the politics, economics, sociology, anthropology, and history of Africa.",
+      "Same as CWL 208, REL 208 and SAME 208. See REL 208.",
       []
     ],
-    "AFST 199": [
+    "ASST 199": [
       "Undergraduate Open Seminar",
       {
-        "10130": [
-          "10130",
+        "10388": [
+          "10388",
           [
             [
               1,
@@ -93,11 +63,11 @@
       null,
       []
     ],
-    "AFST 550": [
-      "Special Topics",
+    "ASST 390": [
+      "Individual Study",
       {
-        "10134": [
-          "10134",
+        "10390": [
+          "10390",
           [
             [
               1,
@@ -120,19 +90,36 @@
         ]
       },
       [],
-      "Topics vary with the disciplinary focus.",
+      "Directed readings in the languages and literatures of South Asia, Southeast Asia, or the Near East. The area selected depends on the student's interest.",
       []
     ]
   },
   "caches": {
     "periods": [
       "1000 - 1200",
-      "ARRANGED"
+      "ARRANGED",
+      "0830 - 1800",
+      "0900 - 1050",
+      "1200 - 1350",
+      "1300 - 1750",
+      "0900 - 1150",
+      "1300 - 1650",
+      "0900 - 1140",
+      "0930 - 1050"
     ],
     "dateRanges": [],
     "scheduleTypes": [
       "Independent Study",
-      "Online"
+      "Online",
+      "Lecture-Discussion",
+      "Conference",
+      "Internship",
+      "Study Abroad",
+      "Online Lab",
+      "Travel",
+      "Seminar",
+      "Laboratory",
+      "Studio"
     ],
     "campuses": [],
     "attributes": [],
@@ -142,6 +129,10 @@
       {
         "lat": null,
         "long": null
+      },
+      {
+        "lat": 40.10628,
+        "long": -88.22621
       }
     ],
     "finalDates": [],

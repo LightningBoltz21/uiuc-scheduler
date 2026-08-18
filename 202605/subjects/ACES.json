@@ -1,0 +1,317 @@
+{
+  "subject": "ACES",
+  "scrapedAt": 1787078234526,
+  "courseCount": 5,
+  "courses": {
+    "ACES 199": [
+      "Undergraduate Open Seminar",
+      {
+        "10094": [
+          "10094",
+          [
+            [
+              1,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Experimental course on a special topic in the College of Agricultural, Consumer and Environmental Sciences.",
+      []
+    ],
+    "ACES 293": [
+      "International Internship",
+      {
+        "AF": [
+          "42483",
+          [
+            [
+              1,
+              "",
+              "TBA",
+              0,
+              [
+                "Freter, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "AJL": [
+          "42268",
+          [
+            [
+              1,
+              "",
+              "TBA",
+              0,
+              [
+                "Freter, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "SM": [
+          "42294",
+          [
+            [
+              1,
+              "",
+              "TBA",
+              0,
+              [
+                "Ma, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Supervised learning experience designed for ACES students registering for an academic term abroad and/or for non-degree exchange students enrolling for an academic term at Illinois. The nature of the experience and the setting in which it takes place must be approved in advance by ACES faculty and by representative(s) of institutions/organizations/agencies that cooperate with the College of ACES in student exchange/study abroad programs.",
+      []
+    ],
+    "ACES 295": [
+      "Undergrad Research or Thesis",
+      {
+        "11769": [
+          "11769",
+          [
+            [
+              1,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Individual research, special problems, thesis, development and/or design work under the supervision of an appropriate member of the faculty.",
+      []
+    ],
+    "ACES 298": [
+      "International Experience",
+      {
+        "10104": [
+          "10104",
+          [
+            [
+              1,
+              "",
+              "TBA",
+              0,
+              [
+                "Freter, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          9,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "International experience in agricultural, consumer and environmental sciences related areas involving foreign travel and study without enrollment in another institution. Experience must be planned and approved in advance through consultation with a College of Agricultural, Consumer and Environmental Sciences faculty member.",
+      []
+    ],
+    "ACES 299": [
+      "ACES Study Abroad",
+      {
+        "10107": [
+          "10107",
+          [
+            [
+              1,
+              "",
+              "TBA",
+              0,
+              [
+                "Freter, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          18,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "A2": [
+          "30130",
+          [
+            [
+              1,
+              "",
+              "TBA",
+              0,
+              [
+                "Freter, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          18,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "S1": [
+          "38466",
+          [
+            [
+              1,
+              "",
+              "TBA",
+              0,
+              [
+                "Freter, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          18,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "S2": [
+          "38451",
+          [
+            [
+              1,
+              "",
+              "TBA",
+              0,
+              [
+                "Freter, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          18,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "S2B": [
+          "38762",
+          [
+            [
+              1,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          18,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Provides campus credit in the College of Agricultural, Consumer and Environmental Sciences for study at accredited foreign institutions. Final determination of credit granted is made upon the student's successful completion of work.",
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "1000 - 1200",
+      "ARRANGED",
+      "0830 - 1800"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Independent Study",
+      "Online",
+      "Lecture-Discussion",
+      "Conference",
+      "Internship",
+      "Study Abroad"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "subject": "ANSC",
+  "scrapedAt": 1787078236463,
+  "courseCount": 5,
+  "courses": {
+    "ANSC 199": [
+      "Undergraduate Open Seminar",
+      {
+        "10232": [
+          "10232",
+          [
+            [
+              1,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "An experimental course on a special topic in animal sciences.",
+      []
+    ],
+    "ANSC 499": [
+      "Seminar",
+      {
+        "10254": [
+          "10254",
+          [
+            [
+              1,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Group discussion or an experimental course on a special topic in animal sciences.",
+      []
+    ],
+    "ANSC 398": [
+      "UG Experiential Learning",
+      {
+        "A": [
+          "37669",
+          [
+            [
+              1,
+              "",
+              "TBA",
+              0,
+              [
+                "Archer, C",
+                "Taves, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "E": [
+          "38224",
+          [
+            [
+              1,
+              "",
+              "TBA",
+              0,
+              [
+                "Fischer-Brown, A",
+                "Richardson, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "F": [
+          "39343",
+          [
+            [
+              1,
+              "",
+              "TBA",
+              0,
+              [
+                "Shike, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Student-directed experiential learning on special topics directly pertaining to subject matter in animal sciences. Students are required to complete a Memorandum of Agreement prior to enrolling in this course.",
+      []
+    ],
+    "ANSC 592": [
+      "Adv Topics in Animal Science",
+      {
+        "A": [
+          "38053",
+          [
+            [
+              1,
+              "",
+              "TBA",
+              0,
+              [
+                "Rodriguez Zas, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Selected topics associated with teaching, research, and production related to the animal industry.",
+      []
+    ],
+    "ANSC 593": [
+      "Res Studies in Animal Sciences",
+      {
+        "10258": [
+          "10258",
+          [
+            [
+              1,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Directed and supervised study of selected research topics in Animal Sciences.",
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "1000 - 1200",
+      "ARRANGED",
+      "0830 - 1800"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Independent Study",
+      "Online",
+      "Lecture-Discussion",
+      "Conference",
+      "Internship",
+      "Study Abroad"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}

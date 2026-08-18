@@ -4,7 +4,7 @@
   "year": "2026",
   "term": "summer",
   "startedAt": 1787078031208,
-  "lastUpdated": 1787078119932,
+  "lastUpdated": 1787078279541,
   "totalSubjects": 150,
   "totalCourses": 1062,
   "subjects": [
@@ -4714,19 +4714,53 @@
     "ASRM",
     "ADV",
     "AE",
-    "AFRO"
+    "AFRO",
+    "AFST",
+    "AGED",
+    "ABE",
+    "ACE",
+    "ACES",
+    "AFAS",
+    "ANSC",
+    "ANTH",
+    "AHS",
+    "ARAB",
+    "ARCH",
+    "ART",
+    "ARTD",
+    "ARTE",
+    "ARTF",
+    "ARTH",
+    "ARTS",
+    "AAS",
+    "ASST",
+    "ASTR",
+    "ATMS",
+    "BIOC",
+    "BIOE",
+    "BSE",
+    "BIOP",
+    "BCOG",
+    "BUS",
+    "BADM",
+    "BTW",
+    "CDB",
+    "CHBE",
+    "CHEM",
+    "CEE",
+    "CLCV"
   ],
   "partialSubjects": {
-    "AFST": {
-      "completed": 0,
-      "total": 4,
+    "CLE": {
+      "completed": 3,
+      "total": 75,
       "lastCourse": "ABORTED"
     }
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 39,
-    "failedCourses": 1,
+    "successfulCourses": 256,
+    "failedCourses": 2,
     "rateLimitCount": 0
   }
 }
