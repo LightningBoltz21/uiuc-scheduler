@@ -1,0 +1,165 @@
+{
+  "subject": "FAA",
+  "scrapedAt": 1787078553566,
+  "courseCount": 2,
+  "courses": {
+    "FAA 398": [
+      "Sustainable Design Internship",
+      {
+        "SD": [
+          "41697",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Smart, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Supervised field experience in a full-time or part-time internship position related to the field of Sustainable Design. Designed to introduce students to professional employment and actual practice. Full documentation and approval of internship activities required.",
+      []
+    ],
+    "FAA 299": [
+      "FAA Study Abroad",
+      {
+        "A": [
+          "29938",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          18,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "A1": [
+          "30666",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Turner, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          18,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "S2": [
+          "38438",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Turner, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          18,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "S2B": [
+          "34273",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          18,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Provides campus credit for foreign study and/or travel. A detailed proposal for study abroad must be submitted for approval by the appropriate committee of the department in which the student is studying and the college dean's office prior to such study abroad. Final determination of credit and its application toward the degree is made after a review of the student's work abroad by the above committee and college office. (summer session, 0 to 6 undergraduate hours).",
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "ARRANGED",
+      "0930 - 1050",
+      "1100 - 1220"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Online",
+      "Independent Study",
+      "Lecture-Discussion",
+      "Study Abroad",
+      "Practice",
+      "Internship"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.1035872,
+        "long": -88.2306061
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}

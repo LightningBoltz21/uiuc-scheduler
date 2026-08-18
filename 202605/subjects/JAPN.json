@@ -1,0 +1,116 @@
+{
+  "subject": "JAPN",
+  "scrapedAt": 1787078592887,
+  "courseCount": 1,
+  "courses": {
+    "JAPN 201": [
+      "Elementary Japanese I",
+      {
+        "ONL": [
+          "40189",
+          [
+            [
+              5,
+              "TF",
+              "ONLINE",
+              0,
+              [
+                "Ai, M",
+                "Baxter, S",
+                "Sadler, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to Japanese, spoken language skills and the reading and writing of hirigana, katakana, and kanji.",
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "ARRANGED",
+      "0930 - 1050",
+      "1100 - 1220",
+      "0830 - 1350",
+      "1000 - 1150",
+      "1900 - 2000",
+      "1900 - 2100",
+      "0900 - 1200",
+      "1000 - 1050",
+      "1800 - 1950",
+      "0800 - 1150",
+      "0900 - 0950",
+      "0800 - 0850",
+      "1100 - 1215",
+      "0900 - 1050",
+      "1200 - 1320",
+      "1330 - 1450",
+      "1400 - 1530",
+      "1700 - 1820",
+      "1400 - 1550",
+      "1900 - 2055",
+      "1800 - 1920",
+      "1600 - 1750",
+      "1700 - 1850",
+      "1500 - 1650",
+      "1830 - 2020",
+      "1000 - 1650",
+      "1200 - 1350",
+      "1300 - 1450",
+      "1800 - 2050",
+      "1900 - 2050"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Online",
+      "Independent Study",
+      "Lecture-Discussion",
+      "Study Abroad",
+      "Practice",
+      "Internship",
+      "Laboratory",
+      "Online Discussion",
+      "Lecture",
+      "Laboratory-Discussion",
+      "Research"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.1035872,
+        "long": -88.2306061
+      },
+      {
+        "lat": 40.104794,
+        "long": -88.224264
+      },
+      {
+        "lat": 40.10628,
+        "long": -88.22621
+      },
+      {
+        "lat": 40.1034533,
+        "long": -88.2327596
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}

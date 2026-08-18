@@ -1,0 +1,229 @@
+{
+  "subject": "GC",
+  "scrapedAt": 1787078569491,
+  "courseCount": 2,
+  "courses": {
+    "GC 499": [
+      "Graduate College Study Abroad",
+      {
+        "A": [
+          "29944",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Thompson, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          18,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "A1": [
+          "30736",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Thompson, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          18,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "Z": [
+          "34275",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Thompson, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          18,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Provides campus credit for study at accredited foreign institutions or approved overseas programs. Final determination of credit granted is made after the student's successful completion of work. Credit will not count toward residence requirements.",
+      []
+    ],
+    "GC 498": [
+      "Graduate Domestic Study Away",
+      {
+        "A": [
+          "35259",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Thompson, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          12,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "S1": [
+          "34515",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Thompson, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          12,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "S2": [
+          "34516",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Thompson, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          12,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "SF": [
+          "34517",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Thompson, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          12,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Provides campus credit for study at accredited domestics institutions outside the CIC.",
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "ARRANGED",
+      "0930 - 1050",
+      "1100 - 1220",
+      "0830 - 1350",
+      "1000 - 1150",
+      "1900 - 2000",
+      "1900 - 2100",
+      "0900 - 1200",
+      "1000 - 1050",
+      "1800 - 1950",
+      "0800 - 1150"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Online",
+      "Independent Study",
+      "Lecture-Discussion",
+      "Study Abroad",
+      "Practice",
+      "Internship",
+      "Laboratory",
+      "Online Discussion",
+      "Lecture",
+      "Laboratory-Discussion"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.1035872,
+        "long": -88.2306061
+      },
+      {
+        "lat": 40.104794,
+        "long": -88.224264
+      },
+      {
+        "lat": 40.10628,
+        "long": -88.22621
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}

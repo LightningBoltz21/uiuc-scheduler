@@ -1,0 +1,61 @@
+{
+  "subject": "EXP",
+  "scrapedAt": 1787078550478,
+  "courseCount": 1,
+  "courses": {
+    "EXP 299": [
+      "Exploratory Study Abroad",
+      {
+        "EXP": [
+          "42612",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          18,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Provides credit toward the undergraduate degree for study at accredited foreign institutions or approved for overseas programs. Final determination of credit is made upon the student’s completion of the work. (Summer session, 0 to 8 hours).",
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "ARRANGED"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Online",
+      "Independent Study",
+      "Lecture-Discussion",
+      "Study Abroad"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}
