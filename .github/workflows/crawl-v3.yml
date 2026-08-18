@@ -14,7 +14,7 @@ on:
       max_retries:
         description: 'Maximum number of retry attempts'
         required: false
-        default: '100'
+        default: '15'
         type: string
 
 permissions:
@@ -30,7 +30,7 @@ jobs:
         id: check_retry
         run: |
           RETRY_COUNT=${{ github.event.inputs.retry_count || 0 }}
-          MAX_RETRIES=${{ github.event.inputs.max_retries || 3 }}
+          MAX_RETRIES=${{ github.event.inputs.max_retries || 15 }}
 
           echo "retry_count=$RETRY_COUNT" >> $GITHUB_OUTPUT
           echo "max_retries=$MAX_RETRIES" >> $GITHUB_OUTPUT
