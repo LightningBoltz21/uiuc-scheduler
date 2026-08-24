@@ -1,0 +1,81 @@
+{
+  "subject": "TE",
+  "scrapedAt": 1787535754747,
+  "courseCount": 6,
+  "courses": {
+    "TE 461": [
+      "TE 461",
+      {},
+      [],
+      null,
+      []
+    ],
+    "TE 466": [
+      "TE 466",
+      {},
+      [],
+      null,
+      []
+    ],
+    "TE 468": [
+      "TE 468",
+      {},
+      [],
+      null,
+      []
+    ],
+    "TE 565": [
+      "TE 565",
+      {},
+      [],
+      null,
+      []
+    ],
+    "TE 567": [
+      "TE 567",
+      {},
+      [],
+      null,
+      []
+    ],
+    "TE 566": [
+      "TE 566",
+      {},
+      [],
+      null,
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "ARRANGED",
+      "1230 - 1350",
+      "1400 - 1520",
+      "1100 - 1220",
+      "0930 - 1050"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Online",
+      "Independent Study",
+      "Lecture-Discussion",
+      "Conference"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.1035872,
+        "long": -88.2306061
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}

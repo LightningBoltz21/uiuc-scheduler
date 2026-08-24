@@ -1,0 +1,67 @@
+{
+  "subject": "EALC",
+  "scrapedAt": 1787535629048,
+  "courseCount": 4,
+  "courses": {
+    "EALC 490": [
+      "EALC 490",
+      {},
+      [],
+      null,
+      []
+    ],
+    "EALC 199": [
+      "EALC 199",
+      {},
+      [],
+      null,
+      []
+    ],
+    "EALC 390": [
+      "EALC 390",
+      {},
+      [],
+      null,
+      []
+    ],
+    "EALC 590": [
+      "EALC 590",
+      {},
+      [],
+      null,
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "ARRANGED",
+      "1230 - 1350",
+      "1400 - 1520",
+      "1100 - 1220",
+      "0930 - 1050"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Online",
+      "Independent Study",
+      "Lecture-Discussion",
+      "Conference"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.1035872,
+        "long": -88.2306061
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}

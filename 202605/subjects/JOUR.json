@@ -1,0 +1,67 @@
+{
+  "subject": "JOUR",
+  "scrapedAt": 1787535685795,
+  "courseCount": 4,
+  "courses": {
+    "JOUR 200": [
+      "JOUR 200",
+      {},
+      [],
+      null,
+      []
+    ],
+    "JOUR 460": [
+      "JOUR 460",
+      {},
+      [],
+      null,
+      []
+    ],
+    "JOUR 495": [
+      "JOUR 495",
+      {},
+      [],
+      null,
+      []
+    ],
+    "JOUR 515": [
+      "JOUR 515",
+      {},
+      [],
+      null,
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "ARRANGED",
+      "1230 - 1350",
+      "1400 - 1520",
+      "1100 - 1220",
+      "0930 - 1050"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Online",
+      "Independent Study",
+      "Lecture-Discussion",
+      "Conference"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.1035872,
+        "long": -88.2306061
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}

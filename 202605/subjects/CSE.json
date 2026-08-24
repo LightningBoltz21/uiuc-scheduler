@@ -1,0 +1,67 @@
+{
+  "subject": "CSE",
+  "scrapedAt": 1787535618798,
+  "courseCount": 4,
+  "courses": {
+    "CSE 448": [
+      "CSE 448",
+      {},
+      [],
+      null,
+      []
+    ],
+    "CSE 408": [
+      "CSE 408",
+      {},
+      [],
+      null,
+      []
+    ],
+    "CSE 451": [
+      "CSE 451",
+      {},
+      [],
+      null,
+      []
+    ],
+    "CSE 527": [
+      "CSE 527",
+      {},
+      [],
+      null,
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "ARRANGED",
+      "1230 - 1350",
+      "1400 - 1520",
+      "1100 - 1220",
+      "0930 - 1050"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Online",
+      "Independent Study",
+      "Lecture-Discussion",
+      "Conference"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.1035872,
+        "long": -88.2306061
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}

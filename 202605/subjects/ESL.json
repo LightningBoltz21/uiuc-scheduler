@@ -1,0 +1,81 @@
+{
+  "subject": "ESL",
+  "scrapedAt": 1787535644905,
+  "courseCount": 6,
+  "courses": {
+    "ESL 504": [
+      "ESL 504",
+      {},
+      [],
+      null,
+      []
+    ],
+    "ESL 508": [
+      "ESL 508",
+      {},
+      [],
+      null,
+      []
+    ],
+    "ESL 512": [
+      "ESL 512",
+      {},
+      [],
+      null,
+      []
+    ],
+    "ESL 521": [
+      "ESL 521",
+      {},
+      [],
+      null,
+      []
+    ],
+    "ESL 522": [
+      "ESL 522",
+      {},
+      [],
+      null,
+      []
+    ],
+    "ESL 525": [
+      "ESL 525",
+      {},
+      [],
+      null,
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "ARRANGED",
+      "1230 - 1350",
+      "1400 - 1520",
+      "1100 - 1220",
+      "0930 - 1050"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Online",
+      "Independent Study",
+      "Lecture-Discussion",
+      "Conference"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.1035872,
+        "long": -88.2306061
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}

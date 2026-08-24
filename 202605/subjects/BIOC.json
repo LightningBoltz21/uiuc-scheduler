@@ -1,0 +1,67 @@
+{
+  "subject": "BIOC",
+  "scrapedAt": 1787535578360,
+  "courseCount": 4,
+  "courses": {
+    "BIOC 290": [
+      "BIOC 290",
+      {},
+      [],
+      null,
+      []
+    ],
+    "BIOC 199": [
+      "BIOC 199",
+      {},
+      [],
+      null,
+      []
+    ],
+    "BIOC 492": [
+      "BIOC 492",
+      {},
+      [],
+      null,
+      []
+    ],
+    "BIOC 590": [
+      "BIOC 590",
+      {},
+      [],
+      null,
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "ARRANGED",
+      "1230 - 1350",
+      "1400 - 1520",
+      "1100 - 1220",
+      "0930 - 1050"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Online",
+      "Independent Study",
+      "Lecture-Discussion",
+      "Conference"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.1035872,
+        "long": -88.2306061
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}

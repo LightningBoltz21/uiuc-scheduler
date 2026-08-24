@@ -1,0 +1,60 @@
+{
+  "subject": "GWS",
+  "scrapedAt": 1787535653991,
+  "courseCount": 3,
+  "courses": {
+    "GWS 378": [
+      "GWS 378",
+      {},
+      [],
+      null,
+      []
+    ],
+    "GWS 356": [
+      "GWS 356",
+      {},
+      [],
+      null,
+      []
+    ],
+    "GWS 201": [
+      "GWS 201",
+      {},
+      [],
+      null,
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "ARRANGED",
+      "1230 - 1350",
+      "1400 - 1520",
+      "1100 - 1220",
+      "0930 - 1050"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Online",
+      "Independent Study",
+      "Lecture-Discussion",
+      "Conference"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.1035872,
+        "long": -88.2306061
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}

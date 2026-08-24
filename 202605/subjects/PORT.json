@@ -1,0 +1,67 @@
+{
+  "subject": "PORT",
+  "scrapedAt": 1787535724633,
+  "courseCount": 4,
+  "courses": {
+    "PORT 460": [
+      "PORT 460",
+      {},
+      [],
+      null,
+      []
+    ],
+    "PORT 489": [
+      "PORT 489",
+      {},
+      [],
+      null,
+      []
+    ],
+    "PORT 199": [
+      "PORT 199",
+      {},
+      [],
+      null,
+      []
+    ],
+    "PORT 595": [
+      "PORT 595",
+      {},
+      [],
+      null,
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "ARRANGED",
+      "1230 - 1350",
+      "1400 - 1520",
+      "1100 - 1220",
+      "0930 - 1050"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Online",
+      "Independent Study",
+      "Lecture-Discussion",
+      "Conference"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.1035872,
+        "long": -88.2306061
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}

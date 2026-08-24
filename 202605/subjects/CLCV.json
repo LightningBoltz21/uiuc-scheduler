@@ -1,0 +1,74 @@
+{
+  "subject": "CLCV",
+  "scrapedAt": 1787535598091,
+  "courseCount": 5,
+  "courses": {
+    "CLCV 114": [
+      "CLCV 114",
+      {},
+      [],
+      null,
+      []
+    ],
+    "CLCV 102": [
+      "CLCV 102",
+      {},
+      [],
+      null,
+      []
+    ],
+    "CLCV 115": [
+      "CLCV 115",
+      {},
+      [],
+      null,
+      []
+    ],
+    "CLCV 231": [
+      "CLCV 231",
+      {},
+      [],
+      null,
+      []
+    ],
+    "CLCV 116": [
+      "CLCV 116",
+      {},
+      [],
+      null,
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "ARRANGED",
+      "1230 - 1350",
+      "1400 - 1520",
+      "1100 - 1220",
+      "0930 - 1050"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Online",
+      "Independent Study",
+      "Lecture-Discussion",
+      "Conference"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.1035872,
+        "long": -88.2306061
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}

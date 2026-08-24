@@ -1,0 +1,81 @@
+{
+  "subject": "CPSC",
+  "scrapedAt": 1787535623417,
+  "courseCount": 6,
+  "courses": {
+    "CPSC 396": [
+      "CPSC 396",
+      {},
+      [],
+      null,
+      []
+    ],
+    "CPSC 395": [
+      "CPSC 395",
+      {},
+      [],
+      null,
+      []
+    ],
+    "CPSC 393": [
+      "CPSC 393",
+      {},
+      [],
+      null,
+      []
+    ],
+    "CPSC 413": [
+      "CPSC 413",
+      {},
+      [],
+      null,
+      []
+    ],
+    "CPSC 593": [
+      "CPSC 593",
+      {},
+      [],
+      null,
+      []
+    ],
+    "CPSC 442": [
+      "CPSC 442",
+      {},
+      [],
+      null,
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "ARRANGED",
+      "1230 - 1350",
+      "1400 - 1520",
+      "1100 - 1220",
+      "0930 - 1050"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Online",
+      "Independent Study",
+      "Lecture-Discussion",
+      "Conference"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.1035872,
+        "long": -88.2306061
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}

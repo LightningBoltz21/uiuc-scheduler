@@ -1,0 +1,60 @@
+{
+  "subject": "LAW",
+  "scrapedAt": 1787535691867,
+  "courseCount": 3,
+  "courses": {
+    "LAW 798": [
+      "LAW 798",
+      {},
+      [],
+      null,
+      []
+    ],
+    "LAW 699": [
+      "LAW 699",
+      {},
+      [],
+      null,
+      []
+    ],
+    "LAW 692": [
+      "LAW 692",
+      {},
+      [],
+      null,
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "ARRANGED",
+      "1230 - 1350",
+      "1400 - 1520",
+      "1100 - 1220",
+      "0930 - 1050"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Online",
+      "Independent Study",
+      "Lecture-Discussion",
+      "Conference"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.1035872,
+        "long": -88.2306061
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "subject": "ARTD",
+  "scrapedAt": 1787535569673,
+  "courseCount": 7,
+  "courses": {
+    "ARTD 399": [
+      "ARTD 399",
+      {},
+      [],
+      null,
+      []
+    ],
+    "ARTD 499": [
+      "ARTD 499",
+      {},
+      [],
+      null,
+      []
+    ],
+    "ARTD 391": [
+      "ARTD 391",
+      {},
+      [],
+      null,
+      []
+    ],
+    "ARTD 501": [
+      "ARTD 501",
+      {},
+      [],
+      null,
+      []
+    ],
+    "ARTD 591": [
+      "ARTD 591",
+      {},
+      [],
+      null,
+      []
+    ],
+    "ARTD 486": [
+      "ARTD 486",
+      {},
+      [],
+      null,
+      []
+    ],
+    "ARTD 487": [
+      "ARTD 487",
+      {},
+      [],
+      null,
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "ARRANGED",
+      "1230 - 1350",
+      "1400 - 1520",
+      "1100 - 1220",
+      "0930 - 1050"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Online",
+      "Independent Study",
+      "Lecture-Discussion",
+      "Conference"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.1035872,
+        "long": -88.2306061
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}

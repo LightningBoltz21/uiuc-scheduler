@@ -1,0 +1,74 @@
+{
+  "subject": "BIOE",
+  "scrapedAt": 1787535579593,
+  "courseCount": 5,
+  "courses": {
+    "BIOE 497": [
+      "BIOE 497",
+      {},
+      [],
+      null,
+      []
+    ],
+    "BIOE 397": [
+      "BIOE 397",
+      {},
+      [],
+      null,
+      []
+    ],
+    "BIOE 297": [
+      "BIOE 297",
+      {},
+      [],
+      null,
+      []
+    ],
+    "BIOE 570": [
+      "BIOE 570",
+      {},
+      [],
+      null,
+      []
+    ],
+    "BIOE 597": [
+      "BIOE 597",
+      {},
+      [],
+      null,
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "ARRANGED",
+      "1230 - 1350",
+      "1400 - 1520",
+      "1100 - 1220",
+      "0930 - 1050"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Online",
+      "Independent Study",
+      "Lecture-Discussion",
+      "Conference"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.1035872,
+        "long": -88.2306061
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}

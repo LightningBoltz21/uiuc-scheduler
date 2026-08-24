@@ -1,0 +1,74 @@
+{
+  "subject": "SE",
+  "scrapedAt": 1787535753621,
+  "courseCount": 5,
+  "courses": {
+    "SE 397": [
+      "SE 397",
+      {},
+      [],
+      null,
+      []
+    ],
+    "SE 398": [
+      "SE 398",
+      {},
+      [],
+      null,
+      []
+    ],
+    "SE 297": [
+      "SE 297",
+      {},
+      [],
+      null,
+      []
+    ],
+    "SE 497": [
+      "SE 497",
+      {},
+      [],
+      null,
+      []
+    ],
+    "SE 597": [
+      "SE 597",
+      {},
+      [],
+      null,
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "ARRANGED",
+      "1230 - 1350",
+      "1400 - 1520",
+      "1100 - 1220",
+      "0930 - 1050"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Online",
+      "Independent Study",
+      "Lecture-Discussion",
+      "Conference"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.1035872,
+        "long": -88.2306061
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}

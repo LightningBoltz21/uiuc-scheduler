@@ -1,0 +1,60 @@
+{
+  "subject": "HUM",
+  "scrapedAt": 1787535672428,
+  "courseCount": 3,
+  "courses": {
+    "HUM 498": [
+      "HUM 498",
+      {},
+      [],
+      null,
+      []
+    ],
+    "HUM 495": [
+      "HUM 495",
+      {},
+      [],
+      null,
+      []
+    ],
+    "HUM 492": [
+      "HUM 492",
+      {},
+      [],
+      null,
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "ARRANGED",
+      "1230 - 1350",
+      "1400 - 1520",
+      "1100 - 1220",
+      "0930 - 1050"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Online",
+      "Independent Study",
+      "Lecture-Discussion",
+      "Conference"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.1035872,
+        "long": -88.2306061
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}

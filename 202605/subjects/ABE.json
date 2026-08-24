@@ -1,0 +1,74 @@
+{
+  "subject": "ABE",
+  "scrapedAt": 1787535556151,
+  "courseCount": 5,
+  "courses": {
+    "ABE 397": [
+      "ABE 397",
+      {},
+      [],
+      null,
+      []
+    ],
+    "ABE 199": [
+      "ABE 199",
+      {},
+      [],
+      null,
+      []
+    ],
+    "ABE 497": [
+      "ABE 497",
+      {},
+      [],
+      null,
+      []
+    ],
+    "ABE 597": [
+      "ABE 597",
+      {},
+      [],
+      null,
+      []
+    ],
+    "ABE 498": [
+      "ABE 498",
+      {},
+      [],
+      null,
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "ARRANGED",
+      "1230 - 1350",
+      "1400 - 1520",
+      "1100 - 1220",
+      "0930 - 1050"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Online",
+      "Independent Study",
+      "Lecture-Discussion",
+      "Conference"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.1035872,
+        "long": -88.2306061
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "subject": "ENG",
+  "scrapedAt": 1787535642068,
+  "courseCount": 5,
+  "courses": {
+    "ENG 510": [
+      "ENG 510",
+      {},
+      [],
+      null,
+      []
+    ],
+    "ENG 310": [
+      "ENG 310",
+      {},
+      [],
+      null,
+      []
+    ],
+    "ENG 299": [
+      "ENG 299",
+      {},
+      [],
+      null,
+      []
+    ],
+    "ENG 572": [
+      "ENG 572",
+      {},
+      [],
+      null,
+      []
+    ],
+    "ENG 573": [
+      "ENG 573",
+      {},
+      [],
+      null,
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "ARRANGED",
+      "1230 - 1350",
+      "1400 - 1520",
+      "1100 - 1220",
+      "0930 - 1050"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Online",
+      "Independent Study",
+      "Lecture-Discussion",
+      "Conference"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.1035872,
+        "long": -88.2306061
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}

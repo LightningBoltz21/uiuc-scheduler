@@ -1,0 +1,81 @@
+{
+  "subject": "GLBL",
+  "scrapedAt": 1787535663138,
+  "courseCount": 6,
+  "courses": {
+    "GLBL 200": [
+      "GLBL 200",
+      {},
+      [],
+      null,
+      []
+    ],
+    "GLBL 118": [
+      "GLBL 118",
+      {},
+      [],
+      null,
+      []
+    ],
+    "GLBL 100": [
+      "GLBL 100",
+      {},
+      [],
+      null,
+      []
+    ],
+    "GLBL 228": [
+      "GLBL 228",
+      {},
+      [],
+      null,
+      []
+    ],
+    "GLBL 573": [
+      "GLBL 573",
+      {},
+      [],
+      null,
+      []
+    ],
+    "GLBL 572": [
+      "GLBL 572",
+      {},
+      [],
+      null,
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "ARRANGED",
+      "1230 - 1350",
+      "1400 - 1520",
+      "1100 - 1220",
+      "0930 - 1050"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Online",
+      "Independent Study",
+      "Lecture-Discussion",
+      "Conference"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.1035872,
+        "long": -88.2306061
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}

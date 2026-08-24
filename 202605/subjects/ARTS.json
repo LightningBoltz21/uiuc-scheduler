@@ -1,0 +1,74 @@
+{
+  "subject": "ARTS",
+  "scrapedAt": 1787535573011,
+  "courseCount": 5,
+  "courses": {
+    "ARTS 399": [
+      "ARTS 399",
+      {},
+      [],
+      null,
+      []
+    ],
+    "ARTS 391": [
+      "ARTS 391",
+      {},
+      [],
+      null,
+      []
+    ],
+    "ARTS 591": [
+      "ARTS 591",
+      {},
+      [],
+      null,
+      []
+    ],
+    "ARTS 593": [
+      "ARTS 593",
+      {},
+      [],
+      null,
+      []
+    ],
+    "ARTS 595": [
+      "ARTS 595",
+      {},
+      [],
+      null,
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "ARRANGED",
+      "1230 - 1350",
+      "1400 - 1520",
+      "1100 - 1220",
+      "0930 - 1050"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Online",
+      "Independent Study",
+      "Lecture-Discussion",
+      "Conference"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.1035872,
+        "long": -88.2306061
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}

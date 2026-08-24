@@ -1,0 +1,81 @@
+{
+  "subject": "ARTH",
+  "scrapedAt": 1787535571963,
+  "courseCount": 6,
+  "courses": {
+    "ARTH 299": [
+      "ARTH 299",
+      {},
+      [],
+      null,
+      []
+    ],
+    "ARTH 391": [
+      "ARTH 391",
+      {},
+      [],
+      null,
+      []
+    ],
+    "ARTH 489": [
+      "ARTH 489",
+      {},
+      [],
+      null,
+      []
+    ],
+    "ARTH 491": [
+      "ARTH 491",
+      {},
+      [],
+      null,
+      []
+    ],
+    "ARTH 490": [
+      "ARTH 490",
+      {},
+      [],
+      null,
+      []
+    ],
+    "ARTH 591": [
+      "ARTH 591",
+      {},
+      [],
+      null,
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "ARRANGED",
+      "1230 - 1350",
+      "1400 - 1520",
+      "1100 - 1220",
+      "0930 - 1050"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Online",
+      "Independent Study",
+      "Lecture-Discussion",
+      "Conference"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.1035872,
+        "long": -88.2306061
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}

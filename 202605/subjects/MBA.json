@@ -1,0 +1,95 @@
+{
+  "subject": "MBA",
+  "scrapedAt": 1787535732548,
+  "courseCount": 8,
+  "courses": {
+    "MBA 545": [
+      "MBA 545",
+      {},
+      [],
+      null,
+      []
+    ],
+    "MBA 531": [
+      "MBA 531",
+      {},
+      [],
+      null,
+      []
+    ],
+    "MBA 530": [
+      "MBA 530",
+      {},
+      [],
+      null,
+      []
+    ],
+    "MBA 547": [
+      "MBA 547",
+      {},
+      [],
+      null,
+      []
+    ],
+    "MBA 552": [
+      "MBA 552",
+      {},
+      [],
+      null,
+      []
+    ],
+    "MBA 565": [
+      "MBA 565",
+      {},
+      [],
+      null,
+      []
+    ],
+    "MBA 590": [
+      "MBA 590",
+      {},
+      [],
+      null,
+      []
+    ],
+    "MBA 598": [
+      "MBA 598",
+      {},
+      [],
+      null,
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "ARRANGED",
+      "1230 - 1350",
+      "1400 - 1520",
+      "1100 - 1220",
+      "0930 - 1050"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Online",
+      "Independent Study",
+      "Lecture-Discussion",
+      "Conference"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.1035872,
+        "long": -88.2306061
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}

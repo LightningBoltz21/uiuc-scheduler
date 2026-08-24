@@ -1,0 +1,74 @@
+{
+  "subject": "IB",
+  "scrapedAt": 1787535682190,
+  "courseCount": 5,
+  "courses": {
+    "IB 150": [
+      "IB 150",
+      {},
+      [],
+      null,
+      []
+    ],
+    "IB 390": [
+      "IB 390",
+      {},
+      [],
+      null,
+      []
+    ],
+    "IB 490": [
+      "IB 490",
+      {},
+      [],
+      null,
+      []
+    ],
+    "IB 496": [
+      "IB 496",
+      {},
+      [],
+      null,
+      []
+    ],
+    "IB 590": [
+      "IB 590",
+      {},
+      [],
+      null,
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "ARRANGED",
+      "1230 - 1350",
+      "1400 - 1520",
+      "1100 - 1220",
+      "0930 - 1050"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Online",
+      "Independent Study",
+      "Lecture-Discussion",
+      "Conference"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.1035872,
+        "long": -88.2306061
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}

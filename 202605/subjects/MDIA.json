@@ -1,0 +1,53 @@
+{
+  "subject": "MDIA",
+  "scrapedAt": 1787535701795,
+  "courseCount": 2,
+  "courses": {
+    "MDIA 299": [
+      "MDIA 299",
+      {},
+      [],
+      null,
+      []
+    ],
+    "MDIA 590": [
+      "MDIA 590",
+      {},
+      [],
+      null,
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "ARRANGED",
+      "1230 - 1350",
+      "1400 - 1520",
+      "1100 - 1220",
+      "0930 - 1050"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Online",
+      "Independent Study",
+      "Lecture-Discussion",
+      "Conference"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.1035872,
+        "long": -88.2306061
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "subject": "REES",
+  "scrapedAt": 1787535734652,
+  "courseCount": 3,
+  "courses": {
+    "REES 493": [
+      "REES 493",
+      {},
+      [],
+      null,
+      []
+    ],
+    "REES 590": [
+      "REES 590",
+      {},
+      [],
+      null,
+      []
+    ],
+    "REES 390": [
+      "REES 390",
+      {},
+      [],
+      null,
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "ARRANGED",
+      "1230 - 1350",
+      "1400 - 1520",
+      "1100 - 1220",
+      "0930 - 1050"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Online",
+      "Independent Study",
+      "Lecture-Discussion",
+      "Conference"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.1035872,
+        "long": -88.2306061
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}

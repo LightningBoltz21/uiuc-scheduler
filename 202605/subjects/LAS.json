@@ -1,0 +1,74 @@
+{
+  "subject": "LAS",
+  "scrapedAt": 1787535692880,
+  "courseCount": 5,
+  "courses": {
+    "LAS 103": [
+      "LAS 103",
+      {},
+      [],
+      null,
+      []
+    ],
+    "LAS 199": [
+      "LAS 199",
+      {},
+      [],
+      null,
+      []
+    ],
+    "LAS 289": [
+      "LAS 289",
+      {},
+      [],
+      null,
+      []
+    ],
+    "LAS 299": [
+      "LAS 299",
+      {},
+      [],
+      null,
+      []
+    ],
+    "LAS 494": [
+      "LAS 494",
+      {},
+      [],
+      null,
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "ARRANGED",
+      "1230 - 1350",
+      "1400 - 1520",
+      "1100 - 1220",
+      "0930 - 1050"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Online",
+      "Independent Study",
+      "Lecture-Discussion",
+      "Conference"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.1035872,
+        "long": -88.2306061
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "subject": "LLS",
+  "scrapedAt": 1787535691257,
+  "courseCount": 5,
+  "courses": {
+    "LLS 201": [
+      "LLS 201",
+      {},
+      [],
+      null,
+      []
+    ],
+    "LLS 279": [
+      "LLS 279",
+      {},
+      [],
+      null,
+      []
+    ],
+    "LLS 100": [
+      "LLS 100",
+      {},
+      [],
+      null,
+      []
+    ],
+    "LLS 390": [
+      "LLS 390",
+      {},
+      [],
+      null,
+      []
+    ],
+    "LLS 590": [
+      "LLS 590",
+      {},
+      [],
+      null,
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "ARRANGED",
+      "1230 - 1350",
+      "1400 - 1520",
+      "1100 - 1220",
+      "0930 - 1050"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Online",
+      "Independent Study",
+      "Lecture-Discussion",
+      "Conference"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.1035872,
+        "long": -88.2306061
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}

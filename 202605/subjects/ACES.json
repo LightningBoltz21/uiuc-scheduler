@@ -1,0 +1,74 @@
+{
+  "subject": "ACES",
+  "scrapedAt": 1787535558941,
+  "courseCount": 5,
+  "courses": {
+    "ACES 295": [
+      "ACES 295",
+      {},
+      [],
+      null,
+      []
+    ],
+    "ACES 199": [
+      "ACES 199",
+      {},
+      [],
+      null,
+      []
+    ],
+    "ACES 293": [
+      "ACES 293",
+      {},
+      [],
+      null,
+      []
+    ],
+    "ACES 298": [
+      "ACES 298",
+      {},
+      [],
+      null,
+      []
+    ],
+    "ACES 299": [
+      "ACES 299",
+      {},
+      [],
+      null,
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "ARRANGED",
+      "1230 - 1350",
+      "1400 - 1520",
+      "1100 - 1220",
+      "0930 - 1050"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Online",
+      "Independent Study",
+      "Lecture-Discussion",
+      "Conference"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.1035872,
+        "long": -88.2306061
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}
