@@ -7,7 +7,7 @@ import ErrorHeader from '../ErrorHeader';
 import ErrorBoundary from '../ErrorBoundary';
 import HeaderDisplay from '../HeaderDisplay';
 import Map from '../Map';
-import SurveyBanner from '../SurveyBanner';
+import SampleCoursesBanner from '../SampleCoursesBanner';
 import {
   AppNavigationContext,
   AppMobileNav,
@@ -39,7 +39,7 @@ function AppContentBase(): React.ReactElement {
         tabs={NAV_TABS}
         captureRef={captureRef}
       />
-      <SurveyBanner />
+      <SampleCoursesBanner />
       <ErrorBoundary
         // ErrorBoundary.fallback is a normal render prop, not a component.
         // eslint-disable-next-line react/no-unstable-nested-components

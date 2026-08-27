@@ -1,0 +1,156 @@
+@import '../../variables';
+
+// Informational accent, deliberately not the alarm-red that the default
+// `.banner` uses. These are the same blues that `%colored-link-container`
+// already uses for links, so this adds no new color to the palette.
+$sample-accent-light: #1b61d1;
+$sample-accent-dark: #70a8ff;
+
+// The extra class is repeated so that this outranks the base `.banner`
+// regardless of the order the stylesheets end up in
+.banner.banner--sample-courses {
+    position: relative;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 12px;
+    padding: 10px 12px 10px 20px;
+    line-height: 1.35;
+    text-align: left;
+    color: var(--theme-fg);
+    border-bottom: 1px solid $color-border;
+
+    transition-duration: $theme-switch-transition-duration;
+    transition-property: color, background-color;
+
+    @include light {
+        background-color: rgba($sample-accent-light, 0.08);
+    }
+
+    @include dark {
+        background-color: rgba($sample-accent-dark, 0.14);
+    }
+
+    // The base banner reserves space on the left to optically center its
+    // content against the close button; this variant is left-aligned
+    .spacer {
+        display: none;
+    }
+
+    // Accent stripe: noticeable at a glance without shouting
+    &::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        width: 3px;
+
+        @include light {
+            background-color: $sample-accent-light;
+        }
+
+        @include dark {
+            background-color: $sample-accent-dark;
+        }
+    }
+
+    .sample-banner-icon {
+        flex-shrink: 0;
+
+        @include light {
+            color: $sample-accent-light;
+        }
+
+        @include dark {
+            color: $sample-accent-dark;
+        }
+    }
+
+    .sample-banner-message {
+        flex: 1 1 auto;
+        // Allow the message to wrap instead of pushing the buttons off-screen
+        min-width: 0;
+
+        strong {
+            font-weight: 600;
+        }
+    }
+
+    .sample-banner-clear {
+        flex-shrink: 0;
+        appearance: none;
+        background: transparent;
+        color: inherit;
+        font: inherit;
+        font-weight: 600;
+        line-height: 1;
+        white-space: nowrap;
+        padding: 8px 12px;
+        border-radius: 6px;
+        border: 1px solid;
+        cursor: pointer;
+        transition: background-color 0.2s, border-color 0.2s;
+
+        @include light {
+            border-color: rgba($theme-light-foreground, 0.55);
+
+            &:hover {
+                background-color: rgba($theme-light-foreground, 0.08);
+            }
+        }
+
+        @include dark {
+            border-color: rgba($theme-dark-foreground, 0.5);
+
+            &:hover {
+                background-color: rgba($theme-dark-foreground, 0.1);
+            }
+        }
+
+        &:focus-visible {
+            outline: 2px solid;
+            outline-offset: 2px;
+
+            @include light {
+                outline-color: $sample-accent-light;
+            }
+
+            @include dark {
+                outline-color: $sample-accent-dark;
+            }
+        }
+    }
+
+    // `.close-button` is the shared `Button`, which already handles its own
+    // hover fill; only the inherited color needs overriding here
+    .close-button {
+        flex-shrink: 0;
+        color: inherit;
+        border-radius: 6px;
+
+        &:focus-visible {
+            outline: 2px solid;
+            outline-offset: -2px;
+
+            @include light {
+                outline-color: $sample-accent-light;
+            }
+
+            @include dark {
+                outline-color: $sample-accent-dark;
+            }
+        }
+    }
+}
+
+@media (max-width: $large-mobile-breakpoint) {
+    .banner.banner--sample-courses {
+        gap: 8px;
+        padding: 8px 8px 8px 16px;
+        font-size: 13px;
+
+        .sample-banner-clear {
+            padding: 8px 10px;
+        }
+    }
+}

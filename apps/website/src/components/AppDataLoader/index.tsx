@@ -41,6 +41,7 @@ import {
   StageExtractFriendTermData,
   StageLoadRawFriendScheduleDataFromFirebaseFunction,
   StageExtractFriendInfo,
+  StageSeedSampleSchedule,
 } from './stages';
 import { softError, ErrorWithFields } from '../../log';
 import { Term } from '../../types';
@@ -145,32 +146,54 @@ export default function DataLoader({
                                           scheduleVersion,
                                           updateScheduleVersion,
                                         }): React.ReactElement => (
-                                          <ContextProvider
-                                            terms={terms}
-                                            currentTerm={currentTerm}
-                                            setTerm={setTerm}
-                                            currentVersion={currentVersion}
-                                            setVersion={setVersion}
+                                          <StageSeedSampleSchedule
+                                            skeletonProps={{
+                                              termsState,
+                                              accountState,
+                                            }}
                                             oscar={oscar}
-                                            scheduleVersion={scheduleVersion}
+                                            scheduleData={scheduleData}
+                                            currentTerm={currentTerm}
+                                            currentVersion={currentVersion}
                                             updateScheduleVersion={
                                               updateScheduleVersion
                                             }
-                                            termScheduleData={termScheduleData}
-                                            updateTermScheduleData={
-                                              updateTermScheduleData
-                                            }
-                                            accountState={accountState}
-                                            friendScheduleData={
-                                              friendScheduleData
-                                            }
-                                            updateFriendTermData={
-                                              updateFriendTermData
-                                            }
-                                            updateFriendInfo={updateFriendInfo}
                                           >
-                                            {children}
-                                          </ContextProvider>
+                                            {(): React.ReactElement => (
+                                              <ContextProvider
+                                                terms={terms}
+                                                currentTerm={currentTerm}
+                                                setTerm={setTerm}
+                                                currentVersion={currentVersion}
+                                                setVersion={setVersion}
+                                                oscar={oscar}
+                                                scheduleVersion={
+                                                  scheduleVersion
+                                                }
+                                                updateScheduleVersion={
+                                                  updateScheduleVersion
+                                                }
+                                                termScheduleData={
+                                                  termScheduleData
+                                                }
+                                                updateTermScheduleData={
+                                                  updateTermScheduleData
+                                                }
+                                                accountState={accountState}
+                                                friendScheduleData={
+                                                  friendScheduleData
+                                                }
+                                                updateFriendTermData={
+                                                  updateFriendTermData
+                                                }
+                                                updateFriendInfo={
+                                                  updateFriendInfo
+                                                }
+                                              >
+                                                {children}
+                                              </ContextProvider>
+                                            )}
+                                          </StageSeedSampleSchedule>
                                         )}
                                       </StageExtractScheduleVersion>
                                     )}

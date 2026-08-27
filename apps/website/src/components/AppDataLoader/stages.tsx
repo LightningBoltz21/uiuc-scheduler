@@ -35,6 +35,7 @@ import useFriendDataProducer from '../../data/hooks/useFriendDataProducer';
 import useExtractFriendTermData from '../../data/hooks/useExtractFriendTermData';
 import useRawFriendScheduleDataFromFirebaseFunction from '../../data/hooks/useRawFriendScheduleDataFromFirebaseFunction';
 import useExtractFriendInfo from '../../data/hooks/useExtractFriendInfo';
+import useSeedSampleSchedule from '../../data/hooks/useSeedSampleSchedule';
 
 // Each of the components in this file is a "stage" --
 // a component that takes in a render function for its `children` prop
@@ -773,4 +774,55 @@ export function StageExtractFriendInfo({
       })}
     </>
   );
+}
+
+export type StageSeedSampleScheduleProps = {
+  skeletonProps?: StageSkeletonProps;
+  oscar: Oscar;
+  scheduleData: Immutable<ScheduleData>;
+  currentTerm: string;
+  currentVersion: string;
+  updateScheduleVersion: (
+    applyDraft: (
+      draft: Draft<ScheduleVersion>
+    ) => void | Immutable<ScheduleVersion>
+  ) => void;
+  children: () => React.ReactNode;
+};
+
+/**
+ * Handles seeding a first-time visitor's schedule with sample courses
+ * so that the app opens on a filled-in calendar instead of an empty grid.
+ * This runs at most once per browser and never for a user
+ * that has any schedule data of their own,
+ * so for everyone else it renders its children immediately.
+ */
+export function StageSeedSampleSchedule({
+  skeletonProps,
+  oscar,
+  scheduleData,
+  currentTerm,
+  currentVersion,
+  updateScheduleVersion,
+  children,
+}: StageSeedSampleScheduleProps): React.ReactElement {
+  const loadingState = useSeedSampleSchedule({
+    oscar,
+    scheduleData,
+    currentTerm,
+    currentVersion,
+    updateScheduleVersion,
+  });
+
+  if (loadingState.type !== 'loaded') {
+    return (
+      <AppSkeleton {...skeletonProps}>
+        <SkeletonContent>
+          <LoadingDisplay state={loadingState} name="sample courses" />
+        </SkeletonContent>
+      </AppSkeleton>
+    );
+  }
+
+  return <>{children()}</>;
 }

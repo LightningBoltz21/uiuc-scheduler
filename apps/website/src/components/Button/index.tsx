@@ -11,6 +11,8 @@ export type ButtonProps = {
   onClick?: (e: React.SyntheticEvent<HTMLDivElement>) => void;
   children?: React.ReactNode;
   id?: string;
+  // Accessible name, needed whenever the button only contains an icon
+  'aria-label'?: string;
 };
 
 export default function Button({
@@ -20,10 +22,15 @@ export default function Button({
   onClick,
   children,
   id,
+  'aria-label': ariaLabel,
 }: ButtonProps): React.ReactElement {
   if (disabled)
     return (
-      <div className={classes('Button', 'disabled', className)} id={id}>
+      <div
+        className={classes('Button', 'disabled', className)}
+        id={id}
+        aria-label={ariaLabel}
+      >
         {children}
       </div>
     );
@@ -36,6 +43,7 @@ export default function Button({
         rel="noopener noreferrer"
         target="_blank"
         id={id}
+        aria-label={ariaLabel}
       >
         {children}
       </a>
@@ -52,6 +60,7 @@ export default function Button({
       }}
       role="button"
       id={id}
+      aria-label={ariaLabel}
     >
       {children}
     </div>
