@@ -15,7 +15,7 @@ UIUC Scheduler is a web application designed for University of Illinois Urbana-C
 - GPA data integration for course planning
 - Schedule sharing with friends
 - Export schedules to calendar formats (ICS)
-- Dark/Light mode support
+- Dark/light mode support
 
 ## Architecture
 
