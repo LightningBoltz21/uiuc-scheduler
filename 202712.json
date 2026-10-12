@@ -1,35 +1,5 @@
 {
   "courses": {
-    "ADV 150": [
-      "Introduction to Advertising",
-      {
-        "A": [
-          "10104",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Hall, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Introduction to the practice and profession of advertising. Course material covers various functional areas of advertising and integrated brand promotion, including account planning, creative, media, research, consumer behavior, sales promotion and interactive advertising. Topics also include how advertising relates to society in cultural, social, ethical and regulatory contexts. Open to all undergraduate majors.",
-      []
-    ],
     "ADV 175": [
       "Introduction to Multicultural Advertising",
       {
@@ -58,6 +28,36 @@
       },
       [],
       "Examines the multifaceted role diversity (including racial, gender, orientation, ability status) plays in the delivery and reception of advertising. Additionally, it examines the development of diversity as a marketplace practice and on the development of the advertising industry. We'll analyze advertising using a historical, cultural, and social perspective and address issues of diversity in the industry. We will also critically review current issues of multicultural, transcultural and multidimensional advertising and marketing. In the process we’ll grapple with current theories on race and implicit /explicit bias and prejudice and their impact upon the production of advertising and consumer communications.",
+      []
+    ],
+    "ADV 150": [
+      "Introduction to Advertising",
+      {
+        "A": [
+          "10104",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Hall, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to the practice and profession of advertising. Course material covers various functional areas of advertising and integrated brand promotion, including account planning, creative, media, research, consumer behavior, sales promotion and interactive advertising. Topics also include how advertising relates to society in cultural, social, ethical and regulatory contexts. Open to all undergraduate majors.",
       []
     ],
     "AFAS 120": [
@@ -90,36 +90,6 @@
       "Same as MILS 120 and NS 120. See MILS 120.",
       []
     ],
-    "ANTH 103": [
-      "Anthro in a Changing World",
-      {
-        "ONL": [
-          "10141",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Unassigned Instructor"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "[IAI Code: S1901N] Presents the fundamental areas of anthropological analysis through a series of comparative cases that emphasize social and cultural relations in global contexts. Directs attention to the anthropological history of global empires and colonial states, their cultural exchanges, and contemporary studies of culture, society, and globalization.",
-      []
-    ],
     "ANTH 246": [
       "Forensic Science",
       {
@@ -150,11 +120,11 @@
       "History and theory underlying methods used in forensic science. Topics include the courtroom, the units of a crime laboratory, methods of securing and investigating a crime scene, and the analysis of evidence collected from a crime scene such as blood, fibers, hair, DNA, and fingerprints.",
       []
     ],
-    "ASTR 100": [
-      "Introduction to Astronomy",
+    "ANTH 103": [
+      "Anthro in a Changing World",
       {
         "ONL": [
-          "10005",
+          "10141",
           [
             [
               0,
@@ -162,7 +132,7 @@
               "ONLINE",
               0,
               [
-                "Dunne, B"
+                "Unassigned Instructor"
               ],
               -1,
               -1,
@@ -177,7 +147,7 @@
         ]
       },
       [],
-      "[IAI Code: P1906] Introduces the student to the basic concepts of modern astronomy. Covers topics including the night sky; the solar system and its origin; the nature and evolution of stars; stellar remnants, including white dwarfs, neutron stars, and black holes; extrasolar planetary systems; galaxies and quasars; dark matter and dark energy; the Big Bang and the fate of the universe; and life in the universe.",
+      "[IAI Code: S1901N] Presents the fundamental areas of anthropological analysis through a series of comparative cases that emphasize social and cultural relations in global contexts. Directs attention to the anthropological history of global empires and colonial states, their cultural exchanges, and contemporary studies of culture, society, and globalization.",
       []
     ],
     "ASTR 330": [
@@ -210,6 +180,36 @@
       "Scientific discussion of the search for extraterrestrial life. Topics include: cosmic evolution (protons to heavy elements to molecules); terrestrial evolution (chemical, biological, and cultural); high technology searches for extraterrestrial life in the solar system (Mars, Venus, outer planets); and beyond the solar system (Drake equation and current SETI projects).",
       []
     ],
+    "ASTR 100": [
+      "Introduction to Astronomy",
+      {
+        "ONL": [
+          "10005",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Dunne, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "[IAI Code: P1906] Introduces the student to the basic concepts of modern astronomy. Covers topics including the night sky; the solar system and its origin; the nature and evolution of stars; stellar remnants, including white dwarfs, neutron stars, and black holes; extrasolar planetary systems; galaxies and quasars; dark matter and dark energy; the Big Bang and the fate of the universe; and life in the universe.",
+      []
+    ],
     "ATMS 120": [
       "Severe and Hazardous Weather",
       {
@@ -238,6 +238,36 @@
       },
       [],
       "Most extreme manifestations of weather and climate are analyzed in terms of their physical basis and their historical, economic and human consequences. Emphasis is placed on the interplay between technological advances, the evolution of meteorology as a science, and the impacts of extreme weather (winter storms, floods, severe thunderstorms, hurricanes, El Nino). Technological advances include satellites, weather radars and profilers, and computer models used for weather prediction.",
+      []
+    ],
+    "BADM 300": [
+      "The Legal Environment of Bus",
+      {
+        "OL": [
+          "10013",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Noonan, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to law and the legal system, litigation, contracts, business organizations, intellectual property, employment law and governmental regulation of business.",
       []
     ],
     "BADM 310": [
@@ -300,11 +330,11 @@
       "Operations and Supply Chain Management is about sourcing, producing, and delivering goods and services that meet and exceed customer expectations. In this course, students will be introduced to decision-making frameworks and techniques for effectively and efficiently managing processes through coordinated efforts across different organizations in a supply chain and across multiple areas within an organization, such as: consumer analytics, research and development, finance, engineering, marketing, human resource management, sourcing, information systems, logistics, and accounting.",
       []
     ],
-    "BADM 300": [
-      "The Legal Environment of Bus",
+    "BADM 320": [
+      "Principles of Marketing",
       {
         "OL": [
-          "10013",
+          "10056",
           [
             [
               0,
@@ -312,7 +342,7 @@
               "ONLINE",
               0,
               [
-                "Noonan, J"
+                "Liu, Y"
               ],
               -1,
               -1,
@@ -327,7 +357,7 @@
         ]
       },
       [],
-      "Introduction to law and the legal system, litigation, contracts, business organizations, intellectual property, employment law and governmental regulation of business.",
+      "Emphasizes the concepts of planning, organization, control, and decision making as they are applied in the management of the marketing function. Provides an overview of aspects of the marketing discipline.",
       []
     ],
     "BADM 380": [
@@ -360,11 +390,11 @@
       "Introduces the field of international business and management. Examines the economic, political, and legal environments of international business. Analyzes differences in financial management, marketing, and management practices for firms doing business abroad.",
       []
     ],
-    "BADM 320": [
-      "Principles of Marketing",
+    "CLCV 114": [
+      "Introduction to Ancient Greek Culture",
       {
-        "OL": [
-          "10056",
+        "A": [
+          "10157",
           [
             [
               0,
@@ -372,7 +402,7 @@
               "ONLINE",
               0,
               [
-                "Liu, Y"
+                "Unassigned Instructor"
               ],
               -1,
               -1,
@@ -387,7 +417,7 @@
         ]
       },
       [],
-      "Emphasizes the concepts of planning, organization, control, and decision making as they are applied in the management of the marketing function. Provides an overview of aspects of the marketing discipline.",
+      "Introductory study of ancient Greek literature, art, and culture.",
       []
     ],
     "CLCV 115": [
@@ -448,36 +478,6 @@
       },
       [],
       "Introduction to the study of Greek and Latin medical terms in various medical fields and to the linguistic patterns governing the combination of various roots through practical application of usage.",
-      []
-    ],
-    "CLCV 114": [
-      "Introduction to Ancient Greek Culture",
-      {
-        "A": [
-          "10157",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Unassigned Instructor"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Introductory study of ancient Greek literature, art, and culture.",
       []
     ],
     "CLCV 231": [
@@ -570,36 +570,6 @@
       "[IAI Code: F1906] Overview of major works, figures, and trends responsible for shaping dance as an evolving contemporary art form. The course will have lecture, viewing, discussion and experiential (studio participation) components.",
       []
     ],
-    "ECON 103": [
-      "Macroeconomic Principles",
-      {
-        "ONL": [
-          "10020",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Vazquez, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "[IAI Code: S3901] Introduction to the theory of determination of total or aggregate income, employment, output, price levels, and the role of money in the economy. Primary emphasis on monetary and fiscal policy, inflation, unemployment, economic growth, and international economics.",
-      []
-    ],
     "ECON 102": [
       "Microeconomic Principles",
       {
@@ -630,6 +600,36 @@
       "[IAI Code: S3902] Introduction to the functions of individual decision-makers, both consumers and producers, within the larger economic system. Primary emphasis on the nature and functions of product markets, the theory of the firm under varying conditions of competition and monopoly, and the role of government in prompting efficiency in the economy.",
       []
     ],
+    "ECON 103": [
+      "Macroeconomic Principles",
+      {
+        "ONL": [
+          "10020",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Vazquez, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "[IAI Code: S3901] Introduction to the theory of determination of total or aggregate income, employment, output, price levels, and the role of money in the economy. Primary emphasis on monetary and fiscal policy, inflation, unemployment, economic growth, and international economics.",
+      []
+    ],
     "ENGL 360": [
       "Environmental Writing",
       {
@@ -658,36 +658,6 @@
       },
       [],
       null,
-      []
-    ],
-    "ESE 120": [
-      "Severe and Hazardous Weather",
-      {
-        "ONL": [
-          "10038",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Choate, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as ATMS 120. See ATMS 120.",
       []
     ],
     "ESE 117": [
@@ -750,6 +720,36 @@
       "Same as GEOL 118 and GLBL 118. See GEOL 118.",
       []
     ],
+    "ESE 120": [
+      "Severe and Hazardous Weather",
+      {
+        "ONL": [
+          "10038",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Choate, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as ATMS 120. See ATMS 120.",
+      []
+    ],
     "ESE 360": [
       "Environmental Writing",
       {
@@ -778,36 +778,6 @@
       },
       [],
       "Equips students to write about the environment for various audiences, with a focus on specific current efforts to promote sustainability on the Urbana-Champaign campus. We will practice effective techniques for each stage of the writing process-from defining topics, to gathering information, to crafting active, engaging prose. Readings will include models of effective environmental writing and \"how to\" pieces by experts. Research will include visits to campus sites and student-conducted interviews with subjects.",
-      []
-    ],
-    "GEOL 118": [
-      "Natural Disasters",
-      {
-        "A": [
-          "10007",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Austin, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Introduces the nature, causes, risks, effects, and prediction of natural disasters including earthquakes, volcanoes, landslides, subsidence, global climate change, severe weather, coastal erosion, floods, mass extinctions, and meteorite impacts; covers scientific principles and case histories of natural disasters as well as human responses (societal impact, mitigation strategies, and public policy).",
       []
     ],
     "GEOL 117": [
@@ -840,11 +810,11 @@
       "Integrated introduction to oceanography and marine geology and geophysics. Topics include ocean-basin formation and evolution (in the context of plate tectonics), ocean ecology, the hydrologic cycle, water chemistry, currents and waves, the interaction of oceans with climate, coastal hazards, resources, pollution, and the Law of the Sea. Course is oriented toward students not majoring in science.",
       []
     ],
-    "GLBL 200": [
-      "Foundations of Research",
+    "GEOL 118": [
+      "Natural Disasters",
       {
-        "AL1": [
-          "10117",
+        "A": [
+          "10007",
           [
             [
               0,
@@ -852,7 +822,7 @@
               "ONLINE",
               0,
               [
-                "Bonatti, V"
+                "Austin, S"
               ],
               -1,
               -1,
@@ -867,7 +837,7 @@
         ]
       },
       [],
-      "Introduction to the foundations of interdisciplinary social science research. Topic include understanding the purpose for research, identifying researchable issues, finding evaluating and using sources effectively, recognizing methods associated with different types of data and disciplines, and writing a literature review. Prepares students for course-based research papers and advanced research methods courses. Guest faculty present their Global Studies-relevant research as students (b)log their own research interests.",
+      "Introduces the nature, causes, risks, effects, and prediction of natural disasters including earthquakes, volcanoes, landslides, subsidence, global climate change, severe weather, coastal erosion, floods, mass extinctions, and meteorite impacts; covers scientific principles and case histories of natural disasters as well as human responses (societal impact, mitigation strategies, and public policy).",
       []
     ],
     "GLBL 118": [
@@ -898,6 +868,36 @@
       },
       [],
       "Same as ESE 118 and GEOL 118. See GEOL 118.",
+      []
+    ],
+    "GLBL 200": [
+      "Foundations of Research",
+      {
+        "AL1": [
+          "10117",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Bonatti, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to the foundations of interdisciplinary social science research. Topic include understanding the purpose for research, identifying researchable issues, finding evaluating and using sources effectively, recognizing methods associated with different types of data and disciplines, and writing a literature review. Prepares students for course-based research papers and advanced research methods courses. Guest faculty present their Global Studies-relevant research as students (b)log their own research interests.",
       []
     ],
     "GLBL 100": [
@@ -1132,36 +1132,6 @@
       "Directed and supervised investigation of selected topics in information studies that may include among others computers and culture; information policy; community information systems; production, retrieval and evaluation of scientific or social science knowledge; computer-mediated communication; and computer-supported cooperative work.",
       []
     ],
-    "IS 199": [
-      "Undergraduate Open Seminar",
-      {
-        "ICL": [
-          "10101",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Wickes, E"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Additional fees may apply. See Class Schedule. May be repeated.",
-      []
-    ],
     "IS 229": [
       "Web Design Fundamentals",
       {
@@ -1190,6 +1160,36 @@
       },
       [],
       "In this course students will learn the principles and methodologies of modern Web design and development, while also becoming familiar with the history of the Web. Students will develop useful practical skills through hands-on engagement with open-source tools, platforms, and resources, while also acquiring a critical understanding of current challenges around such topics as web-standards, security, and accessibility. Students will also become familiar with philosophical models and practical frameworks for creating human-centered systems and will apply such constructively critical understandings in their own web design projects.",
+      []
+    ],
+    "IS 199": [
+      "Undergraduate Open Seminar",
+      {
+        "ICL": [
+          "10101",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Wickes, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Additional fees may apply. See Class Schedule. May be repeated.",
       []
     ],
     "IS 445": [
@@ -1372,37 +1372,6 @@
       "Examines the notion that the mass media influence our development as gendered individuals, looking at those who argue for and against this notion. Considers different forms of feminist theory applied to the study of mass media, the history and scholarly criticisms of the media and their portrayal of women, and feminist attempts to create alternatives to mainstream media images. Throughout, the course considers representation of minorities in the dominant media and examines newly created alternative representations.",
       []
     ],
-    "MUS 132": [
-      "Popular Music Studies",
-      {
-        "A": [
-          "10055",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Broussard, M",
-                "Eagen-Jones, M"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Courses within this rubric provide an analytical and historical introduction to genres of popular music from the United States and around the world. Iterations of the course may focus on a specific genre, such as Rock, Reggae, or Afropop, or may deal with broader subjects, such as the continua of styles including R&B, Soul, Funk, and Hip Hop, or the pan-generic, international phenomenon of pop music globalization in the twentieth century.",
-      []
-    ],
     "MUS 133": [
       "Introduction to World Music",
       {
@@ -1432,6 +1401,37 @@
       },
       [],
       "[IAI Code: F1903N] A survey of various musical traditions from different regions and peoples of the world.",
+      []
+    ],
+    "MUS 132": [
+      "Popular Music Studies",
+      {
+        "A": [
+          "10055",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Broussard, M",
+                "Eagen-Jones, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Courses within this rubric provide an analytical and historical introduction to genres of popular music from the United States and around the world. Iterations of the course may focus on a specific genre, such as Rock, Reggae, or Afropop, or may deal with broader subjects, such as the continua of styles including R&B, Soul, Funk, and Hip Hop, or the pan-generic, international phenomenon of pop music globalization in the twentieth century.",
       []
     ],
     "NS 120": [
@@ -1728,6 +1728,6 @@
     "finalDates": [],
     "finalTimes": []
   },
-  "updatedAt": "2026-10-12T05:38:26.650Z",
+  "updatedAt": "2026-10-12T05:39:24.361Z",
   "version": 3
 }
