@@ -1,35 +1,5 @@
 {
   "courses": {
-    "ADV 150": [
-      "Introduction to Advertising",
-      {
-        "A": [
-          "10104",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Hall, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Introduction to the practice and profession of advertising. Course material covers various functional areas of advertising and integrated brand promotion, including account planning, creative, media, research, consumer behavior, sales promotion and interactive advertising. Topics also include how advertising relates to society in cultural, social, ethical and regulatory contexts. Open to all undergraduate majors.",
-      []
-    ],
     "ADV 175": [
       "Introduction to Multicultural Advertising",
       {
@@ -58,6 +28,36 @@
       },
       [],
       "Examines the multifaceted role diversity (including racial, gender, orientation, ability status) plays in the delivery and reception of advertising. Additionally, it examines the development of diversity as a marketplace practice and on the development of the advertising industry. We'll analyze advertising using a historical, cultural, and social perspective and address issues of diversity in the industry. We will also critically review current issues of multicultural, transcultural and multidimensional advertising and marketing. In the process we’ll grapple with current theories on race and implicit /explicit bias and prejudice and their impact upon the production of advertising and consumer communications.",
+      []
+    ],
+    "ADV 150": [
+      "Introduction to Advertising",
+      {
+        "A": [
+          "10104",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Hall, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to the practice and profession of advertising. Course material covers various functional areas of advertising and integrated brand promotion, including account planning, creative, media, research, consumer behavior, sales promotion and interactive advertising. Topics also include how advertising relates to society in cultural, social, ethical and regulatory contexts. Open to all undergraduate majors.",
       []
     ],
     "AFAS 120": [
@@ -90,36 +90,6 @@
       "Same as MILS 120 and NS 120. See MILS 120.",
       []
     ],
-    "ANTH 103": [
-      "Anthro in a Changing World",
-      {
-        "ONL": [
-          "10141",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Unassigned Instructor"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "[IAI Code: S1901N] Presents the fundamental areas of anthropological analysis through a series of comparative cases that emphasize social and cultural relations in global contexts. Directs attention to the anthropological history of global empires and colonial states, their cultural exchanges, and contemporary studies of culture, society, and globalization.",
-      []
-    ],
     "ANTH 246": [
       "Forensic Science",
       {
@@ -150,11 +120,11 @@
       "History and theory underlying methods used in forensic science. Topics include the courtroom, the units of a crime laboratory, methods of securing and investigating a crime scene, and the analysis of evidence collected from a crime scene such as blood, fibers, hair, DNA, and fingerprints.",
       []
     ],
-    "ASTR 330": [
-      "Extraterrestrial Life",
+    "ANTH 103": [
+      "Anthro in a Changing World",
       {
         "ONL": [
-          "10064",
+          "10141",
           [
             [
               0,
@@ -162,7 +132,7 @@
               "ONLINE",
               0,
               [
-                "Looney, L"
+                "Unassigned Instructor"
               ],
               -1,
               -1,
@@ -177,7 +147,7 @@
         ]
       },
       [],
-      "Scientific discussion of the search for extraterrestrial life. Topics include: cosmic evolution (protons to heavy elements to molecules); terrestrial evolution (chemical, biological, and cultural); high technology searches for extraterrestrial life in the solar system (Mars, Venus, outer planets); and beyond the solar system (Drake equation and current SETI projects).",
+      "[IAI Code: S1901N] Presents the fundamental areas of anthropological analysis through a series of comparative cases that emphasize social and cultural relations in global contexts. Directs attention to the anthropological history of global empires and colonial states, their cultural exchanges, and contemporary studies of culture, society, and globalization.",
       []
     ],
     "ASTR 100": [
@@ -210,6 +180,36 @@
       "[IAI Code: P1906] Introduces the student to the basic concepts of modern astronomy. Covers topics including the night sky; the solar system and its origin; the nature and evolution of stars; stellar remnants, including white dwarfs, neutron stars, and black holes; extrasolar planetary systems; galaxies and quasars; dark matter and dark energy; the Big Bang and the fate of the universe; and life in the universe.",
       []
     ],
+    "ASTR 330": [
+      "Extraterrestrial Life",
+      {
+        "ONL": [
+          "10064",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Looney, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Scientific discussion of the search for extraterrestrial life. Topics include: cosmic evolution (protons to heavy elements to molecules); terrestrial evolution (chemical, biological, and cultural); high technology searches for extraterrestrial life in the solar system (Mars, Venus, outer planets); and beyond the solar system (Drake equation and current SETI projects).",
+      []
+    ],
     "ATMS 120": [
       "Severe and Hazardous Weather",
       {
@@ -238,6 +238,36 @@
       },
       [],
       "Most extreme manifestations of weather and climate are analyzed in terms of their physical basis and their historical, economic and human consequences. Emphasis is placed on the interplay between technological advances, the evolution of meteorology as a science, and the impacts of extreme weather (winter storms, floods, severe thunderstorms, hurricanes, El Nino). Technological advances include satellites, weather radars and profilers, and computer models used for weather prediction.",
+      []
+    ],
+    "BADM 310": [
+      "Mgmt and Organizational Beh",
+      {
+        "OL": [
+          "10014",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Ji, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "General analysis of management and organizational behavior from a systems point of view, including classical organizational theory and management, organizational behavior, and management science; environmental forces; planning, organizing, and control processes; motivation, incentives, leadership, communication, and interpersonal relations; and discussion of production and decision-making and mathematical models.",
       []
     ],
     "BADM 275": [
@@ -300,36 +330,6 @@
       "Introduction to law and the legal system, litigation, contracts, business organizations, intellectual property, employment law and governmental regulation of business.",
       []
     ],
-    "BADM 310": [
-      "Mgmt and Organizational Beh",
-      {
-        "OL": [
-          "10014",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Ji, M"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "General analysis of management and organizational behavior from a systems point of view, including classical organizational theory and management, organizational behavior, and management science; environmental forces; planning, organizing, and control processes; motivation, incentives, leadership, communication, and interpersonal relations; and discussion of production and decision-making and mathematical models.",
-      []
-    ],
     "BADM 320": [
       "Principles of Marketing",
       {
@@ -390,36 +390,6 @@
       "Introduces the field of international business and management. Examines the economic, political, and legal environments of international business. Analyzes differences in financial management, marketing, and management practices for firms doing business abroad.",
       []
     ],
-    "CLCV 114": [
-      "Introduction to Ancient Greek Culture",
-      {
-        "A": [
-          "10157",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Unassigned Instructor"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Introductory study of ancient Greek literature, art, and culture.",
-      []
-    ],
     "CLCV 115": [
       "Mythology of Greece and Rome",
       {
@@ -448,6 +418,36 @@
       },
       [],
       "Studies the major myths of Greece and Rome and their impact upon later art, music, and literature. Shares two hours of lecture with CLCV 111; additional hour of lecture-discussion for a closer analysis of topics.",
+      []
+    ],
+    "CLCV 114": [
+      "Introduction to Ancient Greek Culture",
+      {
+        "A": [
+          "10157",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introductory study of ancient Greek literature, art, and culture.",
       []
     ],
     "CLCV 102": [
@@ -660,6 +660,36 @@
       null,
       []
     ],
+    "ESE 118": [
+      "Natural Disasters",
+      {
+        "A": [
+          "10008",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Austin, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as GEOL 118 and GLBL 118. See GEOL 118.",
+      []
+    ],
     "ESE 117": [
       "The Oceans",
       {
@@ -718,36 +748,6 @@
       },
       [],
       "Same as ATMS 120. See ATMS 120.",
-      []
-    ],
-    "ESE 118": [
-      "Natural Disasters",
-      {
-        "A": [
-          "10008",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Austin, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as GEOL 118 and GLBL 118. See GEOL 118.",
       []
     ],
     "ESE 360": [
@@ -840,36 +840,6 @@
       "Integrated introduction to oceanography and marine geology and geophysics. Topics include ocean-basin formation and evolution (in the context of plate tectonics), ocean ecology, the hydrologic cycle, water chemistry, currents and waves, the interaction of oceans with climate, coastal hazards, resources, pollution, and the Law of the Sea. Course is oriented toward students not majoring in science.",
       []
     ],
-    "GLBL 100": [
-      "Intro to Global Studies",
-      {
-        "CF": [
-          "10054",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Schrag, D"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Foundation course for understanding a range of contemporary issues and learning to analyze them from multiple disciplinary perspectives. Students consider globalizing trends within themes of wealth and poverty; population, cultures, and human rights; environment and sustainability; and governance, conflict, and cooperation. Course objectives are to enhance knowledge of human cultures, their interactions and impacts on the world; develop skills for successfully negotiating realities of contemporary societies; and promote values for global learning, diversity, and sustainable futures.",
-      []
-    ],
     "GLBL 200": [
       "Foundations of Research",
       {
@@ -928,6 +898,36 @@
       },
       [],
       "Same as ESE 118 and GEOL 118. See GEOL 118.",
+      []
+    ],
+    "GLBL 100": [
+      "Intro to Global Studies",
+      {
+        "CF": [
+          "10054",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Schrag, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Foundation course for understanding a range of contemporary issues and learning to analyze them from multiple disciplinary perspectives. Students consider globalizing trends within themes of wealth and poverty; population, cultures, and human rights; environment and sustainability; and governance, conflict, and cooperation. Course objectives are to enhance knowledge of human cultures, their interactions and impacts on the world; develop skills for successfully negotiating realities of contemporary societies; and promote values for global learning, diversity, and sustainable futures.",
       []
     ],
     "GWS 356": [
@@ -1102,6 +1102,36 @@
       "Acquaints students with the medical, psychosocial, vocational, political, and cultural aspects of disability in America. Development and implementation of disability policy by governmental agencies in this country will be examined, and the role of activism and advocacy in securing civil rights for persons with a disability will be explored. Various philosophical and theoretical models for understanding the disability experience will be offered, and course content will include the key historical events that shaped the present conditions of persons with disabilities. Lastly, students will be introduced to an array of service modalities used to address health and adjustment needs of persons with disabilities.",
       []
     ],
+    "IS 199": [
+      "Undergraduate Open Seminar",
+      {
+        "ICL": [
+          "10101",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Wickes, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Additional fees may apply. See Class Schedule. May be repeated.",
+      []
+    ],
     "IS 229": [
       "Web Design Fundamentals",
       {
@@ -1160,36 +1190,6 @@
       },
       [],
       "Directed and supervised investigation of selected topics in information studies that may include among others computers and culture; information policy; community information systems; production, retrieval and evaluation of scientific or social science knowledge; computer-mediated communication; and computer-supported cooperative work.",
-      []
-    ],
-    "IS 199": [
-      "Undergraduate Open Seminar",
-      {
-        "ICL": [
-          "10101",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Wickes, E"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Additional fees may apply. See Class Schedule. May be repeated.",
       []
     ],
     "IS 445": [
@@ -1524,36 +1524,6 @@
       "[IAI Code: S5906N] Provides comparative and historical insights into the problems affecting the developing world by examining social, economic and political changes in Africa, Asia, and Latin America.",
       []
     ],
-    "PSYC 204": [
-      "Intro to Brain and Cognition",
-      {
-        "A": [
-          "10060",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Dolcos, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Introduction to the interdisciplinary field of cognitive neuroscience, which is concerned with how the cognitive systems supporting a broad range of capacities including memory, attention, and social and emotional processing, arise from the functioning of specific brain modules and brain mechanisms. Emphasizes how functional brain imaging and other cognitive neuroscience methods can be brought to bear on answering these questions.",
-      []
-    ],
     "PSYC 216": [
       "Child Psych",
       {
@@ -1612,6 +1582,36 @@
       },
       [],
       "[IAI Code: S6900] Study of human behavior with special reference to perception, learning, memory, thinking, emotional life, and individual differences in intelligence, aptitude, and personality; emphasis on the scientific nature of psychological investigations; and discussion of research methods and the relation of their results to daily life and everyday problems. Lectures, discussions, and six hours of participation as a subject in psychological experiments.",
+      []
+    ],
+    "PSYC 204": [
+      "Intro to Brain and Cognition",
+      {
+        "A": [
+          "10060",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Dolcos, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to the interdisciplinary field of cognitive neuroscience, which is concerned with how the cognitive systems supporting a broad range of capacities including memory, attention, and social and emotional processing, arise from the functioning of specific brain modules and brain mechanisms. Emphasizes how functional brain imaging and other cognitive neuroscience methods can be brought to bear on answering these questions.",
       []
     ],
     "PSYC 230": [
@@ -1728,6 +1728,6 @@
     "finalDates": [],
     "finalTimes": []
   },
-  "updatedAt": "2026-10-12T05:35:25.506Z",
+  "updatedAt": "2026-10-12T05:36:30.638Z",
   "version": 3
 }
