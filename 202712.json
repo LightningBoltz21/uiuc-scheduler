@@ -1,35 +1,5 @@
 {
   "courses": {
-    "ADV 175": [
-      "Introduction to Multicultural Advertising",
-      {
-        "A": [
-          "10131",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Chambers, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Examines the multifaceted role diversity (including racial, gender, orientation, ability status) plays in the delivery and reception of advertising. Additionally, it examines the development of diversity as a marketplace practice and on the development of the advertising industry. We'll analyze advertising using a historical, cultural, and social perspective and address issues of diversity in the industry. We will also critically review current issues of multicultural, transcultural and multidimensional advertising and marketing. In the process we’ll grapple with current theories on race and implicit /explicit bias and prejudice and their impact upon the production of advertising and consumer communications.",
-      []
-    ],
     "ADV 150": [
       "Introduction to Advertising",
       {
@@ -58,6 +28,36 @@
       },
       [],
       "Introduction to the practice and profession of advertising. Course material covers various functional areas of advertising and integrated brand promotion, including account planning, creative, media, research, consumer behavior, sales promotion and interactive advertising. Topics also include how advertising relates to society in cultural, social, ethical and regulatory contexts. Open to all undergraduate majors.",
+      []
+    ],
+    "ADV 175": [
+      "Introduction to Multicultural Advertising",
+      {
+        "A": [
+          "10131",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Chambers, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Examines the multifaceted role diversity (including racial, gender, orientation, ability status) plays in the delivery and reception of advertising. Additionally, it examines the development of diversity as a marketplace practice and on the development of the advertising industry. We'll analyze advertising using a historical, cultural, and social perspective and address issues of diversity in the industry. We will also critically review current issues of multicultural, transcultural and multidimensional advertising and marketing. In the process we’ll grapple with current theories on race and implicit /explicit bias and prejudice and their impact upon the production of advertising and consumer communications.",
       []
     ],
     "AFAS 120": [
@@ -150,36 +150,6 @@
       "History and theory underlying methods used in forensic science. Topics include the courtroom, the units of a crime laboratory, methods of securing and investigating a crime scene, and the analysis of evidence collected from a crime scene such as blood, fibers, hair, DNA, and fingerprints.",
       []
     ],
-    "ASTR 100": [
-      "Introduction to Astronomy",
-      {
-        "ONL": [
-          "10005",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Dunne, B"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "[IAI Code: P1906] Introduces the student to the basic concepts of modern astronomy. Covers topics including the night sky; the solar system and its origin; the nature and evolution of stars; stellar remnants, including white dwarfs, neutron stars, and black holes; extrasolar planetary systems; galaxies and quasars; dark matter and dark energy; the Big Bang and the fate of the universe; and life in the universe.",
-      []
-    ],
     "ASTR 330": [
       "Extraterrestrial Life",
       {
@@ -208,6 +178,36 @@
       },
       [],
       "Scientific discussion of the search for extraterrestrial life. Topics include: cosmic evolution (protons to heavy elements to molecules); terrestrial evolution (chemical, biological, and cultural); high technology searches for extraterrestrial life in the solar system (Mars, Venus, outer planets); and beyond the solar system (Drake equation and current SETI projects).",
+      []
+    ],
+    "ASTR 100": [
+      "Introduction to Astronomy",
+      {
+        "ONL": [
+          "10005",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Dunne, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "[IAI Code: P1906] Introduces the student to the basic concepts of modern astronomy. Covers topics including the night sky; the solar system and its origin; the nature and evolution of stars; stellar remnants, including white dwarfs, neutron stars, and black holes; extrasolar planetary systems; galaxies and quasars; dark matter and dark energy; the Big Bang and the fate of the universe; and life in the universe.",
       []
     ],
     "ATMS 120": [
@@ -240,36 +240,6 @@
       "Most extreme manifestations of weather and climate are analyzed in terms of their physical basis and their historical, economic and human consequences. Emphasis is placed on the interplay between technological advances, the evolution of meteorology as a science, and the impacts of extreme weather (winter storms, floods, severe thunderstorms, hurricanes, El Nino). Technological advances include satellites, weather radars and profilers, and computer models used for weather prediction.",
       []
     ],
-    "BADM 275": [
-      "Introduction to Operations and Supply Chain Management",
-      {
-        "OL": [
-          "10121",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Sumkin, D"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Operations and Supply Chain Management is about sourcing, producing, and delivering goods and services that meet and exceed customer expectations. In this course, students will be introduced to decision-making frameworks and techniques for effectively and efficiently managing processes through coordinated efforts across different organizations in a supply chain and across multiple areas within an organization, such as: consumer analytics, research and development, finance, engineering, marketing, human resource management, sourcing, information systems, logistics, and accounting.",
-      []
-    ],
     "BADM 300": [
       "The Legal Environment of Bus",
       {
@@ -298,6 +268,36 @@
       },
       [],
       "Introduction to law and the legal system, litigation, contracts, business organizations, intellectual property, employment law and governmental regulation of business.",
+      []
+    ],
+    "BADM 275": [
+      "Introduction to Operations and Supply Chain Management",
+      {
+        "OL": [
+          "10121",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Sumkin, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Operations and Supply Chain Management is about sourcing, producing, and delivering goods and services that meet and exceed customer expectations. In this course, students will be introduced to decision-making frameworks and techniques for effectively and efficiently managing processes through coordinated efforts across different organizations in a supply chain and across multiple areas within an organization, such as: consumer analytics, research and development, finance, engineering, marketing, human resource management, sourcing, information systems, logistics, and accounting.",
       []
     ],
     "BADM 310": [
@@ -420,36 +420,6 @@
       "Studies the major myths of Greece and Rome and their impact upon later art, music, and literature. Shares two hours of lecture with CLCV 111; additional hour of lecture-discussion for a closer analysis of topics.",
       []
     ],
-    "CLCV 102": [
-      "Medical Terms-GRK & LAT Roots",
-      {
-        "A": [
-          "10071",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Fenton, V"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Introduction to the study of Greek and Latin medical terms in various medical fields and to the linguistic patterns governing the combination of various roots through practical application of usage.",
-      []
-    ],
     "CLCV 114": [
       "Introduction to Ancient Greek Culture",
       {
@@ -478,6 +448,36 @@
       },
       [],
       "Introductory study of ancient Greek literature, art, and culture.",
+      []
+    ],
+    "CLCV 102": [
+      "Medical Terms-GRK & LAT Roots",
+      {
+        "A": [
+          "10071",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Fenton, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to the study of Greek and Latin medical terms in various medical fields and to the linguistic patterns governing the combination of various roots through practical application of usage.",
       []
     ],
     "CLCV 231": [
@@ -660,36 +660,6 @@
       null,
       []
     ],
-    "ESE 120": [
-      "Severe and Hazardous Weather",
-      {
-        "ONL": [
-          "10038",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Choate, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as ATMS 120. See ATMS 120.",
-      []
-    ],
     "ESE 118": [
       "Natural Disasters",
       {
@@ -748,6 +718,36 @@
       },
       [],
       "Same as GEOL 117. See GEOL 117.",
+      []
+    ],
+    "ESE 120": [
+      "Severe and Hazardous Weather",
+      {
+        "ONL": [
+          "10038",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Choate, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as ATMS 120. See ATMS 120.",
       []
     ],
     "ESE 360": [
@@ -840,36 +840,6 @@
       "Introduces the nature, causes, risks, effects, and prediction of natural disasters including earthquakes, volcanoes, landslides, subsidence, global climate change, severe weather, coastal erosion, floods, mass extinctions, and meteorite impacts; covers scientific principles and case histories of natural disasters as well as human responses (societal impact, mitigation strategies, and public policy).",
       []
     ],
-    "GLBL 118": [
-      "Natural Disasters",
-      {
-        "A": [
-          "10009",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Austin, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as ESE 118 and GEOL 118. See GEOL 118.",
-      []
-    ],
     "GLBL 200": [
       "Foundations of Research",
       {
@@ -898,6 +868,36 @@
       },
       [],
       "Introduction to the foundations of interdisciplinary social science research. Topic include understanding the purpose for research, identifying researchable issues, finding evaluating and using sources effectively, recognizing methods associated with different types of data and disciplines, and writing a literature review. Prepares students for course-based research papers and advanced research methods courses. Guest faculty present their Global Studies-relevant research as students (b)log their own research interests.",
+      []
+    ],
+    "GLBL 118": [
+      "Natural Disasters",
+      {
+        "A": [
+          "10009",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Austin, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as ESE 118 and GEOL 118. See GEOL 118.",
       []
     ],
     "GLBL 100": [
@@ -1042,36 +1042,6 @@
       "Broad introduction to global history, by exploring the global structures and transnational forces that have shaped human history, from the emergence of agriculture and urban centers to our contemporary global village.",
       []
     ],
-    "HK 302": [
-      "Disability in American Society",
-      {
-        "ONL": [
-          "10138",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Rice, L"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Acquaints students with the medical, psychosocial, vocational, political, and cultural aspects of disability in America. Development and implementation of disability policy by governmental agencies in this country will be examined, and the role of activism and advocacy in securing civil rights for persons with a disability will be explored. Various philosophical and theoretical models for understanding the disability experience will be offered, and course content will include the key historical events that shaped the present conditions of persons with disabilities. Lastly, students will be introduced to an array of service modalities used to address health and adjustment needs of persons with disabilities.",
-      []
-    ],
     "HK 271": [
       "Health Equity in the United States",
       {
@@ -1100,6 +1070,36 @@
       },
       [],
       "Introduces students to the field of health equity in the United States, including the existence and magnitude of health disparities related to historically underrepresented groups of diverse racial/ethnic backgrounds, immigrant and rural populations, gender, age, veteran status, and ability level. The course will examine relevant issues, frameworks, theories, and solutions.",
+      []
+    ],
+    "HK 302": [
+      "Disability in American Society",
+      {
+        "ONL": [
+          "10138",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Rice, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Acquaints students with the medical, psychosocial, vocational, political, and cultural aspects of disability in America. Development and implementation of disability policy by governmental agencies in this country will be examined, and the role of activism and advocacy in securing civil rights for persons with a disability will be explored. Various philosophical and theoretical models for understanding the disability experience will be offered, and course content will include the key historical events that shaped the present conditions of persons with disabilities. Lastly, students will be introduced to an array of service modalities used to address health and adjustment needs of persons with disabilities.",
       []
     ],
     "IS 229": [
@@ -1372,37 +1372,6 @@
       "Examines the notion that the mass media influence our development as gendered individuals, looking at those who argue for and against this notion. Considers different forms of feminist theory applied to the study of mass media, the history and scholarly criticisms of the media and their portrayal of women, and feminist attempts to create alternatives to mainstream media images. Throughout, the course considers representation of minorities in the dominant media and examines newly created alternative representations.",
       []
     ],
-    "MUS 133": [
-      "Introduction to World Music",
-      {
-        "A": [
-          "10097",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Miller, M",
-                "Smith, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "[IAI Code: F1903N] A survey of various musical traditions from different regions and peoples of the world.",
-      []
-    ],
     "MUS 132": [
       "Popular Music Studies",
       {
@@ -1432,6 +1401,37 @@
       },
       [],
       "Courses within this rubric provide an analytical and historical introduction to genres of popular music from the United States and around the world. Iterations of the course may focus on a specific genre, such as Rock, Reggae, or Afropop, or may deal with broader subjects, such as the continua of styles including R&B, Soul, Funk, and Hip Hop, or the pan-generic, international phenomenon of pop music globalization in the twentieth century.",
+      []
+    ],
+    "MUS 133": [
+      "Introduction to World Music",
+      {
+        "A": [
+          "10097",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Miller, M",
+                "Smith, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "[IAI Code: F1903N] A survey of various musical traditions from different regions and peoples of the world.",
       []
     ],
     "NS 120": [
@@ -1524,36 +1524,6 @@
       "[IAI Code: S5906N] Provides comparative and historical insights into the problems affecting the developing world by examining social, economic and political changes in Africa, Asia, and Latin America.",
       []
     ],
-    "PSYC 216": [
-      "Child Psych",
-      {
-        "A": [
-          "10099",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Hyde, D"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          2,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "[IAI Code: S6903] Study of the psychological development of the child.",
-      []
-    ],
     "PSYC 100": [
       "Intro Psych",
       {
@@ -1612,6 +1582,36 @@
       },
       [],
       "Introduction to the interdisciplinary field of cognitive neuroscience, which is concerned with how the cognitive systems supporting a broad range of capacities including memory, attention, and social and emotional processing, arise from the functioning of specific brain modules and brain mechanisms. Emphasizes how functional brain imaging and other cognitive neuroscience methods can be brought to bear on answering these questions.",
+      []
+    ],
+    "PSYC 216": [
+      "Child Psych",
+      {
+        "A": [
+          "10099",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Hyde, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "[IAI Code: S6903] Study of the psychological development of the child.",
       []
     ],
     "PSYC 230": [
@@ -1728,6 +1728,6 @@
     "finalDates": [],
     "finalTimes": []
   },
-  "updatedAt": "2026-10-12T05:31:20.705Z",
+  "updatedAt": "2026-10-12T05:32:22.231Z",
   "version": 3
 }
