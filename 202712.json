@@ -90,36 +90,6 @@
       "Same as MILS 120 and NS 120. See MILS 120.",
       []
     ],
-    "ANTH 103": [
-      "Anthro in a Changing World",
-      {
-        "ONL": [
-          "10141",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Unassigned Instructor"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "[IAI Code: S1901N] Presents the fundamental areas of anthropological analysis through a series of comparative cases that emphasize social and cultural relations in global contexts. Directs attention to the anthropological history of global empires and colonial states, their cultural exchanges, and contemporary studies of culture, society, and globalization.",
-      []
-    ],
     "ANTH 246": [
       "Forensic Science",
       {
@@ -148,6 +118,36 @@
       },
       [],
       "History and theory underlying methods used in forensic science. Topics include the courtroom, the units of a crime laboratory, methods of securing and investigating a crime scene, and the analysis of evidence collected from a crime scene such as blood, fibers, hair, DNA, and fingerprints.",
+      []
+    ],
+    "ANTH 103": [
+      "Anthro in a Changing World",
+      {
+        "ONL": [
+          "10141",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "[IAI Code: S1901N] Presents the fundamental areas of anthropological analysis through a series of comparative cases that emphasize social and cultural relations in global contexts. Directs attention to the anthropological history of global empires and colonial states, their cultural exchanges, and contemporary studies of culture, society, and globalization.",
       []
     ],
     "ASTR 100": [
@@ -270,36 +270,6 @@
       "Introduction to law and the legal system, litigation, contracts, business organizations, intellectual property, employment law and governmental regulation of business.",
       []
     ],
-    "BADM 310": [
-      "Mgmt and Organizational Beh",
-      {
-        "OL": [
-          "10014",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Ji, M"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "General analysis of management and organizational behavior from a systems point of view, including classical organizational theory and management, organizational behavior, and management science; environmental forces; planning, organizing, and control processes; motivation, incentives, leadership, communication, and interpersonal relations; and discussion of production and decision-making and mathematical models.",
-      []
-    ],
     "BADM 275": [
       "Introduction to Operations and Supply Chain Management",
       {
@@ -330,11 +300,11 @@
       "Operations and Supply Chain Management is about sourcing, producing, and delivering goods and services that meet and exceed customer expectations. In this course, students will be introduced to decision-making frameworks and techniques for effectively and efficiently managing processes through coordinated efforts across different organizations in a supply chain and across multiple areas within an organization, such as: consumer analytics, research and development, finance, engineering, marketing, human resource management, sourcing, information systems, logistics, and accounting.",
       []
     ],
-    "BADM 320": [
-      "Principles of Marketing",
+    "BADM 310": [
+      "Mgmt and Organizational Beh",
       {
         "OL": [
-          "10056",
+          "10014",
           [
             [
               0,
@@ -342,7 +312,7 @@
               "ONLINE",
               0,
               [
-                "Liu, Y"
+                "Ji, M"
               ],
               -1,
               -1,
@@ -357,7 +327,7 @@
         ]
       },
       [],
-      "Emphasizes the concepts of planning, organization, control, and decision making as they are applied in the management of the marketing function. Provides an overview of aspects of the marketing discipline.",
+      "General analysis of management and organizational behavior from a systems point of view, including classical organizational theory and management, organizational behavior, and management science; environmental forces; planning, organizing, and control processes; motivation, incentives, leadership, communication, and interpersonal relations; and discussion of production and decision-making and mathematical models.",
       []
     ],
     "BADM 380": [
@@ -390,6 +360,36 @@
       "Introduces the field of international business and management. Examines the economic, political, and legal environments of international business. Analyzes differences in financial management, marketing, and management practices for firms doing business abroad.",
       []
     ],
+    "BADM 320": [
+      "Principles of Marketing",
+      {
+        "OL": [
+          "10056",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Liu, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Emphasizes the concepts of planning, organization, control, and decision making as they are applied in the management of the marketing function. Provides an overview of aspects of the marketing discipline.",
+      []
+    ],
     "CLCV 115": [
       "Mythology of Greece and Rome",
       {
@@ -420,36 +420,6 @@
       "Studies the major myths of Greece and Rome and their impact upon later art, music, and literature. Shares two hours of lecture with CLCV 111; additional hour of lecture-discussion for a closer analysis of topics.",
       []
     ],
-    "CLCV 102": [
-      "Medical Terms-GRK & LAT Roots",
-      {
-        "A": [
-          "10071",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Fenton, V"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Introduction to the study of Greek and Latin medical terms in various medical fields and to the linguistic patterns governing the combination of various roots through practical application of usage.",
-      []
-    ],
     "CLCV 114": [
       "Introduction to Ancient Greek Culture",
       {
@@ -478,6 +448,36 @@
       },
       [],
       "Introductory study of ancient Greek literature, art, and culture.",
+      []
+    ],
+    "CLCV 102": [
+      "Medical Terms-GRK & LAT Roots",
+      {
+        "A": [
+          "10071",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Fenton, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to the study of Greek and Latin medical terms in various medical fields and to the linguistic patterns governing the combination of various roots through practical application of usage.",
       []
     ],
     "CLCV 231": [
@@ -660,36 +660,6 @@
       null,
       []
     ],
-    "ESE 118": [
-      "Natural Disasters",
-      {
-        "A": [
-          "10008",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Austin, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as GEOL 118 and GLBL 118. See GEOL 118.",
-      []
-    ],
     "ESE 117": [
       "The Oceans",
       {
@@ -748,6 +718,36 @@
       },
       [],
       "Same as ATMS 120. See ATMS 120.",
+      []
+    ],
+    "ESE 118": [
+      "Natural Disasters",
+      {
+        "A": [
+          "10008",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Austin, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as GEOL 118 and GLBL 118. See GEOL 118.",
       []
     ],
     "ESE 360": [
@@ -840,6 +840,36 @@
       "Introduces the nature, causes, risks, effects, and prediction of natural disasters including earthquakes, volcanoes, landslides, subsidence, global climate change, severe weather, coastal erosion, floods, mass extinctions, and meteorite impacts; covers scientific principles and case histories of natural disasters as well as human responses (societal impact, mitigation strategies, and public policy).",
       []
     ],
+    "GLBL 118": [
+      "Natural Disasters",
+      {
+        "A": [
+          "10009",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Austin, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as ESE 118 and GEOL 118. See GEOL 118.",
+      []
+    ],
     "GLBL 200": [
       "Foundations of Research",
       {
@@ -900,36 +930,6 @@
       "Foundation course for understanding a range of contemporary issues and learning to analyze them from multiple disciplinary perspectives. Students consider globalizing trends within themes of wealth and poverty; population, cultures, and human rights; environment and sustainability; and governance, conflict, and cooperation. Course objectives are to enhance knowledge of human cultures, their interactions and impacts on the world; develop skills for successfully negotiating realities of contemporary societies; and promote values for global learning, diversity, and sustainable futures.",
       []
     ],
-    "GLBL 118": [
-      "Natural Disasters",
-      {
-        "A": [
-          "10009",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Austin, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as ESE 118 and GEOL 118. See GEOL 118.",
-      []
-    ],
     "GWS 356": [
       "Sex & Gender in Popular Media",
       {
@@ -958,36 +958,6 @@
       },
       [],
       "Same as MACS 356. See MACS 356.",
-      []
-    ],
-    "HIST 100": [
-      "Global History",
-      {
-        "A": [
-          "10144",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Mandala, R"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Broad introduction to global history, by exploring the global structures and transnational forces that have shaped human history, from the emergence of agriculture and urban centers to our contemporary global village.",
       []
     ],
     "HIST 104": [
@@ -1042,11 +1012,11 @@
       "What is black music, and how do we know what we think we know about it? Together, we will examine musical creations pioneered by Africans and individuals of African descent over several centuries and across hemispheres. Doing so will allow us to consider the unity of the African Diaspora and its music, and also examine internal differences and diversity. Special focus is given to Latin America and the U.S., but, depending on the semester, we will also read about, listen to, and talk about music and musicians in Asia, Africa, and Europe.",
       []
     ],
-    "HK 271": [
-      "Health Equity in the United States",
+    "HIST 100": [
+      "Global History",
       {
-        "ONL": [
-          "10139",
+        "A": [
+          "10144",
           [
             [
               0,
@@ -1054,7 +1024,7 @@
               "ONLINE",
               0,
               [
-                "Frasca, B"
+                "Mandala, R"
               ],
               -1,
               -1,
@@ -1069,7 +1039,7 @@
         ]
       },
       [],
-      "Introduces students to the field of health equity in the United States, including the existence and magnitude of health disparities related to historically underrepresented groups of diverse racial/ethnic backgrounds, immigrant and rural populations, gender, age, veteran status, and ability level. The course will examine relevant issues, frameworks, theories, and solutions.",
+      "Broad introduction to global history, by exploring the global structures and transnational forces that have shaped human history, from the emergence of agriculture and urban centers to our contemporary global village.",
       []
     ],
     "HK 302": [
@@ -1102,11 +1072,11 @@
       "Acquaints students with the medical, psychosocial, vocational, political, and cultural aspects of disability in America. Development and implementation of disability policy by governmental agencies in this country will be examined, and the role of activism and advocacy in securing civil rights for persons with a disability will be explored. Various philosophical and theoretical models for understanding the disability experience will be offered, and course content will include the key historical events that shaped the present conditions of persons with disabilities. Lastly, students will be introduced to an array of service modalities used to address health and adjustment needs of persons with disabilities.",
       []
     ],
-    "IS 390": [
-      "Special Topics in Information Studies",
+    "HK 271": [
+      "Health Equity in the United States",
       {
-        "IIP": [
-          "10113",
+        "ONL": [
+          "10139",
           [
             [
               0,
@@ -1114,7 +1084,7 @@
               "ONLINE",
               0,
               [
-                "Benson, S"
+                "Frasca, B"
               ],
               -1,
               -1,
@@ -1129,7 +1099,37 @@
         ]
       },
       [],
-      "Directed and supervised investigation of selected topics in information studies that may include among others computers and culture; information policy; community information systems; production, retrieval and evaluation of scientific or social science knowledge; computer-mediated communication; and computer-supported cooperative work.",
+      "Introduces students to the field of health equity in the United States, including the existence and magnitude of health disparities related to historically underrepresented groups of diverse racial/ethnic backgrounds, immigrant and rural populations, gender, age, veteran status, and ability level. The course will examine relevant issues, frameworks, theories, and solutions.",
+      []
+    ],
+    "IS 199": [
+      "Undergraduate Open Seminar",
+      {
+        "ICL": [
+          "10101",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Wickes, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Additional fees may apply. See Class Schedule. May be repeated.",
       []
     ],
     "IS 229": [
@@ -1162,11 +1162,11 @@
       "In this course students will learn the principles and methodologies of modern Web design and development, while also becoming familiar with the history of the Web. Students will develop useful practical skills through hands-on engagement with open-source tools, platforms, and resources, while also acquiring a critical understanding of current challenges around such topics as web-standards, security, and accessibility. Students will also become familiar with philosophical models and practical frameworks for creating human-centered systems and will apply such constructively critical understandings in their own web design projects.",
       []
     ],
-    "IS 199": [
-      "Undergraduate Open Seminar",
+    "IS 390": [
+      "Special Topics in Information Studies",
       {
-        "ICL": [
-          "10101",
+        "IIP": [
+          "10113",
           [
             [
               0,
@@ -1174,14 +1174,14 @@
               "ONLINE",
               0,
               [
-                "Wickes, E"
+                "Benson, S"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          5,
+          3,
           0,
           0,
           [],
@@ -1189,7 +1189,7 @@
         ]
       },
       [],
-      "Additional fees may apply. See Class Schedule. May be repeated.",
+      "Directed and supervised investigation of selected topics in information studies that may include among others computers and culture; information policy; community information systems; production, retrieval and evaluation of scientific or social science knowledge; computer-mediated communication; and computer-supported cooperative work.",
       []
     ],
     "IS 445": [
@@ -1312,36 +1312,6 @@
       "Interdisciplinary introduction to the ways of life of Latin American peoples, their origins and current expressions; discusses social, economic issues, and domestic and international policies related to them in the context of other societies in developing countries.",
       []
     ],
-    "MACS 380": [
-      "21st Century Documentaries",
-      {
-        "A": [
-          "10158",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Aguayo, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Documentary has exploded in the past decade, with more being created, screened and watched than at any time in history. But what has this growth meant to documentary, and how has it impacted what we see on screen and how documentary stories are being told? We will examine the changes and trends taking place in film and television documentaries over the past decade. We will watch and analyze a variety of contemporary documentaries, examining some of the different stylistic, production, and story-telling methods that have developed over this time. If you enjoy watching documentaries and want to learn more about them, you will find this an enjoyable and thought-provoking course.",
-      []
-    ],
     "MACS 356": [
       "Sex & Gender in Popular Media",
       {
@@ -1370,6 +1340,36 @@
       },
       [],
       "Examines the notion that the mass media influence our development as gendered individuals, looking at those who argue for and against this notion. Considers different forms of feminist theory applied to the study of mass media, the history and scholarly criticisms of the media and their portrayal of women, and feminist attempts to create alternatives to mainstream media images. Throughout, the course considers representation of minorities in the dominant media and examines newly created alternative representations.",
+      []
+    ],
+    "MACS 380": [
+      "21st Century Documentaries",
+      {
+        "A": [
+          "10158",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Aguayo, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Documentary has exploded in the past decade, with more being created, screened and watched than at any time in history. But what has this growth meant to documentary, and how has it impacted what we see on screen and how documentary stories are being told? We will examine the changes and trends taking place in film and television documentaries over the past decade. We will watch and analyze a variety of contemporary documentaries, examining some of the different stylistic, production, and story-telling methods that have developed over this time. If you enjoy watching documentaries and want to learn more about them, you will find this an enjoyable and thought-provoking course.",
       []
     ],
     "MUS 132": [
@@ -1524,6 +1524,36 @@
       "[IAI Code: S5906N] Provides comparative and historical insights into the problems affecting the developing world by examining social, economic and political changes in Africa, Asia, and Latin America.",
       []
     ],
+    "PSYC 216": [
+      "Child Psych",
+      {
+        "A": [
+          "10099",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Hyde, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "[IAI Code: S6903] Study of the psychological development of the child.",
+      []
+    ],
     "PSYC 204": [
       "Intro to Brain and Cognition",
       {
@@ -1582,36 +1612,6 @@
       },
       [],
       "[IAI Code: S6900] Study of human behavior with special reference to perception, learning, memory, thinking, emotional life, and individual differences in intelligence, aptitude, and personality; emphasis on the scientific nature of psychological investigations; and discussion of research methods and the relation of their results to daily life and everyday problems. Lectures, discussions, and six hours of participation as a subject in psychological experiments.",
-      []
-    ],
-    "PSYC 216": [
-      "Child Psych",
-      {
-        "A": [
-          "10099",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Hyde, D"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          2,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "[IAI Code: S6903] Study of the psychological development of the child.",
       []
     ],
     "PSYC 230": [
@@ -1728,6 +1728,6 @@
     "finalDates": [],
     "finalTimes": []
   },
-  "updatedAt": "2026-10-12T05:33:18.203Z",
+  "updatedAt": "2026-10-12T05:34:19.637Z",
   "version": 3
 }
