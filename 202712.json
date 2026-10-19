@@ -90,36 +90,6 @@
       "Same as MILS 120 and NS 120. See MILS 120.",
       []
     ],
-    "ANTH 103": [
-      "Anthro in a Changing World",
-      {
-        "ONL": [
-          "10141",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Unassigned Instructor"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "[IAI Code: S1901N] Presents the fundamental areas of anthropological analysis through a series of comparative cases that emphasize social and cultural relations in global contexts. Directs attention to the anthropological history of global empires and colonial states, their cultural exchanges, and contemporary studies of culture, society, and globalization.",
-      []
-    ],
     "ANTH 246": [
       "Forensic Science",
       {
@@ -148,6 +118,36 @@
       },
       [],
       "History and theory underlying methods used in forensic science. Topics include the courtroom, the units of a crime laboratory, methods of securing and investigating a crime scene, and the analysis of evidence collected from a crime scene such as blood, fibers, hair, DNA, and fingerprints.",
+      []
+    ],
+    "ANTH 103": [
+      "Anthro in a Changing World",
+      {
+        "ONL": [
+          "10141",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "[IAI Code: S1901N] Presents the fundamental areas of anthropological analysis through a series of comparative cases that emphasize social and cultural relations in global contexts. Directs attention to the anthropological history of global empires and colonial states, their cultural exchanges, and contemporary studies of culture, society, and globalization.",
       []
     ],
     "ASTR 100": [
@@ -240,6 +240,36 @@
       "Most extreme manifestations of weather and climate are analyzed in terms of their physical basis and their historical, economic and human consequences. Emphasis is placed on the interplay between technological advances, the evolution of meteorology as a science, and the impacts of extreme weather (winter storms, floods, severe thunderstorms, hurricanes, El Nino). Technological advances include satellites, weather radars and profilers, and computer models used for weather prediction.",
       []
     ],
+    "BADM 300": [
+      "The Legal Environment of Bus",
+      {
+        "OL": [
+          "10013",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Noonan, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to law and the legal system, litigation, contracts, business organizations, intellectual property, employment law and governmental regulation of business.",
+      []
+    ],
     "BADM 275": [
       "Introduction to Operations and Supply Chain Management",
       {
@@ -298,36 +328,6 @@
       },
       [],
       "General analysis of management and organizational behavior from a systems point of view, including classical organizational theory and management, organizational behavior, and management science; environmental forces; planning, organizing, and control processes; motivation, incentives, leadership, communication, and interpersonal relations; and discussion of production and decision-making and mathematical models.",
-      []
-    ],
-    "BADM 300": [
-      "The Legal Environment of Bus",
-      {
-        "OL": [
-          "10013",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Noonan, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Introduction to law and the legal system, litigation, contracts, business organizations, intellectual property, employment law and governmental regulation of business.",
       []
     ],
     "BADM 320": [
@@ -390,36 +390,6 @@
       "Introduces the field of international business and management. Examines the economic, political, and legal environments of international business. Analyzes differences in financial management, marketing, and management practices for firms doing business abroad.",
       []
     ],
-    "CLCV 115": [
-      "Mythology of Greece and Rome",
-      {
-        "A": [
-          "10083",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Moulita, M"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Studies the major myths of Greece and Rome and their impact upon later art, music, and literature. Shares two hours of lecture with CLCV 111; additional hour of lecture-discussion for a closer analysis of topics.",
-      []
-    ],
     "CLCV 114": [
       "Introduction to Ancient Greek Culture",
       {
@@ -478,6 +448,36 @@
       },
       [],
       "Introduction to the study of Greek and Latin medical terms in various medical fields and to the linguistic patterns governing the combination of various roots through practical application of usage.",
+      []
+    ],
+    "CLCV 115": [
+      "Mythology of Greece and Rome",
+      {
+        "A": [
+          "10083",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Moulita, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Studies the major myths of Greece and Rome and their impact upon later art, music, and literature. Shares two hours of lecture with CLCV 111; additional hour of lecture-discussion for a closer analysis of topics.",
       []
     ],
     "CLCV 231": [
@@ -660,36 +660,6 @@
       null,
       []
     ],
-    "ESE 120": [
-      "Severe and Hazardous Weather",
-      {
-        "ONL": [
-          "10038",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Choate, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as ATMS 120. See ATMS 120.",
-      []
-    ],
     "ESE 117": [
       "The Oceans",
       {
@@ -718,6 +688,36 @@
       },
       [],
       "Same as GEOL 117. See GEOL 117.",
+      []
+    ],
+    "ESE 120": [
+      "Severe and Hazardous Weather",
+      {
+        "ONL": [
+          "10038",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Choate, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as ATMS 120. See ATMS 120.",
       []
     ],
     "ESE 118": [
@@ -840,11 +840,11 @@
       "Introduces the nature, causes, risks, effects, and prediction of natural disasters including earthquakes, volcanoes, landslides, subsidence, global climate change, severe weather, coastal erosion, floods, mass extinctions, and meteorite impacts; covers scientific principles and case histories of natural disasters as well as human responses (societal impact, mitigation strategies, and public policy).",
       []
     ],
-    "GLBL 100": [
-      "Intro to Global Studies",
+    "GLBL 118": [
+      "Natural Disasters",
       {
-        "CF": [
-          "10054",
+        "A": [
+          "10009",
           [
             [
               0,
@@ -852,7 +852,7 @@
               "ONLINE",
               0,
               [
-                "Schrag, D"
+                "Austin, S"
               ],
               -1,
               -1,
@@ -867,7 +867,7 @@
         ]
       },
       [],
-      "Foundation course for understanding a range of contemporary issues and learning to analyze them from multiple disciplinary perspectives. Students consider globalizing trends within themes of wealth and poverty; population, cultures, and human rights; environment and sustainability; and governance, conflict, and cooperation. Course objectives are to enhance knowledge of human cultures, their interactions and impacts on the world; develop skills for successfully negotiating realities of contemporary societies; and promote values for global learning, diversity, and sustainable futures.",
+      "Same as ESE 118 and GEOL 118. See GEOL 118.",
       []
     ],
     "GLBL 200": [
@@ -900,11 +900,11 @@
       "Introduction to the foundations of interdisciplinary social science research. Topic include understanding the purpose for research, identifying researchable issues, finding evaluating and using sources effectively, recognizing methods associated with different types of data and disciplines, and writing a literature review. Prepares students for course-based research papers and advanced research methods courses. Guest faculty present their Global Studies-relevant research as students (b)log their own research interests.",
       []
     ],
-    "GLBL 118": [
-      "Natural Disasters",
+    "GLBL 100": [
+      "Intro to Global Studies",
       {
-        "A": [
-          "10009",
+        "CF": [
+          "10054",
           [
             [
               0,
@@ -912,7 +912,7 @@
               "ONLINE",
               0,
               [
-                "Austin, S"
+                "Schrag, D"
               ],
               -1,
               -1,
@@ -927,7 +927,7 @@
         ]
       },
       [],
-      "Same as ESE 118 and GEOL 118. See GEOL 118.",
+      "Foundation course for understanding a range of contemporary issues and learning to analyze them from multiple disciplinary perspectives. Students consider globalizing trends within themes of wealth and poverty; population, cultures, and human rights; environment and sustainability; and governance, conflict, and cooperation. Course objectives are to enhance knowledge of human cultures, their interactions and impacts on the world; develop skills for successfully negotiating realities of contemporary societies; and promote values for global learning, diversity, and sustainable futures.",
       []
     ],
     "GWS 356": [
@@ -1042,36 +1042,6 @@
       "What is black music, and how do we know what we think we know about it? Together, we will examine musical creations pioneered by Africans and individuals of African descent over several centuries and across hemispheres. Doing so will allow us to consider the unity of the African Diaspora and its music, and also examine internal differences and diversity. Special focus is given to Latin America and the U.S., but, depending on the semester, we will also read about, listen to, and talk about music and musicians in Asia, Africa, and Europe.",
       []
     ],
-    "HK 302": [
-      "Disability in American Society",
-      {
-        "ONL": [
-          "10138",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Rice, L"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Acquaints students with the medical, psychosocial, vocational, political, and cultural aspects of disability in America. Development and implementation of disability policy by governmental agencies in this country will be examined, and the role of activism and advocacy in securing civil rights for persons with a disability will be explored. Various philosophical and theoretical models for understanding the disability experience will be offered, and course content will include the key historical events that shaped the present conditions of persons with disabilities. Lastly, students will be introduced to an array of service modalities used to address health and adjustment needs of persons with disabilities.",
-      []
-    ],
     "HK 271": [
       "Health Equity in the United States",
       {
@@ -1100,6 +1070,36 @@
       },
       [],
       "Introduces students to the field of health equity in the United States, including the existence and magnitude of health disparities related to historically underrepresented groups of diverse racial/ethnic backgrounds, immigrant and rural populations, gender, age, veteran status, and ability level. The course will examine relevant issues, frameworks, theories, and solutions.",
+      []
+    ],
+    "HK 302": [
+      "Disability in American Society",
+      {
+        "ONL": [
+          "10138",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Rice, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Acquaints students with the medical, psychosocial, vocational, political, and cultural aspects of disability in America. Development and implementation of disability policy by governmental agencies in this country will be examined, and the role of activism and advocacy in securing civil rights for persons with a disability will be explored. Various philosophical and theoretical models for understanding the disability experience will be offered, and course content will include the key historical events that shaped the present conditions of persons with disabilities. Lastly, students will be introduced to an array of service modalities used to address health and adjustment needs of persons with disabilities.",
       []
     ],
     "IS 199": [
@@ -1132,36 +1132,6 @@
       "Additional fees may apply. See Class Schedule. May be repeated.",
       []
     ],
-    "IS 390": [
-      "Special Topics in Information Studies",
-      {
-        "IIP": [
-          "10113",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Benson, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Directed and supervised investigation of selected topics in information studies that may include among others computers and culture; information policy; community information systems; production, retrieval and evaluation of scientific or social science knowledge; computer-mediated communication; and computer-supported cooperative work.",
-      []
-    ],
     "IS 229": [
       "Web Design Fundamentals",
       {
@@ -1190,6 +1160,36 @@
       },
       [],
       "In this course students will learn the principles and methodologies of modern Web design and development, while also becoming familiar with the history of the Web. Students will develop useful practical skills through hands-on engagement with open-source tools, platforms, and resources, while also acquiring a critical understanding of current challenges around such topics as web-standards, security, and accessibility. Students will also become familiar with philosophical models and practical frameworks for creating human-centered systems and will apply such constructively critical understandings in their own web design projects.",
+      []
+    ],
+    "IS 390": [
+      "Special Topics in Information Studies",
+      {
+        "IIP": [
+          "10113",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Benson, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Directed and supervised investigation of selected topics in information studies that may include among others computers and culture; information policy; community information systems; production, retrieval and evaluation of scientific or social science knowledge; computer-mediated communication; and computer-supported cooperative work.",
       []
     ],
     "IS 445": [
@@ -1554,36 +1554,6 @@
       "Introduction to the interdisciplinary field of cognitive neuroscience, which is concerned with how the cognitive systems supporting a broad range of capacities including memory, attention, and social and emotional processing, arise from the functioning of specific brain modules and brain mechanisms. Emphasizes how functional brain imaging and other cognitive neuroscience methods can be brought to bear on answering these questions.",
       []
     ],
-    "PSYC 216": [
-      "Child Psych",
-      {
-        "A": [
-          "10099",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Hyde, D"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          2,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "[IAI Code: S6903] Study of the psychological development of the child.",
-      []
-    ],
     "PSYC 100": [
       "Intro Psych",
       {
@@ -1612,6 +1582,36 @@
       },
       [],
       "[IAI Code: S6900] Study of human behavior with special reference to perception, learning, memory, thinking, emotional life, and individual differences in intelligence, aptitude, and personality; emphasis on the scientific nature of psychological investigations; and discussion of research methods and the relation of their results to daily life and everyday problems. Lectures, discussions, and six hours of participation as a subject in psychological experiments.",
+      []
+    ],
+    "PSYC 216": [
+      "Child Psych",
+      {
+        "A": [
+          "10099",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Hyde, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "[IAI Code: S6903] Study of the psychological development of the child.",
       []
     ],
     "PSYC 230": [
@@ -1728,6 +1728,6 @@
     "finalDates": [],
     "finalTimes": []
   },
-  "updatedAt": "2026-10-19T03:54:47.992Z",
+  "updatedAt": "2026-10-19T03:55:45.238Z",
   "version": 3
 }
