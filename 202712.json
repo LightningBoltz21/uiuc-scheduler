@@ -1,35 +1,5 @@
 {
   "courses": {
-    "ADV 175": [
-      "Introduction to Multicultural Advertising",
-      {
-        "A": [
-          "10131",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Chambers, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Examines the multifaceted role diversity (including racial, gender, orientation, ability status) plays in the delivery and reception of advertising. Additionally, it examines the development of diversity as a marketplace practice and on the development of the advertising industry. We'll analyze advertising using a historical, cultural, and social perspective and address issues of diversity in the industry. We will also critically review current issues of multicultural, transcultural and multidimensional advertising and marketing. In the process we’ll grapple with current theories on race and implicit /explicit bias and prejudice and their impact upon the production of advertising and consumer communications.",
-      []
-    ],
     "ADV 150": [
       "Introduction to Advertising",
       {
@@ -58,6 +28,36 @@
       },
       [],
       "Introduction to the practice and profession of advertising. Course material covers various functional areas of advertising and integrated brand promotion, including account planning, creative, media, research, consumer behavior, sales promotion and interactive advertising. Topics also include how advertising relates to society in cultural, social, ethical and regulatory contexts. Open to all undergraduate majors.",
+      []
+    ],
+    "ADV 175": [
+      "Introduction to Multicultural Advertising",
+      {
+        "A": [
+          "10131",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Chambers, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Examines the multifaceted role diversity (including racial, gender, orientation, ability status) plays in the delivery and reception of advertising. Additionally, it examines the development of diversity as a marketplace practice and on the development of the advertising industry. We'll analyze advertising using a historical, cultural, and social perspective and address issues of diversity in the industry. We will also critically review current issues of multicultural, transcultural and multidimensional advertising and marketing. In the process we’ll grapple with current theories on race and implicit /explicit bias and prejudice and their impact upon the production of advertising and consumer communications.",
       []
     ],
     "AFAS 120": [
@@ -240,36 +240,6 @@
       "Most extreme manifestations of weather and climate are analyzed in terms of their physical basis and their historical, economic and human consequences. Emphasis is placed on the interplay between technological advances, the evolution of meteorology as a science, and the impacts of extreme weather (winter storms, floods, severe thunderstorms, hurricanes, El Nino). Technological advances include satellites, weather radars and profilers, and computer models used for weather prediction.",
       []
     ],
-    "BADM 275": [
-      "Introduction to Operations and Supply Chain Management",
-      {
-        "OL": [
-          "10121",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Sumkin, D"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Operations and Supply Chain Management is about sourcing, producing, and delivering goods and services that meet and exceed customer expectations. In this course, students will be introduced to decision-making frameworks and techniques for effectively and efficiently managing processes through coordinated efforts across different organizations in a supply chain and across multiple areas within an organization, such as: consumer analytics, research and development, finance, engineering, marketing, human resource management, sourcing, information systems, logistics, and accounting.",
-      []
-    ],
     "BADM 300": [
       "The Legal Environment of Bus",
       {
@@ -298,6 +268,36 @@
       },
       [],
       "Introduction to law and the legal system, litigation, contracts, business organizations, intellectual property, employment law and governmental regulation of business.",
+      []
+    ],
+    "BADM 275": [
+      "Introduction to Operations and Supply Chain Management",
+      {
+        "OL": [
+          "10121",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Sumkin, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Operations and Supply Chain Management is about sourcing, producing, and delivering goods and services that meet and exceed customer expectations. In this course, students will be introduced to decision-making frameworks and techniques for effectively and efficiently managing processes through coordinated efforts across different organizations in a supply chain and across multiple areas within an organization, such as: consumer analytics, research and development, finance, engineering, marketing, human resource management, sourcing, information systems, logistics, and accounting.",
       []
     ],
     "BADM 310": [
@@ -390,11 +390,11 @@
       "Introduces the field of international business and management. Examines the economic, political, and legal environments of international business. Analyzes differences in financial management, marketing, and management practices for firms doing business abroad.",
       []
     ],
-    "CLCV 102": [
-      "Medical Terms-GRK & LAT Roots",
+    "CLCV 115": [
+      "Mythology of Greece and Rome",
       {
         "A": [
-          "10071",
+          "10083",
           [
             [
               0,
@@ -402,7 +402,7 @@
               "ONLINE",
               0,
               [
-                "Fenton, V"
+                "Moulita, M"
               ],
               -1,
               -1,
@@ -417,7 +417,7 @@
         ]
       },
       [],
-      "Introduction to the study of Greek and Latin medical terms in various medical fields and to the linguistic patterns governing the combination of various roots through practical application of usage.",
+      "Studies the major myths of Greece and Rome and their impact upon later art, music, and literature. Shares two hours of lecture with CLCV 111; additional hour of lecture-discussion for a closer analysis of topics.",
       []
     ],
     "CLCV 114": [
@@ -450,11 +450,11 @@
       "Introductory study of ancient Greek literature, art, and culture.",
       []
     ],
-    "CLCV 115": [
-      "Mythology of Greece and Rome",
+    "CLCV 102": [
+      "Medical Terms-GRK & LAT Roots",
       {
         "A": [
-          "10083",
+          "10071",
           [
             [
               0,
@@ -462,7 +462,7 @@
               "ONLINE",
               0,
               [
-                "Moulita, M"
+                "Fenton, V"
               ],
               -1,
               -1,
@@ -477,7 +477,7 @@
         ]
       },
       [],
-      "Studies the major myths of Greece and Rome and their impact upon later art, music, and literature. Shares two hours of lecture with CLCV 111; additional hour of lecture-discussion for a closer analysis of topics.",
+      "Introduction to the study of Greek and Latin medical terms in various medical fields and to the linguistic patterns governing the combination of various roots through practical application of usage.",
       []
     ],
     "CLCV 231": [
@@ -660,11 +660,11 @@
       null,
       []
     ],
-    "ESE 118": [
-      "Natural Disasters",
+    "ESE 120": [
+      "Severe and Hazardous Weather",
       {
-        "A": [
-          "10008",
+        "ONL": [
+          "10038",
           [
             [
               0,
@@ -672,7 +672,7 @@
               "ONLINE",
               0,
               [
-                "Austin, S"
+                "Choate, J"
               ],
               -1,
               -1,
@@ -687,7 +687,7 @@
         ]
       },
       [],
-      "Same as GEOL 118 and GLBL 118. See GEOL 118.",
+      "Same as ATMS 120. See ATMS 120.",
       []
     ],
     "ESE 117": [
@@ -720,11 +720,11 @@
       "Same as GEOL 117. See GEOL 117.",
       []
     ],
-    "ESE 120": [
-      "Severe and Hazardous Weather",
+    "ESE 118": [
+      "Natural Disasters",
       {
-        "ONL": [
-          "10038",
+        "A": [
+          "10008",
           [
             [
               0,
@@ -732,7 +732,7 @@
               "ONLINE",
               0,
               [
-                "Choate, J"
+                "Austin, S"
               ],
               -1,
               -1,
@@ -747,7 +747,7 @@
         ]
       },
       [],
-      "Same as ATMS 120. See ATMS 120.",
+      "Same as GEOL 118 and GLBL 118. See GEOL 118.",
       []
     ],
     "ESE 360": [
@@ -780,36 +780,6 @@
       "Equips students to write about the environment for various audiences, with a focus on specific current efforts to promote sustainability on the Urbana-Champaign campus. We will practice effective techniques for each stage of the writing process-from defining topics, to gathering information, to crafting active, engaging prose. Readings will include models of effective environmental writing and \"how to\" pieces by experts. Research will include visits to campus sites and student-conducted interviews with subjects.",
       []
     ],
-    "GEOL 117": [
-      "The Oceans",
-      {
-        "A": [
-          "10049",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Pettijohn, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Integrated introduction to oceanography and marine geology and geophysics. Topics include ocean-basin formation and evolution (in the context of plate tectonics), ocean ecology, the hydrologic cycle, water chemistry, currents and waves, the interaction of oceans with climate, coastal hazards, resources, pollution, and the Law of the Sea. Course is oriented toward students not majoring in science.",
-      []
-    ],
     "GEOL 118": [
       "Natural Disasters",
       {
@@ -840,11 +810,11 @@
       "Introduces the nature, causes, risks, effects, and prediction of natural disasters including earthquakes, volcanoes, landslides, subsidence, global climate change, severe weather, coastal erosion, floods, mass extinctions, and meteorite impacts; covers scientific principles and case histories of natural disasters as well as human responses (societal impact, mitigation strategies, and public policy).",
       []
     ],
-    "GLBL 200": [
-      "Foundations of Research",
+    "GEOL 117": [
+      "The Oceans",
       {
-        "AL1": [
-          "10117",
+        "A": [
+          "10049",
           [
             [
               0,
@@ -852,7 +822,7 @@
               "ONLINE",
               0,
               [
-                "Bonatti, V"
+                "Pettijohn, C"
               ],
               -1,
               -1,
@@ -867,7 +837,7 @@
         ]
       },
       [],
-      "Introduction to the foundations of interdisciplinary social science research. Topic include understanding the purpose for research, identifying researchable issues, finding evaluating and using sources effectively, recognizing methods associated with different types of data and disciplines, and writing a literature review. Prepares students for course-based research papers and advanced research methods courses. Guest faculty present their Global Studies-relevant research as students (b)log their own research interests.",
+      "Integrated introduction to oceanography and marine geology and geophysics. Topics include ocean-basin formation and evolution (in the context of plate tectonics), ocean ecology, the hydrologic cycle, water chemistry, currents and waves, the interaction of oceans with climate, coastal hazards, resources, pollution, and the Law of the Sea. Course is oriented toward students not majoring in science.",
       []
     ],
     "GLBL 100": [
@@ -930,6 +900,36 @@
       "Same as ESE 118 and GEOL 118. See GEOL 118.",
       []
     ],
+    "GLBL 200": [
+      "Foundations of Research",
+      {
+        "AL1": [
+          "10117",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Bonatti, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to the foundations of interdisciplinary social science research. Topic include understanding the purpose for research, identifying researchable issues, finding evaluating and using sources effectively, recognizing methods associated with different types of data and disciplines, and writing a literature review. Prepares students for course-based research papers and advanced research methods courses. Guest faculty present their Global Studies-relevant research as students (b)log their own research interests.",
+      []
+    ],
     "GWS 356": [
       "Sex & Gender in Popular Media",
       {
@@ -958,36 +958,6 @@
       },
       [],
       "Same as MACS 356. See MACS 356.",
-      []
-    ],
-    "HIST 100": [
-      "Global History",
-      {
-        "A": [
-          "10144",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Mandala, R"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Broad introduction to global history, by exploring the global structures and transnational forces that have shaped human history, from the emergence of agriculture and urban centers to our contemporary global village.",
       []
     ],
     "HIST 104": [
@@ -1040,6 +1010,36 @@
       },
       [],
       "What is black music, and how do we know what we think we know about it? Together, we will examine musical creations pioneered by Africans and individuals of African descent over several centuries and across hemispheres. Doing so will allow us to consider the unity of the African Diaspora and its music, and also examine internal differences and diversity. Special focus is given to Latin America and the U.S., but, depending on the semester, we will also read about, listen to, and talk about music and musicians in Asia, Africa, and Europe.",
+      []
+    ],
+    "HIST 100": [
+      "Global History",
+      {
+        "A": [
+          "10144",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Mandala, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Broad introduction to global history, by exploring the global structures and transnational forces that have shaped human history, from the emergence of agriculture and urban centers to our contemporary global village.",
       []
     ],
     "HK 302": [
@@ -1728,6 +1728,6 @@
     "finalDates": [],
     "finalTimes": []
   },
-  "updatedAt": "2026-10-19T04:00:46.195Z",
+  "updatedAt": "2026-10-19T04:01:43.970Z",
   "version": 3
 }
