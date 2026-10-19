@@ -1,35 +1,5 @@
 {
   "courses": {
-    "ADV 150": [
-      "Introduction to Advertising",
-      {
-        "A": [
-          "10104",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Hall, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Introduction to the practice and profession of advertising. Course material covers various functional areas of advertising and integrated brand promotion, including account planning, creative, media, research, consumer behavior, sales promotion and interactive advertising. Topics also include how advertising relates to society in cultural, social, ethical and regulatory contexts. Open to all undergraduate majors.",
-      []
-    ],
     "ADV 175": [
       "Introduction to Multicultural Advertising",
       {
@@ -58,6 +28,36 @@
       },
       [],
       "Examines the multifaceted role diversity (including racial, gender, orientation, ability status) plays in the delivery and reception of advertising. Additionally, it examines the development of diversity as a marketplace practice and on the development of the advertising industry. We'll analyze advertising using a historical, cultural, and social perspective and address issues of diversity in the industry. We will also critically review current issues of multicultural, transcultural and multidimensional advertising and marketing. In the process we’ll grapple with current theories on race and implicit /explicit bias and prejudice and their impact upon the production of advertising and consumer communications.",
+      []
+    ],
+    "ADV 150": [
+      "Introduction to Advertising",
+      {
+        "A": [
+          "10104",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Hall, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to the practice and profession of advertising. Course material covers various functional areas of advertising and integrated brand promotion, including account planning, creative, media, research, consumer behavior, sales promotion and interactive advertising. Topics also include how advertising relates to society in cultural, social, ethical and regulatory contexts. Open to all undergraduate majors.",
       []
     ],
     "AFAS 120": [
@@ -90,36 +90,6 @@
       "Same as MILS 120 and NS 120. See MILS 120.",
       []
     ],
-    "ANTH 246": [
-      "Forensic Science",
-      {
-        "ONL": [
-          "10143",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Unassigned Instructor"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "History and theory underlying methods used in forensic science. Topics include the courtroom, the units of a crime laboratory, methods of securing and investigating a crime scene, and the analysis of evidence collected from a crime scene such as blood, fibers, hair, DNA, and fingerprints.",
-      []
-    ],
     "ANTH 103": [
       "Anthro in a Changing World",
       {
@@ -150,11 +120,11 @@
       "[IAI Code: S1901N] Presents the fundamental areas of anthropological analysis through a series of comparative cases that emphasize social and cultural relations in global contexts. Directs attention to the anthropological history of global empires and colonial states, their cultural exchanges, and contemporary studies of culture, society, and globalization.",
       []
     ],
-    "ASTR 100": [
-      "Introduction to Astronomy",
+    "ANTH 246": [
+      "Forensic Science",
       {
         "ONL": [
-          "10005",
+          "10143",
           [
             [
               0,
@@ -162,14 +132,14 @@
               "ONLINE",
               0,
               [
-                "Dunne, B"
+                "Unassigned Instructor"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          3,
+          4,
           0,
           0,
           [],
@@ -177,7 +147,7 @@
         ]
       },
       [],
-      "[IAI Code: P1906] Introduces the student to the basic concepts of modern astronomy. Covers topics including the night sky; the solar system and its origin; the nature and evolution of stars; stellar remnants, including white dwarfs, neutron stars, and black holes; extrasolar planetary systems; galaxies and quasars; dark matter and dark energy; the Big Bang and the fate of the universe; and life in the universe.",
+      "History and theory underlying methods used in forensic science. Topics include the courtroom, the units of a crime laboratory, methods of securing and investigating a crime scene, and the analysis of evidence collected from a crime scene such as blood, fibers, hair, DNA, and fingerprints.",
       []
     ],
     "ASTR 330": [
@@ -208,6 +178,36 @@
       },
       [],
       "Scientific discussion of the search for extraterrestrial life. Topics include: cosmic evolution (protons to heavy elements to molecules); terrestrial evolution (chemical, biological, and cultural); high technology searches for extraterrestrial life in the solar system (Mars, Venus, outer planets); and beyond the solar system (Drake equation and current SETI projects).",
+      []
+    ],
+    "ASTR 100": [
+      "Introduction to Astronomy",
+      {
+        "ONL": [
+          "10005",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Dunne, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "[IAI Code: P1906] Introduces the student to the basic concepts of modern astronomy. Covers topics including the night sky; the solar system and its origin; the nature and evolution of stars; stellar remnants, including white dwarfs, neutron stars, and black holes; extrasolar planetary systems; galaxies and quasars; dark matter and dark energy; the Big Bang and the fate of the universe; and life in the universe.",
       []
     ],
     "ATMS 120": [
@@ -390,6 +390,36 @@
       "Introduces the field of international business and management. Examines the economic, political, and legal environments of international business. Analyzes differences in financial management, marketing, and management practices for firms doing business abroad.",
       []
     ],
+    "CLCV 102": [
+      "Medical Terms-GRK & LAT Roots",
+      {
+        "A": [
+          "10071",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Fenton, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to the study of Greek and Latin medical terms in various medical fields and to the linguistic patterns governing the combination of various roots through practical application of usage.",
+      []
+    ],
     "CLCV 115": [
       "Mythology of Greece and Rome",
       {
@@ -448,36 +478,6 @@
       },
       [],
       "Introductory study of ancient Greek literature, art, and culture.",
-      []
-    ],
-    "CLCV 102": [
-      "Medical Terms-GRK & LAT Roots",
-      {
-        "A": [
-          "10071",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Fenton, V"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Introduction to the study of Greek and Latin medical terms in various medical fields and to the linguistic patterns governing the combination of various roots through practical application of usage.",
       []
     ],
     "CLCV 231": [
@@ -690,36 +690,6 @@
       "Same as GEOL 118 and GLBL 118. See GEOL 118.",
       []
     ],
-    "ESE 120": [
-      "Severe and Hazardous Weather",
-      {
-        "ONL": [
-          "10038",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Choate, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as ATMS 120. See ATMS 120.",
-      []
-    ],
     "ESE 117": [
       "The Oceans",
       {
@@ -748,6 +718,36 @@
       },
       [],
       "Same as GEOL 117. See GEOL 117.",
+      []
+    ],
+    "ESE 120": [
+      "Severe and Hazardous Weather",
+      {
+        "ONL": [
+          "10038",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Choate, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as ATMS 120. See ATMS 120.",
       []
     ],
     "ESE 360": [
@@ -780,36 +780,6 @@
       "Equips students to write about the environment for various audiences, with a focus on specific current efforts to promote sustainability on the Urbana-Champaign campus. We will practice effective techniques for each stage of the writing process-from defining topics, to gathering information, to crafting active, engaging prose. Readings will include models of effective environmental writing and \"how to\" pieces by experts. Research will include visits to campus sites and student-conducted interviews with subjects.",
       []
     ],
-    "GEOL 118": [
-      "Natural Disasters",
-      {
-        "A": [
-          "10007",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Austin, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Introduces the nature, causes, risks, effects, and prediction of natural disasters including earthquakes, volcanoes, landslides, subsidence, global climate change, severe weather, coastal erosion, floods, mass extinctions, and meteorite impacts; covers scientific principles and case histories of natural disasters as well as human responses (societal impact, mitigation strategies, and public policy).",
-      []
-    ],
     "GEOL 117": [
       "The Oceans",
       {
@@ -840,11 +810,11 @@
       "Integrated introduction to oceanography and marine geology and geophysics. Topics include ocean-basin formation and evolution (in the context of plate tectonics), ocean ecology, the hydrologic cycle, water chemistry, currents and waves, the interaction of oceans with climate, coastal hazards, resources, pollution, and the Law of the Sea. Course is oriented toward students not majoring in science.",
       []
     ],
-    "GLBL 100": [
-      "Intro to Global Studies",
+    "GEOL 118": [
+      "Natural Disasters",
       {
-        "CF": [
-          "10054",
+        "A": [
+          "10007",
           [
             [
               0,
@@ -852,7 +822,7 @@
               "ONLINE",
               0,
               [
-                "Schrag, D"
+                "Austin, S"
               ],
               -1,
               -1,
@@ -867,7 +837,7 @@
         ]
       },
       [],
-      "Foundation course for understanding a range of contemporary issues and learning to analyze them from multiple disciplinary perspectives. Students consider globalizing trends within themes of wealth and poverty; population, cultures, and human rights; environment and sustainability; and governance, conflict, and cooperation. Course objectives are to enhance knowledge of human cultures, their interactions and impacts on the world; develop skills for successfully negotiating realities of contemporary societies; and promote values for global learning, diversity, and sustainable futures.",
+      "Introduces the nature, causes, risks, effects, and prediction of natural disasters including earthquakes, volcanoes, landslides, subsidence, global climate change, severe weather, coastal erosion, floods, mass extinctions, and meteorite impacts; covers scientific principles and case histories of natural disasters as well as human responses (societal impact, mitigation strategies, and public policy).",
       []
     ],
     "GLBL 118": [
@@ -898,6 +868,36 @@
       },
       [],
       "Same as ESE 118 and GEOL 118. See GEOL 118.",
+      []
+    ],
+    "GLBL 100": [
+      "Intro to Global Studies",
+      {
+        "CF": [
+          "10054",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Schrag, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Foundation course for understanding a range of contemporary issues and learning to analyze them from multiple disciplinary perspectives. Students consider globalizing trends within themes of wealth and poverty; population, cultures, and human rights; environment and sustainability; and governance, conflict, and cooperation. Course objectives are to enhance knowledge of human cultures, their interactions and impacts on the world; develop skills for successfully negotiating realities of contemporary societies; and promote values for global learning, diversity, and sustainable futures.",
       []
     ],
     "GLBL 200": [
@@ -1042,36 +1042,6 @@
       "What is black music, and how do we know what we think we know about it? Together, we will examine musical creations pioneered by Africans and individuals of African descent over several centuries and across hemispheres. Doing so will allow us to consider the unity of the African Diaspora and its music, and also examine internal differences and diversity. Special focus is given to Latin America and the U.S., but, depending on the semester, we will also read about, listen to, and talk about music and musicians in Asia, Africa, and Europe.",
       []
     ],
-    "HK 302": [
-      "Disability in American Society",
-      {
-        "ONL": [
-          "10138",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Rice, L"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Acquaints students with the medical, psychosocial, vocational, political, and cultural aspects of disability in America. Development and implementation of disability policy by governmental agencies in this country will be examined, and the role of activism and advocacy in securing civil rights for persons with a disability will be explored. Various philosophical and theoretical models for understanding the disability experience will be offered, and course content will include the key historical events that shaped the present conditions of persons with disabilities. Lastly, students will be introduced to an array of service modalities used to address health and adjustment needs of persons with disabilities.",
-      []
-    ],
     "HK 271": [
       "Health Equity in the United States",
       {
@@ -1102,11 +1072,11 @@
       "Introduces students to the field of health equity in the United States, including the existence and magnitude of health disparities related to historically underrepresented groups of diverse racial/ethnic backgrounds, immigrant and rural populations, gender, age, veteran status, and ability level. The course will examine relevant issues, frameworks, theories, and solutions.",
       []
     ],
-    "IS 390": [
-      "Special Topics in Information Studies",
+    "HK 302": [
+      "Disability in American Society",
       {
-        "IIP": [
-          "10113",
+        "ONL": [
+          "10138",
           [
             [
               0,
@@ -1114,7 +1084,7 @@
               "ONLINE",
               0,
               [
-                "Benson, S"
+                "Rice, L"
               ],
               -1,
               -1,
@@ -1129,7 +1099,37 @@
         ]
       },
       [],
-      "Directed and supervised investigation of selected topics in information studies that may include among others computers and culture; information policy; community information systems; production, retrieval and evaluation of scientific or social science knowledge; computer-mediated communication; and computer-supported cooperative work.",
+      "Acquaints students with the medical, psychosocial, vocational, political, and cultural aspects of disability in America. Development and implementation of disability policy by governmental agencies in this country will be examined, and the role of activism and advocacy in securing civil rights for persons with a disability will be explored. Various philosophical and theoretical models for understanding the disability experience will be offered, and course content will include the key historical events that shaped the present conditions of persons with disabilities. Lastly, students will be introduced to an array of service modalities used to address health and adjustment needs of persons with disabilities.",
+      []
+    ],
+    "IS 229": [
+      "Web Design Fundamentals",
+      {
+        "OAU": [
+          "10132",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "MacMullen, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "In this course students will learn the principles and methodologies of modern Web design and development, while also becoming familiar with the history of the Web. Students will develop useful practical skills through hands-on engagement with open-source tools, platforms, and resources, while also acquiring a critical understanding of current challenges around such topics as web-standards, security, and accessibility. Students will also become familiar with philosophical models and practical frameworks for creating human-centered systems and will apply such constructively critical understandings in their own web design projects.",
       []
     ],
     "IS 199": [
@@ -1162,11 +1162,11 @@
       "Additional fees may apply. See Class Schedule. May be repeated.",
       []
     ],
-    "IS 229": [
-      "Web Design Fundamentals",
+    "IS 390": [
+      "Special Topics in Information Studies",
       {
-        "OAU": [
-          "10132",
+        "IIP": [
+          "10113",
           [
             [
               0,
@@ -1174,7 +1174,7 @@
               "ONLINE",
               0,
               [
-                "MacMullen, T"
+                "Benson, S"
               ],
               -1,
               -1,
@@ -1189,7 +1189,7 @@
         ]
       },
       [],
-      "In this course students will learn the principles and methodologies of modern Web design and development, while also becoming familiar with the history of the Web. Students will develop useful practical skills through hands-on engagement with open-source tools, platforms, and resources, while also acquiring a critical understanding of current challenges around such topics as web-standards, security, and accessibility. Students will also become familiar with philosophical models and practical frameworks for creating human-centered systems and will apply such constructively critical understandings in their own web design projects.",
+      "Directed and supervised investigation of selected topics in information studies that may include among others computers and culture; information policy; community information systems; production, retrieval and evaluation of scientific or social science knowledge; computer-mediated communication; and computer-supported cooperative work.",
       []
     ],
     "IS 445": [
@@ -1312,36 +1312,6 @@
       "Interdisciplinary introduction to the ways of life of Latin American peoples, their origins and current expressions; discusses social, economic issues, and domestic and international policies related to them in the context of other societies in developing countries.",
       []
     ],
-    "MACS 380": [
-      "21st Century Documentaries",
-      {
-        "A": [
-          "10158",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Aguayo, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Documentary has exploded in the past decade, with more being created, screened and watched than at any time in history. But what has this growth meant to documentary, and how has it impacted what we see on screen and how documentary stories are being told? We will examine the changes and trends taking place in film and television documentaries over the past decade. We will watch and analyze a variety of contemporary documentaries, examining some of the different stylistic, production, and story-telling methods that have developed over this time. If you enjoy watching documentaries and want to learn more about them, you will find this an enjoyable and thought-provoking course.",
-      []
-    ],
     "MACS 356": [
       "Sex & Gender in Popular Media",
       {
@@ -1372,11 +1342,11 @@
       "Examines the notion that the mass media influence our development as gendered individuals, looking at those who argue for and against this notion. Considers different forms of feminist theory applied to the study of mass media, the history and scholarly criticisms of the media and their portrayal of women, and feminist attempts to create alternatives to mainstream media images. Throughout, the course considers representation of minorities in the dominant media and examines newly created alternative representations.",
       []
     ],
-    "MUS 133": [
-      "Introduction to World Music",
+    "MACS 380": [
+      "21st Century Documentaries",
       {
         "A": [
-          "10097",
+          "10158",
           [
             [
               0,
@@ -1384,8 +1354,7 @@
               "ONLINE",
               0,
               [
-                "Miller, M",
-                "Smith, J"
+                "Aguayo, A"
               ],
               -1,
               -1,
@@ -1400,7 +1369,7 @@
         ]
       },
       [],
-      "[IAI Code: F1903N] A survey of various musical traditions from different regions and peoples of the world.",
+      "Documentary has exploded in the past decade, with more being created, screened and watched than at any time in history. But what has this growth meant to documentary, and how has it impacted what we see on screen and how documentary stories are being told? We will examine the changes and trends taking place in film and television documentaries over the past decade. We will watch and analyze a variety of contemporary documentaries, examining some of the different stylistic, production, and story-telling methods that have developed over this time. If you enjoy watching documentaries and want to learn more about them, you will find this an enjoyable and thought-provoking course.",
       []
     ],
     "MUS 132": [
@@ -1432,6 +1401,37 @@
       },
       [],
       "Courses within this rubric provide an analytical and historical introduction to genres of popular music from the United States and around the world. Iterations of the course may focus on a specific genre, such as Rock, Reggae, or Afropop, or may deal with broader subjects, such as the continua of styles including R&B, Soul, Funk, and Hip Hop, or the pan-generic, international phenomenon of pop music globalization in the twentieth century.",
+      []
+    ],
+    "MUS 133": [
+      "Introduction to World Music",
+      {
+        "A": [
+          "10097",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Miller, M",
+                "Smith, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "[IAI Code: F1903N] A survey of various musical traditions from different regions and peoples of the world.",
       []
     ],
     "NS 120": [
@@ -1524,36 +1524,6 @@
       "[IAI Code: S5906N] Provides comparative and historical insights into the problems affecting the developing world by examining social, economic and political changes in Africa, Asia, and Latin America.",
       []
     ],
-    "PSYC 100": [
-      "Intro Psych",
-      {
-        "A": [
-          "10034",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Shenouda, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "[IAI Code: S6900] Study of human behavior with special reference to perception, learning, memory, thinking, emotional life, and individual differences in intelligence, aptitude, and personality; emphasis on the scientific nature of psychological investigations; and discussion of research methods and the relation of their results to daily life and everyday problems. Lectures, discussions, and six hours of participation as a subject in psychological experiments.",
-      []
-    ],
     "PSYC 216": [
       "Child Psych",
       {
@@ -1582,6 +1552,36 @@
       },
       [],
       "[IAI Code: S6903] Study of the psychological development of the child.",
+      []
+    ],
+    "PSYC 100": [
+      "Intro Psych",
+      {
+        "A": [
+          "10034",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Shenouda, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "[IAI Code: S6900] Study of human behavior with special reference to perception, learning, memory, thinking, emotional life, and individual differences in intelligence, aptitude, and personality; emphasis on the scientific nature of psychological investigations; and discussion of research methods and the relation of their results to daily life and everyday problems. Lectures, discussions, and six hours of participation as a subject in psychological experiments.",
       []
     ],
     "PSYC 204": [
@@ -1728,6 +1728,6 @@
     "finalDates": [],
     "finalTimes": []
   },
-  "updatedAt": "2026-10-12T05:41:32.609Z",
+  "updatedAt": "2026-10-19T03:46:43.162Z",
   "version": 3
 }
