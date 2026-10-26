@@ -90,36 +90,6 @@
       "Same as MILS 120 and NS 120. See MILS 120.",
       []
     ],
-    "ANTH 103": [
-      "Anthro in a Changing World",
-      {
-        "ONL": [
-          "10141",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Unassigned Instructor"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "[IAI Code: S1901N] Presents the fundamental areas of anthropological analysis through a series of comparative cases that emphasize social and cultural relations in global contexts. Directs attention to the anthropological history of global empires and colonial states, their cultural exchanges, and contemporary studies of culture, society, and globalization.",
-      []
-    ],
     "ANTH 246": [
       "Forensic Science",
       {
@@ -148,6 +118,36 @@
       },
       [],
       "History and theory underlying methods used in forensic science. Topics include the courtroom, the units of a crime laboratory, methods of securing and investigating a crime scene, and the analysis of evidence collected from a crime scene such as blood, fibers, hair, DNA, and fingerprints.",
+      []
+    ],
+    "ANTH 103": [
+      "Anthro in a Changing World",
+      {
+        "ONL": [
+          "10141",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "[IAI Code: S1901N] Presents the fundamental areas of anthropological analysis through a series of comparative cases that emphasize social and cultural relations in global contexts. Directs attention to the anthropological history of global empires and colonial states, their cultural exchanges, and contemporary studies of culture, society, and globalization.",
       []
     ],
     "ASTR 330": [
@@ -240,36 +240,6 @@
       "Most extreme manifestations of weather and climate are analyzed in terms of their physical basis and their historical, economic and human consequences. Emphasis is placed on the interplay between technological advances, the evolution of meteorology as a science, and the impacts of extreme weather (winter storms, floods, severe thunderstorms, hurricanes, El Nino). Technological advances include satellites, weather radars and profilers, and computer models used for weather prediction.",
       []
     ],
-    "BADM 310": [
-      "Mgmt and Organizational Beh",
-      {
-        "OL": [
-          "10014",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Ji, M"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "General analysis of management and organizational behavior from a systems point of view, including classical organizational theory and management, organizational behavior, and management science; environmental forces; planning, organizing, and control processes; motivation, incentives, leadership, communication, and interpersonal relations; and discussion of production and decision-making and mathematical models.",
-      []
-    ],
     "BADM 300": [
       "The Legal Environment of Bus",
       {
@@ -330,11 +300,11 @@
       "Operations and Supply Chain Management is about sourcing, producing, and delivering goods and services that meet and exceed customer expectations. In this course, students will be introduced to decision-making frameworks and techniques for effectively and efficiently managing processes through coordinated efforts across different organizations in a supply chain and across multiple areas within an organization, such as: consumer analytics, research and development, finance, engineering, marketing, human resource management, sourcing, information systems, logistics, and accounting.",
       []
     ],
-    "BADM 380": [
-      "International Business",
+    "BADM 310": [
+      "Mgmt and Organizational Beh",
       {
         "OL": [
-          "10017",
+          "10014",
           [
             [
               0,
@@ -342,7 +312,7 @@
               "ONLINE",
               0,
               [
-                "Bucheli, M"
+                "Ji, M"
               ],
               -1,
               -1,
@@ -357,7 +327,7 @@
         ]
       },
       [],
-      "Introduces the field of international business and management. Examines the economic, political, and legal environments of international business. Analyzes differences in financial management, marketing, and management practices for firms doing business abroad.",
+      "General analysis of management and organizational behavior from a systems point of view, including classical organizational theory and management, organizational behavior, and management science; environmental forces; planning, organizing, and control processes; motivation, incentives, leadership, communication, and interpersonal relations; and discussion of production and decision-making and mathematical models.",
       []
     ],
     "BADM 320": [
@@ -388,6 +358,66 @@
       },
       [],
       "Emphasizes the concepts of planning, organization, control, and decision making as they are applied in the management of the marketing function. Provides an overview of aspects of the marketing discipline.",
+      []
+    ],
+    "BADM 380": [
+      "International Business",
+      {
+        "OL": [
+          "10017",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Bucheli, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduces the field of international business and management. Examines the economic, political, and legal environments of international business. Analyzes differences in financial management, marketing, and management practices for firms doing business abroad.",
+      []
+    ],
+    "CLCV 102": [
+      "Medical Terms-GRK & LAT Roots",
+      {
+        "A": [
+          "10071",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Fenton, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to the study of Greek and Latin medical terms in various medical fields and to the linguistic patterns governing the combination of various roots through practical application of usage.",
       []
     ],
     "CLCV 114": [
@@ -448,36 +478,6 @@
       },
       [],
       "Studies the major myths of Greece and Rome and their impact upon later art, music, and literature. Shares two hours of lecture with CLCV 111; additional hour of lecture-discussion for a closer analysis of topics.",
-      []
-    ],
-    "CLCV 102": [
-      "Medical Terms-GRK & LAT Roots",
-      {
-        "A": [
-          "10071",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Fenton, V"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Introduction to the study of Greek and Latin medical terms in various medical fields and to the linguistic patterns governing the combination of various roots through practical application of usage.",
       []
     ],
     "CLCV 231": [
@@ -780,36 +780,6 @@
       "Equips students to write about the environment for various audiences, with a focus on specific current efforts to promote sustainability on the Urbana-Champaign campus. We will practice effective techniques for each stage of the writing process-from defining topics, to gathering information, to crafting active, engaging prose. Readings will include models of effective environmental writing and \"how to\" pieces by experts. Research will include visits to campus sites and student-conducted interviews with subjects.",
       []
     ],
-    "GEOL 117": [
-      "The Oceans",
-      {
-        "A": [
-          "10049",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Pettijohn, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Integrated introduction to oceanography and marine geology and geophysics. Topics include ocean-basin formation and evolution (in the context of plate tectonics), ocean ecology, the hydrologic cycle, water chemistry, currents and waves, the interaction of oceans with climate, coastal hazards, resources, pollution, and the Law of the Sea. Course is oriented toward students not majoring in science.",
-      []
-    ],
     "GEOL 118": [
       "Natural Disasters",
       {
@@ -838,6 +808,36 @@
       },
       [],
       "Introduces the nature, causes, risks, effects, and prediction of natural disasters including earthquakes, volcanoes, landslides, subsidence, global climate change, severe weather, coastal erosion, floods, mass extinctions, and meteorite impacts; covers scientific principles and case histories of natural disasters as well as human responses (societal impact, mitigation strategies, and public policy).",
+      []
+    ],
+    "GEOL 117": [
+      "The Oceans",
+      {
+        "A": [
+          "10049",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Pettijohn, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Integrated introduction to oceanography and marine geology and geophysics. Topics include ocean-basin formation and evolution (in the context of plate tectonics), ocean ecology, the hydrologic cycle, water chemistry, currents and waves, the interaction of oceans with climate, coastal hazards, resources, pollution, and the Law of the Sea. Course is oriented toward students not majoring in science.",
       []
     ],
     "GLBL 118": [
@@ -870,36 +870,6 @@
       "Same as ESE 118 and GEOL 118. See GEOL 118.",
       []
     ],
-    "GLBL 100": [
-      "Intro to Global Studies",
-      {
-        "CF": [
-          "10054",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Schrag, D"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Foundation course for understanding a range of contemporary issues and learning to analyze them from multiple disciplinary perspectives. Students consider globalizing trends within themes of wealth and poverty; population, cultures, and human rights; environment and sustainability; and governance, conflict, and cooperation. Course objectives are to enhance knowledge of human cultures, their interactions and impacts on the world; develop skills for successfully negotiating realities of contemporary societies; and promote values for global learning, diversity, and sustainable futures.",
-      []
-    ],
     "GLBL 200": [
       "Foundations of Research",
       {
@@ -928,6 +898,36 @@
       },
       [],
       "Introduction to the foundations of interdisciplinary social science research. Topic include understanding the purpose for research, identifying researchable issues, finding evaluating and using sources effectively, recognizing methods associated with different types of data and disciplines, and writing a literature review. Prepares students for course-based research papers and advanced research methods courses. Guest faculty present their Global Studies-relevant research as students (b)log their own research interests.",
+      []
+    ],
+    "GLBL 100": [
+      "Intro to Global Studies",
+      {
+        "CF": [
+          "10054",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Schrag, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Foundation course for understanding a range of contemporary issues and learning to analyze them from multiple disciplinary perspectives. Students consider globalizing trends within themes of wealth and poverty; population, cultures, and human rights; environment and sustainability; and governance, conflict, and cooperation. Course objectives are to enhance knowledge of human cultures, their interactions and impacts on the world; develop skills for successfully negotiating realities of contemporary societies; and promote values for global learning, diversity, and sustainable futures.",
       []
     ],
     "GWS 356": [
@@ -960,11 +960,11 @@
       "Same as MACS 356. See MACS 356.",
       []
     ],
-    "HIST 104": [
-      "Black Music",
+    "HIST 100": [
+      "Global History",
       {
         "A": [
-          "10145",
+          "10144",
           [
             [
               0,
@@ -987,7 +987,7 @@
         ]
       },
       [],
-      "What is black music, and how do we know what we think we know about it? Together, we will examine musical creations pioneered by Africans and individuals of African descent over several centuries and across hemispheres. Doing so will allow us to consider the unity of the African Diaspora and its music, and also examine internal differences and diversity. Special focus is given to Latin America and the U.S., but, depending on the semester, we will also read about, listen to, and talk about music and musicians in Asia, Africa, and Europe.",
+      "Broad introduction to global history, by exploring the global structures and transnational forces that have shaped human history, from the emergence of agriculture and urban centers to our contemporary global village.",
       []
     ],
     "HIST 262": [
@@ -1020,11 +1020,11 @@
       "Examines the history of the Zionist movement. The course is designed for students with no prior knowledge of Jewish, European, or Middle Eastern history. The goal is to survey how Zionism emerged as a widespread political movement and, in the process, helped create an independent state for the Jewish people. In addition to familiarizing students with the backstory of a globally significant movement, this class will teach students historical interpretation skills.",
       []
     ],
-    "HIST 100": [
-      "Global History",
+    "HIST 104": [
+      "Black Music",
       {
         "A": [
-          "10144",
+          "10145",
           [
             [
               0,
@@ -1047,7 +1047,7 @@
         ]
       },
       [],
-      "Broad introduction to global history, by exploring the global structures and transnational forces that have shaped human history, from the emergence of agriculture and urban centers to our contemporary global village.",
+      "What is black music, and how do we know what we think we know about it? Together, we will examine musical creations pioneered by Africans and individuals of African descent over several centuries and across hemispheres. Doing so will allow us to consider the unity of the African Diaspora and its music, and also examine internal differences and diversity. Special focus is given to Latin America and the U.S., but, depending on the semester, we will also read about, listen to, and talk about music and musicians in Asia, Africa, and Europe.",
       []
     ],
     "HK 271": [
@@ -1140,36 +1140,6 @@
       "In this course students will learn the principles and methodologies of modern Web design and development, while also becoming familiar with the history of the Web. Students will develop useful practical skills through hands-on engagement with open-source tools, platforms, and resources, while also acquiring a critical understanding of current challenges around such topics as web-standards, security, and accessibility. Students will also become familiar with philosophical models and practical frameworks for creating human-centered systems and will apply such constructively critical understandings in their own web design projects.",
       []
     ],
-    "IS 390": [
-      "Special Topics in Information Studies",
-      {
-        "IIP": [
-          "10113",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Benson, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Directed and supervised investigation of selected topics in information studies that may include among others computers and culture; information policy; community information systems; production, retrieval and evaluation of scientific or social science knowledge; computer-mediated communication; and computer-supported cooperative work.",
-      []
-    ],
     "IS 199": [
       "Undergraduate Open Seminar",
       {
@@ -1198,6 +1168,36 @@
       },
       [],
       "Additional fees may apply. See Class Schedule. May be repeated.",
+      []
+    ],
+    "IS 390": [
+      "Special Topics in Information Studies",
+      {
+        "IIP": [
+          "10113",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Benson, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Directed and supervised investigation of selected topics in information studies that may include among others computers and culture; information policy; community information systems; production, retrieval and evaluation of scientific or social science knowledge; computer-mediated communication; and computer-supported cooperative work.",
       []
     ],
     "IS 445": [
@@ -1562,36 +1562,6 @@
       "[IAI Code: S5906N] Provides comparative and historical insights into the problems affecting the developing world by examining social, economic and political changes in Africa, Asia, and Latin America.",
       []
     ],
-    "PSYC 216": [
-      "Child Psych",
-      {
-        "A": [
-          "10099",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Hyde, D"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          2,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "[IAI Code: S6903] Study of the psychological development of the child.",
-      []
-    ],
     "PSYC 204": [
       "Intro to Brain and Cognition",
       {
@@ -1620,6 +1590,36 @@
       },
       [],
       "Introduction to the interdisciplinary field of cognitive neuroscience, which is concerned with how the cognitive systems supporting a broad range of capacities including memory, attention, and social and emotional processing, arise from the functioning of specific brain modules and brain mechanisms. Emphasizes how functional brain imaging and other cognitive neuroscience methods can be brought to bear on answering these questions.",
+      []
+    ],
+    "PSYC 216": [
+      "Child Psych",
+      {
+        "A": [
+          "10099",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Hyde, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "[IAI Code: S6903] Study of the psychological development of the child.",
       []
     ],
     "PSYC 100": [
@@ -1742,36 +1742,6 @@
       "[IAI Code: S7900] Sociology offers a unique lens through which we can examine the world around us. In this course you will develop a perspective that will allow you to analyze the social world in a way that reveals the hidden and/or overlooked social forces that shape our lives. This approach, the sociological imagination, will enable you to explore how social forces influence the ways we view and navigate our social world. We will discuss how sociologists use theory and research to better understand important social issues such as inequalities of race, class, gender, sexualities and how social order and social change are possible. We will discuss how society affects individuals and in turn how individuals can affect society.",
       []
     ],
-    "SPAN 205": [
-      "Spanish in the Professions",
-      {
-        "10161": [
-          "10161",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Dutton, M"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Introduction to Spanish in business, law, medical, education & social service fields, with a focus on the importance of bilingualism in the U.S., strategies for lifelong learning, and cultural considerations. The development of functional use of Spanish within the professional context is the major focus of the course. This is considered a fourth level course for the purposes of fulfilling the Language Other Than English (LOTE) requirement. Instruction in Spanish.",
-      []
-    ],
     "SPAN 201": [
       "Intermediate Spanish",
       {
@@ -1823,6 +1793,36 @@
       [],
       "Continued development of reading, writing and conversational skills. This is considered a third level course for the purposes of fulfilling the Language Other Than English (LOTE) requirement. Instruction in Spanish.",
       []
+    ],
+    "SPAN 205": [
+      "Spanish in the Professions",
+      {
+        "10161": [
+          "10161",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Dutton, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to Spanish in business, law, medical, education & social service fields, with a focus on the importance of bilingualism in the U.S., strategies for lifelong learning, and cultural considerations. The development of functional use of Spanish within the professional context is the major focus of the course. This is considered a fourth level course for the purposes of fulfilling the Language Other Than English (LOTE) requirement. Instruction in Spanish.",
+      []
     ]
   },
   "caches": {
@@ -1848,6 +1848,6 @@
     "finalDates": [],
     "finalTimes": []
   },
-  "updatedAt": "2026-10-26T04:03:05.862Z",
+  "updatedAt": "2026-10-26T04:04:09.070Z",
   "version": 3
 }
