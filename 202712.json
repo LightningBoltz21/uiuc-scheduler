@@ -90,36 +90,6 @@
       "Same as MILS 120 and NS 120. See MILS 120.",
       []
     ],
-    "ANTH 103": [
-      "Anthro in a Changing World",
-      {
-        "ONL": [
-          "10141",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Unassigned Instructor"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "[IAI Code: S1901N] Presents the fundamental areas of anthropological analysis through a series of comparative cases that emphasize social and cultural relations in global contexts. Directs attention to the anthropological history of global empires and colonial states, their cultural exchanges, and contemporary studies of culture, society, and globalization.",
-      []
-    ],
     "ANTH 246": [
       "Forensic Science",
       {
@@ -148,6 +118,36 @@
       },
       [],
       "History and theory underlying methods used in forensic science. Topics include the courtroom, the units of a crime laboratory, methods of securing and investigating a crime scene, and the analysis of evidence collected from a crime scene such as blood, fibers, hair, DNA, and fingerprints.",
+      []
+    ],
+    "ANTH 103": [
+      "Anthro in a Changing World",
+      {
+        "ONL": [
+          "10141",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "[IAI Code: S1901N] Presents the fundamental areas of anthropological analysis through a series of comparative cases that emphasize social and cultural relations in global contexts. Directs attention to the anthropological history of global empires and colonial states, their cultural exchanges, and contemporary studies of culture, society, and globalization.",
       []
     ],
     "ASTR 330": [
@@ -270,36 +270,6 @@
       "Introduction to law and the legal system, litigation, contracts, business organizations, intellectual property, employment law and governmental regulation of business.",
       []
     ],
-    "BADM 310": [
-      "Mgmt and Organizational Beh",
-      {
-        "OL": [
-          "10014",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Ji, M"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "General analysis of management and organizational behavior from a systems point of view, including classical organizational theory and management, organizational behavior, and management science; environmental forces; planning, organizing, and control processes; motivation, incentives, leadership, communication, and interpersonal relations; and discussion of production and decision-making and mathematical models.",
-      []
-    ],
     "BADM 275": [
       "Introduction to Operations and Supply Chain Management",
       {
@@ -330,11 +300,11 @@
       "Operations and Supply Chain Management is about sourcing, producing, and delivering goods and services that meet and exceed customer expectations. In this course, students will be introduced to decision-making frameworks and techniques for effectively and efficiently managing processes through coordinated efforts across different organizations in a supply chain and across multiple areas within an organization, such as: consumer analytics, research and development, finance, engineering, marketing, human resource management, sourcing, information systems, logistics, and accounting.",
       []
     ],
-    "BADM 320": [
-      "Principles of Marketing",
+    "BADM 310": [
+      "Mgmt and Organizational Beh",
       {
         "OL": [
-          "10056",
+          "10014",
           [
             [
               0,
@@ -342,7 +312,7 @@
               "ONLINE",
               0,
               [
-                "Liu, Y"
+                "Ji, M"
               ],
               -1,
               -1,
@@ -357,7 +327,7 @@
         ]
       },
       [],
-      "Emphasizes the concepts of planning, organization, control, and decision making as they are applied in the management of the marketing function. Provides an overview of aspects of the marketing discipline.",
+      "General analysis of management and organizational behavior from a systems point of view, including classical organizational theory and management, organizational behavior, and management science; environmental forces; planning, organizing, and control processes; motivation, incentives, leadership, communication, and interpersonal relations; and discussion of production and decision-making and mathematical models.",
       []
     ],
     "BADM 380": [
@@ -390,6 +360,36 @@
       "Introduces the field of international business and management. Examines the economic, political, and legal environments of international business. Analyzes differences in financial management, marketing, and management practices for firms doing business abroad.",
       []
     ],
+    "BADM 320": [
+      "Principles of Marketing",
+      {
+        "OL": [
+          "10056",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Liu, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Emphasizes the concepts of planning, organization, control, and decision making as they are applied in the management of the marketing function. Provides an overview of aspects of the marketing discipline.",
+      []
+    ],
     "CLCV 102": [
       "Medical Terms-GRK & LAT Roots",
       {
@@ -420,36 +420,6 @@
       "Introduction to the study of Greek and Latin medical terms in various medical fields and to the linguistic patterns governing the combination of various roots through practical application of usage.",
       []
     ],
-    "CLCV 114": [
-      "Introduction to Ancient Greek Culture",
-      {
-        "A": [
-          "10157",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Unassigned Instructor"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Introductory study of ancient Greek literature, art, and culture.",
-      []
-    ],
     "CLCV 115": [
       "Mythology of Greece and Rome",
       {
@@ -478,6 +448,36 @@
       },
       [],
       "Studies the major myths of Greece and Rome and their impact upon later art, music, and literature. Shares two hours of lecture with CLCV 111; additional hour of lecture-discussion for a closer analysis of topics.",
+      []
+    ],
+    "CLCV 114": [
+      "Introduction to Ancient Greek Culture",
+      {
+        "A": [
+          "10157",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introductory study of ancient Greek literature, art, and culture.",
       []
     ],
     "CLCV 231": [
@@ -660,6 +660,36 @@
       null,
       []
     ],
+    "ESE 120": [
+      "Severe and Hazardous Weather",
+      {
+        "ONL": [
+          "10038",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Choate, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as ATMS 120. See ATMS 120.",
+      []
+    ],
     "ESE 118": [
       "Natural Disasters",
       {
@@ -718,36 +748,6 @@
       },
       [],
       "Same as GEOL 117. See GEOL 117.",
-      []
-    ],
-    "ESE 120": [
-      "Severe and Hazardous Weather",
-      {
-        "ONL": [
-          "10038",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Choate, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as ATMS 120. See ATMS 120.",
       []
     ],
     "ESE 360": [
@@ -840,36 +840,6 @@
       "Integrated introduction to oceanography and marine geology and geophysics. Topics include ocean-basin formation and evolution (in the context of plate tectonics), ocean ecology, the hydrologic cycle, water chemistry, currents and waves, the interaction of oceans with climate, coastal hazards, resources, pollution, and the Law of the Sea. Course is oriented toward students not majoring in science.",
       []
     ],
-    "GLBL 118": [
-      "Natural Disasters",
-      {
-        "A": [
-          "10009",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Austin, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as ESE 118 and GEOL 118. See GEOL 118.",
-      []
-    ],
     "GLBL 200": [
       "Foundations of Research",
       {
@@ -898,6 +868,36 @@
       },
       [],
       "Introduction to the foundations of interdisciplinary social science research. Topic include understanding the purpose for research, identifying researchable issues, finding evaluating and using sources effectively, recognizing methods associated with different types of data and disciplines, and writing a literature review. Prepares students for course-based research papers and advanced research methods courses. Guest faculty present their Global Studies-relevant research as students (b)log their own research interests.",
+      []
+    ],
+    "GLBL 118": [
+      "Natural Disasters",
+      {
+        "A": [
+          "10009",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Austin, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as ESE 118 and GEOL 118. See GEOL 118.",
       []
     ],
     "GLBL 100": [
@@ -1110,6 +1110,36 @@
       "Introduces students to the field of health equity in the United States, including the existence and magnitude of health disparities related to historically underrepresented groups of diverse racial/ethnic backgrounds, immigrant and rural populations, gender, age, veteran status, and ability level. The course will examine relevant issues, frameworks, theories, and solutions.",
       []
     ],
+    "IS 199": [
+      "Undergraduate Open Seminar",
+      {
+        "ICL": [
+          "10101",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Wickes, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Additional fees may apply. See Class Schedule. May be repeated.",
+      []
+    ],
     "IS 390": [
       "Special Topics in Information Studies",
       {
@@ -1168,36 +1198,6 @@
       },
       [],
       "In this course students will learn the principles and methodologies of modern Web design and development, while also becoming familiar with the history of the Web. Students will develop useful practical skills through hands-on engagement with open-source tools, platforms, and resources, while also acquiring a critical understanding of current challenges around such topics as web-standards, security, and accessibility. Students will also become familiar with philosophical models and practical frameworks for creating human-centered systems and will apply such constructively critical understandings in their own web design projects.",
-      []
-    ],
-    "IS 199": [
-      "Undergraduate Open Seminar",
-      {
-        "ICL": [
-          "10101",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Wickes, E"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Additional fees may apply. See Class Schedule. May be repeated.",
       []
     ],
     "IS 445": [
@@ -1350,36 +1350,6 @@
       "Interdisciplinary introduction to the ways of life of Latin American peoples, their origins and current expressions; discusses social, economic issues, and domestic and international policies related to them in the context of other societies in developing countries.",
       []
     ],
-    "MACS 380": [
-      "21st Century Documentaries",
-      {
-        "A": [
-          "10158",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Aguayo, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Documentary has exploded in the past decade, with more being created, screened and watched than at any time in history. But what has this growth meant to documentary, and how has it impacted what we see on screen and how documentary stories are being told? We will examine the changes and trends taking place in film and television documentaries over the past decade. We will watch and analyze a variety of contemporary documentaries, examining some of the different stylistic, production, and story-telling methods that have developed over this time. If you enjoy watching documentaries and want to learn more about them, you will find this an enjoyable and thought-provoking course.",
-      []
-    ],
     "MACS 356": [
       "Sex & Gender in Popular Media",
       {
@@ -1408,6 +1378,36 @@
       },
       [],
       "Examines the notion that the mass media influence our development as gendered individuals, looking at those who argue for and against this notion. Considers different forms of feminist theory applied to the study of mass media, the history and scholarly criticisms of the media and their portrayal of women, and feminist attempts to create alternatives to mainstream media images. Throughout, the course considers representation of minorities in the dominant media and examines newly created alternative representations.",
+      []
+    ],
+    "MACS 380": [
+      "21st Century Documentaries",
+      {
+        "A": [
+          "10158",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Aguayo, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Documentary has exploded in the past decade, with more being created, screened and watched than at any time in history. But what has this growth meant to documentary, and how has it impacted what we see on screen and how documentary stories are being told? We will examine the changes and trends taking place in film and television documentaries over the past decade. We will watch and analyze a variety of contemporary documentaries, examining some of the different stylistic, production, and story-telling methods that have developed over this time. If you enjoy watching documentaries and want to learn more about them, you will find this an enjoyable and thought-provoking course.",
       []
     ],
     "MUS 133": [
@@ -1562,6 +1562,36 @@
       "[IAI Code: S5906N] Provides comparative and historical insights into the problems affecting the developing world by examining social, economic and political changes in Africa, Asia, and Latin America.",
       []
     ],
+    "PSYC 204": [
+      "Intro to Brain and Cognition",
+      {
+        "A": [
+          "10060",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Dolcos, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to the interdisciplinary field of cognitive neuroscience, which is concerned with how the cognitive systems supporting a broad range of capacities including memory, attention, and social and emotional processing, arise from the functioning of specific brain modules and brain mechanisms. Emphasizes how functional brain imaging and other cognitive neuroscience methods can be brought to bear on answering these questions.",
+      []
+    ],
     "PSYC 100": [
       "Intro Psych",
       {
@@ -1620,36 +1650,6 @@
       },
       [],
       "[IAI Code: S6903] Study of the psychological development of the child.",
-      []
-    ],
-    "PSYC 204": [
-      "Intro to Brain and Cognition",
-      {
-        "A": [
-          "10060",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Dolcos, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Introduction to the interdisciplinary field of cognitive neuroscience, which is concerned with how the cognitive systems supporting a broad range of capacities including memory, attention, and social and emotional processing, arise from the functioning of specific brain modules and brain mechanisms. Emphasizes how functional brain imaging and other cognitive neuroscience methods can be brought to bear on answering these questions.",
       []
     ],
     "PSYC 230": [
@@ -1848,6 +1848,6 @@
     "finalDates": [],
     "finalTimes": []
   },
-  "updatedAt": "2026-10-26T03:54:48.498Z",
+  "updatedAt": "2026-10-26T03:55:55.242Z",
   "version": 3
 }
