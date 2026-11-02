@@ -90,36 +90,6 @@
       "Same as MILS 120 and NS 120. See MILS 120.",
       []
     ],
-    "ANTH 246": [
-      "Forensic Science",
-      {
-        "ONL": [
-          "10143",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Unassigned Instructor"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "History and theory underlying methods used in forensic science. Topics include the courtroom, the units of a crime laboratory, methods of securing and investigating a crime scene, and the analysis of evidence collected from a crime scene such as blood, fibers, hair, DNA, and fingerprints.",
-      []
-    ],
     "ANTH 103": [
       "Anthro in a Changing World",
       {
@@ -150,11 +120,11 @@
       "[IAI Code: S1901N] Presents the fundamental areas of anthropological analysis through a series of comparative cases that emphasize social and cultural relations in global contexts. Directs attention to the anthropological history of global empires and colonial states, their cultural exchanges, and contemporary studies of culture, society, and globalization.",
       []
     ],
-    "ASTR 330": [
-      "Extraterrestrial Life",
+    "ANTH 246": [
+      "Forensic Science",
       {
         "ONL": [
-          "10064",
+          "10143",
           [
             [
               0,
@@ -162,14 +132,14 @@
               "ONLINE",
               0,
               [
-                "Looney, L"
+                "Unassigned Instructor"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          3,
+          4,
           0,
           0,
           [],
@@ -177,7 +147,7 @@
         ]
       },
       [],
-      "Scientific discussion of the search for extraterrestrial life. Topics include: cosmic evolution (protons to heavy elements to molecules); terrestrial evolution (chemical, biological, and cultural); high technology searches for extraterrestrial life in the solar system (Mars, Venus, outer planets); and beyond the solar system (Drake equation and current SETI projects).",
+      "History and theory underlying methods used in forensic science. Topics include the courtroom, the units of a crime laboratory, methods of securing and investigating a crime scene, and the analysis of evidence collected from a crime scene such as blood, fibers, hair, DNA, and fingerprints.",
       []
     ],
     "ASTR 100": [
@@ -208,6 +178,36 @@
       },
       [],
       "[IAI Code: P1906] Introduces the student to the basic concepts of modern astronomy. Covers topics including the night sky; the solar system and its origin; the nature and evolution of stars; stellar remnants, including white dwarfs, neutron stars, and black holes; extrasolar planetary systems; galaxies and quasars; dark matter and dark energy; the Big Bang and the fate of the universe; and life in the universe.",
+      []
+    ],
+    "ASTR 330": [
+      "Extraterrestrial Life",
+      {
+        "ONL": [
+          "10064",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Looney, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Scientific discussion of the search for extraterrestrial life. Topics include: cosmic evolution (protons to heavy elements to molecules); terrestrial evolution (chemical, biological, and cultural); high technology searches for extraterrestrial life in the solar system (Mars, Venus, outer planets); and beyond the solar system (Drake equation and current SETI projects).",
       []
     ],
     "ATMS 120": [
@@ -390,11 +390,11 @@
       "Introduces the field of international business and management. Examines the economic, political, and legal environments of international business. Analyzes differences in financial management, marketing, and management practices for firms doing business abroad.",
       []
     ],
-    "CLCV 102": [
-      "Medical Terms-GRK & LAT Roots",
+    "CLCV 115": [
+      "Mythology of Greece and Rome",
       {
         "A": [
-          "10071",
+          "10083",
           [
             [
               0,
@@ -402,7 +402,7 @@
               "ONLINE",
               0,
               [
-                "Fenton, V"
+                "Moulita, M"
               ],
               -1,
               -1,
@@ -417,7 +417,7 @@
         ]
       },
       [],
-      "Introduction to the study of Greek and Latin medical terms in various medical fields and to the linguistic patterns governing the combination of various roots through practical application of usage.",
+      "Studies the major myths of Greece and Rome and their impact upon later art, music, and literature. Shares two hours of lecture with CLCV 111; additional hour of lecture-discussion for a closer analysis of topics.",
       []
     ],
     "CLCV 114": [
@@ -450,11 +450,11 @@
       "Introductory study of ancient Greek literature, art, and culture.",
       []
     ],
-    "CLCV 115": [
-      "Mythology of Greece and Rome",
+    "CLCV 102": [
+      "Medical Terms-GRK & LAT Roots",
       {
         "A": [
-          "10083",
+          "10071",
           [
             [
               0,
@@ -462,7 +462,7 @@
               "ONLINE",
               0,
               [
-                "Moulita, M"
+                "Fenton, V"
               ],
               -1,
               -1,
@@ -477,7 +477,7 @@
         ]
       },
       [],
-      "Studies the major myths of Greece and Rome and their impact upon later art, music, and literature. Shares two hours of lecture with CLCV 111; additional hour of lecture-discussion for a closer analysis of topics.",
+      "Introduction to the study of Greek and Latin medical terms in various medical fields and to the linguistic patterns governing the combination of various roots through practical application of usage.",
       []
     ],
     "CLCV 231": [
@@ -780,36 +780,6 @@
       "Equips students to write about the environment for various audiences, with a focus on specific current efforts to promote sustainability on the Urbana-Champaign campus. We will practice effective techniques for each stage of the writing process-from defining topics, to gathering information, to crafting active, engaging prose. Readings will include models of effective environmental writing and \"how to\" pieces by experts. Research will include visits to campus sites and student-conducted interviews with subjects.",
       []
     ],
-    "GEOL 117": [
-      "The Oceans",
-      {
-        "A": [
-          "10049",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Pettijohn, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Integrated introduction to oceanography and marine geology and geophysics. Topics include ocean-basin formation and evolution (in the context of plate tectonics), ocean ecology, the hydrologic cycle, water chemistry, currents and waves, the interaction of oceans with climate, coastal hazards, resources, pollution, and the Law of the Sea. Course is oriented toward students not majoring in science.",
-      []
-    ],
     "GEOL 118": [
       "Natural Disasters",
       {
@@ -838,6 +808,36 @@
       },
       [],
       "Introduces the nature, causes, risks, effects, and prediction of natural disasters including earthquakes, volcanoes, landslides, subsidence, global climate change, severe weather, coastal erosion, floods, mass extinctions, and meteorite impacts; covers scientific principles and case histories of natural disasters as well as human responses (societal impact, mitigation strategies, and public policy).",
+      []
+    ],
+    "GEOL 117": [
+      "The Oceans",
+      {
+        "A": [
+          "10049",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Pettijohn, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Integrated introduction to oceanography and marine geology and geophysics. Topics include ocean-basin formation and evolution (in the context of plate tectonics), ocean ecology, the hydrologic cycle, water chemistry, currents and waves, the interaction of oceans with climate, coastal hazards, resources, pollution, and the Law of the Sea. Course is oriented toward students not majoring in science.",
       []
     ],
     "GLBL 100": [
@@ -960,6 +960,36 @@
       "Same as MACS 356. See MACS 356.",
       []
     ],
+    "HIST 104": [
+      "Black Music",
+      {
+        "A": [
+          "10145",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "What is black music, and how do we know what we think we know about it? Together, we will examine musical creations pioneered by Africans and individuals of African descent over several centuries and across hemispheres. Doing so will allow us to consider the unity of the African Diaspora and its music, and also examine internal differences and diversity. Special focus is given to Latin America and the U.S., but, depending on the semester, we will also read about, listen to, and talk about music and musicians in Asia, Africa, and Europe.",
+      []
+    ],
     "HIST 100": [
       "Global History",
       {
@@ -1018,36 +1048,6 @@
       },
       [],
       "Examines the history of the Zionist movement. The course is designed for students with no prior knowledge of Jewish, European, or Middle Eastern history. The goal is to survey how Zionism emerged as a widespread political movement and, in the process, helped create an independent state for the Jewish people. In addition to familiarizing students with the backstory of a globally significant movement, this class will teach students historical interpretation skills.",
-      []
-    ],
-    "HIST 104": [
-      "Black Music",
-      {
-        "A": [
-          "10145",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Unassigned Instructor"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "What is black music, and how do we know what we think we know about it? Together, we will examine musical creations pioneered by Africans and individuals of African descent over several centuries and across hemispheres. Doing so will allow us to consider the unity of the African Diaspora and its music, and also examine internal differences and diversity. Special focus is given to Latin America and the U.S., but, depending on the semester, we will also read about, listen to, and talk about music and musicians in Asia, Africa, and Europe.",
       []
     ],
     "HK 302": [
@@ -1110,11 +1110,11 @@
       "Introduces students to the field of health equity in the United States, including the existence and magnitude of health disparities related to historically underrepresented groups of diverse racial/ethnic backgrounds, immigrant and rural populations, gender, age, veteran status, and ability level. The course will examine relevant issues, frameworks, theories, and solutions.",
       []
     ],
-    "IS 199": [
-      "Undergraduate Open Seminar",
+    "IS 390": [
+      "Special Topics in Information Studies",
       {
-        "ICL": [
-          "10101",
+        "IIP": [
+          "10113",
           [
             [
               0,
@@ -1122,14 +1122,14 @@
               "ONLINE",
               0,
               [
-                "Wickes, E"
+                "Benson, S"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          5,
+          3,
           0,
           0,
           [],
@@ -1137,7 +1137,7 @@
         ]
       },
       [],
-      "Additional fees may apply. See Class Schedule. May be repeated.",
+      "Directed and supervised investigation of selected topics in information studies that may include among others computers and culture; information policy; community information systems; production, retrieval and evaluation of scientific or social science knowledge; computer-mediated communication; and computer-supported cooperative work.",
       []
     ],
     "IS 229": [
@@ -1170,11 +1170,11 @@
       "In this course students will learn the principles and methodologies of modern Web design and development, while also becoming familiar with the history of the Web. Students will develop useful practical skills through hands-on engagement with open-source tools, platforms, and resources, while also acquiring a critical understanding of current challenges around such topics as web-standards, security, and accessibility. Students will also become familiar with philosophical models and practical frameworks for creating human-centered systems and will apply such constructively critical understandings in their own web design projects.",
       []
     ],
-    "IS 390": [
-      "Special Topics in Information Studies",
+    "IS 199": [
+      "Undergraduate Open Seminar",
       {
-        "IIP": [
-          "10113",
+        "ICL": [
+          "10101",
           [
             [
               0,
@@ -1182,14 +1182,14 @@
               "ONLINE",
               0,
               [
-                "Benson, S"
+                "Wickes, E"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          3,
+          5,
           0,
           0,
           [],
@@ -1197,7 +1197,7 @@
         ]
       },
       [],
-      "Directed and supervised investigation of selected topics in information studies that may include among others computers and culture; information policy; community information systems; production, retrieval and evaluation of scientific or social science knowledge; computer-mediated communication; and computer-supported cooperative work.",
+      "Additional fees may apply. See Class Schedule. May be repeated.",
       []
     ],
     "IS 445": [
@@ -1380,37 +1380,6 @@
       "Examines the notion that the mass media influence our development as gendered individuals, looking at those who argue for and against this notion. Considers different forms of feminist theory applied to the study of mass media, the history and scholarly criticisms of the media and their portrayal of women, and feminist attempts to create alternatives to mainstream media images. Throughout, the course considers representation of minorities in the dominant media and examines newly created alternative representations.",
       []
     ],
-    "MUS 133": [
-      "Introduction to World Music",
-      {
-        "A": [
-          "10097",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Miller, M",
-                "Smith, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "[IAI Code: F1903N] A survey of various musical traditions from different regions and peoples of the world.",
-      []
-    ],
     "MUS 132": [
       "Popular Music Studies",
       {
@@ -1440,6 +1409,37 @@
       },
       [],
       "Courses within this rubric provide an analytical and historical introduction to genres of popular music from the United States and around the world. Iterations of the course may focus on a specific genre, such as Rock, Reggae, or Afropop, or may deal with broader subjects, such as the continua of styles including R&B, Soul, Funk, and Hip Hop, or the pan-generic, international phenomenon of pop music globalization in the twentieth century.",
+      []
+    ],
+    "MUS 133": [
+      "Introduction to World Music",
+      {
+        "A": [
+          "10097",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Miller, M",
+                "Smith, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "[IAI Code: F1903N] A survey of various musical traditions from different regions and peoples of the world.",
       []
     ],
     "NS 120": [
@@ -1532,6 +1532,36 @@
       "[IAI Code: S5906N] Provides comparative and historical insights into the problems affecting the developing world by examining social, economic and political changes in Africa, Asia, and Latin America.",
       []
     ],
+    "PSYC 216": [
+      "Child Psych",
+      {
+        "A": [
+          "10099",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Hyde, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "[IAI Code: S6903] Study of the psychological development of the child.",
+      []
+    ],
     "PSYC 100": [
       "Intro Psych",
       {
@@ -1590,36 +1620,6 @@
       },
       [],
       "Introduction to the interdisciplinary field of cognitive neuroscience, which is concerned with how the cognitive systems supporting a broad range of capacities including memory, attention, and social and emotional processing, arise from the functioning of specific brain modules and brain mechanisms. Emphasizes how functional brain imaging and other cognitive neuroscience methods can be brought to bear on answering these questions.",
-      []
-    ],
-    "PSYC 216": [
-      "Child Psych",
-      {
-        "A": [
-          "10099",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Hyde, D"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          2,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "[IAI Code: S6903] Study of the psychological development of the child.",
       []
     ],
     "PSYC 230": [
@@ -1818,6 +1818,6 @@
     "finalDates": [],
     "finalTimes": []
   },
-  "updatedAt": "2026-11-02T05:07:13.708Z",
+  "updatedAt": "2026-11-02T05:08:10.848Z",
   "version": 3
 }
