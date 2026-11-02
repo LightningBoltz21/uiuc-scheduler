@@ -90,36 +90,6 @@
       "Same as MILS 120 and NS 120. See MILS 120.",
       []
     ],
-    "ANTH 103": [
-      "Anthro in a Changing World",
-      {
-        "ONL": [
-          "10141",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Unassigned Instructor"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "[IAI Code: S1901N] Presents the fundamental areas of anthropological analysis through a series of comparative cases that emphasize social and cultural relations in global contexts. Directs attention to the anthropological history of global empires and colonial states, their cultural exchanges, and contemporary studies of culture, society, and globalization.",
-      []
-    ],
     "ANTH 246": [
       "Forensic Science",
       {
@@ -148,6 +118,36 @@
       },
       [],
       "History and theory underlying methods used in forensic science. Topics include the courtroom, the units of a crime laboratory, methods of securing and investigating a crime scene, and the analysis of evidence collected from a crime scene such as blood, fibers, hair, DNA, and fingerprints.",
+      []
+    ],
+    "ANTH 103": [
+      "Anthro in a Changing World",
+      {
+        "ONL": [
+          "10141",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "[IAI Code: S1901N] Presents the fundamental areas of anthropological analysis through a series of comparative cases that emphasize social and cultural relations in global contexts. Directs attention to the anthropological history of global empires and colonial states, their cultural exchanges, and contemporary studies of culture, society, and globalization.",
       []
     ],
     "ASTR 330": [
@@ -240,6 +240,36 @@
       "Most extreme manifestations of weather and climate are analyzed in terms of their physical basis and their historical, economic and human consequences. Emphasis is placed on the interplay between technological advances, the evolution of meteorology as a science, and the impacts of extreme weather (winter storms, floods, severe thunderstorms, hurricanes, El Nino). Technological advances include satellites, weather radars and profilers, and computer models used for weather prediction.",
       []
     ],
+    "BADM 300": [
+      "The Legal Environment of Bus",
+      {
+        "OL": [
+          "10013",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Noonan, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to law and the legal system, litigation, contracts, business organizations, intellectual property, employment law and governmental regulation of business.",
+      []
+    ],
     "BADM 310": [
       "Mgmt and Organizational Beh",
       {
@@ -298,36 +328,6 @@
       },
       [],
       "Operations and Supply Chain Management is about sourcing, producing, and delivering goods and services that meet and exceed customer expectations. In this course, students will be introduced to decision-making frameworks and techniques for effectively and efficiently managing processes through coordinated efforts across different organizations in a supply chain and across multiple areas within an organization, such as: consumer analytics, research and development, finance, engineering, marketing, human resource management, sourcing, information systems, logistics, and accounting.",
-      []
-    ],
-    "BADM 300": [
-      "The Legal Environment of Bus",
-      {
-        "OL": [
-          "10013",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Noonan, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Introduction to law and the legal system, litigation, contracts, business organizations, intellectual property, employment law and governmental regulation of business.",
       []
     ],
     "BADM 320": [
@@ -390,11 +390,11 @@
       "Introduces the field of international business and management. Examines the economic, political, and legal environments of international business. Analyzes differences in financial management, marketing, and management practices for firms doing business abroad.",
       []
     ],
-    "CLCV 114": [
-      "Introduction to Ancient Greek Culture",
+    "CLCV 102": [
+      "Medical Terms-GRK & LAT Roots",
       {
         "A": [
-          "10157",
+          "10071",
           [
             [
               0,
@@ -402,7 +402,7 @@
               "ONLINE",
               0,
               [
-                "Unassigned Instructor"
+                "Fenton, V"
               ],
               -1,
               -1,
@@ -417,7 +417,7 @@
         ]
       },
       [],
-      "Introductory study of ancient Greek literature, art, and culture.",
+      "Introduction to the study of Greek and Latin medical terms in various medical fields and to the linguistic patterns governing the combination of various roots through practical application of usage.",
       []
     ],
     "CLCV 115": [
@@ -450,11 +450,11 @@
       "Studies the major myths of Greece and Rome and their impact upon later art, music, and literature. Shares two hours of lecture with CLCV 111; additional hour of lecture-discussion for a closer analysis of topics.",
       []
     ],
-    "CLCV 102": [
-      "Medical Terms-GRK & LAT Roots",
+    "CLCV 114": [
+      "Introduction to Ancient Greek Culture",
       {
         "A": [
-          "10071",
+          "10157",
           [
             [
               0,
@@ -462,7 +462,7 @@
               "ONLINE",
               0,
               [
-                "Fenton, V"
+                "Unassigned Instructor"
               ],
               -1,
               -1,
@@ -477,7 +477,7 @@
         ]
       },
       [],
-      "Introduction to the study of Greek and Latin medical terms in various medical fields and to the linguistic patterns governing the combination of various roots through practical application of usage.",
+      "Introductory study of ancient Greek literature, art, and culture.",
       []
     ],
     "CLCV 231": [
@@ -660,36 +660,6 @@
       null,
       []
     ],
-    "ESE 120": [
-      "Severe and Hazardous Weather",
-      {
-        "ONL": [
-          "10038",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Choate, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as ATMS 120. See ATMS 120.",
-      []
-    ],
     "ESE 118": [
       "Natural Disasters",
       {
@@ -750,6 +720,36 @@
       "Same as GEOL 117. See GEOL 117.",
       []
     ],
+    "ESE 120": [
+      "Severe and Hazardous Weather",
+      {
+        "ONL": [
+          "10038",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Choate, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as ATMS 120. See ATMS 120.",
+      []
+    ],
     "ESE 360": [
       "Environmental Writing",
       {
@@ -778,36 +778,6 @@
       },
       [],
       "Equips students to write about the environment for various audiences, with a focus on specific current efforts to promote sustainability on the Urbana-Champaign campus. We will practice effective techniques for each stage of the writing process-from defining topics, to gathering information, to crafting active, engaging prose. Readings will include models of effective environmental writing and \"how to\" pieces by experts. Research will include visits to campus sites and student-conducted interviews with subjects.",
-      []
-    ],
-    "GEOL 118": [
-      "Natural Disasters",
-      {
-        "A": [
-          "10007",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Austin, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Introduces the nature, causes, risks, effects, and prediction of natural disasters including earthquakes, volcanoes, landslides, subsidence, global climate change, severe weather, coastal erosion, floods, mass extinctions, and meteorite impacts; covers scientific principles and case histories of natural disasters as well as human responses (societal impact, mitigation strategies, and public policy).",
       []
     ],
     "GEOL 117": [
@@ -840,11 +810,11 @@
       "Integrated introduction to oceanography and marine geology and geophysics. Topics include ocean-basin formation and evolution (in the context of plate tectonics), ocean ecology, the hydrologic cycle, water chemistry, currents and waves, the interaction of oceans with climate, coastal hazards, resources, pollution, and the Law of the Sea. Course is oriented toward students not majoring in science.",
       []
     ],
-    "GLBL 200": [
-      "Foundations of Research",
+    "GEOL 118": [
+      "Natural Disasters",
       {
-        "AL1": [
-          "10117",
+        "A": [
+          "10007",
           [
             [
               0,
@@ -852,7 +822,7 @@
               "ONLINE",
               0,
               [
-                "Bonatti, V"
+                "Austin, S"
               ],
               -1,
               -1,
@@ -867,7 +837,7 @@
         ]
       },
       [],
-      "Introduction to the foundations of interdisciplinary social science research. Topic include understanding the purpose for research, identifying researchable issues, finding evaluating and using sources effectively, recognizing methods associated with different types of data and disciplines, and writing a literature review. Prepares students for course-based research papers and advanced research methods courses. Guest faculty present their Global Studies-relevant research as students (b)log their own research interests.",
+      "Introduces the nature, causes, risks, effects, and prediction of natural disasters including earthquakes, volcanoes, landslides, subsidence, global climate change, severe weather, coastal erosion, floods, mass extinctions, and meteorite impacts; covers scientific principles and case histories of natural disasters as well as human responses (societal impact, mitigation strategies, and public policy).",
       []
     ],
     "GLBL 118": [
@@ -930,6 +900,36 @@
       "Foundation course for understanding a range of contemporary issues and learning to analyze them from multiple disciplinary perspectives. Students consider globalizing trends within themes of wealth and poverty; population, cultures, and human rights; environment and sustainability; and governance, conflict, and cooperation. Course objectives are to enhance knowledge of human cultures, their interactions and impacts on the world; develop skills for successfully negotiating realities of contemporary societies; and promote values for global learning, diversity, and sustainable futures.",
       []
     ],
+    "GLBL 200": [
+      "Foundations of Research",
+      {
+        "AL1": [
+          "10117",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Bonatti, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to the foundations of interdisciplinary social science research. Topic include understanding the purpose for research, identifying researchable issues, finding evaluating and using sources effectively, recognizing methods associated with different types of data and disciplines, and writing a literature review. Prepares students for course-based research papers and advanced research methods courses. Guest faculty present their Global Studies-relevant research as students (b)log their own research interests.",
+      []
+    ],
     "GWS 356": [
       "Sex & Gender in Popular Media",
       {
@@ -958,36 +958,6 @@
       },
       [],
       "Same as MACS 356. See MACS 356.",
-      []
-    ],
-    "HIST 100": [
-      "Global History",
-      {
-        "A": [
-          "10144",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Unassigned Instructor"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Broad introduction to global history, by exploring the global structures and transnational forces that have shaped human history, from the emergence of agriculture and urban centers to our contemporary global village.",
       []
     ],
     "HIST 104": [
@@ -1050,6 +1020,36 @@
       "Examines the history of the Zionist movement. The course is designed for students with no prior knowledge of Jewish, European, or Middle Eastern history. The goal is to survey how Zionism emerged as a widespread political movement and, in the process, helped create an independent state for the Jewish people. In addition to familiarizing students with the backstory of a globally significant movement, this class will teach students historical interpretation skills.",
       []
     ],
+    "HIST 100": [
+      "Global History",
+      {
+        "A": [
+          "10144",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Broad introduction to global history, by exploring the global structures and transnational forces that have shaped human history, from the emergence of agriculture and urban centers to our contemporary global village.",
+      []
+    ],
     "HK 271": [
       "Health Equity in the United States",
       {
@@ -1110,6 +1110,36 @@
       "Acquaints students with the medical, psychosocial, vocational, political, and cultural aspects of disability in America. Development and implementation of disability policy by governmental agencies in this country will be examined, and the role of activism and advocacy in securing civil rights for persons with a disability will be explored. Various philosophical and theoretical models for understanding the disability experience will be offered, and course content will include the key historical events that shaped the present conditions of persons with disabilities. Lastly, students will be introduced to an array of service modalities used to address health and adjustment needs of persons with disabilities.",
       []
     ],
+    "IS 390": [
+      "Special Topics in Information Studies",
+      {
+        "IIP": [
+          "10113",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Benson, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Directed and supervised investigation of selected topics in information studies that may include among others computers and culture; information policy; community information systems; production, retrieval and evaluation of scientific or social science knowledge; computer-mediated communication; and computer-supported cooperative work.",
+      []
+    ],
     "IS 229": [
       "Web Design Fundamentals",
       {
@@ -1168,36 +1198,6 @@
       },
       [],
       "Additional fees may apply. See Class Schedule. May be repeated.",
-      []
-    ],
-    "IS 390": [
-      "Special Topics in Information Studies",
-      {
-        "IIP": [
-          "10113",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Benson, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Directed and supervised investigation of selected topics in information studies that may include among others computers and culture; information policy; community information systems; production, retrieval and evaluation of scientific or social science knowledge; computer-mediated communication; and computer-supported cooperative work.",
       []
     ],
     "IS 445": [
@@ -1712,36 +1712,6 @@
       "[IAI Code: S7900] Sociology offers a unique lens through which we can examine the world around us. In this course you will develop a perspective that will allow you to analyze the social world in a way that reveals the hidden and/or overlooked social forces that shape our lives. This approach, the sociological imagination, will enable you to explore how social forces influence the ways we view and navigate our social world. We will discuss how sociologists use theory and research to better understand important social issues such as inequalities of race, class, gender, sexualities and how social order and social change are possible. We will discuss how society affects individuals and in turn how individuals can affect society.",
       []
     ],
-    "SPAN 205": [
-      "Spanish in the Professions",
-      {
-        "10161": [
-          "10161",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Dutton, M"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Introduction to Spanish in business, law, medical, education & social service fields, with a focus on the importance of bilingualism in the U.S., strategies for lifelong learning, and cultural considerations. The development of functional use of Spanish within the professional context is the major focus of the course. This is considered a fourth level course for the purposes of fulfilling the Language Other Than English (LOTE) requirement. Instruction in Spanish.",
-      []
-    ],
     "SPAN 201": [
       "Intermediate Spanish",
       {
@@ -1793,6 +1763,36 @@
       [],
       "Continued development of reading, writing and conversational skills. This is considered a third level course for the purposes of fulfilling the Language Other Than English (LOTE) requirement. Instruction in Spanish.",
       []
+    ],
+    "SPAN 205": [
+      "Spanish in the Professions",
+      {
+        "10161": [
+          "10161",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Dutton, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to Spanish in business, law, medical, education & social service fields, with a focus on the importance of bilingualism in the U.S., strategies for lifelong learning, and cultural considerations. The development of functional use of Spanish within the professional context is the major focus of the course. This is considered a fourth level course for the purposes of fulfilling the Language Other Than English (LOTE) requirement. Instruction in Spanish.",
+      []
     ]
   },
   "caches": {
@@ -1818,6 +1818,6 @@
     "finalDates": [],
     "finalTimes": []
   },
-  "updatedAt": "2026-11-02T05:12:21.194Z",
+  "updatedAt": "2026-11-02T05:13:34.028Z",
   "version": 3
 }
