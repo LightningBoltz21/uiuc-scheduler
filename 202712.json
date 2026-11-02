@@ -1,35 +1,5 @@
 {
   "courses": {
-    "ADV 150": [
-      "Introduction to Advertising",
-      {
-        "A": [
-          "10104",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Hall, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Introduction to the practice and profession of advertising. Course material covers various functional areas of advertising and integrated brand promotion, including account planning, creative, media, research, consumer behavior, sales promotion and interactive advertising. Topics also include how advertising relates to society in cultural, social, ethical and regulatory contexts. Open to all undergraduate majors.",
-      []
-    ],
     "ADV 175": [
       "Introduction to Multicultural Advertising",
       {
@@ -58,6 +28,36 @@
       },
       [],
       "Examines the multifaceted role diversity (including racial, gender, orientation, ability status) plays in the delivery and reception of advertising. Additionally, it examines the development of diversity as a marketplace practice and on the development of the advertising industry. We'll analyze advertising using a historical, cultural, and social perspective and address issues of diversity in the industry. We will also critically review current issues of multicultural, transcultural and multidimensional advertising and marketing. In the process we’ll grapple with current theories on race and implicit /explicit bias and prejudice and their impact upon the production of advertising and consumer communications.",
+      []
+    ],
+    "ADV 150": [
+      "Introduction to Advertising",
+      {
+        "A": [
+          "10104",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Hall, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to the practice and profession of advertising. Course material covers various functional areas of advertising and integrated brand promotion, including account planning, creative, media, research, consumer behavior, sales promotion and interactive advertising. Topics also include how advertising relates to society in cultural, social, ethical and regulatory contexts. Open to all undergraduate majors.",
       []
     ],
     "AFAS 120": [
@@ -270,36 +270,6 @@
       "General analysis of management and organizational behavior from a systems point of view, including classical organizational theory and management, organizational behavior, and management science; environmental forces; planning, organizing, and control processes; motivation, incentives, leadership, communication, and interpersonal relations; and discussion of production and decision-making and mathematical models.",
       []
     ],
-    "BADM 275": [
-      "Introduction to Operations and Supply Chain Management",
-      {
-        "OL": [
-          "10121",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Sumkin, D"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Operations and Supply Chain Management is about sourcing, producing, and delivering goods and services that meet and exceed customer expectations. In this course, students will be introduced to decision-making frameworks and techniques for effectively and efficiently managing processes through coordinated efforts across different organizations in a supply chain and across multiple areas within an organization, such as: consumer analytics, research and development, finance, engineering, marketing, human resource management, sourcing, information systems, logistics, and accounting.",
-      []
-    ],
     "BADM 300": [
       "The Legal Environment of Bus",
       {
@@ -330,11 +300,11 @@
       "Introduction to law and the legal system, litigation, contracts, business organizations, intellectual property, employment law and governmental regulation of business.",
       []
     ],
-    "BADM 380": [
-      "International Business",
+    "BADM 275": [
+      "Introduction to Operations and Supply Chain Management",
       {
         "OL": [
-          "10017",
+          "10121",
           [
             [
               0,
@@ -342,7 +312,7 @@
               "ONLINE",
               0,
               [
-                "Bucheli, M"
+                "Sumkin, D"
               ],
               -1,
               -1,
@@ -357,7 +327,7 @@
         ]
       },
       [],
-      "Introduces the field of international business and management. Examines the economic, political, and legal environments of international business. Analyzes differences in financial management, marketing, and management practices for firms doing business abroad.",
+      "Operations and Supply Chain Management is about sourcing, producing, and delivering goods and services that meet and exceed customer expectations. In this course, students will be introduced to decision-making frameworks and techniques for effectively and efficiently managing processes through coordinated efforts across different organizations in a supply chain and across multiple areas within an organization, such as: consumer analytics, research and development, finance, engineering, marketing, human resource management, sourcing, information systems, logistics, and accounting.",
       []
     ],
     "BADM 320": [
@@ -390,11 +360,11 @@
       "Emphasizes the concepts of planning, organization, control, and decision making as they are applied in the management of the marketing function. Provides an overview of aspects of the marketing discipline.",
       []
     ],
-    "CLCV 102": [
-      "Medical Terms-GRK & LAT Roots",
+    "BADM 380": [
+      "International Business",
       {
-        "A": [
-          "10071",
+        "OL": [
+          "10017",
           [
             [
               0,
@@ -402,7 +372,7 @@
               "ONLINE",
               0,
               [
-                "Fenton, V"
+                "Bucheli, M"
               ],
               -1,
               -1,
@@ -417,7 +387,7 @@
         ]
       },
       [],
-      "Introduction to the study of Greek and Latin medical terms in various medical fields and to the linguistic patterns governing the combination of various roots through practical application of usage.",
+      "Introduces the field of international business and management. Examines the economic, political, and legal environments of international business. Analyzes differences in financial management, marketing, and management practices for firms doing business abroad.",
       []
     ],
     "CLCV 114": [
@@ -478,6 +448,36 @@
       },
       [],
       "Studies the major myths of Greece and Rome and their impact upon later art, music, and literature. Shares two hours of lecture with CLCV 111; additional hour of lecture-discussion for a closer analysis of topics.",
+      []
+    ],
+    "CLCV 102": [
+      "Medical Terms-GRK & LAT Roots",
+      {
+        "A": [
+          "10071",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Fenton, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to the study of Greek and Latin medical terms in various medical fields and to the linguistic patterns governing the combination of various roots through practical application of usage.",
       []
     ],
     "CLCV 231": [
@@ -660,11 +660,11 @@
       null,
       []
     ],
-    "ESE 120": [
-      "Severe and Hazardous Weather",
+    "ESE 118": [
+      "Natural Disasters",
       {
-        "ONL": [
-          "10038",
+        "A": [
+          "10008",
           [
             [
               0,
@@ -672,7 +672,7 @@
               "ONLINE",
               0,
               [
-                "Choate, J"
+                "Austin, S"
               ],
               -1,
               -1,
@@ -687,7 +687,7 @@
         ]
       },
       [],
-      "Same as ATMS 120. See ATMS 120.",
+      "Same as GEOL 118 and GLBL 118. See GEOL 118.",
       []
     ],
     "ESE 117": [
@@ -720,11 +720,11 @@
       "Same as GEOL 117. See GEOL 117.",
       []
     ],
-    "ESE 118": [
-      "Natural Disasters",
+    "ESE 120": [
+      "Severe and Hazardous Weather",
       {
-        "A": [
-          "10008",
+        "ONL": [
+          "10038",
           [
             [
               0,
@@ -732,7 +732,7 @@
               "ONLINE",
               0,
               [
-                "Austin, S"
+                "Choate, J"
               ],
               -1,
               -1,
@@ -747,7 +747,7 @@
         ]
       },
       [],
-      "Same as GEOL 118 and GLBL 118. See GEOL 118.",
+      "Same as ATMS 120. See ATMS 120.",
       []
     ],
     "ESE 360": [
@@ -780,36 +780,6 @@
       "Equips students to write about the environment for various audiences, with a focus on specific current efforts to promote sustainability on the Urbana-Champaign campus. We will practice effective techniques for each stage of the writing process-from defining topics, to gathering information, to crafting active, engaging prose. Readings will include models of effective environmental writing and \"how to\" pieces by experts. Research will include visits to campus sites and student-conducted interviews with subjects.",
       []
     ],
-    "GEOL 117": [
-      "The Oceans",
-      {
-        "A": [
-          "10049",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Pettijohn, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Integrated introduction to oceanography and marine geology and geophysics. Topics include ocean-basin formation and evolution (in the context of plate tectonics), ocean ecology, the hydrologic cycle, water chemistry, currents and waves, the interaction of oceans with climate, coastal hazards, resources, pollution, and the Law of the Sea. Course is oriented toward students not majoring in science.",
-      []
-    ],
     "GEOL 118": [
       "Natural Disasters",
       {
@@ -838,6 +808,36 @@
       },
       [],
       "Introduces the nature, causes, risks, effects, and prediction of natural disasters including earthquakes, volcanoes, landslides, subsidence, global climate change, severe weather, coastal erosion, floods, mass extinctions, and meteorite impacts; covers scientific principles and case histories of natural disasters as well as human responses (societal impact, mitigation strategies, and public policy).",
+      []
+    ],
+    "GEOL 117": [
+      "The Oceans",
+      {
+        "A": [
+          "10049",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Pettijohn, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Integrated introduction to oceanography and marine geology and geophysics. Topics include ocean-basin formation and evolution (in the context of plate tectonics), ocean ecology, the hydrologic cycle, water chemistry, currents and waves, the interaction of oceans with climate, coastal hazards, resources, pollution, and the Law of the Sea. Course is oriented toward students not majoring in science.",
       []
     ],
     "GLBL 200": [
@@ -870,36 +870,6 @@
       "Introduction to the foundations of interdisciplinary social science research. Topic include understanding the purpose for research, identifying researchable issues, finding evaluating and using sources effectively, recognizing methods associated with different types of data and disciplines, and writing a literature review. Prepares students for course-based research papers and advanced research methods courses. Guest faculty present their Global Studies-relevant research as students (b)log their own research interests.",
       []
     ],
-    "GLBL 100": [
-      "Intro to Global Studies",
-      {
-        "CF": [
-          "10054",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Schrag, D"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Foundation course for understanding a range of contemporary issues and learning to analyze them from multiple disciplinary perspectives. Students consider globalizing trends within themes of wealth and poverty; population, cultures, and human rights; environment and sustainability; and governance, conflict, and cooperation. Course objectives are to enhance knowledge of human cultures, their interactions and impacts on the world; develop skills for successfully negotiating realities of contemporary societies; and promote values for global learning, diversity, and sustainable futures.",
-      []
-    ],
     "GLBL 118": [
       "Natural Disasters",
       {
@@ -928,6 +898,36 @@
       },
       [],
       "Same as ESE 118 and GEOL 118. See GEOL 118.",
+      []
+    ],
+    "GLBL 100": [
+      "Intro to Global Studies",
+      {
+        "CF": [
+          "10054",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Schrag, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Foundation course for understanding a range of contemporary issues and learning to analyze them from multiple disciplinary perspectives. Students consider globalizing trends within themes of wealth and poverty; population, cultures, and human rights; environment and sustainability; and governance, conflict, and cooperation. Course objectives are to enhance knowledge of human cultures, their interactions and impacts on the world; develop skills for successfully negotiating realities of contemporary societies; and promote values for global learning, diversity, and sustainable futures.",
       []
     ],
     "GWS 356": [
@@ -1110,11 +1110,11 @@
       "Introduces students to the field of health equity in the United States, including the existence and magnitude of health disparities related to historically underrepresented groups of diverse racial/ethnic backgrounds, immigrant and rural populations, gender, age, veteran status, and ability level. The course will examine relevant issues, frameworks, theories, and solutions.",
       []
     ],
-    "IS 390": [
-      "Special Topics in Information Studies",
+    "IS 229": [
+      "Web Design Fundamentals",
       {
-        "IIP": [
-          "10113",
+        "OAU": [
+          "10132",
           [
             [
               0,
@@ -1122,7 +1122,7 @@
               "ONLINE",
               0,
               [
-                "Benson, S"
+                "MacMullen, T"
               ],
               -1,
               -1,
@@ -1137,7 +1137,7 @@
         ]
       },
       [],
-      "Directed and supervised investigation of selected topics in information studies that may include among others computers and culture; information policy; community information systems; production, retrieval and evaluation of scientific or social science knowledge; computer-mediated communication; and computer-supported cooperative work.",
+      "In this course students will learn the principles and methodologies of modern Web design and development, while also becoming familiar with the history of the Web. Students will develop useful practical skills through hands-on engagement with open-source tools, platforms, and resources, while also acquiring a critical understanding of current challenges around such topics as web-standards, security, and accessibility. Students will also become familiar with philosophical models and practical frameworks for creating human-centered systems and will apply such constructively critical understandings in their own web design projects.",
       []
     ],
     "IS 199": [
@@ -1170,11 +1170,11 @@
       "Additional fees may apply. See Class Schedule. May be repeated.",
       []
     ],
-    "IS 229": [
-      "Web Design Fundamentals",
+    "IS 390": [
+      "Special Topics in Information Studies",
       {
-        "OAU": [
-          "10132",
+        "IIP": [
+          "10113",
           [
             [
               0,
@@ -1182,7 +1182,7 @@
               "ONLINE",
               0,
               [
-                "MacMullen, T"
+                "Benson, S"
               ],
               -1,
               -1,
@@ -1197,7 +1197,7 @@
         ]
       },
       [],
-      "In this course students will learn the principles and methodologies of modern Web design and development, while also becoming familiar with the history of the Web. Students will develop useful practical skills through hands-on engagement with open-source tools, platforms, and resources, while also acquiring a critical understanding of current challenges around such topics as web-standards, security, and accessibility. Students will also become familiar with philosophical models and practical frameworks for creating human-centered systems and will apply such constructively critical understandings in their own web design projects.",
+      "Directed and supervised investigation of selected topics in information studies that may include among others computers and culture; information policy; community information systems; production, retrieval and evaluation of scientific or social science knowledge; computer-mediated communication; and computer-supported cooperative work.",
       []
     ],
     "IS 445": [
@@ -1320,36 +1320,6 @@
       "Professionally supervised field experience in design offices and public agencies intended to provide the opportunity for graduate students to develop advanced practice skills. Students work in the department-approved firm or agency of their choice. Seventy five hours of employment is required for each one hour of course credit.",
       []
     ],
-    "MACS 356": [
-      "Sex & Gender in Popular Media",
-      {
-        "A": [
-          "10011",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Cole, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Examines the notion that the mass media influence our development as gendered individuals, looking at those who argue for and against this notion. Considers different forms of feminist theory applied to the study of mass media, the history and scholarly criticisms of the media and their portrayal of women, and feminist attempts to create alternatives to mainstream media images. Throughout, the course considers representation of minorities in the dominant media and examines newly created alternative representations.",
-      []
-    ],
     "MACS 380": [
       "21st Century Documentaries",
       {
@@ -1378,6 +1348,36 @@
       },
       [],
       "Documentary has exploded in the past decade, with more being created, screened and watched than at any time in history. But what has this growth meant to documentary, and how has it impacted what we see on screen and how documentary stories are being told? We will examine the changes and trends taking place in film and television documentaries over the past decade. We will watch and analyze a variety of contemporary documentaries, examining some of the different stylistic, production, and story-telling methods that have developed over this time. If you enjoy watching documentaries and want to learn more about them, you will find this an enjoyable and thought-provoking course.",
+      []
+    ],
+    "MACS 356": [
+      "Sex & Gender in Popular Media",
+      {
+        "A": [
+          "10011",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Cole, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Examines the notion that the mass media influence our development as gendered individuals, looking at those who argue for and against this notion. Considers different forms of feminist theory applied to the study of mass media, the history and scholarly criticisms of the media and their portrayal of women, and feminist attempts to create alternatives to mainstream media images. Throughout, the course considers representation of minorities in the dominant media and examines newly created alternative representations.",
       []
     ],
     "MUS 132": [
@@ -1532,36 +1532,6 @@
       "[IAI Code: S5906N] Provides comparative and historical insights into the problems affecting the developing world by examining social, economic and political changes in Africa, Asia, and Latin America.",
       []
     ],
-    "PSYC 216": [
-      "Child Psych",
-      {
-        "A": [
-          "10099",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Hyde, D"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          2,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "[IAI Code: S6903] Study of the psychological development of the child.",
-      []
-    ],
     "PSYC 204": [
       "Intro to Brain and Cognition",
       {
@@ -1620,6 +1590,36 @@
       },
       [],
       "[IAI Code: S6900] Study of human behavior with special reference to perception, learning, memory, thinking, emotional life, and individual differences in intelligence, aptitude, and personality; emphasis on the scientific nature of psychological investigations; and discussion of research methods and the relation of their results to daily life and everyday problems. Lectures, discussions, and six hours of participation as a subject in psychological experiments.",
+      []
+    ],
+    "PSYC 216": [
+      "Child Psych",
+      {
+        "A": [
+          "10099",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Hyde, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "[IAI Code: S6903] Study of the psychological development of the child.",
       []
     ],
     "PSYC 230": [
@@ -1818,6 +1818,6 @@
     "finalDates": [],
     "finalTimes": []
   },
-  "updatedAt": "2026-11-02T04:59:03.120Z",
+  "updatedAt": "2026-11-02T05:00:03.127Z",
   "version": 3
 }
