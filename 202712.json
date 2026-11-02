@@ -90,36 +90,6 @@
       "Same as MILS 120 and NS 120. See MILS 120.",
       []
     ],
-    "ANTH 246": [
-      "Forensic Science",
-      {
-        "ONL": [
-          "10143",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Unassigned Instructor"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "History and theory underlying methods used in forensic science. Topics include the courtroom, the units of a crime laboratory, methods of securing and investigating a crime scene, and the analysis of evidence collected from a crime scene such as blood, fibers, hair, DNA, and fingerprints.",
-      []
-    ],
     "ANTH 103": [
       "Anthro in a Changing World",
       {
@@ -148,6 +118,36 @@
       },
       [],
       "[IAI Code: S1901N] Presents the fundamental areas of anthropological analysis through a series of comparative cases that emphasize social and cultural relations in global contexts. Directs attention to the anthropological history of global empires and colonial states, their cultural exchanges, and contemporary studies of culture, society, and globalization.",
+      []
+    ],
+    "ANTH 246": [
+      "Forensic Science",
+      {
+        "ONL": [
+          "10143",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "History and theory underlying methods used in forensic science. Topics include the courtroom, the units of a crime laboratory, methods of securing and investigating a crime scene, and the analysis of evidence collected from a crime scene such as blood, fibers, hair, DNA, and fingerprints.",
       []
     ],
     "ASTR 100": [
@@ -300,36 +300,6 @@
       "Operations and Supply Chain Management is about sourcing, producing, and delivering goods and services that meet and exceed customer expectations. In this course, students will be introduced to decision-making frameworks and techniques for effectively and efficiently managing processes through coordinated efforts across different organizations in a supply chain and across multiple areas within an organization, such as: consumer analytics, research and development, finance, engineering, marketing, human resource management, sourcing, information systems, logistics, and accounting.",
       []
     ],
-    "BADM 300": [
-      "The Legal Environment of Bus",
-      {
-        "OL": [
-          "10013",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Noonan, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Introduction to law and the legal system, litigation, contracts, business organizations, intellectual property, employment law and governmental regulation of business.",
-      []
-    ],
     "BADM 320": [
       "Principles of Marketing",
       {
@@ -388,6 +358,36 @@
       },
       [],
       "Introduces the field of international business and management. Examines the economic, political, and legal environments of international business. Analyzes differences in financial management, marketing, and management practices for firms doing business abroad.",
+      []
+    ],
+    "BADM 300": [
+      "The Legal Environment of Bus",
+      {
+        "OL": [
+          "10013",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Noonan, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to law and the legal system, litigation, contracts, business organizations, intellectual property, employment law and governmental regulation of business.",
       []
     ],
     "CLCV 115": [
@@ -570,36 +570,6 @@
       "[IAI Code: F1906] Overview of major works, figures, and trends responsible for shaping dance as an evolving contemporary art form. The course will have lecture, viewing, discussion and experiential (studio participation) components.",
       []
     ],
-    "ECON 102": [
-      "Microeconomic Principles",
-      {
-        "ONL": [
-          "10019",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "DiIanni, I"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "[IAI Code: S3902] Introduction to the functions of individual decision-makers, both consumers and producers, within the larger economic system. Primary emphasis on the nature and functions of product markets, the theory of the firm under varying conditions of competition and monopoly, and the role of government in prompting efficiency in the economy.",
-      []
-    ],
     "ECON 103": [
       "Macroeconomic Principles",
       {
@@ -630,6 +600,36 @@
       "[IAI Code: S3901] Introduction to the theory of determination of total or aggregate income, employment, output, price levels, and the role of money in the economy. Primary emphasis on monetary and fiscal policy, inflation, unemployment, economic growth, and international economics.",
       []
     ],
+    "ECON 102": [
+      "Microeconomic Principles",
+      {
+        "ONL": [
+          "10019",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "DiIanni, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "[IAI Code: S3902] Introduction to the functions of individual decision-makers, both consumers and producers, within the larger economic system. Primary emphasis on the nature and functions of product markets, the theory of the firm under varying conditions of competition and monopoly, and the role of government in prompting efficiency in the economy.",
+      []
+    ],
     "ENGL 360": [
       "Environmental Writing",
       {
@@ -658,6 +658,36 @@
       },
       [],
       null,
+      []
+    ],
+    "ESE 118": [
+      "Natural Disasters",
+      {
+        "A": [
+          "10008",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Austin, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as GEOL 118 and GLBL 118. See GEOL 118.",
       []
     ],
     "ESE 117": [
@@ -720,36 +750,6 @@
       "Same as ATMS 120. See ATMS 120.",
       []
     ],
-    "ESE 118": [
-      "Natural Disasters",
-      {
-        "A": [
-          "10008",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Austin, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as GEOL 118 and GLBL 118. See GEOL 118.",
-      []
-    ],
     "ESE 360": [
       "Environmental Writing",
       {
@@ -778,36 +778,6 @@
       },
       [],
       "Equips students to write about the environment for various audiences, with a focus on specific current efforts to promote sustainability on the Urbana-Champaign campus. We will practice effective techniques for each stage of the writing process-from defining topics, to gathering information, to crafting active, engaging prose. Readings will include models of effective environmental writing and \"how to\" pieces by experts. Research will include visits to campus sites and student-conducted interviews with subjects.",
-      []
-    ],
-    "GEOL 118": [
-      "Natural Disasters",
-      {
-        "A": [
-          "10007",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Austin, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Introduces the nature, causes, risks, effects, and prediction of natural disasters including earthquakes, volcanoes, landslides, subsidence, global climate change, severe weather, coastal erosion, floods, mass extinctions, and meteorite impacts; covers scientific principles and case histories of natural disasters as well as human responses (societal impact, mitigation strategies, and public policy).",
       []
     ],
     "GEOL 117": [
@@ -840,6 +810,36 @@
       "Integrated introduction to oceanography and marine geology and geophysics. Topics include ocean-basin formation and evolution (in the context of plate tectonics), ocean ecology, the hydrologic cycle, water chemistry, currents and waves, the interaction of oceans with climate, coastal hazards, resources, pollution, and the Law of the Sea. Course is oriented toward students not majoring in science.",
       []
     ],
+    "GEOL 118": [
+      "Natural Disasters",
+      {
+        "A": [
+          "10007",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Austin, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduces the nature, causes, risks, effects, and prediction of natural disasters including earthquakes, volcanoes, landslides, subsidence, global climate change, severe weather, coastal erosion, floods, mass extinctions, and meteorite impacts; covers scientific principles and case histories of natural disasters as well as human responses (societal impact, mitigation strategies, and public policy).",
+      []
+    ],
     "GLBL 118": [
       "Natural Disasters",
       {
@@ -870,36 +870,6 @@
       "Same as ESE 118 and GEOL 118. See GEOL 118.",
       []
     ],
-    "GLBL 200": [
-      "Foundations of Research",
-      {
-        "AL1": [
-          "10117",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Bonatti, V"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Introduction to the foundations of interdisciplinary social science research. Topic include understanding the purpose for research, identifying researchable issues, finding evaluating and using sources effectively, recognizing methods associated with different types of data and disciplines, and writing a literature review. Prepares students for course-based research papers and advanced research methods courses. Guest faculty present their Global Studies-relevant research as students (b)log their own research interests.",
-      []
-    ],
     "GLBL 100": [
       "Intro to Global Studies",
       {
@@ -928,6 +898,36 @@
       },
       [],
       "Foundation course for understanding a range of contemporary issues and learning to analyze them from multiple disciplinary perspectives. Students consider globalizing trends within themes of wealth and poverty; population, cultures, and human rights; environment and sustainability; and governance, conflict, and cooperation. Course objectives are to enhance knowledge of human cultures, their interactions and impacts on the world; develop skills for successfully negotiating realities of contemporary societies; and promote values for global learning, diversity, and sustainable futures.",
+      []
+    ],
+    "GLBL 200": [
+      "Foundations of Research",
+      {
+        "AL1": [
+          "10117",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Bonatti, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to the foundations of interdisciplinary social science research. Topic include understanding the purpose for research, identifying researchable issues, finding evaluating and using sources effectively, recognizing methods associated with different types of data and disciplines, and writing a literature review. Prepares students for course-based research papers and advanced research methods courses. Guest faculty present their Global Studies-relevant research as students (b)log their own research interests.",
       []
     ],
     "GWS 356": [
@@ -1050,36 +1050,6 @@
       "Broad introduction to global history, by exploring the global structures and transnational forces that have shaped human history, from the emergence of agriculture and urban centers to our contemporary global village.",
       []
     ],
-    "HK 271": [
-      "Health Equity in the United States",
-      {
-        "ONL": [
-          "10139",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Frasca, B"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Introduces students to the field of health equity in the United States, including the existence and magnitude of health disparities related to historically underrepresented groups of diverse racial/ethnic backgrounds, immigrant and rural populations, gender, age, veteran status, and ability level. The course will examine relevant issues, frameworks, theories, and solutions.",
-      []
-    ],
     "HK 302": [
       "Disability in American Society",
       {
@@ -1108,6 +1078,36 @@
       },
       [],
       "Acquaints students with the medical, psychosocial, vocational, political, and cultural aspects of disability in America. Development and implementation of disability policy by governmental agencies in this country will be examined, and the role of activism and advocacy in securing civil rights for persons with a disability will be explored. Various philosophical and theoretical models for understanding the disability experience will be offered, and course content will include the key historical events that shaped the present conditions of persons with disabilities. Lastly, students will be introduced to an array of service modalities used to address health and adjustment needs of persons with disabilities.",
+      []
+    ],
+    "HK 271": [
+      "Health Equity in the United States",
+      {
+        "ONL": [
+          "10139",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Frasca, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduces students to the field of health equity in the United States, including the existence and magnitude of health disparities related to historically underrepresented groups of diverse racial/ethnic backgrounds, immigrant and rural populations, gender, age, veteran status, and ability level. The course will examine relevant issues, frameworks, theories, and solutions.",
       []
     ],
     "IS 199": [
@@ -1140,36 +1140,6 @@
       "Additional fees may apply. See Class Schedule. May be repeated.",
       []
     ],
-    "IS 229": [
-      "Web Design Fundamentals",
-      {
-        "OAU": [
-          "10132",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "MacMullen, T"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "In this course students will learn the principles and methodologies of modern Web design and development, while also becoming familiar with the history of the Web. Students will develop useful practical skills through hands-on engagement with open-source tools, platforms, and resources, while also acquiring a critical understanding of current challenges around such topics as web-standards, security, and accessibility. Students will also become familiar with philosophical models and practical frameworks for creating human-centered systems and will apply such constructively critical understandings in their own web design projects.",
-      []
-    ],
     "IS 390": [
       "Special Topics in Information Studies",
       {
@@ -1198,6 +1168,36 @@
       },
       [],
       "Directed and supervised investigation of selected topics in information studies that may include among others computers and culture; information policy; community information systems; production, retrieval and evaluation of scientific or social science knowledge; computer-mediated communication; and computer-supported cooperative work.",
+      []
+    ],
+    "IS 229": [
+      "Web Design Fundamentals",
+      {
+        "OAU": [
+          "10132",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "MacMullen, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "In this course students will learn the principles and methodologies of modern Web design and development, while also becoming familiar with the history of the Web. Students will develop useful practical skills through hands-on engagement with open-source tools, platforms, and resources, while also acquiring a critical understanding of current challenges around such topics as web-standards, security, and accessibility. Students will also become familiar with philosophical models and practical frameworks for creating human-centered systems and will apply such constructively critical understandings in their own web design projects.",
       []
     ],
     "IS 445": [
@@ -1320,36 +1320,6 @@
       "Professionally supervised field experience in design offices and public agencies intended to provide the opportunity for graduate students to develop advanced practice skills. Students work in the department-approved firm or agency of their choice. Seventy five hours of employment is required for each one hour of course credit.",
       []
     ],
-    "MACS 380": [
-      "21st Century Documentaries",
-      {
-        "A": [
-          "10158",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Aguayo, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Documentary has exploded in the past decade, with more being created, screened and watched than at any time in history. But what has this growth meant to documentary, and how has it impacted what we see on screen and how documentary stories are being told? We will examine the changes and trends taking place in film and television documentaries over the past decade. We will watch and analyze a variety of contemporary documentaries, examining some of the different stylistic, production, and story-telling methods that have developed over this time. If you enjoy watching documentaries and want to learn more about them, you will find this an enjoyable and thought-provoking course.",
-      []
-    ],
     "MACS 356": [
       "Sex & Gender in Popular Media",
       {
@@ -1380,11 +1350,11 @@
       "Examines the notion that the mass media influence our development as gendered individuals, looking at those who argue for and against this notion. Considers different forms of feminist theory applied to the study of mass media, the history and scholarly criticisms of the media and their portrayal of women, and feminist attempts to create alternatives to mainstream media images. Throughout, the course considers representation of minorities in the dominant media and examines newly created alternative representations.",
       []
     ],
-    "MUS 133": [
-      "Introduction to World Music",
+    "MACS 380": [
+      "21st Century Documentaries",
       {
         "A": [
-          "10097",
+          "10158",
           [
             [
               0,
@@ -1392,8 +1362,7 @@
               "ONLINE",
               0,
               [
-                "Miller, M",
-                "Smith, J"
+                "Aguayo, A"
               ],
               -1,
               -1,
@@ -1408,7 +1377,7 @@
         ]
       },
       [],
-      "[IAI Code: F1903N] A survey of various musical traditions from different regions and peoples of the world.",
+      "Documentary has exploded in the past decade, with more being created, screened and watched than at any time in history. But what has this growth meant to documentary, and how has it impacted what we see on screen and how documentary stories are being told? We will examine the changes and trends taking place in film and television documentaries over the past decade. We will watch and analyze a variety of contemporary documentaries, examining some of the different stylistic, production, and story-telling methods that have developed over this time. If you enjoy watching documentaries and want to learn more about them, you will find this an enjoyable and thought-provoking course.",
       []
     ],
     "MUS 132": [
@@ -1440,6 +1409,37 @@
       },
       [],
       "Courses within this rubric provide an analytical and historical introduction to genres of popular music from the United States and around the world. Iterations of the course may focus on a specific genre, such as Rock, Reggae, or Afropop, or may deal with broader subjects, such as the continua of styles including R&B, Soul, Funk, and Hip Hop, or the pan-generic, international phenomenon of pop music globalization in the twentieth century.",
+      []
+    ],
+    "MUS 133": [
+      "Introduction to World Music",
+      {
+        "A": [
+          "10097",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Miller, M",
+                "Smith, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "[IAI Code: F1903N] A survey of various musical traditions from different regions and peoples of the world.",
       []
     ],
     "NS 120": [
@@ -1532,11 +1532,11 @@
       "[IAI Code: S5906N] Provides comparative and historical insights into the problems affecting the developing world by examining social, economic and political changes in Africa, Asia, and Latin America.",
       []
     ],
-    "PSYC 204": [
-      "Intro to Brain and Cognition",
+    "PSYC 216": [
+      "Child Psych",
       {
         "A": [
-          "10060",
+          "10099",
           [
             [
               0,
@@ -1544,7 +1544,7 @@
               "ONLINE",
               0,
               [
-                "Dolcos, S"
+                "Hyde, D"
               ],
               -1,
               -1,
@@ -1552,14 +1552,14 @@
             ]
           ],
           3,
-          0,
+          2,
           0,
           [],
           -1
         ]
       },
       [],
-      "Introduction to the interdisciplinary field of cognitive neuroscience, which is concerned with how the cognitive systems supporting a broad range of capacities including memory, attention, and social and emotional processing, arise from the functioning of specific brain modules and brain mechanisms. Emphasizes how functional brain imaging and other cognitive neuroscience methods can be brought to bear on answering these questions.",
+      "[IAI Code: S6903] Study of the psychological development of the child.",
       []
     ],
     "PSYC 100": [
@@ -1592,11 +1592,11 @@
       "[IAI Code: S6900] Study of human behavior with special reference to perception, learning, memory, thinking, emotional life, and individual differences in intelligence, aptitude, and personality; emphasis on the scientific nature of psychological investigations; and discussion of research methods and the relation of their results to daily life and everyday problems. Lectures, discussions, and six hours of participation as a subject in psychological experiments.",
       []
     ],
-    "PSYC 216": [
-      "Child Psych",
+    "PSYC 204": [
+      "Intro to Brain and Cognition",
       {
         "A": [
-          "10099",
+          "10060",
           [
             [
               0,
@@ -1604,7 +1604,7 @@
               "ONLINE",
               0,
               [
-                "Hyde, D"
+                "Dolcos, S"
               ],
               -1,
               -1,
@@ -1612,14 +1612,14 @@
             ]
           ],
           3,
-          2,
+          0,
           0,
           [],
           -1
         ]
       },
       [],
-      "[IAI Code: S6903] Study of the psychological development of the child.",
+      "Introduction to the interdisciplinary field of cognitive neuroscience, which is concerned with how the cognitive systems supporting a broad range of capacities including memory, attention, and social and emotional processing, arise from the functioning of specific brain modules and brain mechanisms. Emphasizes how functional brain imaging and other cognitive neuroscience methods can be brought to bear on answering these questions.",
       []
     ],
     "PSYC 230": [
@@ -1712,36 +1712,6 @@
       "[IAI Code: S7900] Sociology offers a unique lens through which we can examine the world around us. In this course you will develop a perspective that will allow you to analyze the social world in a way that reveals the hidden and/or overlooked social forces that shape our lives. This approach, the sociological imagination, will enable you to explore how social forces influence the ways we view and navigate our social world. We will discuss how sociologists use theory and research to better understand important social issues such as inequalities of race, class, gender, sexualities and how social order and social change are possible. We will discuss how society affects individuals and in turn how individuals can affect society.",
       []
     ],
-    "SPAN 205": [
-      "Spanish in the Professions",
-      {
-        "10161": [
-          "10161",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Dutton, M"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Introduction to Spanish in business, law, medical, education & social service fields, with a focus on the importance of bilingualism in the U.S., strategies for lifelong learning, and cultural considerations. The development of functional use of Spanish within the professional context is the major focus of the course. This is considered a fourth level course for the purposes of fulfilling the Language Other Than English (LOTE) requirement. Instruction in Spanish.",
-      []
-    ],
     "SPAN 201": [
       "Intermediate Spanish",
       {
@@ -1793,6 +1763,36 @@
       [],
       "Continued development of reading, writing and conversational skills. This is considered a third level course for the purposes of fulfilling the Language Other Than English (LOTE) requirement. Instruction in Spanish.",
       []
+    ],
+    "SPAN 205": [
+      "Spanish in the Professions",
+      {
+        "10161": [
+          "10161",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Dutton, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to Spanish in business, law, medical, education & social service fields, with a focus on the importance of bilingualism in the U.S., strategies for lifelong learning, and cultural considerations. The development of functional use of Spanish within the professional context is the major focus of the course. This is considered a fourth level course for the purposes of fulfilling the Language Other Than English (LOTE) requirement. Instruction in Spanish.",
+      []
     ]
   },
   "caches": {
@@ -1818,6 +1818,6 @@
     "finalDates": [],
     "finalTimes": []
   },
-  "updatedAt": "2026-11-02T05:09:16.622Z",
+  "updatedAt": "2026-11-02T05:10:15.424Z",
   "version": 3
 }
