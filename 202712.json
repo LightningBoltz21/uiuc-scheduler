@@ -1,35 +1,5 @@
 {
   "courses": {
-    "ADV 150": [
-      "Introduction to Advertising",
-      {
-        "A": [
-          "10104",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Hall, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Introduction to the practice and profession of advertising. Course material covers various functional areas of advertising and integrated brand promotion, including account planning, creative, media, research, consumer behavior, sales promotion and interactive advertising. Topics also include how advertising relates to society in cultural, social, ethical and regulatory contexts. Open to all undergraduate majors.",
-      []
-    ],
     "ADV 175": [
       "Introduction to Multicultural Advertising",
       {
@@ -58,6 +28,36 @@
       },
       [],
       "Examines the multifaceted role diversity (including racial, gender, orientation, ability status) plays in the delivery and reception of advertising. Additionally, it examines the development of diversity as a marketplace practice and on the development of the advertising industry. We'll analyze advertising using a historical, cultural, and social perspective and address issues of diversity in the industry. We will also critically review current issues of multicultural, transcultural and multidimensional advertising and marketing. In the process we’ll grapple with current theories on race and implicit /explicit bias and prejudice and their impact upon the production of advertising and consumer communications.",
+      []
+    ],
+    "ADV 150": [
+      "Introduction to Advertising",
+      {
+        "A": [
+          "10104",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Hall, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to the practice and profession of advertising. Course material covers various functional areas of advertising and integrated brand promotion, including account planning, creative, media, research, consumer behavior, sales promotion and interactive advertising. Topics also include how advertising relates to society in cultural, social, ethical and regulatory contexts. Open to all undergraduate majors.",
       []
     ],
     "AFAS 120": [
@@ -90,36 +90,6 @@
       "Same as MILS 120 and NS 120. See MILS 120.",
       []
     ],
-    "ANTH 246": [
-      "Forensic Science",
-      {
-        "ONL": [
-          "10143",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Unassigned Instructor"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "History and theory underlying methods used in forensic science. Topics include the courtroom, the units of a crime laboratory, methods of securing and investigating a crime scene, and the analysis of evidence collected from a crime scene such as blood, fibers, hair, DNA, and fingerprints.",
-      []
-    ],
     "ANTH 103": [
       "Anthro in a Changing World",
       {
@@ -148,6 +118,36 @@
       },
       [],
       "[IAI Code: S1901N] Presents the fundamental areas of anthropological analysis through a series of comparative cases that emphasize social and cultural relations in global contexts. Directs attention to the anthropological history of global empires and colonial states, their cultural exchanges, and contemporary studies of culture, society, and globalization.",
+      []
+    ],
+    "ANTH 246": [
+      "Forensic Science",
+      {
+        "ONL": [
+          "10143",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "History and theory underlying methods used in forensic science. Topics include the courtroom, the units of a crime laboratory, methods of securing and investigating a crime scene, and the analysis of evidence collected from a crime scene such as blood, fibers, hair, DNA, and fingerprints.",
       []
     ],
     "ASTR 330": [
@@ -330,36 +330,6 @@
       "General analysis of management and organizational behavior from a systems point of view, including classical organizational theory and management, organizational behavior, and management science; environmental forces; planning, organizing, and control processes; motivation, incentives, leadership, communication, and interpersonal relations; and discussion of production and decision-making and mathematical models.",
       []
     ],
-    "BADM 380": [
-      "International Business",
-      {
-        "OL": [
-          "10017",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Bucheli, M"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Introduces the field of international business and management. Examines the economic, political, and legal environments of international business. Analyzes differences in financial management, marketing, and management practices for firms doing business abroad.",
-      []
-    ],
     "BADM 320": [
       "Principles of Marketing",
       {
@@ -390,11 +360,11 @@
       "Emphasizes the concepts of planning, organization, control, and decision making as they are applied in the management of the marketing function. Provides an overview of aspects of the marketing discipline.",
       []
     ],
-    "CLCV 115": [
-      "Mythology of Greece and Rome",
+    "BADM 380": [
+      "International Business",
       {
-        "A": [
-          "10083",
+        "OL": [
+          "10017",
           [
             [
               0,
@@ -402,7 +372,7 @@
               "ONLINE",
               0,
               [
-                "Moulita, M"
+                "Bucheli, M"
               ],
               -1,
               -1,
@@ -417,7 +387,7 @@
         ]
       },
       [],
-      "Studies the major myths of Greece and Rome and their impact upon later art, music, and literature. Shares two hours of lecture with CLCV 111; additional hour of lecture-discussion for a closer analysis of topics.",
+      "Introduces the field of international business and management. Examines the economic, political, and legal environments of international business. Analyzes differences in financial management, marketing, and management practices for firms doing business abroad.",
       []
     ],
     "CLCV 114": [
@@ -448,6 +418,36 @@
       },
       [],
       "Introductory study of ancient Greek literature, art, and culture.",
+      []
+    ],
+    "CLCV 115": [
+      "Mythology of Greece and Rome",
+      {
+        "A": [
+          "10083",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Moulita, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Studies the major myths of Greece and Rome and their impact upon later art, music, and literature. Shares two hours of lecture with CLCV 111; additional hour of lecture-discussion for a closer analysis of topics.",
       []
     ],
     "CLCV 102": [
@@ -570,36 +570,6 @@
       "[IAI Code: F1906] Overview of major works, figures, and trends responsible for shaping dance as an evolving contemporary art form. The course will have lecture, viewing, discussion and experiential (studio participation) components.",
       []
     ],
-    "ECON 102": [
-      "Microeconomic Principles",
-      {
-        "ONL": [
-          "10019",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "DiIanni, I"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "[IAI Code: S3902] Introduction to the functions of individual decision-makers, both consumers and producers, within the larger economic system. Primary emphasis on the nature and functions of product markets, the theory of the firm under varying conditions of competition and monopoly, and the role of government in prompting efficiency in the economy.",
-      []
-    ],
     "ECON 103": [
       "Macroeconomic Principles",
       {
@@ -630,6 +600,36 @@
       "[IAI Code: S3901] Introduction to the theory of determination of total or aggregate income, employment, output, price levels, and the role of money in the economy. Primary emphasis on monetary and fiscal policy, inflation, unemployment, economic growth, and international economics.",
       []
     ],
+    "ECON 102": [
+      "Microeconomic Principles",
+      {
+        "ONL": [
+          "10019",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "DiIanni, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "[IAI Code: S3902] Introduction to the functions of individual decision-makers, both consumers and producers, within the larger economic system. Primary emphasis on the nature and functions of product markets, the theory of the firm under varying conditions of competition and monopoly, and the role of government in prompting efficiency in the economy.",
+      []
+    ],
     "ENGL 360": [
       "Environmental Writing",
       {
@@ -658,6 +658,36 @@
       },
       [],
       null,
+      []
+    ],
+    "ESE 120": [
+      "Severe and Hazardous Weather",
+      {
+        "ONL": [
+          "10038",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Choate, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as ATMS 120. See ATMS 120.",
       []
     ],
     "ESE 117": [
@@ -718,36 +748,6 @@
       },
       [],
       "Same as GEOL 118 and GLBL 118. See GEOL 118.",
-      []
-    ],
-    "ESE 120": [
-      "Severe and Hazardous Weather",
-      {
-        "ONL": [
-          "10038",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Choate, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as ATMS 120. See ATMS 120.",
       []
     ],
     "ESE 360": [
@@ -840,36 +840,6 @@
       "Introduces the nature, causes, risks, effects, and prediction of natural disasters including earthquakes, volcanoes, landslides, subsidence, global climate change, severe weather, coastal erosion, floods, mass extinctions, and meteorite impacts; covers scientific principles and case histories of natural disasters as well as human responses (societal impact, mitigation strategies, and public policy).",
       []
     ],
-    "GLBL 118": [
-      "Natural Disasters",
-      {
-        "A": [
-          "10009",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Austin, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as ESE 118 and GEOL 118. See GEOL 118.",
-      []
-    ],
     "GLBL 100": [
       "Intro to Global Studies",
       {
@@ -898,6 +868,36 @@
       },
       [],
       "Foundation course for understanding a range of contemporary issues and learning to analyze them from multiple disciplinary perspectives. Students consider globalizing trends within themes of wealth and poverty; population, cultures, and human rights; environment and sustainability; and governance, conflict, and cooperation. Course objectives are to enhance knowledge of human cultures, their interactions and impacts on the world; develop skills for successfully negotiating realities of contemporary societies; and promote values for global learning, diversity, and sustainable futures.",
+      []
+    ],
+    "GLBL 118": [
+      "Natural Disasters",
+      {
+        "A": [
+          "10009",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Austin, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as ESE 118 and GEOL 118. See GEOL 118.",
       []
     ],
     "GLBL 200": [
@@ -960,6 +960,36 @@
       "Same as MACS 356. See MACS 356.",
       []
     ],
+    "HIST 262": [
+      "Zionism: A Global History",
+      {
+        "A": [
+          "10162",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Strakhova, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Examines the history of the Zionist movement. The course is designed for students with no prior knowledge of Jewish, European, or Middle Eastern history. The goal is to survey how Zionism emerged as a widespread political movement and, in the process, helped create an independent state for the Jewish people. In addition to familiarizing students with the backstory of a globally significant movement, this class will teach students historical interpretation skills.",
+      []
+    ],
     "HIST 104": [
       "Black Music",
       {
@@ -1018,36 +1048,6 @@
       },
       [],
       "Broad introduction to global history, by exploring the global structures and transnational forces that have shaped human history, from the emergence of agriculture and urban centers to our contemporary global village.",
-      []
-    ],
-    "HIST 262": [
-      "Zionism: A Global History",
-      {
-        "A": [
-          "10162",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Strakhova, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Examines the history of the Zionist movement. The course is designed for students with no prior knowledge of Jewish, European, or Middle Eastern history. The goal is to survey how Zionism emerged as a widespread political movement and, in the process, helped create an independent state for the Jewish people. In addition to familiarizing students with the backstory of a globally significant movement, this class will teach students historical interpretation skills.",
       []
     ],
     "HK 271": [
@@ -1110,6 +1110,36 @@
       "Acquaints students with the medical, psychosocial, vocational, political, and cultural aspects of disability in America. Development and implementation of disability policy by governmental agencies in this country will be examined, and the role of activism and advocacy in securing civil rights for persons with a disability will be explored. Various philosophical and theoretical models for understanding the disability experience will be offered, and course content will include the key historical events that shaped the present conditions of persons with disabilities. Lastly, students will be introduced to an array of service modalities used to address health and adjustment needs of persons with disabilities.",
       []
     ],
+    "IS 229": [
+      "Web Design Fundamentals",
+      {
+        "OAU": [
+          "10132",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "MacMullen, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "In this course students will learn the principles and methodologies of modern Web design and development, while also becoming familiar with the history of the Web. Students will develop useful practical skills through hands-on engagement with open-source tools, platforms, and resources, while also acquiring a critical understanding of current challenges around such topics as web-standards, security, and accessibility. Students will also become familiar with philosophical models and practical frameworks for creating human-centered systems and will apply such constructively critical understandings in their own web design projects.",
+      []
+    ],
     "IS 390": [
       "Special Topics in Information Studies",
       {
@@ -1168,36 +1198,6 @@
       },
       [],
       "Additional fees may apply. See Class Schedule. May be repeated.",
-      []
-    ],
-    "IS 229": [
-      "Web Design Fundamentals",
-      {
-        "OAU": [
-          "10132",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "MacMullen, T"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "In this course students will learn the principles and methodologies of modern Web design and development, while also becoming familiar with the history of the Web. Students will develop useful practical skills through hands-on engagement with open-source tools, platforms, and resources, while also acquiring a critical understanding of current challenges around such topics as web-standards, security, and accessibility. Students will also become familiar with philosophical models and practical frameworks for creating human-centered systems and will apply such constructively critical understandings in their own web design projects.",
       []
     ],
     "IS 445": [
@@ -1320,36 +1320,6 @@
       "Professionally supervised field experience in design offices and public agencies intended to provide the opportunity for graduate students to develop advanced practice skills. Students work in the department-approved firm or agency of their choice. Seventy five hours of employment is required for each one hour of course credit.",
       []
     ],
-    "MACS 380": [
-      "21st Century Documentaries",
-      {
-        "A": [
-          "10158",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Aguayo, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Documentary has exploded in the past decade, with more being created, screened and watched than at any time in history. But what has this growth meant to documentary, and how has it impacted what we see on screen and how documentary stories are being told? We will examine the changes and trends taking place in film and television documentaries over the past decade. We will watch and analyze a variety of contemporary documentaries, examining some of the different stylistic, production, and story-telling methods that have developed over this time. If you enjoy watching documentaries and want to learn more about them, you will find this an enjoyable and thought-provoking course.",
-      []
-    ],
     "MACS 356": [
       "Sex & Gender in Popular Media",
       {
@@ -1378,6 +1348,36 @@
       },
       [],
       "Examines the notion that the mass media influence our development as gendered individuals, looking at those who argue for and against this notion. Considers different forms of feminist theory applied to the study of mass media, the history and scholarly criticisms of the media and their portrayal of women, and feminist attempts to create alternatives to mainstream media images. Throughout, the course considers representation of minorities in the dominant media and examines newly created alternative representations.",
+      []
+    ],
+    "MACS 380": [
+      "21st Century Documentaries",
+      {
+        "A": [
+          "10158",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Aguayo, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Documentary has exploded in the past decade, with more being created, screened and watched than at any time in history. But what has this growth meant to documentary, and how has it impacted what we see on screen and how documentary stories are being told? We will examine the changes and trends taking place in film and television documentaries over the past decade. We will watch and analyze a variety of contemporary documentaries, examining some of the different stylistic, production, and story-telling methods that have developed over this time. If you enjoy watching documentaries and want to learn more about them, you will find this an enjoyable and thought-provoking course.",
       []
     ],
     "MUS 133": [
@@ -1532,36 +1532,6 @@
       "[IAI Code: S5906N] Provides comparative and historical insights into the problems affecting the developing world by examining social, economic and political changes in Africa, Asia, and Latin America.",
       []
     ],
-    "PSYC 204": [
-      "Intro to Brain and Cognition",
-      {
-        "A": [
-          "10060",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Dolcos, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Introduction to the interdisciplinary field of cognitive neuroscience, which is concerned with how the cognitive systems supporting a broad range of capacities including memory, attention, and social and emotional processing, arise from the functioning of specific brain modules and brain mechanisms. Emphasizes how functional brain imaging and other cognitive neuroscience methods can be brought to bear on answering these questions.",
-      []
-    ],
     "PSYC 216": [
       "Child Psych",
       {
@@ -1620,6 +1590,36 @@
       },
       [],
       "[IAI Code: S6900] Study of human behavior with special reference to perception, learning, memory, thinking, emotional life, and individual differences in intelligence, aptitude, and personality; emphasis on the scientific nature of psychological investigations; and discussion of research methods and the relation of their results to daily life and everyday problems. Lectures, discussions, and six hours of participation as a subject in psychological experiments.",
+      []
+    ],
+    "PSYC 204": [
+      "Intro to Brain and Cognition",
+      {
+        "A": [
+          "10060",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Dolcos, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to the interdisciplinary field of cognitive neuroscience, which is concerned with how the cognitive systems supporting a broad range of capacities including memory, attention, and social and emotional processing, arise from the functioning of specific brain modules and brain mechanisms. Emphasizes how functional brain imaging and other cognitive neuroscience methods can be brought to bear on answering these questions.",
       []
     ],
     "PSYC 230": [
@@ -1712,58 +1712,6 @@
       "[IAI Code: S7900] Sociology offers a unique lens through which we can examine the world around us. In this course you will develop a perspective that will allow you to analyze the social world in a way that reveals the hidden and/or overlooked social forces that shape our lives. This approach, the sociological imagination, will enable you to explore how social forces influence the ways we view and navigate our social world. We will discuss how sociologists use theory and research to better understand important social issues such as inequalities of race, class, gender, sexualities and how social order and social change are possible. We will discuss how society affects individuals and in turn how individuals can affect society.",
       []
     ],
-    "SPAN 205": [
-      "Spanish in the Professions",
-      {
-        "A": [
-          "10161",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Unassigned Instructor"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "B": [
-          "10164",
-          [
-            [
-              0,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Unassigned Instructor"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Introduction to Spanish in business, law, medical, education & social service fields, with a focus on the importance of bilingualism in the U.S., strategies for lifelong learning, and cultural considerations. The development of functional use of Spanish within the professional context is the major focus of the course. This is considered a fourth level course for the purposes of fulfilling the Language Other Than English (LOTE) requirement. Instruction in Spanish.",
-      []
-    ],
     "SPAN 201": [
       "Intermediate Spanish",
       {
@@ -1815,6 +1763,58 @@
       [],
       "Continued development of reading, writing and conversational skills. This is considered a third level course for the purposes of fulfilling the Language Other Than English (LOTE) requirement. Instruction in Spanish.",
       []
+    ],
+    "SPAN 205": [
+      "Spanish in the Professions",
+      {
+        "A": [
+          "10161",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "10164",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to Spanish in business, law, medical, education & social service fields, with a focus on the importance of bilingualism in the U.S., strategies for lifelong learning, and cultural considerations. The development of functional use of Spanish within the professional context is the major focus of the course. This is considered a fourth level course for the purposes of fulfilling the Language Other Than English (LOTE) requirement. Instruction in Spanish.",
+      []
     ]
   },
   "caches": {
@@ -1840,6 +1840,6 @@
     "finalDates": [],
     "finalTimes": []
   },
-  "updatedAt": "2026-11-09T05:12:35.671Z",
+  "updatedAt": "2026-11-09T05:13:40.598Z",
   "version": 3
 }
