@@ -4,7 +4,7 @@
   "year": "2027",
   "term": "spring",
   "startedAt": 1794502755201,
-  "lastUpdated": 1794504350548,
+  "lastUpdated": 1794504415818,
   "totalSubjects": 188,
   "totalCourses": 4527,
   "subjects": [
@@ -18830,19 +18830,27 @@
     "LEAD",
     "PATH",
     "PERS",
-    "PHIL"
+    "PHIL",
+    "PHYS",
+    "PLPA",
+    "POL",
+    "PS",
+    "PORT",
+    "PSM",
+    "PSYC",
+    "QUEC"
   ],
   "partialSubjects": {
-    "PHYS": {
-      "completed": 41,
-      "total": 49,
+    "RST": {
+      "completed": 17,
+      "total": 54,
       "lastCourse": "ABORTED"
     }
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 3704,
-    "failedCourses": 21,
+    "successfulCourses": 3885,
+    "failedCourses": 22,
     "rateLimitCount": 0
   }
 }

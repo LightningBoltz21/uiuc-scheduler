@@ -1,7 +1,7 @@
 {
   "subject": "PHYS",
-  "scrapedAt": 1794504350544,
-  "courseCount": 41,
+  "scrapedAt": 1794504379970,
+  "courseCount": 49,
   "courses": {
     "PHYS 199": [
       "Undergraduate Open Seminar",
@@ -9772,6 +9772,623 @@
       },
       [],
       "Crystalline perfection, free-electron gas, screening, plasma oscillations, and dielectric response; Bloch electrons, Brillouin zones, and band structure; semiconductors, intrinsic and extrinsic, with applications; phonons, elasticity, and anharmonicity; ferromagnetism and second-order phase transitions; superconductivity.",
+      []
+    ],
+    "PHYS 581": [
+      "Quantum Mechanics II",
+      {
+        "A": [
+          "36784",
+          [
+            [
+              17,
+              "TR",
+              "276 Loomis Laboratory",
+              26,
+              [
+                "Faulkner, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Spin and identical particles, simple many-particle systems and elements of second-quantization theory; time-dependent processes, radiative transitions, and quantization of the electromagnetic field; scattering of particles with spin; polarization; introduction to the Klein-Gordon and Dirac equations and properties of simple relativistic systems.",
+      []
+    ],
+    "PHYS 591": [
+      "Secondary Physics Curriculum Design for In-Service Teachers II",
+      {
+        "A": [
+          "78212",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              3,
+              [
+                "Lundsgaard, M",
+                "Mahmood, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Continuation of PHYS 590 with instructional focus on spring semester content. Continued curricular material development through selectively adapting and integrating pedagogies and instructional materials used in the introductory Physics courses at U of I into their unique high school classroom contexts.",
+      []
+    ],
+    "PHYS 583": [
+      "Advanced Field Theory",
+      {
+        "A": [
+          "36786",
+          [
+            [
+              17,
+              "TR",
+              "158 Loomis Laboratory",
+              26,
+              [
+                "Fradkin, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Quantization and Feynman path integral; gauge theories and renormalization; renormalization group with applications to particle physics and critical phenomena; approximation methods and recent developments.",
+      []
+    ],
+    "PHYS 595": [
+      "Communicating Scientific Research",
+      {
+        "A": [
+          "74444",
+          [
+            [
+              37,
+              "F",
+              "158 Loomis Laboratory",
+              26,
+              [
+                "Cooper, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Helps graduate students in science and engineering improve their scientific writing and presentation skills through instruction and detailed feedback on a variety of technical writing and presentation styles common in science and engineering practice. These assignments include a journal-style research paper, an NSF-style proposal, an editor cover letter, a referee report, and journal club and research presentations. In class weekly \"Writing Workshop\" assignments also offer students experience reading and revising technical material and correcting common rhetorical errors.",
+      []
+    ],
+    "PHYS 597": [
+      "Individual Study",
+      {
+        "10150": [
+          "10150",
+          [
+            [
+              3,
+              "",
+              "TBA",
+              3,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "AFH": [
+          "78611",
+          [
+            [
+              3,
+              "",
+              "TBA",
+              3,
+              [
+                "Hoffmann, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "CPA": [
+          "76295",
+          [
+            [
+              3,
+              "",
+              "TBA",
+              3,
+              [
+                "Anderson, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "LCH": [
+          "78353",
+          [
+            [
+              3,
+              "",
+              "TBA",
+              3,
+              [
+                "Chen, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "PDD": [
+          "75185",
+          [
+            [
+              3,
+              "",
+              "TBA",
+              3,
+              [
+                "Dragic, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "ROH": [
+          "76263",
+          [
+            [
+              3,
+              "",
+              "TBA",
+              3,
+              [
+                "Haas, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "SL": [
+          "76164",
+          [
+            [
+              3,
+              "",
+              "TBA",
+              3,
+              [
+                "Link, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "XLI": [
+          "78373",
+          [
+            [
+              3,
+              "",
+              "TBA",
+              3,
+              [
+                "Liu, X"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Individual study in a subject not covered in course offerings may be arranged for credit by registration under this number.",
+      []
+    ],
+    "PHYS 594": [
+      "Quantum Information Science Curricular Development and Delivery",
+      {
+        "A": [
+          "78970",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              3,
+              [
+                "Lorenz, V",
+                "Mahmood, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "The second in a series of two physics curriculum design courses on quantum information science for in-service high school physics educators. Teachers will co-design and develop a reformed curriculum that incorporates quantum standards. As a final project they will implement one lesson in the last few weeks of the course, which will be recorded and presented for reflection, feedback, and discussion. Evaluation will be based on handouts, worksheets, self-reflections, and lesson plan documentation.",
+      []
+    ],
+    "PHYS 598": [
+      "Special Topics in Physics",
+      {
+        "NST": [
+          "52573",
+          [
+            [
+              7,
+              "TR",
+              "276 Loomis Laboratory",
+              26,
+              [
+                "Noronha-Hostler, J",
+                "Yunes, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Subject offerings of new and developing areas of knowledge in physics intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites.",
+      []
+    ],
+    "PHYS 599": [
+      "Thesis Research",
+      {
+        "CYL": [
+          "78377",
+          [
+            [
+              3,
+              "",
+              "TBA",
+              3,
+              [
+                "Liu, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "GB": [
+          "77527",
+          [
+            [
+              3,
+              "",
+              "TBA",
+              3,
+              [
+                "Bahl, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "JYL": [
+          "78535",
+          [
+            [
+              3,
+              "",
+              "TBA",
+              3,
+              [
+                "Lee, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "KOU": [
+          "77027",
+          [
+            [
+              3,
+              "",
+              "TBA",
+              3,
+              [
+                "Kou, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "LAM": [
+          "77978",
+          [
+            [
+              3,
+              "",
+              "TBA",
+              3,
+              [
+                "Lam, F"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "NEJ": [
+          "76330",
+          [
+            [
+              3,
+              "",
+              "TBA",
+              3,
+              [
+                "Jackson, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "PDD": [
+          "76267",
+          [
+            [
+              3,
+              "",
+              "TBA",
+              3,
+              [
+                "Dragic, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "PJW": [
+          "77558",
+          [
+            [
+              3,
+              "",
+              "TBA",
+              3,
+              [
+                "Wang, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "RMF": [
+          "77461",
+          [
+            [
+              3,
+              "",
+              "TBA",
+              3,
+              [
+                "Fernandes, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "SH": [
+          "78484",
+          [
+            [
+              3,
+              "",
+              "TBA",
+              3,
+              [
+                "Hilgenfeldt, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "SL": [
+          "77449",
+          [
+            [
+              3,
+              "",
+              "TBA",
+              3,
+              [
+                "Link, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Approved for S/U grading only. May be repeated in the same term or in separate terms.",
       []
     ]
   },
