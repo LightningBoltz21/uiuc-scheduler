@@ -294246,6 +294246,36 @@
       "[IAI Code: EGR943] Kinematics and dynamics of the three-dimensional motion of particles; kinematics and dynamics of the plane motion of rigid bodies; methods of work energy and impulse momentum; moving reference frames.",
       []
     ],
+    "TAM 252": [
+      "Solid Mechanics Design",
+      {
+        "B": [
+          "36251",
+          [
+            [
+              10,
+              "R",
+              "3101 Sidney Lu Mech Engr Bldg",
+              33,
+              [
+                "Johnson, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Design problems and projects intended to accompany TAM 251.",
+      []
+    ],
     "TAM 270": [
       "Design for Manufacturability",
       {
@@ -294922,36 +294952,6 @@
       "[IAI Code: EGR945] Relationship between internal stresses and deformations produced by external forces acting on deformable bodies, and design principles based on mechanics of solids: normal stresses, shear stresses, and deformations produced by tensile, compressive, torsional, and bending loading of members; beam deflections; elastic energy and impact; multi-dimensional stress states; buckling of columns.",
       []
     ],
-    "TAM 252": [
-      "Solid Mechanics Design",
-      {
-        "B": [
-          "36251",
-          [
-            [
-              10,
-              "R",
-              "3101 Sidney Lu Mech Engr Bldg",
-              33,
-              [
-                "Johnson, B"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          1,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Design problems and projects intended to accompany TAM 251.",
-      []
-    ],
     "TAM 297": [
       "Introductory Independent Study",
       {
@@ -295164,58 +295164,6 @@
       },
       [],
       null,
-      []
-    ],
-    "TAM 412": [
-      "Intermediate Dynamics",
-      {
-        "C": [
-          "36269",
-          [
-            [
-              7,
-              "MW",
-              "3100 Sidney Lu Mech Engr Bldg",
-              33,
-              [
-                "Matlack, K"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "ONL": [
-          "72806",
-          [
-            [
-              4,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Matlack, K"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          1,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Lagrangian mechanics of dynamical systems with an emphasis on vibrations; constraints and generalized coordinates; motion in accelerating frames; conservation laws and invariance of the Lagrangian; particle motion in one dimension, the two-body problem, and central-force motion; free and forced vibration of linearized single-degree-of-freedom and multi-degree-of-freedom discrete systems; weakly nonlinear vibrations; parametric resonance; introduction to Hamiltonian dynamics; rigid-body motions.",
       []
     ],
     "TAM 335": [
@@ -295586,6 +295534,58 @@
       "Tensor algebra and analysis; kinematics of continua; mass, force, stress, and the general balance laws of continuum mechanics; introduction to constitutive equations.",
       []
     ],
+    "TAM 412": [
+      "Intermediate Dynamics",
+      {
+        "C": [
+          "36269",
+          [
+            [
+              7,
+              "MW",
+              "3100 Sidney Lu Mech Engr Bldg",
+              33,
+              [
+                "Matlack, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "72806",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Matlack, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Lagrangian mechanics of dynamical systems with an emphasis on vibrations; constraints and generalized coordinates; motion in accelerating frames; conservation laws and invariance of the Lagrangian; particle motion in one dimension, the two-body problem, and central-force motion; free and forced vibration of linearized single-degree-of-freedom and multi-degree-of-freedom discrete systems; weakly nonlinear vibrations; parametric resonance; introduction to Hamiltonian dynamics; rigid-body motions.",
+      []
+    ],
     "TAM 456": [
       "Experimental Stress Analysis",
       {
@@ -295698,52 +295698,6 @@
       "Subject offerings of new and developing areas of knowledge in theoretical and applied mechanics intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites.",
       []
     ],
-    "TAM 500": [
-      "Seminar",
-      {
-        "T": [
-          "36380",
-          [
-            [
-              7,
-              "R",
-              "119 Materials Science & Eng Bld",
-              32,
-              [
-                "Calcagno, M",
-                "Ertekin, E Calcagno, M",
-                "Ertekin, E"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              7,
-              "T",
-              "100 Materials Science & Eng Bld",
-              32,
-              [
-                "Calcagno, M",
-                "Ertekin, E Calcagno, M",
-                "Ertekin, E"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          1,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Lectures and discussion on current topics in theoretical and applied mechanics.",
-      []
-    ],
     "TAM 514": [
       "Elastodynamics and Vibrations",
       {
@@ -295794,6 +295748,52 @@
       },
       [],
       "Review of theory of multi-degree-of-freedom systems; problems in the free and forced vibration of continuous linear elastic structures, rods, beams, membranes, plates, and three-dimensional solid and fluid bodies; Lagrangian densities, Sturm-Liouville problems, time and frequency domains, damping, Green's functions, and elastic waves; propagation and modal analysis; modeling of damping in structures; response of complex structures.",
+      []
+    ],
+    "TAM 500": [
+      "Seminar",
+      {
+        "T": [
+          "36380",
+          [
+            [
+              7,
+              "R",
+              "119 Materials Science & Eng Bld",
+              32,
+              [
+                "Calcagno, M",
+                "Ertekin, E Calcagno, M",
+                "Ertekin, E"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              7,
+              "T",
+              "100 Materials Science & Eng Bld",
+              32,
+              [
+                "Calcagno, M",
+                "Ertekin, E Calcagno, M",
+                "Ertekin, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Lectures and discussion on current topics in theoretical and applied mechanics.",
       []
     ],
     "TAM 524": [
@@ -295856,36 +295856,6 @@
       "Dynamics of flow in which viscosity is significant or dominant, and the development and use of theoretical and numerical tools for practitioners of modern fluid mechanics; physics of viscous layers that arise in both high- and low-Reynolds-number flows; dimensional analysis, exact solutions to the Navier-Stokes equations; jets and wakes; microhydrodynamics; fluid stability; turbulence.",
       []
     ],
-    "TAM 539": [
-      "Fluid Mechanics Seminar",
-      {
-        "C": [
-          "36399",
-          [
-            [
-              62,
-              "R",
-              "119 Materials Science & Eng Bld",
-              32,
-              [
-                "Chamorro Chavez, L"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          1,
-          13,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Weekly seminar on current research topics in turbulent and other complex flows: theoretical modeling, numerical analysis, computational techniques, and experimental investigations.",
-      []
-    ],
     "TAM 534": [
       "Non-Newtonian Fluid Mechanics & Rheology",
       {
@@ -295914,6 +295884,36 @@
       },
       [],
       "Mechanics of complex fluids exhibiting non-Newtonian behavior including shear-thinning, viscoelasticity, extensional thickening, and thixotropy. Key ideas include rheological property measurement, tensorial constitutive models, flow calculations, and basic structure-property relations. Concepts apply to a diverse range of materials such as polymer solutions and melts, colloidal suspensions, gels, emulsions, foams, pastes, biomaterials, and other soft materials. This interdisciplinary material requires previous intermediate level coursework in at least one of the core areas of fluid mechanics, or solid mechanics, or polymer physics, or colloid physics.",
+      []
+    ],
+    "TAM 539": [
+      "Fluid Mechanics Seminar",
+      {
+        "C": [
+          "36399",
+          [
+            [
+              62,
+              "R",
+              "119 Materials Science & Eng Bld",
+              32,
+              [
+                "Chamorro Chavez, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          13,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Weekly seminar on current research topics in turbulent and other complex flows: theoretical modeling, numerical analysis, computational techniques, and experimental investigations.",
       []
     ],
     "TAM 542": [
@@ -304256,58 +304256,6 @@
       "Same as BADM 461. See BADM 461.",
       []
     ],
-    "TRST 410": [
-      "Translation and Interpreting Theory & Practice",
-      {
-        "OG4": [
-          "65518",
-          [
-            [
-              4,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Arzik Erzurumlu, O"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "OU3": [
-          "72189",
-          [
-            [
-              4,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Arzik Erzurumlu, O"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          1,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Study of the theory and methods of translation and interpreting. Emphasis is on contemporary theoretical trends in the translation and interpreting fields, and practical application of theoretical models.",
-      []
-    ],
     "TRST 500": [
       "Translation and Interpreting: Reflective Practice",
       {
@@ -304414,6 +304362,58 @@
       "Same as ARAB 413. See ARAB 413.",
       []
     ],
+    "TRST 410": [
+      "Translation and Interpreting Theory & Practice",
+      {
+        "OG4": [
+          "65518",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Arzik Erzurumlu, O"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "OU3": [
+          "72189",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Arzik Erzurumlu, O"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Study of the theory and methods of translation and interpreting. Emphasis is on contemporary theoretical trends in the translation and interpreting fields, and practical application of theoretical models.",
+      []
+    ],
     "TRST 502": [
       "Applied LiteraryTranslation II",
       {
@@ -304466,58 +304466,6 @@
       "Focuses on the practice and strategies of literary translation through the study of what prominent and successful translators have written about their own experience and through comparative analysis of prize-winning translations. Students will be exposed to reader response theory and the role of the translator as cultural agent while learning how to produce paratext for their translations (prefaces, notes, etc.) and developing skills in translation, editing, grant-writing, and participation in professional associations.",
       []
     ],
-    "TRST 505": [
-      "Commercial & Technical Translation",
-      {
-        "A": [
-          "73123",
-          [
-            [
-              60,
-              "MW",
-              "3072E Literatures, Cultures, & Ling",
-              3,
-              [
-                "Yazeva, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "ONL": [
-          "73124",
-          [
-            [
-              60,
-              "MW",
-              "ONLINE",
-              0,
-              [
-                "Yazeva, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          1,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Theoretical and practical aspects of translation of various genres of commercial and technical content, for example, annual reports, product specifications, marketing web sites, user manuals, online help, etc.",
-      []
-    ],
     "TRST 503": [
       "Computer-Assisted Translation",
       {
@@ -304568,6 +304516,58 @@
       },
       [],
       "A foundation course in the history, technical underpinnings and functionality of computer-assisted translation (CAT). Students work with several CAT tools and learn the functions and features of CAT, including Project set-up, Translation Memory, Termbase, Alignment, File filters, Quality Assurance, Reports, Review files, Machine Translation, and Autosuggest dictionaries. Campus students should have access to a laptop that can be brought to class.",
+      []
+    ],
+    "TRST 505": [
+      "Commercial & Technical Translation",
+      {
+        "A": [
+          "73123",
+          [
+            [
+              60,
+              "MW",
+              "3072E Literatures, Cultures, & Ling",
+              3,
+              [
+                "Yazeva, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "73124",
+          [
+            [
+              60,
+              "MW",
+              "ONLINE",
+              0,
+              [
+                "Yazeva, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Theoretical and practical aspects of translation of various genres of commercial and technical content, for example, annual reports, product specifications, marketing web sites, user manuals, online help, etc.",
       []
     ],
     "TRST 540": [
@@ -304652,66 +304652,6 @@
       "Introduction to conference interpreting and its main theoretical concepts. Core skills will be introduced and practiced, such as understanding the spoken language and language analysis techniques, acquisition of subject matter knowledge, terminology management, verbal expression skills, and mastery of technology for conference interpreting. Intensive interpreting practice in simultaneous interpreting in the students' language pairs.",
       []
     ],
-    "TURK 404": [
-      "Intermediate Turkish II",
-      {
-        "AE1": [
-          "46304",
-          [
-            [
-              10,
-              "MTWR",
-              "1040 Literatures, Cultures, & Ling",
-              3,
-              [
-                "Saadah, E"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Continuation of TURK 403; emphasis on the development of better receptive and productive language skills in Standard and Colloquial Turkish, with increased attention to both written and spoken texts.",
-      []
-    ],
-    "TURK 202": [
-      "Elementary Turkish II",
-      {
-        "AE1": [
-          "46250",
-          [
-            [
-              9,
-              "MTWRF",
-              "1118 Literatures, Cultures, & Ling",
-              3,
-              [
-                "Saadah, E"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Continuation of TURK 201, with introduction of more advanced grammar; emphasis on more fluency in speaking, reading, and writing simple sentences in standard Turkish. Participation in the language laboratory required.",
-      []
-    ],
     "TURK 270": [
       "Language and Culture in Turkey",
       {
@@ -304752,6 +304692,96 @@
       },
       [],
       "As a country located at the crossroads of Asia, Europe and Africa, Turkey has always been under the spotlight. In this course, we will study the dynamic relationship between language and culture in Ottoman and modern Turkey through a timely analysis of its transition from a long-lasting empire to a young \"secular\" nation-state. We will examine the complexities of Turkish modernity from a holistic perspective to better comprehend how central Asian and Middle Eastern cultural influences, continuities, and transformations gave birth to modern Turkish language. The course should help you not only in developing an understanding of the Turkish language within a cultural framework, but also in gaining insight into Turkey's history, politics, literature, and media. No former knowledge of Turkey or the Turkish language is required.",
+      []
+    ],
+    "TURK 202": [
+      "Elementary Turkish II",
+      {
+        "AE1": [
+          "46250",
+          [
+            [
+              9,
+              "MTWRF",
+              "1118 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Saadah, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Continuation of TURK 201, with introduction of more advanced grammar; emphasis on more fluency in speaking, reading, and writing simple sentences in standard Turkish. Participation in the language laboratory required.",
+      []
+    ],
+    "TURK 404": [
+      "Intermediate Turkish II",
+      {
+        "AE1": [
+          "46304",
+          [
+            [
+              10,
+              "MTWR",
+              "1040 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Saadah, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Continuation of TURK 403; emphasis on the development of better receptive and productive language skills in Standard and Colloquial Turkish, with increased attention to both written and spoken texts.",
+      []
+    ],
+    "UKR 199": [
+      "Undergraduate Open Seminar",
+      {
+        "10282": [
+          "10282",
+          [
+            [
+              4,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      null,
       []
     ],
     "UKR 102": [
@@ -304814,36 +304844,6 @@
       "Course situates Ukrainian culture in the broad context of Slavic nations. Acquaints students with Ukrainian culture from the origins of Kievan Rus' in the Middle Ages to the present. Includes highlights of historical-cultural events, an overview of literature and of the arts, as well as an outline of Ukrainian folklore. No knowledge of Ukrainian required.",
       []
     ],
-    "UKR 199": [
-      "Undergraduate Open Seminar",
-      {
-        "10282": [
-          "10282",
-          [
-            [
-              4,
-              "",
-              "TBA",
-              0,
-              [
-                "Unassigned Instructor"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          2,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      null,
-      []
-    ],
     "UKR 202": [
       "Second-Year Ukrainian II",
       {
@@ -304903,6 +304903,36 @@
       },
       [],
       "Critical survey of major works in Ukrainian literature from the beginnings to the modern period in light of their historical and cultural background; lectures and readings in English.",
+      []
+    ],
+    "UP 136": [
+      "Urban Sustainability",
+      {
+        "DA": [
+          "60627",
+          [
+            [
+              0,
+              "TR",
+              "331 Armory",
+              23,
+              [
+                "Allred, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Provides students with a basic understanding of how to make cities more sustainable by connecting how and where we live to environmental issues. Emphasis on green infrastructure and urban systems, vulnerability and resilience, green design and construction methods, energy production and consumption, and water conservation.",
       []
     ],
     "UP 116": [
@@ -304975,66 +305005,6 @@
       },
       [],
       "Introduces students to different career paths open to urban studies and planning majors. Students interact with professionals and take part in hands-on activities related to different concentration areas: sustainability, policy & planning, social justice and global cities.",
-      []
-    ],
-    "UP 136": [
-      "Urban Sustainability",
-      {
-        "DA": [
-          "60627",
-          [
-            [
-              0,
-              "TR",
-              "331 Armory",
-              23,
-              [
-                "Allred, D"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Provides students with a basic understanding of how to make cities more sustainable by connecting how and where we live to environmental issues. Emphasis on green infrastructure and urban systems, vulnerability and resilience, green design and construction methods, energy production and consumption, and water conservation.",
-      []
-    ],
-    "UP 211": [
-      "Local Planning, Gov't and Law",
-      {
-        "DA": [
-          "72248",
-          [
-            [
-              14,
-              "TR",
-              "227 Temple Hoyne Buell Hall",
-              25,
-              [
-                "Allred, D"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Provides students with a basic understanding of the governmental structure, legal aspects, and practice of local municipal planning, with special emphasis on case law, constitutional principles, zoning, subdivision regulations and comprehensive planning. Gives an introduction for students interested in pursuing more advanced studies in land use law and local government planning.",
       []
     ],
     "UP 210": [
@@ -305163,6 +305133,36 @@
       "Integrates written, verbal, and graphic communication techniques into planning and analysis. Activities simulate professional situations where students develop skills and pieces of broader arguments and synthesize them into final products.",
       []
     ],
+    "UP 211": [
+      "Local Planning, Gov't and Law",
+      {
+        "DA": [
+          "72248",
+          [
+            [
+              14,
+              "TR",
+              "227 Temple Hoyne Buell Hall",
+              25,
+              [
+                "Allred, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Provides students with a basic understanding of the governmental structure, legal aspects, and practice of local municipal planning, with special emphasis on case law, constitutional principles, zoning, subdivision regulations and comprehensive planning. Gives an introduction for students interested in pursuing more advanced studies in land use law and local government planning.",
+      []
+    ],
     "UP 316": [
       "Urban Informatics II",
       {
@@ -305191,36 +305191,6 @@
       },
       [],
       "Provides an introduction to formal methods for collecting and analyzing data required in various planning processes. Methods include survey research, regional demographic and economic analysis, forecasting techniques, and descriptive spatial statistics.",
-      []
-    ],
-    "UP 320": [
-      "Digital Storytelling",
-      {
-        "FM": [
-          "78778",
-          [
-            [
-              4,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Miraftab, F"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          1,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Explores how storytelling can play a central role in planning education and practice by democratizing knowledge, sharpening critical judgement, and expanding our practical tools. This course, by exploring other mediums of communication, seeks to move beyond the hegemony of textual communication and introduce means that might further democratize both production and dissemination of knowledge. In this course we offer a range of digital communication tools (eg by podcast, video, info graph and story map) that are critical to inclusive planning and education.",
       []
     ],
     "UP 317": [
@@ -305265,6 +305235,36 @@
       "Entry-level data science course which introduces basic scientific methods, processes, and algorithms to extract and further understand knowledge or insights from all kinds of data in the urban environment. Students will learn a set of fundamental concepts in data science during lectures. The weekly hands-on lab will cover methods and tools of effective data analysis and visualization. This course builds a common foundation for quantitative analysis among undergraduates for a wide application in their capstone/projects.",
       []
     ],
+    "UP 320": [
+      "Digital Storytelling",
+      {
+        "FM": [
+          "78778",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Miraftab, F"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Explores how storytelling can play a central role in planning education and practice by democratizing knowledge, sharpening critical judgement, and expanding our practical tools. This course, by exploring other mediums of communication, seeks to move beyond the hegemony of textual communication and introduce means that might further democratize both production and dissemination of knowledge. In this course we offer a range of digital communication tools (eg by podcast, video, info graph and story map) that are critical to inclusive planning and education.",
+      []
+    ],
     "UP 347": [
       "Junior Planning Workshop",
       {
@@ -305307,36 +305307,6 @@
       "Provides students with an opportunity to further develop planning skills and knowledge to prepare for an advanced level urban planning workshop. Students will work in small groups to define and solve planning problems as they improve skills in data collection and analysis, mapping and spatial analysis, design, oral and written communication and presentation, public engagement, teamwork, and consensus building.",
       []
     ],
-    "UP 397": [
-      "Undergraduate Project",
-      {
-        "10261": [
-          "10261",
-          [
-            [
-              4,
-              "",
-              "TBA",
-              0,
-              [
-                "Unassigned Instructor"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          2,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Students work with an instructor on a special project or applied research related to real world urban problems and professional practice.",
-      []
-    ],
     "UP 390": [
       "Planning Internship",
       {
@@ -305365,6 +305335,36 @@
       },
       [],
       "Introduces students to professional employment and actual planning practice. Students work in an organization of their own choice, subject to departmental approval, either during the summer session or part-time during a regular term. Typical places of employment include municipal and county governments, private planning consulting firms, non-profit agencies, regional planning councils, park districts, and state agencies such as the Department of Transportation.",
+      []
+    ],
+    "UP 397": [
+      "Undergraduate Project",
+      {
+        "10261": [
+          "10261",
+          [
+            [
+              4,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Students work with an instructor on a special project or applied research related to real world urban problems and professional practice.",
       []
     ],
     "UP 401": [
@@ -305427,6 +305427,36 @@
       "Exploration of how economics can contribute to understanding and solving urban problems. Application of economic analysis and reasoning to the important issues that planners confront, including economic development, land use, sprawl, pollution, housing, and transportation. Strengths and weaknesses of economic and planning approaches are also explored in this course including how the two approaches can complement each other.",
       []
     ],
+    "UP 425": [
+      "Equitable Land Use",
+      {
+        "ZG": [
+          "78966",
+          [
+            [
+              13,
+              "TR",
+              "225 Temple Hoyne Buell Hall",
+              25,
+              [
+                "Guo, Z"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Planners have recognized for decades that the tools, policies, and practices of land-use planning perpetuate and reinforce spatial inequity by race, ethnicity, class, ability, and family status. In this course, students will learn to identify patterns of spatial inequity within cities; distinguish features of land use plans and regulations that obstruct or advance equity; and offer recommendations to make city plans and zoning ordinances more equitable.",
+      []
+    ],
     "UP 418": [
       "Intermediate GIS and Spatial Analysis",
       {
@@ -305479,19 +305509,19 @@
       "Detailed inquiry to the design and use of computerized geographic information systems, focusing on their significance for planning. Emphasizes GIS within an institutional setting, covering not only fundamental technical concepts, but also organizational, management, and legal issues. Students will examine GIS applications and products through readings, videos, demonstrations, and exercises. Computer laboratory work is included.",
       []
     ],
-    "UP 425": [
-      "Equitable Land Use",
+    "UP 430": [
+      "Urban Transportation Planning",
       {
-        "ZG": [
-          "78966",
+        "AL": [
+          "37267",
           [
             [
-              13,
-              "TR",
+              0,
+              "MW",
               "225 Temple Hoyne Buell Hall",
               25,
               [
-                "Guo, Z"
+                "Braun, L"
               ],
               -1,
               -1,
@@ -305506,7 +305536,7 @@
         ]
       },
       [],
-      "Planners have recognized for decades that the tools, policies, and practices of land-use planning perpetuate and reinforce spatial inequity by race, ethnicity, class, ability, and family status. In this course, students will learn to identify patterns of spatial inequity within cities; distinguish features of land use plans and regulations that obstruct or advance equity; and offer recommendations to make city plans and zoning ordinances more equitable.",
+      "Role of transportation in urban development and planning; characteristics of urban-person transportation systems and methods of analysis and forecasting of urban-person transportation demand; transportation systems management and capital improvement programming; and emphasis on the needs and activities of metropolitan planning organizations.",
       []
     ],
     "UP 426": [
@@ -305539,36 +305569,6 @@
       "Concepts and techniques of urban analysis, plan making, and implementation essential for effective interdisciplinary work in urban design.",
       []
     ],
-    "UP 430": [
-      "Urban Transportation Planning",
-      {
-        "AL": [
-          "37267",
-          [
-            [
-              0,
-              "MW",
-              "225 Temple Hoyne Buell Hall",
-              25,
-              [
-                "Braun, L"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Role of transportation in urban development and planning; characteristics of urban-person transportation systems and methods of analysis and forecasting of urban-person transportation demand; transportation systems management and capital improvement programming; and emphasis on the needs and activities of metropolitan planning organizations.",
-      []
-    ],
     "UP 431": [
       "Urban Transportation Modeling",
       {
@@ -305599,36 +305599,6 @@
       "Provides the basic skills needed to understand how planners and decision makers use information about travel behavior to plan transportation investments. Students will gain applied experience with travel demand modeling software. Additional course topics include an introduction to travel behavior theory, travel model evaluation, and emerging modeling applications.",
       []
     ],
-    "UP 434": [
-      "Pedestrian and Bicycle Planning",
-      {
-        "LB": [
-          "74561",
-          [
-            [
-              14,
-              "MW",
-              "227 Temple Hoyne Buell Hall",
-              25,
-              [
-                "Braun, L"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Introduces the fundamentals of planning for pedestrian and bicycle transportation. Students will learn about the benefits and challenges of planning for walking and cycling; the roles of plans, policies, and infrastructure in supporting active travel; key elements of infrastructure design; methods to assess safety and access; and processes to create, implement, and evaluate plans and programs. Activities will include interactive discussions, hands-on exercises such as safety audits and site analyses, and a client-based project addressing real-world community needs.",
-      []
-    ],
     "UP 438": [
       "Disasters and Urban Planning",
       {
@@ -305657,6 +305627,36 @@
       },
       [],
       "Introduction to the role of urban planners in preparing for and rebuilding after disasters. Emphasizes U.S. planning practice, with particular attention to the role of local government. Includes basic U.S. emergency management laws and framework, local mitigation planning, and post-disaster recovery planning.",
+      []
+    ],
+    "UP 434": [
+      "Pedestrian and Bicycle Planning",
+      {
+        "LB": [
+          "74561",
+          [
+            [
+              14,
+              "MW",
+              "227 Temple Hoyne Buell Hall",
+              25,
+              [
+                "Braun, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduces the fundamentals of planning for pedestrian and bicycle transportation. Students will learn about the benefits and challenges of planning for walking and cycling; the roles of plans, policies, and infrastructure in supporting active travel; key elements of infrastructure design; methods to assess safety and access; and processes to create, implement, and evaluate plans and programs. Activities will include interactive discussions, hands-on exercises such as safety audits and site analyses, and a client-based project addressing real-world community needs.",
       []
     ],
     "UP 443": [
@@ -305719,36 +305719,6 @@
       "Introduce fundamental concepts and techniques applied in the real estate development process while examining the broader economic and social context in which real estate development is situated and how various professions interact within this context. Provide students with a useful framework for understanding the real estate development process, identifying viable development opportunities, and analyzing real estate development projects while weighing the economic, social, and environmental costs and benefits for a community.",
       []
     ],
-    "UP 480": [
-      "Sustainable Design Principles",
-      {
-        "BD": [
-          "55762",
-          [
-            [
-              4,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Deal, B"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          2,
-          1,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      null,
-      []
-    ],
     "UP 478": [
       "Community Development Workshop",
       {
@@ -305777,6 +305747,36 @@
       },
       [],
       "Application of community development principles and techniques to the solution of environmental, economic and social problems facing low income urban communities. Involves small group projects and off-campus field work in collaboration with community leaders.",
+      []
+    ],
+    "UP 480": [
+      "Sustainable Design Principles",
+      {
+        "BD": [
+          "55762",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Deal, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      null,
       []
     ],
     "UP 494": [
@@ -305933,36 +305933,6 @@
       "Advanced course in geographic information systems emphasizing application of GIS to problems involving spatial analysis. Building upon fundamental concepts, students learn to use GIS software frequently found in planning practice. Also prepares students to use GIS in research requiring management and analysis of geographic data. Extensive use of computing workstations.",
       []
     ],
-    "UP 590": [
-      "Professional Internship",
-      {
-        "A": [
-          "63886",
-          [
-            [
-              4,
-              "",
-              "TBA",
-              0,
-              [
-                "Greenlee, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          0,
-          17,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Summer, part-time, or other professional-level employment in the field of planning, usually in an area of concentration; exposure to the social, political, and institutional setting in which planning operates; and full documentation of internship activities required.",
-      []
-    ],
     "UP 591": [
       "Capstone Seminar",
       {
@@ -305993,6 +305963,36 @@
       "Provides capstone guidance and advising to MUP students (non-thesis and thesis track).",
       []
     ],
+    "UP 590": [
+      "Professional Internship",
+      {
+        "A": [
+          "63886",
+          [
+            [
+              4,
+              "",
+              "TBA",
+              0,
+              [
+                "Greenlee, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          17,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Summer, part-time, or other professional-level employment in the field of planning, usually in an area of concentration; exposure to the social, political, and institutional setting in which planning operates; and full documentation of internship activities required.",
+      []
+    ],
     "UP 592": [
       "Doctoral Urban Planning Seminar",
       {
@@ -306021,36 +306021,6 @@
       },
       [],
       "The Doctoral Students in Urban Planning (DSUP) seminar is an invaluable platform of intellectual development for PhD students in the Department of Urban & Regional Planning (DURP) and an effective medium in building a community of scholars. The seminars facilitate exchange of ideas and perspectives among DSUP members as well as the faculty. It serves as a support system for all members of DSUP, who are at different stages in their research and doctoral studies, and provides a shared space for students to present their research and to solicit critical, yet constructive, peer reviews and advice.",
-      []
-    ],
-    "UP 596": [
-      "Independent Study",
-      {
-        "60378": [
-          "60378",
-          [
-            [
-              4,
-              "",
-              "TBA",
-              0,
-              [
-                "Unassigned Instructor"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          8,
-          2,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Independent study in selected urban and regional planning topics under the supervision of an appropriate member of the faculty. Can be used by doctoral students for synthesis paper requirement.",
       []
     ],
     "UP 594": [
@@ -306084,6 +306054,66 @@
       "Selected topics in urban and regional planning; several sections each term.",
       []
     ],
+    "UP 597": [
+      "Urban Planning Research",
+      {
+        "10269": [
+          "10269",
+          [
+            [
+              4,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Individual research work under the supervision of an appropriate member of the faculty.",
+      []
+    ],
+    "UP 596": [
+      "Independent Study",
+      {
+        "60378": [
+          "60378",
+          [
+            [
+              4,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Independent study in selected urban and regional planning topics under the supervision of an appropriate member of the faculty. Can be used by doctoral students for synthesis paper requirement.",
+      []
+    ],
     "UP 598": [
       "Master's Project",
       {
@@ -306114,34 +306144,34 @@
       "Major independent or small group project applying planning principles and methods to a current problem in urban and regional planning resulting in a final professional product.",
       []
     ],
-    "UP 597": [
-      "Urban Planning Research",
+    "VCM 501": [
+      "Zoological Medicine Seminar",
       {
-        "10269": [
-          "10269",
+        "A": [
+          "49726",
           [
             [
-              4,
-              "",
+              95,
+              "W",
               "TBA",
               0,
               [
-                "Unassigned Instructor"
+                "Langan, J"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          4,
           2,
+          0,
           0,
           [],
           -1
         ]
       },
       [],
-      "Individual research work under the supervision of an appropriate member of the faculty.",
+      "Discussion of selected topics and literature pertaining to zoological, wildlife and aquatic animal medicine and presentation of a formal seminar.",
       []
     ],
     "VCM 503": [
@@ -306208,36 +306238,6 @@
       },
       [],
       "Advanced review and discussion of topics pertaining to the physiology/pathophysiology, diagnosis, and current therapies for diseases in the field of small animal emergency and critical care medicine. May be repeated to a maximum of 6 hours.",
-      []
-    ],
-    "VCM 501": [
-      "Zoological Medicine Seminar",
-      {
-        "A": [
-          "49726",
-          [
-            [
-              95,
-              "W",
-              "TBA",
-              0,
-              [
-                "Langan, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          2,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Discussion of selected topics and literature pertaining to zoological, wildlife and aquatic animal medicine and presentation of a formal seminar.",
       []
     ],
     "VCM 513": [
@@ -306597,19 +306597,24 @@
       "Review pertinent primary and secondary literature on select topics relevant to the Small Animal Internal Medicine General and Specialty Board Exams. Topics will be presented by students, with discussion to follow.",
       []
     ],
-    "VCM 542": [
-      "Ocular Pathology",
+    "VCM 536": [
+      "ECC Journal Topics",
       {
         "A": [
-          "63538",
+          "57849",
           [
             [
               68,
-              "W",
+              "T",
               "TBA",
               0,
               [
-                "Samuelson, J"
+                "Depoix, M",
+                "Gane, K",
+                "Gelendi, S",
+                "Kennedy, C",
+                "Long, E",
+                "Talbot, V"
               ],
               -1,
               -1,
@@ -306624,7 +306629,7 @@
         ]
       },
       [],
-      "Same as PATH 542. See PATH 542.",
+      "Review and discuss current veterinary literature pertaining to small animal emergency and critical care medicine.",
       []
     ],
     "VCM 540": [
@@ -306681,106 +306686,19 @@
       "Provides professional students and graduate students with an introduction to the use of medical reasoning and technology in the investigation of problems related to conservation biology and ecosystem health. Students will have a variety of lecturers from across the university and some outside speakers in a seminar format use case examples and discussions of current problems. The survey of topics will provide a better understanding of the challenges in ecosystem health and a basis for further in-depth study for their careers.",
       []
     ],
-    "VCM 536": [
-      "ECC Journal Topics",
+    "VCM 542": [
+      "Ocular Pathology",
       {
         "A": [
-          "57849",
-          [
-            [
-              68,
-              "T",
-              "TBA",
-              0,
-              [
-                "Depoix, M",
-                "Gane, K",
-                "Gelendi, S",
-                "Kennedy, C",
-                "Long, E",
-                "Talbot, V"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          1,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Review and discuss current veterinary literature pertaining to small animal emergency and critical care medicine.",
-      []
-    ],
-    "VCM 568": [
-      "A Systems-Based Approach to the Operation of Livestock-Based Food Production Systems I",
-      {
-        "A": [
-          "73135",
-          [
-            [
-              93,
-              "TR",
-              "ONLINE",
-              0,
-              [
-                "Lowe, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "B": [
-          "79037",
-          [
-            [
-              93,
-              "TR",
-              "TBA",
-              0,
-              [
-                "Lowe, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Students will explore how structured, systems-based thinking – Thinking Process techniques - can be applied to the operations of livestock production systems. Eli Goldratt's approach to problem solving through his \"Theory of Constraints\" has been applied in businesses in many industries around the world. In this class you will explore both the theories that Goldratt has developed and how they might be applied to livestock production systems. You will, by the end of the course, be able to apply the TOC to livestock systems to improve both biological and economic performance.",
-      []
-    ],
-    "VCM 577": [
-      "Advanced Large Animal Medicine",
-      {
-        "A": [
-          "37720",
+          "63538",
           [
             [
               68,
               "W",
-              "243 Veterinary Teaching Hospital",
-              54,
+              "TBA",
+              0,
               [
-                "Austin, S"
+                "Samuelson, J"
               ],
               -1,
               -1,
@@ -306788,14 +306706,14 @@
             ]
           ],
           1,
-          5,
+          0,
           0,
           [],
           -1
         ]
       },
       [],
-      "A seminar series devoted to intense study of pathophysiologic and current therapeutic aspects of selected topics in large animal internal medicine.",
+      "Same as PATH 542. See PATH 542.",
       []
     ],
     "VCM 547": [
@@ -306848,6 +306766,88 @@
       },
       [],
       "Students will be exposed through lectures from visiting and invited guests, small group discussions, readings, and projects to various facets and health problems in both public and veterinary health globally with emphasis on low-income countries. Emphasis will be on how to understand and work within the frameworks at the national and international level to address the biggest challenges and coming threats of the health of people and animals. The survey of topics will provide a foundational understanding for further in-depth study and work in international health.",
+      []
+    ],
+    "VCM 577": [
+      "Advanced Large Animal Medicine",
+      {
+        "A": [
+          "37720",
+          [
+            [
+              68,
+              "W",
+              "243 Veterinary Teaching Hospital",
+              54,
+              [
+                "Austin, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "A seminar series devoted to intense study of pathophysiologic and current therapeutic aspects of selected topics in large animal internal medicine.",
+      []
+    ],
+    "VCM 568": [
+      "A Systems-Based Approach to the Operation of Livestock-Based Food Production Systems I",
+      {
+        "A": [
+          "73135",
+          [
+            [
+              93,
+              "TR",
+              "ONLINE",
+              0,
+              [
+                "Lowe, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "79037",
+          [
+            [
+              93,
+              "TR",
+              "TBA",
+              0,
+              [
+                "Lowe, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Students will explore how structured, systems-based thinking – Thinking Process techniques - can be applied to the operations of livestock production systems. Eli Goldratt's approach to problem solving through his \"Theory of Constraints\" has been applied in businesses in many industries around the world. In this class you will explore both the theories that Goldratt has developed and how they might be applied to livestock production systems. You will, by the end of the course, be able to apply the TOC to livestock systems to improve both biological and economic performance.",
       []
     ],
     "VCM 584": [
@@ -306904,6 +306904,39 @@
       "Advanced study of topics concerning the pathophysiology, diagnosis, and current therapy of diseases which are treated with surgical procedures.",
       []
     ],
+    "VCM 585": [
+      "Current Lit Sm Anim Medicine",
+      {
+        "A": [
+          "37722",
+          [
+            [
+              68,
+              "R",
+              "TBA",
+              0,
+              [
+                "Barko, P",
+                "Bruner, J",
+                "Gal, A",
+                "Reinhart Dungar, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Participants will discuss and analyze current veterinary journal articles which pertain to small animal internal medicine.",
+      []
+    ],
     "VCM 592": [
       "Special Problems",
       {
@@ -306954,39 +306987,6 @@
       },
       [],
       "Basic and applied study including orientation and research on pertinent initial and continuing problems in the student's area of interest.",
-      []
-    ],
-    "VCM 585": [
-      "Current Lit Sm Anim Medicine",
-      {
-        "A": [
-          "37722",
-          [
-            [
-              68,
-              "R",
-              "TBA",
-              0,
-              [
-                "Barko, P",
-                "Bruner, J",
-                "Gal, A",
-                "Reinhart Dungar, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          1,
-          6,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Participants will discuss and analyze current veterinary journal articles which pertain to small animal internal medicine.",
       []
     ],
     "VCM 593": [
@@ -307481,36 +307481,6 @@
       "First half of the course presents a systematic approach to small animal dermatologic diagnoses and therapeutics; the second half deals with immunological disorders, seborrheic syndromes, hereditary disorders, cutaneous neoplasms, and feline dermatology.",
       []
     ],
-    "VCM 673": [
-      "Companion Animal Rehab",
-      {
-        "E": [
-          "48771",
-          [
-            [
-              53,
-              "T",
-              "2258 Vet Med Basic Sciences Bldg",
-              17,
-              [
-                "Knap, K"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          1,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Series of lectures/discussions focusing on the proper application of companion animal rehabilitation modalities. Designed to give an understanding of the basics of rehabilitation and begin the thought process of implementing rehabilitation in to veterinary medicine.",
-      []
-    ],
     "VCM 674": [
       "Equine Exercise Physiology",
       {
@@ -307561,6 +307531,36 @@
       },
       [],
       "Designed to familiarize veterinary students with the basic principles of equine exercise, physiology and sports medicine. Topics include physiology, energetics, thermoregulation, fatigue, conventional and alternate training techniques, and drugs and medications used in equine athletes.",
+      []
+    ],
+    "VCM 673": [
+      "Companion Animal Rehab",
+      {
+        "E": [
+          "48771",
+          [
+            [
+              53,
+              "T",
+              "2258 Vet Med Basic Sciences Bldg",
+              17,
+              [
+                "Knap, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Series of lectures/discussions focusing on the proper application of companion animal rehabilitation modalities. Designed to give an understanding of the basics of rehabilitation and begin the thought process of implementing rehabilitation in to veterinary medicine.",
       []
     ],
     "VCM 682": [
@@ -307656,19 +307656,31 @@
       "This course is designed to familiarize the veterinary student with the principles of disease management of the major body systems in herd situations. The student will be given case examples and opportunities to evaluate and treat diseases of the respiratory and enteric systems as well as multiple periparturient diseases.",
       []
     ],
-    "VCM 692": [
-      "Special Problems",
+    "VCM 529": [
+      "Vet Med Applied Biostatistics",
       {
-        "10315": [
-          "10315",
+        "A": [
+          "79138",
           [
             [
-              4,
-              "",
-              "TBA",
-              0,
+              61,
+              "R",
+              "E-080 Veterinary Teaching Hospital",
+              54,
               [
-                "Unassigned Instructor"
+                "Gal, A Gal, A"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              69,
+              "MW",
+              "E-080 Veterinary Teaching Hospital",
+              54,
+              [
+                "Gal, A Gal, A"
               ],
               -1,
               -1,
@@ -307676,14 +307688,14 @@
             ]
           ],
           3,
-          2,
+          4,
           0,
           [],
           -1
         ]
       },
       [],
-      "Individual research on a special problem chosen in consultation with the instructor and department head.",
+      "Introduces veterinary residents to the principles of biostatistics and clinical study design used in veterinary clinical research. Emphasis is placed on understanding study design, selecting appropriate statistical analyses, interpreting statistical results, and applying these tools to veterinary clinical datasets. Combines didactic lectures with hands-on laboratory sessions. Emphasizes interpretation, critical appraisal of literature, and reproducible research practices.",
       []
     ],
     "VCM 694": [
@@ -307764,31 +307776,19 @@
       "To be used to designate a trial or experimental course for five or more students, designed to be an elective in the CVM professional curriculum. The course can be taught under this designation for two years or two offerings, whichever time is greater.",
       []
     ],
-    "VCM 529": [
-      "Vet Med Applied Biostatistics",
+    "VCM 692": [
+      "Special Problems",
       {
-        "A": [
-          "79138",
+        "10315": [
+          "10315",
           [
             [
-              61,
-              "R",
-              "E-080 Veterinary Teaching Hospital",
-              54,
+              4,
+              "",
+              "TBA",
+              0,
               [
-                "Gal, A Gal, A"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              69,
-              "MW",
-              "E-080 Veterinary Teaching Hospital",
-              54,
-              [
-                "Gal, A Gal, A"
+                "Unassigned Instructor"
               ],
               -1,
               -1,
@@ -307796,87 +307796,14 @@
             ]
           ],
           3,
-          4,
+          2,
           0,
           [],
           -1
         ]
       },
       [],
-      "Introduces veterinary residents to the principles of biostatistics and clinical study design used in veterinary clinical research. Emphasis is placed on understanding study design, selecting appropriate statistical analyses, interpreting statistical results, and applying these tools to veterinary clinical datasets. Combines didactic lectures with hands-on laboratory sessions. Emphasizes interpretation, critical appraisal of literature, and reproducible research practices.",
-      []
-    ],
-    "VM 606": [
-      "Clinical Practice II",
-      {
-        "AL1": [
-          "63493",
-          [
-            [
-              68,
-              "MWF",
-              "2258 Vet Med Basic Sciences Bldg",
-              17,
-              [
-                "Agapis, D",
-                "Aldridge, B",
-                "Aldridge, R",
-                "Allender, M",
-                "Austin, S",
-                "Elston, C",
-                "Fadl-Alla, B",
-                "Fan, T",
-                "Firkins, L",
-                "Fleming, K",
-                "Foreman, J",
-                "Foss, K",
-                "Garrett, E",
-                "Garrett, L",
-                "Graham, L",
-                "Grossman, B",
-                "Gutierrez Nibeyro, S",
-                "Hague, D",
-                "Harper, T",
-                "Hartman, S",
-                "Hexum, S",
-                "Johnson-Walker, Y",
-                "Kling, K",
-                "Knap, K",
-                "Lowe, J",
-                "Lowery, T",
-                "Maddox, C",
-                "Madsen, L",
-                "Marick, D",
-                "Marshall, T",
-                "McCoy, A",
-                "Mitek, A",
-                "Pavlovsky, G",
-                "Phillips, H",
-                "Ridgway, M",
-                "Sharping, S",
-                "Spinella, S",
-                "Stewart, M",
-                "Sullivan, D",
-                "Vaughn, D",
-                "Welle, K",
-                "Whittington, J",
-                "Wilkins, P",
-                "Williams, D"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Teaches in greater depth the clinical skills, practices, and procedures used in the Veterinary Teaching Hospital and the Veterinary Diagnostic Laboratory and provides hands-on exposure to the methodologies used to diagnose, treat, and prevent disease in animals.",
+      "Individual research on a special problem chosen in consultation with the instructor and department head.",
       []
     ],
     "VM 604": [
@@ -310482,64 +310409,77 @@
       "Teaches gross anatomy of the thoracic and abdominal cavity of the dog, cat, horse, ox, sheep, goat and pig; histology and physiology of the cardiovascular, respiratory and gastrointestinal systems; neurobiology of the autonomic system and pain; and clinical correlations between these subjects and the clinical experiences of VM 601.",
       []
     ],
-    "VM 616": [
-      "Clinical Practice VII",
+    "VM 606": [
+      "Clinical Practice II",
       {
-        "A": [
-          "58787",
+        "AL1": [
+          "63493",
           [
             [
-              4,
-              "",
-              "TBA",
-              0,
+              68,
+              "MWF",
+              "2258 Vet Med Basic Sciences Bldg",
+              17,
               [
+                "Agapis, D",
                 "Aldridge, B",
-                "Allison, S",
+                "Aldridge, R",
+                "Allender, M",
                 "Austin, S",
-                "Barger, A",
-                "Connolly, S",
+                "Elston, C",
+                "Fadl-Alla, B",
                 "Fan, T",
                 "Firkins, L",
                 "Fleming, K",
                 "Foreman, J",
-                "Frederico Canisso, I",
-                "Fredrickson, R",
-                "French, D",
+                "Foss, K",
                 "Garrett, E",
                 "Garrett, L",
+                "Graham, L",
+                "Grossman, B",
                 "Gutierrez Nibeyro, S",
+                "Hague, D",
                 "Harper, T",
-                "Hsiao, S",
+                "Hartman, S",
+                "Hexum, S",
                 "Johnson-Walker, Y",
                 "Kling, K",
+                "Knap, K",
                 "Lowe, J",
+                "Lowery, T",
                 "Maddox, C",
+                "Madsen, L",
+                "Marick, D",
+                "Marshall, T",
                 "McCoy, A",
+                "Mitek, A",
+                "Pavlovsky, G",
                 "Phillips, H",
                 "Ridgway, M",
-                "Roady, P",
                 "Sharping, S",
-                "Somrak, A",
+                "Spinella, S",
+                "Stewart, M",
                 "Sullivan, D",
+                "Vaughn, D",
                 "Welle, K",
                 "Whittington, J",
-                "Wilkins, P"
+                "Wilkins, P",
+                "Williams, D"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          8,
-          0,
+          4,
+          5,
           0,
           [],
           -1
         ]
       },
       [],
-      "Teaches clinical skills, practices, and procedures used in the Veterinary Teaching Hospital and the Veterinary Diagnostic Laboratory and provides hands-on experience in the methodologies used to diagnose, treat, and prevent disease in animals.",
+      "Teaches in greater depth the clinical skills, practices, and procedures used in the Veterinary Teaching Hospital and the Veterinary Diagnostic Laboratory and provides hands-on exposure to the methodologies used to diagnose, treat, and prevent disease in animals.",
       []
     ],
     "VM 608": [
@@ -311630,6 +311570,66 @@
       "Teaches clinical skills, practices, and procedures used in the Veterinary Teaching Hospital and the Veterinary Diagnostic Laboratory and provides hands-on experience in the methodologies used to diagnose, treat, and prevent disease in animals.",
       []
     ],
+    "VM 616": [
+      "Clinical Practice VII",
+      {
+        "A": [
+          "58787",
+          [
+            [
+              4,
+              "",
+              "TBA",
+              0,
+              [
+                "Aldridge, B",
+                "Allison, S",
+                "Austin, S",
+                "Barger, A",
+                "Connolly, S",
+                "Fan, T",
+                "Firkins, L",
+                "Fleming, K",
+                "Foreman, J",
+                "Frederico Canisso, I",
+                "Fredrickson, R",
+                "French, D",
+                "Garrett, E",
+                "Garrett, L",
+                "Gutierrez Nibeyro, S",
+                "Harper, T",
+                "Hsiao, S",
+                "Johnson-Walker, Y",
+                "Kling, K",
+                "Lowe, J",
+                "Maddox, C",
+                "McCoy, A",
+                "Phillips, H",
+                "Ridgway, M",
+                "Roady, P",
+                "Sharping, S",
+                "Somrak, A",
+                "Sullivan, D",
+                "Welle, K",
+                "Whittington, J",
+                "Wilkins, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Teaches clinical skills, practices, and procedures used in the Veterinary Teaching Hospital and the Veterinary Diagnostic Laboratory and provides hands-on experience in the methodologies used to diagnose, treat, and prevent disease in animals.",
+      []
+    ],
     "VM 617": [
       "Professional Development",
       {
@@ -312129,17 +312129,17 @@
       "Teaches the practice of Large Animal Medicine and Surgery in neurology, clinical toxicology, imaging, musculoskeletal disease, oncology, hematology, immune-related diseases, ophthalmology, and animal behavior. Surgery laboratories occur throughout this course and the companion course VM 655.",
       []
     ],
-    "WLOF 404": [
-      "Intermediate Wolof II",
+    "WLOF 202": [
+      "Elementary Wolof II",
       {
         "A": [
-          "30986",
+          "30875",
           [
             [
-              10,
-              "MTWR",
-              "44 English Building",
-              20,
+              9,
+              "MTWRF",
+              "1126 Literatures, Cultures, & Ling",
+              3,
               [
                 "Saadah, E",
                 "Toure, V"
@@ -312149,7 +312149,7 @@
               -1
             ]
           ],
-          4,
+          5,
           0,
           0,
           [],
@@ -312157,7 +312157,7 @@
         ]
       },
       [],
-      "Continuation of WLOF 403. Emphasizes ability to engage in reasonably fluent discourse in Wolof, comprehensive knowledge of formal grammar, and ability to read ordinary texts in standard and Dakar Wolof.",
+      "Continuation of elementary Wolof, with introduction of more advanced grammar; emphasizes more fluency in speaking, reading, and writing simple sentences in standard Wolof.",
       []
     ],
     "WLOF 201": [
@@ -312212,17 +312212,17 @@
       "Introduction to Wolof; emphasizes grammar, pronunciation, reading, and conversation in standard Wolof.",
       []
     ],
-    "WLOF 202": [
-      "Elementary Wolof II",
+    "WLOF 404": [
+      "Intermediate Wolof II",
       {
         "A": [
-          "30875",
+          "30986",
           [
             [
-              9,
-              "MTWRF",
-              "1126 Literatures, Cultures, & Ling",
-              3,
+              10,
+              "MTWR",
+              "44 English Building",
+              20,
               [
                 "Saadah, E",
                 "Toure, V"
@@ -312232,7 +312232,7 @@
               -1
             ]
           ],
-          5,
+          4,
           0,
           0,
           [],
@@ -312240,7 +312240,7 @@
         ]
       },
       [],
-      "Continuation of elementary Wolof, with introduction of more advanced grammar; emphasizes more fluency in speaking, reading, and writing simple sentences in standard Wolof.",
+      "Continuation of WLOF 403. Emphasizes ability to engage in reasonably fluent discourse in Wolof, comprehensive knowledge of formal grammar, and ability to read ordinary texts in standard and Dakar Wolof.",
       []
     ],
     "WLTE 478": [
@@ -313157,6 +313157,6 @@
     "finalDates": [],
     "finalTimes": []
   },
-  "updatedAt": "2026-11-12T17:32:56.758Z",
+  "updatedAt": "2026-11-12T17:33:57.177Z",
   "version": 3
 }

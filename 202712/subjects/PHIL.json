@@ -1,0 +1,59 @@
+{
+  "subject": "PHIL",
+  "scrapedAt": 1794504844576,
+  "courseCount": 1,
+  "courses": {
+    "PHIL 110": [
+      "World Religions",
+      {
+        "AL1": [
+          "10107",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Ebel, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      null,
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "ARRANGED"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Online",
+      "Internship"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}

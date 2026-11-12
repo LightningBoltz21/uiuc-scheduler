@@ -4,7 +4,7 @@
   "year": "2027",
   "term": "winter",
   "startedAt": 1794504652693,
-  "lastUpdated": 1794504785724,
+  "lastUpdated": 1794504845644,
   "totalSubjects": 30,
   "totalCourses": 60,
   "subjects": [
@@ -354,19 +354,32 @@
     "ESE",
     "ECON",
     "ENGL",
-    "GWS"
+    "GWS",
+    "GEOL",
+    "GLBL",
+    "HK",
+    "HIST",
+    "IS",
+    "JS",
+    "JOUR",
+    "LA",
+    "MACS",
+    "MUS",
+    "NS",
+    "PHIL",
+    "PS"
   ],
   "partialSubjects": {
-    "GEOL": {
+    "PSYC": {
       "completed": 0,
-      "total": 2,
+      "total": 4,
       "lastCourse": "ABORTED"
     }
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 27,
-    "failedCourses": 2,
+    "successfulCourses": 51,
+    "failedCourses": 3,
     "rateLimitCount": 0
   }
 }

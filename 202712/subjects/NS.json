@@ -1,0 +1,59 @@
+{
+  "subject": "NS",
+  "scrapedAt": 1794504844125,
+  "courseCount": 1,
+  "courses": {
+    "NS 120": [
+      "Intro to US Armed Forces",
+      {
+        "ONL": [
+          "10095",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Ashworth, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as AFAS 120 and MILS 120. See MILS 120.",
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "ARRANGED"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Online",
+      "Internship"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}

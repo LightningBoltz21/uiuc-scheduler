@@ -1,8 +1,69 @@
 {
   "subject": "GEOL",
-  "scrapedAt": 1794504785724,
-  "courseCount": 0,
-  "courses": {},
+  "scrapedAt": 1794504837901,
+  "courseCount": 2,
+  "courses": {
+    "GEOL 118": [
+      "Natural Disasters",
+      {
+        "A": [
+          "10007",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Austin, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduces the nature, causes, risks, effects, and prediction of natural disasters including earthquakes, volcanoes, landslides, subsidence, global climate change, severe weather, coastal erosion, floods, mass extinctions, and meteorite impacts; covers scientific principles and case histories of natural disasters as well as human responses (societal impact, mitigation strategies, and public policy).",
+      []
+    ],
+    "GEOL 117": [
+      "The Oceans",
+      {
+        "A": [
+          "10049",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Pettijohn, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Integrated introduction to oceanography and marine geology and geophysics. Topics include ocean-basin formation and evolution (in the context of plate tectonics), ocean ecology, the hydrologic cycle, water chemistry, currents and waves, the interaction of oceans with climate, coastal hazards, resources, pollution, and the Law of the Sea. Course is oriented toward students not majoring in science.",
+      []
+    ]
+  },
   "caches": {
     "periods": [
       "ARRANGED"

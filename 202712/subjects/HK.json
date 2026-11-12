@@ -1,0 +1,88 @@
+{
+  "subject": "HK",
+  "scrapedAt": 1794504839032,
+  "courseCount": 2,
+  "courses": {
+    "HK 302": [
+      "Disability in American Society",
+      {
+        "ONL": [
+          "10138",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Rice, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Acquaints students with the medical, psychosocial, vocational, political, and cultural aspects of disability in America. Development and implementation of disability policy by governmental agencies in this country will be examined, and the role of activism and advocacy in securing civil rights for persons with a disability will be explored. Various philosophical and theoretical models for understanding the disability experience will be offered, and course content will include the key historical events that shaped the present conditions of persons with disabilities. Lastly, students will be introduced to an array of service modalities used to address health and adjustment needs of persons with disabilities.",
+      []
+    ],
+    "HK 271": [
+      "Health Equity in the United States",
+      {
+        "ONL": [
+          "10139",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Frasca, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduces students to the field of health equity in the United States, including the existence and magnitude of health disparities related to historically underrepresented groups of diverse racial/ethnic backgrounds, immigrant and rural populations, gender, age, veteran status, and ability level. The course will examine relevant issues, frameworks, theories, and solutions.",
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "ARRANGED"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Online"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}

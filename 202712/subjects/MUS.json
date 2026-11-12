@@ -1,0 +1,91 @@
+{
+  "subject": "MUS",
+  "scrapedAt": 1794504843462,
+  "courseCount": 2,
+  "courses": {
+    "MUS 132": [
+      "Popular Music Studies",
+      {
+        "A": [
+          "10055",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Broussard, M",
+                "Eagen-Jones, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Courses within this rubric provide an analytical and historical introduction to genres of popular music from the United States and around the world. Iterations of the course may focus on a specific genre, such as Rock, Reggae, or Afropop, or may deal with broader subjects, such as the continua of styles including R&B, Soul, Funk, and Hip Hop, or the pan-generic, international phenomenon of pop music globalization in the twentieth century.",
+      []
+    ],
+    "MUS 133": [
+      "Introduction to World Music",
+      {
+        "A": [
+          "10097",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Miller, M",
+                "Smith, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "[IAI Code: F1903N] A survey of various musical traditions from different regions and peoples of the world.",
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "ARRANGED"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Online",
+      "Internship"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}
