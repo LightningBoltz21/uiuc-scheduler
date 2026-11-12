@@ -86,7 +86,14 @@ jobs:
         env:
           CONCURRENCY: 3
 
-        run: npm start
+        # Exit code 1 = retryable (403/network; progress saved), 2 = a term
+        # was rejected and its cache reset, so retrying right away won't help.
+        run: |
+          set +e
+          npm start
+          code=$?
+          echo "exit_code=$code" >> "$GITHUB_OUTPUT"
+          exit $code
 
       - name: Verify cleanup before deployment (on success)
         if: steps.crawler.outcome == 'success'
@@ -116,8 +123,8 @@ jobs:
           clean: false
           commit-message: 'Update UIUC course data (partial - will retry)'
 
-      - name: Trigger new workflow run (on failure)
-        if: steps.crawler.outcome == 'failure'
+      - name: Trigger new workflow run (on retryable failure)
+        if: steps.crawler.outcome == 'failure' && steps.crawler.outputs.exit_code != '2'
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
@@ -144,5 +151,10 @@ jobs:
       - name: Mark as failed
         if: steps.crawler.outcome == 'failure'
         run: |
-          echo "❌ This workflow run failed. A new run has been triggered (if retries remaining)."
+          if [ "${{ steps.crawler.outputs.exit_code }}" = "2" ]; then
+            echo "❌ A term's data was rejected (see the crawler log). Completed terms were published;"
+            echo "   the rejected term's cache was reset and it will be re-scraped on the next run."
+          else
+            echo "❌ This workflow run failed. A new run has been triggered (if retries remaining)."
+          fi
           exit 1

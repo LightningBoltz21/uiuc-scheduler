@@ -298,6 +298,18 @@ export class DataWriter {
 }
 
 /**
+ * Thrown when a term's scraped data is refused for publication. Unlike a
+ * network failure, retrying straight away will not help, so the caller should
+ * discard the term's resume cache instead of replaying it.
+ */
+export class TermValidationError extends Error {
+  constructor(message: string) {
+    super(message);
+    this.name = 'TermValidationError';
+  }
+}
+
+/**
  * Sanity-check a term's data before it is written and published.
  *
  * A parsing regression upstream (Course Explorer changing its markup, for
@@ -319,11 +331,11 @@ export function validateTermData(
   );
 
   if (courseCount === 0) {
-    throw new Error(`${termCode}: scrape produced no courses at all`);
+    throw new TermValidationError(`${termCode}: scrape produced no courses at all`);
   }
 
   if (sectionCount === 0) {
-    throw new Error(
+    throw new TermValidationError(
       `${termCode}: scraped ${courseCount} courses but zero sections. ` +
       `This almost always means the section parser no longer matches ` +
       `Course Explorer's markup. Refusing to publish empty data.`
@@ -331,7 +343,7 @@ export function validateTermData(
   }
 
   if (termData.caches.periods.length === 0) {
-    throw new Error(
+    throw new TermValidationError(
       `${termCode}: no meeting times were parsed across ${sectionCount} ` +
       `sections. Refusing to publish.`
     );
@@ -357,7 +369,7 @@ export function validateTermData(
   }
 
   if (previousSections > 0 && sectionCount < previousSections * 0.5) {
-    throw new Error(
+    throw new TermValidationError(
       `${termCode}: scraped ${sectionCount} sections, down from ` +
       `${previousSections} in the published data (a ` +
       `${Math.round((1 - sectionCount / previousSections) * 100)}% drop). ` +

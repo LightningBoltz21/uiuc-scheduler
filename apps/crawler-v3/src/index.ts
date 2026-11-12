@@ -1,5 +1,5 @@
 import { scrapeCourse, scrapeSubjects, scrapeCourseList, CourseInfo } from './scraper';
-import { DataWriter, validateTermData } from './writer';
+import { DataWriter, validateTermData, TermValidationError } from './writer';
 import { getIntConfig, discoverLatestTerms, getTermCode, getTermName } from './utils';
 import { 
   ProgressManager, 
@@ -293,9 +293,11 @@ async function main() {
     name: getTermName(year, term)
   }));
   writeIndexTemp(terms, OUTPUT_DIR);
-  console.log('✅ indextemp.json written (will promote to index.json when ALL terms complete)\n');
+  console.log('✅ indextemp.json written (will promote to index.json at the end of the run)\n');
 
   const completedTerms: string[] = [];
+  // A retryable failure (network error, 403) means the run should be resumed.
+  // A term whose data was rejected by validation is not counted here.
   let anyTermFailed = false;
 
   for (const { year, term } of termsToScrape) {
@@ -519,18 +521,40 @@ async function main() {
     } catch (error: any) {
       console.error(`\n❌ Failed to process ${term} ${year}:`, error.message);
       console.error(error);
-      anyTermFailed = true;
+
+      if (error instanceof TermValidationError) {
+        // The cached data produced output we refuse to publish. Resuming the
+        // same cache would rebuild the same output and fail again on every
+        // retry, so start this term from scratch next time.
+        progressManager.reset();
+        console.error(`   Discarded ${termName}'s resume cache; the next run re-scrapes it from scratch.`);
+      } else {
+        anyTermFailed = true;
+      }
     }
   }
 
   // Final index.json handling
   console.log('\n' + '='.repeat(60));
-  
-  if (completedTerms.length === termsToScrape.length && !anyTermFailed) {
-    // All terms completed successfully - promote index
-    console.log('✅ All terms completed successfully!');
+
+  const allTermsCompleted = completedTerms.length === termsToScrape.length;
+
+  if (!anyTermFailed && completedTerms.length > 0) {
+    // Publish every term that completed. A term that was rejected (often one
+    // Course Explorer lists before its sections are posted) is left out of the
+    // index instead of holding back the others. Previously published terms
+    // whose files still exist stay listed either way.
+    if (allTermsCompleted) {
+      console.log('✅ All terms completed successfully!');
+    } else {
+      console.log(`⚠️  Only ${completedTerms.length}/${termsToScrape.length} terms completed; publishing those`);
+      writeIndexTemp(
+        terms.filter(entry => completedTerms.includes(entry.term)),
+        OUTPUT_DIR
+      );
+    }
     console.log('📝 Promoting indextemp.json → index.json...');
-    
+
     if (promoteIndexTemp(OUTPUT_DIR)) {
       console.log('✅ index.json updated');
     } else {
@@ -550,13 +574,20 @@ async function main() {
   completedTerms.forEach(termCode => {
     console.log(`   - ${termCode}.json`);
   });
-  if (completedTerms.length === termsToScrape.length && !anyTermFailed) {
+  if (!anyTermFailed && completedTerms.length > 0) {
     console.log(`   - index.json`);
   } else {
     console.log(`   - indextemp.json (not promoted)`);
-    // Exit non-zero so CI reports the run as failed rather than treating a
-    // refused-to-publish term as a success and deploying stale data.
+  }
+
+  // Exit codes, read by .github/workflows/crawl-v3.yml:
+  //   1 = retryable (network error or 403); progress was saved, resume soon
+  //   2 = some term was rejected or skipped; its cache was reset, and
+  //       retrying immediately would not change the result
+  if (anyTermFailed) {
     process.exitCode = 1;
+  } else if (!allTermsCompleted) {
+    process.exitCode = 2;
   }
 }
 

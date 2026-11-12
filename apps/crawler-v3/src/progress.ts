@@ -10,12 +10,33 @@
  *       ...
  *     progress.json
  *   {termCode}.json  (only created at end)
- *   indextemp.json   (renamed to index.json when ALL terms complete)
+ *   indextemp.json   (renamed to index.json at the end of a run)
+ *
+ * A resume cache belongs to one scraping session, identified by
+ * `progress.startedAt`. Subject files written before the session started are
+ * ignored, so discarding a session (because it is stale or its data was
+ * rejected) cannot be undone by leftover files. That matters in CI, where the
+ * partial deploy pushes with `clean: false` and so never removes files from
+ * gh-pages.
  */
 
 import * as fs from 'fs';
 import * as path from 'path';
 import { Course, TermData, Caches, Section, Meeting } from './types';
+
+const DAY_MS = 24 * 60 * 60 * 1000;
+
+/**
+ * Resume caches older than this are discarded rather than resumed. A retry
+ * chain normally finishes within hours; anything older belongs to a previous
+ * weekly run and may reflect a Course Explorer state that no longer exists
+ * (for example, a term that was listed before its sections were published).
+ */
+const MAX_PROGRESS_AGE_DAYS = (() => {
+  const raw = process.env['MAX_PROGRESS_AGE_DAYS'];
+  const parsed = raw === undefined ? NaN : Number(raw);
+  return Number.isFinite(parsed) && parsed > 0 ? parsed : 5;
+})();
 
 // ===== Type Definitions =====
 
@@ -137,15 +158,52 @@ export class ProgressManager {
         if (!loaded.subjectCourseLists) {
           loaded.subjectCourseLists = {};
         }
-        
+
+        const ageDays = (Date.now() - loaded.startedAt) / DAY_MS;
+        if (ageDays > MAX_PROGRESS_AGE_DAYS) {
+          console.log(
+            `  ⚠️  Discarding progress.json started ${ageDays.toFixed(1)} days ago ` +
+            `(older than MAX_PROGRESS_AGE_DAYS=${MAX_PROGRESS_AGE_DAYS}), starting fresh`
+          );
+          this.discardSubjectFiles();
+          return this.createFreshProgress();
+        }
+
         console.log(`  ✓ Loaded existing progress: ${loaded.stats.successfulCourses} courses scraped`);
         return loaded;
       } catch (error) {
         console.warn(`  ⚠️  Could not parse progress.json, starting fresh`);
       }
     }
-    
-    // Create new progress file
+
+    return this.createFreshProgress();
+  }
+
+  /**
+   * Discard this term's resume cache and start a new session, persisting the
+   * new progress.json so the reset survives a `clean: false` deploy.
+   */
+  reset(): void {
+    this.discardSubjectFiles();
+    this.progress = this.createFreshProgress();
+    this.saveProgress();
+  }
+
+  private discardSubjectFiles(): void {
+    if (fs.existsSync(this.subjectsDir)) {
+      fs.rmSync(this.subjectsDir, { recursive: true, force: true });
+    }
+    this.ensureDirectories();
+  }
+
+  /**
+   * Whether a subject file was written during the current session
+   */
+  private isFromCurrentSession(subjectFile: SubjectFile): boolean {
+    return !(subjectFile.scrapedAt < this.progress.startedAt);
+  }
+
+  private createFreshProgress(): ProgressFile {
     const newProgress: ProgressFile = {
       termCode: this.termCode,
       termName: this.termName,
@@ -273,7 +331,8 @@ export class ProgressManager {
     if (fs.existsSync(filePath)) {
       try {
         const content = fs.readFileSync(filePath, 'utf-8');
-        return JSON.parse(content) as SubjectFile;
+        const subjectFile = JSON.parse(content) as SubjectFile;
+        return this.isFromCurrentSession(subjectFile) ? subjectFile : null;
       } catch (error) {
         console.warn(`  ⚠️  Could not parse ${subject}.json, starting fresh for this subject`);
         return null;
@@ -490,6 +549,12 @@ export class ProgressManager {
       try {
         const content = fs.readFileSync(filePath, 'utf-8');
         const subjectFile = JSON.parse(content) as SubjectFile;
+
+        // Leftover from a discarded session (see the header comment)
+        if (!this.isFromCurrentSession(subjectFile)) {
+          console.log(`  ⏭️  Ignoring ${file} from a previous session`);
+          continue;
+        }
 
         // Build index remapping for this subject file
         const indexMaps = {
