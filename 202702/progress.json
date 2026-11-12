@@ -4,7 +4,7 @@
   "year": "2027",
   "term": "spring",
   "startedAt": 1794502755201,
-  "lastUpdated": 1794503205689,
+  "lastUpdated": 1794503265452,
   "totalSubjects": 188,
   "totalCourses": 4527,
   "subjects": [
@@ -18730,19 +18730,25 @@
     "CGGE",
     "CHBE",
     "CHEM",
-    "CHIN"
+    "CHIN",
+    "CEE",
+    "CLCV",
+    "CLE",
+    "CIC",
+    "CMN",
+    "CB"
   ],
   "partialSubjects": {
-    "CEE": {
-      "completed": 39,
-      "total": 49,
+    "CWL": {
+      "completed": 30,
+      "total": 35,
       "lastCourse": "ABORTED"
     }
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 991,
-    "failedCourses": 6,
+    "successfulCourses": 1171,
+    "failedCourses": 7,
     "rateLimitCount": 0
   }
 }

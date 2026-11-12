@@ -1,7 +1,7 @@
 {
   "subject": "CEE",
-  "scrapedAt": 1794503205687,
-  "courseCount": 39,
+  "scrapedAt": 1794503233163,
+  "courseCount": 49,
   "courses": {
     "CEE 201": [
       "Systems Engrg & Economics",
@@ -2796,6 +2796,1143 @@
       },
       [],
       "Multidisciplinary knowledge (hydrology, economics, systems engineering, etc.) and methodological skills (optimization, simulation, etc.) for river basic management. River basin characterization-natural and social features; water availability assessment based on hydrology, infrastructure, and policy; environmental flow requirements; water demand management and microeconomics theory; integrated river basic management modeling.",
+      []
+    ],
+    "CEE 562": [
+      "Highway Bridge Design",
+      {
+        "BA": [
+          "69344",
+          [
+            [
+              24,
+              "TR",
+              "3310 Newmark Civil Engineering Bldg",
+              41,
+              [
+                "Andrawes, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "ONC": [
+          "78517",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Andrawes, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "69345",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Andrawes, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "This course introduces current practices in highway bridge design. It provides students with the background to understand the American Association of State Highway and Transportation Officials (AASHTO) code. The course covers topics related the behavior, analysis, and design of bridge superstructure and substructure systems under various bridge loads. The course specifically addresses highway bridge types constructed using reinforced concrete, prestressed concrete, and steel. In addition, the course gets the students familiar with state-of-art methodologies adopted for bridge seismic retrofitting.",
+      []
+    ],
+    "CEE 560": [
+      "Steel Structures III",
+      {
+        "LM": [
+          "50049",
+          [
+            [
+              47,
+              "TR",
+              "2312 Newmark Civil Engineering Bldg",
+              41,
+              [
+                "LaFave, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "65925",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "LaFave, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Theories of ultimate behavior of metal structural members with emphasis on buckling and stability of members and frames; theory of torsion applied to beam torsion, lateral-torsional buckling, curved beams with emphasis on design criteria; post-buckling strength of plates and post-buckling versus column behavior.",
+      []
+    ],
+    "CEE 559": [
+      "Sediment Transport",
+      {
+        "MG": [
+          "70507",
+          [
+            [
+              14,
+              "MW",
+              "2015 Civil & Envir Eng Bldg",
+              0,
+              [
+                "Garcia, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "75051",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Garcia, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Physical processes of transportation and deposition of sediment particles in liquid bodies with particular emphasis on fluvial sediment problems; sediment in desilting basins; reservoirs and delta formation; erosion; stable channel design; river morphology.",
+      []
+    ],
+    "CEE 570": [
+      "Finite Element Methods",
+      {
+        "D": [
+          "31749",
+          [
+            [
+              0,
+              "MW",
+              "2311 Newmark Civil Engineering Bldg",
+              41,
+              [
+                "Duarte, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "ONC": [
+          "68128",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Duarte, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "60854",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Duarte, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Theory and application of the finite element method; stiffness matrices for triangular, quadrilateral, and isoparametric elements; two- and three-dimensional elements; algorithms necessary for the assembly and solution; direct stress and plate bending problems for static, nonlinear buckling and dynamic load conditions; displacement, hybrid, and mixed models together with their origin in variational methods.",
+      []
+    ],
+    "CEE 577": [
+      "Computational Inelasticity",
+      {
+        "F": [
+          "57012",
+          [
+            [
+              24,
+              "MW",
+              "2015 Civil & Envir Eng Bldg",
+              0,
+              [
+                "Masud, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "ONC": [
+          "77520",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Masud, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "74737",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Masud, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Theoretical foundations of inelasticity and advanced nonlinear material modeling techniques; constitutive models for inelastic response of metals, polymers, granular materials, biomaterials. Phenomenological models of viscoelasticity, viscoplasticity, elastoplasticity, porous plasticity and cyclic plasticity. Small-strain and finite-strain numerical implementation and code development.",
+      []
+    ],
+    "CEE 573": [
+      "Structural Dynamics II",
+      {
+        "A": [
+          "51043",
+          [
+            [
+              13,
+              "TR",
+              "1311 Newmark Civil Engineering Bldg",
+              41,
+              [
+                "Spencer, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "57671",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Spencer, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Advanced concepts in structural dynamics and fundamentals of experimental structural dynamics. Modern system theory; data acquisition and analysis; digital signal processing; experimental model analysis theory and implementation; random vibration concepts; system identification; structural health monitoring and damage detection; pseudo-dynamic testing and model-based simulation; smart structures technology (e.g., smart sensors; passive, active, and semi-active control).",
+      []
+    ],
+    "CEE 587": [
+      "Applied Rock Mechanics",
+      {
+        "LM": [
+          "31752",
+          [
+            [
+              24,
+              "TR",
+              "2310 Newmark Civil Engineering Bldg",
+              41,
+              [
+                "Olson, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "79131",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Olson, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Application of rock mechanics to engineering problems; shear strength of rock masses; dynamic and static stability of rock slopes; deformability of rock masses; design of pressure tunnel linings and dam foundations; controlled blasting and blasting vibrations; tunnel support; machine tunneling; design and construction of large underground openings; field instrumentation.",
+      []
+    ],
+    "CEE 595": [
+      "Seminar",
+      {
+        "AG": [
+          "31753",
+          [
+            [
+              10,
+              "F",
+              "2311 Newmark Civil Engineering Bldg",
+              41,
+              [
+                "Koloutsou-Vakakis, S",
+                "Mei, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "F": [
+          "31755",
+          [
+            [
+              8,
+              "F",
+              "3310 Newmark Civil Engineering Bldg",
+              41,
+              [
+                "Olson, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "MA": [
+          "55645",
+          [
+            [
+              8,
+              "F",
+              "1311 Newmark Civil Engineering Bldg",
+              41,
+              [
+                "Popovics, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "MAO": [
+          "78295",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Popovics, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "S": [
+          "31757",
+          [
+            [
+              62,
+              "M",
+              "1310 Newmark Civil Engineering Bldg",
+              41,
+              [
+                "Lopez-Pamies, O"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "SO": [
+          "62386",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Lopez-Pamies, O"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "SRM": [
+          "60516",
+          [
+            [
+              23,
+              "M",
+              "1310 Newmark Civil Engineering Bldg",
+              41,
+              [
+                "Lombardo, F"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "SRO": [
+          "59920",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Lombardo, F"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "SRS": [
+          "58379",
+          [
+            [
+              23,
+              "M",
+              "1310 Newmark Civil Engineering Bldg",
+              41,
+              [
+                "Sychterz, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "SUO": [
+          "60515",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Sychterz, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "T": [
+          "31754",
+          [
+            [
+              22,
+              "R",
+              "TBA",
+              0,
+              [
+                "Al-Qadi, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "TO": [
+          "78296",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Al-Qadi, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "W": [
+          "31758",
+          [
+            [
+              23,
+              "F",
+              "1017 Civil & Envir Eng Bldg",
+              0,
+              [
+                "Cai, X"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "WO": [
+          "78297",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Cai, X"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Discussion of current topics in civil and environmental engineering and related fields by staff, students, and visiting lecturers.",
+      []
+    ],
+    "CEE 597": [
+      "Independent Study",
+      {
+        "10476": [
+          "10476",
+          [
+            [
+              4,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Individual investigations or studies of any phase of civil engineering selected by the student and approved by the adviser and the staff member who will supervise the investigation.",
+      []
+    ],
+    "CEE 598": [
+      "Special Topics",
+      {
+        "ATF": [
+          "48320",
+          [
+            [
+              70,
+              "MWF",
+              "TBA",
+              0,
+              [
+                "Talebpour, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "ATO": [
+          "47548",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Talebpour, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "CFM": [
+          "45020",
+          [
+            [
+              0,
+              "TR",
+              "2312 Newmark Civil Engineering Bldg",
+              41,
+              [
+                "Lopez-Pamies, O"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "CFO": [
+          "50392",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Lopez-Pamies, O"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "CR": [
+          "39737",
+          [
+            [
+              39,
+              "W",
+              "TBA",
+              0,
+              [
+                "Jebelli, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "CRC": [
+          "58138",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Jebelli, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "CRO": [
+          "44458",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Jebelli, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ET": [
+          "31761",
+          [
+            [
+              4,
+              "",
+              "TBA",
+              0,
+              [
+                "Edwards, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "ETO": [
+          "57673",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Edwards, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "PIM": [
+          "31759",
+          [
+            [
+              53,
+              "MW",
+              "2015 Civil & Envir Eng Bldg",
+              0,
+              [
+                "Tartakovsky, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "PIO": [
+          "57676",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Tartakovsky, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "RVD": [
+          "59655",
+          [
+            [
+              4,
+              "",
+              "TBA",
+              0,
+              [
+                "Edwards, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "RVO": [
+          "41685",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Edwards, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "TB": [
+          "46695",
+          [
+            [
+              25,
+              "TR",
+              "TBA",
+              0,
+              [
+                "Pawlikowski, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "TBC": [
+          "50278",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Pawlikowski, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "TBO": [
+          "50283",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Pawlikowski, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Subject offerings of new and developing areas of knowledge in civil and environmental engineering intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites.",
       []
     ]
   },
