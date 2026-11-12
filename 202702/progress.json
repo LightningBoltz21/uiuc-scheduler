@@ -4,7 +4,7 @@
   "year": "2027",
   "term": "spring",
   "startedAt": 1794502755201,
-  "lastUpdated": 1794504480471,
+  "lastUpdated": 1794504540805,
   "totalSubjects": 188,
   "totalCourses": 4527,
   "subjects": [
@@ -18848,19 +18848,24 @@
     "REES",
     "SCAN",
     "SLAV",
-    "SOCW"
+    "SOCW",
+    "SOC",
+    "SAME",
+    "SPAN",
+    "SPED",
+    "SHS"
   ],
   "partialSubjects": {
-    "SOC": {
-      "completed": 10,
-      "total": 41,
+    "STAT": {
+      "completed": 3,
+      "total": 43,
       "lastCourse": "ABORTED"
     }
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 4053,
-    "failedCourses": 23,
+    "successfulCourses": 4210,
+    "failedCourses": 24,
     "rateLimitCount": 0
   }
 }
