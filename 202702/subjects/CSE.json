@@ -1,151 +1,1428 @@
 {
   "subject": "CSE",
-  "scrapedAt": 1791782335040,
-  "courseCount": 19,
+  "scrapedAt": 1794503296484,
+  "courseCount": 20,
   "courses": {
-    "CSE 408": [
-      "CSE 408",
-      {},
+    "CSE 401": [
+      "Numerical Analysis",
+      {
+        "B3": [
+          "31432",
+          [
+            [
+              66,
+              "TR",
+              "1404 Siebel Center for Comp Sci",
+              44,
+              [
+                "Fischer, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "B4": [
+          "31434",
+          [
+            [
+              66,
+              "TR",
+              "1404 Siebel Center for Comp Sci",
+              44,
+              [
+                "Fischer, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Same as CS 450, ECE 491 and MATH 450. See CS 450.",
       []
     ],
     "CSE 412": [
-      "CSE 412",
-      {},
+      "Numerical Thermo-Fluid Mechs",
+      {
+        "F2": [
+          "61262",
+          [
+            [
+              22,
+              "MWF",
+              "2051 Sidney Lu Mech Engr Bldg",
+              32,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "F3": [
+          "61337",
+          [
+            [
+              22,
+              "MWF",
+              "2051 Sidney Lu Mech Engr Bldg",
+              32,
+              [
+                "Raj, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "F4": [
+          "61340",
+          [
+            [
+              22,
+              "MWF",
+              "2051 Sidney Lu Mech Engr Bldg",
+              32,
+              [
+                "Raj, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
       null,
       []
     ],
-    "CSE 401": [
-      "CSE 401",
-      {},
+    "CSE 408": [
+      "Applied Parallel Programming",
+      {
+        "CSP": [
+          "77525",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Kindratenko, V",
+                "Lumetta, S Kindratenko, V",
+                "Lumetta, S"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              24,
+              "TR",
+              "ONLINE",
+              0,
+              [
+                "Kindratenko, V",
+                "Lumetta, S Kindratenko, V",
+                "Lumetta, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          15,
+          0,
+          [],
+          -1
+        ],
+        "GR": [
+          "67939",
+          [
+            [
+              4,
+              "",
+              "TBA",
+              0,
+              [
+                "Kindratenko, V",
+                "Lumetta, S Kindratenko, V",
+                "Lumetta, S"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              24,
+              "TR",
+              "1002 Electrical & Computer Eng Bldg",
+              34,
+              [
+                "Kindratenko, V",
+                "Lumetta, S Kindratenko, V",
+                "Lumetta, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "68238",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Kindratenko, V Kindratenko, V"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              24,
+              "TR",
+              "ONLINE",
+              0,
+              [
+                "Kindratenko, V Kindratenko, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          15,
+          0,
+          [],
+          -1
+        ],
+        "UG": [
+          "67940",
+          [
+            [
+              4,
+              "",
+              "TBA",
+              0,
+              [
+                "Kindratenko, V",
+                "Lumetta, S Kindratenko, V",
+                "Lumetta, S"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              24,
+              "TR",
+              "1002 Electrical & Computer Eng Bldg",
+              34,
+              [
+                "Kindratenko, V",
+                "Lumetta, S Kindratenko, V",
+                "Lumetta, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as CS 483 and ECE 408. See ECE 408.",
+      []
+    ],
+    "CSE 422": [
+      "Computer System Organization",
+      {
+        "S3": [
+          "31408",
+          [
+            [
+              85,
+              "TR",
+              "1302 Siebel Center for Comp Sci",
+              44,
+              [
+                "Talati, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "S4": [
+          "31409",
+          [
+            [
+              85,
+              "TR",
+              "1302 Siebel Center for Comp Sci",
+              44,
+              [
+                "Talati, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
       null,
       []
     ],
     "CSE 414": [
-      "CSE 414",
-      {},
+      "Algorithms",
+      {
+        "ALG": [
+          "58767",
+          [
+            [
+              66,
+              "TR",
+              "1310 Digital Computer Laboratory",
+              33,
+              [
+                "Har-Peled, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "ALU": [
+          "31560",
+          [
+            [
+              66,
+              "TR",
+              "1310 Digital Computer Laboratory",
+              33,
+              [
+                "Har-Peled, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "CSE 422": [
-      "CSE 422",
-      {},
-      [],
-      null,
+      "Same as CS 473 and MATH 473. See CS 473.",
       []
     ],
     "CSE 423": [
-      "CSE 423",
-      {},
+      "Operating Systems Design",
+      {
+        "CG": [
+          "31381",
+          [
+            [
+              86,
+              "TR",
+              "1310 Digital Computer Laboratory",
+              33,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "CU": [
+          "31380",
+          [
+            [
+              86,
+              "TR",
+              "1310 Digital Computer Laboratory",
+              33,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
       null,
       []
     ],
     "CSE 426": [
-      "CSE 426",
-      {},
-      [],
-      null,
-      []
-    ],
-    "CSE 440": [
-      "CSE 440",
-      {},
+      "Software Engineering I",
+      {
+        "SE3": [
+          "78287",
+          [
+            [
+              4,
+              "",
+              "TBA",
+              0,
+              [
+                "Lou, Y",
+                "Marinov, D Lou, Y",
+                "Marinov, D"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Lou, Y",
+                "Marinov, D Lou, Y",
+                "Marinov, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "SE4": [
+          "74280",
+          [
+            [
+              4,
+              "",
+              "TBA",
+              0,
+              [
+                "Lou, Y",
+                "Marinov, D Lou, Y",
+                "Marinov, D"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Lou, Y",
+                "Marinov, D Lou, Y",
+                "Marinov, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "SEU": [
+          "74278",
+          [
+            [
+              4,
+              "",
+              "TBA",
+              0,
+              [
+                "Lou, Y",
+                "Marinov, D Lou, Y",
+                "Marinov, D"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Lou, Y",
+                "Marinov, D Lou, Y",
+                "Marinov, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
       null,
       []
     ],
     "CSE 428": [
-      "CSE 428",
-      {},
+      "Statistical Computing",
+      {
+        "1GR": [
+          "63948",
+          [
+            [
+              24,
+              "TR",
+              "218 Ceramics Building",
+              24,
+              [
+                "Wang, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "1UG": [
+          "63949",
+          [
+            [
+              24,
+              "TR",
+              "218 Ceramics Building",
+              24,
+              [
+                "Wang, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Same as STAT 428. See STAT 428.",
       []
     ],
-    "CSE 448": [
-      "CSE 448",
-      {},
+    "CSE 440": [
+      "Statistical Data Management",
+      {
+        "1GR": [
+          "63957",
+          [
+            [
+              28,
+              "MWF",
+              "1090 Lincoln Hall",
+              19,
+              [
+                "Kinson, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "1UG": [
+          "63958",
+          [
+            [
+              28,
+              "MWF",
+              "1090 Lincoln Hall",
+              19,
+              [
+                "Kinson, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as STAT 440. See STAT 440.",
+      []
+    ],
+    "CSE 441": [
+      "Introduction to Optimization",
+      {
+        "OP3": [
+          "33980",
+          [
+            [
+              1,
+              "TR",
+              "3013 Electrical & Computer Eng Bldg",
+              34,
+              [
+                "Veeravalli, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "OP4": [
+          "54361",
+          [
+            [
+              1,
+              "TR",
+              "3013 Electrical & Computer Eng Bldg",
+              34,
+              [
+                "Veeravalli, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
       null,
       []
     ],
     "CSE 451": [
-      "CSE 451",
-      {},
+      "Finite Element Analysis",
+      {
+        "B3": [
+          "37474",
+          [
+            [
+              32,
+              "MW",
+              "114 Transportation Building",
+              22,
+              [
+                "Raj, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "B4": [
+          "59678",
+          [
+            [
+              32,
+              "MW",
+              "114 Transportation Building",
+              22,
+              [
+                "Raj, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Same as AE 420 and ME 471. See ME 471.",
+      []
+    ],
+    "CSE 448": [
+      "Advanced Data Analysis",
+      {
+        "1GR": [
+          "63959",
+          [
+            [
+              16,
+              "MWF",
+              "2039 Campus Instructional Facility",
+              27,
+              [
+                "Bravo De Guenni, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "1UG": [
+          "67123",
+          [
+            [
+              16,
+              "MWF",
+              "2039 Campus Instructional Facility",
+              27,
+              [
+                "Bravo De Guenni, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as STAT 448. See STAT 448.",
       []
     ],
     "CSE 461": [
-      "CSE 461",
-      {},
-      [],
-      null,
-      []
-    ],
-    "CSE 498": [
-      "CSE 498",
-      {},
+      "Computational Aerodynamics",
+      {
+        "A": [
+          "29957",
+          [
+            [
+              0,
+              "MW",
+              "136 Loomis Laboratory",
+              15,
+              [
+                "Vollmer, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "62529",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Vollmer, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
       null,
       []
     ],
     "CSE 510": [
-      "CSE 510",
-      {},
+      "Numerical Methods for PDEs",
+      {
+        "N": [
+          "50118",
+          [
+            [
+              85,
+              "MW",
+              "1035 Campus Instructional Facility",
+              27,
+              [
+                "Kloeckner, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Same as CS 555 and MATH 552. See CS 555.",
+      []
+    ],
+    "CSE 498": [
+      "Special Topics",
+      {
+        "DM": [
+          "70543",
+          [
+            [
+              0,
+              "TR",
+              "2051 Sidney Lu Mech Engr Bldg",
+              32,
+              [
+                "Stinville, j"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Subject offerings of new and developing areas of knowledge in computational science and engineering intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites.",
       []
     ],
     "CSE 522": [
-      "CSE 522",
-      {},
-      [],
-      null,
-      []
-    ],
-    "CSE 525": [
-      "CSE 525",
-      {},
+      "Parallel Computer Architecture",
+      {
+        "S": [
+          "57171",
+          [
+            [
+              89,
+              "TR",
+              "1214 Siebel Center for Comp Sci",
+              44,
+              [
+                "Torrellas, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
       null,
       []
     ],
     "CSE 542": [
-      "CSE 542",
-      {},
+      "Statistical Learning",
+      {
+        "A1": [
+          "63828",
+          [
+            [
+              0,
+              "TR",
+              "2055 Sidney Lu Mech Engr Bldg",
+              32,
+              [
+                "Zheng, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Same as STAT 542. See STAT 542.",
+      []
+    ],
+    "CSE 525": [
+      "Topics in Computational Statistics",
+      {
+        "A1": [
+          "63832",
+          [
+            [
+              1,
+              "TR",
+              "2101 Everitt Laboratory",
+              10,
+              [
+                "Zhou, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as STAT 525. See STAT 525.",
       []
     ],
     "CSE 551": [
-      "CSE 551",
-      {},
+      "Finite Element Methods",
+      {
+        "D": [
+          "31750",
+          [
+            [
+              0,
+              "MW",
+              "2311 Newmark Civil Engineering Bldg",
+              41,
+              [
+                "Duarte, C",
+                "Kamarei, F"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "60866",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Duarte, C",
+                "Kamarei, F"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
       null,
       []
     ],
     "CSE 553": [
-      "CSE 553",
-      {},
+      "Computational Inelasticity",
+      {
+        "F": [
+          "57838",
+          [
+            [
+              4,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
       null,
       []
     ]
   },
   "caches": {
-    "periods": [],
+    "periods": [
+      "1100 - 1220",
+      "1230 - 1350",
+      "1500 - 1620",
+      "1700 - 1950",
+      "ARRANGED",
+      "1300 - 1550",
+      "0800 - 0950",
+      "1500 - 1650",
+      "1100 - 1150",
+      "0900 - 0950",
+      "1000 - 1050",
+      "1300 - 1350",
+      "1300 - 1420",
+      "1530 - 1650",
+      "1400 - 1520",
+      "1530 - 1620",
+      "1500 - 1550",
+      "0730 - 0920",
+      "1100 - 1250",
+      "1300 - 1450",
+      "0900 - 1050",
+      "1630 - 1720",
+      "1400 - 1450",
+      "1200 - 1250",
+      "0930 - 1050",
+      "1830 - 1950",
+      "1600 - 1730",
+      "0900 - 1020",
+      "1600 - 1650",
+      "1400 - 1550",
+      "1230 - 1320",
+      "1100 - 1350",
+      "1200 - 1320",
+      "1200 - 1450",
+      "1500 - 1750",
+      "0930 - 1220",
+      "1400 - 1650",
+      "1100 - 1320",
+      "1000 - 1150",
+      "0900 - 1150",
+      "1300 - 1750",
+      "1800 - 2050",
+      "1700 - 1820",
+      "1530 - 1820",
+      "1430 - 1520",
+      "1030 - 1120",
+      "1130 - 1220",
+      "0800 - 0920",
+      "1300 - 1650",
+      "1330 - 1750",
+      "1300 - 1620",
+      "1300 - 1520",
+      "1800 - 1950",
+      "1600 - 1750",
+      "1300 - 1540",
+      "1400 - 1640",
+      "0900 - 1140",
+      "0930 - 1210",
+      "1600 - 1840",
+      "1700 - 1940",
+      "1000 - 1120",
+      "1700 - 1850",
+      "1600 - 1720",
+      "1130 - 1250",
+      "1000 - 1240",
+      "1900 - 2240",
+      "1230 - 1345",
+      "1600 - 1715",
+      "1530 - 1720",
+      "1400 - 1530",
+      "1200 - 1350",
+      "1930 - 2050",
+      "1400 - 1720",
+      "1700 - 1750",
+      "1100 - 1450",
+      "1500 - 1850",
+      "1600 - 1850",
+      "0800 - 1150",
+      "1730 - 1900",
+      "1000 - 1130",
+      "0930 - 1020",
+      "1830 - 2030",
+      "1830 - 2020",
+      "1630 - 1750",
+      "1530 - 1645",
+      "1100 - 1215",
+      "1400 - 1515",
+      "1700 - 1815",
+      "1830 - 1945",
+      "0930 - 1045",
+      "1800 - 2100",
+      "0800 - 0850",
+      "1400 - 1750",
+      "1900 - 2050",
+      "1330 - 1450",
+      "1000 - 2000",
+      "1600 - 1740",
+      "1230 - 1420",
+      "1500 - 1730",
+      "1500 - 1720",
+      "1530 - 1800"
+    ],
     "dateRanges": [],
-    "scheduleTypes": [],
+    "scheduleTypes": [
+      "Lecture-Discussion",
+      "Online",
+      "Independent Study",
+      "Seminar",
+      "Laboratory",
+      "Lecture",
+      "Discussion/Recitation",
+      "Online Lecture",
+      "Research",
+      "Internship",
+      "Travel",
+      "Packaged Section",
+      "Online Discussion",
+      "Conference",
+      "Study Abroad",
+      "Online Lab",
+      "Studio",
+      "Laboratory-Discussion",
+      "Practice",
+      "Quiz"
+    ],
     "campuses": [],
     "attributes": [],
     "restrictions": [],
     "gradeBases": [],
-    "locations": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.1035833,
+        "long": -88.228405
+      },
+      {
+        "lat": 40.0995003,
+        "long": -88.223104
+      },
+      {
+        "lat": 40.10628,
+        "long": -88.22621
+      },
+      {
+        "lat": 40.1072225,
+        "long": -88.2262016
+      },
+      {
+        "lat": 40.106778040727896,
+        "long": -88.2194617156191
+      },
+      {
+        "lat": 40.104794,
+        "long": -88.224264
+      },
+      {
+        "lat": 40.103627234541904,
+        "long": -88.22601765311099
+      },
+      {
+        "lat": 40.103620555545135,
+        "long": -88.22982720445013
+      },
+      {
+        "lat": 40.1028373,
+        "long": -88.2251326
+      },
+      {
+        "lat": 40.1109722,
+        "long": -88.2282631
+      },
+      {
+        "lat": 40.1034533,
+        "long": -88.2327596
+      },
+      {
+        "lat": 40.10944320239664,
+        "long": -88.22602522743233
+      },
+      {
+        "lat": 40.108419421661715,
+        "long": -88.2261156301609
+      },
+      {
+        "lat": 40.1033599,
+        "long": -88.2292111
+      },
+      {
+        "lat": 40.1110937,
+        "long": -88.2232348
+      },
+      {
+        "lat": 40.1149521,
+        "long": -88.2267561
+      },
+      {
+        "lat": 40.092875494224195,
+        "long": -88.22082220247309
+      },
+      {
+        "lat": 40.105732,
+        "long": -88.2281018
+      },
+      {
+        "lat": 40.1065684,
+        "long": -88.2281746
+      },
+      {
+        "lat": 40.107534,
+        "long": -88.2281548
+      },
+      {
+        "lat": 40.103587,
+        "long": -88.230606
+      },
+      {
+        "lat": 40.11171215875622,
+        "long": -88.22530849701589
+      },
+      {
+        "lat": 40.1047599,
+        "long": -88.2319514
+      },
+      {
+        "lat": 40.111691,
+        "long": -88.2242511
+      },
+      {
+        "lat": 40.1022093629303,
+        "long": -88.22800864058527
+      },
+      {
+        "lat": 40.1020773,
+        "long": -88.2296394
+      },
+      {
+        "lat": 40.11246109008789,
+        "long": -88.22831726074219
+      },
+      {
+        "lat": 40.101862,
+        "long": -88.231737
+      },
+      {
+        "lat": 40.1083446,
+        "long": -88.2282555
+      },
+      {
+        "lat": 40.10783362157985,
+        "long": -88.22476189569741
+      },
+      {
+        "lat": 40.10755766472843,
+        "long": -88.22995430218522
+      },
+      {
+        "lat": 40.110811306674734,
+        "long": -88.2248467072371
+      },
+      {
+        "lat": 40.1131317,
+        "long": -88.2264552
+      },
+      {
+        "lat": 40.1149296,
+        "long": -88.2280589
+      },
+      {
+        "lat": 40.108570819242026,
+        "long": -88.22518453938676
+      },
+      {
+        "lat": 40.1035872,
+        "long": -88.2306061
+      },
+      {
+        "lat": 40.102726858556835,
+        "long": -88.23259991223857
+      },
+      {
+        "lat": 40.1108856,
+        "long": -88.2269806
+      },
+      {
+        "lat": 40.107811,
+        "long": -88.2260761
+      },
+      {
+        "lat": 40.11085653938169,
+        "long": -88.22609810215927
+      },
+      {
+        "lat": 40.11397164321797,
+        "long": -88.2265192685827
+      },
+      {
+        "lat": 40.10593795776367,
+        "long": -88.2270736694336
+      },
+      {
+        "lat": 40.10127390836906,
+        "long": -88.2226073524728
+      },
+      {
+        "lat": 40.11380515934119,
+        "long": -88.22490788390387
+      }
+    ],
     "finalDates": [],
     "finalTimes": []
   }

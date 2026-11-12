@@ -1,7 +1,7 @@
 {
   "subject": "CWL",
-  "scrapedAt": 1794503265449,
-  "courseCount": 30,
+  "scrapedAt": 1794503292836,
+  "courseCount": 35,
   "courses": {
     "CWL 119": [
       "Literature of Fantasy",
@@ -1623,6 +1623,156 @@
       [],
       "Problems and methods of cross-cultural literary studies, concentrating on the effects of historical encounters between different civilizations and on theoretical issues in comparing literatures across cultures.",
       []
+    ],
+    "CWL 512": [
+      "Applied LiteraryTranslation II",
+      {
+        "A": [
+          "72202",
+          [
+            [
+              99,
+              "M",
+              "G96 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Phillips, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as EALC 512, GER 512, SLAV 502, and TRST 502. See TRST 502.",
+      []
+    ],
+    "CWL 503": [
+      "Historiography of Cinema",
+      {
+        "1": [
+          "62036",
+          [
+            [
+              34,
+              "W",
+              "336 Gregory Hall",
+              18,
+              [
+                "Basu, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as ENGL 503 and MACS 503. See MACS 503.",
+      []
+    ],
+    "CWL 562": [
+      "Sem Spanish-American Lit",
+      {
+        "G": [
+          "35629",
+          [
+            [
+              76,
+              "M",
+              "G30 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Ramirez Mendez, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as SPAN 535. See SPAN 535.",
+      []
+    ],
+    "CWL 593": [
+      "Special Studies",
+      {
+        "10460": [
+          "10460",
+          [
+            [
+              4,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      null,
+      []
+    ],
+    "CWL 571": [
+      "Seminar in Literary Relations",
+      {
+        "EC": [
+          "63814",
+          [
+            [
+              100,
+              "T",
+              "TBA",
+              0,
+              [
+                "Calderwood, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Investigation of the impact of one literature upon another, or of some specific works upon others (the role of English literature in continental Europe, the influence of Russian novelists on French and German writers, etc.).",
+      []
     ]
   },
   "caches": {
@@ -1725,7 +1875,9 @@
       "1000 - 2000",
       "1600 - 1740",
       "1230 - 1420",
-      "1500 - 1730"
+      "1500 - 1730",
+      "1500 - 1720",
+      "1530 - 1800"
     ],
     "dateRanges": [],
     "scheduleTypes": [
