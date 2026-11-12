@@ -4,9 +4,9 @@
   "year": "2027",
   "term": "spring",
   "startedAt": 1794502755201,
-  "lastUpdated": 1794502835538,
-  "totalSubjects": 0,
-  "totalCourses": 0,
+  "lastUpdated": 1794502910438,
+  "totalSubjects": 188,
+  "totalCourses": 4527,
   "subjects": [
     "ACCY",
     "ASRM",
@@ -14581,14 +14581,4124 @@
         "subject": "NE",
         "number": "422"
       }
+    ],
+    "NEUR": [
+      {
+        "subject": "NEUR",
+        "number": "302"
+      },
+      {
+        "subject": "NEUR",
+        "number": "405"
+      },
+      {
+        "subject": "NEUR",
+        "number": "414"
+      },
+      {
+        "subject": "NEUR",
+        "number": "432"
+      },
+      {
+        "subject": "NEUR",
+        "number": "445"
+      },
+      {
+        "subject": "NEUR",
+        "number": "450"
+      },
+      {
+        "subject": "NEUR",
+        "number": "462"
+      },
+      {
+        "subject": "NEUR",
+        "number": "500"
+      },
+      {
+        "subject": "NEUR",
+        "number": "520"
+      },
+      {
+        "subject": "NEUR",
+        "number": "529"
+      },
+      {
+        "subject": "NEUR",
+        "number": "543"
+      },
+      {
+        "subject": "NEUR",
+        "number": "590"
+      },
+      {
+        "subject": "NEUR",
+        "number": "598"
+      }
+    ],
+    "NPRE": [
+      {
+        "subject": "NPRE",
+        "number": "101"
+      },
+      {
+        "subject": "NPRE",
+        "number": "199"
+      },
+      {
+        "subject": "NPRE",
+        "number": "247"
+      },
+      {
+        "subject": "NPRE",
+        "number": "297"
+      },
+      {
+        "subject": "NPRE",
+        "number": "349"
+      },
+      {
+        "subject": "NPRE",
+        "number": "397"
+      },
+      {
+        "subject": "NPRE",
+        "number": "402"
+      },
+      {
+        "subject": "NPRE",
+        "number": "412"
+      },
+      {
+        "subject": "NPRE",
+        "number": "421"
+      },
+      {
+        "subject": "NPRE",
+        "number": "429"
+      },
+      {
+        "subject": "NPRE",
+        "number": "430"
+      },
+      {
+        "subject": "NPRE",
+        "number": "441"
+      },
+      {
+        "subject": "NPRE",
+        "number": "442"
+      },
+      {
+        "subject": "NPRE",
+        "number": "451"
+      },
+      {
+        "subject": "NPRE",
+        "number": "455"
+      },
+      {
+        "subject": "NPRE",
+        "number": "457"
+      },
+      {
+        "subject": "NPRE",
+        "number": "458"
+      },
+      {
+        "subject": "NPRE",
+        "number": "480"
+      },
+      {
+        "subject": "NPRE",
+        "number": "483"
+      },
+      {
+        "subject": "NPRE",
+        "number": "497"
+      },
+      {
+        "subject": "NPRE",
+        "number": "498"
+      },
+      {
+        "subject": "NPRE",
+        "number": "521"
+      },
+      {
+        "subject": "NPRE",
+        "number": "526"
+      },
+      {
+        "subject": "NPRE",
+        "number": "531"
+      },
+      {
+        "subject": "NPRE",
+        "number": "554"
+      },
+      {
+        "subject": "NPRE",
+        "number": "558"
+      },
+      {
+        "subject": "NPRE",
+        "number": "561"
+      },
+      {
+        "subject": "NPRE",
+        "number": "596"
+      },
+      {
+        "subject": "NPRE",
+        "number": "597"
+      }
+    ],
+    "NUTR": [
+      {
+        "subject": "NUTR",
+        "number": "426"
+      },
+      {
+        "subject": "NUTR",
+        "number": "427"
+      },
+      {
+        "subject": "NUTR",
+        "number": "440"
+      },
+      {
+        "subject": "NUTR",
+        "number": "500"
+      },
+      {
+        "subject": "NUTR",
+        "number": "510"
+      },
+      {
+        "subject": "NUTR",
+        "number": "511"
+      },
+      {
+        "subject": "NUTR",
+        "number": "520"
+      },
+      {
+        "subject": "NUTR",
+        "number": "521"
+      },
+      {
+        "subject": "NUTR",
+        "number": "522"
+      },
+      {
+        "subject": "NUTR",
+        "number": "526"
+      },
+      {
+        "subject": "NUTR",
+        "number": "561"
+      },
+      {
+        "subject": "NUTR",
+        "number": "582"
+      },
+      {
+        "subject": "NUTR",
+        "number": "583"
+      },
+      {
+        "subject": "NUTR",
+        "number": "590"
+      },
+      {
+        "subject": "NUTR",
+        "number": "591"
+      },
+      {
+        "subject": "NUTR",
+        "number": "593"
+      }
+    ],
+    "LEAD": [
+      {
+        "subject": "LEAD",
+        "number": "116"
+      },
+      {
+        "subject": "LEAD",
+        "number": "140"
+      },
+      {
+        "subject": "LEAD",
+        "number": "260"
+      },
+      {
+        "subject": "LEAD",
+        "number": "321"
+      },
+      {
+        "subject": "LEAD",
+        "number": "425"
+      },
+      {
+        "subject": "LEAD",
+        "number": "427"
+      },
+      {
+        "subject": "LEAD",
+        "number": "460"
+      },
+      {
+        "subject": "LEAD",
+        "number": "470"
+      }
+    ],
+    "PATH": [
+      {
+        "subject": "PATH",
+        "number": "290"
+      },
+      {
+        "subject": "PATH",
+        "number": "410"
+      },
+      {
+        "subject": "PATH",
+        "number": "433"
+      },
+      {
+        "subject": "PATH",
+        "number": "490"
+      },
+      {
+        "subject": "PATH",
+        "number": "494"
+      },
+      {
+        "subject": "PATH",
+        "number": "501"
+      },
+      {
+        "subject": "PATH",
+        "number": "504"
+      },
+      {
+        "subject": "PATH",
+        "number": "513"
+      },
+      {
+        "subject": "PATH",
+        "number": "519"
+      },
+      {
+        "subject": "PATH",
+        "number": "520"
+      },
+      {
+        "subject": "PATH",
+        "number": "523"
+      },
+      {
+        "subject": "PATH",
+        "number": "527"
+      },
+      {
+        "subject": "PATH",
+        "number": "542"
+      },
+      {
+        "subject": "PATH",
+        "number": "545"
+      },
+      {
+        "subject": "PATH",
+        "number": "546"
+      },
+      {
+        "subject": "PATH",
+        "number": "547"
+      },
+      {
+        "subject": "PATH",
+        "number": "551"
+      },
+      {
+        "subject": "PATH",
+        "number": "552"
+      },
+      {
+        "subject": "PATH",
+        "number": "556"
+      },
+      {
+        "subject": "PATH",
+        "number": "557"
+      },
+      {
+        "subject": "PATH",
+        "number": "558"
+      },
+      {
+        "subject": "PATH",
+        "number": "559"
+      },
+      {
+        "subject": "PATH",
+        "number": "575"
+      },
+      {
+        "subject": "PATH",
+        "number": "576"
+      },
+      {
+        "subject": "PATH",
+        "number": "577"
+      },
+      {
+        "subject": "PATH",
+        "number": "578"
+      },
+      {
+        "subject": "PATH",
+        "number": "579"
+      },
+      {
+        "subject": "PATH",
+        "number": "590"
+      },
+      {
+        "subject": "PATH",
+        "number": "592"
+      },
+      {
+        "subject": "PATH",
+        "number": "596"
+      },
+      {
+        "subject": "PATH",
+        "number": "598"
+      },
+      {
+        "subject": "PATH",
+        "number": "692"
+      }
+    ],
+    "PERS": [
+      {
+        "subject": "PERS",
+        "number": "202"
+      },
+      {
+        "subject": "PERS",
+        "number": "404"
+      },
+      {
+        "subject": "PERS",
+        "number": "454"
+      }
+    ],
+    "PHIL": [
+      {
+        "subject": "PHIL",
+        "number": "100"
+      },
+      {
+        "subject": "PHIL",
+        "number": "101"
+      },
+      {
+        "subject": "PHIL",
+        "number": "102"
+      },
+      {
+        "subject": "PHIL",
+        "number": "103"
+      },
+      {
+        "subject": "PHIL",
+        "number": "104"
+      },
+      {
+        "subject": "PHIL",
+        "number": "105"
+      },
+      {
+        "subject": "PHIL",
+        "number": "107"
+      },
+      {
+        "subject": "PHIL",
+        "number": "110"
+      },
+      {
+        "subject": "PHIL",
+        "number": "111"
+      },
+      {
+        "subject": "PHIL",
+        "number": "201"
+      },
+      {
+        "subject": "PHIL",
+        "number": "202"
+      },
+      {
+        "subject": "PHIL",
+        "number": "203"
+      },
+      {
+        "subject": "PHIL",
+        "number": "206"
+      },
+      {
+        "subject": "PHIL",
+        "number": "210"
+      },
+      {
+        "subject": "PHIL",
+        "number": "222"
+      },
+      {
+        "subject": "PHIL",
+        "number": "223"
+      },
+      {
+        "subject": "PHIL",
+        "number": "231"
+      },
+      {
+        "subject": "PHIL",
+        "number": "270"
+      },
+      {
+        "subject": "PHIL",
+        "number": "307"
+      },
+      {
+        "subject": "PHIL",
+        "number": "316"
+      },
+      {
+        "subject": "PHIL",
+        "number": "390"
+      },
+      {
+        "subject": "PHIL",
+        "number": "421"
+      },
+      {
+        "subject": "PHIL",
+        "number": "424"
+      },
+      {
+        "subject": "PHIL",
+        "number": "425"
+      },
+      {
+        "subject": "PHIL",
+        "number": "426"
+      },
+      {
+        "subject": "PHIL",
+        "number": "442"
+      },
+      {
+        "subject": "PHIL",
+        "number": "454"
+      },
+      {
+        "subject": "PHIL",
+        "number": "460"
+      },
+      {
+        "subject": "PHIL",
+        "number": "492"
+      },
+      {
+        "subject": "PHIL",
+        "number": "499"
+      },
+      {
+        "subject": "PHIL",
+        "number": "501"
+      },
+      {
+        "subject": "PHIL",
+        "number": "513"
+      },
+      {
+        "subject": "PHIL",
+        "number": "521"
+      },
+      {
+        "subject": "PHIL",
+        "number": "547"
+      },
+      {
+        "subject": "PHIL",
+        "number": "583"
+      },
+      {
+        "subject": "PHIL",
+        "number": "590"
+      }
+    ],
+    "PHYS": [
+      {
+        "subject": "PHYS",
+        "number": "101"
+      },
+      {
+        "subject": "PHYS",
+        "number": "102"
+      },
+      {
+        "subject": "PHYS",
+        "number": "199"
+      },
+      {
+        "subject": "PHYS",
+        "number": "211"
+      },
+      {
+        "subject": "PHYS",
+        "number": "212"
+      },
+      {
+        "subject": "PHYS",
+        "number": "213"
+      },
+      {
+        "subject": "PHYS",
+        "number": "214"
+      },
+      {
+        "subject": "PHYS",
+        "number": "221"
+      },
+      {
+        "subject": "PHYS",
+        "number": "225"
+      },
+      {
+        "subject": "PHYS",
+        "number": "246"
+      },
+      {
+        "subject": "PHYS",
+        "number": "280"
+      },
+      {
+        "subject": "PHYS",
+        "number": "325"
+      },
+      {
+        "subject": "PHYS",
+        "number": "326"
+      },
+      {
+        "subject": "PHYS",
+        "number": "370"
+      },
+      {
+        "subject": "PHYS",
+        "number": "394"
+      },
+      {
+        "subject": "PHYS",
+        "number": "395"
+      },
+      {
+        "subject": "PHYS",
+        "number": "401"
+      },
+      {
+        "subject": "PHYS",
+        "number": "402"
+      },
+      {
+        "subject": "PHYS",
+        "number": "403"
+      },
+      {
+        "subject": "PHYS",
+        "number": "404"
+      },
+      {
+        "subject": "PHYS",
+        "number": "407"
+      },
+      {
+        "subject": "PHYS",
+        "number": "427"
+      },
+      {
+        "subject": "PHYS",
+        "number": "435"
+      },
+      {
+        "subject": "PHYS",
+        "number": "436"
+      },
+      {
+        "subject": "PHYS",
+        "number": "446"
+      },
+      {
+        "subject": "PHYS",
+        "number": "450"
+      },
+      {
+        "subject": "PHYS",
+        "number": "460"
+      },
+      {
+        "subject": "PHYS",
+        "number": "470"
+      },
+      {
+        "subject": "PHYS",
+        "number": "486"
+      },
+      {
+        "subject": "PHYS",
+        "number": "487"
+      },
+      {
+        "subject": "PHYS",
+        "number": "495"
+      },
+      {
+        "subject": "PHYS",
+        "number": "496"
+      },
+      {
+        "subject": "PHYS",
+        "number": "497"
+      },
+      {
+        "subject": "PHYS",
+        "number": "498"
+      },
+      {
+        "subject": "PHYS",
+        "number": "504"
+      },
+      {
+        "subject": "PHYS",
+        "number": "509"
+      },
+      {
+        "subject": "PHYS",
+        "number": "514"
+      },
+      {
+        "subject": "PHYS",
+        "number": "516"
+      },
+      {
+        "subject": "PHYS",
+        "number": "523"
+      },
+      {
+        "subject": "PHYS",
+        "number": "525"
+      },
+      {
+        "subject": "PHYS",
+        "number": "560"
+      },
+      {
+        "subject": "PHYS",
+        "number": "581"
+      },
+      {
+        "subject": "PHYS",
+        "number": "583"
+      },
+      {
+        "subject": "PHYS",
+        "number": "591"
+      },
+      {
+        "subject": "PHYS",
+        "number": "594"
+      },
+      {
+        "subject": "PHYS",
+        "number": "595"
+      },
+      {
+        "subject": "PHYS",
+        "number": "597"
+      },
+      {
+        "subject": "PHYS",
+        "number": "598"
+      },
+      {
+        "subject": "PHYS",
+        "number": "599"
+      }
+    ],
+    "PLPA": [
+      {
+        "subject": "PLPA",
+        "number": "200"
+      },
+      {
+        "subject": "PLPA",
+        "number": "395"
+      }
+    ],
+    "POL": [
+      {
+        "subject": "POL",
+        "number": "102"
+      },
+      {
+        "subject": "POL",
+        "number": "199"
+      },
+      {
+        "subject": "POL",
+        "number": "202"
+      }
+    ],
+    "PS": [
+      {
+        "subject": "PS",
+        "number": "100"
+      },
+      {
+        "subject": "PS",
+        "number": "101"
+      },
+      {
+        "subject": "PS",
+        "number": "125"
+      },
+      {
+        "subject": "PS",
+        "number": "201"
+      },
+      {
+        "subject": "PS",
+        "number": "224"
+      },
+      {
+        "subject": "PS",
+        "number": "229"
+      },
+      {
+        "subject": "PS",
+        "number": "242"
+      },
+      {
+        "subject": "PS",
+        "number": "248"
+      },
+      {
+        "subject": "PS",
+        "number": "272"
+      },
+      {
+        "subject": "PS",
+        "number": "273"
+      },
+      {
+        "subject": "PS",
+        "number": "280"
+      },
+      {
+        "subject": "PS",
+        "number": "282"
+      },
+      {
+        "subject": "PS",
+        "number": "300"
+      },
+      {
+        "subject": "PS",
+        "number": "302"
+      },
+      {
+        "subject": "PS",
+        "number": "305"
+      },
+      {
+        "subject": "PS",
+        "number": "314"
+      },
+      {
+        "subject": "PS",
+        "number": "316"
+      },
+      {
+        "subject": "PS",
+        "number": "321"
+      },
+      {
+        "subject": "PS",
+        "number": "325"
+      },
+      {
+        "subject": "PS",
+        "number": "343"
+      },
+      {
+        "subject": "PS",
+        "number": "345"
+      },
+      {
+        "subject": "PS",
+        "number": "359"
+      },
+      {
+        "subject": "PS",
+        "number": "362"
+      },
+      {
+        "subject": "PS",
+        "number": "372"
+      },
+      {
+        "subject": "PS",
+        "number": "373"
+      },
+      {
+        "subject": "PS",
+        "number": "377"
+      },
+      {
+        "subject": "PS",
+        "number": "382"
+      },
+      {
+        "subject": "PS",
+        "number": "389"
+      },
+      {
+        "subject": "PS",
+        "number": "398"
+      },
+      {
+        "subject": "PS",
+        "number": "399"
+      },
+      {
+        "subject": "PS",
+        "number": "418"
+      },
+      {
+        "subject": "PS",
+        "number": "458"
+      },
+      {
+        "subject": "PS",
+        "number": "480"
+      },
+      {
+        "subject": "PS",
+        "number": "485"
+      },
+      {
+        "subject": "PS",
+        "number": "488"
+      },
+      {
+        "subject": "PS",
+        "number": "490"
+      },
+      {
+        "subject": "PS",
+        "number": "491"
+      },
+      {
+        "subject": "PS",
+        "number": "496"
+      },
+      {
+        "subject": "PS",
+        "number": "512"
+      },
+      {
+        "subject": "PS",
+        "number": "514"
+      },
+      {
+        "subject": "PS",
+        "number": "522"
+      },
+      {
+        "subject": "PS",
+        "number": "526"
+      },
+      {
+        "subject": "PS",
+        "number": "528"
+      },
+      {
+        "subject": "PS",
+        "number": "531"
+      },
+      {
+        "subject": "PS",
+        "number": "534"
+      },
+      {
+        "subject": "PS",
+        "number": "549"
+      },
+      {
+        "subject": "PS",
+        "number": "581"
+      },
+      {
+        "subject": "PS",
+        "number": "590"
+      },
+      {
+        "subject": "PS",
+        "number": "596"
+      },
+      {
+        "subject": "PS",
+        "number": "597"
+      },
+      {
+        "subject": "PS",
+        "number": "598"
+      }
+    ],
+    "PORT": [
+      {
+        "subject": "PORT",
+        "number": "150"
+      },
+      {
+        "subject": "PORT",
+        "number": "199"
+      },
+      {
+        "subject": "PORT",
+        "number": "400"
+      },
+      {
+        "subject": "PORT",
+        "number": "401"
+      },
+      {
+        "subject": "PORT",
+        "number": "402"
+      },
+      {
+        "subject": "PORT",
+        "number": "404"
+      },
+      {
+        "subject": "PORT",
+        "number": "406"
+      },
+      {
+        "subject": "PORT",
+        "number": "460"
+      },
+      {
+        "subject": "PORT",
+        "number": "489"
+      },
+      {
+        "subject": "PORT",
+        "number": "584"
+      },
+      {
+        "subject": "PORT",
+        "number": "588"
+      },
+      {
+        "subject": "PORT",
+        "number": "595"
+      }
+    ],
+    "PSM": [
+      {
+        "subject": "PSM",
+        "number": "501"
+      },
+      {
+        "subject": "PSM",
+        "number": "502"
+      },
+      {
+        "subject": "PSM",
+        "number": "503"
+      },
+      {
+        "subject": "PSM",
+        "number": "520"
+      },
+      {
+        "subject": "PSM",
+        "number": "555"
+      }
+    ],
+    "PSYC": [
+      {
+        "subject": "PSYC",
+        "number": "100"
+      },
+      {
+        "subject": "PSYC",
+        "number": "144"
+      },
+      {
+        "subject": "PSYC",
+        "number": "201"
+      },
+      {
+        "subject": "PSYC",
+        "number": "210"
+      },
+      {
+        "subject": "PSYC",
+        "number": "214"
+      },
+      {
+        "subject": "PSYC",
+        "number": "216"
+      },
+      {
+        "subject": "PSYC",
+        "number": "220"
+      },
+      {
+        "subject": "PSYC",
+        "number": "225"
+      },
+      {
+        "subject": "PSYC",
+        "number": "230"
+      },
+      {
+        "subject": "PSYC",
+        "number": "235"
+      },
+      {
+        "subject": "PSYC",
+        "number": "238"
+      },
+      {
+        "subject": "PSYC",
+        "number": "239"
+      },
+      {
+        "subject": "PSYC",
+        "number": "245"
+      },
+      {
+        "subject": "PSYC",
+        "number": "250"
+      },
+      {
+        "subject": "PSYC",
+        "number": "255"
+      },
+      {
+        "subject": "PSYC",
+        "number": "290"
+      },
+      {
+        "subject": "PSYC",
+        "number": "296"
+      },
+      {
+        "subject": "PSYC",
+        "number": "302"
+      },
+      {
+        "subject": "PSYC",
+        "number": "306"
+      },
+      {
+        "subject": "PSYC",
+        "number": "311"
+      },
+      {
+        "subject": "PSYC",
+        "number": "318"
+      },
+      {
+        "subject": "PSYC",
+        "number": "320"
+      },
+      {
+        "subject": "PSYC",
+        "number": "322"
+      },
+      {
+        "subject": "PSYC",
+        "number": "324"
+      },
+      {
+        "subject": "PSYC",
+        "number": "329"
+      },
+      {
+        "subject": "PSYC",
+        "number": "331"
+      },
+      {
+        "subject": "PSYC",
+        "number": "333"
+      },
+      {
+        "subject": "PSYC",
+        "number": "334"
+      },
+      {
+        "subject": "PSYC",
+        "number": "336"
+      },
+      {
+        "subject": "PSYC",
+        "number": "338"
+      },
+      {
+        "subject": "PSYC",
+        "number": "339"
+      },
+      {
+        "subject": "PSYC",
+        "number": "341"
+      },
+      {
+        "subject": "PSYC",
+        "number": "350"
+      },
+      {
+        "subject": "PSYC",
+        "number": "358"
+      },
+      {
+        "subject": "PSYC",
+        "number": "361"
+      },
+      {
+        "subject": "PSYC",
+        "number": "363"
+      },
+      {
+        "subject": "PSYC",
+        "number": "365"
+      },
+      {
+        "subject": "PSYC",
+        "number": "398"
+      },
+      {
+        "subject": "PSYC",
+        "number": "402"
+      },
+      {
+        "subject": "PSYC",
+        "number": "404"
+      },
+      {
+        "subject": "PSYC",
+        "number": "414"
+      },
+      {
+        "subject": "PSYC",
+        "number": "420"
+      },
+      {
+        "subject": "PSYC",
+        "number": "427"
+      },
+      {
+        "subject": "PSYC",
+        "number": "432"
+      },
+      {
+        "subject": "PSYC",
+        "number": "443"
+      },
+      {
+        "subject": "PSYC",
+        "number": "445"
+      },
+      {
+        "subject": "PSYC",
+        "number": "450"
+      },
+      {
+        "subject": "PSYC",
+        "number": "455"
+      },
+      {
+        "subject": "PSYC",
+        "number": "462"
+      },
+      {
+        "subject": "PSYC",
+        "number": "465"
+      },
+      {
+        "subject": "PSYC",
+        "number": "468"
+      },
+      {
+        "subject": "PSYC",
+        "number": "489"
+      },
+      {
+        "subject": "PSYC",
+        "number": "490"
+      },
+      {
+        "subject": "PSYC",
+        "number": "492"
+      },
+      {
+        "subject": "PSYC",
+        "number": "494"
+      },
+      {
+        "subject": "PSYC",
+        "number": "496"
+      },
+      {
+        "subject": "PSYC",
+        "number": "499"
+      },
+      {
+        "subject": "PSYC",
+        "number": "500"
+      },
+      {
+        "subject": "PSYC",
+        "number": "507"
+      },
+      {
+        "subject": "PSYC",
+        "number": "534"
+      },
+      {
+        "subject": "PSYC",
+        "number": "543"
+      },
+      {
+        "subject": "PSYC",
+        "number": "546"
+      },
+      {
+        "subject": "PSYC",
+        "number": "548"
+      },
+      {
+        "subject": "PSYC",
+        "number": "553"
+      },
+      {
+        "subject": "PSYC",
+        "number": "563"
+      },
+      {
+        "subject": "PSYC",
+        "number": "567"
+      },
+      {
+        "subject": "PSYC",
+        "number": "570"
+      },
+      {
+        "subject": "PSYC",
+        "number": "573"
+      },
+      {
+        "subject": "PSYC",
+        "number": "576"
+      },
+      {
+        "subject": "PSYC",
+        "number": "577"
+      },
+      {
+        "subject": "PSYC",
+        "number": "578"
+      },
+      {
+        "subject": "PSYC",
+        "number": "579"
+      },
+      {
+        "subject": "PSYC",
+        "number": "581"
+      },
+      {
+        "subject": "PSYC",
+        "number": "587"
+      },
+      {
+        "subject": "PSYC",
+        "number": "590"
+      },
+      {
+        "subject": "PSYC",
+        "number": "593"
+      },
+      {
+        "subject": "PSYC",
+        "number": "596"
+      },
+      {
+        "subject": "PSYC",
+        "number": "598"
+      },
+      {
+        "subject": "PSYC",
+        "number": "599"
+      },
+      {
+        "subject": "PSYC",
+        "number": "512"
+      },
+      {
+        "subject": "PSYC",
+        "number": "330"
+      }
+    ],
+    "QUEC": [
+      {
+        "subject": "QUEC",
+        "number": "411"
+      },
+      {
+        "subject": "QUEC",
+        "number": "421"
+      }
+    ],
+    "RST": [
+      {
+        "subject": "RST",
+        "number": "100"
+      },
+      {
+        "subject": "RST",
+        "number": "101"
+      },
+      {
+        "subject": "RST",
+        "number": "118"
+      },
+      {
+        "subject": "RST",
+        "number": "120"
+      },
+      {
+        "subject": "RST",
+        "number": "130"
+      },
+      {
+        "subject": "RST",
+        "number": "150"
+      },
+      {
+        "subject": "RST",
+        "number": "180"
+      },
+      {
+        "subject": "RST",
+        "number": "182"
+      },
+      {
+        "subject": "RST",
+        "number": "185"
+      },
+      {
+        "subject": "RST",
+        "number": "199"
+      },
+      {
+        "subject": "RST",
+        "number": "200"
+      },
+      {
+        "subject": "RST",
+        "number": "204"
+      },
+      {
+        "subject": "RST",
+        "number": "205"
+      },
+      {
+        "subject": "RST",
+        "number": "210"
+      },
+      {
+        "subject": "RST",
+        "number": "224"
+      },
+      {
+        "subject": "RST",
+        "number": "226"
+      },
+      {
+        "subject": "RST",
+        "number": "230"
+      },
+      {
+        "subject": "RST",
+        "number": "238"
+      },
+      {
+        "subject": "RST",
+        "number": "240"
+      },
+      {
+        "subject": "RST",
+        "number": "242"
+      },
+      {
+        "subject": "RST",
+        "number": "255"
+      },
+      {
+        "subject": "RST",
+        "number": "260"
+      },
+      {
+        "subject": "RST",
+        "number": "265"
+      },
+      {
+        "subject": "RST",
+        "number": "280"
+      },
+      {
+        "subject": "RST",
+        "number": "316"
+      },
+      {
+        "subject": "RST",
+        "number": "325"
+      },
+      {
+        "subject": "RST",
+        "number": "335"
+      },
+      {
+        "subject": "RST",
+        "number": "340"
+      },
+      {
+        "subject": "RST",
+        "number": "350"
+      },
+      {
+        "subject": "RST",
+        "number": "354"
+      },
+      {
+        "subject": "RST",
+        "number": "370"
+      },
+      {
+        "subject": "RST",
+        "number": "393"
+      },
+      {
+        "subject": "RST",
+        "number": "407"
+      },
+      {
+        "subject": "RST",
+        "number": "410"
+      },
+      {
+        "subject": "RST",
+        "number": "429"
+      },
+      {
+        "subject": "RST",
+        "number": "430"
+      },
+      {
+        "subject": "RST",
+        "number": "435"
+      },
+      {
+        "subject": "RST",
+        "number": "440"
+      },
+      {
+        "subject": "RST",
+        "number": "441"
+      },
+      {
+        "subject": "RST",
+        "number": "465"
+      },
+      {
+        "subject": "RST",
+        "number": "480"
+      },
+      {
+        "subject": "RST",
+        "number": "485"
+      },
+      {
+        "subject": "RST",
+        "number": "501"
+      },
+      {
+        "subject": "RST",
+        "number": "502"
+      },
+      {
+        "subject": "RST",
+        "number": "504"
+      },
+      {
+        "subject": "RST",
+        "number": "515"
+      },
+      {
+        "subject": "RST",
+        "number": "516"
+      },
+      {
+        "subject": "RST",
+        "number": "519"
+      },
+      {
+        "subject": "RST",
+        "number": "532"
+      },
+      {
+        "subject": "RST",
+        "number": "560"
+      },
+      {
+        "subject": "RST",
+        "number": "570"
+      },
+      {
+        "subject": "RST",
+        "number": "586"
+      },
+      {
+        "subject": "RST",
+        "number": "590"
+      },
+      {
+        "subject": "RST",
+        "number": "594"
+      }
+    ],
+    "MBA": [
+      {
+        "subject": "MBA",
+        "number": "530"
+      },
+      {
+        "subject": "MBA",
+        "number": "531"
+      },
+      {
+        "subject": "MBA",
+        "number": "542"
+      },
+      {
+        "subject": "MBA",
+        "number": "543"
+      },
+      {
+        "subject": "MBA",
+        "number": "548"
+      },
+      {
+        "subject": "MBA",
+        "number": "551"
+      },
+      {
+        "subject": "MBA",
+        "number": "564"
+      },
+      {
+        "subject": "MBA",
+        "number": "573"
+      },
+      {
+        "subject": "MBA",
+        "number": "590"
+      },
+      {
+        "subject": "MBA",
+        "number": "597"
+      },
+      {
+        "subject": "MBA",
+        "number": "598"
+      }
+    ],
+    "REL": [
+      {
+        "subject": "REL",
+        "number": "110"
+      },
+      {
+        "subject": "REL",
+        "number": "112"
+      },
+      {
+        "subject": "REL",
+        "number": "115"
+      },
+      {
+        "subject": "REL",
+        "number": "120"
+      },
+      {
+        "subject": "REL",
+        "number": "122"
+      },
+      {
+        "subject": "REL",
+        "number": "134"
+      },
+      {
+        "subject": "REL",
+        "number": "160"
+      },
+      {
+        "subject": "REL",
+        "number": "204"
+      },
+      {
+        "subject": "REL",
+        "number": "208"
+      },
+      {
+        "subject": "REL",
+        "number": "231"
+      },
+      {
+        "subject": "REL",
+        "number": "260"
+      },
+      {
+        "subject": "REL",
+        "number": "286"
+      },
+      {
+        "subject": "REL",
+        "number": "333"
+      },
+      {
+        "subject": "REL",
+        "number": "439"
+      },
+      {
+        "subject": "REL",
+        "number": "442"
+      },
+      {
+        "subject": "REL",
+        "number": "495"
+      },
+      {
+        "subject": "REL",
+        "number": "511"
+      },
+      {
+        "subject": "REL",
+        "number": "590"
+      },
+      {
+        "subject": "REL",
+        "number": "280"
+      }
+    ],
+    "RHET": [
+      {
+        "subject": "RHET",
+        "number": "102"
+      },
+      {
+        "subject": "RHET",
+        "number": "105"
+      },
+      {
+        "subject": "RHET",
+        "number": "199"
+      },
+      {
+        "subject": "RHET",
+        "number": "233"
+      }
+    ],
+    "RMLG": [
+      {
+        "subject": "RMLG",
+        "number": "559"
+      }
+    ],
+    "RUSS": [
+      {
+        "subject": "RUSS",
+        "number": "102"
+      },
+      {
+        "subject": "RUSS",
+        "number": "199"
+      },
+      {
+        "subject": "RUSS",
+        "number": "202"
+      },
+      {
+        "subject": "RUSS",
+        "number": "219"
+      },
+      {
+        "subject": "RUSS",
+        "number": "225"
+      },
+      {
+        "subject": "RUSS",
+        "number": "302"
+      },
+      {
+        "subject": "RUSS",
+        "number": "402"
+      },
+      {
+        "subject": "RUSS",
+        "number": "493"
+      },
+      {
+        "subject": "RUSS",
+        "number": "502"
+      },
+      {
+        "subject": "RUSS",
+        "number": "514"
+      }
+    ],
+    "REES": [
+      {
+        "subject": "REES",
+        "number": "296"
+      },
+      {
+        "subject": "REES",
+        "number": "390"
+      },
+      {
+        "subject": "REES",
+        "number": "477"
+      },
+      {
+        "subject": "REES",
+        "number": "493"
+      },
+      {
+        "subject": "REES",
+        "number": "496"
+      },
+      {
+        "subject": "REES",
+        "number": "590"
+      }
+    ],
+    "SCAN": [
+      {
+        "subject": "SCAN",
+        "number": "102"
+      },
+      {
+        "subject": "SCAN",
+        "number": "199"
+      },
+      {
+        "subject": "SCAN",
+        "number": "204"
+      },
+      {
+        "subject": "SCAN",
+        "number": "225"
+      },
+      {
+        "subject": "SCAN",
+        "number": "493"
+      },
+      {
+        "subject": "SCAN",
+        "number": "496"
+      },
+      {
+        "subject": "SCAN",
+        "number": "593"
+      }
+    ],
+    "SLAV": [
+      {
+        "subject": "SLAV",
+        "number": "199"
+      },
+      {
+        "subject": "SLAV",
+        "number": "399"
+      },
+      {
+        "subject": "SLAV",
+        "number": "418"
+      },
+      {
+        "subject": "SLAV",
+        "number": "452"
+      },
+      {
+        "subject": "SLAV",
+        "number": "477"
+      },
+      {
+        "subject": "SLAV",
+        "number": "502"
+      },
+      {
+        "subject": "SLAV",
+        "number": "591"
+      }
+    ],
+    "SOCW": [
+      {
+        "subject": "SOCW",
+        "number": "199"
+      },
+      {
+        "subject": "SOCW",
+        "number": "200"
+      },
+      {
+        "subject": "SOCW",
+        "number": "235"
+      },
+      {
+        "subject": "SOCW",
+        "number": "240"
+      },
+      {
+        "subject": "SOCW",
+        "number": "245"
+      },
+      {
+        "subject": "SOCW",
+        "number": "296"
+      },
+      {
+        "subject": "SOCW",
+        "number": "297"
+      },
+      {
+        "subject": "SOCW",
+        "number": "299"
+      },
+      {
+        "subject": "SOCW",
+        "number": "310"
+      },
+      {
+        "subject": "SOCW",
+        "number": "321"
+      },
+      {
+        "subject": "SOCW",
+        "number": "322"
+      },
+      {
+        "subject": "SOCW",
+        "number": "330"
+      },
+      {
+        "subject": "SOCW",
+        "number": "360"
+      },
+      {
+        "subject": "SOCW",
+        "number": "370"
+      },
+      {
+        "subject": "SOCW",
+        "number": "401"
+      },
+      {
+        "subject": "SOCW",
+        "number": "402"
+      },
+      {
+        "subject": "SOCW",
+        "number": "403"
+      },
+      {
+        "subject": "SOCW",
+        "number": "404"
+      },
+      {
+        "subject": "SOCW",
+        "number": "410"
+      },
+      {
+        "subject": "SOCW",
+        "number": "412"
+      },
+      {
+        "subject": "SOCW",
+        "number": "416"
+      },
+      {
+        "subject": "SOCW",
+        "number": "417"
+      },
+      {
+        "subject": "SOCW",
+        "number": "418"
+      },
+      {
+        "subject": "SOCW",
+        "number": "427"
+      },
+      {
+        "subject": "SOCW",
+        "number": "451"
+      },
+      {
+        "subject": "SOCW",
+        "number": "455"
+      },
+      {
+        "subject": "SOCW",
+        "number": "456"
+      },
+      {
+        "subject": "SOCW",
+        "number": "461"
+      },
+      {
+        "subject": "SOCW",
+        "number": "470"
+      },
+      {
+        "subject": "SOCW",
+        "number": "480"
+      },
+      {
+        "subject": "SOCW",
+        "number": "500"
+      },
+      {
+        "subject": "SOCW",
+        "number": "503"
+      },
+      {
+        "subject": "SOCW",
+        "number": "505"
+      },
+      {
+        "subject": "SOCW",
+        "number": "507"
+      },
+      {
+        "subject": "SOCW",
+        "number": "508"
+      },
+      {
+        "subject": "SOCW",
+        "number": "509"
+      },
+      {
+        "subject": "SOCW",
+        "number": "510"
+      },
+      {
+        "subject": "SOCW",
+        "number": "514"
+      },
+      {
+        "subject": "SOCW",
+        "number": "515"
+      },
+      {
+        "subject": "SOCW",
+        "number": "516"
+      },
+      {
+        "subject": "SOCW",
+        "number": "519"
+      },
+      {
+        "subject": "SOCW",
+        "number": "526"
+      },
+      {
+        "subject": "SOCW",
+        "number": "531"
+      },
+      {
+        "subject": "SOCW",
+        "number": "532"
+      },
+      {
+        "subject": "SOCW",
+        "number": "533"
+      },
+      {
+        "subject": "SOCW",
+        "number": "541"
+      },
+      {
+        "subject": "SOCW",
+        "number": "542"
+      },
+      {
+        "subject": "SOCW",
+        "number": "552"
+      },
+      {
+        "subject": "SOCW",
+        "number": "553"
+      },
+      {
+        "subject": "SOCW",
+        "number": "561"
+      },
+      {
+        "subject": "SOCW",
+        "number": "575"
+      },
+      {
+        "subject": "SOCW",
+        "number": "580"
+      },
+      {
+        "subject": "SOCW",
+        "number": "584"
+      },
+      {
+        "subject": "SOCW",
+        "number": "589"
+      },
+      {
+        "subject": "SOCW",
+        "number": "594"
+      },
+      {
+        "subject": "SOCW",
+        "number": "595"
+      }
+    ],
+    "SOC": [
+      {
+        "subject": "SOC",
+        "number": "100"
+      },
+      {
+        "subject": "SOC",
+        "number": "101"
+      },
+      {
+        "subject": "SOC",
+        "number": "130"
+      },
+      {
+        "subject": "SOC",
+        "number": "160"
+      },
+      {
+        "subject": "SOC",
+        "number": "196"
+      },
+      {
+        "subject": "SOC",
+        "number": "199"
+      },
+      {
+        "subject": "SOC",
+        "number": "200"
+      },
+      {
+        "subject": "SOC",
+        "number": "201"
+      },
+      {
+        "subject": "SOC",
+        "number": "202"
+      },
+      {
+        "subject": "SOC",
+        "number": "221"
+      },
+      {
+        "subject": "SOC",
+        "number": "222"
+      },
+      {
+        "subject": "SOC",
+        "number": "223"
+      },
+      {
+        "subject": "SOC",
+        "number": "225"
+      },
+      {
+        "subject": "SOC",
+        "number": "230"
+      },
+      {
+        "subject": "SOC",
+        "number": "274"
+      },
+      {
+        "subject": "SOC",
+        "number": "275"
+      },
+      {
+        "subject": "SOC",
+        "number": "280"
+      },
+      {
+        "subject": "SOC",
+        "number": "310"
+      },
+      {
+        "subject": "SOC",
+        "number": "325"
+      },
+      {
+        "subject": "SOC",
+        "number": "350"
+      },
+      {
+        "subject": "SOC",
+        "number": "355"
+      },
+      {
+        "subject": "SOC",
+        "number": "375"
+      },
+      {
+        "subject": "SOC",
+        "number": "380"
+      },
+      {
+        "subject": "SOC",
+        "number": "390"
+      },
+      {
+        "subject": "SOC",
+        "number": "396"
+      },
+      {
+        "subject": "SOC",
+        "number": "400"
+      },
+      {
+        "subject": "SOC",
+        "number": "450"
+      },
+      {
+        "subject": "SOC",
+        "number": "470"
+      },
+      {
+        "subject": "SOC",
+        "number": "479"
+      },
+      {
+        "subject": "SOC",
+        "number": "490"
+      },
+      {
+        "subject": "SOC",
+        "number": "495"
+      },
+      {
+        "subject": "SOC",
+        "number": "496"
+      },
+      {
+        "subject": "SOC",
+        "number": "503"
+      },
+      {
+        "subject": "SOC",
+        "number": "510"
+      },
+      {
+        "subject": "SOC",
+        "number": "531"
+      },
+      {
+        "subject": "SOC",
+        "number": "575"
+      },
+      {
+        "subject": "SOC",
+        "number": "585"
+      },
+      {
+        "subject": "SOC",
+        "number": "590"
+      },
+      {
+        "subject": "SOC",
+        "number": "596"
+      },
+      {
+        "subject": "SOC",
+        "number": "597"
+      },
+      {
+        "subject": "SOC",
+        "number": "598"
+      }
+    ],
+    "SAME": [
+      {
+        "subject": "SAME",
+        "number": "150"
+      },
+      {
+        "subject": "SAME",
+        "number": "199"
+      },
+      {
+        "subject": "SAME",
+        "number": "208"
+      },
+      {
+        "subject": "SAME",
+        "number": "250"
+      },
+      {
+        "subject": "SAME",
+        "number": "260"
+      },
+      {
+        "subject": "SAME",
+        "number": "272"
+      },
+      {
+        "subject": "SAME",
+        "number": "490"
+      },
+      {
+        "subject": "SAME",
+        "number": "590"
+      },
+      {
+        "subject": "SAME",
+        "number": "280"
+      }
+    ],
+    "SPAN": [
+      {
+        "subject": "SPAN",
+        "number": "101"
+      },
+      {
+        "subject": "SPAN",
+        "number": "102"
+      },
+      {
+        "subject": "SPAN",
+        "number": "122"
+      },
+      {
+        "subject": "SPAN",
+        "number": "199"
+      },
+      {
+        "subject": "SPAN",
+        "number": "201"
+      },
+      {
+        "subject": "SPAN",
+        "number": "203"
+      },
+      {
+        "subject": "SPAN",
+        "number": "205"
+      },
+      {
+        "subject": "SPAN",
+        "number": "214"
+      },
+      {
+        "subject": "SPAN",
+        "number": "218"
+      },
+      {
+        "subject": "SPAN",
+        "number": "228"
+      },
+      {
+        "subject": "SPAN",
+        "number": "232"
+      },
+      {
+        "subject": "SPAN",
+        "number": "240"
+      },
+      {
+        "subject": "SPAN",
+        "number": "246"
+      },
+      {
+        "subject": "SPAN",
+        "number": "250"
+      },
+      {
+        "subject": "SPAN",
+        "number": "252"
+      },
+      {
+        "subject": "SPAN",
+        "number": "254"
+      },
+      {
+        "subject": "SPAN",
+        "number": "295"
+      },
+      {
+        "subject": "SPAN",
+        "number": "303"
+      },
+      {
+        "subject": "SPAN",
+        "number": "305"
+      },
+      {
+        "subject": "SPAN",
+        "number": "307"
+      },
+      {
+        "subject": "SPAN",
+        "number": "308"
+      },
+      {
+        "subject": "SPAN",
+        "number": "309"
+      },
+      {
+        "subject": "SPAN",
+        "number": "316"
+      },
+      {
+        "subject": "SPAN",
+        "number": "320"
+      },
+      {
+        "subject": "SPAN",
+        "number": "326"
+      },
+      {
+        "subject": "SPAN",
+        "number": "330"
+      },
+      {
+        "subject": "SPAN",
+        "number": "332"
+      },
+      {
+        "subject": "SPAN",
+        "number": "395"
+      },
+      {
+        "subject": "SPAN",
+        "number": "399"
+      },
+      {
+        "subject": "SPAN",
+        "number": "418"
+      },
+      {
+        "subject": "SPAN",
+        "number": "433"
+      },
+      {
+        "subject": "SPAN",
+        "number": "442"
+      },
+      {
+        "subject": "SPAN",
+        "number": "460"
+      },
+      {
+        "subject": "SPAN",
+        "number": "462"
+      },
+      {
+        "subject": "SPAN",
+        "number": "463"
+      },
+      {
+        "subject": "SPAN",
+        "number": "466"
+      },
+      {
+        "subject": "SPAN",
+        "number": "468"
+      },
+      {
+        "subject": "SPAN",
+        "number": "489"
+      },
+      {
+        "subject": "SPAN",
+        "number": "490"
+      },
+      {
+        "subject": "SPAN",
+        "number": "491"
+      },
+      {
+        "subject": "SPAN",
+        "number": "535"
+      },
+      {
+        "subject": "SPAN",
+        "number": "557"
+      },
+      {
+        "subject": "SPAN",
+        "number": "584"
+      },
+      {
+        "subject": "SPAN",
+        "number": "588"
+      },
+      {
+        "subject": "SPAN",
+        "number": "595"
+      },
+      {
+        "subject": "SPAN",
+        "number": "599"
+      }
+    ],
+    "SPED": [
+      {
+        "subject": "SPED",
+        "number": "117"
+      },
+      {
+        "subject": "SPED",
+        "number": "199"
+      },
+      {
+        "subject": "SPED",
+        "number": "210"
+      },
+      {
+        "subject": "SPED",
+        "number": "322"
+      },
+      {
+        "subject": "SPED",
+        "number": "391"
+      },
+      {
+        "subject": "SPED",
+        "number": "395"
+      },
+      {
+        "subject": "SPED",
+        "number": "410"
+      },
+      {
+        "subject": "SPED",
+        "number": "412"
+      },
+      {
+        "subject": "SPED",
+        "number": "426"
+      },
+      {
+        "subject": "SPED",
+        "number": "438"
+      },
+      {
+        "subject": "SPED",
+        "number": "442"
+      },
+      {
+        "subject": "SPED",
+        "number": "452"
+      },
+      {
+        "subject": "SPED",
+        "number": "462"
+      },
+      {
+        "subject": "SPED",
+        "number": "471"
+      },
+      {
+        "subject": "SPED",
+        "number": "503"
+      },
+      {
+        "subject": "SPED",
+        "number": "507"
+      },
+      {
+        "subject": "SPED",
+        "number": "524"
+      },
+      {
+        "subject": "SPED",
+        "number": "526"
+      },
+      {
+        "subject": "SPED",
+        "number": "566"
+      },
+      {
+        "subject": "SPED",
+        "number": "575"
+      },
+      {
+        "subject": "SPED",
+        "number": "585"
+      },
+      {
+        "subject": "SPED",
+        "number": "590"
+      },
+      {
+        "subject": "SPED",
+        "number": "591"
+      },
+      {
+        "subject": "SPED",
+        "number": "595"
+      }
+    ],
+    "SHS": [
+      {
+        "subject": "SHS",
+        "number": "120"
+      },
+      {
+        "subject": "SHS",
+        "number": "121"
+      },
+      {
+        "subject": "SHS",
+        "number": "170"
+      },
+      {
+        "subject": "SHS",
+        "number": "191"
+      },
+      {
+        "subject": "SHS",
+        "number": "199"
+      },
+      {
+        "subject": "SHS",
+        "number": "200"
+      },
+      {
+        "subject": "SHS",
+        "number": "221"
+      },
+      {
+        "subject": "SHS",
+        "number": "222"
+      },
+      {
+        "subject": "SHS",
+        "number": "271"
+      },
+      {
+        "subject": "SHS",
+        "number": "291"
+      },
+      {
+        "subject": "SHS",
+        "number": "301"
+      },
+      {
+        "subject": "SHS",
+        "number": "321"
+      },
+      {
+        "subject": "SHS",
+        "number": "352"
+      },
+      {
+        "subject": "SHS",
+        "number": "375"
+      },
+      {
+        "subject": "SHS",
+        "number": "380"
+      },
+      {
+        "subject": "SHS",
+        "number": "385"
+      },
+      {
+        "subject": "SHS",
+        "number": "390"
+      },
+      {
+        "subject": "SHS",
+        "number": "395"
+      },
+      {
+        "subject": "SHS",
+        "number": "427"
+      },
+      {
+        "subject": "SHS",
+        "number": "451"
+      },
+      {
+        "subject": "SHS",
+        "number": "473"
+      },
+      {
+        "subject": "SHS",
+        "number": "475"
+      },
+      {
+        "subject": "SHS",
+        "number": "477"
+      },
+      {
+        "subject": "SHS",
+        "number": "481"
+      },
+      {
+        "subject": "SHS",
+        "number": "482"
+      },
+      {
+        "subject": "SHS",
+        "number": "511"
+      },
+      {
+        "subject": "SHS",
+        "number": "532"
+      },
+      {
+        "subject": "SHS",
+        "number": "533"
+      },
+      {
+        "subject": "SHS",
+        "number": "534"
+      },
+      {
+        "subject": "SHS",
+        "number": "554"
+      },
+      {
+        "subject": "SHS",
+        "number": "557"
+      },
+      {
+        "subject": "SHS",
+        "number": "562"
+      },
+      {
+        "subject": "SHS",
+        "number": "564"
+      },
+      {
+        "subject": "SHS",
+        "number": "565"
+      },
+      {
+        "subject": "SHS",
+        "number": "574"
+      },
+      {
+        "subject": "SHS",
+        "number": "575"
+      },
+      {
+        "subject": "SHS",
+        "number": "576"
+      },
+      {
+        "subject": "SHS",
+        "number": "577"
+      },
+      {
+        "subject": "SHS",
+        "number": "578"
+      },
+      {
+        "subject": "SHS",
+        "number": "591"
+      },
+      {
+        "subject": "SHS",
+        "number": "592"
+      },
+      {
+        "subject": "SHS",
+        "number": "593"
+      },
+      {
+        "subject": "SHS",
+        "number": "594"
+      },
+      {
+        "subject": "SHS",
+        "number": "595"
+      }
+    ],
+    "STAT": [
+      {
+        "subject": "STAT",
+        "number": "100"
+      },
+      {
+        "subject": "STAT",
+        "number": "107"
+      },
+      {
+        "subject": "STAT",
+        "number": "200"
+      },
+      {
+        "subject": "STAT",
+        "number": "207"
+      },
+      {
+        "subject": "STAT",
+        "number": "212"
+      },
+      {
+        "subject": "STAT",
+        "number": "385"
+      },
+      {
+        "subject": "STAT",
+        "number": "390"
+      },
+      {
+        "subject": "STAT",
+        "number": "391"
+      },
+      {
+        "subject": "STAT",
+        "number": "400"
+      },
+      {
+        "subject": "STAT",
+        "number": "408"
+      },
+      {
+        "subject": "STAT",
+        "number": "410"
+      },
+      {
+        "subject": "STAT",
+        "number": "420"
+      },
+      {
+        "subject": "STAT",
+        "number": "424"
+      },
+      {
+        "subject": "STAT",
+        "number": "425"
+      },
+      {
+        "subject": "STAT",
+        "number": "426"
+      },
+      {
+        "subject": "STAT",
+        "number": "427"
+      },
+      {
+        "subject": "STAT",
+        "number": "428"
+      },
+      {
+        "subject": "STAT",
+        "number": "429"
+      },
+      {
+        "subject": "STAT",
+        "number": "430"
+      },
+      {
+        "subject": "STAT",
+        "number": "431"
+      },
+      {
+        "subject": "STAT",
+        "number": "432"
+      },
+      {
+        "subject": "STAT",
+        "number": "433"
+      },
+      {
+        "subject": "STAT",
+        "number": "437"
+      },
+      {
+        "subject": "STAT",
+        "number": "440"
+      },
+      {
+        "subject": "STAT",
+        "number": "443"
+      },
+      {
+        "subject": "STAT",
+        "number": "447"
+      },
+      {
+        "subject": "STAT",
+        "number": "448"
+      },
+      {
+        "subject": "STAT",
+        "number": "463"
+      },
+      {
+        "subject": "STAT",
+        "number": "510"
+      },
+      {
+        "subject": "STAT",
+        "number": "525"
+      },
+      {
+        "subject": "STAT",
+        "number": "528"
+      },
+      {
+        "subject": "STAT",
+        "number": "530"
+      },
+      {
+        "subject": "STAT",
+        "number": "533"
+      },
+      {
+        "subject": "STAT",
+        "number": "542"
+      },
+      {
+        "subject": "STAT",
+        "number": "551"
+      },
+      {
+        "subject": "STAT",
+        "number": "554"
+      },
+      {
+        "subject": "STAT",
+        "number": "571"
+      },
+      {
+        "subject": "STAT",
+        "number": "572"
+      },
+      {
+        "subject": "STAT",
+        "number": "575"
+      },
+      {
+        "subject": "STAT",
+        "number": "578"
+      },
+      {
+        "subject": "STAT",
+        "number": "587"
+      },
+      {
+        "subject": "STAT",
+        "number": "590"
+      },
+      {
+        "subject": "STAT",
+        "number": "593"
+      }
+    ],
+    "SBC": [
+      {
+        "subject": "SBC",
+        "number": "524"
+      },
+      {
+        "subject": "SBC",
+        "number": "525"
+      },
+      {
+        "subject": "SBC",
+        "number": "526"
+      }
+    ],
+    "SWAH": [
+      {
+        "subject": "SWAH",
+        "number": "202"
+      },
+      {
+        "subject": "SWAH",
+        "number": "404"
+      },
+      {
+        "subject": "SWAH",
+        "number": "406"
+      },
+      {
+        "subject": "SWAH",
+        "number": "408"
+      }
+    ],
+    "SE": [
+      {
+        "subject": "SE",
+        "number": "101"
+      },
+      {
+        "subject": "SE",
+        "number": "199"
+      },
+      {
+        "subject": "SE",
+        "number": "261"
+      },
+      {
+        "subject": "SE",
+        "number": "290"
+      },
+      {
+        "subject": "SE",
+        "number": "297"
+      },
+      {
+        "subject": "SE",
+        "number": "310"
+      },
+      {
+        "subject": "SE",
+        "number": "311"
+      },
+      {
+        "subject": "SE",
+        "number": "312"
+      },
+      {
+        "subject": "SE",
+        "number": "320"
+      },
+      {
+        "subject": "SE",
+        "number": "397"
+      },
+      {
+        "subject": "SE",
+        "number": "398"
+      },
+      {
+        "subject": "SE",
+        "number": "400"
+      },
+      {
+        "subject": "SE",
+        "number": "411"
+      },
+      {
+        "subject": "SE",
+        "number": "413"
+      },
+      {
+        "subject": "SE",
+        "number": "422"
+      },
+      {
+        "subject": "SE",
+        "number": "423"
+      },
+      {
+        "subject": "SE",
+        "number": "424"
+      },
+      {
+        "subject": "SE",
+        "number": "494"
+      },
+      {
+        "subject": "SE",
+        "number": "495"
+      },
+      {
+        "subject": "SE",
+        "number": "497"
+      },
+      {
+        "subject": "SE",
+        "number": "520"
+      },
+      {
+        "subject": "SE",
+        "number": "522"
+      },
+      {
+        "subject": "SE",
+        "number": "525"
+      },
+      {
+        "subject": "SE",
+        "number": "590"
+      },
+      {
+        "subject": "SE",
+        "number": "594"
+      },
+      {
+        "subject": "SE",
+        "number": "597"
+      }
+    ],
+    "TE": [
+      {
+        "subject": "TE",
+        "number": "100"
+      },
+      {
+        "subject": "TE",
+        "number": "198"
+      },
+      {
+        "subject": "TE",
+        "number": "250"
+      },
+      {
+        "subject": "TE",
+        "number": "333"
+      },
+      {
+        "subject": "TE",
+        "number": "360"
+      },
+      {
+        "subject": "TE",
+        "number": "390"
+      },
+      {
+        "subject": "TE",
+        "number": "401"
+      },
+      {
+        "subject": "TE",
+        "number": "440"
+      },
+      {
+        "subject": "TE",
+        "number": "450"
+      },
+      {
+        "subject": "TE",
+        "number": "460"
+      },
+      {
+        "subject": "TE",
+        "number": "461"
+      },
+      {
+        "subject": "TE",
+        "number": "462"
+      },
+      {
+        "subject": "TE",
+        "number": "466"
+      },
+      {
+        "subject": "TE",
+        "number": "468"
+      },
+      {
+        "subject": "TE",
+        "number": "510"
+      },
+      {
+        "subject": "TE",
+        "number": "565"
+      },
+      {
+        "subject": "TE",
+        "number": "566"
+      },
+      {
+        "subject": "TE",
+        "number": "567"
+      },
+      {
+        "subject": "TE",
+        "number": "598"
+      }
+    ],
+    "TMGT": [
+      {
+        "subject": "TMGT",
+        "number": "366"
+      },
+      {
+        "subject": "TMGT",
+        "number": "461"
+      }
+    ],
+    "THEA": [
+      {
+        "subject": "THEA",
+        "number": "100"
+      },
+      {
+        "subject": "THEA",
+        "number": "101"
+      },
+      {
+        "subject": "THEA",
+        "number": "110"
+      },
+      {
+        "subject": "THEA",
+        "number": "119"
+      },
+      {
+        "subject": "THEA",
+        "number": "122"
+      },
+      {
+        "subject": "THEA",
+        "number": "150"
+      },
+      {
+        "subject": "THEA",
+        "number": "153"
+      },
+      {
+        "subject": "THEA",
+        "number": "170"
+      },
+      {
+        "subject": "THEA",
+        "number": "175"
+      },
+      {
+        "subject": "THEA",
+        "number": "185"
+      },
+      {
+        "subject": "THEA",
+        "number": "199"
+      },
+      {
+        "subject": "THEA",
+        "number": "200"
+      },
+      {
+        "subject": "THEA",
+        "number": "208"
+      },
+      {
+        "subject": "THEA",
+        "number": "212"
+      },
+      {
+        "subject": "THEA",
+        "number": "222"
+      },
+      {
+        "subject": "THEA",
+        "number": "223"
+      },
+      {
+        "subject": "THEA",
+        "number": "231"
+      },
+      {
+        "subject": "THEA",
+        "number": "275"
+      },
+      {
+        "subject": "THEA",
+        "number": "276"
+      },
+      {
+        "subject": "THEA",
+        "number": "284"
+      },
+      {
+        "subject": "THEA",
+        "number": "300"
+      },
+      {
+        "subject": "THEA",
+        "number": "304"
+      },
+      {
+        "subject": "THEA",
+        "number": "359"
+      },
+      {
+        "subject": "THEA",
+        "number": "364"
+      },
+      {
+        "subject": "THEA",
+        "number": "375"
+      },
+      {
+        "subject": "THEA",
+        "number": "376"
+      },
+      {
+        "subject": "THEA",
+        "number": "377"
+      },
+      {
+        "subject": "THEA",
+        "number": "378"
+      },
+      {
+        "subject": "THEA",
+        "number": "391"
+      },
+      {
+        "subject": "THEA",
+        "number": "392"
+      },
+      {
+        "subject": "THEA",
+        "number": "399"
+      },
+      {
+        "subject": "THEA",
+        "number": "400"
+      },
+      {
+        "subject": "THEA",
+        "number": "403"
+      },
+      {
+        "subject": "THEA",
+        "number": "405"
+      },
+      {
+        "subject": "THEA",
+        "number": "406"
+      },
+      {
+        "subject": "THEA",
+        "number": "407"
+      },
+      {
+        "subject": "THEA",
+        "number": "411"
+      },
+      {
+        "subject": "THEA",
+        "number": "419"
+      },
+      {
+        "subject": "THEA",
+        "number": "421"
+      },
+      {
+        "subject": "THEA",
+        "number": "422"
+      },
+      {
+        "subject": "THEA",
+        "number": "425"
+      },
+      {
+        "subject": "THEA",
+        "number": "426"
+      },
+      {
+        "subject": "THEA",
+        "number": "428"
+      },
+      {
+        "subject": "THEA",
+        "number": "429"
+      },
+      {
+        "subject": "THEA",
+        "number": "431"
+      },
+      {
+        "subject": "THEA",
+        "number": "432"
+      },
+      {
+        "subject": "THEA",
+        "number": "434"
+      },
+      {
+        "subject": "THEA",
+        "number": "442"
+      },
+      {
+        "subject": "THEA",
+        "number": "443"
+      },
+      {
+        "subject": "THEA",
+        "number": "447"
+      },
+      {
+        "subject": "THEA",
+        "number": "449"
+      },
+      {
+        "subject": "THEA",
+        "number": "450"
+      },
+      {
+        "subject": "THEA",
+        "number": "453"
+      },
+      {
+        "subject": "THEA",
+        "number": "454"
+      },
+      {
+        "subject": "THEA",
+        "number": "455"
+      },
+      {
+        "subject": "THEA",
+        "number": "458"
+      },
+      {
+        "subject": "THEA",
+        "number": "462"
+      },
+      {
+        "subject": "THEA",
+        "number": "469"
+      },
+      {
+        "subject": "THEA",
+        "number": "475"
+      },
+      {
+        "subject": "THEA",
+        "number": "476"
+      },
+      {
+        "subject": "THEA",
+        "number": "477"
+      },
+      {
+        "subject": "THEA",
+        "number": "478"
+      },
+      {
+        "subject": "THEA",
+        "number": "479"
+      },
+      {
+        "subject": "THEA",
+        "number": "481"
+      },
+      {
+        "subject": "THEA",
+        "number": "485"
+      },
+      {
+        "subject": "THEA",
+        "number": "489"
+      },
+      {
+        "subject": "THEA",
+        "number": "490"
+      },
+      {
+        "subject": "THEA",
+        "number": "491"
+      },
+      {
+        "subject": "THEA",
+        "number": "493"
+      },
+      {
+        "subject": "THEA",
+        "number": "495"
+      },
+      {
+        "subject": "THEA",
+        "number": "496"
+      },
+      {
+        "subject": "THEA",
+        "number": "498"
+      },
+      {
+        "subject": "THEA",
+        "number": "499"
+      },
+      {
+        "subject": "THEA",
+        "number": "522"
+      },
+      {
+        "subject": "THEA",
+        "number": "530"
+      },
+      {
+        "subject": "THEA",
+        "number": "550"
+      },
+      {
+        "subject": "THEA",
+        "number": "559"
+      },
+      {
+        "subject": "THEA",
+        "number": "560"
+      },
+      {
+        "subject": "THEA",
+        "number": "561"
+      },
+      {
+        "subject": "THEA",
+        "number": "562"
+      },
+      {
+        "subject": "THEA",
+        "number": "571"
+      },
+      {
+        "subject": "THEA",
+        "number": "572"
+      },
+      {
+        "subject": "THEA",
+        "number": "573"
+      },
+      {
+        "subject": "THEA",
+        "number": "574"
+      },
+      {
+        "subject": "THEA",
+        "number": "591"
+      },
+      {
+        "subject": "THEA",
+        "number": "595"
+      },
+      {
+        "subject": "THEA",
+        "number": "599"
+      }
+    ],
+    "TAM": [
+      {
+        "subject": "TAM",
+        "number": "199"
+      },
+      {
+        "subject": "TAM",
+        "number": "201"
+      },
+      {
+        "subject": "TAM",
+        "number": "210"
+      },
+      {
+        "subject": "TAM",
+        "number": "211"
+      },
+      {
+        "subject": "TAM",
+        "number": "212"
+      },
+      {
+        "subject": "TAM",
+        "number": "251"
+      },
+      {
+        "subject": "TAM",
+        "number": "252"
+      },
+      {
+        "subject": "TAM",
+        "number": "270"
+      },
+      {
+        "subject": "TAM",
+        "number": "297"
+      },
+      {
+        "subject": "TAM",
+        "number": "324"
+      },
+      {
+        "subject": "TAM",
+        "number": "335"
+      },
+      {
+        "subject": "TAM",
+        "number": "412"
+      },
+      {
+        "subject": "TAM",
+        "number": "445"
+      },
+      {
+        "subject": "TAM",
+        "number": "456"
+      },
+      {
+        "subject": "TAM",
+        "number": "497"
+      },
+      {
+        "subject": "TAM",
+        "number": "498"
+      },
+      {
+        "subject": "TAM",
+        "number": "500"
+      },
+      {
+        "subject": "TAM",
+        "number": "514"
+      },
+      {
+        "subject": "TAM",
+        "number": "524"
+      },
+      {
+        "subject": "TAM",
+        "number": "532"
+      },
+      {
+        "subject": "TAM",
+        "number": "534"
+      },
+      {
+        "subject": "TAM",
+        "number": "539"
+      },
+      {
+        "subject": "TAM",
+        "number": "542"
+      },
+      {
+        "subject": "TAM",
+        "number": "552"
+      },
+      {
+        "subject": "TAM",
+        "number": "597"
+      }
+    ],
+    "TRST": [
+      {
+        "subject": "TRST",
+        "number": "410"
+      },
+      {
+        "subject": "TRST",
+        "number": "413"
+      },
+      {
+        "subject": "TRST",
+        "number": "500"
+      },
+      {
+        "subject": "TRST",
+        "number": "502"
+      },
+      {
+        "subject": "TRST",
+        "number": "503"
+      },
+      {
+        "subject": "TRST",
+        "number": "505"
+      },
+      {
+        "subject": "TRST",
+        "number": "540"
+      },
+      {
+        "subject": "TRST",
+        "number": "542"
+      }
+    ],
+    "TURK": [
+      {
+        "subject": "TURK",
+        "number": "202"
+      },
+      {
+        "subject": "TURK",
+        "number": "270"
+      },
+      {
+        "subject": "TURK",
+        "number": "404"
+      }
+    ],
+    "UKR": [
+      {
+        "subject": "UKR",
+        "number": "102"
+      },
+      {
+        "subject": "UKR",
+        "number": "113"
+      },
+      {
+        "subject": "UKR",
+        "number": "199"
+      },
+      {
+        "subject": "UKR",
+        "number": "202"
+      },
+      {
+        "subject": "UKR",
+        "number": "498"
+      }
+    ],
+    "UP": [
+      {
+        "subject": "UP",
+        "number": "116"
+      },
+      {
+        "subject": "UP",
+        "number": "136"
+      },
+      {
+        "subject": "UP",
+        "number": "201"
+      },
+      {
+        "subject": "UP",
+        "number": "210"
+      },
+      {
+        "subject": "UP",
+        "number": "211"
+      },
+      {
+        "subject": "UP",
+        "number": "312"
+      },
+      {
+        "subject": "UP",
+        "number": "316"
+      },
+      {
+        "subject": "UP",
+        "number": "317"
+      },
+      {
+        "subject": "UP",
+        "number": "320"
+      },
+      {
+        "subject": "UP",
+        "number": "347"
+      },
+      {
+        "subject": "UP",
+        "number": "390"
+      },
+      {
+        "subject": "UP",
+        "number": "397"
+      },
+      {
+        "subject": "UP",
+        "number": "401"
+      },
+      {
+        "subject": "UP",
+        "number": "409"
+      },
+      {
+        "subject": "UP",
+        "number": "418"
+      },
+      {
+        "subject": "UP",
+        "number": "425"
+      },
+      {
+        "subject": "UP",
+        "number": "426"
+      },
+      {
+        "subject": "UP",
+        "number": "430"
+      },
+      {
+        "subject": "UP",
+        "number": "431"
+      },
+      {
+        "subject": "UP",
+        "number": "434"
+      },
+      {
+        "subject": "UP",
+        "number": "438"
+      },
+      {
+        "subject": "UP",
+        "number": "443"
+      },
+      {
+        "subject": "UP",
+        "number": "475"
+      },
+      {
+        "subject": "UP",
+        "number": "478"
+      },
+      {
+        "subject": "UP",
+        "number": "480"
+      },
+      {
+        "subject": "UP",
+        "number": "494"
+      },
+      {
+        "subject": "UP",
+        "number": "510"
+      },
+      {
+        "subject": "UP",
+        "number": "511"
+      },
+      {
+        "subject": "UP",
+        "number": "519"
+      },
+      {
+        "subject": "UP",
+        "number": "590"
+      },
+      {
+        "subject": "UP",
+        "number": "591"
+      },
+      {
+        "subject": "UP",
+        "number": "592"
+      },
+      {
+        "subject": "UP",
+        "number": "594"
+      },
+      {
+        "subject": "UP",
+        "number": "596"
+      },
+      {
+        "subject": "UP",
+        "number": "597"
+      },
+      {
+        "subject": "UP",
+        "number": "598"
+      }
+    ],
+    "VCM": [
+      {
+        "subject": "VCM",
+        "number": "501"
+      },
+      {
+        "subject": "VCM",
+        "number": "503"
+      },
+      {
+        "subject": "VCM",
+        "number": "506"
+      },
+      {
+        "subject": "VCM",
+        "number": "513"
+      },
+      {
+        "subject": "VCM",
+        "number": "514"
+      },
+      {
+        "subject": "VCM",
+        "number": "515"
+      },
+      {
+        "subject": "VCM",
+        "number": "517"
+      },
+      {
+        "subject": "VCM",
+        "number": "522"
+      },
+      {
+        "subject": "VCM",
+        "number": "524"
+      },
+      {
+        "subject": "VCM",
+        "number": "535"
+      },
+      {
+        "subject": "VCM",
+        "number": "536"
+      },
+      {
+        "subject": "VCM",
+        "number": "540"
+      },
+      {
+        "subject": "VCM",
+        "number": "542"
+      },
+      {
+        "subject": "VCM",
+        "number": "547"
+      },
+      {
+        "subject": "VCM",
+        "number": "568"
+      },
+      {
+        "subject": "VCM",
+        "number": "577"
+      },
+      {
+        "subject": "VCM",
+        "number": "584"
+      },
+      {
+        "subject": "VCM",
+        "number": "585"
+      },
+      {
+        "subject": "VCM",
+        "number": "592"
+      },
+      {
+        "subject": "VCM",
+        "number": "593"
+      },
+      {
+        "subject": "VCM",
+        "number": "594"
+      },
+      {
+        "subject": "VCM",
+        "number": "595"
+      },
+      {
+        "subject": "VCM",
+        "number": "598"
+      },
+      {
+        "subject": "VCM",
+        "number": "608"
+      },
+      {
+        "subject": "VCM",
+        "number": "614"
+      },
+      {
+        "subject": "VCM",
+        "number": "625"
+      },
+      {
+        "subject": "VCM",
+        "number": "627"
+      },
+      {
+        "subject": "VCM",
+        "number": "628"
+      },
+      {
+        "subject": "VCM",
+        "number": "641"
+      },
+      {
+        "subject": "VCM",
+        "number": "645"
+      },
+      {
+        "subject": "VCM",
+        "number": "661"
+      },
+      {
+        "subject": "VCM",
+        "number": "663"
+      },
+      {
+        "subject": "VCM",
+        "number": "673"
+      },
+      {
+        "subject": "VCM",
+        "number": "674"
+      },
+      {
+        "subject": "VCM",
+        "number": "682"
+      },
+      {
+        "subject": "VCM",
+        "number": "688"
+      },
+      {
+        "subject": "VCM",
+        "number": "690"
+      },
+      {
+        "subject": "VCM",
+        "number": "692"
+      },
+      {
+        "subject": "VCM",
+        "number": "694"
+      },
+      {
+        "subject": "VCM",
+        "number": "529"
+      }
+    ],
+    "VM": [
+      {
+        "subject": "VM",
+        "number": "603"
+      },
+      {
+        "subject": "VM",
+        "number": "604"
+      },
+      {
+        "subject": "VM",
+        "number": "606"
+      },
+      {
+        "subject": "VM",
+        "number": "608"
+      },
+      {
+        "subject": "VM",
+        "number": "612"
+      },
+      {
+        "subject": "VM",
+        "number": "616"
+      },
+      {
+        "subject": "VM",
+        "number": "617"
+      },
+      {
+        "subject": "VM",
+        "number": "642"
+      },
+      {
+        "subject": "VM",
+        "number": "645"
+      },
+      {
+        "subject": "VM",
+        "number": "655"
+      },
+      {
+        "subject": "VM",
+        "number": "656"
+      }
+    ],
+    "WLOF": [
+      {
+        "subject": "WLOF",
+        "number": "201"
+      },
+      {
+        "subject": "WLOF",
+        "number": "202"
+      },
+      {
+        "subject": "WLOF",
+        "number": "404"
+      }
+    ],
+    "WLTE": [
+      {
+        "subject": "WLTE",
+        "number": "471"
+      },
+      {
+        "subject": "WLTE",
+        "number": "478"
+      }
+    ],
+    "WRIT": [
+      {
+        "subject": "WRIT",
+        "number": "300"
+      },
+      {
+        "subject": "WRIT",
+        "number": "303"
+      }
+    ],
+    "YDSH": [
+      {
+        "subject": "YDSH",
+        "number": "102"
+      }
     ]
   },
-  "completedSubjects": [],
-  "partialSubjects": {},
+  "completedSubjects": [
+    "ACCY",
+    "ASRM",
+    "ADV"
+  ],
+  "partialSubjects": {
+    "AE": {
+      "completed": 16,
+      "total": 42,
+      "lastCourse": "ABORTED"
+    }
+  },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 0,
-    "failedCourses": 0,
+    "successfulCourses": 133,
+    "failedCourses": 1,
     "rateLimitCount": 0
   }
 }

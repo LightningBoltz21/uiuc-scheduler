@@ -1,354 +1,4991 @@
 {
   "subject": "ACCY",
-  "scrapedAt": 1791782120108,
+  "scrapedAt": 1794502894884,
   "courseCount": 48,
   "courses": {
-    "ACCY 201": [
-      "ACCY 201",
-      {},
+    "ACCY 199": [
+      "Undergraduate Open Seminar",
+      {
+        "10033": [
+          "10033",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "AI": [
+          "69228",
+          [
+            [
+              1,
+              "MW",
+              "2007 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
       null,
+      []
+    ],
+    "ACCY 201": [
+      "Accounting and Accountancy I",
+      {
+        "AD1": [
+          "30112",
+          [
+            [
+              2,
+              "F",
+              "2007 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "AD2": [
+          "30113",
+          [
+            [
+              3,
+              "F",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "AD3": [
+          "30114",
+          [
+            [
+              3,
+              "F",
+              "2011 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "AD4": [
+          "30115",
+          [
+            [
+              4,
+              "F",
+              "2007 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "AD5": [
+          "30116",
+          [
+            [
+              5,
+              "F",
+              "2007 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "AD6": [
+          "30117",
+          [
+            [
+              6,
+              "F",
+              "2007 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "AD7": [
+          "45631",
+          [
+            [
+              7,
+              "F",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "AD8": [
+          "68828",
+          [
+            [
+              7,
+              "F",
+              "2063 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "AD9": [
+          "68829",
+          [
+            [
+              8,
+              "F",
+              "2063 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "ADA": [
+          "68830",
+          [
+            [
+              4,
+              "F",
+              "2063 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "ADB": [
+          "68831",
+          [
+            [
+              5,
+              "F",
+              "2057 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "ADC": [
+          "70222",
+          [
+            [
+              8,
+              "F",
+              "2007 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "ADD": [
+          "78949",
+          [
+            [
+              8,
+              "F",
+              "2057 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "ADE": [
+          "78950",
+          [
+            [
+              4,
+              "F",
+              "2057 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "30118",
+          [
+            [
+              9,
+              "TR",
+              "141 Wohlers Hall",
+              2,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "AL2": [
+          "68539",
+          [
+            [
+              10,
+              "TR",
+              "1001 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "AL3": [
+          "51202",
+          [
+            [
+              11,
+              "TR",
+              "1049 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "AL4": [
+          "79225",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Develops a foundation for understanding and analyzing how accounting information is generated and interpreted by both external and internal decision makers. Students will begin by identifying the information conveyed in each of the basic financial statements and understand the way that this information is used by different external decision makers. Students will then focus on information used by management, with an emphasis on analysis to facilitate and guide management decision making, planning and control.",
       []
     ],
     "ACCY 200": [
-      "ACCY 200",
-      {},
+      "Fundamentals of Accounting",
+      {
+        "BM": [
+          "56973",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Zhang, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "OL": [
+          "45418",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Green, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "TM": [
+          "30111",
+          [
+            [
+              12,
+              "MW",
+              "2011 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "ACCY 199": [
-      "ACCY 199",
-      {},
-      [],
-      null,
-      []
-    ],
-    "ACCY 202": [
-      "ACCY 202",
-      {},
-      [],
-      null,
-      []
-    ],
-    "ACCY 301": [
-      "ACCY 301",
-      {},
-      [],
-      null,
+      "Survey course in the principles of accounting for students registered in schools and colleges other than the College of Business.",
       []
     ],
     "ACCY 290": [
-      "ACCY 290",
-      {},
+      "Prof Internship in Accountancy",
+      {
+        "O": [
+          "47685",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Formalized learning experience in combination with practice of accounting while engaged in an internship with a public accounting firm, business, or other off-campus organization; prior approval of learning plan and a summary report of learning experience are required.",
+      []
+    ],
+    "ACCY 202": [
+      "Accounting and Accountancy II",
+      {
+        "AD1": [
+          "30147",
+          [
+            [
+              3,
+              "F",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "ADA": [
+          "30121",
+          [
+            [
+              2,
+              "F",
+              "2011 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "ADC": [
+          "30123",
+          [
+            [
+              3,
+              "F",
+              "3009 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "ADE": [
+          "30134",
+          [
+            [
+              7,
+              "F",
+              "3063 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "ADF": [
+          "30138",
+          [
+            [
+              8,
+              "F",
+              "3063 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "ADG": [
+          "30140",
+          [
+            [
+              7,
+              "F",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "ADH": [
+          "30143",
+          [
+            [
+              3,
+              "F",
+              "2057 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "ADJ": [
+          "30151",
+          [
+            [
+              8,
+              "F",
+              "2011 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "ADL": [
+          "30159",
+          [
+            [
+              7,
+              "F",
+              "2007 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "ADM": [
+          "30161",
+          [
+            [
+              4,
+              "F",
+              "3063 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "ADO": [
+          "30168",
+          [
+            [
+              5,
+              "F",
+              "3057 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "ADP": [
+          "30171",
+          [
+            [
+              5,
+              "F",
+              "3063 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "ADQ": [
+          "30176",
+          [
+            [
+              5,
+              "F",
+              "2011 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "ADR": [
+          "30179",
+          [
+            [
+              6,
+              "F",
+              "2011 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "ADS": [
+          "30182",
+          [
+            [
+              6,
+              "F",
+              "3057 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "ADT": [
+          "30186",
+          [
+            [
+              6,
+              "F",
+              "3063 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "30119",
+          [
+            [
+              10,
+              "TR",
+              "141 Wohlers Hall",
+              2,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "AL2": [
+          "30120",
+          [
+            [
+              1,
+              "TR",
+              "1001 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "AL3": [
+          "69229",
+          [
+            [
+              13,
+              "TR",
+              "130 Wohlers Hall",
+              2,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Further develops the student's understanding of accrual accounting, the goals and objectives of financial reporting, the information needs of end users, the qualities of useful information, as well as the financial statements and financial statement elements. Students will analyze and record progressively more complex transactions, continuing to take the economic event from inception to reporting. Recurring themes and foundational concepts are emphasized such that students can develop intuition for accounting measurement and reporting.",
+      []
+    ],
+    "ACCY 301": [
+      "Atg Measurement & Disclosure",
+      {
+        "AE1": [
+          "30192",
+          [
+            [
+              10,
+              "MW",
+              "3003 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AE3": [
+          "30197",
+          [
+            [
+              14,
+              "MW",
+              "3001 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AE4": [
+          "30200",
+          [
+            [
+              13,
+              "MW",
+              "3063 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AE5": [
+          "30201",
+          [
+            [
+              11,
+              "MW",
+              "3063 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AE6": [
+          "30203",
+          [
+            [
+              9,
+              "MW",
+              "3063 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AE7": [
+          "50319",
+          [
+            [
+              10,
+              "MW",
+              "3063 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to measurement and reporting of organizational performance for strategic and operational purposes with a focus on a variety of financial and non-financial performance measures suitable for both internal and external decision-making. Projects, together with a series of practical workshops, facilitate self-discovery of knowledge and development of a variety of professional skills and attitudes.",
       []
     ],
     "ACCY 302": [
-      "ACCY 302",
-      {},
+      "Decision Making for Atg",
+      {
+        "AE1": [
+          "60043",
+          [
+            [
+              10,
+              "TR",
+              "3057 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AE2": [
+          "30211",
+          [
+            [
+              11,
+              "TR",
+              "3003 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AE3": [
+          "30212",
+          [
+            [
+              1,
+              "TR",
+              "2011 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AE5": [
+          "30228",
+          [
+            [
+              9,
+              "TR",
+              "3039 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AE6": [
+          "30232",
+          [
+            [
+              13,
+              "TR",
+              "3041 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AE7": [
+          "30255",
+          [
+            [
+              10,
+              "TR",
+              "2063 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AY1": [
+          "30260",
+          [
+            [
+              15,
+              "M",
+              "1001 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "We will develop and apply a framework to better understand the specific types of accounting information managers need to make key operational and strategic decisions. Utilizing business case studies and real-world projects, the course will also develop skills in gathering, visualizing, and statistically analyzing this accounting information to inform these important decisions.",
       []
     ],
     "ACCY 303": [
-      "ACCY 303",
-      {},
+      "Accounting Institutions and Regulation",
+      {
+        "AE2": [
+          "30267",
+          [
+            [
+              11,
+              "MW",
+              "3057 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AE3": [
+          "30271",
+          [
+            [
+              13,
+              "MW",
+              "2001 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AE4": [
+          "30274",
+          [
+            [
+              1,
+              "MW",
+              "3057 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AE5": [
+          "30276",
+          [
+            [
+              10,
+              "MW",
+              "3057 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AE6": [
+          "30278",
+          [
+            [
+              9,
+              "MW",
+              "2063 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AE7": [
+          "46358",
+          [
+            [
+              13,
+              "MW",
+              "2063 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Measurement and reporting of firm's liabilities and shareholders' equity. Topics include current liabilities, contingencies, subsequent events, bonds, leases, pensions, equity issuance and repurchase, dividends, and equity-based compensation.",
       []
     ],
     "ACCY 304": [
-      "ACCY 304",
-      {},
+      "Accounting Control Systems",
+      {
+        "AE2": [
+          "30288",
+          [
+            [
+              10,
+              "TR",
+              "1025 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AE3": [
+          "30291",
+          [
+            [
+              13,
+              "TR",
+              "3003 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AE4": [
+          "30294",
+          [
+            [
+              9,
+              "TR",
+              "3063 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AE6": [
+          "30299",
+          [
+            [
+              11,
+              "TR",
+              "1025 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AE7": [
+          "48420",
+          [
+            [
+              1,
+              "TR",
+              "1025 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AE8": [
+          "48421",
+          [
+            [
+              14,
+              "TR",
+              "3003 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Explores an important framework that highlights the vital roles accounting control systems play in shaping and implementing organizational strategy. Components of this framework include internal controls, organizational missions and values, codes of ethics, performance measurement, evaluation, and reward systems. Case studies, class discussions, group exercises, and field research projects emphasize critical reasoning, data analytics, teamwork, and written and oral communication.",
       []
     ],
     "ACCY 312": [
-      "ACCY 312",
-      {},
+      "Principles of Taxation",
+      {
+        "A": [
+          "30334",
+          [
+            [
+              10,
+              "MW",
+              "3009 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "30335",
+          [
+            [
+              1,
+              "MW",
+              "3041 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "C": [
+          "30336",
+          [
+            [
+              9,
+              "MW",
+              "3009 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "D": [
+          "39460",
+          [
+            [
+              13,
+              "MW",
+              "1049 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "E": [
+          "48959",
+          [
+            [
+              9,
+              "MW",
+              "1049 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "F": [
+          "56978",
+          [
+            [
+              14,
+              "MW",
+              "1049 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Introduction to the United States federal income tax system with an emphasis on income tax determination and the taxation of property transactions. Topics include the tax environment, tax provisions relevant to businesses, employees and business owners. Projects facilitate self-discovery of knowledge and development of a variety of professional skills and attitudes.",
       []
     ],
     "ACCY 321": [
-      "ACCY 321",
-      {},
+      "Principles of Public Policy",
+      {
+        "A": [
+          "40415",
+          [
+            [
+              11,
+              "TR",
+              "1090 Lincoln Hall",
+              3,
+              [
+                "Hinchliffe, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "WA": [
+          "58331",
+          [
+            [
+              16,
+              "T",
+              "ARR Washington DC",
+              0,
+              [
+                "Hines, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "ACCY 398": [
-      "ACCY 398",
-      {},
-      [],
-      null,
+      "Same as ACE 321, BADM 303, and PS 321. See PS 321.",
       []
     ],
     "ACCY 375": [
-      "ACCY 375",
-      {},
+      "Career Pathways in Accountancy",
+      {
+        "CPA": [
+          "76009",
+          [
+            [
+              17,
+              "W",
+              "2001 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Career Pathways in Accountancy is an enrichment program where you will explore accounting-related career paths, build skills for success, and connect with other Accountancy students and professionals. The goal of CPA is to accelerate students’ learning by providing experiences that connect the classroom to real-world accounting and related careers. The course is intended for students who are in the early stages of deciding their specific career path and interviewing for internships and full-time positions.",
+      []
+    ],
+    "ACCY 398": [
+      "Practical Problems in Atg",
+      {
+        "A": [
+          "30412",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "63823",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "Z": [
+          "30415",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Course covers the professional standards relating to corporate financial reporting, taxation, auditing and public sector reporting. Serves as a review course for the Uniform Certified Public Accountant (CPA) Examination.",
       []
     ],
     "ACCY 405": [
-      "ACCY 405",
-      {},
+      "Assurance and Attestation",
+      {
+        "AE1": [
+          "30311",
+          [
+            [
+              11,
+              "MW",
+              "2007 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AE2": [
+          "30315",
+          [
+            [
+              11,
+              "MW",
+              "226 Wohlers Hall",
+              2,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AE3": [
+          "30324",
+          [
+            [
+              10,
+              "MW",
+              "2011 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AE5": [
+          "52616",
+          [
+            [
+              1,
+              "MW",
+              "226 Wohlers Hall",
+              2,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AE6": [
+          "60014",
+          [
+            [
+              9,
+              "MW",
+              "2005 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AE7": [
+          "71388",
+          [
+            [
+              13,
+              "MW",
+              "2007 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AY1": [
+          "30328",
+          [
+            [
+              18,
+              "R",
+              "1001 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Conceptual introduction to diverse means by which assurers improve the quality of information used by third parties for contracting purposes, with emphases on the credibility- and relevance-enhancement properties of assurers' services. Topics include the economics of assurance and attestation, and concepts including independence, risk, evidence, and control. Projects facilitate self-discovery of knowledge and development of professional skills and attitudes.",
       []
     ],
     "ACCY 410": [
-      "ACCY 410",
-      {},
+      "Advanced Financial Reporting",
+      {
+        "A3": [
+          "60044",
+          [
+            [
+              11,
+              "MW",
+              "3001 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "A4": [
+          "65522",
+          [
+            [
+              11,
+              "MW",
+              "3001 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "B3": [
+          "60045",
+          [
+            [
+              10,
+              "TR",
+              "2005 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "B4": [
+          "66490",
+          [
+            [
+              10,
+              "TR",
+              "2005 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "C3": [
+          "61733",
+          [
+            [
+              13,
+              "TR",
+              "1025 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "C4": [
+          "65523",
+          [
+            [
+              13,
+              "TR",
+              "1025 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "D3": [
+          "61734",
+          [
+            [
+              13,
+              "MW",
+              "2005 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "D4": [
+          "65524",
+          [
+            [
+              13,
+              "MW",
+              "2005 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "E3": [
+          "61745",
+          [
+            [
+              1,
+              "MW",
+              "3001 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "E4": [
+          "65525",
+          [
+            [
+              1,
+              "MW",
+              "3001 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "F3": [
+          "61758",
+          [
+            [
+              11,
+              "TR",
+              "2001 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "F4": [
+          "65526",
+          [
+            [
+              11,
+              "TR",
+              "2001 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "G3": [
+          "61759",
+          [
+            [
+              9,
+              "TR",
+              "1025 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "G4": [
+          "65527",
+          [
+            [
+              9,
+              "TR",
+              "1025 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Current authoritative accounting standards and applications to accounting practice. Topics do not represent the full range of financial reporting issues, but are selected based on relevance of the underlying business transaction, complexity of the topic, consistency of applicable standard with underlying reporting concepts, and transferability of the standard to other accounting issues.",
       []
     ],
     "ACCY 419": [
-      "ACCY 419",
-      {},
+      "Financial Accounting for Governmental and Nonprofit Entities",
+      {
+        "A3": [
+          "77040",
+          [
+            [
+              10,
+              "TR",
+              "226 Wohlers Hall",
+              2,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "A4": [
+          "77041",
+          [
+            [
+              10,
+              "TR",
+              "226 Wohlers Hall",
+              2,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "In this Governmental and Nonprofit Accounting course, students will experience an in-depth study of governmental and nonprofit accounting practices, focusing on financial reporting, budgeting, and fund accounting. Students will gain a comprehensive understanding of the unique accounting principles and regulations applicable to the public and nonprofit sectors. By the end of the course, students will know how to create and analyze financial transactions for governmental and nonprofit entities.",
       []
     ],
     "ACCY 449": [
-      "ACCY 449",
-      {},
+      "Tax in Action - VITA",
+      {
+        "A": [
+          "76063",
+          [
+            [
+              0,
+              "",
+              "ARR Business Instructional Fac",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "76065",
+          [
+            [
+              10,
+              "F",
+              "3007 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "ACCY 499": [
-      "ACCY 499",
-      {},
-      [],
-      null,
-      []
-    ],
-    "ACCY 500": [
-      "ACCY 500",
-      {},
-      [],
-      null,
+      "Tax in Action allows students to gain hands-on experience while providing a valuable service to the community through the Internal Revenue Service’s Volunteer Income Tax Assistance (VITA) program. Students will participate in a training and certification program through the IRS VITA program and will prepare tax returns for members of the community. Students taking the course for two credit hours will serve as team leads. They will be responsible for quality review, progress of the team toward goals and deadlines, training and communication with faculty.",
       []
     ],
     "ACCY 451": [
-      "ACCY 451",
-      {},
+      "Advanced Income Tax Problems",
+      {
+        "A3": [
+          "61737",
+          [
+            [
+              11,
+              "MW",
+              "2057 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "A4": [
+          "61738",
+          [
+            [
+              11,
+              "MW",
+              "2057 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "B3": [
+          "61739",
+          [
+            [
+              9,
+              "MW",
+              "130 Wohlers Hall",
+              2,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "B4": [
+          "61740",
+          [
+            [
+              9,
+              "MW",
+              "130 Wohlers Hall",
+              2,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "C3": [
+          "61741",
+          [
+            [
+              1,
+              "MW",
+              "3009 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "C4": [
+          "61742",
+          [
+            [
+              1,
+              "MW",
+              "3009 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "D3": [
+          "61743",
+          [
+            [
+              11,
+              "MW",
+              "3009 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "D4": [
+          "61744",
+          [
+            [
+              11,
+              "MW",
+              "3009 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "E3": [
+          "65160",
+          [
+            [
+              14,
+              "MW",
+              "2063 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "E4": [
+          "65161",
+          [
+            [
+              14,
+              "MW",
+              "2063 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "F3": [
+          "68843",
+          [
+            [
+              13,
+              "MW",
+              "130 Wohlers Hall",
+              2,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "F4": [
+          "68844",
+          [
+            [
+              13,
+              "MW",
+              "130 Wohlers Hall",
+              2,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "An introduction to U.S. federal taxation of business entities including taxable corporations and flow through entities (partnerships, Subchapter S corporations, and limited liability companies). Practical problems facilitate self-discovery of technical tax knowledge and the development of data analysis skills.",
       []
     ],
-    "ACCY 502": [
-      "ACCY 502",
-      {},
+    "ACCY 499": [
+      "Senior Research",
+      {
+        "10038": [
+          "10038",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Research and readings course for students majoring in accountancy. May be taken by students in the college honors program in partial fulfillment of the honors requirements.",
+      []
+    ],
+    "ACCY 500": [
+      "Accounting Measurement, Reporting, and Control",
+      {
+        "IMB": [
+          "67786",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Mendoza, S",
+                "Urcan, O"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "67787",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Mendoza, S",
+                "Urcan, O"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "A managerial perspective of the nature and role of accounting in organizational measurement, reporting and control processes.",
       []
     ],
     "ACCY 501": [
-      "ACCY 501",
-      {},
+      "Accounting Analysis I",
+      {
+        "DA1": [
+          "68872",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Augusto Sampaio Franco de Lima, G",
+                "Evans, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "DB1": [
+          "68873",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Augusto Sampaio Franco de Lima, G",
+                "Evans, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "NA1": [
+          "68874",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Augusto Sampaio Franco de Lima, G",
+                "Evans, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "NB1": [
+          "68876",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Augusto Sampaio Franco de Lima, G",
+                "Evans, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Addresses the conceptual framework and financial statements--balance sheet, income statement and the statement of cash flows. It also provides in-depth analysis of accounting issues related to the measurement, recognition and disclosure of current and non-current assets, and revenue recognition.",
       []
     ],
-    "ACCY 506": [
-      "ACCY 506",
-      {},
+    "ACCY 502": [
+      "Accounting Analysis II",
+      {
+        "DA1": [
+          "67590",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Evans, M",
+                "Mendoza, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "DB1": [
+          "67591",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Evans, M",
+                "Mendoza, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "NA1": [
+          "67594",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Evans, M",
+                "Mendoza, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "NB1": [
+          "67595",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Evans, M",
+                "Mendoza, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Measurement and reporting of firm's liabilities and shareholders' equity. Topics include contingencies, subsequent events, bonds, leases, deferred taxes, pensions, equity transactions, and earning per share.",
       []
     ],
     "ACCY 503": [
-      "ACCY 503",
-      {},
+      "Managerial Accounting",
+      {
+        "A4": [
+          "44637",
+          [
+            [
+              14,
+              "MW",
+              "3039 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "B4": [
+          "49296",
+          [
+            [
+              10,
+              "MW",
+              "1049 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "DA1": [
+          "67610",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Hecht, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "DB1": [
+          "67611",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Hecht, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "IMB": [
+          "69063",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Chatterton, A",
+                "Chen, C",
+                "Zhang, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "NA1": [
+          "67612",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Hecht, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "NB1": [
+          "67613",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Hecht, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "69208",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Chatterton, A",
+                "Chen, C",
+                "Zhang, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Introduction to management accounting principles, as used to facilitate and align internal decisions made by managers and employees. Topics include analytical tools and techniques to address common business problems, cost information systems, budgeting, and strategic performance measurement systems.",
       []
     ],
-    "ACCY 507": [
-      "ACCY 507",
-      {},
+    "ACCY 506": [
+      "Advanced Topics in Accounting",
+      {
+        "A4": [
+          "66494",
+          [
+            [
+              13,
+              "TR",
+              "3009 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "ACCY 510": [
-      "ACCY 510",
-      {},
-      [],
-      null,
+      "Covers current authoritative accounting standards and applications to accounting practice. Topics include accounting for business combinations, the preparation of consolidated financial statements, and other advanced financial reporting topics.",
       []
     ],
     "ACCY 508": [
-      "ACCY 508",
-      {},
+      "Internal Audit for Managers",
+      {
+        "A": [
+          "78943",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Dahle, A",
+                "Rogowski, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "78944",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Dahle, A",
+                "Rogowski, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Equips managers to lead and collaborate with internal audit teams as strategic partners in governance, risk management, and organizational decision-making. Emphasizes ethical judgment, interpersonal effectiveness, and key stakeholder communication to navigate complexity and shape audit priorities. Covers the full internal audit cycle—from risk-based planning through reporting—while aligning audit activities with strategic goals. Incorporates team development, cultural and regulatory awareness, and trust-building as essential components for delivering measurable value and advancing organizational impact.",
       []
     ],
-    "ACCY 512": [
-      "ACCY 512",
-      {},
+    "ACCY 507": [
+      "Taxation of Business Entities",
+      {
+        "DA1": [
+          "67722",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Donohoe, M",
+                "Evans, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "DB1": [
+          "67725",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Donohoe, M",
+                "Evans, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "NA1": [
+          "67723",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Donohoe, M",
+                "Evans, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "NB1": [
+          "67728",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Donohoe, M",
+                "Evans, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "This course provides an introduction to the U.S. federal income tax treatment of corporations and pass-through entities, including Subchapter S corporations, partnerships, and limited liability companies.",
       []
     ],
     "ACCY 515": [
-      "ACCY 515",
-      {},
+      "Auditing & Assurance Standards",
+      {
+        "A": [
+          "44467",
+          [
+            [
+              1,
+              "TR",
+              "3003 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "46360",
+          [
+            [
+              9,
+              "TR",
+              "3009 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "C": [
+          "48423",
+          [
+            [
+              11,
+              "TR",
+              "3057 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Role of professional and ethical standards in the conduct of auditing and assurance services and the role of auditing and assurance services in corporate governance and capital markets. This course selectively surveys both academic and professional literature to focus on the conduct of auditing and assurance services. Cases, class discussion, group projects, and data analytics using Tableau emphasize the importance of critical thinking, group processes, and communication for professional accounting practice. Real-world scenarios assist in implementing auditing standards.",
+      []
+    ],
+    "ACCY 510": [
+      "Financial Reporting Standards",
+      {
+        "B": [
+          "44865",
+          [
+            [
+              1,
+              "MW",
+              "2001 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "C": [
+          "46889",
+          [
+            [
+              10,
+              "MW",
+              "2005 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "D": [
+          "46890",
+          [
+            [
+              11,
+              "MW",
+              "2005 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Stakeholders' needs for reliable and relevant information about the performance of firms, as well as managers; economic self-interests, influence managers' selection of accounting policies and financial reporting methods. This course selectively surveys both academic research and professional standards to focus on the measurement, classification and disclosure of financial transactions. Cases, class discussion and research projects emphasize independent thinking, group processes, and communication.",
+      []
+    ],
+    "ACCY 512": [
+      "Data Analytics for Management Accounting",
+      {
+        "A": [
+          "30434",
+          [
+            [
+              1,
+              "TR",
+              "2001 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "30436",
+          [
+            [
+              9,
+              "TR",
+              "2005 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "C": [
+          "30437",
+          [
+            [
+              13,
+              "TR",
+              "2005 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Data analytics incorporated into management decision making, including planning, cost management, and management control system design. Focuses on developing your skills of gathering and analyzing data for internal decision making purposes. Prerequisite: Enrollment in graduate accounting degree program or consent of department.",
       []
     ],
     "ACCY 516": [
-      "ACCY 516",
-      {},
+      "Professional Responsibility and Ethics for Accountants",
+      {
+        "E4": [
+          "71764",
+          [
+            [
+              9,
+              "MW",
+              "3041 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "ACCY 519": [
-      "ACCY 519",
-      {},
-      [],
-      null,
-      []
-    ],
-    "ACCY 518": [
-      "ACCY 518",
-      {},
-      [],
-      null,
+      "Covers key principles of accountants' professional responsibility in their jobs, organizations, and careers, and adopts both theoretical and practical perspectives of the role of ethics and morals within the accounting discipline. The course begins with a general overview of these key constructs and principles, including various philosophies from a variety of disciplines and cultures. Next, the course provides a historical perspective of major instances of accounting-related \"failures\" and \"successes\" in the area of professional responsibility and ethics. This historical perspective provides the underlying reasoning for many contemporary codes of conduct, ethics, and professional guidelines. A variety of experiential learning opportunities will help students explore and develop their own perspective on ethics and morals, and how these principles affect their professional roles, responsibilities, and choices.",
       []
     ],
     "ACCY 517": [
-      "ACCY 517",
-      {},
+      "Financial Statement Analysis and Valuation",
+      {
+        "A4": [
+          "30428",
+          [
+            [
+              1,
+              "MW",
+              "3003 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "D4": [
+          "58688",
+          [
+            [
+              9,
+              "MW",
+              "3001 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "DB1": [
+          "72663",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Grant, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "E4": [
+          "61747",
+          [
+            [
+              11,
+              "MW",
+              "3003 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "NB1": [
+          "72666",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Grant, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Examines the tools and techniques of financial statement analysis and company valuation from the perspective of investors and creditors; emphasizes theoretical and empirical properties of financial ratios as well as valuation methods used in practice.",
+      []
+    ],
+    "ACCY 518": [
+      "Financial Statement Fraud",
+      {
+        "A": [
+          "64807",
+          [
+            [
+              1,
+              "MW",
+              "2063 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "64808",
+          [
+            [
+              11,
+              "MW",
+              "2063 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "C": [
+          "64809",
+          [
+            [
+              9,
+              "MW",
+              "3003 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "D": [
+          "71765",
+          [
+            [
+              13,
+              "MW",
+              "3003 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to fraud examination with an emphasis on financial statement fraud. The course provides a comprehensive introduction to fraud examination. The topics addressed in the course include the unique characteristics of fraud examinations and a comparison to financial statement audits, the characteristics that should be possessed by fraud examiners, an overview of the fraud examination process, the nature and extent of fraud, an introduction to the taxonomy of financial statement frauds, techniques for evidence collection including interview techniques, Benford's law, and the development of fraud reports.",
+      []
+    ],
+    "ACCY 519": [
+      "Governmental and Nonprofit Accounting",
+      {
+        "DA1": [
+          "76060",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Ulla, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "NA1": [
+          "76061",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Ulla, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "In this Governmental and Nonprofit Accounting course, students will experience an in-depth study of governmental and nonprofit accounting practices, focusing on financial reporting, budgeting, and fund accounting. Students will gain a comprehensive understanding of the unique accounting principles and regulations applicable to the public and non-profit sectors. Students will take a deep dive into specialized areas within nonprofit and governmental accounting. This course will emphasize advanced research using various knowledgebase sources, and critical analysis. Additionally, this course involves more independent research and will require students to apply the knowledge gained in this course. By the end of the course, students will know how to create and analyze financial transactions for governmental and nonprofit entities.",
       []
     ],
     "ACCY 550": [
-      "ACCY 550",
-      {},
+      "Multistate Taxation",
+      {
+        "A4": [
+          "70066",
+          [
+            [
+              9,
+              "TR",
+              "3001 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Will examine state and local tax laws prevalent in the United States today. The course will consider the historical progression of state and local taxation, the power of states to tax (and the limitations on that power), and planning strategies for minimizing the impact of state and local taxation. Income taxes are emphasized; however, other taxes such as sales and use taxes and property taxes will be discussed.",
       []
     ],
     "ACCY 551": [
-      "ACCY 551",
-      {},
+      "Corporate Income Taxation",
+      {
+        "A": [
+          "63205",
+          [
+            [
+              10,
+              "TR",
+              "3009 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "ACCY 552": [
-      "ACCY 552",
-      {},
-      [],
-      null,
-      []
-    ],
-    "ACCY 571": [
-      "ACCY 571",
-      {},
-      [],
-      null,
+      "Analyzes the tax treatment, problems, planning techniques, and underlying governmental policies involving corporations and their shareholders; coverage includes formations, operations, distributions, liquidations, reorganizations, and affiliations.",
       []
     ],
     "ACCY 554": [
-      "ACCY 554",
-      {},
+      "International Taxation",
+      {
+        "A": [
+          "65171",
+          [
+            [
+              9,
+              "TR",
+              "3001 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Analyzes the tax treatment, issues, planning techniques and underlying government policies involved in doing business internationally. The course incorporates concepts learned in all of the tax courses as they relate to the impact on cross border outbound transactions (i.e., the taxation of US taxpayers doing business abroad). Topics include the source of income, transfer pricing, controlled foreign corporations (CFCs), Subpart F income, foreign tax credits, Global Intangible Low-Taxed Income (GILTI), Base Erosion and Anti-Abuse Tax (BEAT), and Foreign Derived Intangible Income (FDII). While this course focuses heavily on outbound transactions, some inbound rules (i.e., non-US taxpayers doing business in the United States) will be discussed.",
+      []
+    ],
+    "ACCY 552": [
+      "Partnership Income Taxation",
+      {
+        "A": [
+          "30438",
+          [
+            [
+              1,
+              "TR",
+              "3039 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "30440",
+          [
+            [
+              11,
+              "TR",
+              "3039 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Analyzes the tax treatment, problems, planning techniques, and underlying governmental policies involving partnerships and their partners, including Subchapter S corporations and their shareholders.",
       []
     ],
     "ACCY 570": [
-      "ACCY 570",
-      {},
+      "Data Analytics Foundations for Accountancy",
+      {
+        "D4": [
+          "71766",
+          [
+            [
+              9,
+              "TR",
+              "2063 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              19,
+              "R",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "E4": [
+          "77038",
+          [
+            [
+              11,
+              "TR",
+              "130 Wohlers Hall",
+              2,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              19,
+              "R",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Concepts and foundations underlying data analytics for accounting. Provides fundamental knowledge of how to acquire, organize, synthesize and analyze (possibly large) volumes of data to address questions and problems. After completing this course, students should (1) have a foundational understanding of the techniques underlying data analytics, (2) recognize scenarios and identify appropriate tools for various types of data analysis and (3) use Python and Tableau to perform data analysis.",
+      []
+    ],
+    "ACCY 571": [
+      "Statistical Analyses for Accountancy",
+      {
+        "A": [
+          "68538",
+          [
+            [
+              1,
+              "TR",
+              "3009 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Fundamental knowledge of how to perform statistical analyses useful for leveraging accounting information to solve business problems. After completing this course, students should (1) have a foundational understanding of the statistical analyses underlying data analytics, (2) recognize scenarios and identify appropriate statistical tools for various types of data analysis and (3) use common computer-based tools to perform statistical analyses.",
       []
     ],
     "ACCY 574": [
-      "ACCY 574",
-      {},
+      "Risk Management and Innovation",
+      {
+        "A": [
+          "70515",
+          [
+            [
+              13,
+              "MW",
+              "3001 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "70516",
+          [
+            [
+              10,
+              "MW",
+              "130 Wohlers Hall",
+              2,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "C": [
+          "75525",
+          [
+            [
+              13,
+              "MW",
+              "3041 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "IMB": [
+          "74806",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Leiby, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "74805",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Leiby, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Decision making and analytic approaches to help organizations navigate disruptive changes in practices, technology, regulation, and culture to serve stakeholders (customers, employees, investors, the public). Course content focuses on identifying and quantifying risks, and balancing between achieving consistent, measurable outcomes and delivering stakeholder-driven objectives. Cases and experiential learning will emphasize developing tools to translate data into insights, tie these insights into managing stakeholder interests, and communicating these insights to decision makers.",
       []
     ],
     "ACCY 575": [
-      "ACCY 575",
-      {},
+      "Data Analytics Applications in Accountancy",
+      {
+        "A": [
+          "64806",
+          [
+            [
+              1,
+              "TR",
+              "2057 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "67001",
+          [
+            [
+              11,
+              "TR",
+              "2057 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "C": [
+          "67002",
+          [
+            [
+              9,
+              "TR",
+              "2057 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "D": [
+          "66491",
+          [
+            [
+              10,
+              "TR",
+              "3003 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "E": [
+          "66492",
+          [
+            [
+              11,
+              "MW",
+              "130 Wohlers Hall",
+              2,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "F": [
+          "66493",
+          [
+            [
+              10,
+              "MW",
+              "226 Wohlers Hall",
+              2,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "G": [
+          "70106",
+          [
+            [
+              14,
+              "TR",
+              "3063 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "H": [
+          "70206",
+          [
+            [
+              13,
+              "TR",
+              "3063 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Develops knowledge regarding the role, methods, and implications of business and data analytics in accounting. Building on prior coursework on the fundamentals of statistical analysis and business/data analytics, this course provides the opportunity to apply related theoretical and practical principles to a variety of accounting scenarios, including audit, tax, fraud identification and detection, financial reporting, and managerial accounting.",
       []
     ],
     "ACCY 576": [
-      "ACCY 576",
-      {},
+      "Data Preparation for Accounting",
+      {
+        "DA1": [
+          "70683",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Guymon, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "NA1": [
+          "70684",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Guymon, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "This course focuses on developing Python skills for assembling business data, taught within the context of multiple accounting settings (e.g., financial statement data, stock data, loan data, point-of-sale data, etc.).",
       []
     ],
     "ACCY 578": [
-      "ACCY 578",
-      {},
+      "Accounting Analytics Applications",
+      {
+        "AA1": [
+          "71795",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Guymon, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AA2": [
+          "71797",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Mendoza, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "NA1": [
+          "71796",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Guymon, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "NA2": [
+          "71798",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Mendoza, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Develops students’ knowledge regarding the role, methods, and implications of business and data analytics in accounting via real-world applications of fundamental and advanced analytics principles. Application opportunities span multiple areas of accounting, including audit, fraud identification and detection, financial accounting, and managerial accounting. After engaging in this course, students should (1) have a foundational understanding of the role of business / data analytics in accounting and (2) be able to apply this knowledge to real-world clients, business decisions, etc.",
       []
     ],
     "ACCY 577": [
-      "ACCY 577",
-      {},
+      "Machine Learning for Accounting",
+      {
+        "DB1": [
+          "71767",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Lu, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "NB1": [
+          "71768",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Lu, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "This course introduces machine learning algorithms and their applications in accounting problems. It covers classification, regression, clustering, text analysis, time series analysis. It also discusses feature importance and model optimization.",
       []
     ],
     "ACCY 590": [
-      "ACCY 590",
-      {},
+      "Adv Prof Internship in ACCY",
+      {
+        "A": [
+          "30446",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "MSA": [
+          "78369",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "ACCY 593": [
-      "ACCY 593",
-      {},
-      [],
-      null,
+      "A formalized learning experience in combination with practice of accounting while engaged in an internship with a public accounting firm, business, or other off-campus organization; prior approval of learning plan and a summary report of learning experience required.",
       []
     ],
     "ACCY 595": [
-      "ACCY 595",
-      {},
+      "Models of Decision and Choice",
+      {
+        "A": [
+          "48115",
+          [
+            [
+              20,
+              "T",
+              "11 Psychology Building",
+              4,
+              [
+                "Regenwetter, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Same as PS 528 and PSYC 534. See PSYC 534.",
+      []
+    ],
+    "ACCY 593": [
+      "Special Research Problems",
+      {
+        "10041": [
+          "10041",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "AI": [
+          "48560",
+          [
+            [
+              1,
+              "MW",
+              "2007 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "30447",
+          [
+            [
+              21,
+              "T",
+              "ARR Wohlers Hall",
+              2,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "C": [
+          "30449",
+          [
+            [
+              22,
+              "MW",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "PFS": [
+          "73723",
+          [
+            [
+              23,
+              "F",
+              "ARR Business Instructional Fac",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Individual investigations or research projects selected by the students, subject to approval by the graduate adviser and the executive officer of the Department.",
       []
     ],
     "ACCY 599": [
-      "ACCY 599",
-      {},
+      "Thesis Research",
+      {
+        "A": [
+          "30464",
+          [
+            [
+              24,
+              "F",
+              "2063 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "30465",
+          [
+            [
+              25,
+              "F",
+              "3057 Business Instructional Fac",
+              1,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "C": [
+          "72063",
+          [
+            [
+              14,
+              "W",
+              "245 Wohlers Hall",
+              2,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Individual direction and guidance in writing theses; seminar discussion of progress made.",
       []
     ]
   },
   "caches": {
-    "periods": [],
+    "periods": [
+      "ARRANGED",
+      "0800 - 0920",
+      "0800 - 0850",
+      "0900 - 0950",
+      "1200 - 1250",
+      "1300 - 1350",
+      "1400 - 1450",
+      "1000 - 1050",
+      "1100 - 1150",
+      "1230 - 1350",
+      "1100 - 1220",
+      "0930 - 1050",
+      "1700 - 1820",
+      "1400 - 1520",
+      "1530 - 1650",
+      "1700 - 1750",
+      "1830 - 2030",
+      "1530 - 1620",
+      "1600 - 1720",
+      "2000 - 2050",
+      "1530 - 1820",
+      "1200 - 1550",
+      "1300 - 1500",
+      "0830 - 0920",
+      "1300 - 1650",
+      "0800 - 1150"
+    ],
     "dateRanges": [],
-    "scheduleTypes": [],
+    "scheduleTypes": [
+      "Independent Study",
+      "Lecture-Discussion",
+      "Discussion/Recitation",
+      "Online Discussion",
+      "Lecture",
+      "Online",
+      "Conference",
+      "Laboratory-Discussion"
+    ],
     "campuses": [],
     "attributes": [],
     "restrictions": [],
     "gradeBases": [],
-    "locations": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.1035872,
+        "long": -88.2306061
+      },
+      {
+        "lat": 40.103620555545135,
+        "long": -88.22982720445013
+      },
+      {
+        "lat": 40.1065684,
+        "long": -88.2281746
+      },
+      {
+        "lat": 40.10755766472843,
+        "long": -88.22995430218522
+      }
+    ],
     "finalDates": [],
     "finalTimes": []
   }
