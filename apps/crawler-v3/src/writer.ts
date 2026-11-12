@@ -349,6 +349,20 @@ export function validateTermData(
     );
   }
 
+  // Subject listings only include courses offered that term, so nearly every
+  // course has sections (4476 of 4484 in Fall 2026). Mostly empty courses
+  // mean the pages weren't real course pages, as when Course Explorer served
+  // "No Sections Available" for 4510 of 4527 Spring 2027 courses.
+  const coursesWithSections = Object.values(termData.courses).filter(
+    course => Object.keys(course[1]).length > 0
+  ).length;
+  if (coursesWithSections < courseCount * 0.5) {
+    throw new TermValidationError(
+      `${termCode}: only ${coursesWithSections} of ${courseCount} courses ` +
+      `have any sections. Refusing to publish.`
+    );
+  }
+
   // Compare against the previously published file for this term, if present
   if (process.env['ALLOW_SECTION_DROP'] === '1') return;
   const existingPath = path.join(outputDir, `${termCode}.json`);

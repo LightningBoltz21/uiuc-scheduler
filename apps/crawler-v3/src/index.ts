@@ -1,4 +1,10 @@
-import { scrapeCourse, scrapeSubjects, scrapeCourseList, CourseInfo } from './scraper';
+import {
+  scrapeCourse,
+  scrapeSubjects,
+  scrapeCourseList,
+  CourseInfo,
+  BlockedPageError
+} from './scraper';
 import { DataWriter, validateTermData, TermValidationError } from './writer';
 import { getIntConfig, discoverLatestTerms, getTermCode, getTermName } from './utils';
 import { 
@@ -70,9 +76,11 @@ async function scrapeWithDelay(
     );
     return { course, data: scraped, success: true };
   } catch (error: any) {
-    // Check for 403 Forbidden errors
-    if (error.response?.status === 403) {
-      console.error(`\n❌ 403 Forbidden on ${course.subject} ${course.number}`);
+    // Check for 403 Forbidden errors, and for the empty pages Course Explorer
+    // serves instead of a 403 (see BlockedPageError)
+    if (error.response?.status === 403 || error instanceof BlockedPageError) {
+      const reason = error instanceof BlockedPageError ? 'Empty page' : '403 Forbidden';
+      console.error(`\n❌ ${reason} on ${course.subject} ${course.number}`);
       console.error(`🛑 ABORTING: UIUC server blocked request`);
       abortRequested = true;
       // Abort any in-flight requests
@@ -276,7 +284,10 @@ async function main() {
   const termsToScrape = SPECIFIED_TERMS || await discoverLatestTerms(2);
   
   if (termsToScrape.length === 0) {
+    // Course Explorer always lists terms, so this means the listing pages
+    // came back empty or failed. Exit as retryable rather than as a success.
     console.error('❌ No terms to scrape');
+    process.exitCode = 1;
     return;
   }
 
@@ -344,58 +355,55 @@ async function main() {
         continue;
       }
 
-      // Step 2: Get all courses for each subject (discovery phase)
+      // Step 2: Get all courses for each subject (discovery phase).
+      // Each subject's list is cached as soon as it is fetched, so a run that
+      // is blocked partway through discovery (which alone is ~190 requests for
+      // a full term) resumes where it stopped instead of starting over.
       console.log('\n🔍 Step 2: Discovering courses per subject...');
-      let subjectCourseMap = new Map<string, CourseInfo[]>();
+      const subjectCourseMap = new Map<string, CourseInfo[]>();
       let totalCoursesDiscovered = 0;
-      
-      // Check if we have cached course lists
-      const cachedCourseLists = progressManager.getCachedCourseLists();
-      if (cachedCourseLists && Object.keys(cachedCourseLists).length > 0) {
-        // Load from cache
-        for (const [subject, courses] of Object.entries(cachedCourseLists)) {
-          subjectCourseMap.set(subject, courses);
-          totalCoursesDiscovered += courses.length;
-        }
-        console.log(`  ✓ Loaded course lists from cache (${totalCoursesDiscovered} courses, skipped HTTP requests)`);
-      } else {
-        // Discover courses from HTTP
-        let subjectIndex = 0;
-        
-        for (const subject of subjects) {
-          subjectIndex++;
-          
-          const courses = await scrapeCourseList(year, term, subject);
-          
-          let coursesToStore = courses;
-          if (COURSES_PER_SUBJECT !== null && courses.length > 0) {
-            coursesToStore = courses.slice(0, COURSES_PER_SUBJECT);
-            console.log(`    ✓ ${subject}: ${courses.length} courses (taking first ${coursesToStore.length})`);
+      const courseLists: Record<string, CourseInfo[]> = {
+        ...(progressManager.getCachedCourseLists() ?? {})
+      };
+      let loadedFromCache = 0;
+      let discoveryIndex = 0;
+
+      for (const subject of subjects) {
+        discoveryIndex++;
+
+        let courses = courseLists[subject];
+        if (courses) {
+          loadedFromCache++;
+        } else {
+          const listed = await scrapeCourseList(year, term, subject);
+          courses = listed;
+          if (COURSES_PER_SUBJECT !== null) {
+            courses = listed.slice(0, COURSES_PER_SUBJECT);
+            console.log(`    ✓ ${subject}: ${listed.length} courses (taking first ${courses.length})`);
           } else {
-            console.log(`    ✓ ${subject}: ${courses.length} courses`);
+            console.log(`    ✓ ${subject}: ${listed.length} courses`);
           }
-          
-          subjectCourseMap.set(subject, coursesToStore);
-          totalCoursesDiscovered += coursesToStore.length;
-          
-          // Show progress every 20 subjects
-          if (subjectIndex % 20 === 0 || subjectIndex === subjects.length) {
-            console.log(`  📊 Discovery: ${subjectIndex}/${subjects.length} subjects (${totalCoursesDiscovered} courses found)`);
-          }
-          
+
+          courseLists[subject] = courses;
+          progressManager.cacheCourseLists(courseLists);
+
           // Delay between subject discovery requests
           await sleep(500, 0.3);
         }
-        
-        console.log(`\n  📚 Total courses discovered: ${totalCoursesDiscovered}`);
-        
-        // Cache the course lists
-        const courseListsObj: Record<string, CourseInfo[]> = {};
-        subjectCourseMap.forEach((courses, subject) => {
-          courseListsObj[subject] = courses;
-        });
-        progressManager.cacheCourseLists(courseListsObj);
+
+        subjectCourseMap.set(subject, courses);
+        totalCoursesDiscovered += courses.length;
+
+        // Show progress every 20 subjects
+        if (discoveryIndex % 20 === 0 || discoveryIndex === subjects.length) {
+          console.log(`  📊 Discovery: ${discoveryIndex}/${subjects.length} subjects (${totalCoursesDiscovered} courses found)`);
+        }
       }
+
+      if (loadedFromCache > 0) {
+        console.log(`  ✓ Loaded ${loadedFromCache}/${subjects.length} subjects' course lists from cache (skipped HTTP requests)`);
+      }
+      console.log(`\n  📚 Total courses discovered: ${totalCoursesDiscovered}`);
       
       // Update progress with totals
       progressManager.updateTotals(subjects.length, totalCoursesDiscovered);
@@ -464,7 +472,7 @@ async function main() {
       
       // If term was aborted, exit
       if (termAborted) {
-        console.error(`\n❌ Term ${termName} aborted due to 403 error`);
+        console.error(`\n❌ Term ${termName} aborted: blocked by Course Explorer (403 or empty page)`);
         console.error(`   Run again to resume from where you left off\n`);
         process.exit(1);
       }
@@ -530,6 +538,11 @@ async function main() {
         console.error(`   Discarded ${termName}'s resume cache; the next run re-scrapes it from scratch.`);
       } else {
         anyTermFailed = true;
+        if (error instanceof BlockedPageError || error?.response?.status === 403) {
+          // Blocked during discovery; the next term would be blocked too
+          console.error('🛑 Blocked by Course Explorer; stopping so the next run can resume.');
+          break;
+        }
       }
     }
   }

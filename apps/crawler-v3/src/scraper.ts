@@ -30,6 +30,20 @@ function getHeaders(): Record<string, string> {
 }
 
 /**
+ * Course Explorer answered with a normal 200 page that has none of the
+ * expected content. From GitHub's runners it starts doing this after roughly
+ * 200 requests: every course page becomes its "No Sections Available" page,
+ * even for courses it lists, and listing pages come back empty. Treat it like
+ * a 403 (stop, save progress, retry later) instead of saving empty data.
+ */
+export class BlockedPageError extends Error {
+  constructor(url: string, reason: string) {
+    super(`Course Explorer returned an empty page for ${url} (${reason})`);
+    this.name = 'BlockedPageError';
+  }
+}
+
+/**
  * Interface for a course listing
  */
 export interface CourseInfo {
@@ -70,6 +84,11 @@ export async function scrapeSubjects(
         }
       }
     });
+
+    // Course Explorer only lists terms that have subjects
+    if (subjects.length === 0) {
+      throw new BlockedPageError(url, 'no subjects listed');
+    }
 
     console.log(`  ✓ Found ${subjects.length} subjects`);
     return subjects;
@@ -117,10 +136,17 @@ export async function scrapeCourseList(
       }
     });
 
+    // A subject is only listed for a term if it has courses in it
+    if (courses.length === 0) {
+      throw new BlockedPageError(url, 'no courses listed');
+    }
+
     return courses;
   } catch (error) {
+    // Rethrow rather than return an empty list: an empty list would be cached
+    // as the subject's courses and the subject silently left out
     console.error(`Error scraping courses for ${subject}:`, error);
-    return []; // Return empty array on error, don't fail entire scrape
+    throw error;
   }
 }
 
@@ -154,10 +180,12 @@ export async function scrapeCourse(
     // The page has several `.app-text-engage` elements; the first is the term
     // label ("Fall 2026 All Classes"), so select the one that is also an
     // `.app-label` rather than just taking the first match.
-    let courseTitle = $('.app-text-engage.app-label').first().text().trim();
+    // Every real course page has a title, even with no sections this term.
+    // A missing one means the "No Sections Available" page was served for a
+    // course the subject listing included (see BlockedPageError).
+    const courseTitle = $('.app-text-engage.app-label').first().text().trim();
     if (!courseTitle) {
-      // Fallback to subject + number
-      courseTitle = `${subject} ${courseNumber}`;
+      throw new BlockedPageError(url, 'no course title');
     }
 
     // Extract course description
