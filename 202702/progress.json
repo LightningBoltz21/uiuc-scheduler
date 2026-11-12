@@ -4,7 +4,7 @@
   "year": "2027",
   "term": "spring",
   "startedAt": 1794502755201,
-  "lastUpdated": 1794503030525,
+  "lastUpdated": 1794503085584,
   "totalSubjects": 188,
   "totalCourses": 4527,
   "subjects": [
@@ -18702,19 +18702,28 @@
     "ANTH",
     "AHS",
     "ARAB",
-    "ARCH"
+    "ARCH",
+    "ART",
+    "ARTD",
+    "ARTE",
+    "ARTF",
+    "ARTH",
+    "ARTS",
+    "AAS",
+    "ASST",
+    "ASTR"
   ],
   "partialSubjects": {
-    "ART": {
-      "completed": 3,
-      "total": 6,
+    "ATMS": {
+      "completed": 26,
+      "total": 27,
       "lastCourse": "ABORTED"
     }
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 470,
-    "failedCourses": 3,
+    "successfulCourses": 635,
+    "failedCourses": 4,
     "rateLimitCount": 0
   }
 }
