@@ -4,7 +4,7 @@
   "year": "2027",
   "term": "spring",
   "startedAt": 1794502755201,
-  "lastUpdated": 1794504170541,
+  "lastUpdated": 1794504230580,
   "totalSubjects": 188,
   "totalCourses": 4527,
   "subjects": [
@@ -18813,19 +18813,25 @@
     "MDIA",
     "MACS",
     "MDVL",
-    "MICR"
+    "MICR",
+    "MILS",
+    "GRKM",
+    "MCB",
+    "MIP",
+    "MUSE",
+    "MUS"
   ],
   "partialSubjects": {
-    "MILS": {
-      "completed": 6,
-      "total": 9,
+    "MUSC": {
+      "completed": 7,
+      "total": 121,
       "lastCourse": "ABORTED"
     }
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 3180,
-    "failedCourses": 18,
+    "successfulCourses": 3357,
+    "failedCourses": 19,
     "rateLimitCount": 0
   }
 }

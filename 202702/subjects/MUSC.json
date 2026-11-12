@@ -1,858 +1,1855 @@
 {
   "subject": "MUSC",
-  "scrapedAt": 1791782747882,
-  "courseCount": 120,
+  "scrapedAt": 1794504230577,
+  "courseCount": 7,
   "courses": {
     "MUSC 101": [
-      "MUSC 101",
-      {},
+      "Piano",
+      {
+        "A": [
+          "72716",
+          [
+            [
+              27,
+              "F",
+              "TBA",
+              0,
+              [
+                "Ehlen, T Ehlen, T"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              0,
+              "",
+              "205 Smith Memorial Hall",
+              0,
+              [
+                "Ehlen, T Ehlen, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "C": [
+          "72718",
+          [
+            [
+              43,
+              "T",
+              "TBA",
+              0,
+              [
+                "Wu, C Wu, C"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              0,
+              "",
+              "205 Smith Memorial Hall",
+              0,
+              [
+                "Wu, C Wu, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "NM1": [
+          "72720",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Wu, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          15,
+          0,
+          [],
+          -1
+        ],
+        "NM2": [
+          "72721",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Wu, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          15,
+          0,
+          [],
+          -1
+        ],
+        "NM3": [
+          "76268",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Ehlen, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          15,
+          0,
+          [],
+          -1
+        ],
+        "NM4": [
+          "78083",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Ehlen, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          15,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Instruction in piano at the undergraduate level.",
       []
     ],
     "MUSC 105": [
-      "MUSC 105",
-      {},
+      "Applied Voice & Studio",
+      {
+        "A": [
+          "72628",
+          [
+            [
+              21,
+              "T",
+              "220 Smith Memorial Hall",
+              0,
+              [
+                "Redman, Y Redman, Y Redman, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              33,
+              "M",
+              "220 Smith Memorial Hall",
+              0,
+              [
+                "Redman, Y Redman, Y Redman, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              0,
+              "",
+              "204 Smith Memorial Hall",
+              0,
+              [
+                "Redman, Y Redman, Y Redman, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "72629",
+          [
+            [
+              15,
+              "M",
+              "220 Smith Memorial Hall",
+              0,
+              [
+                "Lawrence, A Lawrence, A Lawrence, A"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              21,
+              "T",
+              "220 Smith Memorial Hall",
+              0,
+              [
+                "Lawrence, A Lawrence, A Lawrence, A"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              0,
+              "",
+              "207 Smith Memorial Hall",
+              0,
+              [
+                "Lawrence, A Lawrence, A Lawrence, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "C": [
+          "72630",
+          [
+            [
+              21,
+              "T",
+              "220 Smith Memorial Hall",
+              0,
+              [
+                "Gunn, N Gunn, N Gunn, N"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              36,
+              "W",
+              "2418 Krannert Center for Perf Arts",
+              43,
+              [
+                "Gunn, N Gunn, N Gunn, N"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              0,
+              "",
+              "4046 Music Building",
+              42,
+              [
+                "Gunn, N Gunn, N Gunn, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "D": [
+          "72631",
+          [
+            [
+              21,
+              "T",
+              "220 Smith Memorial Hall",
+              0,
+              [
+                "Harris, D Harris, D Harris, D"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              36,
+              "M",
+              "1030 Music Building",
+              42,
+              [
+                "Harris, D Harris, D Harris, D"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              0,
+              "",
+              "200B Smith Memorial Hall",
+              0,
+              [
+                "Harris, D Harris, D Harris, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "E": [
+          "72632",
+          [
+            [
+              21,
+              "T",
+              "220 Smith Memorial Hall",
+              0,
+              [
+                "Davis, O Davis, O Davis, O"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              9,
+              "W",
+              "220 Smith Memorial Hall",
+              0,
+              [
+                "Davis, O Davis, O Davis, O"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              0,
+              "",
+              "210 Smith Memorial Hall",
+              0,
+              [
+                "Davis, O Davis, O Davis, O"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "F": [
+          "72633",
+          [
+            [
+              74,
+              "M",
+              "0359 Music Building",
+              42,
+              [
+                "Brooks, L Brooks, L Brooks, L"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              21,
+              "T",
+              "220 Smith Memorial Hall",
+              0,
+              [
+                "Brooks, L Brooks, L Brooks, L"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              0,
+              "",
+              "200A Smith Memorial Hall",
+              0,
+              [
+                "Brooks, L Brooks, L Brooks, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "G": [
+          "72634",
+          [
+            [
+              21,
+              "T",
+              "220 Smith Memorial Hall",
+              0,
+              [
+                "Herrera, L Herrera, L Herrera, L"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              27,
+              "F",
+              "220 Smith Memorial Hall",
+              0,
+              [
+                "Herrera, L Herrera, L Herrera, L"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              0,
+              "",
+              "200 Smith Memorial Hall",
+              0,
+              [
+                "Herrera, L Herrera, L Herrera, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "H": [
+          "72636",
+          [
+            [
+              36,
+              "W",
+              "2418 Krannert Center for Perf Arts",
+              43,
+              [
+                "MacLeod, S MacLeod, S MacLeod, S"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              21,
+              "T",
+              "220 Smith Memorial Hall",
+              0,
+              [
+                "MacLeod, S MacLeod, S MacLeod, S"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "MacLeod, S MacLeod, S MacLeod, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "I": [
+          "72635",
+          [
+            [
+              36,
+              "W",
+              "2418 Krannert Center for Perf Arts",
+              43,
+              [
+                "Wigley, S Wigley, S Wigley, S"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              21,
+              "T",
+              "220 Smith Memorial Hall",
+              0,
+              [
+                "Wigley, S Wigley, S Wigley, S"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              0,
+              "",
+              "3052 Music Building",
+              42,
+              [
+                "Wigley, S Wigley, S Wigley, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "K": [
+          "72638",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Redman, Y",
+                "Scannell, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          15,
+          0,
+          [],
+          -1
+        ],
+        "L": [
+          "72639",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Guerra, F",
+                "Wigley, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          15,
+          0,
+          [],
+          -1
+        ],
+        "LV1": [
+          "75199",
+          [
+            [
+              0,
+              "",
+              "ARR Music Building",
+              42,
+              [
+                "Wigley, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          15,
+          0,
+          [],
+          -1
+        ],
+        "LV2": [
+          "78160",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Guerra, F",
+                "Wigley, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          15,
+          0,
+          [],
+          -1
+        ],
+        "NM1": [
+          "73162",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Lawrence, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          15,
+          0,
+          [],
+          -1
+        ],
+        "NM2": [
+          "73156",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Lawrence, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          15,
+          0,
+          [],
+          -1
+        ],
+        "NM7": [
+          "72643",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Redman, Y",
+                "Scannell, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          15,
+          0,
+          [],
+          -1
+        ],
+        "NM8": [
+          "72644",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "MacLeod, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          15,
+          0,
+          [],
+          -1
+        ],
+        "NM9": [
+          "72645",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Brooks, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          15,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Instruction in voice at the undergraduate level.",
       []
     ],
     "MUSC 110": [
-      "MUSC 110",
-      {},
+      "Violin",
+      {
+        "A": [
+          "72646",
+          [
+            [
+              6,
+              "T",
+              "2317 Krannert Center for Perf Arts",
+              43,
+              [
+                "Moldover, M Moldover, M"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Moldover, M Moldover, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "72647",
+          [
+            [
+              6,
+              "T",
+              "2317 Krannert Center for Perf Arts",
+              43,
+              [
+                "Freivogel, M Freivogel, M"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              0,
+              "",
+              "206 Smith Memorial Hall",
+              0,
+              [
+                "Freivogel, M Freivogel, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "C": [
+          "72648",
+          [
+            [
+              6,
+              "R",
+              "114 Smith Memorial Hall",
+              0,
+              [
+                "Koo, S Koo, S"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              0,
+              "",
+              "ARR Music Building",
+              42,
+              [
+                "Koo, S Koo, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "D": [
+          "73890",
+          [
+            [
+              6,
+              "T",
+              "TBA",
+              0,
+              [
+                "Kjoniksen, F",
+                "Moldover, M",
+                "Weng, Y Kjoniksen, F",
+                "Moldover, M",
+                "Weng, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Kjoniksen, F",
+                "Moldover, M",
+                "Weng, Y Kjoniksen, F",
+                "Moldover, M",
+                "Weng, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "E": [
+          "72650",
+          [
+            [
+              0,
+              "",
+              "ARR Music Building",
+              42,
+              [
+                "Freivogel, M",
+                "Freund, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          15,
+          0,
+          [],
+          -1
+        ],
+        "NM1": [
+          "74839",
+          [
+            [
+              0,
+              "",
+              "ARR Music Building",
+              42,
+              [
+                "Koo, S",
+                "Weng, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          15,
+          0,
+          [],
+          -1
+        ],
+        "NM2": [
+          "72652",
+          [
+            [
+              0,
+              "",
+              "ARR Music Building",
+              42,
+              [
+                "Koo, S",
+                "Weng, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          15,
+          0,
+          [],
+          -1
+        ],
+        "NM3": [
+          "72651",
+          [
+            [
+              0,
+              "",
+              "ARR Music Building",
+              42,
+              [
+                "Moldover, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          15,
+          0,
+          [],
+          -1
+        ],
+        "NM4": [
+          "72649",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Moldover, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          15,
+          0,
+          [],
+          -1
+        ],
+        "NM5": [
+          "72653",
+          [
+            [
+              0,
+              "",
+              "ARR Music Building",
+              42,
+              [
+                "Kjoniksen, F",
+                "Koo, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          15,
+          0,
+          [],
+          -1
+        ],
+        "NM7": [
+          "75086",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Brown, N",
+                "Freivogel, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          15,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Instruction in violin at the undergraduate level. Music majors must register concurrently in an approved university orchestra.",
       []
     ],
     "MUSC 111": [
-      "MUSC 111",
-      {},
+      "Viola",
+      {
+        "B": [
+          "72655",
+          [
+            [
+              20,
+              "W",
+              "220 Smith Memorial Hall",
+              0,
+              [
+                "Freivogel, L Freivogel, L"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              0,
+              "",
+              "201 Smith Memorial Hall",
+              0,
+              [
+                "Freivogel, L Freivogel, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "C": [
+          "75888",
+          [
+            [
+              20,
+              "W",
+              "220 Smith Memorial Hall",
+              0,
+              [
+                "Brown, N",
+                "Freivogel, L Brown, N",
+                "Freivogel, L"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Brown, N",
+                "Freivogel, L Brown, N",
+                "Freivogel, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "NM1": [
+          "72656",
+          [
+            [
+              0,
+              "",
+              "ARR Music Building",
+              42,
+              [
+                "Brown, N",
+                "Freivogel, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          15,
+          0,
+          [],
+          -1
+        ],
+        "NM2": [
+          "72657",
+          [
+            [
+              0,
+              "",
+              "ARR Music Building",
+              42,
+              [
+                "Brown, N",
+                "Freivogel, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          15,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "MUSC 113": [
-      "MUSC 113",
-      {},
-      [],
-      null,
+      "Instruction in viola at the undergraduate level.",
       []
     ],
     "MUSC 112": [
-      "MUSC 112",
-      {},
+      "Cello",
+      {
+        "A": [
+          "72659",
+          [
+            [
+              6,
+              "R",
+              "2317 Krannert Center for Perf Arts",
+              43,
+              [
+                "McDonough, D McDonough, D"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              0,
+              "",
+              "3014 Music Building",
+              42,
+              [
+                "McDonough, D McDonough, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "C": [
+          "74840",
+          [
+            [
+              6,
+              "R",
+              "2317 Krannert Center for Perf Arts",
+              43,
+              [
+                "McDonough, D",
+                "Schultz, M McDonough, D",
+                "Schultz, M"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              0,
+              "",
+              "3014 Music Building",
+              42,
+              [
+                "McDonough, D",
+                "Schultz, M McDonough, D",
+                "Schultz, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "NM1": [
+          "72664",
+          [
+            [
+              0,
+              "",
+              "Music Building",
+              42,
+              [
+                "McDonough, D",
+                "Schultz, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          15,
+          0,
+          [],
+          -1
+        ],
+        "NM2": [
+          "72665",
+          [
+            [
+              0,
+              "",
+              "Music Building",
+              42,
+              [
+                "McDonough, D",
+                "Schultz, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          15,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Instruction in cello at the undergraduate level.",
       []
     ],
-    "MUSC 115": [
-      "MUSC 115",
-      {},
+    "MUSC 113": [
+      "Double Bass",
+      {
+        "A": [
+          "72667",
+          [
+            [
+              0,
+              "",
+              "Smith Memorial Hall",
+              0,
+              [
+                "Gray, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          15,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "78201",
+          [
+            [
+              36,
+              "M",
+              "0061A Music Building",
+              42,
+              [
+                "Anderson, A Anderson, A"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Anderson, A Anderson, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          15,
+          0,
+          [],
+          -1
+        ],
+        "NM1": [
+          "72668",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Anderson, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          15,
+          0,
+          [],
+          -1
+        ],
+        "NM2": [
+          "72669",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Anderson, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          15,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Instruction in double bass at the undergraduate level.",
       []
     ],
     "MUSC 114": [
-      "MUSC 114",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 120": [
-      "MUSC 120",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 121": [
-      "MUSC 121",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 122": [
-      "MUSC 122",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 123": [
-      "MUSC 123",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 125": [
-      "MUSC 125",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 124": [
-      "MUSC 124",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 126": [
-      "MUSC 126",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 127": [
-      "MUSC 127",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 128": [
-      "MUSC 128",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 129": [
-      "MUSC 129",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 132": [
-      "MUSC 132",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 130": [
-      "MUSC 130",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 134": [
-      "MUSC 134",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 135": [
-      "MUSC 135",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 136": [
-      "MUSC 136",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 137": [
-      "MUSC 137",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 138": [
-      "MUSC 138",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 300": [
-      "MUSC 300",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 400": [
-      "MUSC 400",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 401": [
-      "MUSC 401",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 404": [
-      "MUSC 404",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 405": [
-      "MUSC 405",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 407": [
-      "MUSC 407",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 406": [
-      "MUSC 406",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 410": [
-      "MUSC 410",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 411": [
-      "MUSC 411",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 412": [
-      "MUSC 412",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 413": [
-      "MUSC 413",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 414": [
-      "MUSC 414",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 415": [
-      "MUSC 415",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 420": [
-      "MUSC 420",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 421": [
-      "MUSC 421",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 422": [
-      "MUSC 422",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 423": [
-      "MUSC 423",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 424": [
-      "MUSC 424",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 425": [
-      "MUSC 425",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 428": [
-      "MUSC 428",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 427": [
-      "MUSC 427",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 426": [
-      "MUSC 426",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 430": [
-      "MUSC 430",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 432": [
-      "MUSC 432",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 429": [
-      "MUSC 429",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 436": [
-      "MUSC 436",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 434": [
-      "MUSC 434",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 435": [
-      "MUSC 435",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 438": [
-      "MUSC 438",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 450": [
-      "MUSC 450",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 437": [
-      "MUSC 437",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 453": [
-      "MUSC 453",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 451": [
-      "MUSC 451",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 452": [
-      "MUSC 452",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 454": [
-      "MUSC 454",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 455": [
-      "MUSC 455",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 456": [
-      "MUSC 456",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 457": [
-      "MUSC 457",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 460": [
-      "MUSC 460",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 462": [
-      "MUSC 462",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 464": [
-      "MUSC 464",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 463": [
-      "MUSC 463",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 465": [
-      "MUSC 465",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 466": [
-      "MUSC 466",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 468": [
-      "MUSC 468",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 469": [
-      "MUSC 469",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 470": [
-      "MUSC 470",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 473": [
-      "MUSC 473",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 474": [
-      "MUSC 474",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 476": [
-      "MUSC 476",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 475": [
-      "MUSC 475",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 478": [
-      "MUSC 478",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 480": [
-      "MUSC 480",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 481": [
-      "MUSC 481",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 482": [
-      "MUSC 482",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 484": [
-      "MUSC 484",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 488": [
-      "MUSC 488",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 490": [
-      "MUSC 490",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 492": [
-      "MUSC 492",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 491": [
-      "MUSC 491",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 495": [
-      "MUSC 495",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 496": [
-      "MUSC 496",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 497": [
-      "MUSC 497",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 498": [
-      "MUSC 498",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 500": [
-      "MUSC 500",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 501": [
-      "MUSC 501",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 504": [
-      "MUSC 504",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 505": [
-      "MUSC 505",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 506": [
-      "MUSC 506",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 510": [
-      "MUSC 510",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 507": [
-      "MUSC 507",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 511": [
-      "MUSC 511",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 512": [
-      "MUSC 512",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 513": [
-      "MUSC 513",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 514": [
-      "MUSC 514",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 520": [
-      "MUSC 520",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 515": [
-      "MUSC 515",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 521": [
-      "MUSC 521",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 523": [
-      "MUSC 523",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 522": [
-      "MUSC 522",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 524": [
-      "MUSC 524",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 525": [
-      "MUSC 525",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 526": [
-      "MUSC 526",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 527": [
-      "MUSC 527",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 529": [
-      "MUSC 529",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 528": [
-      "MUSC 528",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 530": [
-      "MUSC 530",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 531": [
-      "MUSC 531",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 532": [
-      "MUSC 532",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 534": [
-      "MUSC 534",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 535": [
-      "MUSC 535",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 537": [
-      "MUSC 537",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 536": [
-      "MUSC 536",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 538": [
-      "MUSC 538",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MUSC 541": [
-      "MUSC 541",
-      {},
-      [],
-      null,
+      "Harp",
+      {
+        "A": [
+          "72722",
+          [
+            [
+              14,
+              "T",
+              "0323 Music Building",
+              42,
+              [
+                "Yeung, A Yeung, A"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              0,
+              "",
+              "3060 Music Building",
+              42,
+              [
+                "Yeung, A Yeung, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "73631",
+          [
+            [
+              0,
+              "",
+              "3060 Music Building",
+              42,
+              [
+                "Yeung, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          15,
+          0,
+          [],
+          -1
+        ],
+        "NM1": [
+          "72670",
+          [
+            [
+              0,
+              "",
+              "3060 Music Building",
+              42,
+              [
+                "Yeung, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          15,
+          0,
+          [],
+          -1
+        ],
+        "NM2": [
+          "72671",
+          [
+            [
+              0,
+              "",
+              "3060 Music Building",
+              42,
+              [
+                "Yeung, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          15,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Instruction in harp at the undergraduate level.",
       []
     ]
   },
   "caches": {
-    "periods": [],
+    "periods": [
+      "ARRANGED",
+      "1300 - 1350",
+      "1400 - 1450",
+      "1500 - 1550",
+      "1600 - 1650",
+      "1400 - 1550",
+      "1100 - 1220",
+      "0900 - 0950",
+      "1400 - 1650",
+      "1530 - 1650",
+      "0930 - 1050",
+      "1700 - 1830",
+      "0800 - 1050",
+      "1300 - 1450",
+      "1100 - 1250",
+      "1500 - 1650",
+      "1600 - 1750",
+      "1100 - 1150",
+      "1000 - 1050",
+      "1230 - 1350",
+      "1900 - 2050",
+      "1200 - 1250",
+      "1600 - 1720",
+      "1100 - 1240",
+      "0900 - 1050",
+      "0800 - 0850",
+      "1230 - 1345",
+      "1400 - 1520",
+      "1100 - 1215",
+      "1700 - 1750",
+      "1000 - 1150",
+      "1200 - 1350",
+      "1800 - 1950",
+      "1700 - 1850",
+      "0800 - 0950",
+      "0800 - 0920",
+      "1700 - 1820",
+      "1200 - 1450",
+      "1100 - 1350",
+      "0900 - 1150",
+      "1530 - 1720",
+      "1200 - 1320",
+      "1500 - 1750",
+      "1500 - 1620",
+      "1430 - 1700",
+      "1200 - 1430",
+      "1100 - 1330",
+      "0930 - 1045",
+      "1630 - 1720",
+      "1030 - 1150",
+      "1530 - 1645",
+      "1300 - 1420",
+      "0900 - 1020",
+      "1300 - 1550",
+      "1000 - 1250",
+      "1230 - 1430",
+      "1430 - 1550",
+      "1500 - 1730",
+      "0600 - 0720",
+      "1700 - 1900",
+      "1000 - 1120",
+      "1400 - 1750",
+      "0900 - 1250",
+      "1300 - 1650",
+      "1000 - 1350",
+      "0930 - 1220",
+      "1630 - 1730",
+      "1600 - 1715",
+      "1330 - 1450",
+      "1430 - 1520",
+      "0830 - 0920",
+      "1430 - 1620",
+      "0830 - 0950",
+      "1630 - 1750",
+      "1730 - 1845"
+    ],
     "dateRanges": [],
-    "scheduleTypes": [],
+    "scheduleTypes": [
+      "Laboratory-Discussion",
+      "Discussion/Recitation",
+      "Lecture",
+      "Independent Study",
+      "Lecture-Discussion",
+      "Laboratory",
+      "Lecture 01/19/27-01/23/27",
+      "Conference",
+      "Internship",
+      "Online Lab",
+      "Online Lecture",
+      "Online",
+      "Study Abroad",
+      "Online Discussion",
+      "Seminar",
+      "Practice"
+    ],
     "campuses": [],
     "attributes": [],
     "restrictions": [],
     "gradeBases": [],
-    "locations": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.11246109008789,
+        "long": -88.22831726074219
+      },
+      {
+        "lat": 40.11380515934119,
+        "long": -88.22490788390387
+      },
+      {
+        "lat": 40.110811306674734,
+        "long": -88.2248467072371
+      },
+      {
+        "lat": 40.1116416,
+        "long": -88.2248868
+      },
+      {
+        "lat": 40.11085653938169,
+        "long": -88.22609810215927
+      },
+      {
+        "lat": 40.11171215875622,
+        "long": -88.22530849701589
+      },
+      {
+        "lat": 40.107811,
+        "long": -88.2260761
+      },
+      {
+        "lat": 40.111691,
+        "long": -88.2242511
+      },
+      {
+        "lat": 40.1108856,
+        "long": -88.2269806
+      },
+      {
+        "lat": 40.1109722,
+        "long": -88.2282631
+      },
+      {
+        "lat": 40.107534,
+        "long": -88.2281548
+      },
+      {
+        "lat": 40.10628,
+        "long": -88.22621
+      },
+      {
+        "lat": 40.10755766472843,
+        "long": -88.22995430218522
+      },
+      {
+        "lat": 40.1110937,
+        "long": -88.2232348
+      },
+      {
+        "lat": 40.1020773,
+        "long": -88.2296394
+      },
+      {
+        "lat": 40.0995003,
+        "long": -88.223104
+      },
+      {
+        "lat": 40.1065684,
+        "long": -88.2281746
+      },
+      {
+        "lat": 40.108419421661715,
+        "long": -88.2261156301609
+      },
+      {
+        "lat": 40.1028373,
+        "long": -88.2251326
+      },
+      {
+        "lat": 40.1083446,
+        "long": -88.2282555
+      },
+      {
+        "lat": 40.1072225,
+        "long": -88.2262016
+      },
+      {
+        "lat": 40.1033599,
+        "long": -88.2292111
+      },
+      {
+        "lat": 40.1047599,
+        "long": -88.2319514
+      },
+      {
+        "lat": 40.105732,
+        "long": -88.2281018
+      },
+      {
+        "lat": 40.103620555545135,
+        "long": -88.22982720445013
+      },
+      {
+        "lat": 40.1035833,
+        "long": -88.228405
+      },
+      {
+        "lat": 40.10944320239664,
+        "long": -88.22602522743233
+      },
+      {
+        "lat": 40.104794,
+        "long": -88.224264
+      },
+      {
+        "lat": 40.1022093629303,
+        "long": -88.22800864058527
+      },
+      {
+        "lat": 40.103627234541904,
+        "long": -88.22601765311099
+      },
+      {
+        "lat": 40.1149296,
+        "long": -88.2280589
+      },
+      {
+        "lat": 40.103587,
+        "long": -88.230606
+      },
+      {
+        "lat": 40.1131317,
+        "long": -88.2264552
+      },
+      {
+        "lat": 40.11180304465921,
+        "long": -88.22613003543475
+      },
+      {
+        "lat": 40.10099,
+        "long": -88.23159
+      },
+      {
+        "lat": 40.1034533,
+        "long": -88.2327596
+      },
+      {
+        "lat": 40.10593795776367,
+        "long": -88.2270736694336
+      },
+      {
+        "lat": 40.10783362157985,
+        "long": -88.22476189569741
+      },
+      {
+        "lat": 40.092875494224195,
+        "long": -88.22082220247309
+      },
+      {
+        "lat": 40.101862,
+        "long": -88.231737
+      },
+      {
+        "lat": 40.105587640130146,
+        "long": -88.22025111416733
+      },
+      {
+        "lat": 40.10623714823253,
+        "long": -88.2232659093846
+      },
+      {
+        "lat": 40.10802885201532,
+        "long": -88.22239700364068
+      }
+    ],
     "finalDates": [],
     "finalTimes": []
   }

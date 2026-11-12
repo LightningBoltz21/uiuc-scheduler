@@ -1,375 +1,4905 @@
 {
   "subject": "MCB",
-  "scrapedAt": 1791782707194,
-  "courseCount": 51,
+  "scrapedAt": 1794504207491,
+  "courseCount": 54,
   "courses": {
-    "MCB 150": [
-      "MCB 150",
-      {},
-      [],
-      null,
-      []
-    ],
     "MCB 101": [
-      "MCB 101",
-      {},
+      "Intro Microbiology Laboratory",
+      {
+        "A": [
+          "38680",
+          [
+            [
+              24,
+              "MW",
+              "242 Burrill Hall",
+              32,
+              [
+                "Alt, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "38679",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Alt, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "38681",
+          [
+            [
+              14,
+              "MW",
+              "242 Burrill Hall",
+              32,
+              [
+                "Alt, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "C": [
+          "38682",
+          [
+            [
+              15,
+              "MW",
+              "242 Burrill Hall",
+              32,
+              [
+                "Alt, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "D": [
+          "38683",
+          [
+            [
+              30,
+              "TR",
+              "242 Burrill Hall",
+              32,
+              [
+                "Alt, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "E": [
+          "46836",
+          [
+            [
+              13,
+              "TR",
+              "242 Burrill Hall",
+              32,
+              [
+                "Alt, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "F": [
+          "44740",
+          [
+            [
+              15,
+              "TR",
+              "242 Burrill Hall",
+              32,
+              [
+                "Alt, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "G": [
+          "58981",
+          [
+            [
+              33,
+              "TR",
+              "242 Burrill Hall",
+              32,
+              [
+                "Alt, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Laboratory introduction to the techniques employed in the investigation of microbial activities and properties; experiments designed to familiarize the student with the handling, identification, and characterization of microorganisms and their activities, particularly those of interest to man.",
       []
     ],
     "MCB 100": [
-      "MCB 100",
-      {},
+      "Introductory Microbiology",
+      {
+        "A": [
+          "38678",
+          [
+            [
+              2,
+              "MWF",
+              "2079 Natural History Building",
+              27,
+              [
+                "Qin, W",
+                "Sosa Marquez, I",
+                "Wilson, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "[IAI Code: L1903] Introduction to the principal activities and properties of microorganisms, including bacteria, yeasts, molds, and viruses; consideration of the role of natural processes, such as photosynthesis; and man's use and control of microorganisms in the production of antibodies and vaccines in industrial fermentations, in sanitation and public health, and in agriculture.",
       []
     ],
-    "MCB 151": [
-      "MCB 151",
-      {},
+    "MCB 150": [
+      "Molecular & Cellular Basis of Life",
+      {
+        "ADA": [
+          "38399",
+          [
+            [
+              7,
+              "M",
+              "105 Burrill Hall",
+              32,
+              [
+                "Sosa Marquez, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADB": [
+          "38400",
+          [
+            [
+              18,
+              "M",
+              "105 Burrill Hall",
+              32,
+              [
+                "Sosa Marquez, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADC": [
+          "38406",
+          [
+            [
+              17,
+              "M",
+              "105 Burrill Hall",
+              32,
+              [
+                "Sosa Marquez, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADD": [
+          "38402",
+          [
+            [
+              21,
+              "M",
+              "105 Burrill Hall",
+              32,
+              [
+                "Sosa Marquez, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADE": [
+          "38403",
+          [
+            [
+              1,
+              "M",
+              "105 Burrill Hall",
+              32,
+              [
+                "Sosa Marquez, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADF": [
+          "38404",
+          [
+            [
+              3,
+              "M",
+              "105 Burrill Hall",
+              32,
+              [
+                "Sosa Marquez, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADG": [
+          "38405",
+          [
+            [
+              4,
+              "M",
+              "105 Burrill Hall",
+              32,
+              [
+                "Sosa Marquez, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADH": [
+          "38413",
+          [
+            [
+              29,
+              "M",
+              "105 Burrill Hall",
+              32,
+              [
+                "Sosa Marquez, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADI": [
+          "38407",
+          [
+            [
+              7,
+              "T",
+              "105 Burrill Hall",
+              32,
+              [
+                "Sosa Marquez, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADJ": [
+          "38408",
+          [
+            [
+              18,
+              "T",
+              "105 Burrill Hall",
+              32,
+              [
+                "Sosa Marquez, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADK": [
+          "38401",
+          [
+            [
+              17,
+              "T",
+              "105 Burrill Hall",
+              32,
+              [
+                "Sosa Marquez, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADL": [
+          "38409",
+          [
+            [
+              21,
+              "T",
+              "105 Burrill Hall",
+              32,
+              [
+                "Sosa Marquez, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADM": [
+          "38410",
+          [
+            [
+              1,
+              "T",
+              "105 Burrill Hall",
+              32,
+              [
+                "Sosa Marquez, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADN": [
+          "38411",
+          [
+            [
+              2,
+              "T",
+              "105 Burrill Hall",
+              32,
+              [
+                "Sosa Marquez, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADO": [
+          "38412",
+          [
+            [
+              3,
+              "T",
+              "105 Burrill Hall",
+              32,
+              [
+                "Sosa Marquez, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADP": [
+          "38415",
+          [
+            [
+              15,
+              "T",
+              "6 Burrill Hall",
+              32,
+              [
+                "Handy, N",
+                "Mehrtens, B",
+                "Sosa Marquez, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADQ": [
+          "38414",
+          [
+            [
+              4,
+              "T",
+              "105 Burrill Hall",
+              32,
+              [
+                "Sosa Marquez, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADR": [
+          "38416",
+          [
+            [
+              29,
+              "T",
+              "105 Burrill Hall",
+              32,
+              [
+                "Sosa Marquez, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADS": [
+          "38417",
+          [
+            [
+              7,
+              "W",
+              "105 Burrill Hall",
+              32,
+              [
+                "Sosa Marquez, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADT": [
+          "38418",
+          [
+            [
+              18,
+              "W",
+              "105 Burrill Hall",
+              32,
+              [
+                "Sosa Marquez, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADU": [
+          "38419",
+          [
+            [
+              17,
+              "W",
+              "105 Burrill Hall",
+              32,
+              [
+                "Sosa Marquez, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADV": [
+          "38420",
+          [
+            [
+              21,
+              "W",
+              "105 Burrill Hall",
+              32,
+              [
+                "Sosa Marquez, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADW": [
+          "38421",
+          [
+            [
+              1,
+              "W",
+              "105 Burrill Hall",
+              32,
+              [
+                "Sosa Marquez, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADX": [
+          "38422",
+          [
+            [
+              3,
+              "W",
+              "105 Burrill Hall",
+              32,
+              [
+                "Sosa Marquez, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADY": [
+          "38423",
+          [
+            [
+              4,
+              "W",
+              "105 Burrill Hall",
+              32,
+              [
+                "Sosa Marquez, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADZ": [
+          "38424",
+          [
+            [
+              29,
+              "W",
+              "105 Burrill Hall",
+              32,
+              [
+                "Sosa Marquez, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "38398",
+          [
+            [
+              2,
+              "MWF",
+              "AUD Foellinger Auditorium",
+              37,
+              [
+                "Mehrtens, B",
+                "Sosa Marquez, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "MCB 199": [
-      "MCB 199",
-      {},
-      [],
-      null,
-      []
-    ],
-    "MCB 246": [
-      "MCB 246",
-      {},
-      [],
-      null,
+      "[IAI Code: L1910L and BIO910 with MCB 151] Introductory course focusing on the basic structure, metabolic, and molecular processes (including membranes, energy metabolism, genes) common to all cells. Emphasis on unique properties that differentiate the major sub-groups of organisms (Archaea, Bacteria, plants, and animals), and will discuss how cells are integrated into tissues and organs in multicellular organisms.",
       []
     ],
     "MCB 198": [
-      "MCB 198",
-      {},
+      "Internship",
+      {
+        "INT": [
+          "66224",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Michael, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Full-time or part-time internship at another University or an off-campus medical facility, research institute or other approved institution.",
+      []
+    ],
+    "MCB 151": [
+      "Molec & Cellular Laboratory",
+      {
+        "A": [
+          "38427",
+          [
+            [
+              38,
+              "M",
+              "413 Burrill Hall",
+              32,
+              [
+                "Sosa Marquez, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "38430",
+          [
+            [
+              42,
+              "M",
+              "413 Burrill Hall",
+              32,
+              [
+                "Sosa Marquez, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "C": [
+          "38433",
+          [
+            [
+              39,
+              "T",
+              "413 Burrill Hall",
+              32,
+              [
+                "Sosa Marquez, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "D": [
+          "38436",
+          [
+            [
+              37,
+              "T",
+              "413 Burrill Hall",
+              32,
+              [
+                "Sosa Marquez, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "E": [
+          "38438",
+          [
+            [
+              42,
+              "T",
+              "413 Burrill Hall",
+              32,
+              [
+                "Sosa Marquez, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "F": [
+          "41605",
+          [
+            [
+              38,
+              "W",
+              "413 Burrill Hall",
+              32,
+              [
+                "Sosa Marquez, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "FF": [
+          "38440",
+          [
+            [
+              39,
+              "R",
+              "TBA",
+              0,
+              [
+                "Sosa Marquez, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "G": [
+          "47422",
+          [
+            [
+              42,
+              "W",
+              "413 Burrill Hall",
+              32,
+              [
+                "Sosa Marquez, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "[IAI Code: L1910L and BIO910 with MCB 150] Introductory laboratory course focusing on basic techniques in molecular and cellular biology.",
+      []
+    ],
+    "MCB 199": [
+      "Undergraduate Open Seminar",
+      {
+        "INT": [
+          "56376",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Michael, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "LDR": [
+          "63819",
+          [
+            [
+              4,
+              "M",
+              "TBA",
+              0,
+              [
+                "Burger, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "M1": [
+          "46942",
+          [
+            [
+              14,
+              "R",
+              "105 Burrill Hall",
+              32,
+              [
+                "Fitz-Henley, J",
+                "Sosa Marquez, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "M3": [
+          "46946",
+          [
+            [
+              13,
+              "R",
+              "105 Burrill Hall",
+              32,
+              [
+                "Fitz-Henley, J",
+                "Sosa Marquez, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "MED": [
+          "40395",
+          [
+            [
+              16,
+              "W",
+              "100 Materials Science & Eng Bld",
+              5,
+              [
+                "Polites, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "NR": [
+          "46944",
+          [
+            [
+              18,
+              "W",
+              "106 Burrill Hall",
+              32,
+              [
+                "Toma, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Approved for letter and S/U grading. May be repeated to a maximum of 10 hours.",
+      []
+    ],
+    "MCB 246": [
+      "Human Anatomy & Physiology II",
+      {
+        "A": [
+          "54927",
+          [
+            [
+              27,
+              "TR",
+              "AUD Foellinger Auditorium",
+              37,
+              [
+                "Ramos Hryb, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "[IAI Code: BIO920C with MCB 247] Organ system biology with an emphasis on normal human anatomy and physiology, physiological processes and associated disease processes of the following systems: digestion, cardiovascular, respiratory, renal, and reproductive.",
       []
     ],
     "MCB 247": [
-      "MCB 247",
-      {},
+      "Human Anat & Physiol Lab II",
+      {
+        "A": [
+          "55464",
+          [
+            [
+              30,
+              "MW",
+              "215 Burrill Hall",
+              32,
+              [
+                "Handy, N",
+                "Ramos Hryb, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "55465",
+          [
+            [
+              30,
+              "MW",
+              "231 Burrill Hall",
+              32,
+              [
+                "Handy, N",
+                "Ramos Hryb, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "C": [
+          "55466",
+          [
+            [
+              30,
+              "MW",
+              "230 Burrill Hall",
+              32,
+              [
+                "Handy, N",
+                "Ramos Hryb, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "D": [
+          "55467",
+          [
+            [
+              31,
+              "MW",
+              "215 Burrill Hall",
+              32,
+              [
+                "Handy, N",
+                "Ramos Hryb, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "E": [
+          "55468",
+          [
+            [
+              31,
+              "MW",
+              "231 Burrill Hall",
+              32,
+              [
+                "Handy, N",
+                "Ramos Hryb, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "F": [
+          "55469",
+          [
+            [
+              31,
+              "MW",
+              "230 Burrill Hall",
+              32,
+              [
+                "Handy, N",
+                "Ramos Hryb, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "G": [
+          "55470",
+          [
+            [
+              5,
+              "MW",
+              "215 Burrill Hall",
+              32,
+              [
+                "Handy, N",
+                "Ramos Hryb, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "H": [
+          "55472",
+          [
+            [
+              5,
+              "MW",
+              "231 Burrill Hall",
+              32,
+              [
+                "Handy, N",
+                "Ramos Hryb, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "I": [
+          "55473",
+          [
+            [
+              5,
+              "MW",
+              "230 Burrill Hall",
+              32,
+              [
+                "Handy, N",
+                "Ramos Hryb, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "J": [
+          "55474",
+          [
+            [
+              16,
+              "MW",
+              "215 Burrill Hall",
+              32,
+              [
+                "Handy, N",
+                "Ramos Hryb, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "K": [
+          "57134",
+          [
+            [
+              16,
+              "MW",
+              "231 Burrill Hall",
+              32,
+              [
+                "Handy, N",
+                "Ramos Hryb, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "M": [
+          "57136",
+          [
+            [
+              34,
+              "TR",
+              "215 Burrill Hall",
+              32,
+              [
+                "Handy, N",
+                "Ramos Hryb, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "N": [
+          "57137",
+          [
+            [
+              30,
+              "TR",
+              "215 Burrill Hall",
+              32,
+              [
+                "Handy, N",
+                "Ramos Hryb, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "O": [
+          "57138",
+          [
+            [
+              30,
+              "TR",
+              "231 Burrill Hall",
+              32,
+              [
+                "Handy, N",
+                "Ramos Hryb, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "P": [
+          "57139",
+          [
+            [
+              30,
+              "TR",
+              "230 Burrill Hall",
+              32,
+              [
+                "Handy, N",
+                "Ramos Hryb, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "Q": [
+          "57140",
+          [
+            [
+              31,
+              "TR",
+              "215 Burrill Hall",
+              32,
+              [
+                "Handy, N",
+                "Ramos Hryb, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "R": [
+          "57141",
+          [
+            [
+              31,
+              "TR",
+              "231 Burrill Hall",
+              32,
+              [
+                "Handy, N",
+                "Ramos Hryb, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "S": [
+          "57142",
+          [
+            [
+              31,
+              "TR",
+              "230 Burrill Hall",
+              32,
+              [
+                "Handy, N",
+                "Ramos Hryb, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "T": [
+          "57143",
+          [
+            [
+              16,
+              "TR",
+              "215 Burrill Hall",
+              32,
+              [
+                "Handy, N",
+                "Ramos Hryb, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "U": [
+          "57470",
+          [
+            [
+              16,
+              "TR",
+              "231 Burrill Hall",
+              32,
+              [
+                "Handy, N",
+                "Ramos Hryb, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "MCB 250": [
-      "MCB 250",
-      {},
-      [],
-      null,
+      "[IAI Code: BIO920C with MCB 246] Laboratory exploration of normal human anatomy and physiology and relevant disease processes for the following systems: digestive, cardiovascular, respiratory, renal, and reproductive. Previously dissected human cadavers are an important part of the learning experience in this course, but students will not dissect human cadavers. Neither animal dissection or animal use are elements of this course.",
       []
     ],
     "MCB 251": [
-      "MCB 251",
-      {},
+      "Exp Techniqs in Molecular Biol",
+      {
+        "A": [
+          "44368",
+          [
+            [
+              61,
+              "M",
+              "164A Burrill Hall",
+              32,
+              [
+                "Kirchner, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "44369",
+          [
+            [
+              62,
+              "T",
+              "164A Burrill Hall",
+              32,
+              [
+                "Kirchner, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "C": [
+          "44370",
+          [
+            [
+              63,
+              "T",
+              "164A Burrill Hall",
+              32,
+              [
+                "Kirchner, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "D": [
+          "44372",
+          [
+            [
+              62,
+              "W",
+              "164A Burrill Hall",
+              32,
+              [
+                "Kirchner, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "E": [
+          "44373",
+          [
+            [
+              61,
+              "W",
+              "164A Burrill Hall",
+              32,
+              [
+                "Kirchner, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "F": [
+          "44374",
+          [
+            [
+              62,
+              "R",
+              "164A Burrill Hall",
+              32,
+              [
+                "Kirchner, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "G": [
+          "61908",
+          [
+            [
+              63,
+              "R",
+              "164A Burrill Hall",
+              32,
+              [
+                "Kirchner, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "H": [
+          "44375",
+          [
+            [
+              62,
+              "F",
+              "164A Burrill Hall",
+              32,
+              [
+                "Kirchner, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Laboratory course emphasizing a range of molecular biology questions, and the experimental approaches and methodologies needed to answer these questions. Lectures will accompany labs to explain theoretical background and experimental rationale.",
       []
     ],
-    "MCB 253": [
-      "MCB 253",
-      {},
+    "MCB 250": [
+      "Molecular Genetics",
+      {
+        "ADA": [
+          "44339",
+          [
+            [
+              17,
+              "M",
+              "106 Burrill Hall",
+              32,
+              [
+                "Kirchner, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADB": [
+          "44340",
+          [
+            [
+              21,
+              "M",
+              "106 Burrill Hall",
+              32,
+              [
+                "Kirchner, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADC": [
+          "44341",
+          [
+            [
+              2,
+              "M",
+              "106 Burrill Hall",
+              32,
+              [
+                "Kirchner, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADE": [
+          "44343",
+          [
+            [
+              18,
+              "R",
+              "106 Burrill Hall",
+              32,
+              [
+                "Kirchner, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADF": [
+          "44345",
+          [
+            [
+              17,
+              "R",
+              "106 Burrill Hall",
+              32,
+              [
+                "Kirchner, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADG": [
+          "44346",
+          [
+            [
+              21,
+              "R",
+              "106 Burrill Hall",
+              32,
+              [
+                "Kirchner, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADH": [
+          "44348",
+          [
+            [
+              1,
+              "R",
+              "106 Burrill Hall",
+              32,
+              [
+                "Kirchner, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADJ": [
+          "44350",
+          [
+            [
+              17,
+              "F",
+              "106 Burrill Hall",
+              32,
+              [
+                "Kirchner, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADK": [
+          "44351",
+          [
+            [
+              21,
+              "F",
+              "106 Burrill Hall",
+              32,
+              [
+                "Kirchner, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "43300",
+          [
+            [
+              1,
+              "MWF",
+              "112 Gregory Hall",
+              24,
+              [
+                "Kirchner, N",
+                "Slauch, J",
+                "Sokac, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "MCB 290": [
-      "MCB 290",
-      {},
-      [],
-      null,
+      "Fundamentals of molecular biology including structure of DNA, RNA and proteins, mechanisms of DNA replication, transcription and translation, gene organization, genetic variation and repair, and regulation of gene expression in Bacteria, and Eukarya.",
       []
     ],
     "MCB 252": [
-      "MCB 252",
-      {},
+      "Cells, Tissues & Development",
+      {
+        "ADA": [
+          "38530",
+          [
+            [
+              7,
+              "W",
+              "107 Burrill Hall",
+              32,
+              [
+                "Smith, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADB": [
+          "38514",
+          [
+            [
+              18,
+              "W",
+              "107 Burrill Hall",
+              32,
+              [
+                "Smith, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADC": [
+          "38515",
+          [
+            [
+              17,
+              "W",
+              "107 Burrill Hall",
+              32,
+              [
+                "Smith, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADD": [
+          "38517",
+          [
+            [
+              2,
+              "W",
+              "107 Burrill Hall",
+              32,
+              [
+                "Smith, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADF": [
+          "38520",
+          [
+            [
+              7,
+              "R",
+              "107 Burrill Hall",
+              32,
+              [
+                "Smith, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADG": [
+          "38522",
+          [
+            [
+              18,
+              "R",
+              "107 Burrill Hall",
+              32,
+              [
+                "Smith, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADH": [
+          "38524",
+          [
+            [
+              17,
+              "R",
+              "107 Burrill Hall",
+              32,
+              [
+                "Smith, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADI": [
+          "38525",
+          [
+            [
+              21,
+              "R",
+              "107 Burrill Hall",
+              32,
+              [
+                "Smith, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADJ": [
+          "38519",
+          [
+            [
+              1,
+              "R",
+              "107 Burrill Hall",
+              32,
+              [
+                "Smith, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADK": [
+          "38527",
+          [
+            [
+              2,
+              "R",
+              "107 Burrill Hall",
+              32,
+              [
+                "Smith, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADM": [
+          "38531",
+          [
+            [
+              7,
+              "F",
+              "107 Burrill Hall",
+              32,
+              [
+                "Smith, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADN": [
+          "38536",
+          [
+            [
+              18,
+              "F",
+              "107 Burrill Hall",
+              32,
+              [
+                "Smith, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADO": [
+          "38545",
+          [
+            [
+              17,
+              "F",
+              "107 Burrill Hall",
+              32,
+              [
+                "Smith, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "38510",
+          [
+            [
+              1,
+              "MWF",
+              "THEAT Lincoln Hall",
+              17,
+              [
+                "Kannanganattu, P",
+                "Rivier, D",
+                "Smith, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Functional organization and physiology of cells and tissues, including cellular signaling, cellular interactions, and developmental processes.",
+      []
+    ],
+    "MCB 253": [
+      "Exp Techniqs in Cellular Biol",
+      {
+        "A": [
+          "38553",
+          [
+            [
+              61,
+              "M",
+              "182 Burrill Hall",
+              32,
+              [
+                "Smith, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "38554",
+          [
+            [
+              61,
+              "M",
+              "186 Burrill Hall",
+              32,
+              [
+                "Smith, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "D": [
+          "38556",
+          [
+            [
+              62,
+              "T",
+              "182 Burrill Hall",
+              32,
+              [
+                "Smith, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "E": [
+          "38557",
+          [
+            [
+              62,
+              "T",
+              "186 Burrill Hall",
+              32,
+              [
+                "Smith, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "G": [
+          "38558",
+          [
+            [
+              63,
+              "T",
+              "182 Burrill Hall",
+              32,
+              [
+                "Smith, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "H": [
+          "38559",
+          [
+            [
+              63,
+              "T",
+              "186 Burrill Hall",
+              32,
+              [
+                "Smith, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "I": [
+          "38561",
+          [
+            [
+              62,
+              "W",
+              "182 Burrill Hall",
+              32,
+              [
+                "Smith, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "J": [
+          "38562",
+          [
+            [
+              62,
+              "W",
+              "186 Burrill Hall",
+              32,
+              [
+                "Smith, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "K": [
+          "38565",
+          [
+            [
+              61,
+              "W",
+              "182 Burrill Hall",
+              32,
+              [
+                "Smith, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "L": [
+          "38634",
+          [
+            [
+              61,
+              "W",
+              "186 Burrill Hall",
+              32,
+              [
+                "Smith, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "M": [
+          "38635",
+          [
+            [
+              62,
+              "R",
+              "182 Burrill Hall",
+              32,
+              [
+                "Smith, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "N": [
+          "38636",
+          [
+            [
+              62,
+              "R",
+              "186 Burrill Hall",
+              32,
+              [
+                "Smith, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "P": [
+          "38638",
+          [
+            [
+              63,
+              "R",
+              "182 Burrill Hall",
+              32,
+              [
+                "Smith, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "Q": [
+          "38639",
+          [
+            [
+              63,
+              "R",
+              "186 Burrill Hall",
+              32,
+              [
+                "Smith, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Laboratory course emphasizing experimental techniques in cellular biology, cellular physiology, and developmental biology.",
+      []
+    ],
+    "MCB 290": [
+      "Undergraduate Research",
+      {
+        "40755": [
+          "40755",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Students assist in and /or conduct research under faculty supervision in an MCB research laboratory. The topics and nature of the work will vary but will be defined as work conducted in MCB research laboratories. For each hour of course credit in fall and spring terms, the student will be expected to complete 5 hours of work in the lab as directed. 75-80 total hours would be the expectation for 1 credit hour during 15-16 week terms.",
       []
     ],
     "MCB 292": [
-      "MCB 292",
-      {},
+      "Experiential Learning in MCB",
+      {
+        "A": [
+          "69557",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Mehrtens, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "MCB 298": [
-      "MCB 298",
-      {},
-      [],
-      null,
+      "Supervised experiential learning activity related to the major of or career development within Molecular and Cellular Biology. Requires an Experiential Learning Proposal prior to the term, a minimum time commitment of 75 documented hours per credit hour within the term, regular documentation and reflection within the term, and a final culminating project at the end of the term.",
       []
     ],
     "MCB 297": [
-      "MCB 297",
-      {},
+      "MCB Honors Discussion",
+      {
+        "A": [
+          "59633",
+          [
+            [
+              18,
+              "F",
+              "6 Burrill Hall",
+              32,
+              [
+                "Schuler, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "60984",
+          [
+            [
+              17,
+              "F",
+              "6 Burrill Hall",
+              32,
+              [
+                "Schuler, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Honors discussion section associated with MCB 250, MCB 252, and MCB 354. Concurrent enrollment in the appropriate lecture course is required.",
+      []
+    ],
+    "MCB 298": [
+      "MCB Honors Lab Discussion",
+      {
+        "A": [
+          "59634",
+          [
+            [
+              18,
+              "M",
+              "6 Burrill Hall",
+              32,
+              [
+                "Mehrtens, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "63532",
+          [
+            [
+              17,
+              "M",
+              "6 Burrill Hall",
+              32,
+              [
+                "Mehrtens, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Discussion section associated with the Honors lab sections of MCB 251 and MCB 253. Concurrent enrollment in the appropriate Honors lab section is required.",
       []
     ],
     "MCB 299": [
-      "MCB 299",
-      {},
+      "MCB Merit Program Discussion",
+      {
+        "50A": [
+          "46949",
+          [
+            [
+              24,
+              "T",
+              "6 Burrill Hall",
+              32,
+              [
+                "Fitz-Henley, J",
+                "Kirchner, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "52A": [
+          "46951",
+          [
+            [
+              5,
+              "M",
+              "107 Burrill Hall",
+              32,
+              [
+                "Fitz-Henley, J",
+                "Smith, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "54B": [
+          "46953",
+          [
+            [
+              30,
+              "T",
+              "106 Burrill Hall",
+              32,
+              [
+                "Fitz-Henley, J",
+                "Kirchner, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Provides the extra earned credit hours for students enrolled in the Merit Program in MCB 250, MCB 252, or MCB 354.",
       []
     ],
     "MCB 300": [
-      "MCB 300",
-      {},
+      "Microbiology",
+      {
+        "A": [
+          "38684",
+          [
+            [
+              18,
+              "MWF",
+              "2100 Sidney Lu Mech Engr Bldg",
+              3,
+              [
+                "Alt, R",
+                "Grant, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "MCB 301": [
-      "MCB 301",
-      {},
-      [],
-      null,
+      "Emphasizes fundamental concepts of microbiology, including nutrition, physiology, genetics, molecular biology, ecology and evolution of microorganisms, and their role in nature, human health and disease.",
       []
     ],
     "MCB 317": [
-      "MCB 317",
-      {},
+      "Genetics and Genomics",
+      {
+        "ADA": [
+          "55162",
+          [
+            [
+              18,
+              "M",
+              "7 Burrill Hall",
+              32,
+              [
+                "Rivier, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADC": [
+          "55165",
+          [
+            [
+              17,
+              "T",
+              "7 Burrill Hall",
+              32,
+              [
+                "Rivier, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADE": [
+          "59534",
+          [
+            [
+              18,
+              "W",
+              "7 Burrill Hall",
+              32,
+              [
+                "Rivier, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "55161",
+          [
+            [
+              19,
+              "TR",
+              "116 Roger Adams Laboratory",
+              38,
+              [
+                "Rivier, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Study of genetics as a discipline, genetic analysis as a tool to understand biology and the role of genome sciences in biology.",
+      []
+    ],
+    "MCB 301": [
+      "Experimental Microbiology",
+      {
+        "AL1": [
+          "38627",
+          [
+            [
+              1,
+              "F",
+              "2100 Sidney Lu Mech Engr Bldg",
+              3,
+              [
+                "Alt, R",
+                "Ikeda, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "AYA": [
+          "38686",
+          [
+            [
+              13,
+              "MW",
+              "246 Burrill Hall",
+              32,
+              [
+                "Alt, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "AYB": [
+          "38687",
+          [
+            [
+              15,
+              "MW",
+              "246 Burrill Hall",
+              32,
+              [
+                "Alt, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "AYC": [
+          "38624",
+          [
+            [
+              33,
+              "MW",
+              "246 Burrill Hall",
+              32,
+              [
+                "Alt, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "AYD": [
+          "38625",
+          [
+            [
+              30,
+              "TR",
+              "246 Burrill Hall",
+              32,
+              [
+                "Alt, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "AYE": [
+          "38626",
+          [
+            [
+              13,
+              "TR",
+              "246 Burrill Hall",
+              32,
+              [
+                "Alt, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Laboratory emphasizing the fundamentals of microbiology. Topics include growth, isolation, and identification of bacteria; restriction endonuclease analysis of DNA, genetic cloning, and gene transfer. Computer methods are used for the identification of microorganisms and for the analysis of recombinant DNA molecules.",
       []
     ],
     "MCB 354": [
-      "MCB 354",
-      {},
+      "Biochem & Phys Basis of Life",
+      {
+        "ADA": [
+          "46923",
+          [
+            [
+              17,
+              "M",
+              "5 Burrill Hall",
+              32,
+              [
+                "Kirchner, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADB": [
+          "46924",
+          [
+            [
+              21,
+              "M",
+              "5 Burrill Hall",
+              32,
+              [
+                "Kirchner, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADC": [
+          "46925",
+          [
+            [
+              1,
+              "M",
+              "5 Burrill Hall",
+              32,
+              [
+                "Kirchner, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADD": [
+          "46926",
+          [
+            [
+              2,
+              "M",
+              "5 Burrill Hall",
+              32,
+              [
+                "Kirchner, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADG": [
+          "46929",
+          [
+            [
+              17,
+              "T",
+              "5 Burrill Hall",
+              32,
+              [
+                "Kirchner, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADH": [
+          "46930",
+          [
+            [
+              21,
+              "T",
+              "5 Burrill Hall",
+              32,
+              [
+                "Kirchner, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "46708",
+          [
+            [
+              7,
+              "MWF",
+              "116 Roger Adams Laboratory",
+              38,
+              [
+                "Kalsotra, A",
+                "Kim, C",
+                "Kirchner, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Introduction to biochemistry and structural biology emphasizing the physical and chemical properties of macromolecules.",
       []
     ],
     "MCB 364": [
-      "MCB 364",
-      {},
+      "Eukaryotic Cell Biology Laboratory",
+      {
+        "A": [
+          "69264",
+          [
+            [
+              64,
+              "W",
+              "488 Burrill Hall",
+              32,
+              [
+                "Levesque, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "69265",
+          [
+            [
+              64,
+              "F",
+              "488 Burrill Hall",
+              32,
+              [
+                "Levesque, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Laboratory course emphasizing biochemical, immunological and molecular biological techniques used to probe the molecules and processes of eukaryotic cells. Special emphasis will be given to the cell cycle, intracellular trafficking, and cellular differentiation. Students will also learn proper data handling and reporting techniques.",
       []
     ],
     "MCB 402": [
-      "MCB 402",
-      {},
+      "Sys & Integrative Physiology",
+      {
+        "A": [
+          "36809",
+          [
+            [
+              17,
+              "MWF",
+              "141 Wohlers Hall",
+              25,
+              [
+                "Nelson, E",
+                "Tsai, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "MCB 418": [
-      "MCB 418",
-      {},
-      [],
-      null,
+      "Examines human systems physiology. Topics to be covered include the nervous and endocrine systems, muscle physiology, cardiac physiology, respiratory physiology, blood and immune homeostasis, renal physiology, and gastrointestinal physiology and energy homeostasis. Special emphasis is on homeostatic control and integration of body systems in both health and disease.",
       []
     ],
     "MCB 406": [
-      "MCB 406",
-      {},
+      "Gene Expression & Regulation",
+      {
+        "A": [
+          "62528",
+          [
+            [
+              19,
+              "TR",
+              "114 Transportation Building",
+              6,
+              [
+                "Jin, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Provides in-depth and up-to-date coverage of gene expression and regulation. Lectures are centered on the principles of regulating gene expression in eukaryotic cells. The course covers macromolecule structure and function in gene expression; molecular mechanisms of the key gene expression events including transcription, RNA processing, localization and translation. Applications of these principles in medicine and therapeutics such as aging, cancer and drug design are also discussed.",
+      []
+    ],
+    "MCB 410": [
+      "Developmental Biology, Stem Cells and Regenerative Medicine",
+      {
+        "A": [
+          "38665",
+          [
+            [
+              17,
+              "MWF",
+              "3101 Sidney Lu Mech Engr Bldg",
+              3,
+              [
+                "Li, X"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Survey of molecular and cellular mechanisms involved in development and growth of animals, as well as recent advancement in stem cell and Regenerative medicine research. Topics to be covered include fertilization and early cell lineage, body axis formation, gastrulation, neural induction and patterning, segmentation, and other aspects of pattern formation including organogenesis and limb development, as well as embryonic stem cells, induced pluripotent stem cells, adult stem cells, regeneration and regenerative medicine.",
+      []
+    ],
+    "MCB 418": [
+      "Neurobiology of the Senses",
+      {
+        "AL1": [
+          "77966",
+          [
+            [
+              27,
+              "TR",
+              "W115 Turner Hall",
+              0,
+              [
+                "Auerbach, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Presents the major functions of the sensory systems and the mechanisms of sensation and perception at the molecular, cellular, and systems levels. In addition, it considers the physiological basis of sensory system development, plasticity, and disease based upon human clinical data and research in animal models.",
       []
     ],
     "MCB 424": [
-      "MCB 424",
-      {},
+      "Microbial Biochemistry",
+      {
+        "A": [
+          "34340",
+          [
+            [
+              18,
+              "MWF",
+              "1020 Wymer Hall",
+              0,
+              [
+                "Metcalf, W"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "MCB 430": [
-      "MCB 430",
-      {},
-      [],
-      null,
+      "Examines the biochemical ecology of diverse microbial groups with emphasis on anaerobic systems.",
       []
     ],
     "MCB 433": [
-      "MCB 433",
-      {},
+      "Virology & Viral Pathogenesis",
+      {
+        "LEC": [
+          "49871",
+          [
+            [
+              52,
+              "TR",
+              "2506 Vet Med Basic Sciences Bldg",
+              39,
+              [
+                "Rock, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Same as PATH 433. See PATH 433.",
       []
     ],
-    "MCB 434": [
-      "MCB 434",
-      {},
+    "MCB 430": [
+      "Molecular Microbiology",
+      {
+        "A": [
+          "34392",
+          [
+            [
+              3,
+              "MWF",
+              "1051 Lincoln Hall",
+              17,
+              [
+                "Huang, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Modern contributions to the science of microbiology; emphasizes the structure, function, and synthesis of informational macromolecules and on the role microorganisms have played in molecular biology.",
+      []
+    ],
+    "MCB 432": [
+      "Computing in Molecular Biology",
+      {
+        "A": [
+          "34395",
+          [
+            [
+              19,
+              "TR",
+              "4101 Materials Science & Eng Bld",
+              5,
+              [
+                "Ho, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Examination of computational aspects of biology with an emphasis on the relationships between biological questions and their recastings as mathematical or logical problems. Topics are drawn from biochemistry, genetics, molecular sequence analysis, and molecular structure.",
       []
     ],
     "MCB 438": [
-      "MCB 438",
-      {},
+      "Virology",
+      {
+        "A": [
+          "78980",
+          [
+            [
+              27,
+              "TR",
+              "430 Armory",
+              23,
+              [
+                "Aravamudan, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Viruses are intimately involved in the lives of all major life forms and impose enormous public health and economic burdens upon human society. This course will focus on the common fundamental biological concepts that underlie and connect the replication strategies of diverse virus families and will examine host interactions between viruses and the host influence infection outcome. Group discussion of primary literature will be used to illustrate experimental approaches for exploring fundamental questions in virology.",
+      []
+    ],
+    "MCB 434": [
+      "Food & Industrial Microbiology",
+      {
+        "L": [
+          "33040",
+          [
+            [
+              10,
+              "TR",
+              "W109 Turner Hall",
+              0,
+              [
+                "Miller, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as FSHN 471. See FSHN 471.",
       []
     ],
     "MCB 442": [
-      "MCB 442",
-      {},
+      "Comparative Immunobiology",
+      {
+        "A": [
+          "40265",
+          [
+            [
+              19,
+              "TR",
+              "1020 Wymer Hall",
+              0,
+              [
+                "Steelman, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Same as ANSC 450 and PATH 410. See ANSC 450.",
       []
     ],
     "MCB 446": [
-      "MCB 446",
-      {},
+      "Physical Biochemistry",
+      {
+        "AL1": [
+          "31586",
+          [
+            [
+              6,
+              "TR",
+              "62 Krannert Art Museum",
+              40,
+              [
+                "Zhang, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "MCB 450": [
-      "MCB 450",
-      {},
-      [],
-      null,
+      "Same as CHEM 472 and BIOC 446. See BIOC 446.",
       []
     ],
     "MCB 460": [
-      "MCB 460",
-      {},
+      "Neuroanatomy Laboratory",
+      {
+        "ABA": [
+          "78079",
+          [
+            [
+              8,
+              "T",
+              "216 Burrill Hall",
+              32,
+              [
+                "Toma, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "ABB": [
+          "74493",
+          [
+            [
+              53,
+              "W",
+              "216 Burrill Hall",
+              32,
+              [
+                "Toma, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "ABC": [
+          "76011",
+          [
+            [
+              65,
+              "R",
+              "216 Burrill Hall",
+              32,
+              [
+                "Toma, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "ABD": [
+          "78080",
+          [
+            [
+              54,
+              "F",
+              "216 Burrill Hall",
+              32,
+              [
+                "Toma, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "77969",
+          [
+            [
+              21,
+              "M",
+              "2310 Everitt Laboratory",
+              10,
+              [
+                "Toma, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Laboratory course emphasizing the fundamentals of neuroanatomy. The major sensory, motor, and integrative neural systems of the human brain are explored. Based on an understanding of normal neural connections and brain function, the anatomical and physiological bases for multiple neurological disorders are also discussed. Primary literature and clinical case studies will inform discussions throughout the course.",
+      []
+    ],
+    "MCB 450": [
+      "Introductory Biochemistry",
+      {
+        "A": [
+          "39216",
+          [
+            [
+              6,
+              "TR",
+              "0027/1025 Campus Instructional Facility",
+              1,
+              [
+                "Chen, L",
+                "Fratti, R",
+                "Smith, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Chemistry and metabolism of carbohydrates, lipids, proteins, nucleic acids, vitamins, and coenzymes and their relation to the regulation and processes of organisms, cells, and subcellular components.",
       []
     ],
     "MCB 462": [
-      "MCB 462",
-      {},
+      "Integrative Neuroscience",
+      {
+        "A": [
+          "60201",
+          [
+            [
+              2,
+              "MWF",
+              "1000 Lincoln Hall",
+              17,
+              [
+                "Gillette, M",
+                "Gillette, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Employs integrative, multi-level systems approaches to nervous system and behavior. Focuses on neural circuits in sensory integration, pattern generation, the integration of sensation, internal states and learning in behavioral decision, the neuronal natures of pain, sleep, and biological rhythms, neuroeconomics, new vistas in neural modeling and interfacing brain and machine. Students are presented in neuroethological contexts of evolution and the economics of behavior and physiology.",
       []
     ],
     "MCB 465": [
-      "MCB 465",
-      {},
+      "Human Metabolic Disease",
+      {
+        "A": [
+          "63456",
+          [
+            [
+              9,
+              "TR",
+              "157 Noyes Laboratory",
+              18,
+              [
+                "Anakk, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Examination of the molecular and physiological basis of human metabolic disease. Disruption of metabolic and energy homeostasis plays key roles leading to metabolic disorders. We will examine how lipid/glucose levels and energy balance are controlled in health and how they are abnormally regulated in disease sates. In addition, we will cover current topics related to control of metabolism including aging and circadian rhythms. Methodologies leading to scientific discoveries and potential preventive and therapeutic agents will also be discussed.",
       []
     ],
     "MCB 466": [
-      "MCB 466",
-      {},
+      "Neuro & Molecular Pharmacology",
+      {
+        "A": [
+          "72081",
+          [
+            [
+              10,
+              "TR",
+              "151 Loomis Laboratory",
+              14,
+              [
+                "Nelson, E",
+                "Tsai, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Introduction to fundamental principles of pharmacology that provides a comprehensive understanding of the principles and concepts applied to modern pharmacology, including pharmacokinetics, pharmacodynamics, neuropharmacology, toxicology, drug development and clinical trials, and drugs targeting various diseases. Emphasis is placed on the mechanisms of action. The course will cover several classes of drugs, including anti-infective agents, autonomic/central nervous system modulators, neuropharmacology, anti-cancer therapeutics and drugs targeting the major organ systems of the body. In an active learning style, case studies and sample MCAT questions will be used to bring relevance to covered topics. This course is ideal for those interested in pharmacology, neuropharmacology, pharmacy, medicine, veterinary medicine, nursing, kinesiology, or graduate school in the life sciences.",
       []
     ],
     "MCB 480": [
-      "MCB 480",
-      {},
+      "Eukaryotic Cell Signaling",
+      {
+        "A": [
+          "31781",
+          [
+            [
+              6,
+              "TR",
+              "114 Transportation Building",
+              6,
+              [
+                "Chen, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "General principles of molecular signaling regulating membrane, cytoplasmic, and nuclear events in eukaryotic cells with emphasis on mammalian systems. Contemporary methods of investigation and the principles of identifying and solving problems related to signal transduction will be emphasized.",
       []
     ],
     "MCB 468": [
-      "MCB 468",
-      {},
+      "Cancer Pathophysiology",
+      {
+        "AL1": [
+          "78097",
+          [
+            [
+              2,
+              "MWF",
+              "156 Henry Administration Bldg",
+              20,
+              [
+                "Bolton, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "MCB 493": [
-      "MCB 493",
-      {},
-      [],
-      null,
+      "Abnormalities that occur at the molecular and cellular level manifest as pathologies affecting the onset and progression of various forms of cancer. This course focuses on the pathophysiology of common human cancers and the genetic and environmental factors that influence malignant invasion and metastasis. The involvement of these biological factors in cancer development, diagnosis, prevention, and management will be examined throughout the course integrating basic science and clinical aspects central to oncology.",
       []
     ],
     "MCB 492": [
-      "MCB 492",
-      {},
+      "Senior Thesis",
+      {
+        "40720": [
+          "40720",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Research conducted under the direction of a faculty member in the School of Molecular and Cellular Biology. Normally, the student enrolls in MCB 492 during the last semester on campus prior to graduation. In the semester preceding enrollment, interested students should consult with their faculty advisors concerning enrollment procedures. A minimum of 3 credit hours is required, and a thesis must be presented for credit to be received. Successful completion of MCB 492 is required in order to be eligible for graduation with distinction in MCB.",
+      []
+    ],
+    "MCB 493": [
+      "Special Topics Mol Cell Biol",
+      {
+        "FMO": [
+          "53506",
+          [
+            [
+              41,
+              "TR",
+              "136 Loomis Laboratory",
+              14,
+              [
+                "Zhao, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "MTB": [
+          "60519",
+          [
+            [
+              3,
+              "MWF",
+              "5 Burrill Hall",
+              32,
+              [
+                "Zhang, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "NMI": [
+          "60482",
+          [
+            [
+              9,
+              "TR",
+              "2200 Sidney Lu Mech Engr Bldg",
+              3,
+              [
+                "Sweeney, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "PDE": [
+          "70561",
+          [
+            [
+              63,
+              "W",
+              "485C Burrill Hall",
+              32,
+              [
+                "Beal, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Discussion of current topics of interest within the broad domain of molecular and cellular biology; seminar or lecture format. Topics vary.",
       []
     ],
     "MCB 529": [
-      "MCB 529",
-      {},
+      "Special Topics in Cell and Developmental Biology",
+      {
+        "BA1": [
+          "78465",
+          [
+            [
+              66,
+              "M",
+              "1304 Siebel Center for Comp Sci",
+              2,
+              [
+                "Gillette, R",
+                "Gribkova, E",
+                "Zhai, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "BA2": [
+          "78493",
+          [
+            [
+              66,
+              "M",
+              "1304 Siebel Center for Comp Sci",
+              2,
+              [
+                "Gillette, R",
+                "Gribkova, E",
+                "Zhai, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "GSD": [
+          "51948",
+          [
+            [
+              9,
+              "M",
+              "7 Burrill Hall",
+              32,
+              [
+                "Sokac, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Discussion of current topics of interest in higher eukaryotic cellular and molecular biology, development, neurobiology; seminar or lecture format. Topics vary.",
       []
     ],
     "MCB 530": [
-      "MCB 530",
-      {},
+      "Reproductive Physiol Seminar",
+      {
+        "F1": [
+          "37735",
+          [
+            [
+              4,
+              "W",
+              "3526 Vet Med Basic Sciences Bldg",
+              39,
+              [
+                "Bagchi, I",
+                "Yang, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          14,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Presentation and discussion of current literature as well as graduate student and staff research proposals and findings in reproductive physiology.",
       []
     ],
     "MCB 543": [
-      "MCB 543",
-      {},
+      "Interdisciplinary Approaches to Neuroscience II",
+      {
+        "IAN": [
+          "68545",
+          [
+            [
+              67,
+              "MW",
+              "4269 Beckman Institute",
+              0,
+              [
+                "Tomaszycki, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Same as NEUR 543 and PSYC 543. See NEUR 543.",
       []
     ],
     "MCB 545": [
-      "MCB 545",
-      {},
+      "Functional Genomics in Principle and Practice",
+      {
+        "A": [
+          "67488",
+          [
+            [
+              68,
+              "MW",
+              "122 1203 1/2 W Nevada",
+              41,
+              [
+                "VanBortle, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Experimental and analytical foundations of functional genomics, tailored to experimental biologists who are using high-throughput sequencing technologies to analyze function in animal genomes. Lectures cover experimental methods and tools available for bioinformatics analysis; students will gain experience in the use of online or command-line bioinformatics tools through weekly assignments. Advanced knowledge in eukaryotic molecular genetics is needed but bioinformatics skills are not required.",
+      []
+    ],
+    "MCB 561": [
+      "Mechanisms Viral Pathogenesis",
+      {
+        "A": [
+          "79151",
+          [
+            [
+              39,
+              "T",
+              "TBA",
+              0,
+              [
+                "Fang, Y",
+                "Jarosinski, K",
+                "Rowland, R",
+                "Wang, L",
+                "Yoo, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as PATH 519. See PATH 519.",
       []
     ],
     "MCB 571": [
-      "MCB 571",
-      {},
+      "Bioinformatics",
+      {
+        "A1": [
+          "61911",
+          [
+            [
+              27,
+              "TR",
+              "136 Loomis Laboratory",
+              14,
+              [
+                "Zhao, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Same as ANSC 543, CHBE 571, and STAT 530. See CHBE 571.",
       []
     ],
     "MCB 581": [
-      "MCB 581",
-      {},
+      "Laboratory Rotation I",
+      {
+        "10583": [
+          "10583",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Laboratory research methods; familiarization of first-year graduate students with experimental methods used in molecular and cellular biology research. Required of all first-year students entering MCB. Meets first five weeks of each term.",
       []
     ],
     "MCB 582": [
-      "MCB 582",
-      {},
+      "Laboratory Rotation II",
+      {
+        "10001": [
+          "10001",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "MCB 585": [
-      "MCB 585",
-      {},
-      [],
-      null,
+      "Laboratory research methods; familiarization of first-year graduate students with experimental methods used in molecular and cellular biology research. Required of all first-year students entering MCB. Meets second five weeks of each term.",
       []
     ],
     "MCB 583": [
-      "MCB 583",
-      {},
+      "Laboratory Rotation III",
+      {
+        "10002": [
+          "10002",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Laboratory research methods; familiarization of first-year graduate students with experimental methods used in molecular and cellular biology research. Required of all first-year students entering MCB. Meets third five weeks of each term.",
+      []
+    ],
+    "MCB 585": [
+      "Current Topics in Microbiology",
+      {
+        "A": [
+          "53111",
+          [
+            [
+              21,
+              "W",
+              "140 Henry Administration Bldg",
+              20,
+              [
+                "Brooke, C",
+                "Grant, N",
+                "Hatoum, A",
+                "Imlay, J",
+                "Kieffer, C",
+                "Kuzminov, A",
+                "Martinez Vargas, P",
+                "Mera, P",
+                "Metcalf, W",
+                "Olsen, G",
+                "Qin, W",
+                "Slauch, J",
+                "Wilson, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Discussions, reviews, and appraisal of special topics in microbiology and molecular biology; seminar or lecture. Topics vary.",
       []
     ],
     "MCB 291": [
-      "MCB 291",
-      {},
+      "Undergraduate Research Scholars",
+      {
+        "A": [
+          "79003",
+          [
+            [
+              2,
+              "T",
+              "TBA",
+              0,
+              [
+                "Fitz-Henley, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Introduction to the professional practices, expectations, and skills essential for success in research. Topics include research ethics, data management, scientific literacy, scientific communication and presentation, time management, self-efficacy, and other aspects of the research process. Designed to complement the laboratory experience, the course aims to enhance student engagement and foster a community of undergraduate scholars. It is intended for undergraduate students participating in funded research opportunities in the School of Molecular and Cellular Biology.",
       []
     ]
   },
   "caches": {
-    "periods": [],
+    "periods": [
+      "ARRANGED",
+      "1300 - 1350",
+      "1400 - 1450",
+      "1500 - 1550",
+      "1600 - 1650",
+      "1400 - 1550",
+      "1100 - 1220",
+      "0900 - 0950",
+      "1400 - 1650",
+      "1530 - 1650",
+      "0930 - 1050",
+      "1700 - 1830",
+      "0800 - 1050",
+      "1300 - 1450",
+      "1100 - 1250",
+      "1500 - 1650",
+      "1600 - 1750",
+      "1100 - 1150",
+      "1000 - 1050",
+      "1230 - 1350",
+      "1900 - 2050",
+      "1200 - 1250",
+      "1600 - 1720",
+      "1100 - 1240",
+      "0900 - 1050",
+      "0800 - 0850",
+      "1230 - 1345",
+      "1400 - 1520",
+      "1100 - 1215",
+      "1700 - 1750",
+      "1000 - 1150",
+      "1200 - 1350",
+      "1800 - 1950",
+      "1700 - 1850",
+      "0800 - 0950",
+      "0800 - 0920",
+      "1700 - 1820",
+      "1200 - 1450",
+      "1100 - 1350",
+      "0900 - 1150",
+      "1530 - 1720",
+      "1200 - 1320",
+      "1500 - 1750",
+      "1500 - 1620",
+      "1430 - 1700",
+      "1200 - 1430",
+      "1100 - 1330",
+      "0930 - 1045",
+      "1630 - 1720",
+      "1030 - 1150",
+      "1530 - 1645",
+      "1300 - 1420",
+      "0900 - 1020",
+      "1300 - 1550",
+      "1000 - 1250",
+      "1230 - 1430",
+      "1430 - 1550",
+      "1500 - 1730",
+      "0600 - 0720",
+      "1700 - 1900",
+      "1000 - 1120",
+      "1400 - 1750",
+      "0900 - 1250",
+      "1300 - 1650",
+      "1000 - 1350",
+      "0930 - 1220",
+      "1630 - 1730",
+      "1600 - 1715",
+      "1330 - 1450"
+    ],
     "dateRanges": [],
-    "scheduleTypes": [],
+    "scheduleTypes": [
+      "Laboratory-Discussion",
+      "Discussion/Recitation",
+      "Lecture",
+      "Independent Study",
+      "Lecture-Discussion",
+      "Laboratory",
+      "Lecture 01/19/27-01/23/27",
+      "Conference",
+      "Internship",
+      "Online Lab",
+      "Online Lecture",
+      "Online",
+      "Study Abroad",
+      "Online Discussion",
+      "Seminar"
+    ],
     "campuses": [],
     "attributes": [],
     "restrictions": [],
     "gradeBases": [],
-    "locations": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.11246109008789,
+        "long": -88.22831726074219
+      },
+      {
+        "lat": 40.11380515934119,
+        "long": -88.22490788390387
+      },
+      {
+        "lat": 40.110811306674734,
+        "long": -88.2248467072371
+      },
+      {
+        "lat": 40.1116416,
+        "long": -88.2248868
+      },
+      {
+        "lat": 40.11085653938169,
+        "long": -88.22609810215927
+      },
+      {
+        "lat": 40.11171215875622,
+        "long": -88.22530849701589
+      },
+      {
+        "lat": 40.107811,
+        "long": -88.2260761
+      },
+      {
+        "lat": 40.111691,
+        "long": -88.2242511
+      },
+      {
+        "lat": 40.1108856,
+        "long": -88.2269806
+      },
+      {
+        "lat": 40.1109722,
+        "long": -88.2282631
+      },
+      {
+        "lat": 40.107534,
+        "long": -88.2281548
+      },
+      {
+        "lat": 40.10628,
+        "long": -88.22621
+      },
+      {
+        "lat": 40.10755766472843,
+        "long": -88.22995430218522
+      },
+      {
+        "lat": 40.1110937,
+        "long": -88.2232348
+      },
+      {
+        "lat": 40.1020773,
+        "long": -88.2296394
+      },
+      {
+        "lat": 40.0995003,
+        "long": -88.223104
+      },
+      {
+        "lat": 40.1065684,
+        "long": -88.2281746
+      },
+      {
+        "lat": 40.108419421661715,
+        "long": -88.2261156301609
+      },
+      {
+        "lat": 40.1028373,
+        "long": -88.2251326
+      },
+      {
+        "lat": 40.1083446,
+        "long": -88.2282555
+      },
+      {
+        "lat": 40.1072225,
+        "long": -88.2262016
+      },
+      {
+        "lat": 40.1033599,
+        "long": -88.2292111
+      },
+      {
+        "lat": 40.1047599,
+        "long": -88.2319514
+      },
+      {
+        "lat": 40.105732,
+        "long": -88.2281018
+      },
+      {
+        "lat": 40.103620555545135,
+        "long": -88.22982720445013
+      },
+      {
+        "lat": 40.1035833,
+        "long": -88.228405
+      },
+      {
+        "lat": 40.10944320239664,
+        "long": -88.22602522743233
+      },
+      {
+        "lat": 40.104794,
+        "long": -88.224264
+      },
+      {
+        "lat": 40.1022093629303,
+        "long": -88.22800864058527
+      },
+      {
+        "lat": 40.103627234541904,
+        "long": -88.22601765311099
+      },
+      {
+        "lat": 40.1149296,
+        "long": -88.2280589
+      },
+      {
+        "lat": 40.103587,
+        "long": -88.230606
+      },
+      {
+        "lat": 40.1131317,
+        "long": -88.2264552
+      },
+      {
+        "lat": 40.11180304465921,
+        "long": -88.22613003543475
+      },
+      {
+        "lat": 40.10099,
+        "long": -88.23159
+      },
+      {
+        "lat": 40.1034533,
+        "long": -88.2327596
+      },
+      {
+        "lat": 40.10593795776367,
+        "long": -88.2270736694336
+      },
+      {
+        "lat": 40.10783362157985,
+        "long": -88.22476189569741
+      },
+      {
+        "lat": 40.092875494224195,
+        "long": -88.22082220247309
+      },
+      {
+        "lat": 40.101862,
+        "long": -88.231737
+      },
+      {
+        "lat": 40.105587640130146,
+        "long": -88.22025111416733
+      }
+    ],
     "finalDates": [],
     "finalTimes": []
   }
