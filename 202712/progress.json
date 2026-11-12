@@ -4,9 +4,9 @@
   "year": "2027",
   "term": "winter",
   "startedAt": 1794504652693,
-  "lastUpdated": 1794504660381,
-  "totalSubjects": 0,
-  "totalCourses": 0,
+  "lastUpdated": 1794504720698,
+  "totalSubjects": 30,
+  "totalCourses": 60,
   "subjects": [
     "ADV",
     "AFAS",
@@ -207,14 +207,155 @@
         "subject": "HK",
         "number": "302"
       }
+    ],
+    "HIST": [
+      {
+        "subject": "HIST",
+        "number": "100"
+      },
+      {
+        "subject": "HIST",
+        "number": "104"
+      },
+      {
+        "subject": "HIST",
+        "number": "262"
+      }
+    ],
+    "IS": [
+      {
+        "subject": "IS",
+        "number": "199"
+      },
+      {
+        "subject": "IS",
+        "number": "229"
+      },
+      {
+        "subject": "IS",
+        "number": "390"
+      },
+      {
+        "subject": "IS",
+        "number": "445"
+      }
+    ],
+    "JS": [
+      {
+        "subject": "JS",
+        "number": "262"
+      }
+    ],
+    "JOUR": [
+      {
+        "subject": "JOUR",
+        "number": "200"
+      }
+    ],
+    "LA": [
+      {
+        "subject": "LA",
+        "number": "545"
+      }
+    ],
+    "MACS": [
+      {
+        "subject": "MACS",
+        "number": "356"
+      },
+      {
+        "subject": "MACS",
+        "number": "380"
+      }
+    ],
+    "MUS": [
+      {
+        "subject": "MUS",
+        "number": "132"
+      },
+      {
+        "subject": "MUS",
+        "number": "133"
+      }
+    ],
+    "NS": [
+      {
+        "subject": "NS",
+        "number": "120"
+      }
+    ],
+    "PHIL": [
+      {
+        "subject": "PHIL",
+        "number": "110"
+      }
+    ],
+    "PS": [
+      {
+        "subject": "PS",
+        "number": "241"
+      }
+    ],
+    "PSYC": [
+      {
+        "subject": "PSYC",
+        "number": "100"
+      },
+      {
+        "subject": "PSYC",
+        "number": "204"
+      },
+      {
+        "subject": "PSYC",
+        "number": "216"
+      },
+      {
+        "subject": "PSYC",
+        "number": "230"
+      }
+    ],
+    "REL": [
+      {
+        "subject": "REL",
+        "number": "110"
+      },
+      {
+        "subject": "REL",
+        "number": "214"
+      }
+    ],
+    "SOC": [
+      {
+        "subject": "SOC",
+        "number": "100"
+      }
+    ],
+    "SPAN": [
+      {
+        "subject": "SPAN",
+        "number": "201"
+      },
+      {
+        "subject": "SPAN",
+        "number": "205"
+      }
     ]
   },
-  "completedSubjects": [],
-  "partialSubjects": {},
+  "completedSubjects": [
+    "ADV",
+    "AFAS"
+  ],
+  "partialSubjects": {
+    "ANTH": {
+      "completed": 0,
+      "total": 2,
+      "lastCourse": "ABORTED"
+    }
+  },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 0,
-    "failedCourses": 0,
+    "successfulCourses": 3,
+    "failedCourses": 1,
     "rateLimitCount": 0
   }
 }
