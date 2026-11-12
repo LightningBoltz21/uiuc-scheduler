@@ -4,7 +4,7 @@
   "year": "2027",
   "term": "spring",
   "startedAt": 1794502755201,
-  "lastUpdated": 1794503690691,
+  "lastUpdated": 1794503755795,
   "totalSubjects": 188,
   "totalCourses": 4527,
   "subjects": [
@@ -18782,19 +18782,25 @@
     "HBSE",
     "HEBR",
     "HNDI",
-    "HIST"
+    "HIST",
+    "HORT",
+    "HDFS",
+    "DTX",
+    "HUM",
+    "IE",
+    "INFO"
   ],
   "partialSubjects": {
-    "HORT": {
-      "completed": 0,
-      "total": 13,
+    "IS": {
+      "completed": 83,
+      "total": 114,
       "lastCourse": "ABORTED"
     }
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 2429,
-    "failedCourses": 14,
+    "successfulCourses": 2629,
+    "failedCourses": 15,
     "rateLimitCount": 0
   }
 }

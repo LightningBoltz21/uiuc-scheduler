@@ -1,60 +1,281 @@
 {
   "subject": "HUM",
-  "scrapedAt": 1791782573789,
+  "scrapedAt": 1794503729648,
   "courseCount": 6,
   "courses": {
-    "HUM 111": [
-      "HUM 111",
-      {},
-      [],
-      null,
-      []
-    ],
     "HUM 199": [
-      "HUM 199",
-      {},
+      "Undergraduate Open Seminar",
+      {
+        "10431": [
+          "10431",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
       null,
       []
     ],
     "HUM 390": [
-      "HUM 390",
-      {},
+      "Individual Study",
+      {
+        "10432": [
+          "10432",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Supervised reading and research on interdisciplinary humanities topics chosen by the student in consultation with a faculty member.",
+      []
+    ],
+    "HUM 111": [
+      "Introduction to the Humanities II",
+      {
+        "A": [
+          "70120",
+          [
+            [
+              31,
+              "MW",
+              "TBA",
+              0,
+              [
+                "Kinzy, D",
+                "O'Brien, V",
+                "Wood, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "A foundation course in the humanities for adult learners in the Odyssey program. Team-taught by faculty with humanities expertise, it focuses on a variety of fictional and nonfictional material, including but not limited to the novel, poetry, autobiography, memory-work and oral history, that make up the building blocks of humanistic inquiry. The course engages students in the disciplinary and multi-disciplinary methods through which humanists engage these forms and formats, and provides academic skill building, including critical thinking and writing.",
       []
     ],
     "HUM 495": [
-      "HUM 495",
-      {},
+      "Special Advanced Topics",
+      {
+        "10436": [
+          "10436",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Offers interdisciplinary topics in the humanities; topics vary, but normally relate to the interdisciplinary areas of study within the humanities major or to the special humanities facilities (e.g., the Language Learning Laboratory).",
       []
     ],
     "HUM 492": [
-      "HUM 492",
-      {},
+      "Senior Thesis",
+      {
+        "10433": [
+          "10433",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Individual research for majors in humanities leading to the completion of a thesis.",
       []
     ],
     "HUM 498": [
-      "HUM 498",
-      {},
+      "Special Topics Senior",
+      {
+        "10435": [
+          "10435",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Interdisciplinary seminar and tutorial in selected topics related to one of the options in the humanities major.",
       []
     ]
   },
   "caches": {
-    "periods": [],
+    "periods": [
+      "ARRANGED",
+      "0900 - 1050",
+      "1400 - 1550",
+      "1300 - 1450",
+      "1200 - 1350",
+      "1100 - 1150",
+      "1000 - 1050",
+      "1000 - 1150",
+      "0900 - 1150",
+      "1400 - 1450",
+      "1900 - 2030",
+      "1100 - 1220",
+      "0900 - 1020",
+      "0930 - 1050",
+      "0900 - 0950",
+      "1200 - 1250",
+      "1300 - 1350",
+      "1100 - 1250",
+      "1230 - 1350",
+      "1600 - 1715",
+      "1600 - 1750",
+      "0800 - 1150",
+      "1430 - 1620",
+      "1530 - 1650",
+      "1600 - 1720",
+      "1400 - 1520",
+      "1400 - 1650",
+      "1300 - 1550",
+      "1300 - 1440",
+      "1700 - 1820",
+      "1700 - 1850",
+      "1730 - 2030"
+    ],
     "dateRanges": [],
-    "scheduleTypes": [],
+    "scheduleTypes": [
+      "Online",
+      "Laboratory",
+      "Lecture",
+      "Laboratory-Discussion",
+      "Internship",
+      "Lecture-Discussion",
+      "Online Lecture-Discussion",
+      "Independent Study",
+      "Discussion/Recitation",
+      "Online Lecture"
+    ],
     "campuses": [],
     "attributes": [],
     "restrictions": [],
     "gradeBases": [],
-    "locations": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.0995003,
+        "long": -88.223104
+      },
+      {
+        "lat": 40.10127390836906,
+        "long": -88.2226073524728
+      },
+      {
+        "lat": 40.104794,
+        "long": -88.224264
+      },
+      {
+        "lat": 40.1072225,
+        "long": -88.2262016
+      },
+      {
+        "lat": 40.1047599,
+        "long": -88.2319514
+      },
+      {
+        "lat": 40.1020773,
+        "long": -88.2296394
+      },
+      {
+        "lat": 40.105587640130146,
+        "long": -88.22025111416733
+      },
+      {
+        "lat": 40.102726858556835,
+        "long": -88.23259991223857
+      }
+    ],
     "finalDates": [],
     "finalTimes": []
   }
