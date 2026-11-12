@@ -1,228 +1,1371 @@
 {
   "subject": "AFRO",
-  "scrapedAt": 1791782146008,
-  "courseCount": 30,
+  "scrapedAt": 1794502946438,
+  "courseCount": 26,
   "courses": {
-    "AFRO 105": [
-      "AFRO 105",
-      {},
-      [],
-      null,
-      []
-    ],
-    "AFRO 132": [
-      "AFRO 132",
-      {},
-      [],
-      null,
-      []
-    ],
     "AFRO 100": [
-      "AFRO 100",
-      {},
+      "Intro to African American St",
+      {
+        "AD3": [
+          "46379",
+          [
+            [
+              8,
+              "F",
+              "241 Armory",
+              12,
+              [
+                "Adeyemi, O",
+                "O'Byrn, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "AD4": [
+          "46380",
+          [
+            [
+              4,
+              "F",
+              "313 Gregory Hall",
+              8,
+              [
+                "Adeyemi, O",
+                "O'Byrn, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "AE1": [
+          "30993",
+          [
+            [
+              11,
+              "MW",
+              "386 Armory",
+              12,
+              [
+                "O'Byrn, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Interdisciplinary introduction to the basic concepts and literature in the disciplines covered by African American studies; surveys the major approaches to the study of African Americans across several academic disciplines including economics, education, psychology, literature, political science, sociology and others.",
       []
     ],
     "AFRO 134": [
-      "AFRO 134",
-      {},
+      "Religion, Race, and Resistance",
+      {
+        "AL": [
+          "72099",
+          [
+            [
+              8,
+              "MWF",
+              "319 Gregory Hall",
+              8,
+              [
+                "Warren, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
       null,
       []
     ],
-    "AFRO 215": [
-      "AFRO 215",
-      {},
+    "AFRO 105": [
+      "Black Literature in America",
+      {
+        "IR": [
+          "61994",
+          [
+            [
+              13,
+              "TR",
+              "G36 Literatures, Cultures, & Ling",
+              29,
+              [
+                "Riley, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Survey of the literary work of Black Americans from 1746 to the present. Exploration of the social, cultural, and political contexts that have shaped the Black American literary tradition by analyzing not only poetry, drama, autobiographical narratives, short stories, and novels, but also folktales, spirituals, and contemporary music.",
       []
     ],
     "AFRO 201": [
-      "AFRO 201",
-      {},
+      "US Racial & Ethnic Politics",
+      {
+        "OL1": [
+          "46980",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Same as AAS 201, LLS 201, and PS 201. See PS 201.",
       []
     ],
     "AFRO 221": [
-      "AFRO 221",
-      {},
+      "History of the Prison",
+      {
+        "RG": [
+          "64304",
+          [
+            [
+              27,
+              "TR",
+              "319 Gregory Hall",
+              8,
+              [
+                "Ginsburg, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Same as HIST 219 and LA 221. See LA 221.",
+      []
+    ],
+    "AFRO 215": [
+      "US Citizenship Comparatively",
+      {
+        "A": [
+          "52318",
+          [
+            [
+              26,
+              "MW",
+              "310 David Kinley Hall",
+              16,
+              [
+                "Kwon, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as AAS 215, AIS 295, GWS 215, and LLS 215. See AAS 215.",
       []
     ],
     "AFRO 226": [
-      "AFRO 226",
-      {},
+      "Black Women Contemp US Society",
+      {
+        "DMC": [
+          "63815",
+          [
+            [
+              10,
+              "TR",
+              "214 Davenport Hall",
+              14,
+              [
+                "Riley, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "AFRO 224": [
-      "AFRO 224",
-      {},
-      [],
-      null,
-      []
-    ],
-    "AFRO 243": [
-      "AFRO 243",
-      {},
-      [],
-      null,
-      []
-    ],
-    "AFRO 228": [
-      "AFRO 228",
-      {},
-      [],
-      null,
+      "Sociological perspective of the experience of African American women in the contemporary United States. Specifically, an examination of relationships between the economy, state policy, culture, work and motherhood for this demographic group.",
       []
     ],
     "AFRO 227": [
-      "AFRO 227",
-      {},
+      "Studies in Black Television",
+      {
+        "1": [
+          "65251",
+          [
+            [
+              14,
+              "TR",
+              "242 Armory",
+              12,
+              [
+                "Peoples, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Explores topics in black television in order to a) analyze the economic and political factors that lead to successful series; b) historicize black television of the Diaspora, including the U.S., Caribbean, UK, Canada, and Nigeria; c) identify conventions and define a \"black aesthetic;\" d) determine how black series in one genre (such as sitcoms or dramas) aid in mapping other genres; and e) discuss how these series navigate stereotypes and cultural shifts.",
       []
     ],
-    "AFRO 261": [
-      "AFRO 261",
-      {},
+    "AFRO 224": [
+      "Humanist Persp of Afro-Am Exp",
+      {
+        "1": [
+          "39646",
+          [
+            [
+              55,
+              "MW",
+              "106 David Kinley Hall",
+              16,
+              [
+                "Ngumbi, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "AFRO 276": [
-      "AFRO 276",
-      {},
-      [],
-      null,
+      "Presents the Afro-centric world view as it was manifested in traditional African society and in the Afro-American slave community. Shows that this world view merged with European notions of art and humanity, as revealed in modern Afro-American literature, art, and music.",
       []
     ],
     "AFRO 250": [
-      "AFRO 250",
-      {},
+      "Introduction to Health and Wellness in the Black Community",
+      {
+        "SS": [
+          "68163",
+          [
+            [
+              11,
+              "MW",
+              "428 Armory",
+              12,
+              [
+                "Phillips, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "An introduction for understanding health-related issues and disparities affecting the African American community. We will explore health status across the lifespan, social and environmental challenges, chronic diseases, lifestyle behaviors, and intervention, research and policy implications. Students will learn how to integrate and situate these complexities in a broader systemic framework and understand how this population exhibits resiliency in the face of these adversities.",
       []
     ],
-    "AFRO 298": [
-      "AFRO 298",
-      {},
+    "AFRO 228": [
+      "Hip Hop Music: History and Culture",
+      {
+        "JPM": [
+          "70808",
+          [
+            [
+              13,
+              "MW",
+              "311 Gregory Hall",
+              8,
+              [
+                "Meyers, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "A study of hip-hop from its beginnings in the post-industrial South Bronx of the 1970s to the global present. By focusing on the work of specific artists and movements, we will compare and contrast the production and consumption of hip-hop with other forms of popular music (including jazz, rock, disco, and pop). This course shows how musicians and listeners use hip-hop to express ideas about topics such as economics, nationalism, black power, feminism, and violence.",
       []
     ],
-    "AFRO 310": [
-      "AFRO 310",
-      {},
+    "AFRO 261": [
+      "Intro to the African Diaspora",
+      {
+        "A": [
+          "69407",
+          [
+            [
+              9,
+              "TR",
+              "1064 Lincoln Hall",
+              3,
+              [
+                "Smalls, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Introduction to the origin, development, and maturation of the African diaspora in the Americas and the Caribbean, beginning with the transatlantic slave trade and up to the end of the 20th century.",
+      []
+    ],
+    "AFRO 276": [
+      "African American History Since 1877",
+      {
+        "A": [
+          "40112",
+          [
+            [
+              7,
+              "MWF",
+              "125 David Kinley Hall",
+              16,
+              [
+                "Lawton, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as HIST 276. See HIST 276.",
       []
     ],
     "AFRO 340": [
-      "AFRO 340",
-      {},
+      "Dancing Black Popular Culture",
+      {
+        "OL1": [
+          "52020",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Crocker, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "OL2": [
+          "70535",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Rizzuto, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "OL3": [
+          "31842",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Bofilios, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "OL4": [
+          "77178",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Verdone, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "OL5": [
+          "77466",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Knouse, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "OL6": [
+          "79107",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Ebersole, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "OL7": [
+          "79130",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Same as DANC 340. See DANC 340.",
+      []
+    ],
+    "AFRO 310": [
+      "Race and Cultural Diversity",
+      {
+        "D1": [
+          "33076",
+          [
+            [
+              37,
+              "R",
+              "320 Mumford Hall",
+              19,
+              [
+                "Moton, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "D2": [
+          "45581",
+          [
+            [
+              37,
+              "R",
+              "42A Education Building",
+              28,
+              [
+                "Moton, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "D3": [
+          "45585",
+          [
+            [
+              37,
+              "R",
+              "313 Mumford Hall",
+              19,
+              [
+                "Moton, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "D4": [
+          "45598",
+          [
+            [
+              37,
+              "R",
+              "136 Davenport Hall",
+              14,
+              [
+                "Moton, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "D5": [
+          "76831",
+          [
+            [
+              37,
+              "R",
+              "243 Armory",
+              12,
+              [
+                "Moton, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "L": [
+          "33075",
+          [
+            [
+              37,
+              "T",
+              "2 Education Building",
+              28,
+              [
+                "Moton, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as AAS 310, EPOL 310, and LLS 310. See EPOL 310.",
       []
     ],
     "AFRO 342": [
-      "AFRO 342",
-      {},
+      "Black Men and Masculinities",
+      {
+        "A": [
+          "43467",
+          [
+            [
+              9,
+              "TR",
+              "1068 Lincoln Hall",
+              3,
+              [
+                "Nance, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "AFRO 345": [
-      "AFRO 345",
-      {},
-      [],
-      null,
-      []
-    ],
-    "AFRO 381": [
-      "AFRO 381",
-      {},
-      [],
-      null,
+      "The sociological study of African American men in the contemporary U.S. Specifically, black manhood and masculinities and the experiences of this demographic group as it relates to the economy, state, policy, and institutions such as family, criminal justice system, and education.",
       []
     ],
     "AFRO 378": [
-      "AFRO 378",
-      {},
+      "Race and Revolutions",
+      {
+        "RN": [
+          "63483",
+          [
+            [
+              9,
+              "MW",
+              "115 David Kinley Hall",
+              16,
+              [
+                "O'Byrn, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Focus on the relationship between race and slavery during the revolutions in American and Haiti, respectively. We will seek to understand how the themes of slavery, revolution and race affected blacks, whites and indigenous Americans. We will learn about life during the Revolutionary era by reading the biographies, political pamphlets and personal letters of former slaves, Revolutionaries and everyday men and women as well as historical scholarship.",
       []
     ],
-    "AFRO 383": [
-      "AFRO 383",
-      {},
+    "AFRO 345": [
+      "Becoming Malcolm X and Martin Luther King Jr.",
+      {
+        "A": [
+          "77852",
+          [
+            [
+              9,
+              "TR",
+              "1065 Lincoln Hall",
+              3,
+              [
+                "Williams, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "A re-examination of the lives and legacies of Martin Luther King Jr. and Malcolm X. Few Black leaders are held in as high esteem, yet these ministers are often represented as rivals, even adversaries. While their rhetoric and protest strategies differed, there were values and priorities they shared. This course explores the social, religious, and political ideologies that underpinned their struggles for freedom, and considers how their memory is deployed in current social movements.",
+      []
+    ],
+    "AFRO 381": [
+      "Black Women and Film",
+      {
+        "1": [
+          "58754",
+          [
+            [
+              9,
+              "MW",
+              "134 Armory",
+              12,
+              [
+                "Phillips, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "An examination of the contribution of Black women film directors to cinema. The study of documentary, experimental, animated, fictional shorts, and feature films will reveal their unique approach to constructions of the intersection of race and gender. Starting from the 1920's up to the present, the course considers themes, aesthetics, historical contexts, and ideological discourses presented in the films.",
       []
     ],
     "AFRO 398": [
-      "AFRO 398",
-      {},
+      "Spec Topics Afro-Am Studies",
+      {
+        "CJS": [
+          "47052",
+          [
+            [
+              9,
+              "TR",
+              "13 Sch of Info Sciences Bldg",
+              0,
+              [
+                "Jenkins, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Advanced seminar on selected topics with particular emphasis on current research trends.",
       []
     ],
     "AFRO 415": [
-      "AFRO 415",
-      {},
+      "Africana Feminisms",
+      {
+        "1": [
+          "62161",
+          [
+            [
+              56,
+              "F",
+              "ONLINE",
+              0,
+              [
+                "Harrison, F"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "G1": [
+          "62183",
+          [
+            [
+              56,
+              "F",
+              "ONLINE",
+              0,
+              [
+                "Harrison, F"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "AFRO 421": [
-      "AFRO 421",
-      {},
-      [],
-      null,
-      []
-    ],
-    "AFRO 495": [
-      "AFRO 495",
-      {},
-      [],
-      null,
+      "Explores readings and research from the perspective of feminists throughout the African diaspora, with a focus on Black feminist thought emanating from the United States.",
       []
     ],
     "AFRO 435": [
-      "AFRO 435",
-      {},
+      "Commodifying Difference",
+      {
+        "G": [
+          "40441",
+          [
+            [
+              13,
+              "TR",
+              "327 Gregory Hall",
+              8,
+              [
+                "Peoples, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "U": [
+          "40514",
+          [
+            [
+              13,
+              "TR",
+              "327 Gregory Hall",
+              8,
+              [
+                "Peoples, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Same as AAS 435, GWS 435, LLS 435 and MACS 432. See LLS 435.",
+      []
+    ],
+    "AFRO 421": [
+      "Racial and Ethnic Families",
+      {
+        "A": [
+          "68792",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Barnett, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "68793",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Barnett, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as EPOL 410, and HDFS 424. See EPOL 410.",
+      []
+    ],
+    "AFRO 495": [
+      "Senior Thesis Seminar",
+      {
+        "A1": [
+          "50165",
+          [
+            [
+              55,
+              "T",
+              "138 Wohlers Hall",
+              2,
+              [
+                "Smith, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "3 undergraduate hours. No graduate credit. Prerequisite: AFRO 100 and AFRO 220 or AFRO 490.",
       []
     ],
     "AFRO 597": [
-      "AFRO 597",
-      {},
+      "Problems in African-Am Studies",
+      {
+        "2": [
+          "55896",
+          [
+            [
+              57,
+              "R",
+              "TBA",
+              0,
+              [
+                "Rosas, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          13,
+          0,
+          [],
+          -1
+        ],
+        "FH": [
+          "63482",
+          [
+            [
+              58,
+              "T",
+              "ONLINE",
+              0,
+              [
+                "Harrison, F"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          11,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Focused reading and study of special problems in African American Studies.",
       []
     ],
     "AFRO 598": [
-      "AFRO 598",
-      {},
+      "Res Sem in African-Am Studies",
+      {
+        "BS": [
+          "47667",
+          [
+            [
+              59,
+              "W",
+              "309 English Building",
+              24,
+              [
+                "Smith, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Graduate seminar on special topics based on current research trends.",
       []
     ]
   },
   "caches": {
-    "periods": [],
+    "periods": [
+      "ARRANGED",
+      "0800 - 0920",
+      "0800 - 0850",
+      "0900 - 0950",
+      "1200 - 1250",
+      "1300 - 1350",
+      "1400 - 1450",
+      "1000 - 1050",
+      "1100 - 1150",
+      "1230 - 1350",
+      "1100 - 1220",
+      "0930 - 1050",
+      "1700 - 1820",
+      "1400 - 1520",
+      "1530 - 1650",
+      "1700 - 1750",
+      "1830 - 2030",
+      "1530 - 1620",
+      "1600 - 1720",
+      "2000 - 2050",
+      "1530 - 1820",
+      "1200 - 1550",
+      "1300 - 1500",
+      "0830 - 0920",
+      "1300 - 1650",
+      "0800 - 1150",
+      "1500 - 1620",
+      "0900 - 1020",
+      "1200 - 1320",
+      "1500 - 1550",
+      "1030 - 1150",
+      "1630 - 1750",
+      "1000 - 1120",
+      "1600 - 1650",
+      "1130 - 1250",
+      "1430 - 1550",
+      "1300 - 1420",
+      "1400 - 1550",
+      "1730 - 1920",
+      "1300 - 1450",
+      "1800 - 2050",
+      "0900 - 1050",
+      "1100 - 1250",
+      "1000 - 1150",
+      "1100 - 1215",
+      "0800 - 0959",
+      "1530 - 1730",
+      "1500 - 1700",
+      "1700 - 1900",
+      "1730 - 1930",
+      "1600 - 1750",
+      "1530 - 1700",
+      "0830 - 0950",
+      "1500 - 1650",
+      "1230 - 1420",
+      "1400 - 1650",
+      "0900 - 1150",
+      "1100 - 1320",
+      "1400 - 1700",
+      "1200 - 1450"
+    ],
     "dateRanges": [],
-    "scheduleTypes": [],
+    "scheduleTypes": [
+      "Independent Study",
+      "Lecture-Discussion",
+      "Discussion/Recitation",
+      "Online Discussion",
+      "Lecture",
+      "Online",
+      "Conference",
+      "Laboratory-Discussion",
+      "Internship",
+      "Online Lecture-Discussion",
+      "Laboratory",
+      "Online Lecture",
+      "Research",
+      "Seminar"
+    ],
     "campuses": [],
     "attributes": [],
     "restrictions": [],
     "gradeBases": [],
-    "locations": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.1035872,
+        "long": -88.2306061
+      },
+      {
+        "lat": 40.103620555545135,
+        "long": -88.22982720445013
+      },
+      {
+        "lat": 40.1065684,
+        "long": -88.2281746
+      },
+      {
+        "lat": 40.10755766472843,
+        "long": -88.22995430218522
+      },
+      {
+        "lat": 40.11171215875622,
+        "long": -88.22530849701589
+      },
+      {
+        "lat": 40.103587,
+        "long": -88.230606
+      },
+      {
+        "lat": 40.1083446,
+        "long": -88.2282555
+      },
+      {
+        "lat": 40.105732,
+        "long": -88.2281018
+      },
+      {
+        "lat": 40.11085653938169,
+        "long": -88.22609810215927
+      },
+      {
+        "lat": 40.110811306674734,
+        "long": -88.2248467072371
+      },
+      {
+        "lat": 40.1109722,
+        "long": -88.2282631
+      },
+      {
+        "lat": 40.1047599,
+        "long": -88.2319514
+      },
+      {
+        "lat": 40.1110937,
+        "long": -88.2232348
+      },
+      {
+        "lat": 40.1072225,
+        "long": -88.2262016
+      },
+      {
+        "lat": 40.11246109008789,
+        "long": -88.22831726074219
+      },
+      {
+        "lat": 40.1035833,
+        "long": -88.228405
+      },
+      {
+        "lat": 40.108419421661715,
+        "long": -88.2261156301609
+      },
+      {
+        "lat": 40.0995003,
+        "long": -88.223104
+      },
+      {
+        "lat": 40.103627234541904,
+        "long": -88.22601765311099
+      },
+      {
+        "lat": 40.1034533,
+        "long": -88.2327596
+      },
+      {
+        "lat": 40.102726858556835,
+        "long": -88.23259991223857
+      },
+      {
+        "lat": 40.10764262805109,
+        "long": -88.23074052515514
+      },
+      {
+        "lat": 40.1131317,
+        "long": -88.2264552
+      },
+      {
+        "lat": 40.107534,
+        "long": -88.2281548
+      },
+      {
+        "lat": 40.11380515934119,
+        "long": -88.22490788390387
+      },
+      {
+        "lat": 40.1149296,
+        "long": -88.2280589
+      },
+      {
+        "lat": 40.1108856,
+        "long": -88.2269806
+      },
+      {
+        "lat": 40.1020773,
+        "long": -88.2296394
+      },
+      {
+        "lat": 40.10628,
+        "long": -88.22621
+      }
+    ],
     "finalDates": [],
     "finalTimes": []
   }

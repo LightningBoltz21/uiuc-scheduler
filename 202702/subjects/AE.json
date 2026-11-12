@@ -1,7 +1,7 @@
 {
   "subject": "AE",
-  "scrapedAt": 1794502910435,
-  "courseCount": 16,
+  "scrapedAt": 1794502941558,
+  "courseCount": 42,
   "courses": {
     "AE 199": [
       "Undergraduate Open Seminar",
@@ -759,6 +759,1864 @@
       [],
       "Lectures and discussions relating to new areas of interest. See class schedule for topics and prerequisites.",
       []
+    ],
+    "AE 419": [
+      "Aircraft Flight Mechanics",
+      {
+        "A": [
+          "29960",
+          [
+            [
+              4,
+              "MWF",
+              "112 Transportation Building",
+              5,
+              [
+                "Gupta, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ONC": [
+          "75234",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Gupta, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          11,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "62436",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Gupta, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Steady and quasi-steady aircraft flight performance; take-off and landing, climbing and diving, cruise, level turn, and energy methods; longitudinal, directional, and lateral static stability and control; longitudinal and lateral motion and dynamic stability.",
+      []
+    ],
+    "AE 403": [
+      "Spacecraft Attitude Control",
+      {
+        "A": [
+          "29973",
+          [
+            [
+              44,
+              "TR",
+              "4101 Materials Science & Eng Bld",
+              9,
+              [
+                "Woollands, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ONC": [
+          "76245",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Woollands, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          11,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "62470",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Woollands, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Theory and applications of spacecraft attitude dynamics and control; Euler angles, direction cosines, quaternions, and Gibbs-Rodrigues parameters; attitude sensors and control actuators; spin, three-axis active, reaction wheel, control moment gyro, and gravity gradient control systems; environmental effects.",
+      []
+    ],
+    "AE 410": [
+      "Computational Aerodynamics",
+      {
+        "A": [
+          "29954",
+          [
+            [
+              10,
+              "MW",
+              "136 Loomis Laboratory",
+              13,
+              [
+                "Evrard, F"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ONC": [
+          "76085",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Evrard, F"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          11,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "62437",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Evrard, F"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Computational technologies as solution tools for various aerodynamic problems; modeling and solution of one-and two-dimensional, incompressible and compressible, steady and unsteady inviscid external flow fields. Computational laboratory for practical experience.",
+      []
+    ],
+    "AE 420": [
+      "Finite Element Analysis",
+      {
+        "B3": [
+          "37473",
+          [
+            [
+              28,
+              "MW",
+              "114 Transportation Building",
+              5,
+              [
+                "Raj, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "B4": [
+          "59677",
+          [
+            [
+              28,
+              "MW",
+              "114 Transportation Building",
+              5,
+              [
+                "Raj, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as CSE 451 and ME 471. See ME 471.",
+      []
+    ],
+    "AE 434": [
+      "Rocket Propulsion",
+      {
+        "A": [
+          "29970",
+          [
+            [
+              32,
+              "MW",
+              "103 Transportation Building",
+              5,
+              [
+                "Levin Fliflet, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ONC": [
+          "73660",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Levin Fliflet, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          11,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "62471",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Levin Fliflet, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Basic principles of chemical rocket propulsion and performance, rocket component design, liquid rockets, solid rocket motors, combustion processes, combustion instability.",
+      []
+    ],
+    "AE 443": [
+      "Aerospace Systems Design II",
+      {
+        "A1": [
+          "56779",
+          [
+            [
+              13,
+              "TR",
+              "144 Loomis Laboratory",
+              13,
+              [
+                "Merret, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "S1": [
+          "56782",
+          [
+            [
+              13,
+              "TR",
+              "217 Noyes Laboratory",
+              17,
+              [
+                "Hausman, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Continuation of AE 442. Conceptual design project of either an aircraft or spacecraft flight system to satisfy a given set of requirements. Project team organization. Emphasis on sizing, trade studies and design optimization, subsystem integration, and technical communication skills.",
+      []
+    ],
+    "AE 435": [
+      "Electric Space Propulsion",
+      {
+        "A": [
+          "29965",
+          [
+            [
+              10,
+              "TR",
+              "2101 Everitt Laboratory",
+              11,
+              [
+                "Rovey, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "62435",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Rovey, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Elements of electric propulsion as applied to near-earth and deep-space missions; impact on spacecraft design; physics of ionized gases; plasmadynamics; electrothermal, electromagnetic, and electrostatic acceleration of gases to high velocity; high-impulse thruster design and performance; the resistojet, arcjet, ion engine, Hall thruster, MPD arc thruster, and plasma gun.",
+      []
+    ],
+    "AE 442": [
+      "Aerospace Systems Design I",
+      {
+        "SLV": [
+          "78133",
+          [
+            [
+              13,
+              "TR",
+              "161 Noyes Laboratory",
+              17,
+              [
+                "Gonzalez, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Principles of systems engineering as they apply to the design process for aerospace flight systems; general design methodology; application of these concepts to the initial sizing of both aircraft and spacecraft systems. Intensive technical writing.",
+      []
+    ],
+    "AE 462": [
+      "Applied Computational Fluid Dynamics",
+      {
+        "A": [
+          "78134",
+          [
+            [
+              3,
+              "MWF",
+              "124 Burrill Hall",
+              6,
+              [
+                "Bodony, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to the use of Computational Fluid Dynamics (CFD) to solve fluid dynamics problems relevant to aerospace engineering. Instruction on the end-to-end workflow, including geometry definition, grid generation, solver selection, solver execution, and solution analysis, with emphasis on ensuring solution accuracy through verification and validation. Students will be given access to CFD codes and will predict the aerodynamic behavior of several different flow configurations; both low-speed and high-speed applications will be examined.",
+      []
+    ],
+    "AE 461": [
+      "Structures & Control Lab",
+      {
+        "AB1": [
+          "54459",
+          [
+            [
+              45,
+              "M",
+              "TBA",
+              0,
+              [
+                "Chasiotis, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          10,
+          0,
+          [],
+          -1
+        ],
+        "AB2": [
+          "65708",
+          [
+            [
+              46,
+              "T",
+              "TBA",
+              0,
+              [
+                "Chasiotis, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          10,
+          0,
+          [],
+          -1
+        ],
+        "AB3": [
+          "65709",
+          [
+            [
+              45,
+              "W",
+              "TBA",
+              0,
+              [
+                "Chasiotis, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          10,
+          0,
+          [],
+          -1
+        ],
+        "AB4": [
+          "65710",
+          [
+            [
+              47,
+              "W",
+              "TBA",
+              0,
+              [
+                "Chasiotis, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          10,
+          0,
+          [],
+          -1
+        ],
+        "AB5": [
+          "65711",
+          [
+            [
+              48,
+              "W",
+              "TBA",
+              0,
+              [
+                "Chasiotis, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          10,
+          0,
+          [],
+          -1
+        ],
+        "AB6": [
+          "65712",
+          [
+            [
+              46,
+              "R",
+              "TBA",
+              0,
+              [
+                "Chasiotis, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          10,
+          0,
+          [],
+          -1
+        ],
+        "AB7": [
+          "65713",
+          [
+            [
+              49,
+              "R",
+              "TBA",
+              0,
+              [
+                "Chasiotis, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          10,
+          0,
+          [],
+          -1
+        ],
+        "AB8": [
+          "66000",
+          [
+            [
+              49,
+              "T",
+              "TBA",
+              0,
+              [
+                "Chasiotis, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          10,
+          0,
+          [],
+          -1
+        ],
+        "AB9": [
+          "76169",
+          [
+            [
+              49,
+              "M",
+              "TBA",
+              0,
+              [
+                "Chasiotis, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          10,
+          0,
+          [],
+          -1
+        ],
+        "ABA": [
+          "76170",
+          [
+            [
+              45,
+              "T",
+              "TBA",
+              0,
+              [
+                "Chasiotis, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          10,
+          0,
+          [],
+          -1
+        ],
+        "ABB": [
+          "77356",
+          [
+            [
+              45,
+              "R",
+              "TBA",
+              0,
+              [
+                "Chasiotis, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          10,
+          0,
+          [],
+          -1
+        ],
+        "AS1": [
+          "54458",
+          [
+            [
+              7,
+              "TR",
+              "2035 Campus Instructional Facility",
+              15,
+              [
+                "Chasiotis, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Theory and application of experimental techniques in aerospace engineering with emphasis on structural mechanics, vibrations, dynamics, and control systems.",
+      []
+    ],
+    "AE 482": [
+      "Introduction to Robotics",
+      {
+        "AB1": [
+          "65307",
+          [
+            [
+              41,
+              "T",
+              "3071 Electrical & Computer Eng Bldg",
+              26,
+              [
+                "Belabbas, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          10,
+          0,
+          [],
+          -1
+        ],
+        "AB2": [
+          "65308",
+          [
+            [
+              41,
+              "R",
+              "3071 Electrical & Computer Eng Bldg",
+              26,
+              [
+                "Belabbas, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          10,
+          0,
+          [],
+          -1
+        ],
+        "AB3": [
+          "65309",
+          [
+            [
+              37,
+              "T",
+              "3071 Electrical & Computer Eng Bldg",
+              26,
+              [
+                "Belabbas, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          10,
+          0,
+          [],
+          -1
+        ],
+        "AB4": [
+          "65310",
+          [
+            [
+              37,
+              "R",
+              "3071 Electrical & Computer Eng Bldg",
+              26,
+              [
+                "Belabbas, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          10,
+          0,
+          [],
+          -1
+        ],
+        "AB5": [
+          "65311",
+          [
+            [
+              41,
+              "M",
+              "3071 Electrical & Computer Eng Bldg",
+              26,
+              [
+                "Belabbas, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          10,
+          0,
+          [],
+          -1
+        ],
+        "AB6": [
+          "68178",
+          [
+            [
+              50,
+              "T",
+              "3071 Electrical & Computer Eng Bldg",
+              26,
+              [
+                "Belabbas, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          10,
+          0,
+          [],
+          -1
+        ],
+        "AB7": [
+          "68181",
+          [
+            [
+              50,
+              "R",
+              "3071 Electrical & Computer Eng Bldg",
+              26,
+              [
+                "Belabbas, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          10,
+          0,
+          [],
+          -1
+        ],
+        "AL": [
+          "65306",
+          [
+            [
+              9,
+              "TR",
+              "1013 Electrical & Computer Eng Bldg",
+              26,
+              [
+                "Belabbas, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "59725",
+          [
+            [
+              9,
+              "TR",
+              "TBA",
+              0,
+              [
+                "Belabbas, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as ECE 470 and ME 445. See ECE 470.",
+      []
+    ],
+    "AE 484": [
+      "UAV Performance, Design, and Fabrication",
+      {
+        "A": [
+          "72384",
+          [
+            [
+              7,
+              "MWF",
+              "106B6 Engineering Hall",
+              27,
+              [
+                "Merret, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "This course will cover topics necessary to design, fabricate, and evaluate the performance of unmanned aerial vehicles (UAVs). After a brief introduction to UAVs, an overview will be given of aerodynamics, stability/control, propulsion, aircraft performance, UAV hardware, manufacturing methods, and computational tools needed to fabricate unmanned aerial vehicles. An emphasis of the course will be on aircraft fabrication techniques (welding, composites, turning, milling, joining, additive manufacturing, etc.) culminating in the construction of the final design project.",
+      []
+    ],
+    "AE 497": [
+      "Independent Study",
+      {
+        "10019": [
+          "10019",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Independent theoretical and experimental projects in aerospace engineering.",
+      []
+    ],
+    "AE 498": [
+      "Special Topics",
+      {
+        "AG": [
+          "57632",
+          [
+            [
+              27,
+              "MW",
+              "203 Transportation Building",
+              5,
+              [
+                "Wroblewski, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "S2": [
+          "67976",
+          [
+            [
+              9,
+              "TR",
+              "1035 Campus Instructional Facility",
+              15,
+              [
+                "Ning, X"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "SSO": [
+          "39826",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Eggl, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "SSP": [
+          "64116",
+          [
+            [
+              51,
+              "TR",
+              "106B6 Engineering Hall",
+              27,
+              [
+                "Eggl, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Subject offerings of new and developing areas of knowledge in aerospace engineering intended to augment the existing curriculum. See Class Schedule or department course information for topics and prerequisite.",
+      []
+    ],
+    "AE 508": [
+      "Optimal Space Trajectories",
+      {
+        "A": [
+          "30029",
+          [
+            [
+              10,
+              "MW",
+              "3117 Everitt Laboratory",
+              11,
+              [
+                "Wijayatunga, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "64155",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Wijayatunga, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Optimal rocket trajectories in inverse-square and linearized gravitational fields; orbital transfer, intercept, and rendezvous; high-thrust (impulsive) and low-thrust (continuous) trajectories; primer vector theory and applications; cooperative rendezvous.",
+      []
+    ],
+    "AE 510": [
+      "Advanced Gas Dynamics",
+      {
+        "AGD": [
+          "65266",
+          [
+            [
+              43,
+              "TR",
+              "2200 Sidney Lu Mech Engr Bldg",
+              10,
+              [
+                "Andrienko, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "67991",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Andrienko, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      null,
+      []
+    ],
+    "AE 514": [
+      "Boundary Layer Theory",
+      {
+        "A": [
+          "30031",
+          [
+            [
+              52,
+              "MWF",
+              "106B3 Engineering Hall",
+              27,
+              [
+                "Villafane Roca, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "62443",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Villafane Roca, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Boundary layer concept at high Reynolds numbers; self-similar solutions of incompressible and compressible boundary layers; stability of parallel and nearly-parallel wall-bounded viscous flows; transition to turbulence; turbulent boundary layers; high-speed boundary layers; strong Reynolds analogy; Morkovin's hypothesis.",
+      []
+    ],
+    "AE 515": [
+      "Wing Theory",
+      {
+        "A": [
+          "39828",
+          [
+            [
+              5,
+              "MWF",
+              "3018 Campus Instructional Facility",
+              15,
+              [
+                "Ansell, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "62444",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Ansell, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Theoretical analysis of the aerodynamic characteristics of two- and three-dimensional wings and multiple-body systems in subsonic and supersonic flows.",
+      []
+    ],
+    "AE 527": [
+      "Multi-Scale Modeling of Materials",
+      {
+        "B": [
+          "65604",
+          [
+            [
+              32,
+              "TR",
+              "403B2 Engineering Hall",
+              27,
+              [
+                "Chew, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "This course introduces the theoretical foundation of multi-scale methods, and provides students with hands-on modeling and simulation experience. Students will be introduced to a variety of modeling techniques covering the full spectrum of length-scales from atomistics to continuum. The emphasis will be in the use of continuum-based concepts, such as the Principle of Virtual Work and conservation integrals, as bridging techniques to link atomistics and the continuum. The goal is to enable interpretation of material phenomena across different length-scales. Prerequisite: TAM 451, AE 420, and CSE 401, or equivalent.",
+      []
+    ],
+    "AE 538": [
+      "Combustion Fundamentals",
+      {
+        "A": [
+          "30049",
+          [
+            [
+              53,
+              "TR",
+              "2051 Sidney Lu Mech Engr Bldg",
+              10,
+              [
+                "Glumac, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "68134",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Glumac, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      null,
+      []
+    ],
+    "AE 543": [
+      "Aerospace Syst Engineering II",
+      {
+        "AS2": [
+          "58432",
+          [
+            [
+              27,
+              "TR",
+              "106B1 Engineering Hall",
+              27,
+              [
+                "Elving, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "62541",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Elving, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Fundamental aerospace industry methods for control of an engineering development effort of a complex aerospace system typical in development of spacecraft, launch vehicles, aircraft, remotely controlled vehicles, and associated supporting infrastructure system in current acquisition environments. Standards and techniques to control risk, integration of technologies, and exploration of \"design-to\" process tailoring and systematically make design decisions.",
+      []
+    ],
+    "AE 551": [
+      "Elastodynamics and Vibrations",
+      {
+        "B": [
+          "74783",
+          [
+            [
+              39,
+              "MW",
+              "2101 Everitt Laboratory",
+              11,
+              [
+                "Vakakis, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "74787",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Vakakis, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      null,
+      []
+    ],
+    "AE 560": [
+      "Fracture Mechanics Laboratory",
+      {
+        "A": [
+          "52687",
+          [
+            [
+              13,
+              "TR",
+              "4039 Campus Instructional Facility",
+              15,
+              [
+                "Lambros, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Experimental and physical aspects of fracture mechanics including elastic crack tip stress field, thermoelasticity, thermoplasticity, optical techniques, J-integral, toughening mechanisms, dynamic fracture, and fatigue. Laboratory experiments illustrate concepts.",
+      []
+    ],
+    "AE 590": [
+      "Seminar",
+      {
+        "A": [
+          "30062",
+          [
+            [
+              33,
+              "M",
+              "2035 Campus Instructional Facility",
+              15,
+              [
+                "Reifsteck, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "AO": [
+          "69196",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Reifsteck, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "62385",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Reifsteck, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Presentation by graduate students, staff, and guest lecturers of current topics in aerospace engineering.",
+      []
+    ],
+    "AE 597": [
+      "Independent Study",
+      {
+        "10021": [
+          "10021",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Independent theoretical and experimental projects in aerospace engineering.",
+      []
+    ],
+    "AE 598": [
+      "Special Topics",
+      {
+        "AAO": [
+          "56934",
+          [
+            [
+              11,
+              "TR",
+              "410B1 Engineering Hall",
+              27,
+              [
+                "Ornik, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AOL": [
+          "69582",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Ornik, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "EDO": [
+          "57625",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Tsukamoto, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "EDS": [
+          "46225",
+          [
+            [
+              10,
+              "TR",
+              "313 Mumford Hall",
+              19,
+              [
+                "Tsukamoto, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "HTM": [
+          "60837",
+          [
+            [
+              13,
+              "TR",
+              "106B6 Engineering Hall",
+              27,
+              [
+                "Panerai, F"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "HTO": [
+          "66279",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Panerai, F"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "LOD": [
+          "66378",
+          [
+            [
+              54,
+              "TR",
+              "162 Education Building",
+              28,
+              [
+                "Kearney, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "LOO": [
+          "52688",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Kearney, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Subject offerings of new and developing areas of knowledge in aerospace engineering intended to augment existing formal courses. Topics and prerequisites vary for each section. See Class Schedule or departmental course information for both.",
+      []
     ]
   },
   "caches": {
@@ -806,7 +2664,18 @@
       "1800 - 2050",
       "0900 - 1050",
       "1100 - 1250",
-      "1000 - 1150"
+      "1000 - 1150",
+      "1100 - 1215",
+      "0800 - 0959",
+      "1530 - 1730",
+      "1500 - 1700",
+      "1700 - 1900",
+      "1730 - 1930",
+      "1600 - 1750",
+      "1530 - 1700",
+      "0830 - 0950",
+      "1500 - 1650",
+      "1230 - 1420"
     ],
     "dateRanges": [],
     "scheduleTypes": [
@@ -932,6 +2801,18 @@
       {
         "lat": 40.11380515934119,
         "long": -88.22490788390387
+      },
+      {
+        "lat": 40.1149296,
+        "long": -88.2280589
+      },
+      {
+        "lat": 40.1108856,
+        "long": -88.2269806
+      },
+      {
+        "lat": 40.1020773,
+        "long": -88.2296394
       }
     ],
     "finalDates": [],
