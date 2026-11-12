@@ -1,7 +1,7 @@
 {
   "subject": "BADM",
-  "scrapedAt": 1794503145595,
-  "courseCount": 66,
+  "scrapedAt": 1794503175729,
+  "courseCount": 99,
   "courses": {
     "BADM 199": [
       "Undergraduate Open Seminar",
@@ -3551,6 +3551,1580 @@
       [],
       "Introduces concepts useful in understanding marketing systems and buyer behavior in addition to developing skills in making marketing decisions; the orientation is primarily managerial and uses examples from both business and non-business contexts.",
       []
+    ],
+    "BADM 526": [
+      "Consumer Analytics: Theory and Practice",
+      {
+        "A": [
+          "76803",
+          [
+            [
+              1,
+              "TR",
+              "3041 Business Instructional Fac",
+              36,
+              [
+                "Bao, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "77377",
+          [
+            [
+              0,
+              "TR",
+              "2001 Business Instructional Fac",
+              36,
+              [
+                "Bao, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Reviews the science side of marketing by studying multiple models used by companies and consulting firms in the different steps of the marketing process. The marketing consulting approach provides a deeper understanding of the process that supports marketing management decisions. To enhance the learning experience, the course will be strongly based on software applications that offer hands-on exposure to real life corporate applications. Students need to have basic knowledge of R or Python.",
+      []
+    ],
+    "BADM 523": [
+      "Consumer Behavior 4.0: Digital Transformation in Consumer Behavior",
+      {
+        "A": [
+          "31300",
+          [
+            [
+              14,
+              "MW",
+              "3039 Business Instructional Fac",
+              36,
+              [
+                "Lim, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "In the digital era, consumers' decisions are profoundly influenced by evolving digital technology. This course offers a comprehensive understanding of how consumer decisions are affected by technological advancements and Artificial Intelligence (AI). Through a blend of case studies, hands-on projects, and discussions; students will apply psychological frameworks to real-world scenarios and acquire the knowledge and skills to adeptly navigate the complexities of consumer behavior in the digital age.",
+      []
+    ],
+    "BADM 525": [
+      "New Product Development",
+      {
+        "A": [
+          "31413",
+          [
+            [
+              43,
+              "M",
+              "243 Wohlers Hall",
+              8,
+              [
+                "Noel, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "The decisions on the firm's total market offer, including such topics as use of market analysis in making decisions on assortment, product development, pricing, packaging, branding, and sales forecasting; coordination of these decisions and actions with market communications, physical movement, production, finance, and the overall goals and policies of the firm; and emphasizes the use of analytic and research methods in making assortment and product decisions.",
+      []
+    ],
+    "BADM 528": [
+      "Promotional Strategy",
+      {
+        "A": [
+          "39049",
+          [
+            [
+              43,
+              "M",
+              "2007 Business Instructional Fac",
+              36,
+              [
+                "Raquel, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Management orientation to promotional strategy for the medium and large size organization: includes analyses of the primary elements of the promotional function from both qualitative and quantitative perspectives emphasizing such factors as (1) selection among alternative promotional tools, (2) the promotional budgeting and allocation process, and (3) determination of appropriate messages and media schedules for given product/market situations. Explores widely used models in depth for strategic usefulness; emphasizes case analysis and contemporary situations.",
+      []
+    ],
+    "BADM 527": [
+      "Brand Management",
+      {
+        "A": [
+          "75577",
+          [
+            [
+              43,
+              "T",
+              "3057 Business Instructional Fac",
+              36,
+              [
+                "Smith, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Brand Management addresses the key issues of brand asset management faced by firms in the 21st century. Class discussions will focus on providing theoretical tools for uncovering and understanding the associations that consumers establish with their brands, for predicting the effects of these associations on brand-related judgments and behaviors, and for devising strategies for building strong brands.",
+      []
+    ],
+    "BADM 534": [
+      "Data Analytics for Marketing Applications",
+      {
+        "A": [
+          "77732",
+          [
+            [
+              43,
+              "W",
+              "243 Wohlers Hall",
+              8,
+              [
+                "Yang, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduces the core principles and real-world applications of marketing analytics. Topics include data acquisition, visualization, text analysis, predictive modeling, machine learning, and causal analysis. Emphasizing practical experience, students will explore areas like retailing, social media, digital platforms, and data privacy while working on “mini cases” using tools like R and python. Designed to address the complexities of modern, data-driven marketing, this course equips students with the skills needed for today’s dynamic technology landscape.",
+      []
+    ],
+    "BADM 538": [
+      "Res Sem in Consumer Behavior",
+      {
+        "A": [
+          "46203",
+          [
+            [
+              35,
+              "T",
+              "ARR Business Instructional Fac",
+              0,
+              [
+                "Xu, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Advanced doctoral level seminar which critically examines the relevance of behavioral and social constructs for generating consumer behavior theories. It specifically discusses the need for, and procedures with which to modify behavioral/social processes.",
+      []
+    ],
+    "BADM 543": [
+      "Technology Strategy",
+      {
+        "MT1": [
+          "46206",
+          [
+            [
+              24,
+              "TR",
+              "2020 Wymer Hall",
+              0,
+              [
+                "Roach, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "MT2": [
+          "57151",
+          [
+            [
+              0,
+              "TR",
+              "2020 Wymer Hall",
+              0,
+              [
+                "Roach, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Technological change is a fundamental challenge and opportunity for business leaders in the modern economy. This course deals with concepts and analytical frameworks for strategizing and managing in an environment of technological upheaval and constant innovation. Broadly, students are exposed to ideas about how firms create value through new technologies, and how they in turn capture some of that value to make profits. Specific topics include sources and patterns of innovation, business models, first mover advantages, barriers to imitation, technology commercialization modes, network effects and standards competition, creative destruction and technological disruption, alliances and collaboration, and strategic renewal. The course aims to impart the strategic toolkits and skills required to manage dynamic technology-intensive businesses.",
+      []
+    ],
+    "BADM 541": [
+      "Foundations of Strategic Management",
+      {
+        "A": [
+          "74220",
+          [
+            [
+              14,
+              "TR",
+              "3007 Business Instructional Fac",
+              36,
+              [
+                "Kim, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Addresses conceptual issues and theoretical perspectives for analyzing strategic behavior within and between firms: The course draws from prominent theories of strategic management, such as game theory, transaction-costs theory, and dynamic resource-based theory. Through lectures, case analyses, and simulation games, students learn to apply theoretical frameworks to a broad array of strategic problems, including diversification, M&A, strategic alliances, dynamic capabilities, incentives, organizational structure, culture, and strategic decision-making.",
+      []
+    ],
+    "BADM 544": [
+      "Strategic Management",
+      {
+        "IMB": [
+          "70208",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Corredor Waldron, S",
+                "Somaya, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "MM2": [
+          "31417",
+          [
+            [
+              0,
+              "MW",
+              "3039 Business Instructional Fac",
+              36,
+              [
+                "Corredor Waldron, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "70209",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Corredor Waldron, S",
+                "Somaya, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "An integrative examination of executive-level decisions and policies that drive company survival and performance. Combines theoretical and practical learning through strategic management tools, frameworks, examples and case studies. Provides a top management view of companies and organizations that is essential learning for any leader.",
+      []
+    ],
+    "BADM 549": [
+      "Current Strategy Research",
+      {
+        "C": [
+          "31419",
+          [
+            [
+              35,
+              "R",
+              "TBA",
+              0,
+              [
+                "Mahoney, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Seminar on current theoretical and empirical research relating to emerging areas of knowledge in the strategic management field. Reflecting the emphasis of current research on strategic and organizational phenomena, topics vary from year to year.",
+      []
+    ],
+    "BADM 550": [
+      "Business Practicum",
+      {
+        "AN1": [
+          "71779",
+          [
+            [
+              82,
+              "M",
+              "3041 Business Instructional Fac",
+              36,
+              [
+                "Khandelwal, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "AN2": [
+          "77731",
+          [
+            [
+              82,
+              "T",
+              "3041 Business Instructional Fac",
+              36,
+              [
+                "Khandelwal, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "AN3": [
+          "73213",
+          [
+            [
+              82,
+              "W",
+              "3041 Business Instructional Fac",
+              36,
+              [
+                "Khandelwal, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "MM1": [
+          "65329",
+          [
+            [
+              1,
+              "MW",
+              "3057 Business Instructional Fac",
+              36,
+              [
+                "Kurtz, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "MM2": [
+          "65338",
+          [
+            [
+              14,
+              "MW",
+              "3057 Business Instructional Fac",
+              36,
+              [
+                "Kurtz, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Provides a unique opportunity to apply student's classroom knowledge, their skills and experiences in a real world setting. Each student should expect the experience to be as close to working in a business environment as the academic environment allows. Each team of students will work in a collaborative relationship with real businesses and organizations to solve real problems by developing implementable solutions. The instructor's expectation is that each student will provide professional quality work.",
+      []
+    ],
+    "BADM 554": [
+      "Enterprise Database Management",
+      {
+        "C": [
+          "39075",
+          [
+            [
+              43,
+              "M",
+              "2020 Wymer Hall",
+              0,
+              [
+                "Sachdev, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Databases are important because they play a critical role in today's business environment. Almost all modern organizations use database technologies to store and manage data in every functional area of business including its operations, finance, accounting, and marketing. By understanding data modeling and being able to query databases, you possess one of the most marketable skills to help a business better manage their data and discover new opportunities through better analytics. At the end of this course you will be able to (a) Understand and help articulate the data needs of the company (requirement analysis), (b) Conceptually model the relationship of the data (data modeling), (c) Query databases to meet business requirements, (d) Understand the principles of design of data warehouses, (e) Understand the alternatives to relational databases (no SQL) with reference to storing Big Data, and (f) Explain the benefits of distributed databases",
+      []
+    ],
+    "BADM 555": [
+      "Info Sys Development and Mgt",
+      {
+        "A": [
+          "59981",
+          [
+            [
+              43,
+              "W",
+              "240 Wohlers Hall",
+              8,
+              [
+                "Haran, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Addresses issues relevant to the development of large-scale information systems including systems concepts and thinking, systems development life cycle, objectives, methodology and deliverables in each phase, behavioral implications of systems development and integration information systems with business processes.",
+      []
+    ],
+    "BADM 557": [
+      "Topics in Business Intelligence",
+      {
+        "AN": [
+          "31422",
+          [
+            [
+              1,
+              "MW",
+              "2020 Wymer Hall",
+              0,
+              [
+                "Khandelwal, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "MT1": [
+          "76167",
+          [
+            [
+              24,
+              "MW",
+              "2020 Wymer Hall",
+              0,
+              [
+                "Ahsen, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "MT2": [
+          "76168",
+          [
+            [
+              0,
+              "MW",
+              "2020 Wymer Hall",
+              0,
+              [
+                "Ahsen, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "In recent years, an increasing number of companies, large and small, have begun to utilize big data and associated analytics methods to gain information and support their decision-making. This course will introduce students to the basic principles and technology foundations of data mining, focusing on business applications of machine learning. Different topics such as different algorithms and software may be covered in different semesters.",
+      []
+    ],
+    "BADM 558": [
+      "Big Data Infrastructures",
+      {
+        "BAI": [
+          "78711",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Khandelwal, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "E": [
+          "77276",
+          [
+            [
+              43,
+              "T",
+              "2020 Wymer Hall",
+              0,
+              [
+                "An, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "F": [
+          "74156",
+          [
+            [
+              43,
+              "R",
+              "2020 Wymer Hall",
+              0,
+              [
+                "An, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Provides students a thorough understanding of the fundamentals of big data platforms and technologies, data engineering, data analytics and algorithms for both operational and analytical use cases. Experimenting end to end pipelines on cloud platforms from data collection to presenting data driven insights for a nontechnical audience. Students will have the opportunity to understand both relational, analytical databases and NoSQL databases on the cloud as well as on premise from real-life datasets while leveraging programmatic or configuration driven data pipelines.",
+      []
+    ],
+    "BADM 566": [
+      "Supply Chain Management",
+      {
+        "A": [
+          "31433",
+          [
+            [
+              43,
+              "W",
+              "2020 Wymer Hall",
+              0,
+              [
+                "Seshadri, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Focuses on how to manage flows of products and services from raw material sources to final customers and associate flows of information. Helps students to develop a system view of measuring channel performance, integrating cross-functional activities, and coordinating processes across organizations.",
+      []
+    ],
+    "BADM 561": [
+      "Revenue Management",
+      {
+        "A": [
+          "74249",
+          [
+            [
+              24,
+              "MW",
+              "3039 Business Instructional Fac",
+              36,
+              [
+                "Seshadri, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Focuses on how a firm should set and update pricing and product availability decisions across various selling channels in order to maximize its profitability. The adoption of revenue management systems has transformed the transportation and hospitality industries, and is increasingly important in retail, telecommunications, entertainment, financial services, health care and manufacturing. Through a combination of case studies, hands-on exercises and lectures, the course will review the main methodologies that are used in these industries and survey current and emerging practices.",
+      []
+    ],
+    "BADM 567": [
+      "Operations Management",
+      {
+        "IMB": [
+          "70210",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Anand, G",
+                "Mukherjee, U"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "70211",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Anand, G",
+                "Mukherjee, U"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Operations Management (OM) is the design and execution of systems for the development, production, and distribution of goods and services. OM includes decisions for choosing production technologies, designing processes, creating demand forecasts, managing inventories, selecting suppliers, and ensuring quality. This course focuses on conceptual foundations and fundamental analytical approaches for OM.",
+      []
+    ],
+    "BADM 572": [
+      "Stat for Mgt Decision Making",
+      {
+        "IMB": [
+          "67766",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Dolgopolov, V",
+                "Pant, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "67767",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Dolgopolov, V",
+                "Pant, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "The application of classical and modern statistics for business decision making. The level of the course assumes some prior knowledge of basic statistics as well as facility with elementary calculus.",
+      []
+    ],
+    "BADM 569": [
+      "Res Topics in Operations Mgt",
+      {
+        "B": [
+          "70108",
+          [
+            [
+              35,
+              "W",
+              "104 Irwin Doctoral Hall",
+              0,
+              [
+                "Gao, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Current and classical literature in the area of Operations Management. The topics covered may vary from year to year and may include performance measures, inventory management, planning, scheduling, location, layout, product design, process design, and forecasting.",
+      []
+    ],
+    "BADM 573": [
+      "Decision Analytics",
+      {
+        "B": [
+          "46207",
+          [
+            [
+              43,
+              "T",
+              "3039 Business Instructional Fac",
+              36,
+              [
+                "Kwon, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to analytical approaches to decision making using statistical, probabilistic, and quantitative methods based on data and judgment. This course focuses on understanding of the decision analytic framework and applying practical hands-on skills and tools to business decisions under uncertainty.",
+      []
+    ],
+    "BADM 575": [
+      "Supply Chain Analytics",
+      {
+        "A": [
+          "70097",
+          [
+            [
+              43,
+              "M",
+              "240 Wohlers Hall",
+              8,
+              [
+                "Mukherjee, U"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "The objective of the course is to introduce students to using data analytics for improving decision making in supply chains. With Globalization and digitization of supply chains a large volume of data is getting generated within supply chains. Being able to use the information in the data to improve supply chain functioning is critical to success for many organizations. In this course, students are introduced to data analytic methods such as statistical modeling and machine learning methods for organization, and analysis of large volume of different kind of data that relate to specific aspects of managing and organizing supply chain. This course follows a project based practical learning approach. The course is divided into several modules and students are required to analyze and present data and inferences with respect to these modules.",
+      []
+    ],
+    "BADM 576": [
+      "Data Science and Analytics",
+      {
+        "A": [
+          "71780",
+          [
+            [
+              43,
+              "W",
+              "3041 Business Instructional Fac",
+              36,
+              [
+                "Ivanov, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "In this course, you will learn not only data analytic techniques but also the managerial implications of competing with analytics. You will understand the managerial challenges of using data analytics to develop a strategic advantage through readings and case studies. You will learn techniques such as statistical inference, linear modeling, sentiment analytics, and data mining through hands-on exercises in R. R is an open source language that has grown in importance and usage in corporations. Finally, you will be able to present and interpret data through an understanding of data visualization techniques.",
+      []
+    ],
+    "BADM 578": [
+      "Human-Centered Design/Design Thinking/User Experience Design",
+      {
+        "A": [
+          "77733",
+          [
+            [
+              14,
+              "TR",
+              "1000 Siebel Center for Design",
+              37,
+              [
+                "Haran, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Designed to introduce students to the principles and practices of Design Thinking/Human-Centered Design (HCD). Students will learn how to empathize with users, define problem spaces, ideate creative solutions, prototype designs, and conduct user testing.",
+      []
+    ],
+    "BADM 582": [
+      "Multinational Management",
+      {
+        "A": [
+          "44146",
+          [
+            [
+              35,
+              "T",
+              "3041 Business Instructional Fac",
+              36,
+              [
+                "Feng, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Examines critical issues facing managers who work in multinational firms. Designed to develop students' skills for working in a global business environment. Topics include foreign market entry strategies, global management of the functional areas of business, and management and control of multinational firms in the global marketplace.",
+      []
+    ],
+    "BADM 584": [
+      "Global Marketing",
+      {
+        "A": [
+          "55579",
+          [
+            [
+              35,
+              "R",
+              "3041 Business Instructional Fac",
+              36,
+              [
+                "Euh, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Examines how globalization and culture shape consumer perceptions and brand meaning across markets. Focuses on how firms build, position, and manage global brands in culturally diverse environments. Develops strategies for creating and sustaining global brand equity across international markets.",
+      []
+    ],
+    "BADM 588": [
+      "Business Practice Immersion",
+      {
+        "C": [
+          "70469",
+          [
+            [
+              4,
+              "",
+              "TBA",
+              0,
+              [
+                "Kim, J",
+                "Sachdev, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "This course is designed to gain problem solving skills by working on a real project in a company. The project must have measurable goals. The course helps students gain valuable first hand experience in dealing with an organization, interacting with people, learning how different functions in an organization work, and refining time management and communication skills.",
+      []
+    ],
+    "BADM 589": [
+      "Project Management",
+      {
+        "IMB": [
+          "72554",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Baddam, S",
+                "Kirci, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "MM": [
+          "57154",
+          [
+            [
+              0,
+              "MW",
+              "3039 Business Instructional Fac",
+              36,
+              [
+                "Kirci, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "MT1": [
+          "60634",
+          [
+            [
+              24,
+              "TR",
+              "2020 Wymer Hall",
+              0,
+              [
+                "Kirci, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "MT2": [
+          "60643",
+          [
+            [
+              0,
+              "TR",
+              "2020 Wymer Hall",
+              0,
+              [
+                "Kirci, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "72555",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Baddam, S",
+                "Kirci, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Managing projects is a vital part of everyone's job in today's companies. This course aims to help you master the project management process. Central to this course is developing your understanding and ability to manage the technical dimensions of needs analysis, work breakdown, scheduling, resource allocation, risk management, and performance tracking and evaluation such that you can accomplish them while staying within the project's allocated time frame and cost. This course is also mindful of the sociocultural dimensions of the project management process, which include attributes of sound leadership, formation and management of impactful teams, and managing customer expectations.",
+      []
+    ],
+    "BADM 590": [
+      "Seminar in Business Admin",
+      {
+        "AAI": [
+          "50057",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Sachdev, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "IB2": [
+          "57696",
+          [
+            [
+              35,
+              "M",
+              "ARR Business Instructional Fac",
+              0,
+              [
+                "Clougherty, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "QAD": [
+          "60955",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Ghoshal, A",
+                "Yang, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "QFA": [
+          "51352",
+          [
+            [
+              24,
+              "TR",
+              "2011 Business Instructional Fac",
+              36,
+              [
+                "Subramanyam, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "SIB": [
+          "46486",
+          [
+            [
+              83,
+              "M",
+              "104 Irwin Doctoral Hall",
+              0,
+              [
+                "Yao, F"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Special topics in the general area of business. Topics are selected by the instructor at the beginning of each term.",
+      []
+    ],
+    "BADM 591": [
+      "Proseminar in Business Admin",
+      {
+        "IOM": [
+          "55167",
+          [
+            [
+              0,
+              "F",
+              "2043 Business Instructional Fac",
+              36,
+              [
+                "Gao, Y",
+                "Tyagi, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "MKT": [
+          "55170",
+          [
+            [
+              1,
+              "F",
+              "2043 Business Instructional Fac",
+              36,
+              [
+                "Euh, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "OB": [
+          "55163",
+          [
+            [
+              24,
+              "F",
+              "2043 Business Instructional Fac",
+              36,
+              [
+                "Takeda, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "SIB": [
+          "55169",
+          [
+            [
+              14,
+              "F",
+              "2043 Business Instructional Fac",
+              36,
+              [
+                "Chung, D",
+                "Minefee, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "TES": [
+          "61237",
+          [
+            [
+              13,
+              "F",
+              "2043 Business Instructional Fac",
+              36,
+              [
+                "Roach, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Lectures in topics of current interest not covered by regular course offerings. Subjects are announced in the Class Schedule.",
+      []
+    ],
+    "BADM 593": [
+      "Research in Special Fields",
+      {
+        "10404": [
+          "10404",
+          [
+            [
+              4,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Approved for both letter and S/U grading.",
+      []
+    ],
+    "BADM 594": [
+      "Independent Study and Research",
+      {
+        "10405": [
+          "10405",
+          [
+            [
+              4,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Directed reading and research.",
+      []
     ]
   },
   "caches": {
@@ -3636,7 +5210,9 @@
       "1730 - 1900",
       "1000 - 1130",
       "0930 - 1020",
-      "1830 - 2030"
+      "1830 - 2030",
+      "1830 - 2020",
+      "1630 - 1750"
     ],
     "dateRanges": [],
     "scheduleTypes": [
