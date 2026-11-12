@@ -3,12 +3,212 @@
   "termName": "Winter 2026-2027",
   "year": "2027",
   "term": "winter",
-  "startedAt": 1791781983866,
-  "lastUpdated": 1791782822546,
+  "startedAt": 1794504652693,
+  "lastUpdated": 1794504660381,
   "totalSubjects": 0,
   "totalCourses": 0,
-  "subjects": [],
-  "subjectCourseLists": {},
+  "subjects": [
+    "ADV",
+    "AFAS",
+    "ANTH",
+    "ASTR",
+    "ATMS",
+    "BADM",
+    "CLCV",
+    "CMN",
+    "DANC",
+    "ESE",
+    "ECON",
+    "ENGL",
+    "GWS",
+    "GEOL",
+    "GLBL",
+    "HK",
+    "HIST",
+    "IS",
+    "JS",
+    "JOUR",
+    "LA",
+    "MACS",
+    "MUS",
+    "NS",
+    "PHIL",
+    "PS",
+    "PSYC",
+    "REL",
+    "SOC",
+    "SPAN"
+  ],
+  "subjectCourseLists": {
+    "ADV": [
+      {
+        "subject": "ADV",
+        "number": "150"
+      },
+      {
+        "subject": "ADV",
+        "number": "175"
+      }
+    ],
+    "AFAS": [
+      {
+        "subject": "AFAS",
+        "number": "120"
+      }
+    ],
+    "ANTH": [
+      {
+        "subject": "ANTH",
+        "number": "103"
+      },
+      {
+        "subject": "ANTH",
+        "number": "246"
+      }
+    ],
+    "ASTR": [
+      {
+        "subject": "ASTR",
+        "number": "100"
+      },
+      {
+        "subject": "ASTR",
+        "number": "330"
+      }
+    ],
+    "ATMS": [
+      {
+        "subject": "ATMS",
+        "number": "120"
+      }
+    ],
+    "BADM": [
+      {
+        "subject": "BADM",
+        "number": "275"
+      },
+      {
+        "subject": "BADM",
+        "number": "300"
+      },
+      {
+        "subject": "BADM",
+        "number": "310"
+      },
+      {
+        "subject": "BADM",
+        "number": "320"
+      },
+      {
+        "subject": "BADM",
+        "number": "380"
+      }
+    ],
+    "CLCV": [
+      {
+        "subject": "CLCV",
+        "number": "102"
+      },
+      {
+        "subject": "CLCV",
+        "number": "114"
+      },
+      {
+        "subject": "CLCV",
+        "number": "115"
+      },
+      {
+        "subject": "CLCV",
+        "number": "231"
+      }
+    ],
+    "CMN": [
+      {
+        "subject": "CMN",
+        "number": "210"
+      }
+    ],
+    "DANC": [
+      {
+        "subject": "DANC",
+        "number": "100"
+      }
+    ],
+    "ESE": [
+      {
+        "subject": "ESE",
+        "number": "117"
+      },
+      {
+        "subject": "ESE",
+        "number": "118"
+      },
+      {
+        "subject": "ESE",
+        "number": "120"
+      },
+      {
+        "subject": "ESE",
+        "number": "360"
+      }
+    ],
+    "ECON": [
+      {
+        "subject": "ECON",
+        "number": "102"
+      },
+      {
+        "subject": "ECON",
+        "number": "103"
+      }
+    ],
+    "ENGL": [
+      {
+        "subject": "ENGL",
+        "number": "360"
+      }
+    ],
+    "GWS": [
+      {
+        "subject": "GWS",
+        "number": "356"
+      }
+    ],
+    "GEOL": [
+      {
+        "subject": "GEOL",
+        "number": "117"
+      },
+      {
+        "subject": "GEOL",
+        "number": "118"
+      }
+    ],
+    "GLBL": [
+      {
+        "subject": "GLBL",
+        "number": "100"
+      },
+      {
+        "subject": "GLBL",
+        "number": "118"
+      },
+      {
+        "subject": "GLBL",
+        "number": "200"
+      }
+    ],
+    "HK": [
+      {
+        "subject": "HK",
+        "number": "271"
+      },
+      {
+        "subject": "HK",
+        "number": "302"
+      }
+    ]
+  },
   "completedSubjects": [],
   "partialSubjects": {},
   "failedSubjects": [],
