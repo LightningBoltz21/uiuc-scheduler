@@ -12,9 +12,12 @@ on:
         default: '0'
         type: string
       max_retries:
+        # Course Explorer serves ~150 pages per runner before blocking it, so a
+        # full two-term crawl takes ~31 runs. The chain must finish in one go:
+        # the next weekly run discards progress older than 5 days.
         description: 'Maximum number of retry attempts'
         required: false
-        default: '15'
+        default: '40'
         type: string
 
 permissions:
@@ -30,7 +33,7 @@ jobs:
         id: check_retry
         run: |
           RETRY_COUNT=${{ github.event.inputs.retry_count || 0 }}
-          MAX_RETRIES=${{ github.event.inputs.max_retries || 15 }}
+          MAX_RETRIES=${{ github.event.inputs.max_retries || 40 }}
 
           echo "retry_count=$RETRY_COUNT" >> $GITHUB_OUTPUT
           echo "max_retries=$MAX_RETRIES" >> $GITHUB_OUTPUT
