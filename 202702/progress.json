@@ -4,7 +4,7 @@
   "year": "2027",
   "term": "spring",
   "startedAt": 1794502755201,
-  "lastUpdated": 1794504540805,
+  "lastUpdated": 1794504600462,
   "totalSubjects": 188,
   "totalCourses": 4527,
   "subjects": [
@@ -18853,19 +18853,26 @@
     "SAME",
     "SPAN",
     "SPED",
-    "SHS"
+    "SHS",
+    "STAT",
+    "SBC",
+    "SWAH",
+    "SE",
+    "TE",
+    "TMGT",
+    "THEA"
   ],
   "partialSubjects": {
-    "STAT": {
-      "completed": 3,
-      "total": 43,
+    "TAM": {
+      "completed": 5,
+      "total": 25,
       "lastCourse": "ABORTED"
     }
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 4210,
-    "failedCourses": 24,
+    "successfulCourses": 4396,
+    "failedCourses": 25,
     "rateLimitCount": 0
   }
 }
