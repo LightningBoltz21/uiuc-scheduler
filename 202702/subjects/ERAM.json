@@ -1,74 +1,653 @@
 {
   "subject": "ERAM",
-  "scrapedAt": 1791782404897,
-  "courseCount": 8,
+  "scrapedAt": 1794503424839,
+  "courseCount": 7,
   "courses": {
-    "ERAM 565": [
-      "ERAM 565",
-      {},
+    "ERAM 511": [
+      "Introductory Qualitative Research Methods",
+      {
+        "OLA": [
+          "77779",
+          [
+            [
+              3,
+              "W",
+              "ONLINE",
+              0,
+              [
+                "Tapaha, O"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Designed to introduce qualitative methods for educational research, this course focuses on how to align research questions and theoretical explorations with grounded qualitative research. The course covers techniques such as observations, taking field notes, interviewing, and analyzing qualitative data in online and on-site spaces. Readings will cover both applied aspects of conducting qualitative research and how to position such writing in larger bodies of knowledge, taking into account voice, reflexivity, and theoretical frameworks.",
+      []
+    ],
+    "ERAM 565": [
+      "Quantitative Methods for Education Policy 1",
+      {
+        "A": [
+          "79001",
+          [
+            [
+              144,
+              "R",
+              "ONLINE",
+              0,
+              [
+                "Hinze-Pifer, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "79002",
+          [
+            [
+              144,
+              "R",
+              "ONLINE",
+              0,
+              [
+                "Hinze-Pifer, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Provides students with the fundamentals of quantitative analysis and research design. Topics include populations & sampling, measurement, foundations of statistics, and assessing correlation vs. causation. Students will complete applied data analysis activities. This is the first in a three-course sequence to develop students' capacity to conduct quantitative analysis. It integrates research methods and data wrangling to provide vertical alignment supporting the development of skills necessary for dissertation research aligned with traditions in education policy.",
       []
     ],
     "ERAM 556": [
-      "ERAM 556",
-      {},
+      "Program Evaluation",
+      {
+        "A": [
+          "72469",
+          [
+            [
+              41,
+              "M",
+              "ONLINE",
+              0,
+              [
+                "Huang, W"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "72470",
+          [
+            [
+              41,
+              "M",
+              "ONLINE",
+              0,
+              [
+                "Huang, W"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "ERAM 511": [
-      "ERAM 511",
-      {},
-      [],
-      null,
-      []
-    ],
-    "ERAM 570": [
-      "ERAM 570",
-      {},
-      [],
-      null,
+      "Examines models and methods of evaluating programs, processes, and products in broadly-defined organizations situated in various operational contexts (eg., education, business, government, NGO). Particular emphasis is given to topics of formative and summative evaluation, frameworks for program evaluation, quantitative and qualitative methods of data collection and analysis, communicating and reporting evaluation findings, and the ethics and standards of evaluation practice. The underlying philosophy of the course is that evaluation can be the catalyst for organizational learning to facilitate intended changes, especially when initiated by those in training and organization development positions.",
       []
     ],
     "ERAM 575": [
-      "ERAM 575",
-      {},
+      "Action Research and Educational Leadership",
+      {
+        "ONL": [
+          "73224",
+          [
+            [
+              3,
+              "W",
+              "ONLINE",
+              0,
+              [
+                "Roegman, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Encourages the development of an inquiry stance by enabling students to design action research projects grounded in authentic practice-based questions. The course examines action research as a vehicle for teacher and administrator growth and instructional reform. Practitioner inquiry is characterized by the careful documentation and systematic analysis of practice over time. In this class, students will ask critical questions about teaching and learning, curriculum, school management, student development, and educational change, while applying various methods of data collection and analysis, in the design of action research projects based within practitioners' school sites. This course introduces students to the foundations, purposes, and practices of action research and practitioner inquiry.",
+      []
+    ],
+    "ERAM 570": [
+      "Seminar in the History of Education",
+      {
+        "A": [
+          "78833",
+          [
+            [
+              5,
+              "M",
+              "242 Education Building",
+              26,
+              [
+                "Hale, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Intensive group study of a small number of selected problems to assist individual students to develop an understanding of and the ability to use the techniques of historical research in furthering such study; problems studied are selected in the light of the interests and previous training of the group of students enrolled.",
       []
     ],
     "ERAM 572": [
-      "ERAM 572",
-      {},
+      "Case Studies in Educational Ethics",
+      {
+        "A": [
+          "74327",
+          [
+            [
+              76,
+              "R",
+              "ONLINE",
+              0,
+              [
+                "Harless, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "74328",
+          [
+            [
+              76,
+              "R",
+              "ONLINE",
+              0,
+              [
+                "Harless, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Focuses on normative case study approaches to investigating ethical issues in K-12 and higher education. Examines ethical decisions faced by educators, administrators, and policymakers as they seek to support the advancement of students, parents, teachers, communities, and democratic society writ large. Particular attention will be given to complex ethical decisions that arise in the pursuit of educational equity and justice.",
       []
     ],
     "ERAM 576": [
-      "ERAM 576",
-      {},
+      "Discourse Analysis",
+      {
+        "A": [
+          "75554",
+          [
+            [
+              5,
+              "W",
+              "376 Education Building",
+              26,
+              [
+                "Davila, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "ERAM 582": [
-      "ERAM 582",
-      {},
-      [],
-      null,
+      "Students will gain an understanding of major theoretical and methodological approaches to doing discourse analysis in educational research (e.g., through analysis of face-to-face or online classroom talk and interaction, or published policy documents). Course assignments will provide students with opportunities to develop and apply tools for conducting research using discourse analytic methods.",
       []
     ]
   },
   "caches": {
-    "periods": [],
+    "periods": [
+      "1100 - 1220",
+      "1230 - 1350",
+      "1500 - 1620",
+      "1700 - 1950",
+      "ARRANGED",
+      "1300 - 1550",
+      "0800 - 0950",
+      "1500 - 1650",
+      "1100 - 1150",
+      "0900 - 0950",
+      "1000 - 1050",
+      "1300 - 1350",
+      "1300 - 1420",
+      "1530 - 1650",
+      "1400 - 1520",
+      "1530 - 1620",
+      "1500 - 1550",
+      "0730 - 0920",
+      "1100 - 1250",
+      "1300 - 1450",
+      "0900 - 1050",
+      "1630 - 1720",
+      "1400 - 1450",
+      "1200 - 1250",
+      "0930 - 1050",
+      "1830 - 1950",
+      "1600 - 1730",
+      "0900 - 1020",
+      "1600 - 1650",
+      "1400 - 1550",
+      "1230 - 1320",
+      "1100 - 1350",
+      "1200 - 1320",
+      "1200 - 1450",
+      "1500 - 1750",
+      "0930 - 1220",
+      "1400 - 1650",
+      "1100 - 1320",
+      "1000 - 1150",
+      "0900 - 1150",
+      "1300 - 1750",
+      "1800 - 2050",
+      "1700 - 1820",
+      "1530 - 1820",
+      "1430 - 1520",
+      "1030 - 1120",
+      "1130 - 1220",
+      "0800 - 0920",
+      "1300 - 1650",
+      "1330 - 1750",
+      "1300 - 1620",
+      "1300 - 1520",
+      "1800 - 1950",
+      "1600 - 1750",
+      "1300 - 1540",
+      "1400 - 1640",
+      "0900 - 1140",
+      "0930 - 1210",
+      "1600 - 1840",
+      "1700 - 1940",
+      "1000 - 1120",
+      "1700 - 1850",
+      "1600 - 1720",
+      "1130 - 1250",
+      "1000 - 1240",
+      "1900 - 2240",
+      "1230 - 1345",
+      "1600 - 1715",
+      "1530 - 1720",
+      "1400 - 1530",
+      "1200 - 1350",
+      "1930 - 2050",
+      "1400 - 1720",
+      "1700 - 1750",
+      "1100 - 1450",
+      "1500 - 1850",
+      "1600 - 1850",
+      "0800 - 1150",
+      "1730 - 1900",
+      "1000 - 1130",
+      "0930 - 1020",
+      "1830 - 2030",
+      "1830 - 2020",
+      "1630 - 1750",
+      "1530 - 1645",
+      "1100 - 1215",
+      "1400 - 1515",
+      "1700 - 1815",
+      "1830 - 1945",
+      "0930 - 1045",
+      "1800 - 2100",
+      "0800 - 0850",
+      "1400 - 1750",
+      "1900 - 2050",
+      "1330 - 1450",
+      "1000 - 2000",
+      "1600 - 1740",
+      "1230 - 1420",
+      "1500 - 1730",
+      "1500 - 1720",
+      "1530 - 1800",
+      "1630 - 1745",
+      "1630 - 1730",
+      "1900 - 2020",
+      "1900 - 2000",
+      "1700 - 1800",
+      "1000 - 1250",
+      "0830 - 1050",
+      "1400 - 1600",
+      "1300 - 1415",
+      "1600 - 1700",
+      "1300 - 1600",
+      "1400 - 1630",
+      "1000 - 1220",
+      "1300 - 1430",
+      "1200 - 1550",
+      "1830 - 2130",
+      "1830 - 2100",
+      "0930 - 1120",
+      "1230 - 1520",
+      "0800 - 1050",
+      "0900 - 1120",
+      "1630 - 1920",
+      "1800 - 1920",
+      "1200 - 1650",
+      "1300 - 1530",
+      "0900 - 1030",
+      "1035 - 1150",
+      "1500 - 1630",
+      "1430 - 1630",
+      "1035 - 1200",
+      "1035 - 1230",
+      "0920 - 1050",
+      "1400 - 1620",
+      "1145 - 1305",
+      "1700 - 2000",
+      "1800 - 2000",
+      "1000 - 1700",
+      "1730 - 1850",
+      "0900 - 1200",
+      "1730 - 2130",
+      "1730 - 2020",
+      "1700 - 1900",
+      "1730 - 2030",
+      "1900 - 2150"
+    ],
     "dateRanges": [],
-    "scheduleTypes": [],
+    "scheduleTypes": [
+      "Lecture-Discussion",
+      "Online",
+      "Independent Study",
+      "Seminar",
+      "Laboratory",
+      "Lecture",
+      "Discussion/Recitation",
+      "Online Lecture",
+      "Research",
+      "Internship",
+      "Travel",
+      "Packaged Section",
+      "Online Discussion",
+      "Conference",
+      "Study Abroad",
+      "Online Lab",
+      "Studio",
+      "Laboratory-Discussion",
+      "Practice",
+      "Quiz",
+      "Online Lecture-Discussion",
+      "Lecture-Discussion 02/06/27",
+      "Lecture-Discussion 01/23/27"
+    ],
     "campuses": [],
     "attributes": [],
     "restrictions": [],
     "gradeBases": [],
-    "locations": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.1035833,
+        "long": -88.228405
+      },
+      {
+        "lat": 40.0995003,
+        "long": -88.223104
+      },
+      {
+        "lat": 40.10628,
+        "long": -88.22621
+      },
+      {
+        "lat": 40.1072225,
+        "long": -88.2262016
+      },
+      {
+        "lat": 40.106778040727896,
+        "long": -88.2194617156191
+      },
+      {
+        "lat": 40.104794,
+        "long": -88.224264
+      },
+      {
+        "lat": 40.103627234541904,
+        "long": -88.22601765311099
+      },
+      {
+        "lat": 40.103620555545135,
+        "long": -88.22982720445013
+      },
+      {
+        "lat": 40.1028373,
+        "long": -88.2251326
+      },
+      {
+        "lat": 40.1109722,
+        "long": -88.2282631
+      },
+      {
+        "lat": 40.1034533,
+        "long": -88.2327596
+      },
+      {
+        "lat": 40.10944320239664,
+        "long": -88.22602522743233
+      },
+      {
+        "lat": 40.108419421661715,
+        "long": -88.2261156301609
+      },
+      {
+        "lat": 40.1033599,
+        "long": -88.2292111
+      },
+      {
+        "lat": 40.1110937,
+        "long": -88.2232348
+      },
+      {
+        "lat": 40.1149521,
+        "long": -88.2267561
+      },
+      {
+        "lat": 40.092875494224195,
+        "long": -88.22082220247309
+      },
+      {
+        "lat": 40.105732,
+        "long": -88.2281018
+      },
+      {
+        "lat": 40.1065684,
+        "long": -88.2281746
+      },
+      {
+        "lat": 40.107534,
+        "long": -88.2281548
+      },
+      {
+        "lat": 40.103587,
+        "long": -88.230606
+      },
+      {
+        "lat": 40.11171215875622,
+        "long": -88.22530849701589
+      },
+      {
+        "lat": 40.1047599,
+        "long": -88.2319514
+      },
+      {
+        "lat": 40.111691,
+        "long": -88.2242511
+      },
+      {
+        "lat": 40.1022093629303,
+        "long": -88.22800864058527
+      },
+      {
+        "lat": 40.1020773,
+        "long": -88.2296394
+      },
+      {
+        "lat": 40.11246109008789,
+        "long": -88.22831726074219
+      },
+      {
+        "lat": 40.101862,
+        "long": -88.231737
+      },
+      {
+        "lat": 40.1083446,
+        "long": -88.2282555
+      },
+      {
+        "lat": 40.10783362157985,
+        "long": -88.22476189569741
+      },
+      {
+        "lat": 40.10755766472843,
+        "long": -88.22995430218522
+      },
+      {
+        "lat": 40.110811306674734,
+        "long": -88.2248467072371
+      },
+      {
+        "lat": 40.1131317,
+        "long": -88.2264552
+      },
+      {
+        "lat": 40.1149296,
+        "long": -88.2280589
+      },
+      {
+        "lat": 40.108570819242026,
+        "long": -88.22518453938676
+      },
+      {
+        "lat": 40.1035872,
+        "long": -88.2306061
+      },
+      {
+        "lat": 40.102726858556835,
+        "long": -88.23259991223857
+      },
+      {
+        "lat": 40.1108856,
+        "long": -88.2269806
+      },
+      {
+        "lat": 40.107811,
+        "long": -88.2260761
+      },
+      {
+        "lat": 40.11085653938169,
+        "long": -88.22609810215927
+      },
+      {
+        "lat": 40.11397164321797,
+        "long": -88.2265192685827
+      },
+      {
+        "lat": 40.10593795776367,
+        "long": -88.2270736694336
+      },
+      {
+        "lat": 40.10127390836906,
+        "long": -88.2226073524728
+      },
+      {
+        "lat": 40.11380515934119,
+        "long": -88.22490788390387
+      },
+      {
+        "lat": 40.105587640130146,
+        "long": -88.22025111416733
+      },
+      {
+        "lat": 40.10802885201532,
+        "long": -88.22239700364068
+      }
+    ],
     "finalDates": [],
     "finalTimes": []
   }
