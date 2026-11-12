@@ -1,8 +1,69 @@
 {
   "subject": "ANTH",
-  "scrapedAt": 1794504720697,
-  "courseCount": 0,
-  "courses": {},
+  "scrapedAt": 1794504777537,
+  "courseCount": 2,
+  "courses": {
+    "ANTH 246": [
+      "Forensic Science",
+      {
+        "ONL": [
+          "10143",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "History and theory underlying methods used in forensic science. Topics include the courtroom, the units of a crime laboratory, methods of securing and investigating a crime scene, and the analysis of evidence collected from a crime scene such as blood, fibers, hair, DNA, and fingerprints.",
+      []
+    ],
+    "ANTH 103": [
+      "Anthro in a Changing World",
+      {
+        "ONL": [
+          "10141",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "[IAI Code: S1901N] Presents the fundamental areas of anthropological analysis through a series of comparative cases that emphasize social and cultural relations in global contexts. Directs attention to the anthropological history of global empires and colonial states, their cultural exchanges, and contemporary studies of culture, society, and globalization.",
+      []
+    ]
+  },
   "caches": {
     "periods": [
       "ARRANGED"

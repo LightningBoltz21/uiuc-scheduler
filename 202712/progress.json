@@ -4,7 +4,7 @@
   "year": "2027",
   "term": "winter",
   "startedAt": 1794504652693,
-  "lastUpdated": 1794504720698,
+  "lastUpdated": 1794504785724,
   "totalSubjects": 30,
   "totalCourses": 60,
   "subjects": [
@@ -343,10 +343,21 @@
   },
   "completedSubjects": [
     "ADV",
-    "AFAS"
+    "AFAS",
+    "ANTH",
+    "ASTR",
+    "ATMS",
+    "BADM",
+    "CLCV",
+    "CMN",
+    "DANC",
+    "ESE",
+    "ECON",
+    "ENGL",
+    "GWS"
   ],
   "partialSubjects": {
-    "ANTH": {
+    "GEOL": {
       "completed": 0,
       "total": 2,
       "lastCourse": "ABORTED"
@@ -354,8 +365,8 @@
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 3,
-    "failedCourses": 1,
+    "successfulCourses": 27,
+    "failedCourses": 2,
     "rateLimitCount": 0
   }
 }

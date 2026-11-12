@@ -1,0 +1,58 @@
+{
+  "subject": "DANC",
+  "scrapedAt": 1794504782276,
+  "courseCount": 1,
+  "courses": {
+    "DANC 100": [
+      "Intro to Contemporary Dance",
+      {
+        "OL1": [
+          "10027",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "[IAI Code: F1906] Overview of major works, figures, and trends responsible for shaping dance as an evolving contemporary art form. The course will have lecture, viewing, discussion and experiential (studio participation) components.",
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "ARRANGED"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Online"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}
