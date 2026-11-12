@@ -1,7 +1,7 @@
 {
   "subject": "IS",
-  "scrapedAt": 1794503755792,
-  "courseCount": 83,
+  "scrapedAt": 1794504017034,
+  "courseCount": 114,
   "courses": {
     "IS 142": [
       "Social History of Games and Gaming",
@@ -5536,6 +5536,2920 @@
       [],
       "Supervised field experience of professional-level duties in an approved library or information center.",
       []
+    ],
+    "IS 551": [
+      "Youth Services Librarianship",
+      {
+        "OA": [
+          "72415",
+          [
+            [
+              55,
+              "R",
+              "ONLINE",
+              0,
+              [
+                "Stier, Z"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Theory and techniques in planning, implementing and evaluating library programs/services for youth (age 0-18) in public and school libraries/media centers; the knowledge base, skills, and competencies needed by the library media professional in the development of all aspects of young people's reading/viewing/listening and information literacy skills.",
+      []
+    ],
+    "IS 559": [
+      "CAS Project",
+      {
+        "66825": [
+          "66825",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Individual study of a problem in library and information science; forms the culmination of the Certificate of Advanced Study program.",
+      []
+    ],
+    "IS 557": [
+      "Applied Machine Learning: Team Projects",
+      {
+        "AC": [
+          "70147",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "A comprehensive exploration of the applied machine learning workflow from inspiration to delivery of a machine learning solution broadly defined (i.e., from analytic finding to embedded machine learning application). This course is firmly grounded in a \"learning-by-doing\" teaching philosophy with pedagogical priority clearly placed on the application of machine learning to real-world data and problems. Ongoing and intense practical experiences in team-based project management and work are another cornerstone of this course. This course includes student-led reviews of existing data sources and machine learning technologies along with several team-based fact-finding and proof-of-concept implementation projects. This course is designed for students wishing to engage seriously in the practical world of machine learning implementation. Prerequisite: Students should have demonstrated ability, and must have taken one of the following courses, IS 577 (formerly IS 590 DT), IS 517 (formerly IS 590 MD), CS 412, CS 446 or a course demonstrably equivalent.",
+      []
+    ],
+    "IS 560": [
+      "Social Science Research in Library and Information Science",
+      {
+        "OA": [
+          "67733",
+          [
+            [
+              69,
+              "T",
+              "ONLINE",
+              0,
+              [
+                "Ocepek, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduces students to the fundamentals of doing social science research in LIS. Students will learn how to frame a research problem, choose an appropriate research method, apply it, and write up the research for presentation and publication.",
+      []
+    ],
+    "IS 562": [
+      "Administration and Use of Archival Materials",
+      {
+        "AC": [
+          "72417",
+          [
+            [
+              61,
+              "W",
+              "ARR Sch of Info Sciences Bldg",
+              0,
+              [
+                "Schwartz, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "OA": [
+          "67621",
+          [
+            [
+              30,
+              "R",
+              "ONLINE",
+              0,
+              [
+                "Berryhill, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Administration of archives and manuscript collections in various types of institutions. Theoretical principles and archival practices of appraisal, acquisition, accessioning, arrangement, description, preservation, and reference services. Topics will include: records management programs, collecting archives programs/special collections, legal and ethical issues, public programming and advocacy, and the impact of new information technologies for preservation and access. Lectures, discussion, internet demonstration, and field trips to the Special Collections Department and University Archives.",
+      []
+    ],
+    "IS 563": [
+      "Advanced Topics in Literature, Media and Materials",
+      {
+        "APO": [
+          "72418",
+          [
+            [
+              30,
+              "W",
+              "ONLINE",
+              0,
+              [
+                "Lucht, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "CRO": [
+          "72419",
+          [
+            [
+              30,
+              "M",
+              "ONLINE",
+              0,
+              [
+                "Tilley, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "RVO": [
+          "74770",
+          [
+            [
+              55,
+              "R",
+              "ONLINE",
+              0,
+              [
+                "Quealy, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Variety of newly developed and advanced topics courses within Literature, Media and Materials, intended to augment the existing Information Sciences curricula.",
+      []
+    ],
+    "IS 567": [
+      "Text Mining",
+      {
+        "AC": [
+          "67511",
+          [
+            [
+              70,
+              "F",
+              "108 English Building",
+              14,
+              [
+                "Kilicoglu, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "The goal of this project-based course is to provide students with first-hand experience with how to create a well-formed text mining problem and how to select, transform, and mine a collection of text. Prior programming knowledge (in any language) is required. As students work on their own project, they will draw from key concepts in text mining using perspectives from both the knowledge discovery and natural language processing research communities.",
+      []
+    ],
+    "IS 565": [
+      "Cataloging for School Libraries",
+      {
+        "OA": [
+          "72801",
+          [
+            [
+              30,
+              "F",
+              "ONLINE",
+              0,
+              [
+                "Chacon, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "This course will introduce the student to the principles, practices and standards for information representation and organization in school media centers. Course content will include an introduction to original cataloging of non-standard materials (such as realia and audiovisual materials), evaluation of bibliographic records, exposure to authority control and subject access systems with a special focus on the Dewey Decimal System and Sears Subject Headings. The course will also provide an overview and exploration of different library systems/OPACS.",
+      []
+    ],
+    "IS 568": [
+      "Seminar in Human-Centered Design & Systems",
+      {
+        "AHC": [
+          "67512",
+          [
+            [
+              8,
+              "W",
+              "ONLINE",
+              0,
+              [
+                "Seo, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Offers an advanced graduate survey of research in areas related to research in human-centered design and systems, across a wide range of topics. Designed to incorporate multiple guest lectures. Weekly class meetings will be composed of both lectures and discussions.",
+      []
+    ],
+    "IS 571": [
+      "Advanced Topics in Use and Users of Information",
+      {
+        "CPO": [
+          "77883",
+          [
+            [
+              55,
+              "W",
+              "ONLINE",
+              0,
+              [
+                "Mitchell, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "ISD": [
+          "75700",
+          [
+            [
+              55,
+              "W",
+              "ONLINE",
+              0,
+              [
+                "Dapier, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "ISO": [
+          "72421",
+          [
+            [
+              30,
+              "M",
+              "ONLINE",
+              0,
+              [
+                "Chacon, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "LRO": [
+          "72613",
+          [
+            [
+              30,
+              "F",
+              "ONLINE",
+              0,
+              [
+                "Dapier, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "LRR": [
+          "74863",
+          [
+            [
+              8,
+              "W",
+              "1066 Lincoln Hall",
+              22,
+              [
+                "Schwebel, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Variety of newly developed and advanced topics courses within the field of Use and Users of Information, intended to augment the existing Information Sciences curricula.",
+      []
+    ],
+    "IS 569": [
+      "Internship",
+      {
+        "FT": [
+          "73933",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Haider, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "PT": [
+          "71378",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Haider, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Supervised field experience designed for learning professional-level duties in an approved information-related organization or institution.",
+      []
+    ],
+    "IS 573": [
+      "Advanced Topics in Collections",
+      {
+        "CAB": [
+          "77963",
+          [
+            [
+              30,
+              "F",
+              "ONLINE",
+              0,
+              [
+                "Betts-Green, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "CAO": [
+          "72422",
+          [
+            [
+              4,
+              "S",
+              "ONLINE",
+              0,
+              [
+                "Salrin, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "CAP": [
+          "78060",
+          [
+            [
+              1,
+              "T",
+              "46 Sch of Info Sciences Bldg",
+              0,
+              [
+                "Cain, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "DCA": [
+          "72615",
+          [
+            [
+              30,
+              "R",
+              "ONLINE",
+              0,
+              [
+                "Abney, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Variety of newly developed and advanced topics courses within the field of Collections, intended to augment the existing Information Sciences curricula.",
+      []
+    ],
+    "IS 579": [
+      "Guided Research Experience",
+      {
+        "IB": [
+          "75408",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Brooks, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          12,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Supervised participation in information science research. Students assist in and /or conduct research under faculty or staff supervision on an information science project. The topics and nature of the work will vary.",
+      []
+    ],
+    "IS 580": [
+      "Information History",
+      {
+        "A": [
+          "72594",
+          [
+            [
+              7,
+              "M",
+              "131 Sch of Info Sciences Bldg",
+              0,
+              [
+                "Mak, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "OA": [
+          "67515",
+          [
+            [
+              7,
+              "M",
+              "ONLINE",
+              0,
+              [
+                "Mak, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Drawing on research in varied historical specializations, information history has become a vibrant area of study, one that improves our understanding, moreover, of today's information universe. Information history covers diverse institutions and practices -- from libraries and the book to the telegraph and postal systems, from surveillance to cartography, from documentary culture to statistical surveys -- seeking to connect them with the major developmental processes of human history. Framed in a succession of major historical epochs, topics and trends, from Antiquity to the twentieth century, this course revises our sense of the historical record by situating information explicitly within it.",
+      []
+    ],
+    "IS 577": [
+      "Data Mining",
+      {
+        "AC": [
+          "69220",
+          [
+            [
+              26,
+              "F",
+              "126 Sch of Info Sciences Bldg",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Data mining refers to the process of exploring large datasets with the goal of uncovering interesting patterns. This process usually involves a number of tasks such as data collection, pre-processing, & characterization; model fitting, selection, & evaluation; classification, clustering, & prediction. Although data mining has its roots in database management, it has grown into a discipline that focuses on algorithm design (to ensure computational feasibility) & statistical modeling (to separate the signal from the noise). It draws heavily upon a variety of other disciplines including statistics, machine learning, operations research, & information retrieval. Will cover the major data mining concepts, principles, & techniques that every information scientist should know about. Lectures will introduce & discuss the major approaches to data mining; computer lab sessions coupled w/assignments will provide hands-on experience with these approaches; term projects offer the opportunity to use data mining in a novel way. Mathematical detail will be left to the students who are so inclined.",
+      []
+    ],
+    "IS 581": [
+      "Advanced Topics in Youth Services",
+      {
+        "DCE": [
+          "72825",
+          [
+            [
+              30,
+              "T",
+              "ONLINE",
+              0,
+              [
+                "Mattson, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "EYO": [
+          "72423",
+          [
+            [
+              30,
+              "R",
+              "ONLINE",
+              0,
+              [
+                "Lindsey, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "ISM": [
+          "72618",
+          [
+            [
+              2,
+              "R",
+              "ONLINE",
+              0,
+              [
+                "Mattson, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "MLO": [
+          "67517",
+          [
+            [
+              30,
+              "M",
+              "ONLINE",
+              0,
+              [
+                "Mattson, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Variety of newly developed and advanced topics courses within the field of Youth Services, intended to augment the existing Information Sciences curricula.",
+      []
+    ],
+    "IS 583": [
+      "Advanced Topics in Book History",
+      {
+        "BL": [
+          "73029",
+          [
+            [
+              36,
+              "MF",
+              "FAB LAB Art-East Annex, Studio 2",
+              0,
+              [
+                "Cordell, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "PBO": [
+          "72621",
+          [
+            [
+              30,
+              "M",
+              "ONLINE",
+              0,
+              [
+                "Vincler, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Variety of newly developed and advanced topics courses within the field of Book History, intended to augment the existing Information Sciences curricula.",
+      []
+    ],
+    "IS 582": [
+      "Advanced Topics in Librarianship",
+      {
+        "ALO": [
+          "67518",
+          [
+            [
+              56,
+              "W",
+              "ONLINE",
+              0,
+              [
+                "Cordell, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "PLO": [
+          "78788",
+          [
+            [
+              55,
+              "T",
+              "ONLINE",
+              0,
+              [
+                "Kirtley, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "RB2": [
+          "72597",
+          [
+            [
+              55,
+              "M",
+              "ONLINE",
+              0,
+              [
+                "Vincler, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "SSL": [
+          "72595",
+          [
+            [
+              30,
+              "R",
+              "ONLINE",
+              0,
+              [
+                "Emerson, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "TLO": [
+          "72598",
+          [
+            [
+              2,
+              "W",
+              "ONLINE",
+              0,
+              [
+                "Berryhill, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Variety of newly developed and advanced topics courses within the field of Librarianship, intended to augment the existing Information Sciences curricula.",
+      []
+    ],
+    "IS 585": [
+      "Bibliographic Metadata",
+      {
+        "OA": [
+          "72600",
+          [
+            [
+              30,
+              "M",
+              "ONLINE",
+              0,
+              [
+                "Bothmann, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "OB": [
+          "72599",
+          [
+            [
+              30,
+              "W",
+              "ONLINE",
+              0,
+              [
+                "Oberg, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "OC": [
+          "75073",
+          [
+            [
+              30,
+              "T",
+              "ONLINE",
+              0,
+              [
+                "Myers, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to basic principles and concepts of descriptive and subject cataloging in the context of information service needs for various user communities. Explores principles, structures, standards, technologies and practices relating to organizing and creating access to print and non-print media. Includes coverage of subject analysis and descriptive practices. Introduces controlled vocabularies.",
+      []
+    ],
+    "IS 584": [
+      "Advanced Topics in Ethics and Privacy",
+      {
+        "PV": [
+          "78984",
+          [
+            [
+              30,
+              "M",
+              "ONLINE",
+              0,
+              [
+                "Bashir, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Variety of newly developed and advanced topics courses within the field of ethics and privacy, intended to augment the existing Information Sciences curricula.",
+      []
+    ],
+    "IS 586": [
+      "Usability Engineering",
+      {
+        "AC": [
+          "67389",
+          [
+            [
+              8,
+              "M",
+              "204 Transportation Building",
+              11,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "The course provides an introduction to: issues in Human Computer Interaction; analysis of interfaces and their use; the interface design process as an engineering activity; designing usable interfaces under constraints; and the rapid prototyping and evaluation cycle. The course covers interface design in multiple contexts including websites, web-based applications, smartphone apps, regular computer apps and new contexts of interacting with computers. Elective course for the CAS in Digital Libraries concentration.",
+      []
+    ],
+    "IS 589": [
+      "Independent Study",
+      {
+        "73762": [
+          "73762",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "JM": [
+          "75275",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Ma, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "RCC": [
+          "75353",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Cordell, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "RMH": [
+          "76110",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Hendricks, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Permits the intermediate or advanced student opportunity to undertake the study of a topic not otherwise offered in the curriculum or to pursue a topic beyond or in greater depth than is possible within the context of a regular course.",
+      []
+    ],
+    "IS 590": [
+      "Advanced Topics in Information Foundations",
+      {
+        "FDI": [
+          "78789",
+          [
+            [
+              4,
+              "W",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "LS": [
+          "78861",
+          [
+            [
+              8,
+              "T",
+              "12A Sch of Info Sciences Bldg",
+              0,
+              [
+                "Renear, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Variety of newly developed and advanced topics courses within the field of information foundations, intended to augment the existing Information Sciences curricula.",
+      []
+    ],
+    "IS 591": [
+      "Advanced Topics in Information Services",
+      {
+        "ACA": [
+          "79189",
+          [
+            [
+              7,
+              "M",
+              "TBA",
+              0,
+              [
+                "Benson, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "ACP": [
+          "72603",
+          [
+            [
+              30,
+              "T",
+              "ONLINE",
+              0,
+              [
+                "Benson, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "CAP": [
+          "66555",
+          [
+            [
+              30,
+              "R",
+              "ONLINE",
+              0,
+              [
+                "Bonn, M",
+                "Comstock, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "ELO": [
+          "72606",
+          [
+            [
+              2,
+              "T",
+              "ONLINE",
+              0,
+              [
+                "Wong, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "HIS": [
+          "66860",
+          [
+            [
+              30,
+              "R",
+              "ONLINE",
+              0,
+              [
+                "Dietrich, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "MAO": [
+          "69703",
+          [
+            [
+              20,
+              "R",
+              "ONLINE",
+              0,
+              [
+                "Johnson, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "PLP": [
+          "66540",
+          [
+            [
+              55,
+              "M",
+              "ONLINE",
+              0,
+              [
+                "Kirtley, K",
+                "Stier, Z"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Variety of newly developed and advanced topics courses within the fields of Information Services, intended to augment the existing Information Sciences curricula.",
+      []
+    ],
+    "IS 592": [
+      "Advanced Topics In Information Organizations",
+      {
+        "GW1": [
+          "66566",
+          [
+            [
+              71,
+              "F",
+              "ONLINE",
+              0,
+              [
+                "Ng-He, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "GW2": [
+          "66567",
+          [
+            [
+              71,
+              "F",
+              "ONLINE",
+              0,
+              [
+                "Ng-He, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "PLO": [
+          "73115",
+          [
+            [
+              1,
+              "R",
+              "ONLINE",
+              0,
+              [
+                "Holba Puacz, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Variety of newly developed and advanced topics courses within the fields of Information Organization, intended to augment the existing Information Sciences curricula.",
+      []
+    ],
+    "IS 593": [
+      "Advanced Topics in Preservation & Tech Services",
+      {
+        "AVO": [
+          "66862",
+          [
+            [
+              56,
+              "W",
+              "ONLINE",
+              0,
+              [
+                "Blewer, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "AW": [
+          "66694",
+          [
+            [
+              3,
+              "T",
+              "ONLINE",
+              0,
+              [
+                "Maemura, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "PC": [
+          "72771",
+          [
+            [
+              60,
+              "M",
+              "ARR Sch of Info Sciences Bldg",
+              0,
+              [
+                "Ferris, Q",
+                "Teper, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Variety of newly developed and advanced topics courses within the fields of Preservation & Tech Services, intended to augment the existing Information Sciences curricula.",
+      []
+    ],
+    "IS 594": [
+      "Advanced Topics in Management and Policy",
+      {
+        "EVO": [
+          "72772",
+          [
+            [
+              56,
+              "W",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "GIO": [
+          "67354",
+          [
+            [
+              30,
+              "M",
+              "ONLINE",
+              0,
+              [
+                "Hallett, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "IPO": [
+          "68519",
+          [
+            [
+              30,
+              "W",
+              "ONLINE",
+              0,
+              [
+                "McCallon, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "PM": [
+          "68222",
+          [
+            [
+              30,
+              "W",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Variety of newly developed and advanced topics courses within the fields of Management and Policy, intended to augment the existing Information Sciences curricula.",
+      []
+    ],
+    "IS 596": [
+      "Advanced Topics in Human-Centered Design & Systems",
+      {
+        "GH": [
+          "75871",
+          [
+            [
+              57,
+              "W",
+              "53 Sch of Info Sciences Bldg",
+              0,
+              [
+                "Brooks, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Variety of newly developed and advanced topics courses within the field of Human-Centered Design & Systems, intended to augment the existing Information Sciences curricula.",
+      []
+    ],
+    "IS 595": [
+      "Advanced Topics in Organization & Representation",
+      {
+        "ABM": [
+          "72607",
+          [
+            [
+              55,
+              "M",
+              "ONLINE",
+              0,
+              [
+                "Lopez, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Variety of newly developed and advanced topics courses within the fields of Organization & Representation, intended to augment the existing Information Sciences curricula.",
+      []
+    ],
+    "IS 597": [
+      "Advanced Topics in Data Analytics & Data Science",
+      {
+        "CSO": [
+          "72768",
+          [
+            [
+              61,
+              "R",
+              "ONLINE",
+              0,
+              [
+                "LeBlanc, Z"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "DS": [
+          "72428",
+          [
+            [
+              8,
+              "F",
+              "2018 Campus Instructional Facility",
+              12,
+              [
+                "Weible, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "LLM": [
+          "75681",
+          [
+            [
+              61,
+              "W",
+              "109 Sch of Info Sciences Bldg",
+              0,
+              [
+                "Kilicoglu, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "MML": [
+          "78787",
+          [
+            [
+              7,
+              "T",
+              "ONLINE",
+              0,
+              [
+                "Lourentzou, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "PD": [
+          "72427",
+          [
+            [
+              58,
+              "W",
+              "136 Burrill Hall",
+              28,
+              [
+                "Guo, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "PR": [
+          "72425",
+          [
+            [
+              8,
+              "W",
+              "12A Sch of Info Sciences Bldg",
+              0,
+              [
+                "Cheng, H",
+                "Weible, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "TML": [
+          "75763",
+          [
+            [
+              66,
+              "T",
+              "313 Davenport Hall",
+              4,
+              [
+                "Wang, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Variety of newly developed and advanced topics courses within the fields of Data Analytics & Data Science, intended to augment the existing Information Sciences curricula.",
+      []
+    ],
+    "IS 599": [
+      "Thesis Research",
+      {
+        "AHR": [
+          "66529",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Renear, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "ASC": [
+          "66520",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Chan, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "BL": [
+          "66524",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Ludaescher, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "BM": [
+          "66526",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Mak, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "CLB": [
+          "66514",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Blake, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "CLT": [
+          "66533",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Tilley, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "CMC": [
+          "70472",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Ma, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "CP": [
+          "67284",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Palmer, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "CPL": [
+          "78933",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Lueg, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "DSD": [
+          "66519",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Dubin, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "DW": [
+          "71855",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Wang, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "EES": [
+          "66513",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Santos, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "EFH": [
+          "66742",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Hoiem, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "EJK": [
+          "66522",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Knox, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "HHK": [
+          "71292",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Kilicoglu, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "JAP": [
+          "71340",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Pintar, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "JAS": [
+          "66530",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Schneider, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "JC": [
+          "71290",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Chin, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "JD": [
+          "66517",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Diesner, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "JRH": [
+          "71291",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "He, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "JSD": [
+          "66518",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Downie, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "KAL": [
+          "66523",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "La Barre, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "KHW": [
+          "66537",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Williams, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "KM": [
+          "66528",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "McDowell, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "KOH": [
+          "71293",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Koh, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "LCS": [
+          "66531",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Smith, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "LSK": [
+          "66521",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Kendall, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "MBT": [
+          "66535",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Twidale, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "MBW": [
+          "66744",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Wolske, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "MGO": [
+          "70447",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Ocepek, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "MJT": [
+          "66743",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Turk, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "MNB": [
+          "66512",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Bashir, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "MRS": [
+          "66527",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Sanfilippo, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "MSB": [
+          "66515",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Bonn, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "PNB": [
+          "66516",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Bosch, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "PTD": [
+          "66634",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Darch, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "RAD": [
+          "73769",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Adler, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "RCC": [
+          "73768",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Cordell, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "RMM": [
+          "66525",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Magee, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "SPD": [
+          "66532",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Dahlen, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "TWA": [
+          "67285",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Wagner, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "VIT": [
+          "66534",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Torvik, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "WEU": [
+          "68525",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Underwood, W"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "YH": [
+          "71169",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Huang, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "YVW": [
+          "66785",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Wang, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "ZGL": [
+          "66536",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "LeBlanc, Z"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Individual study and research.",
+      []
     ]
   },
   "caches": {
@@ -5608,7 +8522,10 @@
       "1030 - 1320",
       "1530 - 1820",
       "1900 - 2050",
-      "1500 - 1750"
+      "1500 - 1750",
+      "1830 - 2020",
+      "0930 - 1220",
+      "0800 - 0950"
     ],
     "dateRanges": [],
     "scheduleTypes": [
@@ -5623,7 +8540,8 @@
       "Discussion/Recitation",
       "Online Lecture",
       "Packaged Section",
-      "Study Abroad"
+      "Study Abroad",
+      "Research"
     ],
     "campuses": [],
     "attributes": [],

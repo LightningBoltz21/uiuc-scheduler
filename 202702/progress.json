@@ -4,7 +4,7 @@
   "year": "2027",
   "term": "spring",
   "startedAt": 1794502755201,
-  "lastUpdated": 1794503755795,
+  "lastUpdated": 1794504045937,
   "totalSubjects": 188,
   "totalCourses": 4527,
   "subjects": [
@@ -18788,19 +18788,28 @@
     "DTX",
     "HUM",
     "IE",
-    "INFO"
+    "INFO",
+    "IS",
+    "IB",
+    "ITAL",
+    "JAPN",
+    "ARTJ",
+    "JS",
+    "JOUR",
+    "KOR",
+    "LER"
   ],
   "partialSubjects": {
-    "IS": {
-      "completed": 83,
-      "total": 114,
+    "LA": {
+      "completed": 14,
+      "total": 27,
       "lastCourse": "ABORTED"
     }
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 2629,
-    "failedCourses": 15,
+    "successfulCourses": 2810,
+    "failedCourses": 16,
     "rateLimitCount": 0
   }
 }

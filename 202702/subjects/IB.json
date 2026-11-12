@@ -1,270 +1,3280 @@
 {
   "subject": "IB",
-  "scrapedAt": 1791782610337,
-  "courseCount": 36,
+  "scrapedAt": 1794504024091,
+  "courseCount": 37,
   "courses": {
     "IB 103": [
-      "IB 103",
-      {},
+      "Introduction to Plant Biology",
+      {
+        "ABA": [
+          "34445",
+          [
+            [
+              61,
+              "W",
+              "2082 Natural History Building",
+              25,
+              [
+                "Hofmann, T",
+                "Min, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ABE": [
+          "34453",
+          [
+            [
+              27,
+              "T",
+              "2082 Natural History Building",
+              25,
+              [
+                "Hofmann, T",
+                "Min, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ABF": [
+          "34454",
+          [
+            [
+              8,
+              "W",
+              "2082 Natural History Building",
+              25,
+              [
+                "Hofmann, T",
+                "Min, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ABG": [
+          "34456",
+          [
+            [
+              72,
+              "R",
+              "2082 Natural History Building",
+              25,
+              [
+                "Hofmann, T",
+                "Min, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ABH": [
+          "34457",
+          [
+            [
+              27,
+              "R",
+              "2082 Natural History Building",
+              25,
+              [
+                "Hofmann, T",
+                "Min, Y",
+                "Murray, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AL3": [
+          "34443",
+          [
+            [
+              24,
+              "TR",
+              "124 Burrill Hall",
+              28,
+              [
+                "Hofmann, T",
+                "Min, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Basic principles of growth and form, physiology, genetics, evolution, and ecology in plant biology. Lecture and laboratory.",
       []
     ],
     "IB 108": [
-      "IB 108",
-      {},
+      "The Biology of Dinosaurs",
+      {
+        "AL2": [
+          "65714",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Manaster, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "BE2": [
+          "70316",
+          [
+            [
+              73,
+              "T",
+              "ONLINE",
+              0,
+              [
+                "Manaster, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          13,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "The origin, diversity, and extinction of dinosaurs will serve as a conceptual framework to explore fundamental principles of biology. We will consider dinosaurs as animals, examining evidence for their physiology and behavior, and how evolution and speciation produced the diversity of dinosaurs. We will relate the influence of Earth's changing environments on dinosaurs to environmental change on human timescales. We will emphasize how scientists collect and evaluate fossil data through an understanding of living organisms.",
       []
     ],
     "IB 150": [
-      "IB 150",
-      {},
+      "Organismal & Evolutionary Biol",
+      {
+        "AA1": [
+          "43445",
+          [
+            [
+              5,
+              "W",
+              "2020A Natural History Building",
+              25,
+              [
+                "Clegg, B",
+                "Dady, E",
+                "Singh, S",
+                "Walker, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "AA2": [
+          "48175",
+          [
+            [
+              15,
+              "W",
+              "2020A Natural History Building",
+              25,
+              [
+                "Clegg, B",
+                "Dady, E",
+                "Singh, S",
+                "Walker, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "AD1": [
+          "34615",
+          [
+            [
+              5,
+              "T",
+              "3098 Natural History Building",
+              25,
+              [
+                "Clegg, B",
+                "Dady, E",
+                "Singh, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "AD2": [
+          "34585",
+          [
+            [
+              15,
+              "T",
+              "3098 Natural History Building",
+              25,
+              [
+                "Clegg, B",
+                "Dady, E",
+                "Singh, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "AD3": [
+          "34564",
+          [
+            [
+              16,
+              "T",
+              "3098 Natural History Building",
+              25,
+              [
+                "Clegg, B",
+                "Dady, E",
+                "Singh, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "AD4": [
+          "34583",
+          [
+            [
+              9,
+              "T",
+              "3098 Natural History Building",
+              25,
+              [
+                "Clegg, B",
+                "Dady, E",
+                "Singh, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "AD5": [
+          "77308",
+          [
+            [
+              33,
+              "T",
+              "3098 Natural History Building",
+              25,
+              [
+                "Clegg, B",
+                "Dady, E",
+                "Singh, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "AD6": [
+          "34610",
+          [
+            [
+              34,
+              "T",
+              "3098 Natural History Building",
+              25,
+              [
+                "Clegg, B",
+                "Dady, E",
+                "Singh, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "AD9": [
+          "63885",
+          [
+            [
+              56,
+              "R",
+              "2083 Natural History Building",
+              25,
+              [
+                "Clegg, B",
+                "Dominguez, J",
+                "Singh, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "ADA": [
+          "34566",
+          [
+            [
+              14,
+              "W",
+              "3098 Natural History Building",
+              25,
+              [
+                "Clegg, B",
+                "Cook, E",
+                "Singh, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "ADB": [
+          "34568",
+          [
+            [
+              6,
+              "W",
+              "3098 Natural History Building",
+              25,
+              [
+                "Clegg, B",
+                "Cook, E",
+                "Singh, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "ADC": [
+          "34569",
+          [
+            [
+              5,
+              "W",
+              "3098 Natural History Building",
+              25,
+              [
+                "Clegg, B",
+                "Gomez Lopez, A",
+                "Singh, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "ADD": [
+          "34572",
+          [
+            [
+              15,
+              "W",
+              "3098 Natural History Building",
+              25,
+              [
+                "Clegg, B",
+                "Gomez Lopez, A",
+                "Singh, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "ADE": [
+          "34574",
+          [
+            [
+              16,
+              "W",
+              "3098 Natural History Building",
+              25,
+              [
+                "Clegg, B",
+                "Cook, E",
+                "Singh, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "ADF": [
+          "34576",
+          [
+            [
+              9,
+              "W",
+              "3098 Natural History Building",
+              25,
+              [
+                "Clegg, B",
+                "Cook, E",
+                "Singh, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "ADG": [
+          "34577",
+          [
+            [
+              33,
+              "W",
+              "3098 Natural History Building",
+              25,
+              [
+                "Clegg, B",
+                "Dinh, Q",
+                "Singh, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "ADH": [
+          "34607",
+          [
+            [
+              34,
+              "W",
+              "3098 Natural History Building",
+              25,
+              [
+                "Clegg, B",
+                "Dinh, Q",
+                "Singh, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "ADI": [
+          "34590",
+          [
+            [
+              5,
+              "R",
+              "3098 Natural History Building",
+              25,
+              [
+                "Clegg, B",
+                "Dominguez, J",
+                "Singh, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "ADJ": [
+          "34592",
+          [
+            [
+              15,
+              "R",
+              "3098 Natural History Building",
+              25,
+              [
+                "Aka, A",
+                "Clegg, B",
+                "Singh, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "ADK": [
+          "48177",
+          [
+            [
+              16,
+              "R",
+              "3098 Natural History Building",
+              25,
+              [
+                "Aka, A",
+                "Clegg, B",
+                "Singh, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "ADL": [
+          "34598",
+          [
+            [
+              9,
+              "R",
+              "3098 Natural History Building",
+              25,
+              [
+                "Clegg, B",
+                "Gomez Lopez, A",
+                "Singh, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "ADN": [
+          "34588",
+          [
+            [
+              33,
+              "R",
+              "2083 Natural History Building",
+              25,
+              [
+                "Clegg, B",
+                "Dady, E",
+                "Singh, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "ADO": [
+          "34603",
+          [
+            [
+              14,
+              "F",
+              "3098 Natural History Building",
+              25,
+              [
+                "Clegg, B",
+                "Singh, S",
+                "Vilchis, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "ADP": [
+          "34605",
+          [
+            [
+              6,
+              "F",
+              "3098 Natural History Building",
+              25,
+              [
+                "Clegg, B",
+                "Singh, S",
+                "Vilchis, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "ADQ": [
+          "34581",
+          [
+            [
+              5,
+              "F",
+              "3098 Natural History Building",
+              25,
+              [
+                "Clegg, B",
+                "Dinh, Q",
+                "Singh, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "ADR": [
+          "34611",
+          [
+            [
+              15,
+              "F",
+              "3098 Natural History Building",
+              25,
+              [
+                "Clegg, B",
+                "Dinh, Q",
+                "Singh, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "34480",
+          [
+            [
+              13,
+              "TR",
+              "AUD Foellinger Auditorium",
+              33,
+              [
+                "Clegg, B",
+                "Dady, E",
+                "Singh, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "AM1": [
+          "50401",
+          [
+            [
+              5,
+              "W",
+              "2020A Natural History Building",
+              25,
+              [
+                "Clegg, B",
+                "Dady, E",
+                "Singh, S",
+                "Walker, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "AM2": [
+          "57931",
+          [
+            [
+              15,
+              "W",
+              "2020A Natural History Building",
+              25,
+              [
+                "Clegg, B",
+                "Dady, E",
+                "Singh, S",
+                "Walker, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "IB 199": [
-      "IB 199",
-      {},
-      [],
-      null,
+      "[IAI Code: L1910L and BIO910 with IB 151] Introduction to physiology, genetics, and evolution of organisms, and their ecology and diversity.",
       []
     ],
     "IB 151": [
-      "IB 151",
-      {},
+      "Organismal & Evol Biol Lab",
+      {
+        "A": [
+          "34628",
+          [
+            [
+              61,
+              "T",
+              "3100 Natural History Building",
+              25,
+              [
+                "Clegg, B",
+                "Fajar, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "34630",
+          [
+            [
+              68,
+              "T",
+              "3100 Natural History Building",
+              25,
+              [
+                "Calvery, J",
+                "Clegg, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "C": [
+          "74802",
+          [
+            [
+              8,
+              "W",
+              "3100 Natural History Building",
+              25,
+              [
+                "Clegg, B",
+                "Liu, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "D": [
+          "34631",
+          [
+            [
+              61,
+              "W",
+              "3100 Natural History Building",
+              25,
+              [
+                "Clegg, B",
+                "Liu, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "E": [
+          "34632",
+          [
+            [
+              68,
+              "W",
+              "3100 Natural History Building",
+              25,
+              [
+                "Calvery, J",
+                "Clegg, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "F": [
+          "58482",
+          [
+            [
+              61,
+              "R",
+              "3100 Natural History Building",
+              25,
+              [
+                "Clegg, B",
+                "Liu, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "G": [
+          "58807",
+          [
+            [
+              68,
+              "R",
+              "3100 Natural History Building",
+              25,
+              [
+                "Clegg, B",
+                "Walker, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "H": [
+          "58808",
+          [
+            [
+              8,
+              "F",
+              "3100 Natural History Building",
+              25,
+              [
+                "Clegg, B",
+                "Walker, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "I": [
+          "34629",
+          [
+            [
+              61,
+              "F",
+              "3100 Natural History Building",
+              25,
+              [
+                "Clegg, B",
+                "Walker, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "J": [
+          "74829",
+          [
+            [
+              68,
+              "F",
+              "3100 Natural History Building",
+              25,
+              [
+                "Calvery, J",
+                "Clegg, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "[IAI Code: L1910L and BIO910 with IB 150] Topics follow lecture topics in IB 150 and include labs in ecology, plant and animal function, and genetics and evolution. Designed for non-majors needing a year of biology with lab.",
+      []
+    ],
+    "IB 199": [
+      "Undergraduate Open Seminar",
+      {
+        "AAA": [
+          "56881",
+          [
+            [
+              17,
+              "F",
+              "2020B Natural History Building",
+              25,
+              [
+                "Clegg, B",
+                "Dady, E",
+                "Walker, A Clegg, B",
+                "Dady, E",
+                "Walker, A"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              5,
+              "M",
+              "2020B Natural History Building",
+              25,
+              [
+                "Clegg, B",
+                "Dady, E",
+                "Walker, A Clegg, B",
+                "Dady, E",
+                "Walker, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "MRA": [
+          "52938",
+          [
+            [
+              17,
+              "F",
+              "2020B Natural History Building",
+              25,
+              [
+                "Clegg, B",
+                "Dady, E",
+                "Walker, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "SK1": [
+          "50019",
+          [
+            [
+              5,
+              "M",
+              "2020B Natural History Building",
+              25,
+              [
+                "Clegg, B",
+                "Dady, E",
+                "Fauziyah, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          8,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Approved for both letter and S/U grading. May be repeated to a maximum of 5 hours.",
       []
     ],
     "IB 202": [
-      "IB 202",
-      {},
+      "Physiology",
+      {
+        "AB1": [
+          "34642",
+          [
+            [
+              26,
+              "M",
+              "3002 Natural History Building",
+              25,
+              [
+                "Anderson, N",
+                "Doremus, M",
+                "Morphew, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AB3": [
+          "34644",
+          [
+            [
+              8,
+              "T",
+              "3002 Natural History Building",
+              25,
+              [
+                "Anderson, N",
+                "Doremus, M",
+                "Morphew, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AB4": [
+          "34645",
+          [
+            [
+              61,
+              "T",
+              "3002 Natural History Building",
+              25,
+              [
+                "Anderson, N",
+                "Doremus, M",
+                "Morphew, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AB5": [
+          "34646",
+          [
+            [
+              68,
+              "T",
+              "3002 Natural History Building",
+              25,
+              [
+                "Anderson, N",
+                "Doremus, M",
+                "Morphew, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AB7": [
+          "39250",
+          [
+            [
+              8,
+              "W",
+              "3002 Natural History Building",
+              25,
+              [
+                "Anderson, N",
+                "Doremus, M",
+                "Morphew, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AB8": [
+          "39251",
+          [
+            [
+              26,
+              "W",
+              "3002 Natural History Building",
+              25,
+              [
+                "Anderson, N",
+                "Doremus, M",
+                "Morphew, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ABA": [
+          "49356",
+          [
+            [
+              8,
+              "R",
+              "3002 Natural History Building",
+              25,
+              [
+                "Anderson, N",
+                "Doremus, M",
+                "Morphew, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ABB": [
+          "55944",
+          [
+            [
+              61,
+              "R",
+              "3002 Natural History Building",
+              25,
+              [
+                "Anderson, N",
+                "Doremus, M",
+                "Morphew, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "34641",
+          [
+            [
+              15,
+              "MWF",
+              "112 Gregory Hall",
+              19,
+              [
+                "Anderson, N",
+                "Doremus, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "AL2": [
+          "59272",
+          [
+            [
+              15,
+              "MWF",
+              "112 Gregory Hall",
+              19,
+              [
+                "Anderson, N",
+                "Doremus, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "How animals function in acquiring, processing, and allocating resources in the face of environmental constraints. The inquiry-based laboratory emphasizes testing of hypotheses related to functioning of physiological components of the basic systems of animals. Lecture only, 3 hours; with laboratory, 4 hours. Students must complete the laboratory portion of the course to receive 4 hours of credit.",
       []
     ],
     "IB 299": [
-      "IB 299",
-      {},
+      "Undergraduate Special Course",
+      {
+        "EVO": [
+          "78701",
+          [
+            [
+              56,
+              "R",
+              "2090 Natural History Building",
+              25,
+              [
+                "Dady, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "PHY": [
+          "54957",
+          [
+            [
+              56,
+              "T",
+              "2090 Natural History Building",
+              25,
+              [
+                "Dady, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          8,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Approved for Letter and S/U grading. May be repeated in the same term; may be repeated in separate terms to a maximum of 6 hours.",
       []
     ],
     "IB 271": [
-      "IB 271",
-      {},
+      "Organismal Biology",
+      {
+        "AB1": [
+          "45978",
+          [
+            [
+              74,
+              "W",
+              "4014 Natural History Building",
+              25,
+              [
+                "Chen, L",
+                "Cheng-De Vries, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "45977",
+          [
+            [
+              5,
+              "MWF",
+              "4016 Natural History Building",
+              25,
+              [
+                "Chen, L",
+                "Cheng-De Vries, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Integrated study of the diversity and structure and function of plants and animals in evolutionary and environmental contexts. Conceptual themes and techniques of molecular and cellular levels of biological organization will be integrated as well. Lecture and laboratory. The laboratory includes vertebrate dissection.",
       []
     ],
     "IB 302": [
-      "IB 302",
-      {},
+      "Evolution",
+      {
+        "AB1": [
+          "48173",
+          [
+            [
+              26,
+              "M",
+              "3004 Natural History Building",
+              25,
+              [
+                "Heath, K",
+                "Morphew, N",
+                "Pegan, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AB2": [
+          "48174",
+          [
+            [
+              8,
+              "T",
+              "3004 Natural History Building",
+              25,
+              [
+                "Heath, K",
+                "Morphew, N",
+                "Pegan, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AB3": [
+          "48411",
+          [
+            [
+              61,
+              "T",
+              "3004 Natural History Building",
+              25,
+              [
+                "Heath, K",
+                "Morphew, N",
+                "Pegan, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AB4": [
+          "48412",
+          [
+            [
+              68,
+              "T",
+              "3004 Natural History Building",
+              25,
+              [
+                "Heath, K",
+                "Morphew, N",
+                "Pegan, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AB5": [
+          "48413",
+          [
+            [
+              8,
+              "W",
+              "3004 Natural History Building",
+              25,
+              [
+                "Heath, K",
+                "Morphew, N",
+                "Pegan, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AB7": [
+          "48415",
+          [
+            [
+              26,
+              "W",
+              "3004 Natural History Building",
+              25,
+              [
+                "Heath, K",
+                "Morphew, N",
+                "Pegan, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AB9": [
+          "48417",
+          [
+            [
+              8,
+              "M",
+              "3004 Natural History Building",
+              25,
+              [
+                "Heath, K",
+                "Morphew, N",
+                "Pegan, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ABA": [
+          "51076",
+          [
+            [
+              61,
+              "R",
+              "3004 Natural History Building",
+              25,
+              [
+                "Heath, K",
+                "Morphew, N",
+                "Pegan, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "48172",
+          [
+            [
+              16,
+              "MWF",
+              "114 David Kinley Hall",
+              32,
+              [
+                "Heath, K",
+                "Pegan, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Broad introduction to evolutionary biology, including natural selection and microevolution, phylogeny, speciation, molecular evolution, macroevolution and the fossil records. The laboratory emphasizes a survey of biodiversity and processes and patterns of evolution.",
       []
     ],
     "IB 329": [
-      "IB 329",
-      {},
+      "Animal Behavior",
+      {
+        "A": [
+          "56886",
+          [
+            [
+              33,
+              "MWF",
+              "2079 Natural History Building",
+              25,
+              [
+                "Carranza, R",
+                "Suarez, A",
+                "Tang, W"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Introductory course emphasizing how patterns of behavior promote survival, change through evolution, and are modified by the environment.",
       []
     ],
     "IB 361": [
-      "IB 361",
-      {},
+      "Ecology and Human Health",
+      {
+        "A": [
+          "55722",
+          [
+            [
+              18,
+              "TR",
+              "213 Gregory Hall",
+              19,
+              [
+                "Anderson, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Exploration of the emergence of infectious diseases and other human health issues from an ecological perspective, including vector-borne diseases, diseases spread from wildlife in terrestrial and aquatic ecosystems, and the role of pathogens and parasites in community and population ecology, food webs, and ecosystem functioning. Attention will be placed on how current and future global change and biodiversity loss will contribute to the increasing prevalence of human emerging diseases.",
       []
     ],
     "IB 390": [
-      "IB 390",
-      {},
+      "Undergraduate Research Experience",
+      {
+        "45125": [
+          "45125",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "IB 405": [
-      "IB 405",
-      {},
-      [],
-      null,
+      "Laboratory and/or field research and/or reading supervised by faculty members in the School of Integrative Biology.",
       []
     ],
     "IB 392": [
-      "IB 392",
-      {},
+      "Translating Your IB Degree Into Career Success",
+      {
+        "A": [
+          "75576",
+          [
+            [
+              34,
+              "T",
+              "2020 Natural History Building",
+              25,
+              [
+                "Swanson, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "An exploration into what career options are available to students interested in biology. Students will develop the skills to stand out as an applicant and how to break into competitive fields, even in a tough or uncertain job market. The resources and connections necessary to be successful in biology will be presented, and over 20 alumni who are professionals in many biology- and health-related fields will provide insight and commentary. All assignments are real-life applications of course material, with every component meant to further career goals.",
+      []
+    ],
+    "IB 405": [
+      "Evolution of Traits and Genomes",
+      {
+        "A": [
+          "54801",
+          [
+            [
+              11,
+              "TR",
+              "2020B Natural History Building",
+              25,
+              [
+                "Heath, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Study of the evolution of phenotypic traits and genetics of natural populations, stressing empirical observations and experiments. Emphasis on recent theories of genotype/environmental interactions and their relationship to evolutionary processes. Offered in alternate years.",
       []
     ],
     "IB 407": [
-      "IB 407",
-      {},
+      "Plant Diversity and Evolution",
+      {
+        "AB2": [
+          "76860",
+          [
+            [
+              3,
+              "M",
+              "4072 Natural History Building",
+              25,
+              [
+                "Jog, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AB3": [
+          "76861",
+          [
+            [
+              56,
+              "M",
+              "4072 Natural History Building",
+              25,
+              [
+                "Jog, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "76859",
+          [
+            [
+              14,
+              "MWF",
+              "2083 Natural History Building",
+              25,
+              [
+                "Jog, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "IB 416": [
-      "IB 416",
-      {},
-      [],
-      null,
+      "Surveys the 500-million year evolutionary history of terrestrial plants, from the earliest spore-producing land plants to the “abominable mystery” of flowering plant evolution. Introduction to phylogenetic principles and methods for identifying, naming, and classifying plant diversity. A total evidence approach to phylogenetic systematics is presented with genetic, morphological, and paleontological data used to reconstruct the evolutionary relationships of extant and extinct taxa. Labs will focus on plant classification and identification.",
       []
     ],
     "IB 420": [
-      "IB 420",
-      {},
+      "Plant Physiology",
+      {
+        "A": [
+          "34655",
+          [
+            [
+              13,
+              "TR",
+              "2083 Natural History Building",
+              25,
+              [
+                "Brooks, M",
+                "McGrath, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "General course concerned with plant functions, including water relations, mineral nutrition, metabolism, growth, and reproduction.",
+      []
+    ],
+    "IB 416": [
+      "Population Genetics",
+      {
+        "A": [
+          "61603",
+          [
+            [
+              16,
+              "MWF",
+              "107 Animal Sciences Laboratory",
+              1,
+              [
+                "Roca, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as ANSC 446. See ANSC 446.",
       []
     ],
     "IB 432": [
-      "IB 432",
-      {},
+      "Genes and Behavior",
+      {
+        "AL1": [
+          "43661",
+          [
+            [
+              53,
+              "MW",
+              "1302 Everitt Laboratory",
+              13,
+              [
+                "Bell, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Concepts, methods, and problems in the analysis of the relationship between genes and behavior, the complex neurobiological processes that mediate action on behavior, in appropriate ecological and evolutionary contexts.",
       []
     ],
     "IB 435": [
-      "IB 435",
-      {},
+      "Critical Evaluation of Herbal Remedies",
+      {
+        "A": [
+          "66660",
+          [
+            [
+              16,
+              "MWF",
+              "2083 Natural History Building",
+              25,
+              [
+                "Berenbaum, M",
+                "Ludden, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "IB 451": [
-      "IB 451",
-      {},
-      [],
-      null,
+      "One-third of Americans use health care products derived from natural sources, particularly plants, but also animals, and fungi. This course examines the biological activity of natural products with respect to their ecological functions and their therapeutic uses. Principles of evidence-based medicine will be reviewed and students will evaluate natural remedies through lectures, in-class activities, discussions, and analyses of scientific papers. Overall, students develop skills useful for evaluating alternative remedies and for communicating their conclusions to the general public.",
       []
     ],
     "IB 438": [
-      "IB 438",
-      {},
+      "How Organisms Move",
+      {
+        "A": [
+          "76862",
+          [
+            [
+              26,
+              "M",
+              "4074 Natural History Building",
+              25,
+              [
+                "Anderson, P Anderson, P"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              25,
+              "TR",
+              "4074 Natural History Building",
+              25,
+              [
+                "Anderson, P Anderson, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "76863",
+          [
+            [
+              26,
+              "W",
+              "4074 Natural History Building",
+              25,
+              [
+                "Anderson, P Anderson, P"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              25,
+              "TR",
+              "4074 Natural History Building",
+              25,
+              [
+                "Anderson, P Anderson, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Examines the interaction between biological processes and the fundamental laws of mechanics. Covers general topics, such as structural analyses of anatomy, kinematics of movement, the behavior of organisms in fluids, and the importance of scaling, as well as specific topics, such as bird flight, fluid flow in cardio-vascular systems, and high speed predation. Lab culminates in student-designed, group projects to collect novel biomechanical data to answer questions about an organism of the students’ choice.",
       []
     ],
-    "IB 490": [
-      "IB 490",
-      {},
+    "IB 451": [
+      "Conservation Biology",
+      {
+        "AB2": [
+          "39290",
+          [
+            [
+              4,
+              "T",
+              "G27 Literatures, Cultures, & Ling",
+              26,
+              [
+                "Anderson, N",
+                "Jehn, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AB3": [
+          "47482",
+          [
+            [
+              4,
+              "W",
+              "G27 Literatures, Cultures, & Ling",
+              26,
+              [
+                "Anderson, N",
+                "Jehn, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "39288",
+          [
+            [
+              13,
+              "TR",
+              "2020B Natural History Building",
+              25,
+              [
+                "Anderson, N",
+                "Bagazinski, A",
+                "Jehn, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Synthesis of conservation biology with an emphasis on the preservation of biological diversity and its evolutionary potential. Laboratory includes an introduction to the use of modern molecular techniques in conservation biology, computer simulation modeling, and field conservation problem solving.",
       []
     ],
     "IB 461": [
-      "IB 461",
-      {},
+      "Ornithology",
+      {
+        "AB1": [
+          "48737",
+          [
+            [
+              72,
+              "M",
+              "4072 Natural History Building",
+              25,
+              [
+                "Gulson, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AB2": [
+          "48738",
+          [
+            [
+              72,
+              "W",
+              "4072 Natural History Building",
+              25,
+              [
+                "Gulson, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "39285",
+          [
+            [
+              5,
+              "MWF",
+              "2083 Natural History Building",
+              25,
+              [
+                "Gulson, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Structure, function, ecology, behavior, and evolution of the birds of the world; laboratory devoted to anatomy and identification; and field studies devoted to identification and behavior of birds. Independent research project and two optional weekend field trips.",
       []
     ],
     "IB 464": [
-      "IB 464",
-      {},
+      "Herpetology",
+      {
+        "AB1": [
+          "78935",
+          [
+            [
+              8,
+              "T",
+              "4072 Natural History Building",
+              25,
+              [
+                "Davis, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AB4": [
+          "39517",
+          [
+            [
+              26,
+              "T",
+              "4072 Natural History Building",
+              25,
+              [
+                "Davis, M",
+                "Karl, K",
+                "Martinez, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "39516",
+          [
+            [
+              14,
+              "MWF",
+              "2020A Natural History Building",
+              25,
+              [
+                "Davis, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Classification, diversity, structure, function, ecology, behavior and evolution of amphibians and reptiles. Laboratory devoted to anatomy and identification. Offered in alternate years.",
+      []
+    ],
+    "IB 490": [
+      "Independent Study",
+      {
+        "45126": [
+          "45126",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Laboratory and/or field research supervised by faculty members in the School of Integrative Biology. A written report is required.",
       []
     ],
     "IB 496": [
-      "IB 496",
-      {},
+      "Special Courses",
+      {
+        "CMC": [
+          "79127",
+          [
+            [
+              27,
+              "R",
+              "4072 Natural History Building",
+              25,
+              [
+                "Heads, S",
+                "Minnaert-Grote, J Heads, S",
+                "Minnaert-Grote, J"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              14,
+              "R",
+              "4072 Natural History Building",
+              25,
+              [
+                "Heads, S",
+                "Minnaert-Grote, J Heads, S",
+                "Minnaert-Grote, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ENM": [
+          "68712",
+          [
+            [
+              3,
+              "W",
+              "2090 Natural History Building",
+              25,
+              [
+                "Evangelista, D",
+                "Goodman, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "PAN": [
+          "44851",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Allan, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "PD1": [
+          "78948",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Allan, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          13,
+          0,
+          [],
+          -1
+        ],
+        "PD2": [
+          "78947",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Allan, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          13,
+          0,
+          [],
+          -1
+        ],
+        "PD3": [
+          "78946",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Allan, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          13,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Experimental and temporary courses.",
       []
     ],
     "IB 497": [
-      "IB 497",
-      {},
+      "Science Communication",
+      {
+        "A": [
+          "76090",
+          [
+            [
+              36,
+              "MW",
+              "TBA",
+              0,
+              [
+                "Ngumbi, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Trains emerging scientists to communicate beyond academia. Explores the various avenues that can be used to communicate science with different audiences. Through weekly lectures, practical assignments and invited guest lecture presentations, this course builds critical skills in written and oral communication relevant to all careers as well as the art of writing and pitching opinion pieces to various media outlets for public engagement.",
       []
     ],
     "IB 504": [
-      "IB 504",
-      {},
+      "Genomic Analysis of Insects",
+      {
+        "1": [
+          "39526",
+          [
+            [
+              75,
+              "TR",
+              "4004 Natural History Building",
+              25,
+              [
+                "Zhou, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Comprehensive and integrated presentation of insect genomic analysis from the molecular level to that of the population; concepts are applied to certain aspects of insect population regulation. Offered in alternate years.",
       []
     ],
     "IB 505": [
-      "IB 505",
-      {},
+      "Bioinformatics & Systems Biol",
+      {
+        "A": [
+          "51368",
+          [
+            [
+              7,
+              "MW",
+              "ONLINE",
+              0,
+              [
+                "Caetano-Anolles, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Same as CPSC 567. See CPSC 567.",
       []
     ],
     "IB 506": [
-      "IB 506",
-      {},
+      "Applied Bioinformatics",
+      {
+        "A": [
+          "78291",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Caetano-Anolles, G",
+                "Rodriguez Zas, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Same as ANSC 542 and CPSC 569. See ANSC 542.",
       []
     ],
     "IB 513": [
-      "IB 513",
-      {},
+      "Plant Science Seminar",
+      {
+        "G1": [
+          "34683",
+          [
+            [
+              15,
+              "W",
+              "W109 Turner Hall",
+              0,
+              [
+                "Marks, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          14,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "IB 542": [
-      "IB 542",
-      {},
-      [],
-      null,
+      "Exposes students to current research topics and scientists working in diverse areas of Plant Science research.",
       []
     ],
     "IB 526": [
-      "IB 526",
-      {},
+      "Seminar in Entomology",
+      {
+        "A1": [
+          "34688",
+          [
+            [
+              5,
+              "T",
+              "B102 Chemical and Life Sci Lab",
+              0,
+              [
+                "Suarez, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          15,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Discussions, reviews, and appraisals of special topics in the field of entomology.",
+      []
+    ],
+    "IB 533": [
+      "Human Genome & Bioinformatics",
+      {
+        "A": [
+          "77213",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Manaster, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Highlights advances in understanding the human genome, utilizing the latest techniques in bioinformatics, i.e. acquiring, analyzing, storing, and displaying the information from the entire genome and protein sequences. Explores the latest laboratory techniques, as well as the use of extensive online databases and software. Students explore the significance of sequencing the human genome, applying bioinformatics to the genome, and realizing its potential to understand human health, disease, and the place of humans in the large ecosystem.",
+      []
+    ],
+    "IB 542": [
+      "Environmental Plant Physiology",
+      {
+        "1": [
+          "39428",
+          [
+            [
+              76,
+              "TR",
+              "2090 Natural History Building",
+              25,
+              [
+                "Lawson, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "The interaction of plants and environment at the level of the whole organism, extending to the cell and the community; emphasis on heat and mass transfer, plant and soil potentials, and effects of light on growth.",
       []
     ],
     "IB 546": [
-      "IB 546",
-      {},
+      "Topics in Ecology & Evolution",
+      {
+        "EEB": [
+          "61535",
+          [
+            [
+              14,
+              "F",
+              "2004 Natural History Building",
+              25,
+              [
+                "Fuller, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          8,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Speaker seminar series featuring discussion, review and critical analysis of general concepts and specific problems in ecology and evolution.",
       []
     ],
     "IB 590": [
-      "IB 590",
-      {},
+      "Individual Topics",
+      {
+        "10455": [
+          "10455",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          12,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Individual topics in research conducted under the supervision of faculty members in the School of Integrative Biology. Designed for graduate students who would like to become more familiar with specialized fields of study prior to committing themselves to a specific area for their doctorate degree.",
       []
     ],
     "IB 550": [
-      "IB 550",
-      {},
+      "Topics in Ecology, Evolution, and Conservation Biology",
+      {
+        "PS1": [
+          "78974",
+          [
+            [
+              34,
+              "W",
+              "B102 Chemical and Life Sci Lab",
+              0,
+              [
+                "Yannarell, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          8,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Weekly seminar featuring presentations by scholars in ecology, evolution, conservation biology, organismal biology, and related disciplines. Students engage with current research, broaden their understanding of contemporary questions in the biological sciences, and participate in scholarly discussions. The seminar also provides opportunities for professional development through scientific communication, networking, and interactions with visiting speakers, fostering professional connections and a deeper understanding of research careers. Intended for graduate students in ecology, evolution, conservation biology, and related fields.",
       []
     ],
     "IB 456": [
-      "IB 456",
-      {},
+      "Advanced Tropical Marine Biology",
+      {
+        "A": [
+          "79099",
+          [
+            [
+              58,
+              "F",
+              "4074 Natural History Building",
+              25,
+              [
+                "Hofmann, T Hofmann, T"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              11,
+              "TR",
+              "4074 Natural History Building",
+              25,
+              [
+                "Hofmann, T Hofmann, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          10,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Offers a comprehensive exploration of tropical marine ecosystems, focusing on the biogeography, evolution, and ecology of coral reefs, mangroves, and seagrass beds. Students will investigate the function, physiology, behavior, and ecological roles of tropical marine organisms, as well as the evolutionary dynamics of reef systems and their inhabitants.",
       []
     ]
   },
   "caches": {
-    "periods": [],
+    "periods": [
+      "ARRANGED",
+      "0900 - 1050",
+      "1400 - 1550",
+      "1300 - 1450",
+      "1200 - 1350",
+      "1100 - 1150",
+      "1000 - 1050",
+      "1000 - 1150",
+      "0900 - 1150",
+      "1400 - 1450",
+      "1900 - 2030",
+      "1100 - 1220",
+      "0900 - 1020",
+      "0930 - 1050",
+      "0900 - 0950",
+      "1200 - 1250",
+      "1300 - 1350",
+      "1100 - 1250",
+      "1230 - 1350",
+      "1600 - 1715",
+      "1600 - 1750",
+      "0800 - 1150",
+      "1430 - 1620",
+      "1530 - 1650",
+      "1600 - 1720",
+      "1400 - 1520",
+      "1400 - 1650",
+      "1300 - 1550",
+      "1300 - 1440",
+      "1700 - 1820",
+      "1700 - 1850",
+      "1730 - 2030",
+      "1700 - 1750",
+      "1500 - 1550",
+      "1600 - 1650",
+      "1730 - 2020",
+      "1000 - 1120",
+      "1500 - 1620",
+      "0900 - 1040",
+      "1200 - 1340",
+      "0930 - 1020",
+      "0800 - 0920",
+      "1530 - 1645",
+      "1700 - 1815",
+      "0930 - 1045",
+      "1100 - 1215",
+      "1400 - 1515",
+      "1230 - 1345",
+      "1200 - 1315",
+      "1330 - 1450",
+      "1300 - 1420",
+      "1630 - 1750",
+      "1030 - 1150",
+      "1200 - 1320",
+      "1800 - 1920",
+      "1800 - 1950",
+      "1500 - 1650",
+      "1230 - 1520",
+      "1000 - 1250",
+      "1730 - 1920",
+      "1600 - 1850",
+      "1200 - 1450",
+      "1730 - 1850",
+      "1100 - 1350",
+      "1700 - 1950",
+      "1030 - 1320",
+      "1530 - 1820",
+      "1900 - 2050",
+      "1500 - 1750",
+      "1830 - 2020",
+      "0930 - 1220",
+      "0800 - 0950",
+      "0800 - 1050",
+      "1800 - 1850",
+      "1300 - 1650",
+      "1400 - 1530",
+      "0930 - 1120"
+    ],
     "dateRanges": [],
-    "scheduleTypes": [],
+    "scheduleTypes": [
+      "Online",
+      "Laboratory",
+      "Lecture",
+      "Laboratory-Discussion",
+      "Internship",
+      "Lecture-Discussion",
+      "Online Lecture-Discussion",
+      "Independent Study",
+      "Discussion/Recitation",
+      "Online Lecture",
+      "Packaged Section",
+      "Study Abroad",
+      "Research",
+      "Online Discussion",
+      "Seminar",
+      "Conference"
+    ],
     "campuses": [],
     "attributes": [],
     "restrictions": [],
     "gradeBases": [],
-    "locations": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.0995003,
+        "long": -88.223104
+      },
+      {
+        "lat": 40.10127390836906,
+        "long": -88.2226073524728
+      },
+      {
+        "lat": 40.104794,
+        "long": -88.224264
+      },
+      {
+        "lat": 40.1072225,
+        "long": -88.2262016
+      },
+      {
+        "lat": 40.1047599,
+        "long": -88.2319514
+      },
+      {
+        "lat": 40.1020773,
+        "long": -88.2296394
+      },
+      {
+        "lat": 40.105587640130146,
+        "long": -88.22025111416733
+      },
+      {
+        "lat": 40.102726858556835,
+        "long": -88.23259991223857
+      },
+      {
+        "lat": 40.110811306674734,
+        "long": -88.2248467072371
+      },
+      {
+        "lat": 40.1131317,
+        "long": -88.2264552
+      },
+      {
+        "lat": 40.11171215875622,
+        "long": -88.22530849701589
+      },
+      {
+        "lat": 40.11246109008789,
+        "long": -88.22831726074219
+      },
+      {
+        "lat": 40.1109722,
+        "long": -88.2282631
+      },
+      {
+        "lat": 40.107534,
+        "long": -88.2281548
+      },
+      {
+        "lat": 40.1108856,
+        "long": -88.2269806
+      },
+      {
+        "lat": 40.11085653938169,
+        "long": -88.22609810215927
+      },
+      {
+        "lat": 40.1110937,
+        "long": -88.2232348
+      },
+      {
+        "lat": 40.108419421661715,
+        "long": -88.2261156301609
+      },
+      {
+        "lat": 40.105732,
+        "long": -88.2281018
+      },
+      {
+        "lat": 40.107811,
+        "long": -88.2260761
+      },
+      {
+        "lat": 40.106778040727896,
+        "long": -88.2194617156191
+      },
+      {
+        "lat": 40.1065684,
+        "long": -88.2281746
+      },
+      {
+        "lat": 40.10755766472843,
+        "long": -88.22995430218522
+      },
+      {
+        "lat": 40.103620555545135,
+        "long": -88.22982720445013
+      },
+      {
+        "lat": 40.10944320239664,
+        "long": -88.22602522743233
+      },
+      {
+        "lat": 40.10628,
+        "long": -88.22621
+      },
+      {
+        "lat": 40.1083446,
+        "long": -88.2282555
+      },
+      {
+        "lat": 40.103587,
+        "long": -88.230606
+      },
+      {
+        "lat": 40.1034533,
+        "long": -88.2327596
+      },
+      {
+        "lat": 40.10764262805109,
+        "long": -88.23074052515514
+      },
+      {
+        "lat": 40.111691,
+        "long": -88.2242511
+      },
+      {
+        "lat": 40.1035833,
+        "long": -88.228405
+      },
+      {
+        "lat": 40.10593795776367,
+        "long": -88.2270736694336
+      }
+    ],
     "finalDates": [],
     "finalTimes": []
   }

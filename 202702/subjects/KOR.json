@@ -1,60 +1,529 @@
 {
   "subject": "KOR",
-  "scrapedAt": 1791782623883,
+  "scrapedAt": 1794504036900,
   "courseCount": 6,
   "courses": {
-    "KOR 202": [
-      "KOR 202",
-      {},
+    "KOR 204": [
+      "Intermediate Korean II",
+      {
+        "C": [
+          "35284",
+          [
+            [
+              14,
+              "MTWRF",
+              "1110 Literatures, Cultures, & Ling",
+              26,
+              [
+                "Ha, J",
+                "Kim, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "D": [
+          "65683",
+          [
+            [
+              15,
+              "MTWRF",
+              "1126 Literatures, Cultures, & Ling",
+              26,
+              [
+                "Ha, J",
+                "Yun, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Continuation of KOR 203 and second semester of the second year Korean. Students practice conversations and study grammar based on conversational materials with variety of styles and levels of discourse and usage, to achieve intermediate-level fluency in speaking, listening, reading and writing in the Korean language.",
+      []
+    ],
+    "KOR 202": [
+      "Elementary Korean II",
+      {
+        "C": [
+          "35283",
+          [
+            [
+              6,
+              "MTWRF",
+              "G24 Literatures, Cultures, & Ling",
+              26,
+              [
+                "Ha, J",
+                "Jeon, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "D": [
+          "76811",
+          [
+            [
+              15,
+              "MTWRF",
+              "1136 Literatures, Cultures, & Ling",
+              26,
+              [
+                "Ha, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "X": [
+          "40035",
+          [
+            [
+              14,
+              "MTWRF",
+              "1038 Literatures, Cultures, & Ling",
+              26,
+              [
+                "Ha, J",
+                "Yun, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Continuation of KOR 201, and second semester of first year Korean. Students learn basic grammar, vocabulary, and commonly used expressions by practicing conversations and reading conversation based texts, to achieve beginning-intermediate levels of speaking, listening, reading, and writing in the Korean language.",
       []
     ],
     "KOR 222": [
-      "KOR 222",
-      {},
+      "Korean Reading and Writing II",
+      {
+        "D": [
+          "35286",
+          [
+            [
+              5,
+              "MTWR",
+              "325 Gregory Hall",
+              19,
+              [
+                "Ha, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "KOR 204": [
-      "KOR 204",
-      {},
-      [],
-      null,
+      "Continuation of KOR 221 and second semester of spoken and written Korean for the students with background in Korean. Students learn basic grammar, vocabulary, and commonly used expressions, to achieve the beginning-intermediate level proficiency in reading and writing as well as in speaking of Korean.",
       []
     ],
     "KOR 242": [
-      "KOR 242",
-      {},
+      "Korean Reading and Writing IV",
+      {
+        "C": [
+          "35289",
+          [
+            [
+              16,
+              "MTWR",
+              "1110 Literatures, Cultures, & Ling",
+              26,
+              [
+                "Ha, J",
+                "Yun, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "KOR 441": [
-      "KOR 441",
-      {},
-      [],
-      null,
+      "Continuation of KOR 241 and second semester of the second year of spoken and written Korean. Students are exposed to theme-related passages and dialogues, practicing speaking, listening, reading, and writing, in order to achieve advanced-intermediate level proficiency in Korean.",
       []
     ],
     "KOR 306": [
-      "KOR 306",
-      {},
+      "Advanced Korean II",
+      {
+        "D": [
+          "35290",
+          [
+            [
+              15,
+              "MTWRF",
+              "G8B Literatures, Cultures, & Ling",
+              26,
+              [
+                "Ha, J",
+                "Kim, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Continuation of KOR 305 and second semester of third year Korean. Concentrates on enhancing the level of fluency in speaking, listening, reading and writing of Korean. Students will learn about more advanced-level vocabulary and everyday expressions and read texts in Korean where Korean culture is introduced and discussed.",
+      []
+    ],
+    "KOR 441": [
+      "Fourth Year Korean II",
+      {
+        "R3": [
+          "43309",
+          [
+            [
+              18,
+              "TR",
+              "1032 Literatures, Cultures, & Ling",
+              26,
+              [
+                "Ha, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "R4": [
+          "59900",
+          [
+            [
+              18,
+              "TR",
+              "1032 Literatures, Cultures, & Ling",
+              26,
+              [
+                "Ha, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Allows advanced students to further develop their reading comprehension of authentic texts through the acquisition of advanced-level vocabulary and expressions, and to discuss and write on various topics and issues related to contemporary Korea.",
       []
     ]
   },
   "caches": {
-    "periods": [],
+    "periods": [
+      "ARRANGED",
+      "0900 - 1050",
+      "1400 - 1550",
+      "1300 - 1450",
+      "1200 - 1350",
+      "1100 - 1150",
+      "1000 - 1050",
+      "1000 - 1150",
+      "0900 - 1150",
+      "1400 - 1450",
+      "1900 - 2030",
+      "1100 - 1220",
+      "0900 - 1020",
+      "0930 - 1050",
+      "0900 - 0950",
+      "1200 - 1250",
+      "1300 - 1350",
+      "1100 - 1250",
+      "1230 - 1350",
+      "1600 - 1715",
+      "1600 - 1750",
+      "0800 - 1150",
+      "1430 - 1620",
+      "1530 - 1650",
+      "1600 - 1720",
+      "1400 - 1520",
+      "1400 - 1650",
+      "1300 - 1550",
+      "1300 - 1440",
+      "1700 - 1820",
+      "1700 - 1850",
+      "1730 - 2030",
+      "1700 - 1750",
+      "1500 - 1550",
+      "1600 - 1650",
+      "1730 - 2020",
+      "1000 - 1120",
+      "1500 - 1620",
+      "0900 - 1040",
+      "1200 - 1340",
+      "0930 - 1020",
+      "0800 - 0920",
+      "1530 - 1645",
+      "1700 - 1815",
+      "0930 - 1045",
+      "1100 - 1215",
+      "1400 - 1515",
+      "1230 - 1345",
+      "1200 - 1315",
+      "1330 - 1450",
+      "1300 - 1420",
+      "1630 - 1750",
+      "1030 - 1150",
+      "1200 - 1320",
+      "1800 - 1920",
+      "1800 - 1950",
+      "1500 - 1650",
+      "1230 - 1520",
+      "1000 - 1250",
+      "1730 - 1920",
+      "1600 - 1850",
+      "1200 - 1450",
+      "1730 - 1850",
+      "1100 - 1350",
+      "1700 - 1950",
+      "1030 - 1320",
+      "1530 - 1820",
+      "1900 - 2050",
+      "1500 - 1750",
+      "1830 - 2020",
+      "0930 - 1220",
+      "0800 - 0950",
+      "0800 - 1050",
+      "1800 - 1850",
+      "1300 - 1650",
+      "1400 - 1530",
+      "0930 - 1120",
+      "0930 - 1210",
+      "1300 - 1540",
+      "1130 - 1320",
+      "1330 - 1620"
+    ],
     "dateRanges": [],
-    "scheduleTypes": [],
+    "scheduleTypes": [
+      "Online",
+      "Laboratory",
+      "Lecture",
+      "Laboratory-Discussion",
+      "Internship",
+      "Lecture-Discussion",
+      "Online Lecture-Discussion",
+      "Independent Study",
+      "Discussion/Recitation",
+      "Online Lecture",
+      "Packaged Section",
+      "Study Abroad",
+      "Research",
+      "Online Discussion",
+      "Seminar",
+      "Conference",
+      "Online Lab"
+    ],
     "campuses": [],
     "attributes": [],
     "restrictions": [],
     "gradeBases": [],
-    "locations": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.0995003,
+        "long": -88.223104
+      },
+      {
+        "lat": 40.10127390836906,
+        "long": -88.2226073524728
+      },
+      {
+        "lat": 40.104794,
+        "long": -88.224264
+      },
+      {
+        "lat": 40.1072225,
+        "long": -88.2262016
+      },
+      {
+        "lat": 40.1047599,
+        "long": -88.2319514
+      },
+      {
+        "lat": 40.1020773,
+        "long": -88.2296394
+      },
+      {
+        "lat": 40.105587640130146,
+        "long": -88.22025111416733
+      },
+      {
+        "lat": 40.102726858556835,
+        "long": -88.23259991223857
+      },
+      {
+        "lat": 40.110811306674734,
+        "long": -88.2248467072371
+      },
+      {
+        "lat": 40.1131317,
+        "long": -88.2264552
+      },
+      {
+        "lat": 40.11171215875622,
+        "long": -88.22530849701589
+      },
+      {
+        "lat": 40.11246109008789,
+        "long": -88.22831726074219
+      },
+      {
+        "lat": 40.1109722,
+        "long": -88.2282631
+      },
+      {
+        "lat": 40.107534,
+        "long": -88.2281548
+      },
+      {
+        "lat": 40.1108856,
+        "long": -88.2269806
+      },
+      {
+        "lat": 40.11085653938169,
+        "long": -88.22609810215927
+      },
+      {
+        "lat": 40.1110937,
+        "long": -88.2232348
+      },
+      {
+        "lat": 40.108419421661715,
+        "long": -88.2261156301609
+      },
+      {
+        "lat": 40.105732,
+        "long": -88.2281018
+      },
+      {
+        "lat": 40.107811,
+        "long": -88.2260761
+      },
+      {
+        "lat": 40.106778040727896,
+        "long": -88.2194617156191
+      },
+      {
+        "lat": 40.1065684,
+        "long": -88.2281746
+      },
+      {
+        "lat": 40.10755766472843,
+        "long": -88.22995430218522
+      },
+      {
+        "lat": 40.103620555545135,
+        "long": -88.22982720445013
+      },
+      {
+        "lat": 40.10944320239664,
+        "long": -88.22602522743233
+      },
+      {
+        "lat": 40.10628,
+        "long": -88.22621
+      },
+      {
+        "lat": 40.1083446,
+        "long": -88.2282555
+      },
+      {
+        "lat": 40.103587,
+        "long": -88.230606
+      },
+      {
+        "lat": 40.1034533,
+        "long": -88.2327596
+      },
+      {
+        "lat": 40.10764262805109,
+        "long": -88.23074052515514
+      },
+      {
+        "lat": 40.111691,
+        "long": -88.2242511
+      },
+      {
+        "lat": 40.1035833,
+        "long": -88.228405
+      },
+      {
+        "lat": 40.10593795776367,
+        "long": -88.2270736694336
+      }
+    ],
     "finalDates": [],
     "finalTimes": []
   }
