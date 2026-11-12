@@ -1,137 +1,1843 @@
 {
   "subject": "ESL",
-  "scrapedAt": 1791782452923,
+  "scrapedAt": 1794503500410,
   "courseCount": 17,
   "courses": {
-    "ESL 110": [
-      "ESL 110",
-      {},
-      [],
-      null,
-      []
-    ],
     "ESL 112": [
-      "ESL 112",
-      {},
+      "Intro to Academic Writing II",
+      {
+        "B": [
+          "60648",
+          [
+            [
+              91,
+              "MWF",
+              "G13 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Faivre, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "C": [
+          "60649",
+          [
+            [
+              11,
+              "MWF",
+              "G13 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Faivre, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "D": [
+          "60650",
+          [
+            [
+              9,
+              "MWF",
+              "G52 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Faivre, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "E": [
+          "60651",
+          [
+            [
+              10,
+              "MWF",
+              "G52 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Faivre, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "F": [
+          "60652",
+          [
+            [
+              8,
+              "MWF",
+              "G52 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Faivre, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "G": [
+          "60653",
+          [
+            [
+              22,
+              "MWF",
+              "G23 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Faivre, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "I": [
+          "60663",
+          [
+            [
+              16,
+              "MWF",
+              "G23 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Faivre, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "J": [
+          "60656",
+          [
+            [
+              28,
+              "MWF",
+              "G23 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Faivre, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "Q": [
+          "69178",
+          [
+            [
+              28,
+              "MWF",
+              "G52 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Faivre, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "S": [
+          "69180",
+          [
+            [
+              16,
+              "MWF",
+              "G52 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Faivre, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Continued instruction of the fundamentals of the multi-paragraph essay and introduction to research writing; instruction on basics of library research, synthesizing sources, and elements of style. This is the second term of a two-term sequence (ESL 111-ESL 112) that satisfies the campus Composition I general education requirement.",
       []
     ],
     "ESL 111": [
-      "ESL 111",
-      {},
+      "Intro to Academic Writing I",
+      {
+        "J": [
+          "61320",
+          [
+            [
+              10,
+              "MWF",
+              "G13 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Faivre, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Introduction to the process of writing: fundamentals of paragraph development: analysis of rhetorical patterns: development of oral skills. This course is the first term of a two-term sequence (ESL 111-ESL 112) that fulfills the campus Composition I general education requirement.",
+      []
+    ],
+    "ESL 110": [
+      "English Pronunciation & Oral Fluency",
+      {
+        "A": [
+          "63051",
+          [
+            [
+              73,
+              "MW",
+              "ONLINE",
+              0,
+              [
+                "Faivre, S",
+                "Franks, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "47488",
+          [
+            [
+              22,
+              "MWF",
+              "307 English Building",
+              20,
+              [
+                "Faivre, S",
+                "Franks, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "C": [
+          "33119",
+          [
+            [
+              9,
+              "MWF",
+              "G23 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Faivre, S",
+                "Franks, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Designed to improve the international student's ability to speak and understand English at normal conversational speed and to give the student the ability to continue improving pronunciation and oral fluency skills after the course is finished. Focus on the rhythm, stress, intonation, and sounds of natural speech and on fluency building strategies.",
       []
     ],
     "ESL 115": [
-      "ESL 115",
-      {},
+      "Principles of Academic Writing",
+      {
+        "A1": [
+          "59118",
+          [
+            [
+              10,
+              "MWF",
+              "G23 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Faivre, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "B1": [
+          "59119",
+          [
+            [
+              8,
+              "MWF",
+              "G13 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Faivre, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "C1": [
+          "59120",
+          [
+            [
+              11,
+              "MWF",
+              "G23 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Faivre, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "D1": [
+          "59121",
+          [
+            [
+              16,
+              "MWF",
+              "G13 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Faivre, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "J": [
+          "51002",
+          [
+            [
+              8,
+              "MWF",
+              "G23 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Faivre, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "K": [
+          "55439",
+          [
+            [
+              28,
+              "MWF",
+              "G13 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Faivre, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "L1": [
+          "60655",
+          [
+            [
+              9,
+              "MWF",
+              "G13 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Faivre, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "Q": [
+          "59108",
+          [
+            [
+              11,
+              "MWF",
+              "G52 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Faivre, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "U": [
+          "59112",
+          [
+            [
+              22,
+              "MWF",
+              "G52 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Faivre, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Introduction to the research paper, including the writing process: pre-research, academic style and organization, and a variety of writing and skill-building tasks; development of peer and self-editing skills. ESL 115 fulfills the campus Composition I requirement for non-native speakers of English.",
       []
     ],
     "ESL 504": [
-      "ESL 504",
-      {},
+      "English Pronunciation for ITAs",
+      {
+        "A": [
+          "33139",
+          [
+            [
+              73,
+              "TR",
+              "ONLINE",
+              0,
+              [
+                "Faivre, S",
+                "Franks, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Sounds, rhythm, and melody of spoken English for current and potential international teaching assistants who are required to teach in English. Includes word and phrase level study; special emphasis on the pronunciation of English vocabulary in students' own academic disciplines.",
       []
     ],
     "ESL 506": [
-      "ESL 506",
-      {},
+      "Oral Communication for ITAs",
+      {
+        "L": [
+          "33144",
+          [
+            [
+              13,
+              "MW",
+              "G8B Literatures, Cultures, & Ling",
+              3,
+              [
+                "Faivre, S",
+                "Franks, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "M": [
+          "47661",
+          [
+            [
+              24,
+              "MW",
+              "G8B Literatures, Cultures, & Ling",
+              3,
+              [
+                "Faivre, S",
+                "Franks, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Focuses on use of English at the discourse level, with videotaping and critique of student presentation and development of teaching strategies related to university classroom and laboratory contexts.",
       []
     ],
     "ESL 508": [
-      "ESL 508",
-      {},
+      "Seminar for Intl TAs",
+      {
+        "A": [
+          "54687",
+          [
+            [
+              68,
+              "M",
+              "G18 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Faivre, S",
+                "Franks, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "61151",
+          [
+            [
+              61,
+              "T",
+              "G18 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Faivre, S",
+                "Franks, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "C": [
+          "58006",
+          [
+            [
+              20,
+              "W",
+              "1024 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Faivre, S",
+                "Franks, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "D": [
+          "67525",
+          [
+            [
+              61,
+              "R",
+              "ONLINE",
+              0,
+              [
+                "Faivre, S",
+                "Franks, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "F": [
+          "73712",
+          [
+            [
+              61,
+              "T",
+              "ONLINE",
+              0,
+              [
+                "Faivre, S",
+                "Franks, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "G": [
+          "73790",
+          [
+            [
+              68,
+              "W",
+              "G3 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Faivre, S",
+                "Franks, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "H": [
+          "73907",
+          [
+            [
+              68,
+              "R",
+              "G8B Literatures, Cultures, & Ling",
+              3,
+              [
+                "Faivre, S",
+                "Franks, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "ESL 510": [
-      "ESL 510",
-      {},
-      [],
-      null,
+      "Provides students with knowledge, resources and strategies to guide their ongoing development as international teaching assistants. Students analyze model teaching, receive feedback about their own strengths and weaknesses as a teaching assistant, and address key language or pedagogical concerns through a focused and customized term project.",
       []
     ],
     "ESL 511": [
-      "ESL 511",
-      {},
+      "Written and Oral Communication",
+      {
+        "C": [
+          "71129",
+          [
+            [
+              1,
+              "T",
+              "ONLINE",
+              0,
+              [
+                "Faivre, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Instruction in foundational skills for academic communication; skills covered include summarizing and synthesizing sources, reading and evaluating scholarly articles, and delivering oral presentations for an academic audience. This course is the first term of a two-term sequence (ESL 511-ESL 512).",
+      []
+    ],
+    "ESL 510": [
+      "English Pronunciation & Oral Fluency",
+      {
+        "A": [
+          "63052",
+          [
+            [
+              73,
+              "MW",
+              "ONLINE",
+              0,
+              [
+                "Faivre, S",
+                "Franks, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "47489",
+          [
+            [
+              22,
+              "MWF",
+              "307 English Building",
+              20,
+              [
+                "Faivre, S",
+                "Franks, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "C": [
+          "33147",
+          [
+            [
+              9,
+              "MWF",
+              "G23 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Faivre, S",
+                "Franks, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Designed to improve the international student's ability to speak and understand English at normal conversational speed and to give the student the ability to continue improving pronunciation and oral fluency skills after the course is finished. Focus on the rhythm, stress, intonation, and sounds of natural speech and on fluency building strategies.",
       []
     ],
     "ESL 512": [
-      "ESL 512",
-      {},
+      "Introduction to Academic Writing",
+      {
+        "A": [
+          "67528",
+          [
+            [
+              24,
+              "T",
+              "ONLINE",
+              0,
+              [
+                "Faivre, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "C": [
+          "67530",
+          [
+            [
+              0,
+              "TR",
+              "G23 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Faivre, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "E": [
+          "67532",
+          [
+            [
+              0,
+              "TR",
+              "G13 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Faivre, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "H": [
+          "67535",
+          [
+            [
+              1,
+              "TR",
+              "G23 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Faivre, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "I": [
+          "67536",
+          [
+            [
+              13,
+              "TR",
+              "G13 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Faivre, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Instruction in writing secondary and primary research papers; skills covered include developing research questions and design, evaluating and synthesizing scholarly sources, producing well-reasoned and substantiated arguments, and writing research/project proposal. This course is the second term of a two-term course sequence (ESL 511-ESL 512).",
       []
     ],
     "ESL 521": [
-      "ESL 521",
-      {},
+      "Written and Oral Business Communication",
+      {
+        "A": [
+          "67542",
+          [
+            [
+              13,
+              "T",
+              "ONLINE",
+              0,
+              [
+                "Faivre, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Instruction for essential skills in business communication both in academic and professional settings; skills covered include writing professional correspondence, summarizing and analyzing sources, designing attractive documents, case-based writing, and delivering oral presentations.",
       []
     ],
     "ESL 515": [
-      "ESL 515",
-      {},
+      "Introduction to Academic Writing",
+      {
+        "B": [
+          "67539",
+          [
+            [
+              0,
+              "T",
+              "ONLINE",
+              0,
+              [
+                "Faivre, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "C": [
+          "67540",
+          [
+            [
+              14,
+              "TR",
+              "G23 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Faivre, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "E": [
+          "75896",
+          [
+            [
+              24,
+              "TR",
+              "G23 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Faivre, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Instruction in essential skills in academic writing; skills for writing secondary and primary research papers, including developing research questions and design, evaluating and synthesizing scholarly sources, and producing well-reasoned and substantiated arguments.",
       []
     ],
     "ESL 522": [
-      "ESL 522",
-      {},
+      "Introduction to Business Writing",
+      {
+        "B": [
+          "67544",
+          [
+            [
+              14,
+              "TR",
+              "G13 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Faivre, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "E": [
+          "67547",
+          [
+            [
+              1,
+              "TR",
+              "G13 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Faivre, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "G": [
+          "68193",
+          [
+            [
+              13,
+              "T",
+              "ONLINE",
+              0,
+              [
+                "Faivre, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "Q": [
+          "69182",
+          [
+            [
+              24,
+              "TR",
+              "G52 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Faivre, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "ESL 535": [
-      "ESL 535",
-      {},
-      [],
-      null,
+      "Continued instruction in essential skills in business communication both in academic and professional settings; Skills covered include writing professional correspondence and business proposals, synthesizing sources, and participating in group discussions. This course is the second term of a two-term course sequence (ESL 521 - ESL 522).",
       []
     ],
     "ESL 525": [
-      "ESL 525",
-      {},
+      "Elements of Business Writing",
+      {
+        "A": [
+          "73396",
+          [
+            [
+              42,
+              "T",
+              "ONLINE",
+              0,
+              [
+                "Faivre, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "73397",
+          [
+            [
+              13,
+              "TR",
+              "G52 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Faivre, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "C": [
+          "73398",
+          [
+            [
+              1,
+              "TR",
+              "G52 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Faivre, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Instruction in essential skills in business communication both in academic and professional settings; skills covered include business proposals, synthesizing sources, and participating in group discussions.",
       []
     ],
     "ESL 592": [
-      "ESL 592",
-      {},
+      "Advanced Academic Writing",
+      {
+        "A": [
+          "67549",
+          [
+            [
+              24,
+              "TR",
+              "ONLINE",
+              0,
+              [
+                "Faivre, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "67550",
+          [
+            [
+              0,
+              "TR",
+              "ONLINE",
+              0,
+              [
+                "Faivre, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "IND": [
+          "73395",
+          [
+            [
+              0,
+              "T",
+              "TBA",
+              0,
+              [
+                "Faivre, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Provides advanced international students additional support in the conventions of professional academic writing in their own fields. Through the use of Contract Learning, students define and pursue individualized writing goals for their own major programs with the support of the instructor. Lessons in genre analysis enable students to derive field-specific models for research articles, theses, and dissertations.",
+      []
+    ],
+    "ESL 535": [
+      "Introduction to Technical Writing",
+      {
+        "A": [
+          "77247",
+          [
+            [
+              13,
+              "TR",
+              "G23 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Faivre, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "77249",
+          [
+            [
+              0,
+              "TR",
+              "G52 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Faivre, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Instruction in essential skills in technical writing, such as communicating specialized knowledge to a range of audiences and communicating with clear wording, structure, and design. Assignments will include instructions, reports, proposals, or other technical communication tasks commonly done in STEM fields. This course also includes instruction on using AI writing tools responsibly and effectively and fundamental writing skills that can support the utilization of such tools.",
       []
     ],
     "ESL 593": [
-      "ESL 593",
-      {},
+      "Academic Presentation Skills",
+      {
+        "A": [
+          "67551",
+          [
+            [
+              24,
+              "TR",
+              "ONLINE",
+              0,
+              [
+                "Faivre, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Provides international students with opportunities to improve skills in effectively presenting research in both oral and written formats in preparation for the professional conference presentation process. Students will practice orally explaining their research, asking and answering questions, giving and receiving feedback, and writing a conference proposal with the aim of creating and delivering compelling, professional presentations.",
       []
     ]
   },
   "caches": {
-    "periods": [],
+    "periods": [
+      "1100 - 1220",
+      "1230 - 1350",
+      "1500 - 1620",
+      "1700 - 1950",
+      "ARRANGED",
+      "1300 - 1550",
+      "0800 - 0950",
+      "1500 - 1650",
+      "1100 - 1150",
+      "0900 - 0950",
+      "1000 - 1050",
+      "1300 - 1350",
+      "1300 - 1420",
+      "1530 - 1650",
+      "1400 - 1520",
+      "1530 - 1620",
+      "1500 - 1550",
+      "0730 - 0920",
+      "1100 - 1250",
+      "1300 - 1450",
+      "0900 - 1050",
+      "1630 - 1720",
+      "1400 - 1450",
+      "1200 - 1250",
+      "0930 - 1050",
+      "1830 - 1950",
+      "1600 - 1730",
+      "0900 - 1020",
+      "1600 - 1650",
+      "1400 - 1550",
+      "1230 - 1320",
+      "1100 - 1350",
+      "1200 - 1320",
+      "1200 - 1450",
+      "1500 - 1750",
+      "0930 - 1220",
+      "1400 - 1650",
+      "1100 - 1320",
+      "1000 - 1150",
+      "0900 - 1150",
+      "1300 - 1750",
+      "1800 - 2050",
+      "1700 - 1820",
+      "1530 - 1820",
+      "1430 - 1520",
+      "1030 - 1120",
+      "1130 - 1220",
+      "0800 - 0920",
+      "1300 - 1650",
+      "1330 - 1750",
+      "1300 - 1620",
+      "1300 - 1520",
+      "1800 - 1950",
+      "1600 - 1750",
+      "1300 - 1540",
+      "1400 - 1640",
+      "0900 - 1140",
+      "0930 - 1210",
+      "1600 - 1840",
+      "1700 - 1940",
+      "1000 - 1120",
+      "1700 - 1850",
+      "1600 - 1720",
+      "1130 - 1250",
+      "1000 - 1240",
+      "1900 - 2240",
+      "1230 - 1345",
+      "1600 - 1715",
+      "1530 - 1720",
+      "1400 - 1530",
+      "1200 - 1350",
+      "1930 - 2050",
+      "1400 - 1720",
+      "1700 - 1750",
+      "1100 - 1450",
+      "1500 - 1850",
+      "1600 - 1850",
+      "0800 - 1150",
+      "1730 - 1900",
+      "1000 - 1130",
+      "0930 - 1020",
+      "1830 - 2030",
+      "1830 - 2020",
+      "1630 - 1750",
+      "1530 - 1645",
+      "1100 - 1215",
+      "1400 - 1515",
+      "1700 - 1815",
+      "1830 - 1945",
+      "0930 - 1045",
+      "1800 - 2100",
+      "0800 - 0850",
+      "1400 - 1750",
+      "1900 - 2050",
+      "1330 - 1450",
+      "1000 - 2000",
+      "1600 - 1740",
+      "1230 - 1420",
+      "1500 - 1730",
+      "1500 - 1720",
+      "1530 - 1800",
+      "1630 - 1745",
+      "1630 - 1730",
+      "1900 - 2020",
+      "1900 - 2000",
+      "1700 - 1800",
+      "1000 - 1250",
+      "0830 - 1050",
+      "1400 - 1600",
+      "1300 - 1415",
+      "1600 - 1700",
+      "1300 - 1600",
+      "1400 - 1630",
+      "1000 - 1220",
+      "1300 - 1430",
+      "1200 - 1550",
+      "1830 - 2130",
+      "1830 - 2100",
+      "0930 - 1120",
+      "1230 - 1520",
+      "0800 - 1050",
+      "0900 - 1120",
+      "1630 - 1920",
+      "1800 - 1920",
+      "1200 - 1650",
+      "1300 - 1530",
+      "0900 - 1030",
+      "1035 - 1150",
+      "1500 - 1630",
+      "1430 - 1630",
+      "1035 - 1200",
+      "1035 - 1230",
+      "0920 - 1050",
+      "1400 - 1620",
+      "1145 - 1305",
+      "1700 - 2000",
+      "1800 - 2000",
+      "1000 - 1700",
+      "1730 - 1850",
+      "0900 - 1200",
+      "1730 - 2130",
+      "1730 - 2020",
+      "1700 - 1900",
+      "1730 - 2030",
+      "1900 - 2150",
+      "0730 - 1530",
+      "1700 - 1730",
+      "1900 - 1930",
+      "1430 - 1550",
+      "1700 - 1930",
+      "0830 - 0950",
+      "1630 - 1800",
+      "1900 - 1950",
+      "1400 - 1540",
+      "1230 - 1430",
+      "0900 - 1130",
+      "1200 - 1430"
+    ],
     "dateRanges": [],
-    "scheduleTypes": [],
+    "scheduleTypes": [
+      "Lecture-Discussion",
+      "Online",
+      "Independent Study",
+      "Seminar",
+      "Laboratory",
+      "Lecture",
+      "Discussion/Recitation",
+      "Online Lecture",
+      "Research",
+      "Internship",
+      "Travel",
+      "Packaged Section",
+      "Online Discussion",
+      "Conference",
+      "Study Abroad",
+      "Online Lab",
+      "Studio",
+      "Laboratory-Discussion",
+      "Practice",
+      "Quiz",
+      "Online Lecture-Discussion",
+      "Lecture-Discussion 02/06/27",
+      "Lecture-Discussion 01/23/27"
+    ],
     "campuses": [],
     "attributes": [],
     "restrictions": [],
     "gradeBases": [],
-    "locations": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.1035833,
+        "long": -88.228405
+      },
+      {
+        "lat": 40.0995003,
+        "long": -88.223104
+      },
+      {
+        "lat": 40.10628,
+        "long": -88.22621
+      },
+      {
+        "lat": 40.1072225,
+        "long": -88.2262016
+      },
+      {
+        "lat": 40.106778040727896,
+        "long": -88.2194617156191
+      },
+      {
+        "lat": 40.104794,
+        "long": -88.224264
+      },
+      {
+        "lat": 40.103627234541904,
+        "long": -88.22601765311099
+      },
+      {
+        "lat": 40.103620555545135,
+        "long": -88.22982720445013
+      },
+      {
+        "lat": 40.1028373,
+        "long": -88.2251326
+      },
+      {
+        "lat": 40.1109722,
+        "long": -88.2282631
+      },
+      {
+        "lat": 40.1034533,
+        "long": -88.2327596
+      },
+      {
+        "lat": 40.10944320239664,
+        "long": -88.22602522743233
+      },
+      {
+        "lat": 40.108419421661715,
+        "long": -88.2261156301609
+      },
+      {
+        "lat": 40.1033599,
+        "long": -88.2292111
+      },
+      {
+        "lat": 40.1110937,
+        "long": -88.2232348
+      },
+      {
+        "lat": 40.1149521,
+        "long": -88.2267561
+      },
+      {
+        "lat": 40.092875494224195,
+        "long": -88.22082220247309
+      },
+      {
+        "lat": 40.105732,
+        "long": -88.2281018
+      },
+      {
+        "lat": 40.1065684,
+        "long": -88.2281746
+      },
+      {
+        "lat": 40.107534,
+        "long": -88.2281548
+      },
+      {
+        "lat": 40.103587,
+        "long": -88.230606
+      },
+      {
+        "lat": 40.11171215875622,
+        "long": -88.22530849701589
+      },
+      {
+        "lat": 40.1047599,
+        "long": -88.2319514
+      },
+      {
+        "lat": 40.111691,
+        "long": -88.2242511
+      },
+      {
+        "lat": 40.1022093629303,
+        "long": -88.22800864058527
+      },
+      {
+        "lat": 40.1020773,
+        "long": -88.2296394
+      },
+      {
+        "lat": 40.11246109008789,
+        "long": -88.22831726074219
+      },
+      {
+        "lat": 40.101862,
+        "long": -88.231737
+      },
+      {
+        "lat": 40.1083446,
+        "long": -88.2282555
+      },
+      {
+        "lat": 40.10783362157985,
+        "long": -88.22476189569741
+      },
+      {
+        "lat": 40.10755766472843,
+        "long": -88.22995430218522
+      },
+      {
+        "lat": 40.110811306674734,
+        "long": -88.2248467072371
+      },
+      {
+        "lat": 40.1131317,
+        "long": -88.2264552
+      },
+      {
+        "lat": 40.1149296,
+        "long": -88.2280589
+      },
+      {
+        "lat": 40.108570819242026,
+        "long": -88.22518453938676
+      },
+      {
+        "lat": 40.1035872,
+        "long": -88.2306061
+      },
+      {
+        "lat": 40.102726858556835,
+        "long": -88.23259991223857
+      },
+      {
+        "lat": 40.1108856,
+        "long": -88.2269806
+      },
+      {
+        "lat": 40.107811,
+        "long": -88.2260761
+      },
+      {
+        "lat": 40.11085653938169,
+        "long": -88.22609810215927
+      },
+      {
+        "lat": 40.11397164321797,
+        "long": -88.2265192685827
+      },
+      {
+        "lat": 40.10593795776367,
+        "long": -88.2270736694336
+      },
+      {
+        "lat": 40.10127390836906,
+        "long": -88.2226073524728
+      },
+      {
+        "lat": 40.11380515934119,
+        "long": -88.22490788390387
+      },
+      {
+        "lat": 40.105587640130146,
+        "long": -88.22025111416733
+      },
+      {
+        "lat": 40.10802885201532,
+        "long": -88.22239700364068
+      },
+      {
+        "lat": 40.11180304465921,
+        "long": -88.22613003543475
+      }
+    ],
     "finalDates": [],
     "finalTimes": []
   }

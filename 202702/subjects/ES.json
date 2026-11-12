@@ -1,7 +1,7 @@
 {
   "subject": "ES",
-  "scrapedAt": 1794503450683,
-  "courseCount": 3,
+  "scrapedAt": 1794503478300,
+  "courseCount": 4,
   "courses": {
     "ES 475": [
       "Wind Power Systems",
@@ -179,6 +179,80 @@
       },
       [],
       "The role of hydrogen as a global energy form, hydrogen production by nuclear, fossil and renewable energy sources; hydrogen handling, safety; transportation and storage methods including high-pressure, cryogenic, metal hydrides and chemical hydrides; basic science and technology of fuel cells, including electrochemical processes; fuel cell thermodynamics; low- and high-temperature fuel cells; applications including portable electronics, automotive vehicles, distributed and back-up power, and space power.",
+      []
+    ],
+    "ES 571": [
+      "Theory of Energy and Sustainability Engineering",
+      {
+        "A": [
+          "78917",
+          [
+            [
+              16,
+              "MWF",
+              "403B2 Engineering Hall",
+              38,
+              [
+                "Liebenberg, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "ONC": [
+          "78918",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Liebenberg, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "78919",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Liebenberg, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Mathematical, scientific, engineering, and economic bases needed to analyze sustainable energy systems and civil infrastructure. Evaluation of current practice and future development of (i) energy extraction and conversion processes from geological, biological, and non-biological resources; (ii) energy usage for transportation, in residential and commercial buildings, and by industry.",
       []
     ]
   },

@@ -1,466 +1,3250 @@
 {
   "subject": "ENGL",
-  "scrapedAt": 1791782449843,
-  "courseCount": 64,
+  "scrapedAt": 1794503497326,
+  "courseCount": 65,
   "courses": {
-    "ENGL 109": [
-      "ENGL 109",
-      {},
+    "ENGL 101": [
+      "Intro to Poetry",
+      {
+        "Z": [
+          "34525",
+          [
+            [
+              153,
+              "MWF",
+              "69 English Building",
+              20,
+              [
+                "Dawn, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "[IAI Code: H3903] Close reading and analysis of poetry and other literary texts. Introduction to argumentative strategies for writing about poetry. Addresses prosody, poetic language (diction, metaphor, image, tone), and major verse forms (the sonnet, elegy, ode, ballad, dramatic monologue, free verse). Students also study poems from a range of literary periods and movements to learn how formal qualities change and develop over time and are relevant to everyday life.",
       []
     ],
-    "ENGL 101": [
-      "ENGL 101",
-      {},
+    "ENGL 109": [
+      "Intro to Fiction-ACP",
+      {
+        "D": [
+          "34586",
+          [
+            [
+              8,
+              "MWF",
+              "131 English Building",
+              20,
+              [
+                "Basu, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "F": [
+          "47237",
+          [
+            [
+              22,
+              "MWF",
+              "131 English Building",
+              20,
+              [
+                "Belland, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "L": [
+          "31925",
+          [
+            [
+              84,
+              "TR",
+              "119 English Building",
+              20,
+              [
+                "Rivera Lopez, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "S": [
+          "31922",
+          [
+            [
+              86,
+              "TR",
+              "137 Henry Administration Bldg",
+              29,
+              [
+                "Charity, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Introduces students to the close reading of prose fiction from different eras in a variety of lengths and genres while exploring narrative elements such as characterization, structure, and viewpoint. While similar to ENGL 103 in content, ENGL 109 makes Advanced Composition strategies (drafting, peer review, revision, etc.) integral to the course framework.",
       []
     ],
     "ENGL 104": [
-      "ENGL 104",
-      {},
+      "Introduction to Film",
+      {
+        "B": [
+          "34551",
+          [
+            [
+              85,
+              "TR",
+              "148 Armory",
+              23,
+              [
+                "Mridha, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "D": [
+          "34547",
+          [
+            [
+              8,
+              "MWF",
+              "148 Armory",
+              23,
+              [
+                "Gunter, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "E": [
+          "48003",
+          [
+            [
+              11,
+              "MWF",
+              "148 Armory",
+              23,
+              [
+                "Ebbay, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "M": [
+          "34541",
+          [
+            [
+              10,
+              "MWF",
+              "148 Armory",
+              23,
+              [
+                "Castaneda, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "Y": [
+          "43489",
+          [
+            [
+              84,
+              "TR",
+              "148 Armory",
+              23,
+              [
+                "Morris, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "ENGL 116": [
-      "ENGL 116",
-      {},
-      [],
-      null,
-      []
-    ],
-    "ENGL 119": [
-      "ENGL 119",
-      {},
-      [],
-      null,
+      "[IAI Code: F2908] Thoughtful viewing of diverse films, along with ample discussion and critical reading and writing, to gain understanding of cinematic expression and of film's capacity to entertain and to exert artistic and social influence.",
       []
     ],
     "ENGL 117": [
-      "ENGL 117",
-      {},
+      "Shakespeare on Film",
+      {
+        "S": [
+          "43490",
+          [
+            [
+              23,
+              "MWF",
+              "69 English Building",
+              20,
+              [
+                "Vowels, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Explores the ongoing reinterpretation and appropriation of Shakespeare plays in twentieth- and twenty-first century film. Expect to read around five plays and analyze two productions of each play, and to consider how Shakespeare can be transformed to meet different cultural and contextual demands of the screen. Lecture and discussion.",
       []
     ],
-    "ENGL 199": [
-      "ENGL 199",
-      {},
+    "ENGL 119": [
+      "Literature of Fantasy",
+      {
+        "M": [
+          "47149",
+          [
+            [
+              11,
+              "MWF",
+              "104 English Building",
+              20,
+              [
+                "Millen, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Introduction to the rich traditions of fantasy writing in world literature. While the commercial category of fantasy post-Tolkien will often be the focal point, individual instructors may choose to focus on alternate definitions of the genre: literatures of the fantastic, the uncanny, and the weird; fantasy before the Enlightenment and the advent of realism; fantasy for young adult or child readers; and so on.",
+      []
+    ],
+    "ENGL 116": [
+      "Introduction to American Literature",
+      {
+        "C": [
+          "31935",
+          [
+            [
+              10,
+              "MWF",
+              "150 English Building",
+              20,
+              [
+                "Cloutier, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "American literature speaks in distinctive dialects that pre-date the arrival of European explorers in the Renaissance, range across centuries and continents, and intermingle a rich variety of racial, ethnic, and gendered perspectives. Genres examined in this course might include lyric poems, dystopian novels, horror stories, seduction narratives, slave narratives, political speeches, or postmodern plays. Writers studied might include Walt Whitman, Columbus, Jane Johnston Schoolcraft, Herman Melville, Edgar Allan Poe, Junot Díaz, Harriet Beecher Stowe, David Foster Wallace, Martin Luther King, and Lin-Manuel Miranda.",
       []
     ],
     "ENGL 122": [
-      "ENGL 122",
-      {},
+      "The Middle Ages in Popular Culture",
+      {
+        "F": [
+          "65378",
+          [
+            [
+              22,
+              "MWF",
+              "149 Henry Administration Bldg",
+              29,
+              [
+                "Lee, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Explores the use of medievalism in contemporary popular culture. Instructors may draw from film, television, music, fiction, graphic novels, gaming, and other sources, and they approach the material from a variety of cultural, historical, and aesthetic traditions. The goal of the course will be to understand how the medieval periods of world cultures have been reinvented in modern times, and how modernity has been constructed in relation and in opposition to the medieval imaginary.",
       []
     ],
     "ENGL 150": [
-      "ENGL 150",
-      {},
+      "Black Literature in America",
+      {
+        "IR": [
+          "61996",
+          [
+            [
+              14,
+              "TR",
+              "G36 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Riley, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Same as AFRO 105. See AFRO 105.",
       []
     ],
-    "ENGL 202": [
-      "ENGL 202",
-      {},
+    "ENGL 199": [
+      "Undergraduate Open Seminar",
+      {
+        "10065": [
+          "10065",
+          [
+            [
+              4,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Topics course that varies each semester and by section. The topics offered each semester will be listed in the Class Schedule.",
       []
     ],
     "ENGL 200": [
-      "ENGL 200",
-      {},
+      "Introduction to the Study of Literature and Culture",
+      {
+        "E": [
+          "60132",
+          [
+            [
+              23,
+              "MWF",
+              "148 Henry Administration Bldg",
+              29,
+              [
+                "Oh, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "F": [
+          "39032",
+          [
+            [
+              85,
+              "TR",
+              "115 English Building",
+              20,
+              [
+                "Cole, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "L": [
+          "34521",
+          [
+            [
+              11,
+              "MWF",
+              "44 English Building",
+              20,
+              [
+                "Johnson, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Introduction to the study of literature in the twenty-first century. This course will expand your sense of what literature is and where it happens, including discussion of old and new literary forms (from novels, poems, and plays to comic books, video games, and films). Along the way, students will explore some of the literary and cultural opportunities (such as author readings, scholarly talks, and performances) available to them on a large public university campus, with two goals in mind: to develop your critical interpretive skills and to acquaint you with the discipline of literary studies as it is being practiced all around us today, both inside and outside the conventional classroom.",
+      []
+    ],
+    "ENGL 202": [
+      "Medieval Literature and Culture",
+      {
+        "S": [
+          "43183",
+          [
+            [
+              11,
+              "MWF",
+              "69 English Building",
+              20,
+              [
+                "Koepke, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to the diverse literatures and cultures of the global Middle Ages (approximately 500-1500 CE). Students will read works by medieval authors in Modern English translation, with particular attention to placing works in their historical and material contexts.",
       []
     ],
     "ENGL 204": [
-      "ENGL 204",
-      {},
+      "Renaissance Literature and Culture",
+      {
+        "M": [
+          "31978",
+          [
+            [
+              85,
+              "TR",
+              "149 Henry Administration Bldg",
+              29,
+              [
+                "Perry, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Readings in English and continental literary masterpieces with attention to significant cultural influences.",
       []
     ],
     "ENGL 206": [
-      "ENGL 206",
-      {},
+      "Enlightenment Literature and Culture",
+      {
+        "B": [
+          "31983",
+          [
+            [
+              89,
+              "TR",
+              "ONLINE",
+              0,
+              [
+                "Nazar, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "ENGL 208": [
-      "ENGL 208",
-      {},
-      [],
-      null,
+      "Study in Anglophone and global texts from the period 1600 to 1800, with attention to cultural and historical contexts.",
       []
     ],
     "ENGL 207": [
-      "ENGL 207",
-      {},
+      "Romantic Literature and Culture",
+      {
+        "K": [
+          "31989",
+          [
+            [
+              89,
+              "TR",
+              "69 English Building",
+              20,
+              [
+                "Kusi, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "An introduction to the literature, philosophy, fine arts, and social criticism of the Romantic era, with attention to broader cultural and historical issues.",
+      []
+    ],
+    "ENGL 208": [
+      "Victorian Literature and Culture",
+      {
+        "X": [
+          "31992",
+          [
+            [
+              8,
+              "MWF",
+              "164 Noyes Laboratory",
+              13,
+              [
+                "Courtemanche, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "While Queen Victoria was on the throne (1837-1901), Britain became a world power, but often looked backwards to the lovely worlds of the past. Many of the era’s great literary works reflect this tension between realism and romance: between the realism of being a poor governess and the romance of finding true love in Jane Eyre; the tragedy of losing your best friend and the hope of emotional survival in In Memoriam; the practical work of building a useful device and the fantasy of visiting the dystopian future in The Time Machine. Literature studied in this class will include poetry, prose, drama, and fiction, possibly including works by Charlotte Brontë, Charles Dickens, Elizabeth Gaskell, Mary Seacole, Thomas Carlyle, Alfred Tennyson, Robert Browning, Christina Rossetti, William Morris, Oscar Wilde, H.G. Wells, Olive Schreiner, or George Bernard Shaw.",
       []
     ],
     "ENGL 209": [
-      "ENGL 209",
-      {},
+      "Early British Literature and Culture",
+      {
+        "AD1": [
+          "31994",
+          [
+            [
+              10,
+              "F",
+              "113 English Building",
+              20,
+              [
+                "Irmisch, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "AD2": [
+          "31997",
+          [
+            [
+              8,
+              "F",
+              "113 English Building",
+              20,
+              [
+                "Irmisch, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "AD3": [
+          "32004",
+          [
+            [
+              23,
+              "F",
+              "113 English Building",
+              20,
+              [
+                "Patel, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "AD4": [
+          "32008",
+          [
+            [
+              11,
+              "F",
+              "113 English Building",
+              20,
+              [
+                "Patel, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "32013",
+          [
+            [
+              8,
+              "MW",
+              "2233 Everitt Laboratory",
+              10,
+              [
+                "Gray, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "[IAI Code: H3912] Surveys the literature of the British Isles from the early Middle Ages through the eighteenth century. A representative selection of authors—some famous (e.g., Chaucer, Shakespeare, and Milton), some lesser-known (e.g., Marie de France, Mary Wroth, and Eliza Haywood), and some unknown (e.g., the anonymous Beowulf and Gawain-poets)—will enable students to explore the breadth of early English, Irish, Scottish, and Welsh literatures and the historical contexts that shaped their development.",
       []
     ],
     "ENGL 211": [
-      "ENGL 211",
-      {},
+      "Introduction to Modern African Literature",
+      {
+        "P": [
+          "47158",
+          [
+            [
+              8,
+              "MWF",
+              "36 English Building",
+              20,
+              [
+                "Toure, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Same as AFST 210 and CWL 210. See AFST 210.",
       []
     ],
     "ENGL 219": [
-      "ENGL 219",
-      {},
+      "Literature and Medicine",
+      {
+        "G": [
+          "71008",
+          [
+            [
+              66,
+              "TR",
+              "104 English Building",
+              20,
+              [
+                "Gaedtke, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Introduction to the interchange between the medical and literary imaginations – how diseases, bodies, and minds get written about and represented culturally. The premise of the course is that ideas and experiences concerning our health are always mediated through the literature we read, the films we watch, and the stories we tell our doctors and that they tell us. Our focus will be on how literature and film have played and continue to play a crucial role in understanding health on local, national, and global scales.",
       []
     ],
     "ENGL 224": [
-      "ENGL 224",
-      {},
+      "Latina/o Popular Culture",
+      {
+        "A": [
+          "59361",
+          [
+            [
+              24,
+              "TR",
+              "103 1207 W Oregon",
+              5,
+              [
+                "Rodriguez, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Same as LLS 240 and SPAN 240. See LLS 240.",
       []
     ],
     "ENGL 241": [
-      "ENGL 241",
-      {},
+      "Modern Poetry",
+      {
+        "D": [
+          "45952",
+          [
+            [
+              84,
+              "TR",
+              "69 English Building",
+              20,
+              [
+                "Newcomb, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Studies poetry in English during the first half of the twentieth century, including Modernist experimentalism and its aftermath. Class time focuses on close readings of poems by major figures such as W. B. Yeats, T. S. Eliot, Ezra Pound, H.D., Hart Crane, Claude McKay, Robert Lowell, Elizabeth Bishop, W. H. Auden, and Langston Hughes.",
       []
     ],
     "ENGL 245": [
-      "ENGL 245",
-      {},
+      "The Short Story",
+      {
+        "Q2": [
+          "32060",
+          [
+            [
+              66,
+              "TR",
+              "115 David Kinley Hall",
+              1,
+              [
+                "Gomez, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Historical and critical study of the short story (American and European) from the early nineteenth century to the present.",
       []
     ],
     "ENGL 250": [
-      "ENGL 250",
-      {},
+      "Nineteenth-Century American Fiction",
+      {
+        "M": [
+          "32064",
+          [
+            [
+              89,
+              "TR",
+              "1066 Lincoln Hall",
+              19,
+              [
+                "Jones, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "ENGL 253": [
-      "ENGL 253",
-      {},
-      [],
-      null,
+      "Nineteenth-century fiction gave us some of the most iconic images in American culture--the scarlet letter, the white whale--and some of the most captivating works about American life and society. This course will explore how fictional texts articulated the problems of nineteenth-century democracy, including the crises over slavery leading to the Civil War, and the rise of large-scale capitalism and urban modernity later in the century. We will look at such literary movements as sentimentalism, sensationalism, realism, and naturalism, among others. Writers studied might include Herman Melville, Edith Wharton, Nathaniel Hawthorne, Harriet Beecher Stowe, Henry James, Charles Chesnutt, Mark Twain, Pauline Hopkins, Catharine Maria Sedgwick, and many others.",
       []
     ],
     "ENGL 255": [
-      "ENGL 255",
-      {},
+      "Early American Literature and Culture",
+      {
+        "AD1": [
+          "32071",
+          [
+            [
+              10,
+              "F",
+              "123 English Building",
+              20,
+              [
+                "Ray, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "AD2": [
+          "32072",
+          [
+            [
+              8,
+              "F",
+              "123 English Building",
+              20,
+              [
+                "Ray, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "AD3": [
+          "32070",
+          [
+            [
+              23,
+              "F",
+              "123 English Building",
+              20,
+              [
+                "Streitmatter, O"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "AD4": [
+          "43188",
+          [
+            [
+              11,
+              "F",
+              "123 English Building",
+              20,
+              [
+                "Streitmatter, O"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "32075",
+          [
+            [
+              23,
+              "MW",
+              "157 Noyes Laboratory",
+              13,
+              [
+                "Loughran, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "[IAI Code: H3914] This large-scale survey course offers students background in a wide range of genres, authors, and texts, focusing on \"early American literature,\" which ranges from pre-Columbian indigenous narratives to nineteenth century novels, poems, and plays. The material studied ranges across multiple centuries and continents, and includes a wide variety of racial, ethnic, and gendered perspectives. Writers may include Christopher Columbus, Anne Bradstreet, Benjamin Franklin, Phillis Wheatley, William Apess, Nathaniel Hawthorne, Edgar Allan Poe, Frederick Douglass, Henry David Thoreau, Herman Melville, Harriet Jacobs, Walt Whitman, and Emily Dickinson.",
+      []
+    ],
+    "ENGL 253": [
+      "New Media, Literature, and the Arts",
+      {
+        "P": [
+          "63970",
+          [
+            [
+              84,
+              "TR",
+              "104 English Building",
+              20,
+              [
+                "McNulty, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to the role technological invention has played in history of print media and how aesthetics are changing with the advent of new media, such as social media, software, and video games. We will consider material formats, genres, and modes of production along with the cultural, political, and societal implications of different forms and formats.",
+      []
+    ],
+    "ENGL 265": [
+      "Intro to American Indian Lit",
+      {
+        "A": [
+          "51091",
+          [
+            [
+              0,
+              "TR",
+              "336 Davenport Hall",
+              4,
+              [
+                "Calcaterra, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
       null,
       []
     ],
     "ENGL 266": [
-      "ENGL 266",
-      {},
+      "Grimm's Fairy Tales in Context",
+      {
+        "AD1": [
+          "60017",
+          [
+            [
+              10,
+              "F",
+              "115 David Kinley Hall",
+              1,
+              [
+                "Agu, B",
+                "Johnson, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "AD2": [
+          "60020",
+          [
+            [
+              8,
+              "F",
+              "115 David Kinley Hall",
+              1,
+              [
+                "Agu, B",
+                "Johnson, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "AD3": [
+          "60023",
+          [
+            [
+              11,
+              "F",
+              "115 David Kinley Hall",
+              1,
+              [
+                "Johnson, L",
+                "Madye, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "AD5": [
+          "68661",
+          [
+            [
+              23,
+              "F",
+              "115 David Kinley Hall",
+              1,
+              [
+                "Johnson, L",
+                "Madye, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "AD6": [
+          "68662",
+          [
+            [
+              22,
+              "F",
+              "115 David Kinley Hall",
+              1,
+              [
+                "Johnson, L",
+                "Madye, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "60026",
+          [
+            [
+              22,
+              "MW",
+              "116 Roger Adams Laboratory",
+              30,
+              [
+                "Johnson, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "ENGL 265": [
-      "ENGL 265",
-      {},
-      [],
-      null,
+      "Same as CWL 254 and GER 251. See GER 251.",
       []
     ],
     "ENGL 269": [
-      "ENGL 269",
-      {},
+      "The Holocaust in Context",
+      {
+        "AL1": [
+          "60041",
+          [
+            [
+              0,
+              "TR",
+              "113 David Kinley Hall",
+              1,
+              [
+                "Kuo, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Same as CWL 273, GER 261, and JS 261. See GER 261.",
+      []
+    ],
+    "ENGL 276": [
+      "Asian Film Genres",
+      {
+        "J": [
+          "65125",
+          [
+            [
+              70,
+              "TR",
+              "147 Armory",
+              23,
+              [
+                "Labella, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Studies a variable selection of popular film genres produced and circulated in Asia (e.g., martial arts, horror, musicals, anime, melodramas, science fiction, monster movies, comedy) that have an impact across the region, with emphasis on East and Southeast Asia, and beyond. Takes a historical and transnational comparative approach to analyzing shifting narrative and visual and other cinematic realizations of each genre across different contexts, including Western reception and cross-cultural adaptations.",
       []
     ],
     "ENGL 277": [
-      "ENGL 277",
-      {},
+      "Gender in Gaming",
+      {
+        "KMS": [
+          "69159",
+          [
+            [
+              14,
+              "TR",
+              "1030 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Starks, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          17,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Same as GSD 204, GWS 204 and MACS 204. See GSD 204.",
       []
     ],
     "ENGL 280": [
-      "ENGL 280",
-      {},
+      "Women Writers",
+      {
+        "K": [
+          "32103",
+          [
+            [
+              85,
+              "TR",
+              "303 English Building",
+              20,
+              [
+                "Mack, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "ENGL 285": [
-      "ENGL 285",
-      {},
-      [],
-      null,
+      "[IAI Code: H3911D] Study of British and American women authors.",
       []
     ],
     "ENGL 286": [
-      "ENGL 286",
-      {},
+      "Asian American Literature",
+      {
+        "P": [
+          "32111",
+          [
+            [
+              10,
+              "MWF",
+              "69 English Building",
+              20,
+              [
+                "Huang, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "ENGL 301": [
-      "ENGL 301",
-      {},
-      [],
-      null,
+      "Introduction to Asian American literary studies and culture through the reading of major works of literature selected from but not limited to the following American ethnic subgroups: Chinese, Filipino, Japanese, Korean, Indian, Pakistani, and Vietnamese.",
       []
     ],
     "ENGL 290": [
-      "ENGL 290",
-      {},
+      "Individual Study",
+      {
+        "10067": [
+          "10067",
+          [
+            [
+              4,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Approved for both letter and S/U grading. May be repeated to a maximum of 6 hours. Students may register in more than one section per term. Prerequisite: Consent of instructor.",
       []
     ],
-    "ENGL 325": [
-      "ENGL 325",
-      {},
+    "ENGL 285": [
+      "Postcolonial Literature in English",
+      {
+        "M": [
+          "32110",
+          [
+            [
+              22,
+              "MWF",
+              "104 English Building",
+              20,
+              [
+                "Oh, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Examination of selected postcolonial literature, theory, and film as texts that \"write back\" to dominant European representations of power, identity, gender and the Other. Postcolonial writers, critics and filmmakers studied may include Franz Fanon, Edward Said, Aime Cesaire, Ousmane Sembene, Chinua Achebe, Michelle Cliff, Mahesweta Devi, Buchi Emecheta, Derek Walcott and Marlene Nourbese-Philip.",
       []
     ],
     "ENGL 350": [
-      "ENGL 350",
-      {},
+      "Writing about Literature, Text, and Culture",
+      {
+        "B": [
+          "70306",
+          [
+            [
+              86,
+              "TR",
+              "169 Davenport Hall",
+              4,
+              [
+                "Pollock, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "F": [
+          "70307",
+          [
+            [
+              16,
+              "MWF",
+              "131 English Building",
+              20,
+              [
+                "Basu, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "S": [
+          "70308",
+          [
+            [
+              8,
+              "MWF",
+              "1120 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Hudek, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Writing-intensive, variable-topic course designed to improve English majors' ability to produce clear, well-organized, analytically sound and persuasively argued essays relevant to English studies. Introduces students to research techniques through the examination of critical texts appropriate to the course topic.",
+      []
+    ],
+    "ENGL 301": [
+      "Introduction to Critical Theory",
+      {
+        "D": [
+          "48565",
+          [
+            [
+              11,
+              "MWF",
+              "G18 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Claborn, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "Q": [
+          "48564",
+          [
+            [
+              89,
+              "TR",
+              "115 English Building",
+              20,
+              [
+                "Gilmore, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "S": [
+          "48566",
+          [
+            [
+              66,
+              "TR",
+              "119 English Building",
+              20,
+              [
+                "Basu, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to the critical frameworks and methods that have had the greatest impact on the field of literary studies. Students will read, discuss, and write about numerous theoretical approaches, which might include (but are not limited to) critical race studies, environmental theory, feminism, Marxism, postcolonialism, poststructuralism, psychoanalysis, queer theory, and structuralism. No previous background with theory is required.",
+      []
+    ],
+    "ENGL 325": [
+      "Topics in LGBT Literature and Film",
+      {
+        "P": [
+          "58612",
+          [
+            [
+              89,
+              "TR",
+              "1120 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Somerville, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Explores topics on representations of non-heteronormative sexuality in canonical and recovered historical texts and in contemporary literature, on literature by LGBT authors, and on theories of sexuality that pertain to systems of textual and cultural meaning.",
+      []
+    ],
+    "ENGL 360": [
+      "Environmental Writing",
+      {
+        "A": [
+          "67941",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Tomkin, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "67477",
+          [
+            [
+              24,
+              "TR",
+              "313 Gregory Hall",
+              18,
+              [
+                "Gaffney, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
       null,
       []
     ],
     "ENGL 357": [
-      "ENGL 357",
-      {},
+      "Literatures of the Displaced",
+      {
+        "A": [
+          "70258",
+          [
+            [
+              0,
+              "TR",
+              "103 1207 W Oregon",
+              5,
+              [
+                "de la Garza Valenzuela, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "ENGL 360": [
-      "ENGL 360",
-      {},
-      [],
-      null,
+      "Same as AAS 357, AIS 357, GWS 357, and LLS 357. See LLS 357.",
       []
     ],
     "ENGL 373": [
-      "ENGL 373",
-      {},
+      "Special Topics in Film Studies",
+      {
+        "S": [
+          "46555",
+          [
+            [
+              154,
+              "TR",
+              "148 Armory",
+              23,
+              [
+                "Newcomb, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Extended investigation of major subjects and issues in cinema and other media; topics vary and typically include studies of author/directors, genres, historical movements, critical approaches, and themes.",
       []
     ],
     "ENGL 380": [
-      "ENGL 380",
-      {},
+      "Topics in Writing Studies",
+      {
+        "S1": [
+          "59085",
+          [
+            [
+              8,
+              "MWF",
+              "215 Davenport Hall",
+              4,
+              [
+                "Gallagher, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Advanced-level work in the field of Writing Studies. Building upon a traditional disciplinary understanding of writing as rhetoric, this course invites students to call upon sociological, anthropological, and/or ideological approaches to the study of writing in order to understand the myriad ways that writing makes meaning(s). See Class Schedule for topics.",
       []
     ],
     "ENGL 390": [
-      "ENGL 390",
-      {},
+      "Advanced Individual Study",
+      {
+        "54016": [
+          "54016",
+          [
+            [
+              4,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Advanced study of selected topics.",
       []
     ],
     "ENGL 391": [
-      "ENGL 391",
-      {},
+      "Honors Individual Study",
+      {
+        "10069": [
+          "10069",
+          [
+            [
+              4,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "ENGL 396": [
-      "ENGL 396",
-      {},
-      [],
-      null,
-      []
-    ],
-    "ENGL 418": [
-      "ENGL 418",
-      {},
-      [],
-      null,
+      "Study of selected topics. Restricted to English and English education majors with a 3.33 average who are working towards the degree with distinction in English or in English education.",
       []
     ],
     "ENGL 402": [
-      "ENGL 402",
-      {},
+      "Descriptive English Grammar",
+      {
+        "1G": [
+          "32124",
+          [
+            [
+              22,
+              "MWF",
+              "115 English Building",
+              20,
+              [
+                "Menendez, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "1U": [
+          "32123",
+          [
+            [
+              22,
+              "MWF",
+              "115 English Building",
+              20,
+              [
+                "Menendez, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "An introduction to English linguistics with emphasis on the phonetic, syntactic, and semantic structures of English; language variation, standardization, and change; language legislation and linguistic rights; English as a world language; and the study of language in American schools.",
+      []
+    ],
+    "ENGL 396": [
+      "English Honors Seminar",
+      {
+        "D": [
+          "32113",
+          [
+            [
+              23,
+              "MWF",
+              "29 English Building",
+              20,
+              [
+                "Markley, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "X": [
+          "32114",
+          [
+            [
+              1,
+              "TR",
+              "13 Sch of Info Sciences Bldg",
+              0,
+              [
+                "Jenkins, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "An open-topic, discussion-oriented seminar aimed at majors who have shown high skill and intensive interest in the area of English studies.",
+      []
+    ],
+    "ENGL 418": [
+      "Shakespeare",
+      {
+        "1G": [
+          "54465",
+          [
+            [
+              85,
+              "TR",
+              "1024 Lincoln Hall",
+              19,
+              [
+                "Newcomb, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "1U": [
+          "54464",
+          [
+            [
+              85,
+              "TR",
+              "1024 Lincoln Hall",
+              19,
+              [
+                "Newcomb, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Survey of the plays and poems of William Shakespeare. Reading assignments will reflect the generic diversity and historical breadth of Shakespeare's work.",
       []
     ],
     "ENGL 427": [
-      "ENGL 427",
-      {},
+      "Eighteenth-Century Literature",
+      {
+        "1G": [
+          "32152",
+          [
+            [
+              85,
+              "TR",
+              "ONLINE",
+              0,
+              [
+                "Nazar, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "1U": [
+          "32150",
+          [
+            [
+              85,
+              "TR",
+              "ONLINE",
+              0,
+              [
+                "Nazar, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Advanced study of British literature between 1660 (the restoration of Charlies II to the throne) and 1800. The course focuses on poems, plays, novels, and nonfiction works from the period, paying particular attention to issues of gender relations, colonialism, imperial expansion, the slave trade, and class tensions. Writers covered may include Aphra Behn, Mary Astell, Joseph Addison, Bernard Mandeville, Alexander Pope, Daniel Defoe, Lady Mary Wortley Montagu, Eliza Heywood, Jonathan Swift, Samuel Richardson, Henry Fielding, Charlotte Lennox, Samuel Johnson, Laurence Sterne, Olaudah Equiano, Charlotte Smith, Mary Wollstonecraft, and others.",
       []
     ],
     "ENGL 450": [
-      "ENGL 450",
-      {},
+      "Becoming Modern: American Literature, 1865-1914",
+      {
+        "1G": [
+          "39267",
+          [
+            [
+              23,
+              "MWF",
+              "119 English Building",
+              20,
+              [
+                "Odom, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "1U": [
+          "39266",
+          [
+            [
+              23,
+              "MWF",
+              "119 English Building",
+              20,
+              [
+                "Odom, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "After the Civil War the United States entered a period of accelerating modernization and change. This course addresses how the nation's writers helped build modern America in response to a host of exciting and daunting developments in economics, science, and politics, including the enfranchisement of African Americans, Jim Crow segregation laws, growing income inequality, the rise of unions and anarchist movements, the invention of the automobile and the department store, new sciences such as including Darwinism and psychoanalysis, and American empire-building in places like Hawai'i and the Philippines. Writers studied might include Emily Dickinson, Mark Twain, Henry James, Booker T. Washington, W.E.B. DuBois, Zitkala-Sa, Stephen Crane, William Dean Howells, and Edith Wharton.",
       []
     ],
     "ENGL 442": [
-      "ENGL 442",
-      {},
+      "Contemporary British and Irish Literature",
+      {
+        "1G": [
+          "32177",
+          [
+            [
+              89,
+              "TR",
+              "36 English Building",
+              20,
+              [
+                "Gaedtke, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "1U": [
+          "32174",
+          [
+            [
+              89,
+              "TR",
+              "36 English Building",
+              20,
+              [
+                "Gaedtke, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "This course considers how the unresolved problems of the past continue to haunt the literature of contemporary Britain, Ireland, and the postcolonial Anglophone world. These \"returns of the repressed\" range from personal traumas and difficult truths that have not been fully processed to groups of people who have suffered systematic inequality and violence. The texts we will read in ENGL 442 address the traumatic collapse of the post-war British empire, focusing not only on Britain's uneasy relationship to immigrants and postcolonial subjects but also on shifting gender roles, changing conceptions of sexual identity, and anxieties about literature's continued relevance in the context of new media. Readings may include works by Pat Barker, Kazuo Ishiguro, Ian McEwan, Hanif Kureishi, Zadie Smith, Tom McCarthy, Angela Carter, and Jeanette Winterson.",
       []
     ],
     "ENGL 455": [
-      "ENGL 455",
-      {},
+      "Major Authors",
+      {
+        "1G": [
+          "32205",
+          [
+            [
+              8,
+              "MWF",
+              "61 English Building",
+              20,
+              [
+                "Barrett, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "1U": [
+          "32202",
+          [
+            [
+              8,
+              "MWF",
+              "61 English Building",
+              20,
+              [
+                "Barrett, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "2G": [
+          "32210",
+          [
+            [
+              22,
+              "MWF",
+              "44 English Building",
+              20,
+              [
+                "Loughran, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "2U": [
+          "32207",
+          [
+            [
+              22,
+              "MWF",
+              "44 English Building",
+              20,
+              [
+                "Loughran, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "3G": [
+          "44786",
+          [
+            [
+              86,
+              "TR",
+              "241 Armory",
+              23,
+              [
+                "Mack, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "3U": [
+          "43329",
+          [
+            [
+              86,
+              "TR",
+              "241 Armory",
+              23,
+              [
+                "Mack, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Intensive study of the work of one or two major authors.",
       []
     ],
     "ENGL 460": [
-      "ENGL 460",
-      {},
+      "Literature of American Minorities",
+      {
+        "7G": [
+          "74234",
+          [
+            [
+              66,
+              "TR",
+              "140 Henry Administration Bldg",
+              29,
+              [
+                "Freeburg, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "7U": [
+          "74233",
+          [
+            [
+              66,
+              "TR",
+              "140 Henry Administration Bldg",
+              29,
+              [
+                "Freeburg, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Advanced topics seminar exploring literary expressions of minority experience in America.",
       []
     ],
     "ENGL 467": [
-      "ENGL 467",
-      {},
+      "Multimedia Environmental Communications",
+      {
+        "A": [
+          "70524",
+          [
+            [
+              132,
+              "TR",
+              "315 Gregory Hall",
+              18,
+              [
+                "Becker, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
       null,
       []
     ],
     "ENGL 475": [
-      "ENGL 475",
-      {},
+      "Literature and Other Disciplines",
+      {
+        "1G": [
+          "43335",
+          [
+            [
+              86,
+              "TR",
+              "163 Noyes Laboratory",
+              13,
+              [
+                "Newcomb, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "1U": [
+          "43334",
+          [
+            [
+              86,
+              "TR",
+              "163 Noyes Laboratory",
+              13,
+              [
+                "Newcomb, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Advanced topics seminar exploring the intersection of literary study and other scholarly disciplines. The disciplines students study vary each term, but past courses have examined connections between literature and psychology, forensic science, environmental studies, and the law.",
       []
     ],
     "ENGL 481": [
-      "ENGL 481",
-      {},
+      "Composition Theory and Practice",
+      {
+        "1G": [
+          "44165",
+          [
+            [
+              11,
+              "MWF",
+              "G48 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Gallagher, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "1U": [
+          "39291",
+          [
+            [
+              11,
+              "MWF",
+              "G48 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Gallagher, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "ENGL 496": [
-      "ENGL 496",
-      {},
-      [],
-      null,
+      "Study of the history and theory of written composition. This course explores basic rhetorical principles, various theoretical perspectives in the field of composition/rhetoric, and helps students form practical approaches to the guidance of, response to, and structuring of student writing.",
       []
     ],
     "ENGL 498": [
-      "ENGL 498",
-      {},
+      "Environmental Writing for Publication",
+      {
+        "A": [
+          "67479",
+          [
+            [
+              1,
+              "TR",
+              "G48 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Cole, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
       null,
       []
     ],
     "ENGL 503": [
-      "ENGL 503",
-      {},
+      "Historiography of Cinema",
+      {
+        "2": [
+          "62035",
+          [
+            [
+              34,
+              "W",
+              "336 Gregory Hall",
+              18,
+              [
+                "Basu, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Same as CWL 503 and MACS 503. See MACS 503.",
       []
     ],
     "ENGL 514": [
-      "ENGL 514",
-      {},
+      "Seminar in Medieval Literature",
+      {
+        "K": [
+          "32259",
+          [
+            [
+              98,
+              "W",
+              "307 English Building",
+              20,
+              [
+                "Koepke, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "ENGL 559": [
-      "ENGL 559",
-      {},
-      [],
-      null,
+      "Intensive study of selected texts, genres, themes, or theoretical issues in medieval British literature (usually focusing on either Old English or Middle English texts), or of scholarly methods in medieval studies (such as editing, paleography, or bibliography and methods of historical research).",
       []
     ],
     "ENGL 537": [
-      "ENGL 537",
-      {},
+      "Seminar in Victorian Literature",
+      {
+        "E": [
+          "32276",
+          [
+            [
+              125,
+              "M",
+              "107A English Building",
+              20,
+              [
+                "Courtemanche, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Seminar in British literature written between 1830 and 1900, organized around topics such as industrial fiction, aestheticism, imperialism, gender and sexuality, Pre-Raphaelite poetry, or the Victorian Gothic. Authors may include Charles Dickens, Elizabeth Gaskell, George Eliot, the Brontës, Alfred Tennyson, Christina Rossetti, Bram Stoker, Oscar Wilde, H. Rider Haggard, or H.G. Wells. This seminar will also discuss important secondary literature and advanced theoretical approaches.",
       []
     ],
     "ENGL 578": [
-      "ENGL 578",
-      {},
+      "Seminar Lit &Other Disciplines",
+      {
+        "WH": [
+          "39658",
+          [
+            [
+              34,
+              "R",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "May be repeated if topics vary. Prerequisite: One year of graduate study of literature or consent of instructor.",
       []
     ],
-    "ENGL 582": [
-      "ENGL 582",
-      {},
+    "ENGL 559": [
+      "Seminar Afro-American Lit",
+      {
+        "X": [
+          "39298",
+          [
+            [
+              155,
+              "R",
+              "107A English Building",
+              20,
+              [
+                "Freeburg, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "May be repeated if topics vary. Prerequisite: One college course devoted entirely to an aspect of American literature or consent of instructor.",
       []
     ],
     "ENGL 581": [
-      "ENGL 581",
-      {},
+      "Seminar Literary Theory",
+      {
+        "G": [
+          "48036",
+          [
+            [
+              156,
+              "R",
+              "107A English Building",
+              20,
+              [
+                "Jones, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "May be repeated if topics vary. Prerequisite: A college course devoted entirely to criticism or consent of instructor.",
+      []
+    ],
+    "ENGL 582": [
+      "Topics Research and Writing",
+      {
+        "T": [
+          "43360",
+          [
+            [
+              125,
+              "T",
+              "107A English Building",
+              20,
+              [
+                "Littlefield, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Focuses on the diverse research paradigms that are often employed in the study of writing processes. Topics will vary each term. Examines past and current writing research in the topic area with an emphasis on the critical examination of research designs and the influence of epistemologies on the interpretation of data.",
+      []
+    ],
+    "ENGL 584": [
+      "Topics Discourse and Writing",
+      {
+        "E": [
+          "32287",
+          [
+            [
+              76,
+              "R",
+              "376 Education Building",
+              26,
+              [
+                "Hines, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Focuses on the modes of inquiry central to writing research. The course topic will vary each term and may address such issues as cognitive research and writing, ethnographic research and writing, and discourse analysis and writing.",
       []
     ],
     "ENGL 583": [
-      "ENGL 583",
-      {},
+      "Topics Writ Pedagogy & Design",
+      {
+        "T": [
+          "32285",
+          [
+            [
+              98,
+              "R",
+              "107A English Building",
+              20,
+              [
+                "McKinney, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Examines the relationships among writing studies, theories of pedagogy, and the practice of the writing teacher and administrator. Also focuses on particular problems or particular schools of thought. Typical topics include Writing Program Design and Administration; Writing, Thinking, and Problem Solving; The Classroom as a Research Site; Collaborative Learning; and Writing Across the Curriculum and Discourse Communities. Requirements will vary with instructors and topics.",
       []
     ],
     "ENGL 593": [
-      "ENGL 593",
-      {},
+      "Professional Seminar in College Teaching",
+      {
+        "MB": [
+          "45985",
+          [
+            [
+              156,
+              "W",
+              "135 English Building",
+              20,
+              [
+                "Stevens, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Seminar on undergraduate pedagogy for new graduate instructors. Individual sections will focus on the teaching of film, literature, or rhetoric.",
       []
     ],
     "ENGL 591": [
-      "ENGL 591",
-      {},
+      "Research in Special Topics",
+      {
+        "10073": [
+          "10073",
+          [
+            [
+              4,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Independent study under the guidance of a member of the graduate faculty.",
       []
     ]
   },
   "caches": {
-    "periods": [],
+    "periods": [
+      "1100 - 1220",
+      "1230 - 1350",
+      "1500 - 1620",
+      "1700 - 1950",
+      "ARRANGED",
+      "1300 - 1550",
+      "0800 - 0950",
+      "1500 - 1650",
+      "1100 - 1150",
+      "0900 - 0950",
+      "1000 - 1050",
+      "1300 - 1350",
+      "1300 - 1420",
+      "1530 - 1650",
+      "1400 - 1520",
+      "1530 - 1620",
+      "1500 - 1550",
+      "0730 - 0920",
+      "1100 - 1250",
+      "1300 - 1450",
+      "0900 - 1050",
+      "1630 - 1720",
+      "1400 - 1450",
+      "1200 - 1250",
+      "0930 - 1050",
+      "1830 - 1950",
+      "1600 - 1730",
+      "0900 - 1020",
+      "1600 - 1650",
+      "1400 - 1550",
+      "1230 - 1320",
+      "1100 - 1350",
+      "1200 - 1320",
+      "1200 - 1450",
+      "1500 - 1750",
+      "0930 - 1220",
+      "1400 - 1650",
+      "1100 - 1320",
+      "1000 - 1150",
+      "0900 - 1150",
+      "1300 - 1750",
+      "1800 - 2050",
+      "1700 - 1820",
+      "1530 - 1820",
+      "1430 - 1520",
+      "1030 - 1120",
+      "1130 - 1220",
+      "0800 - 0920",
+      "1300 - 1650",
+      "1330 - 1750",
+      "1300 - 1620",
+      "1300 - 1520",
+      "1800 - 1950",
+      "1600 - 1750",
+      "1300 - 1540",
+      "1400 - 1640",
+      "0900 - 1140",
+      "0930 - 1210",
+      "1600 - 1840",
+      "1700 - 1940",
+      "1000 - 1120",
+      "1700 - 1850",
+      "1600 - 1720",
+      "1130 - 1250",
+      "1000 - 1240",
+      "1900 - 2240",
+      "1230 - 1345",
+      "1600 - 1715",
+      "1530 - 1720",
+      "1400 - 1530",
+      "1200 - 1350",
+      "1930 - 2050",
+      "1400 - 1720",
+      "1700 - 1750",
+      "1100 - 1450",
+      "1500 - 1850",
+      "1600 - 1850",
+      "0800 - 1150",
+      "1730 - 1900",
+      "1000 - 1130",
+      "0930 - 1020",
+      "1830 - 2030",
+      "1830 - 2020",
+      "1630 - 1750",
+      "1530 - 1645",
+      "1100 - 1215",
+      "1400 - 1515",
+      "1700 - 1815",
+      "1830 - 1945",
+      "0930 - 1045",
+      "1800 - 2100",
+      "0800 - 0850",
+      "1400 - 1750",
+      "1900 - 2050",
+      "1330 - 1450",
+      "1000 - 2000",
+      "1600 - 1740",
+      "1230 - 1420",
+      "1500 - 1730",
+      "1500 - 1720",
+      "1530 - 1800",
+      "1630 - 1745",
+      "1630 - 1730",
+      "1900 - 2020",
+      "1900 - 2000",
+      "1700 - 1800",
+      "1000 - 1250",
+      "0830 - 1050",
+      "1400 - 1600",
+      "1300 - 1415",
+      "1600 - 1700",
+      "1300 - 1600",
+      "1400 - 1630",
+      "1000 - 1220",
+      "1300 - 1430",
+      "1200 - 1550",
+      "1830 - 2130",
+      "1830 - 2100",
+      "0930 - 1120",
+      "1230 - 1520",
+      "0800 - 1050",
+      "0900 - 1120",
+      "1630 - 1920",
+      "1800 - 1920",
+      "1200 - 1650",
+      "1300 - 1530",
+      "0900 - 1030",
+      "1035 - 1150",
+      "1500 - 1630",
+      "1430 - 1630",
+      "1035 - 1200",
+      "1035 - 1230",
+      "0920 - 1050",
+      "1400 - 1620",
+      "1145 - 1305",
+      "1700 - 2000",
+      "1800 - 2000",
+      "1000 - 1700",
+      "1730 - 1850",
+      "0900 - 1200",
+      "1730 - 2130",
+      "1730 - 2020",
+      "1700 - 1900",
+      "1730 - 2030",
+      "1900 - 2150",
+      "0730 - 1530",
+      "1700 - 1730",
+      "1900 - 1930",
+      "1430 - 1550",
+      "1700 - 1930",
+      "0830 - 0950",
+      "1630 - 1800",
+      "1900 - 1950",
+      "1400 - 1540",
+      "1230 - 1430",
+      "0900 - 1130",
+      "1200 - 1430"
+    ],
     "dateRanges": [],
-    "scheduleTypes": [],
+    "scheduleTypes": [
+      "Lecture-Discussion",
+      "Online",
+      "Independent Study",
+      "Seminar",
+      "Laboratory",
+      "Lecture",
+      "Discussion/Recitation",
+      "Online Lecture",
+      "Research",
+      "Internship",
+      "Travel",
+      "Packaged Section",
+      "Online Discussion",
+      "Conference",
+      "Study Abroad",
+      "Online Lab",
+      "Studio",
+      "Laboratory-Discussion",
+      "Practice",
+      "Quiz",
+      "Online Lecture-Discussion",
+      "Lecture-Discussion 02/06/27",
+      "Lecture-Discussion 01/23/27"
+    ],
     "campuses": [],
     "attributes": [],
     "restrictions": [],
     "gradeBases": [],
-    "locations": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.1035833,
+        "long": -88.228405
+      },
+      {
+        "lat": 40.0995003,
+        "long": -88.223104
+      },
+      {
+        "lat": 40.10628,
+        "long": -88.22621
+      },
+      {
+        "lat": 40.1072225,
+        "long": -88.2262016
+      },
+      {
+        "lat": 40.106778040727896,
+        "long": -88.2194617156191
+      },
+      {
+        "lat": 40.104794,
+        "long": -88.224264
+      },
+      {
+        "lat": 40.103627234541904,
+        "long": -88.22601765311099
+      },
+      {
+        "lat": 40.103620555545135,
+        "long": -88.22982720445013
+      },
+      {
+        "lat": 40.1028373,
+        "long": -88.2251326
+      },
+      {
+        "lat": 40.1109722,
+        "long": -88.2282631
+      },
+      {
+        "lat": 40.1034533,
+        "long": -88.2327596
+      },
+      {
+        "lat": 40.10944320239664,
+        "long": -88.22602522743233
+      },
+      {
+        "lat": 40.108419421661715,
+        "long": -88.2261156301609
+      },
+      {
+        "lat": 40.1033599,
+        "long": -88.2292111
+      },
+      {
+        "lat": 40.1110937,
+        "long": -88.2232348
+      },
+      {
+        "lat": 40.1149521,
+        "long": -88.2267561
+      },
+      {
+        "lat": 40.092875494224195,
+        "long": -88.22082220247309
+      },
+      {
+        "lat": 40.105732,
+        "long": -88.2281018
+      },
+      {
+        "lat": 40.1065684,
+        "long": -88.2281746
+      },
+      {
+        "lat": 40.107534,
+        "long": -88.2281548
+      },
+      {
+        "lat": 40.103587,
+        "long": -88.230606
+      },
+      {
+        "lat": 40.11171215875622,
+        "long": -88.22530849701589
+      },
+      {
+        "lat": 40.1047599,
+        "long": -88.2319514
+      },
+      {
+        "lat": 40.111691,
+        "long": -88.2242511
+      },
+      {
+        "lat": 40.1022093629303,
+        "long": -88.22800864058527
+      },
+      {
+        "lat": 40.1020773,
+        "long": -88.2296394
+      },
+      {
+        "lat": 40.11246109008789,
+        "long": -88.22831726074219
+      },
+      {
+        "lat": 40.101862,
+        "long": -88.231737
+      },
+      {
+        "lat": 40.1083446,
+        "long": -88.2282555
+      },
+      {
+        "lat": 40.10783362157985,
+        "long": -88.22476189569741
+      },
+      {
+        "lat": 40.10755766472843,
+        "long": -88.22995430218522
+      },
+      {
+        "lat": 40.110811306674734,
+        "long": -88.2248467072371
+      },
+      {
+        "lat": 40.1131317,
+        "long": -88.2264552
+      },
+      {
+        "lat": 40.1149296,
+        "long": -88.2280589
+      },
+      {
+        "lat": 40.108570819242026,
+        "long": -88.22518453938676
+      },
+      {
+        "lat": 40.1035872,
+        "long": -88.2306061
+      },
+      {
+        "lat": 40.102726858556835,
+        "long": -88.23259991223857
+      },
+      {
+        "lat": 40.1108856,
+        "long": -88.2269806
+      },
+      {
+        "lat": 40.107811,
+        "long": -88.2260761
+      },
+      {
+        "lat": 40.11085653938169,
+        "long": -88.22609810215927
+      },
+      {
+        "lat": 40.11397164321797,
+        "long": -88.2265192685827
+      },
+      {
+        "lat": 40.10593795776367,
+        "long": -88.2270736694336
+      },
+      {
+        "lat": 40.10127390836906,
+        "long": -88.2226073524728
+      },
+      {
+        "lat": 40.11380515934119,
+        "long": -88.22490788390387
+      },
+      {
+        "lat": 40.105587640130146,
+        "long": -88.22025111416733
+      },
+      {
+        "lat": 40.10802885201532,
+        "long": -88.22239700364068
+      },
+      {
+        "lat": 40.11180304465921,
+        "long": -88.22613003543475
+      }
+    ],
     "finalDates": [],
     "finalTimes": []
   }

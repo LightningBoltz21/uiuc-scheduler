@@ -4,7 +4,7 @@
   "year": "2027",
   "term": "spring",
   "startedAt": 1794502755201,
-  "lastUpdated": 1794503450686,
+  "lastUpdated": 1794503510577,
   "totalSubjects": 188,
   "totalCourses": 4527,
   "subjects": [
@@ -18752,19 +18752,30 @@
     "ERAM",
     "EDPR",
     "EPSY",
-    "ECE"
+    "ECE",
+    "ES",
+    "ENG",
+    "ETMA",
+    "ENGL",
+    "ESL",
+    "EIL",
+    "ENT",
+    "ENVS",
+    "ENSU",
+    "EURO",
+    "EXP"
   ],
   "partialSubjects": {
-    "ES": {
-      "completed": 3,
-      "total": 4,
+    "FIN": {
+      "completed": 12,
+      "total": 69,
       "lastCourse": "ABORTED"
     }
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 1726,
-    "failedCourses": 10,
+    "successfulCourses": 1896,
+    "failedCourses": 11,
     "rateLimitCount": 0
   }
 }
