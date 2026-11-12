@@ -1,204 +1,2061 @@
 {
   "subject": "MSE",
-  "scrapedAt": 1794504105757,
-  "courseCount": 0,
-  "courses": {},
+  "scrapedAt": 1794504138348,
+  "courseCount": 37,
+  "courses": {
+    "MSE 183": [
+      "Introductory Materials Science and Engineering Laboratory",
+      {
+        "B": [
+          "48165",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Nagel, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Team-based laboratory developing concepts introduced in MSE 182. Practical descriptions of materials concepts, literature research, experimental design, concept validation, teamwork, and presentation of results.",
+      []
+    ],
+    "MSE 206": [
+      "Mechanics for MatSE",
+      {
+        "AD1": [
+          "43379",
+          [
+            [
+              1,
+              "F",
+              "2036 Campus Instructional Facility",
+              1,
+              [
+                "Zhou, W"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AD2": [
+          "57449",
+          [
+            [
+              2,
+              "F",
+              "2036 Campus Instructional Facility",
+              1,
+              [
+                "Zhou, W"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AD3": [
+          "60424",
+          [
+            [
+              3,
+              "F",
+              "2036 Campus Instructional Facility",
+              1,
+              [
+                "Zhou, W"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AD4": [
+          "78897",
+          [
+            [
+              4,
+              "F",
+              "2036 Campus Instructional Facility",
+              1,
+              [
+                "Zhou, W"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "36224",
+          [
+            [
+              5,
+              "MW",
+              "1404 Siebel Center for Comp Sci",
+              2,
+              [
+                "Zhou, W"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Statics and mechanics of materials concepts pertinent to the fields of materials science and engineering: force resultants; stresses and strains produced in elastic bodies; microscopic effects of different loading states (tension, compression, torsion, and bending) on deformable bodies; beam stresses and deflections; three-dimensional stresses and strains.",
+      []
+    ],
+    "MSE 199": [
+      "Undergraduate Open Seminar",
+      {
+        "10557": [
+          "10557",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "MKF": [
+          "23692",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Krogstad, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "May be repeated to a maximum of 5 hours. May be repeated in the same term.",
+      []
+    ],
+    "MSE 280": [
+      "Engineering Materials",
+      {
+        "B": [
+          "38203",
+          [
+            [
+              6,
+              "TR",
+              "2035 Campus Instructional Facility",
+              1,
+              [
+                "Goodman, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Materials science and engineering of ceramics, electronic materials, metals and polymers. Bonding; crystallography; imperfections; processing and properties of semiconductors, polymers, metals, ceramics and composites; phase diagrams. Case studies.",
+      []
+    ],
+    "MSE 304": [
+      "Electronic Properties of Matls",
+      {
+        "C": [
+          "38206",
+          [
+            [
+              7,
+              "MWF",
+              "2100 Sidney Lu Mech Engr Bldg",
+              3,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Electronic structure and bonding of materials, electrical conduction in metals and semiconductors, and dielectric and magnetic properties of solids.",
+      []
+    ],
+    "MSE 308": [
+      "Materials Laboratory II",
+      {
+        "AB1": [
+          "38210",
+          [
+            [
+              8,
+              "T",
+              "105 Ceramics Kiln House",
+              4,
+              [
+                "TerBush, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AB2": [
+          "38211",
+          [
+            [
+              8,
+              "W",
+              "105 Ceramics Kiln House",
+              4,
+              [
+                "TerBush, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AB3": [
+          "38214",
+          [
+            [
+              8,
+              "R",
+              "105 Ceramics Kiln House",
+              4,
+              [
+                "TerBush, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AB4": [
+          "45287",
+          [
+            [
+              8,
+              "F",
+              "105 Ceramics Kiln House",
+              4,
+              [
+                "TerBush, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AB5": [
+          "56834",
+          [
+            [
+              8,
+              "M",
+              "105 Ceramics Kiln House",
+              4,
+              [
+                "TerBush, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "38208",
+          [
+            [
+              1,
+              "TR",
+              "119 Materials Science & Eng Bld",
+              5,
+              [
+                "TerBush, J TerBush, J"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              1,
+              "TR",
+              "122 Ceramics Kiln House",
+              4,
+              [
+                "TerBush, J TerBush, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Experiments characterizing mechanical, transport, and electronic properties of materials and the use of optical microscopy, quartz crystal microbalance, and various mechanical testing equipment. Technical communication is refined through the use of lab reports and oral presentations.",
+      []
+    ],
+    "MSE 396": [
+      "Introduction to Research",
+      {
+        "2": [
+          "61530",
+          [
+            [
+              9,
+              "R",
+              "203 Transportation Building",
+              6,
+              [
+                "Braun, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Fundamental tenets of research including an introduction to laboratory safety, constructing a hypothesis, and the design of experiments to test the hypothesis. Basics of mathematical modeling and statistical analysis of data, including the analysis of research data. Emphasis on exposure to the basic procedures comprising engineering communication and the importance of verbal and written communication.",
+      []
+    ],
+    "MSE 402": [
+      "Kinetic Processes in Materials",
+      {
+        "L": [
+          "38218",
+          [
+            [
+              10,
+              "TR",
+              "1024 Chemistry Annex",
+              7,
+              [
+                "Evans, C Evans, C"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              11,
+              "T",
+              "1024 Chemistry Annex",
+              7,
+              [
+                "Evans, C Evans, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Kinetics of chemical reactions; rate equations, reaction mechanisms; transport processes; diffusion equations, atomic and molecular diffusion; phase transformations; nucleation, crystallization, displacive, spinodal decomposition; surface and interface phenomena; sintering, grain growth, recovery, and recystallization.",
+      []
+    ],
+    "MSE 397": [
+      "Independent Study",
+      {
+        "10559": [
+          "10559",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Individual study of any topic in materials science and engineering selected by the student and conducted under the supervision of a member of the faculty.",
+      []
+    ],
+    "MSE 404": [
+      "Laboratory Studies in Materials Science and Engineering",
+      {
+        "AD1": [
+          "65489",
+          [
+            [
+              8,
+              "MW",
+              "112 Ceramics Building",
+              8,
+              [
+                "Krogstad, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1.5,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AD2": [
+          "65490",
+          [
+            [
+              8,
+              "TR",
+              "112 Ceramics Building",
+              8,
+              [
+                "Krogstad, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1.5,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "BA1": [
+          "65491",
+          [
+            [
+              8,
+              "MW",
+              "218 Ceramics Kiln House",
+              4,
+              [
+                "Gabrielson, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1.5,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "BA2": [
+          "65492",
+          [
+            [
+              8,
+              "TR",
+              "218 Ceramics Kiln House",
+              4,
+              [
+                "Gabrielson, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1.5,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "BA3": [
+          "65537",
+          [
+            [
+              12,
+              "TR",
+              "218 Ceramics Kiln House",
+              4,
+              [
+                "Gabrielson, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1.5,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "BS1": [
+          "65482",
+          [
+            [
+              8,
+              "MW",
+              "218 Ceramics Kiln House",
+              4,
+              [
+                "Gabrielson, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1.5,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "BS2": [
+          "65483",
+          [
+            [
+              8,
+              "TR",
+              "218 Ceramics Kiln House",
+              4,
+              [
+                "Gabrielson, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1.5,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "BS3": [
+          "65484",
+          [
+            [
+              12,
+              "TR",
+              "218 Ceramics Kiln House",
+              4,
+              [
+                "Gabrielson, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1.5,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "LD1": [
+          "71507",
+          [
+            [
+              8,
+              "MW",
+              "204 Ceramics Kiln House",
+              4,
+              [
+                "Shim, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1.5,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "LD2": [
+          "71508",
+          [
+            [
+              8,
+              "TR",
+              "204 Ceramics Kiln House",
+              4,
+              [
+                "Shim, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1.5,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "MP1": [
+          "65480",
+          [
+            [
+              8,
+              "MW",
+              "112 Ceramics Building",
+              8,
+              [
+                "Krogstad, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1.5,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "MP2": [
+          "65481",
+          [
+            [
+              8,
+              "TR",
+              "112 Ceramics Building",
+              8,
+              [
+                "Krogstad, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1.5,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "NP1": [
+          "71509",
+          [
+            [
+              8,
+              "MW",
+              "204 Ceramics Kiln House",
+              4,
+              [
+                "Shim, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1.5,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "NP2": [
+          "71510",
+          [
+            [
+              8,
+              "TR",
+              "204 Ceramics Kiln House",
+              4,
+              [
+                "Shim, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1.5,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Experiments include direct hands-on investigations or are performed through computational approaches. Laboratory experiences include both fundamental studies as well as investigations on more applied topics.",
+      []
+    ],
+    "MSE 405": [
+      "Microstructure Determination",
+      {
+        "AB1": [
+          "43381",
+          [
+            [
+              5,
+              "T",
+              "113 Ceramics Building",
+              8,
+              [
+                "Shoemaker, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AB2": [
+          "43386",
+          [
+            [
+              5,
+              "W",
+              "113 Ceramics Building",
+              8,
+              [
+                "Shoemaker, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AB3": [
+          "43389",
+          [
+            [
+              5,
+              "R",
+              "113 Ceramics Building",
+              8,
+              [
+                "Shoemaker, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AB4": [
+          "45288",
+          [
+            [
+              13,
+              "F",
+              "TBA",
+              0,
+              [
+                "Shoemaker, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AB5": [
+          "57357",
+          [
+            [
+              5,
+              "M",
+              "113 Ceramics Building",
+              8,
+              [
+                "Shoemaker, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AB6": [
+          "70462",
+          [
+            [
+              14,
+              "M",
+              "113 Ceramics Building",
+              8,
+              [
+                "Shoemaker, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AB7": [
+          "70463",
+          [
+            [
+              14,
+              "T",
+              "113 Ceramics Building",
+              8,
+              [
+                "Shoemaker, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AB8": [
+          "70464",
+          [
+            [
+              14,
+              "W",
+              "113 Ceramics Building",
+              8,
+              [
+                "Shoemaker, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AB9": [
+          "70465",
+          [
+            [
+              14,
+              "R",
+              "113 Ceramics Building",
+              8,
+              [
+                "Shoemaker, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "ABA": [
+          "70466",
+          [
+            [
+              14,
+              "F",
+              "113 Ceramics Building",
+              8,
+              [
+                "Shoemaker, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "ABB": [
+          "79249",
+          [
+            [
+              15,
+              "F",
+              "113 Ceramics Building",
+              8,
+              [
+                "Shoemaker, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "ABC": [
+          "79250",
+          [
+            [
+              16,
+              "W",
+              "113 Ceramics Building",
+              8,
+              [
+                "Shoemaker, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "43371",
+          [
+            [
+              1,
+              "MW",
+              "2100 Sidney Lu Mech Engr Bldg",
+              3,
+              [
+                "Shoemaker, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Fundamentals and applications of various forms of microscopy and diffraction for characterization of physical microstructure of materials and of various forms of spectroscopy for characterization of chemical microstructure.",
+      []
+    ],
+    "MSE 420": [
+      "Ceramic Materials & Properties",
+      {
+        "B": [
+          "38221",
+          [
+            [
+              6,
+              "TR",
+              "122 Ceramics Kiln House",
+              4,
+              [
+                "Kriven, W"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Ceramic material fundamentals, emphasizing structure-property relations. Development, use, and control of the properties of a wide variety of ceramic materials from a physico-chemical point of view.",
+      []
+    ],
+    "MSE 450": [
+      "Polymer Science & Engineering",
+      {
+        "A3": [
+          "38243",
+          [
+            [
+              17,
+              "MWF",
+              "106B1 Engineering Hall",
+              9,
+              [
+                "Nason, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "A4": [
+          "38248",
+          [
+            [
+              17,
+              "MWF",
+              "106B1 Engineering Hall",
+              9,
+              [
+                "Nason, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Polymer solution properties, conformation, and molecular weight characterization. Rheological and viscoelastic behavior: relaxations and transitions, rubber elasticity. Crystallinity, morphology, and deformation of crystalline polymers. Blends and composites. Methods of fabrication.",
+      []
+    ],
+    "MSE 422": [
+      "Electrical Ceramics",
+      {
+        "A": [
+          "56833",
+          [
+            [
+              7,
+              "MWF",
+              "4101 Materials Science & Eng Bld",
+              5,
+              [
+                "Perry, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Electrical ceramics, from insulators to conductors, and magnetic and optical materials; the role of the processing cycle and microstructure development on the design and performance of electrical components; capacitors, resistors, and inductors; structure-property relations for pyro-, piezo-, and ferroelectric materials; perovskite and spinel based structures; varistors, thermistors, transducers, actuators, memory elements, multilayered components, and their applications. Design project.",
+      []
+    ],
+    "MSE 441": [
+      "Metals Processing",
+      {
+        "A": [
+          "43599",
+          [
+            [
+              17,
+              "MWF",
+              "2200 Sidney Lu Mech Engr Bldg",
+              3,
+              [
+                "Charpagne, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Melt, mechanical, thermal, powder, and surface processing of metals. Extraction of metals, joining of metals, metal composites, and metal recycling. Relationships between the processing of metals, the microstructures that are produced, and the behavior of metal components.",
+      []
+    ],
+    "MSE 453": [
+      "Plastics Engineering",
+      {
+        "AL1": [
+          "61531",
+          [
+            [
+              6,
+              "TR",
+              "1043 Sidney Lu Mech Engr Bldg",
+              3,
+              [
+                "Nason, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Engineering characteristics of plastics; viscoelasticity, viscosity, yield, and fracture; reinforced polymers; processing; environmental considerations; applicability of technical data sheets; design (project); current advances.",
+      []
+    ],
+    "MSE 455": [
+      "Macromolecular Solids",
+      {
+        "A": [
+          "38259",
+          [
+            [
+              10,
+              "TR",
+              "106B6 Engineering Hall",
+              9,
+              [
+                "Espinosa Marzal, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Mechanical behavior of amorphous and semi-crystalline polymers; overview of polymer structure and characterization; polymer morphology; orientation effects, rubber elasticity, polymer linear viscoelasticity using Boltzmann superposition and mechanical models; measurement of viscoelastic properties; relaxation and transitions; polymeric yield phenomena and plastic flow; deformation mechanisms; fracture and craze formation; impact and fatigue.",
+      []
+    ],
+    "MSE 461": [
+      "Electronic Materials II",
+      {
+        "A": [
+          "46429",
+          [
+            [
+              18,
+              "MWF",
+              "106B1 Engineering Hall",
+              9,
+              [
+                "Cao, Q"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Materials science, engineering, and processing of semiconductors, metals, and dielectrics for electronic and optoelectronic applications. Performance related to device physics and materials properties and processing. Processing commonly used in electronic device manufacture for lithography, etching, metallization, polishing, and bonding.",
+      []
+    ],
+    "MSE 466": [
+      "Electrochemical Energy Conversion",
+      {
+        "A": [
+          "61513",
+          [
+            [
+              17,
+              "MWF",
+              "106B6 Engineering Hall",
+              9,
+              [
+                "Zhang, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Fundamental mechanism, materials, and device design of electrochemical energy conversion systems such as batteries, fuel cells, electrolyzers, and supercapacitors. Emphasis is placed on the thermodynamics and kinetics of electrode processes, as well as materials specific issues for renewable energy.",
+      []
+    ],
+    "MSE 473": [
+      "Biomolecular Materials Science",
+      {
+        "A": [
+          "38346",
+          [
+            [
+              18,
+              "MWF",
+              "305 Materials Science & Eng Bld",
+              5,
+              [
+                "Zhou, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Fundamental and unifying principles in biomolecular materials science. Nucleic acids, proteins, lipids, and sugars. Specific and non-specific interactions which govern biomolecular behavior in a wide range of contexts (e.g., self-assembly, cell adhesion). Present knowledge and empirical evidence integrated with discussions of experimental characterization and manipulation techniques in biotechnology. Application of course content and expository research into current literature via a case study term project.",
+      []
+    ],
+    "MSE 474": [
+      "Biomaterials and Nanomedicine",
+      {
+        "A": [
+          "50287",
+          [
+            [
+              19,
+              "TR",
+              "106B3 Engineering Hall",
+              9,
+              [
+                "Wang, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Design and synthesis of polymeric biomaterials and nanobiomaterials for their applications in drug and gene delivery. Part (1) fundamental biopolymer synthesis: functional group protection and de-protection; bioconjugation; protein pegylation and design and synthesis of natural and synthetic non-degradable and degradable polymers, hydrogels, bio-inspired materials, and stimuli responsive biomaterials. Part (2) preparation of nanomedicines for drug and gene delivery: nanofabritation of micelles, nanoparticles, protein conjugates, drug conjugates, nanoencapsulates, and polymeric vesicles; in-vitro and in-vivo small-molecule, gene, and protein delivery. Impact of the chemical structures of biopolymers on the stability, biocompatibility, toxicity, and in-vitro and in-vivo efficacy; clinical translation of the resulting nanomedicines in drug delivery.",
+      []
+    ],
+    "MSE 481": [
+      "Electron Microscopy",
+      {
+        "A": [
+          "65454",
+          [
+            [
+              19,
+              "TR",
+              "3217 Everitt Laboratory",
+              10,
+              [
+                "Huang, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "65457",
+          [
+            [
+              19,
+              "TR",
+              "3217 Everitt Laboratory",
+              10,
+              [
+                "Huang, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Theory and application of transmission electron microscopy and diffraction with emphasis on thin crystals; electron optics, interference phenomena, interpretation of images and diffraction patterns, specimen preparation.",
+      []
+    ],
+    "MSE 487": [
+      "Materials for Nanotechnology",
+      {
+        "A": [
+          "55678",
+          [
+            [
+              10,
+              "TR",
+              "305 Materials Science & Eng Bld",
+              5,
+              [
+                "Li, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "55679",
+          [
+            [
+              10,
+              "TR",
+              "305 Materials Science & Eng Bld",
+              5,
+              [
+                "Li, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Survey of the synthesis, processing, structure properties and technological applications of materials with nanometer dimensions. Semiconductor nanocrystals and size-dependent optical properties; metal nanostructures and plasmonics; nanowires and nanotubes; electronics and optoelectronics; nanoscale heterostructures; assembly and fabrication.",
+      []
+    ],
+    "MSE 492": [
+      "Lab Safety Fundamentals",
+      {
+        "A": [
+          "69237",
+          [
+            [
+              20,
+              "MW",
+              "100 Materials Science & Eng Bld",
+              5,
+              [
+                "Gabrielson, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Key aspects of laboratory setups, operating procedures, and emergency preparedness measures necessary for the experimentalist.",
+      []
+    ],
+    "MSE 495": [
+      "Materials Design",
+      {
+        "A": [
+          "75759",
+          [
+            [
+              21,
+              "MW",
+              "4025 Campus Instructional Facility",
+              1,
+              [
+                "Goodman, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Continuation of MSE 494. Design teams evaluate alternatives, finalize concepts, model and analyze solutions, build and test a final product (physical or digital), and present the results professionally. Solutions are based on the knowledge, skills, and design experience acquired in earlier course work and incorporate realistic constraints.",
+      []
+    ],
+    "MSE 497": [
+      "Independent Study",
+      {
+        "10601": [
+          "10601",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Individual study of any topic in materials science and engineering under the supervision of a member of the faculty.",
+      []
+    ],
+    "MSE 498": [
+      "Special Topics",
+      {
+        "PB": [
+          "78877",
+          [
+            [
+              10,
+              "TR",
+              "3217 Everitt Laboratory",
+              10,
+              [
+                "Bellon, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Subject offerings of new and developing areas of knowledge in materials science and engineering intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites.",
+      []
+    ],
+    "MSE 499": [
+      "Senior Thesis",
+      {
+        "10561": [
+          "10561",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Individual research in an area of materials science and engineering under the supervision of members of the staff.",
+      []
+    ],
+    "MSE 529": [
+      "Hard Materials Seminar",
+      {
+        "R": [
+          "38358",
+          [
+            [
+              4,
+              "R",
+              "100 Materials Science & Eng Bld",
+              5,
+              [
+                "Shim, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Seminar on current research in science and engineering of hard materials; presentations by visiting lecturers, staff, and students.",
+      []
+    ],
+    "MSE 559": [
+      "Soft Materials Seminar",
+      {
+        "U": [
+          "38361",
+          [
+            [
+              22,
+              "T",
+              "119 Materials Science & Eng Bld",
+              5,
+              [
+                "Chen, Q",
+                "Zhou, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Seminar on current research in the science and engineering of soft materials; presentations by visiting lecturers, staff, and students.",
+      []
+    ],
+    "MSE 583": [
+      "Dynamics of Complex Fluids",
+      {
+        "A": [
+          "48166",
+          [
+            [
+              10,
+              "TR",
+              "303 English Building",
+              11,
+              [
+                "Sing, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Microscopic statistical treatment of the structure and dynamics of polymers, colloids, gels, and other soft materials. Fundamental connections between molecular architecture, intermolecular forces, collective fluid structure, and time-dependent phenomena; Brownian motion, Langevin equation theory, and viscoelasticity; diffusion in colloidal suspensions, gels, and glasses; dynamics of polymer solutions and melts.",
+      []
+    ],
+    "MSE 584": [
+      "Point and Line Defects",
+      {
+        "A": [
+          "43412",
+          [
+            [
+              6,
+              "TR",
+              "3018 Campus Instructional Facility",
+              1,
+              [
+                "Trinkle, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Formation and interactions of point and line defects in solids including metals, semiconductors, dielectrics, and ionic conductors. Theoretical treatment of thermal equilibrium and non-equilibrium conditions. Application to impurity diffusion, ion irradiation, dislocation generation and motion, ionic conductivity, and deep level electronic defects.",
+      []
+    ],
+    "MSE 590": [
+      "Research Seminars",
+      {
+        "10568": [
+          "10568",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Discussions and lectures on current research under the direction of individual staff members.",
+      []
+    ],
+    "MSE 585": [
+      "Materials Engrg Practicum",
+      {
+        "A": [
+          "77221",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Shim, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          8,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Internships or co-ops in industrial or governmental settings pre-approved by the department to foster engineering educational aspects and utilized prior MatSE course work. A paper describing the general area of the practicum, with appropriate references and, to the extent permitted by employer confidentiality, the student's contribution required. In addition to the paper, a report documenting work completed, verified by the work supervisor, to the extent permitted by confidentiality, and a questionnaire answered by the work supervisor form the basis for the grade.",
+      []
+    ],
+    "MSE 595": [
+      "Materials Colloquium",
+      {
+        "H": [
+          "38367",
+          [
+            [
+              22,
+              "M",
+              "100 Materials Science & Eng Bld",
+              5,
+              [
+                "Zhou, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Presentation of (i) cutting-edge materials research by visiting lectures from academia as well as national and industrial research laboratories and (ii) some of the current research conducted in the Department.",
+      []
+    ],
+    "MSE 597": [
+      "Independent Study",
+      {
+        "10566": [
+          "10566",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Individual study of any topic in materials science and engineering under the supervision of a member of the faculty.",
+      []
+    ],
+    "MSE 598": [
+      "Special Topics",
+      {
+        "CA": [
+          "78881",
+          [
+            [
+              1,
+              "MWF",
+              "106B3 Engineering Hall",
+              9,
+              [
+                "Anderson, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "CL": [
+          "78880",
+          [
+            [
+              6,
+              "TR",
+              "0036 Campus Instructional Facility",
+              1,
+              [
+                "Leal, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "DM": [
+          "70522",
+          [
+            [
+              6,
+              "TR",
+              "2051 Sidney Lu Mech Engr Bldg",
+              3,
+              [
+                "Stinville, j"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Subject offerings of new and developing areas of knowledge in materials science and engineering intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites.",
+      []
+    ]
+  },
   "caches": {
     "periods": [
       "ARRANGED",
-      "0900 - 1050",
-      "1400 - 1550",
-      "1300 - 1450",
-      "1200 - 1350",
-      "1100 - 1150",
-      "1000 - 1050",
-      "1000 - 1150",
-      "0900 - 1150",
-      "1400 - 1450",
-      "1900 - 2030",
-      "1100 - 1220",
-      "0900 - 1020",
-      "0930 - 1050",
-      "0900 - 0950",
-      "1200 - 1250",
       "1300 - 1350",
-      "1100 - 1250",
-      "1230 - 1350",
-      "1600 - 1715",
-      "1600 - 1750",
-      "0800 - 1150",
-      "1430 - 1620",
-      "1530 - 1650",
-      "1600 - 1720",
-      "1400 - 1520",
-      "1400 - 1650",
-      "1300 - 1550",
-      "1300 - 1440",
-      "1700 - 1820",
-      "1700 - 1850",
-      "1730 - 2030",
-      "1700 - 1750",
+      "1400 - 1450",
       "1500 - 1550",
       "1600 - 1650",
-      "1730 - 2020",
-      "1000 - 1120",
-      "1500 - 1620",
-      "0900 - 1040",
-      "1200 - 1340",
-      "0930 - 1020",
-      "0800 - 0920",
-      "1530 - 1645",
-      "1700 - 1815",
-      "0930 - 1045",
-      "1100 - 1215",
-      "1400 - 1515",
-      "1230 - 1345",
-      "1200 - 1315",
-      "1330 - 1450",
-      "1300 - 1420",
-      "1630 - 1750",
-      "1030 - 1150",
-      "1200 - 1320",
-      "1800 - 1920",
-      "1800 - 1950",
-      "1500 - 1650",
-      "1230 - 1520",
-      "1000 - 1250",
-      "1730 - 1920",
-      "1600 - 1850",
-      "1200 - 1450",
-      "1730 - 1850",
-      "1100 - 1350",
-      "1700 - 1950",
-      "1030 - 1320",
-      "1530 - 1820",
-      "1900 - 2050",
-      "1500 - 1750",
-      "1830 - 2020",
-      "0930 - 1220",
-      "0800 - 0950",
-      "0800 - 1050",
-      "1800 - 1850",
-      "1300 - 1650",
-      "1400 - 1530",
-      "0930 - 1120",
-      "0930 - 1210",
-      "1300 - 1540",
-      "1130 - 1320",
-      "1330 - 1620",
-      "0830 - 1050",
-      "1830 - 2030",
-      "1800 - 2000",
-      "1630 - 1920",
-      "1200 - 1330",
-      "1030 - 1120",
-      "1430 - 1520",
-      "1530 - 1620",
-      "1630 - 1720",
-      "1130 - 1220",
-      "1230 - 1320",
-      "1800 - 1930",
-      "1500 - 1720",
-      "1100 - 1320",
-      "1400 - 1620",
-      "1330 - 1445",
-      "1500 - 1615",
-      "1030 - 1145",
-      "1330 - 1520",
-      "1330 - 1420",
-      "1800 - 2045",
-      "0900 - 1015",
-      "1330 - 1529",
-      "1700 - 1859",
-      "1325 - 1445",
-      "1630 - 1745",
-      "0830 - 1020",
-      "1300 - 1459",
-      "1730 - 1929",
-      "1730 - 1959",
-      "1530 - 1720",
-      "1700 - 1930",
-      "1730 - 2029",
-      "1330 - 1750",
-      "1330 - 1629",
-      "1600 - 1829",
-      "1330 - 1535",
-      "0930 - 1135",
-      "1800 - 1925",
-      "0900 - 1320",
-      "0900 - 1159",
-      "1630 - 1820",
-      "1600 - 1655",
-      "0900 - 1700",
-      "0900 - 1035",
-      "1330 - 1505",
-      "1325 - 1450",
+      "1400 - 1550",
+      "1100 - 1220",
+      "0900 - 0950",
+      "1400 - 1650",
+      "1530 - 1650",
+      "0930 - 1050",
       "1700 - 1830",
-      "1100 - 1155",
-      "1230 - 1420",
-      "1500 - 1659",
-      "1800 - 2025",
-      "1000 - 1159",
-      "1030 - 1159",
-      "1700 - 1910",
-      "1500 - 1729",
-      "1500 - 1745",
-      "1745 - 1925",
-      "0900 - 1000",
-      "1300 - 1415",
-      "1010 - 1125",
-      "1700 - 1900",
-      "1430 - 1550",
-      "1400 - 1630"
+      "0800 - 1050",
+      "1300 - 1450",
+      "1100 - 1250",
+      "1500 - 1650",
+      "1600 - 1750",
+      "1100 - 1150",
+      "1000 - 1050",
+      "1230 - 1350",
+      "1900 - 2050",
+      "1200 - 1250",
+      "1600 - 1720"
     ],
     "dateRanges": [],
     "scheduleTypes": [
-      "Online",
-      "Laboratory",
-      "Lecture",
       "Laboratory-Discussion",
-      "Internship",
-      "Lecture-Discussion",
-      "Online Lecture-Discussion",
-      "Independent Study",
       "Discussion/Recitation",
-      "Online Lecture",
-      "Packaged Section",
-      "Study Abroad",
-      "Research",
-      "Online Discussion",
-      "Seminar",
+      "Lecture",
+      "Independent Study",
+      "Lecture-Discussion",
+      "Laboratory",
+      "Lecture 01/19/27-01/23/27",
       "Conference",
-      "Online Lab",
-      "Quiz",
-      "Travel",
-      "Lecture 01/21/27-04/02/27",
-      "Lecture-Discussion 03/05/27",
-      "Online 03/08/27-03/12/27",
-      "Lecture 02/05/27",
-      "Conference 01/21/27-03/11/27",
-      "Lecture-Discussion 02/23/27-03/03/27",
-      "Conference 02/23/27-03/03/27",
-      "Lecture 01/21/27-01/28/27",
-      "Lecture 02/11/27-03/04/27",
-      "Lecture-Discussion 01/22/27-03/12/27",
-      "Lecture 01/22/27-03/12/27",
-      "Discussion/Recitation 01/23/27",
-      "Online Discussion 03/29/27-04/09/27",
-      "Online Lecture 03/29/27-04/09/27",
-      "Lecture 03/29/27-04/09/27",
-      "Lecture-Discussion 03/29/27-04/09/27",
-      "Laboratory 01/19/27-02/11/27",
-      "Lecture 02/16/27-03/11/27",
-      "Discussion/Recitation 04/23/27",
-      "Lecture-Discussion 04/23/27",
-      "Lecture-Discussion 01/27/27-04/28/27",
-      "Laboratory-Discussion 03/08/27-03/11/27",
-      "Lecture 03/08/27-03/11/27",
-      "Lecture-Discussion 03/26/27",
-      "Discussion/Recitation 03/26/27",
-      "Lecture-Discussion 03/22/27-04/07/27",
-      "Lecture 03/22/27-04/07/27"
+      "Internship"
     ],
     "campuses": [],
     "attributes": [],
@@ -210,52 +2067,40 @@
         "long": null
       },
       {
-        "lat": 40.0995003,
-        "long": -88.223104
+        "lat": 40.11246109008789,
+        "long": -88.22831726074219
       },
       {
-        "lat": 40.10127390836906,
-        "long": -88.2226073524728
-      },
-      {
-        "lat": 40.104794,
-        "long": -88.224264
-      },
-      {
-        "lat": 40.1072225,
-        "long": -88.2262016
-      },
-      {
-        "lat": 40.1047599,
-        "long": -88.2319514
-      },
-      {
-        "lat": 40.1020773,
-        "long": -88.2296394
-      },
-      {
-        "lat": 40.105587640130146,
-        "long": -88.22025111416733
-      },
-      {
-        "lat": 40.102726858556835,
-        "long": -88.23259991223857
+        "lat": 40.11380515934119,
+        "long": -88.22490788390387
       },
       {
         "lat": 40.110811306674734,
         "long": -88.2248467072371
       },
       {
-        "lat": 40.1131317,
-        "long": -88.2264552
+        "lat": 40.1116416,
+        "long": -88.2248868
+      },
+      {
+        "lat": 40.11085653938169,
+        "long": -88.22609810215927
       },
       {
         "lat": 40.11171215875622,
         "long": -88.22530849701589
       },
       {
-        "lat": 40.11246109008789,
-        "long": -88.22831726074219
+        "lat": 40.107811,
+        "long": -88.2260761
+      },
+      {
+        "lat": 40.111691,
+        "long": -88.2242511
+      },
+      {
+        "lat": 40.1108856,
+        "long": -88.2269806
       },
       {
         "lat": 40.1109722,
@@ -264,102 +2109,6 @@
       {
         "lat": 40.107534,
         "long": -88.2281548
-      },
-      {
-        "lat": 40.1108856,
-        "long": -88.2269806
-      },
-      {
-        "lat": 40.11085653938169,
-        "long": -88.22609810215927
-      },
-      {
-        "lat": 40.1110937,
-        "long": -88.2232348
-      },
-      {
-        "lat": 40.108419421661715,
-        "long": -88.2261156301609
-      },
-      {
-        "lat": 40.105732,
-        "long": -88.2281018
-      },
-      {
-        "lat": 40.107811,
-        "long": -88.2260761
-      },
-      {
-        "lat": 40.106778040727896,
-        "long": -88.2194617156191
-      },
-      {
-        "lat": 40.1065684,
-        "long": -88.2281746
-      },
-      {
-        "lat": 40.10755766472843,
-        "long": -88.22995430218522
-      },
-      {
-        "lat": 40.103620555545135,
-        "long": -88.22982720445013
-      },
-      {
-        "lat": 40.10944320239664,
-        "long": -88.22602522743233
-      },
-      {
-        "lat": 40.10628,
-        "long": -88.22621
-      },
-      {
-        "lat": 40.1083446,
-        "long": -88.2282555
-      },
-      {
-        "lat": 40.103587,
-        "long": -88.230606
-      },
-      {
-        "lat": 40.1034533,
-        "long": -88.2327596
-      },
-      {
-        "lat": 40.10764262805109,
-        "long": -88.23074052515514
-      },
-      {
-        "lat": 40.111691,
-        "long": -88.2242511
-      },
-      {
-        "lat": 40.1035833,
-        "long": -88.228405
-      },
-      {
-        "lat": 40.10593795776367,
-        "long": -88.2270736694336
-      },
-      {
-        "lat": 40.103627234541904,
-        "long": -88.22601765311099
-      },
-      {
-        "lat": 40.1022093629303,
-        "long": -88.22800864058527
-      },
-      {
-        "lat": 40.1033599,
-        "long": -88.2292111
-      },
-      {
-        "lat": 40.10099,
-        "long": -88.23159
-      },
-      {
-        "lat": 40.10783362157985,
-        "long": -88.22476189569741
       }
     ],
     "finalDates": [],
