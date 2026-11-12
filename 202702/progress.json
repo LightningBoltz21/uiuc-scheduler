@@ -3,10 +3,10 @@
   "termName": "Spring 2027",
   "year": "2027",
   "term": "spring",
-  "startedAt": 1791782009306,
-  "lastUpdated": 1794202487784,
-  "totalSubjects": 187,
-  "totalCourses": 3838,
+  "startedAt": 1794502755201,
+  "lastUpdated": 1794502835538,
+  "totalSubjects": 0,
+  "totalCourses": 0,
   "subjects": [
     "ACCY",
     "ASRM",
@@ -104,6 +104,7 @@
     "HT",
     "HK",
     "HBSE",
+    "HEBR",
     "HNDI",
     "HIST",
     "HORT",
@@ -580,6 +581,10 @@
       },
       {
         "subject": "ADV",
+        "number": "399"
+      },
+      {
+        "subject": "ADV",
         "number": "400"
       },
       {
@@ -668,6 +673,10 @@
       }
     ],
     "AE": [
+      {
+        "subject": "AE",
+        "number": "100"
+      },
       {
         "subject": "AE",
         "number": "140"
@@ -844,10 +853,6 @@
       },
       {
         "subject": "AFRO",
-        "number": "132"
-      },
-      {
-        "subject": "AFRO",
         "number": "134"
       },
       {
@@ -880,10 +885,6 @@
       },
       {
         "subject": "AFRO",
-        "number": "243"
-      },
-      {
-        "subject": "AFRO",
         "number": "250"
       },
       {
@@ -893,10 +894,6 @@
       {
         "subject": "AFRO",
         "number": "276"
-      },
-      {
-        "subject": "AFRO",
-        "number": "298"
       },
       {
         "subject": "AFRO",
@@ -921,10 +918,6 @@
       {
         "subject": "AFRO",
         "number": "381"
-      },
-      {
-        "subject": "AFRO",
-        "number": "383"
       },
       {
         "subject": "AFRO",
@@ -962,10 +955,6 @@
       },
       {
         "subject": "AFST",
-        "number": "209"
-      },
-      {
-        "subject": "AFST",
         "number": "210"
       },
       {
@@ -986,11 +975,11 @@
       },
       {
         "subject": "AFST",
-        "number": "243"
+        "number": "338"
       },
       {
         "subject": "AFST",
-        "number": "338"
+        "number": "406"
       },
       {
         "subject": "AFST",
@@ -1015,6 +1004,10 @@
       {
         "subject": "AFST",
         "number": "515"
+      },
+      {
+        "subject": "AFST",
+        "number": "522"
       },
       {
         "subject": "AFST",
@@ -1063,6 +1056,10 @@
       {
         "subject": "AGED",
         "number": "450"
+      },
+      {
+        "subject": "AGED",
+        "number": "496"
       }
     ],
     "ALEC": [
@@ -1081,10 +1078,6 @@
       {
         "subject": "ALEC",
         "number": "505"
-      },
-      {
-        "subject": "ALEC",
-        "number": "540"
       }
     ],
     "ABE": [
@@ -1111,6 +1104,10 @@
       {
         "subject": "ABE",
         "number": "397"
+      },
+      {
+        "subject": "ABE",
+        "number": "446"
       },
       {
         "subject": "ABE",
@@ -1320,6 +1317,10 @@
       },
       {
         "subject": "ACE",
+        "number": "447"
+      },
+      {
+        "subject": "ACE",
         "number": "449"
       },
       {
@@ -1392,10 +1393,6 @@
       }
     ],
     "ACES": [
-      {
-        "subject": "ACES",
-        "number": "102"
-      },
       {
         "subject": "ACES",
         "number": "200"
@@ -1673,6 +1670,10 @@
       {
         "subject": "ANSC",
         "number": "593"
+      },
+      {
+        "subject": "ANSC",
+        "number": "372"
       }
     ],
     "ANTH": [
@@ -1838,6 +1839,10 @@
       },
       {
         "subject": "ANTH",
+        "number": "461"
+      },
+      {
+        "subject": "ANTH",
         "number": "462"
       },
       {
@@ -1854,10 +1859,6 @@
       },
       {
         "subject": "ANTH",
-        "number": "496"
-      },
-      {
-        "subject": "ANTH",
         "number": "497"
       },
       {
@@ -1867,10 +1868,6 @@
       {
         "subject": "ANTH",
         "number": "504"
-      },
-      {
-        "subject": "ANTH",
-        "number": "511"
       },
       {
         "subject": "ANTH",
@@ -1891,10 +1888,6 @@
       {
         "subject": "ANTH",
         "number": "590"
-      },
-      {
-        "subject": "ANTH",
-        "number": "594"
       },
       {
         "subject": "ANTH",
@@ -1944,10 +1937,6 @@
       },
       {
         "subject": "ARCH",
-        "number": "222"
-      },
-      {
-        "subject": "ARCH",
         "number": "232"
       },
       {
@@ -1961,10 +1950,6 @@
       {
         "subject": "ARCH",
         "number": "401"
-      },
-      {
-        "subject": "ARCH",
-        "number": "403"
       },
       {
         "subject": "ARCH",
@@ -2001,6 +1986,10 @@
       {
         "subject": "ARCH",
         "number": "491"
+      },
+      {
+        "subject": "ARCH",
+        "number": "498"
       },
       {
         "subject": "ARCH",
@@ -2139,10 +2128,6 @@
       {
         "subject": "ART",
         "number": "221"
-      },
-      {
-        "subject": "ART",
-        "number": "553"
       }
     ],
     "ARTD": [
@@ -2310,10 +2295,6 @@
       },
       {
         "subject": "ARTH",
-        "number": "219"
-      },
-      {
-        "subject": "ARTH",
         "number": "220"
       },
       {
@@ -2346,7 +2327,7 @@
       },
       {
         "subject": "ARTH",
-        "number": "415"
+        "number": "416"
       },
       {
         "subject": "ARTH",
@@ -2488,6 +2469,10 @@
       },
       {
         "subject": "ARTS",
+        "number": "454"
+      },
+      {
+        "subject": "ARTS",
         "number": "461"
       },
       {
@@ -2603,14 +2588,6 @@
       {
         "subject": "AAS",
         "number": "490"
-      },
-      {
-        "subject": "AAS",
-        "number": "496"
-      },
-      {
-        "subject": "AAS",
-        "number": "589"
       },
       {
         "subject": "AAS",
@@ -3145,6 +3122,10 @@
       {
         "subject": "BSE",
         "number": "799"
+      },
+      {
+        "subject": "BSE",
+        "number": "759"
       }
     ],
     "BIOP": [
@@ -3484,10 +3465,6 @@
       },
       {
         "subject": "BADM",
-        "number": "512"
-      },
-      {
-        "subject": "BADM",
         "number": "516"
       },
       {
@@ -3727,6 +3704,10 @@
       {
         "subject": "CGGE",
         "number": "581"
+      },
+      {
+        "subject": "CGGE",
+        "number": "200"
       }
     ],
     "CHBE": [
@@ -3776,6 +3757,10 @@
       },
       {
         "subject": "CHBE",
+        "number": "415"
+      },
+      {
+        "subject": "CHBE",
         "number": "421"
       },
       {
@@ -3808,6 +3793,10 @@
       },
       {
         "subject": "CHBE",
+        "number": "458"
+      },
+      {
+        "subject": "CHBE",
         "number": "478"
       },
       {
@@ -3825,6 +3814,10 @@
       {
         "subject": "CHBE",
         "number": "510"
+      },
+      {
+        "subject": "CHBE",
+        "number": "513"
       },
       {
         "subject": "CHBE",
@@ -3998,6 +3991,10 @@
       },
       {
         "subject": "CHEM",
+        "number": "492"
+      },
+      {
+        "subject": "CHEM",
         "number": "494"
       },
       {
@@ -4051,10 +4048,6 @@
       {
         "subject": "CHEM",
         "number": "546"
-      },
-      {
-        "subject": "CHEM",
-        "number": "550"
       },
       {
         "subject": "CHEM",
@@ -4150,10 +4143,6 @@
       },
       {
         "subject": "CEE",
-        "number": "408"
-      },
-      {
-        "subject": "CEE",
         "number": "411"
       },
       {
@@ -4226,10 +4215,6 @@
       },
       {
         "subject": "CEE",
-        "number": "468"
-      },
-      {
-        "subject": "CEE",
         "number": "470"
       },
       {
@@ -4274,7 +4259,7 @@
       },
       {
         "subject": "CEE",
-        "number": "558"
+        "number": "559"
       },
       {
         "subject": "CEE",
@@ -4298,15 +4283,7 @@
       },
       {
         "subject": "CEE",
-        "number": "585"
-      },
-      {
-        "subject": "CEE",
         "number": "587"
-      },
-      {
-        "subject": "CEE",
-        "number": "592"
       },
       {
         "subject": "CEE",
@@ -4380,11 +4357,15 @@
       },
       {
         "subject": "CLCV",
-        "number": "443"
+        "number": "444"
       },
       {
         "subject": "CLCV",
         "number": "492"
+      },
+      {
+        "subject": "CLCV",
+        "number": "493"
       }
     ],
     "CLE": [
@@ -4864,7 +4845,7 @@
       },
       {
         "subject": "CB",
-        "number": "516"
+        "number": "554"
       },
       {
         "subject": "CB",
@@ -4894,6 +4875,10 @@
       },
       {
         "subject": "CWL",
+        "number": "151"
+      },
+      {
+        "subject": "CWL",
         "number": "191"
       },
       {
@@ -4915,10 +4900,6 @@
       {
         "subject": "CWL",
         "number": "220"
-      },
-      {
-        "subject": "CWL",
-        "number": "225"
       },
       {
         "subject": "CWL",
@@ -4971,6 +4952,10 @@
       {
         "subject": "CWL",
         "number": "275"
+      },
+      {
+        "subject": "CWL",
+        "number": "276"
       },
       {
         "subject": "CWL",
@@ -5061,6 +5046,10 @@
       {
         "subject": "CSE",
         "number": "440"
+      },
+      {
+        "subject": "CSE",
+        "number": "441"
       },
       {
         "subject": "CSE",
@@ -5158,10 +5147,6 @@
       },
       {
         "subject": "CS",
-        "number": "266"
-      },
-      {
-        "subject": "CS",
         "number": "277"
       },
       {
@@ -5191,10 +5176,6 @@
       {
         "subject": "CS",
         "number": "397"
-      },
-      {
-        "subject": "CS",
-        "number": "398"
       },
       {
         "subject": "CS",
@@ -5255,6 +5236,10 @@
       {
         "subject": "CS",
         "number": "433"
+      },
+      {
+        "subject": "CS",
+        "number": "434"
       },
       {
         "subject": "CS",
@@ -5355,6 +5340,10 @@
       {
         "subject": "CS",
         "number": "478"
+      },
+      {
+        "subject": "CS",
+        "number": "481"
       },
       {
         "subject": "CS",
@@ -5603,6 +5592,10 @@
       {
         "subject": "CPSC",
         "number": "418"
+      },
+      {
+        "subject": "CPSC",
+        "number": "420"
       },
       {
         "subject": "CPSC",
@@ -5860,6 +5853,10 @@
       },
       {
         "subject": "CI",
+        "number": "569"
+      },
+      {
+        "subject": "CI",
         "number": "590"
       },
       {
@@ -5934,10 +5931,6 @@
       },
       {
         "subject": "DANC",
-        "number": "270"
-      },
-      {
-        "subject": "DANC",
         "number": "301"
       },
       {
@@ -5999,10 +5992,6 @@
       {
         "subject": "DANC",
         "number": "465"
-      },
-      {
-        "subject": "DANC",
-        "number": "470"
       },
       {
         "subject": "DANC",
@@ -6182,6 +6171,10 @@
       },
       {
         "subject": "EALC",
+        "number": "276"
+      },
+      {
+        "subject": "EALC",
         "number": "288"
       },
       {
@@ -6242,6 +6235,10 @@
       },
       {
         "subject": "EALC",
+        "number": "584"
+      },
+      {
+        "subject": "EALC",
         "number": "588"
       },
       {
@@ -6293,6 +6290,10 @@
       {
         "subject": "ECON",
         "number": "303"
+      },
+      {
+        "subject": "ECON",
+        "number": "397"
       },
       {
         "subject": "ECON",
@@ -6417,6 +6418,10 @@
       {
         "subject": "ECON",
         "number": "598"
+      },
+      {
+        "subject": "ECON",
+        "number": "573"
       }
     ],
     "EDUC": [
@@ -6457,6 +6462,10 @@
       {
         "subject": "EPOL",
         "number": "310"
+      },
+      {
+        "subject": "EPOL",
+        "number": "390"
       },
       {
         "subject": "EPOL",
@@ -6604,6 +6613,10 @@
       },
       {
         "subject": "EPOL",
+        "number": "584"
+      },
+      {
+        "subject": "EPOL",
         "number": "586"
       },
       {
@@ -6659,10 +6672,6 @@
       {
         "subject": "ERAM",
         "number": "576"
-      },
-      {
-        "subject": "ERAM",
-        "number": "582"
       }
     ],
     "EDPR": [
@@ -6685,6 +6694,10 @@
       {
         "subject": "EDPR",
         "number": "432"
+      },
+      {
+        "subject": "EDPR",
+        "number": "433"
       },
       {
         "subject": "EDPR",
@@ -6778,15 +6791,7 @@
       },
       {
         "subject": "EPSY",
-        "number": "490"
-      },
-      {
-        "subject": "EPSY",
         "number": "491"
-      },
-      {
-        "subject": "EPSY",
-        "number": "511"
       },
       {
         "subject": "EPSY",
@@ -6940,10 +6945,6 @@
       },
       {
         "subject": "ECE",
-        "number": "364"
-      },
-      {
-        "subject": "ECE",
         "number": "374"
       },
       {
@@ -7000,10 +7001,6 @@
       },
       {
         "subject": "ECE",
-        "number": "418"
-      },
-      {
-        "subject": "ECE",
         "number": "420"
       },
       {
@@ -7029,6 +7026,10 @@
       {
         "subject": "ECE",
         "number": "431"
+      },
+      {
+        "subject": "ECE",
+        "number": "434"
       },
       {
         "subject": "ECE",
@@ -7096,11 +7097,11 @@
       },
       {
         "subject": "ECE",
-        "number": "483"
+        "number": "484"
       },
       {
         "subject": "ECE",
-        "number": "484"
+        "number": "485"
       },
       {
         "subject": "ECE",
@@ -7109,6 +7110,10 @@
       {
         "subject": "ECE",
         "number": "489"
+      },
+      {
+        "subject": "ECE",
+        "number": "490"
       },
       {
         "subject": "ECE",
@@ -7144,6 +7149,10 @@
       },
       {
         "subject": "ECE",
+        "number": "513"
+      },
+      {
+        "subject": "ECE",
         "number": "515"
       },
       {
@@ -7164,10 +7173,6 @@
       },
       {
         "subject": "ECE",
-        "number": "538"
-      },
-      {
-        "subject": "ECE",
         "number": "543"
       },
       {
@@ -7180,11 +7185,11 @@
       },
       {
         "subject": "ECE",
-        "number": "551"
+        "number": "556"
       },
       {
         "subject": "ECE",
-        "number": "553"
+        "number": "558"
       },
       {
         "subject": "ECE",
@@ -7197,6 +7202,10 @@
       {
         "subject": "ECE",
         "number": "586"
+      },
+      {
+        "subject": "ECE",
+        "number": "587"
       },
       {
         "subject": "ECE",
@@ -7516,6 +7525,10 @@
       },
       {
         "subject": "ENGL",
+        "number": "276"
+      },
+      {
+        "subject": "ENGL",
         "number": "277"
       },
       {
@@ -7616,10 +7629,6 @@
       },
       {
         "subject": "ENGL",
-        "number": "496"
-      },
-      {
-        "subject": "ENGL",
         "number": "498"
       },
       {
@@ -7653,6 +7662,10 @@
       {
         "subject": "ENGL",
         "number": "583"
+      },
+      {
+        "subject": "ENGL",
+        "number": "584"
       },
       {
         "subject": "ENGL",
@@ -7824,10 +7837,6 @@
       },
       {
         "subject": "ENVS",
-        "number": "516"
-      },
-      {
-        "subject": "ENVS",
         "number": "596"
       }
     ],
@@ -7848,15 +7857,7 @@
     "EURO": [
       {
         "subject": "EURO",
-        "number": "199"
-      },
-      {
-        "subject": "EURO",
         "number": "418"
-      },
-      {
-        "subject": "EURO",
-        "number": "490"
       },
       {
         "subject": "EURO",
@@ -7976,10 +7977,6 @@
       },
       {
         "subject": "FIN",
-        "number": "424"
-      },
-      {
-        "subject": "FIN",
         "number": "426"
       },
       {
@@ -8072,10 +8069,6 @@
       },
       {
         "subject": "FIN",
-        "number": "527"
-      },
-      {
-        "subject": "FIN",
         "number": "529"
       },
       {
@@ -8148,10 +8141,6 @@
       },
       {
         "subject": "FIN",
-        "number": "583"
-      },
-      {
-        "subject": "FIN",
         "number": "586"
       },
       {
@@ -8190,19 +8179,15 @@
       },
       {
         "subject": "FAA",
+        "number": "199"
+      },
+      {
+        "subject": "FAA",
         "number": "201"
       },
       {
         "subject": "FAA",
         "number": "202"
-      },
-      {
-        "subject": "FAA",
-        "number": "231"
-      },
-      {
-        "subject": "FAA",
-        "number": "250"
       },
       {
         "subject": "FAA",
@@ -8218,11 +8203,11 @@
       },
       {
         "subject": "FAA",
-        "number": "402"
+        "number": "431"
       },
       {
         "subject": "FAA",
-        "number": "431"
+        "number": "450"
       },
       {
         "subject": "FAA",
@@ -8242,23 +8227,7 @@
       },
       {
         "subject": "FAA",
-        "number": "498"
-      },
-      {
-        "subject": "FAA",
-        "number": "545"
-      },
-      {
-        "subject": "FAA",
         "number": "547"
-      },
-      {
-        "subject": "FAA",
-        "number": "553"
-      },
-      {
-        "subject": "FAA",
-        "number": "557"
       },
       {
         "subject": "FAA",
@@ -8432,6 +8401,10 @@
       },
       {
         "subject": "FSHN",
+        "number": "518"
+      },
+      {
+        "subject": "FSHN",
         "number": "520"
       },
       {
@@ -8518,10 +8491,6 @@
       },
       {
         "subject": "FR",
-        "number": "240"
-      },
-      {
-        "subject": "FR",
         "number": "319"
       },
       {
@@ -8539,6 +8508,10 @@
       {
         "subject": "FR",
         "number": "460"
+      },
+      {
+        "subject": "FR",
+        "number": "479"
       },
       {
         "subject": "FR",
@@ -8567,6 +8540,10 @@
       {
         "subject": "FR",
         "number": "576"
+      },
+      {
+        "subject": "FR",
+        "number": "584"
       },
       {
         "subject": "FR",
@@ -8653,6 +8630,10 @@
       {
         "subject": "GSD",
         "number": "550"
+      },
+      {
+        "subject": "GSD",
+        "number": "551"
       },
       {
         "subject": "GSD",
@@ -8810,11 +8791,11 @@
       },
       {
         "subject": "GWS",
-        "number": "496"
+        "number": "550"
       },
       {
         "subject": "GWS",
-        "number": "550"
+        "number": "590"
       }
     ],
     "GGIS": [
@@ -8884,6 +8865,10 @@
       },
       {
         "subject": "GGIS",
+        "number": "381"
+      },
+      {
+        "subject": "GGIS",
         "number": "390"
       },
       {
@@ -8945,6 +8930,10 @@
       {
         "subject": "GGIS",
         "number": "491"
+      },
+      {
+        "subject": "GGIS",
+        "number": "495"
       },
       {
         "subject": "GGIS",
@@ -9192,6 +9181,10 @@
       },
       {
         "subject": "GER",
+        "number": "584"
+      },
+      {
+        "subject": "GER",
         "number": "588"
       },
       {
@@ -9284,15 +9277,15 @@
       },
       {
         "subject": "GLBL",
+        "number": "496"
+      },
+      {
+        "subject": "GLBL",
         "number": "499"
       },
       {
         "subject": "GLBL",
         "number": "500"
-      },
-      {
-        "subject": "GLBL",
-        "number": "501"
       },
       {
         "subject": "GLBL",
@@ -9584,6 +9577,10 @@
       },
       {
         "subject": "HK",
+        "number": "361"
+      },
+      {
+        "subject": "HK",
         "number": "362"
       },
       {
@@ -9788,10 +9785,6 @@
       },
       {
         "subject": "HK",
-        "number": "525"
-      },
-      {
-        "subject": "HK",
         "number": "527"
       },
       {
@@ -9867,6 +9860,12 @@
       {
         "subject": "HBSE",
         "number": "573"
+      }
+    ],
+    "HEBR": [
+      {
+        "subject": "HEBR",
+        "number": "404"
       }
     ],
     "HNDI": [
@@ -9990,10 +9989,6 @@
       },
       {
         "subject": "HIST",
-        "number": "345"
-      },
-      {
-        "subject": "HIST",
         "number": "352"
       },
       {
@@ -10026,6 +10021,10 @@
       },
       {
         "subject": "HIST",
+        "number": "381"
+      },
+      {
+        "subject": "HIST",
         "number": "387"
       },
       {
@@ -10043,6 +10042,10 @@
       {
         "subject": "HIST",
         "number": "399"
+      },
+      {
+        "subject": "HIST",
+        "number": "411"
       },
       {
         "subject": "HIST",
@@ -10117,6 +10120,10 @@
       {
         "subject": "HORT",
         "number": "101"
+      },
+      {
+        "subject": "HORT",
+        "number": "103"
       },
       {
         "subject": "HORT",
@@ -10432,6 +10439,10 @@
       },
       {
         "subject": "IE",
+        "number": "410"
+      },
+      {
+        "subject": "IE",
         "number": "413"
       },
       {
@@ -10579,17 +10590,9 @@
       {
         "subject": "INFO",
         "number": "597"
-      },
-      {
-        "subject": "INFO",
-        "number": "599"
       }
     ],
     "IS": [
-      {
-        "subject": "IS",
-        "number": "100"
-      },
       {
         "subject": "IS",
         "number": "101"
@@ -10609,10 +10612,6 @@
       {
         "subject": "IS",
         "number": "189"
-      },
-      {
-        "subject": "IS",
-        "number": "200"
       },
       {
         "subject": "IS",
@@ -10645,10 +10644,6 @@
       {
         "subject": "IS",
         "number": "249"
-      },
-      {
-        "subject": "IS",
-        "number": "266"
       },
       {
         "subject": "IS",
@@ -10857,10 +10852,6 @@
       {
         "subject": "IS",
         "number": "510"
-      },
-      {
-        "subject": "IS",
-        "number": "511"
       },
       {
         "subject": "IS",
@@ -11186,6 +11177,10 @@
       },
       {
         "subject": "IB",
+        "number": "533"
+      },
+      {
+        "subject": "IB",
         "number": "542"
       },
       {
@@ -11268,6 +11263,10 @@
       },
       {
         "subject": "ITAL",
+        "number": "584"
+      },
+      {
+        "subject": "ITAL",
         "number": "588"
       },
       {
@@ -11327,10 +11326,6 @@
       {
         "subject": "JS",
         "number": "120"
-      },
-      {
-        "subject": "JS",
-        "number": "201"
       },
       {
         "subject": "JS",
@@ -11524,10 +11519,6 @@
       },
       {
         "subject": "LER",
-        "number": "440"
-      },
-      {
-        "subject": "LER",
         "number": "510"
       },
       {
@@ -11626,11 +11617,15 @@
       },
       {
         "subject": "LA",
-        "number": "221"
+        "number": "212"
       },
       {
         "subject": "LA",
-        "number": "222"
+        "number": "214"
+      },
+      {
+        "subject": "LA",
+        "number": "221"
       },
       {
         "subject": "LA",
@@ -11718,10 +11713,6 @@
       },
       {
         "subject": "LA",
-        "number": "594"
-      },
-      {
-        "subject": "LA",
         "number": "597"
       },
       {
@@ -11795,10 +11786,6 @@
       {
         "subject": "LAST",
         "number": "232"
-      },
-      {
-        "subject": "LAST",
-        "number": "240"
       },
       {
         "subject": "LAST",
@@ -11936,11 +11923,11 @@
       },
       {
         "subject": "LLS",
-        "number": "590"
+        "number": "596"
       },
       {
         "subject": "LLS",
-        "number": "596"
+        "number": "590"
       }
     ],
     "LAW": [
@@ -11967,6 +11954,14 @@
       {
         "subject": "LAW",
         "number": "499"
+      },
+      {
+        "subject": "LAW",
+        "number": "500"
+      },
+      {
+        "subject": "LAW",
+        "number": "501"
       },
       {
         "subject": "LAW",
@@ -12002,7 +11997,91 @@
       },
       {
         "subject": "LAW",
+        "number": "601"
+      },
+      {
+        "subject": "LAW",
+        "number": "603"
+      },
+      {
+        "subject": "LAW",
+        "number": "604"
+      },
+      {
+        "subject": "LAW",
+        "number": "606"
+      },
+      {
+        "subject": "LAW",
+        "number": "610"
+      },
+      {
+        "subject": "LAW",
+        "number": "616"
+      },
+      {
+        "subject": "LAW",
+        "number": "624"
+      },
+      {
+        "subject": "LAW",
+        "number": "633"
+      },
+      {
+        "subject": "LAW",
+        "number": "638"
+      },
+      {
+        "subject": "LAW",
+        "number": "648"
+      },
+      {
+        "subject": "LAW",
+        "number": "657"
+      },
+      {
+        "subject": "LAW",
+        "number": "664"
+      },
+      {
+        "subject": "LAW",
+        "number": "679"
+      },
+      {
+        "subject": "LAW",
+        "number": "680"
+      },
+      {
+        "subject": "LAW",
+        "number": "683"
+      },
+      {
+        "subject": "LAW",
+        "number": "684"
+      },
+      {
+        "subject": "LAW",
+        "number": "685"
+      },
+      {
+        "subject": "LAW",
+        "number": "686"
+      },
+      {
+        "subject": "LAW",
+        "number": "687"
+      },
+      {
+        "subject": "LAW",
         "number": "692"
+      },
+      {
+        "subject": "LAW",
+        "number": "693"
+      },
+      {
+        "subject": "LAW",
+        "number": "694"
       },
       {
         "subject": "LAW",
@@ -12015,6 +12094,34 @@
       {
         "subject": "LAW",
         "number": "701"
+      },
+      {
+        "subject": "LAW",
+        "number": "792"
+      },
+      {
+        "subject": "LAW",
+        "number": "793"
+      },
+      {
+        "subject": "LAW",
+        "number": "794"
+      },
+      {
+        "subject": "LAW",
+        "number": "795"
+      },
+      {
+        "subject": "LAW",
+        "number": "796"
+      },
+      {
+        "subject": "LAW",
+        "number": "797"
+      },
+      {
+        "subject": "LAW",
+        "number": "798"
       }
     ],
     "LCTL": [
@@ -12086,10 +12193,6 @@
       },
       {
         "subject": "LAS",
-        "number": "450"
-      },
-      {
-        "subject": "LAS",
         "number": "494"
       }
     ],
@@ -12105,10 +12208,6 @@
       {
         "subject": "LING",
         "number": "115"
-      },
-      {
-        "subject": "LING",
-        "number": "191"
       },
       {
         "subject": "LING",
@@ -12228,7 +12327,15 @@
       },
       {
         "subject": "LING",
+        "number": "584"
+      },
+      {
+        "subject": "LING",
         "number": "588"
+      },
+      {
+        "subject": "LING",
+        "number": "591"
       }
     ],
     "SLCL": [
@@ -12360,6 +12467,10 @@
       },
       {
         "subject": "MSE",
+        "number": "583"
+      },
+      {
+        "subject": "MSE",
         "number": "584"
       },
       {
@@ -12399,10 +12510,6 @@
       {
         "subject": "MATH",
         "number": "117"
-      },
-      {
-        "subject": "MATH",
-        "number": "124"
       },
       {
         "subject": "MATH",
@@ -12594,10 +12701,6 @@
       },
       {
         "subject": "MATH",
-        "number": "499"
-      },
-      {
-        "subject": "MATH",
         "number": "500"
       },
       {
@@ -12619,10 +12722,6 @@
       {
         "subject": "MATH",
         "number": "527"
-      },
-      {
-        "subject": "MATH",
-        "number": "530"
       },
       {
         "subject": "MATH",
@@ -12765,6 +12864,10 @@
       {
         "subject": "ME",
         "number": "481"
+      },
+      {
+        "subject": "ME",
+        "number": "485"
       },
       {
         "subject": "ME",
@@ -12924,10 +13027,6 @@
       },
       {
         "subject": "MACS",
-        "number": "266"
-      },
-      {
-        "subject": "MACS",
         "number": "282"
       },
       {
@@ -13031,10 +13130,6 @@
       {
         "subject": "MDVL",
         "number": "201"
-      },
-      {
-        "subject": "MDVL",
-        "number": "345"
       },
       {
         "subject": "MDVL",
@@ -13214,6 +13309,10 @@
       },
       {
         "subject": "MCB",
+        "number": "410"
+      },
+      {
+        "subject": "MCB",
         "number": "418"
       },
       {
@@ -13223,6 +13322,10 @@
       {
         "subject": "MCB",
         "number": "430"
+      },
+      {
+        "subject": "MCB",
+        "number": "432"
       },
       {
         "subject": "MCB",
@@ -13295,6 +13398,10 @@
       {
         "subject": "MCB",
         "number": "545"
+      },
+      {
+        "subject": "MCB",
+        "number": "561"
       },
       {
         "subject": "MCB",
@@ -13392,6 +13499,10 @@
       },
       {
         "subject": "MUS",
+        "number": "129"
+      },
+      {
+        "subject": "MUS",
         "number": "132"
       },
       {
@@ -13444,6 +13555,10 @@
       },
       {
         "subject": "MUS",
+        "number": "163"
+      },
+      {
+        "subject": "MUS",
         "number": "164"
       },
       {
@@ -13464,7 +13579,11 @@
       },
       {
         "subject": "MUS",
-        "number": "199"
+        "number": "176"
+      },
+      {
+        "subject": "MUS",
+        "number": "177"
       },
       {
         "subject": "MUS",
@@ -13516,6 +13635,10 @@
       },
       {
         "subject": "MUS",
+        "number": "332"
+      },
+      {
+        "subject": "MUS",
         "number": "342"
       },
       {
@@ -13533,10 +13656,6 @@
       {
         "subject": "MUS",
         "number": "363"
-      },
-      {
-        "subject": "MUS",
-        "number": "365"
       },
       {
         "subject": "MUS",
@@ -13592,15 +13711,11 @@
       },
       {
         "subject": "MUS",
-        "number": "444"
+        "number": "440"
       },
       {
         "subject": "MUS",
         "number": "446"
-      },
-      {
-        "subject": "MUS",
-        "number": "447"
       },
       {
         "subject": "MUS",
@@ -13644,6 +13759,10 @@
       },
       {
         "subject": "MUS",
+        "number": "507"
+      },
+      {
+        "subject": "MUS",
         "number": "508"
       },
       {
@@ -13680,11 +13799,15 @@
       },
       {
         "subject": "MUS",
-        "number": "533"
+        "number": "532"
       },
       {
         "subject": "MUS",
         "number": "534"
+      },
+      {
+        "subject": "MUS",
+        "number": "539"
       },
       {
         "subject": "MUS",
@@ -13724,6 +13847,10 @@
       },
       {
         "subject": "MUS",
+        "number": "569"
+      },
+      {
+        "subject": "MUS",
         "number": "571"
       },
       {
@@ -13737,6 +13864,10 @@
       {
         "subject": "MUS",
         "number": "578"
+      },
+      {
+        "subject": "MUS",
+        "number": "580"
       }
     ],
     "MUSC": [
@@ -13822,6 +13953,10 @@
       },
       {
         "subject": "MUSC",
+        "number": "133"
+      },
+      {
+        "subject": "MUSC",
         "number": "134"
       },
       {
@@ -13839,6 +13974,10 @@
       {
         "subject": "MUSC",
         "number": "138"
+      },
+      {
+        "subject": "MUSC",
+        "number": "140"
       },
       {
         "subject": "MUSC",
@@ -13938,7 +14077,15 @@
       },
       {
         "subject": "MUSC",
+        "number": "431"
+      },
+      {
+        "subject": "MUSC",
         "number": "432"
+      },
+      {
+        "subject": "MUSC",
+        "number": "433"
       },
       {
         "subject": "MUSC",
@@ -14074,10 +14221,6 @@
       },
       {
         "subject": "MUSC",
-        "number": "491"
-      },
-      {
-        "subject": "MUSC",
         "number": "492"
       },
       {
@@ -14190,10 +14333,6 @@
       },
       {
         "subject": "MUSC",
-        "number": "531"
-      },
-      {
-        "subject": "MUSC",
         "number": "532"
       },
       {
@@ -14215,10 +14354,6 @@
       {
         "subject": "MUSC",
         "number": "538"
-      },
-      {
-        "subject": "MUSC",
-        "number": "541"
       }
     ],
     "NRES": [
@@ -14392,10 +14527,6 @@
       },
       {
         "subject": "NRES",
-        "number": "592"
-      },
-      {
-        "subject": "NRES",
         "number": "594"
       },
       {
@@ -14431,10 +14562,6 @@
       {
         "subject": "NS",
         "number": "321"
-      },
-      {
-        "subject": "NS",
-        "number": "323"
       }
     ],
     "NE": [
@@ -14454,1636 +14581,13 @@
         "subject": "NE",
         "number": "422"
       }
-    ],
-    "NEUR": [
-      {
-        "subject": "NEUR",
-        "number": "302"
-      },
-      {
-        "subject": "NEUR",
-        "number": "405"
-      },
-      {
-        "subject": "NEUR",
-        "number": "414"
-      },
-      {
-        "subject": "NEUR",
-        "number": "432"
-      },
-      {
-        "subject": "NEUR",
-        "number": "445"
-      },
-      {
-        "subject": "NEUR",
-        "number": "450"
-      },
-      {
-        "subject": "NEUR",
-        "number": "462"
-      },
-      {
-        "subject": "NEUR",
-        "number": "500"
-      },
-      {
-        "subject": "NEUR",
-        "number": "520"
-      },
-      {
-        "subject": "NEUR",
-        "number": "529"
-      },
-      {
-        "subject": "NEUR",
-        "number": "543"
-      },
-      {
-        "subject": "NEUR",
-        "number": "590"
-      },
-      {
-        "subject": "NEUR",
-        "number": "598"
-      }
-    ],
-    "NPRE": [
-      {
-        "subject": "NPRE",
-        "number": "101"
-      },
-      {
-        "subject": "NPRE",
-        "number": "199"
-      },
-      {
-        "subject": "NPRE",
-        "number": "247"
-      },
-      {
-        "subject": "NPRE",
-        "number": "297"
-      },
-      {
-        "subject": "NPRE",
-        "number": "349"
-      },
-      {
-        "subject": "NPRE",
-        "number": "397"
-      },
-      {
-        "subject": "NPRE",
-        "number": "398"
-      },
-      {
-        "subject": "NPRE",
-        "number": "402"
-      },
-      {
-        "subject": "NPRE",
-        "number": "412"
-      },
-      {
-        "subject": "NPRE",
-        "number": "421"
-      },
-      {
-        "subject": "NPRE",
-        "number": "429"
-      },
-      {
-        "subject": "NPRE",
-        "number": "430"
-      },
-      {
-        "subject": "NPRE",
-        "number": "441"
-      },
-      {
-        "subject": "NPRE",
-        "number": "442"
-      },
-      {
-        "subject": "NPRE",
-        "number": "451"
-      },
-      {
-        "subject": "NPRE",
-        "number": "455"
-      },
-      {
-        "subject": "NPRE",
-        "number": "457"
-      },
-      {
-        "subject": "NPRE",
-        "number": "458"
-      },
-      {
-        "subject": "NPRE",
-        "number": "480"
-      },
-      {
-        "subject": "NPRE",
-        "number": "483"
-      },
-      {
-        "subject": "NPRE",
-        "number": "497"
-      },
-      {
-        "subject": "NPRE",
-        "number": "498"
-      },
-      {
-        "subject": "NPRE",
-        "number": "521"
-      },
-      {
-        "subject": "NPRE",
-        "number": "526"
-      },
-      {
-        "subject": "NPRE",
-        "number": "531"
-      },
-      {
-        "subject": "NPRE",
-        "number": "554"
-      },
-      {
-        "subject": "NPRE",
-        "number": "558"
-      },
-      {
-        "subject": "NPRE",
-        "number": "561"
-      },
-      {
-        "subject": "NPRE",
-        "number": "596"
-      },
-      {
-        "subject": "NPRE",
-        "number": "597"
-      }
-    ],
-    "NUTR": [
-      {
-        "subject": "NUTR",
-        "number": "426"
-      },
-      {
-        "subject": "NUTR",
-        "number": "427"
-      },
-      {
-        "subject": "NUTR",
-        "number": "440"
-      },
-      {
-        "subject": "NUTR",
-        "number": "500"
-      },
-      {
-        "subject": "NUTR",
-        "number": "510"
-      },
-      {
-        "subject": "NUTR",
-        "number": "511"
-      },
-      {
-        "subject": "NUTR",
-        "number": "520"
-      },
-      {
-        "subject": "NUTR",
-        "number": "522"
-      },
-      {
-        "subject": "NUTR",
-        "number": "526"
-      },
-      {
-        "subject": "NUTR",
-        "number": "561"
-      },
-      {
-        "subject": "NUTR",
-        "number": "582"
-      },
-      {
-        "subject": "NUTR",
-        "number": "583"
-      },
-      {
-        "subject": "NUTR",
-        "number": "590"
-      },
-      {
-        "subject": "NUTR",
-        "number": "591"
-      },
-      {
-        "subject": "NUTR",
-        "number": "593"
-      }
-    ],
-    "LEAD": [
-      {
-        "subject": "LEAD",
-        "number": "116"
-      },
-      {
-        "subject": "LEAD",
-        "number": "140"
-      },
-      {
-        "subject": "LEAD",
-        "number": "260"
-      },
-      {
-        "subject": "LEAD",
-        "number": "321"
-      },
-      {
-        "subject": "LEAD",
-        "number": "425"
-      },
-      {
-        "subject": "LEAD",
-        "number": "427"
-      },
-      {
-        "subject": "LEAD",
-        "number": "460"
-      },
-      {
-        "subject": "LEAD",
-        "number": "470"
-      }
-    ],
-    "PATH": [
-      {
-        "subject": "PATH",
-        "number": "290"
-      },
-      {
-        "subject": "PATH",
-        "number": "410"
-      },
-      {
-        "subject": "PATH",
-        "number": "433"
-      },
-      {
-        "subject": "PATH",
-        "number": "490"
-      },
-      {
-        "subject": "PATH",
-        "number": "494"
-      },
-      {
-        "subject": "PATH",
-        "number": "501"
-      },
-      {
-        "subject": "PATH",
-        "number": "504"
-      },
-      {
-        "subject": "PATH",
-        "number": "513"
-      },
-      {
-        "subject": "PATH",
-        "number": "520"
-      },
-      {
-        "subject": "PATH",
-        "number": "523"
-      },
-      {
-        "subject": "PATH",
-        "number": "527"
-      },
-      {
-        "subject": "PATH",
-        "number": "542"
-      },
-      {
-        "subject": "PATH",
-        "number": "545"
-      },
-      {
-        "subject": "PATH",
-        "number": "546"
-      },
-      {
-        "subject": "PATH",
-        "number": "547"
-      },
-      {
-        "subject": "PATH",
-        "number": "551"
-      },
-      {
-        "subject": "PATH",
-        "number": "552"
-      },
-      {
-        "subject": "PATH",
-        "number": "556"
-      },
-      {
-        "subject": "PATH",
-        "number": "557"
-      },
-      {
-        "subject": "PATH",
-        "number": "558"
-      },
-      {
-        "subject": "PATH",
-        "number": "559"
-      },
-      {
-        "subject": "PATH",
-        "number": "575"
-      },
-      {
-        "subject": "PATH",
-        "number": "576"
-      },
-      {
-        "subject": "PATH",
-        "number": "577"
-      },
-      {
-        "subject": "PATH",
-        "number": "578"
-      },
-      {
-        "subject": "PATH",
-        "number": "579"
-      },
-      {
-        "subject": "PATH",
-        "number": "590"
-      },
-      {
-        "subject": "PATH",
-        "number": "592"
-      },
-      {
-        "subject": "PATH",
-        "number": "596"
-      },
-      {
-        "subject": "PATH",
-        "number": "598"
-      },
-      {
-        "subject": "PATH",
-        "number": "692"
-      }
-    ],
-    "PERS": [
-      {
-        "subject": "PERS",
-        "number": "202"
-      },
-      {
-        "subject": "PERS",
-        "number": "404"
-      },
-      {
-        "subject": "PERS",
-        "number": "454"
-      }
-    ],
-    "PHIL": [
-      {
-        "subject": "PHIL",
-        "number": "100"
-      },
-      {
-        "subject": "PHIL",
-        "number": "101"
-      },
-      {
-        "subject": "PHIL",
-        "number": "102"
-      },
-      {
-        "subject": "PHIL",
-        "number": "103"
-      },
-      {
-        "subject": "PHIL",
-        "number": "104"
-      },
-      {
-        "subject": "PHIL",
-        "number": "105"
-      },
-      {
-        "subject": "PHIL",
-        "number": "107"
-      },
-      {
-        "subject": "PHIL",
-        "number": "110"
-      },
-      {
-        "subject": "PHIL",
-        "number": "111"
-      },
-      {
-        "subject": "PHIL",
-        "number": "201"
-      },
-      {
-        "subject": "PHIL",
-        "number": "202"
-      },
-      {
-        "subject": "PHIL",
-        "number": "203"
-      },
-      {
-        "subject": "PHIL",
-        "number": "206"
-      },
-      {
-        "subject": "PHIL",
-        "number": "210"
-      },
-      {
-        "subject": "PHIL",
-        "number": "222"
-      },
-      {
-        "subject": "PHIL",
-        "number": "223"
-      },
-      {
-        "subject": "PHIL",
-        "number": "231"
-      },
-      {
-        "subject": "PHIL",
-        "number": "270"
-      },
-      {
-        "subject": "PHIL",
-        "number": "307"
-      },
-      {
-        "subject": "PHIL",
-        "number": "316"
-      },
-      {
-        "subject": "PHIL",
-        "number": "390"
-      },
-      {
-        "subject": "PHIL",
-        "number": "419"
-      },
-      {
-        "subject": "PHIL",
-        "number": "420"
-      },
-      {
-        "subject": "PHIL",
-        "number": "421"
-      },
-      {
-        "subject": "PHIL",
-        "number": "424"
-      },
-      {
-        "subject": "PHIL",
-        "number": "425"
-      },
-      {
-        "subject": "PHIL",
-        "number": "426"
-      },
-      {
-        "subject": "PHIL",
-        "number": "442"
-      },
-      {
-        "subject": "PHIL",
-        "number": "454"
-      },
-      {
-        "subject": "PHIL",
-        "number": "460"
-      },
-      {
-        "subject": "PHIL",
-        "number": "492"
-      },
-      {
-        "subject": "PHIL",
-        "number": "499"
-      },
-      {
-        "subject": "PHIL",
-        "number": "501"
-      },
-      {
-        "subject": "PHIL",
-        "number": "513"
-      },
-      {
-        "subject": "PHIL",
-        "number": "521"
-      },
-      {
-        "subject": "PHIL",
-        "number": "547"
-      },
-      {
-        "subject": "PHIL",
-        "number": "583"
-      },
-      {
-        "subject": "PHIL",
-        "number": "590"
-      }
-    ],
-    "PHYS": [
-      {
-        "subject": "PHYS",
-        "number": "101"
-      },
-      {
-        "subject": "PHYS",
-        "number": "102"
-      },
-      {
-        "subject": "PHYS",
-        "number": "199"
-      },
-      {
-        "subject": "PHYS",
-        "number": "211"
-      },
-      {
-        "subject": "PHYS",
-        "number": "212"
-      },
-      {
-        "subject": "PHYS",
-        "number": "213"
-      },
-      {
-        "subject": "PHYS",
-        "number": "214"
-      },
-      {
-        "subject": "PHYS",
-        "number": "221"
-      },
-      {
-        "subject": "PHYS",
-        "number": "225"
-      },
-      {
-        "subject": "PHYS",
-        "number": "246"
-      },
-      {
-        "subject": "PHYS",
-        "number": "280"
-      },
-      {
-        "subject": "PHYS",
-        "number": "325"
-      },
-      {
-        "subject": "PHYS",
-        "number": "326"
-      },
-      {
-        "subject": "PHYS",
-        "number": "370"
-      },
-      {
-        "subject": "PHYS",
-        "number": "394"
-      },
-      {
-        "subject": "PHYS",
-        "number": "395"
-      },
-      {
-        "subject": "PHYS",
-        "number": "401"
-      },
-      {
-        "subject": "PHYS",
-        "number": "402"
-      },
-      {
-        "subject": "PHYS",
-        "number": "403"
-      },
-      {
-        "subject": "PHYS",
-        "number": "404"
-      },
-      {
-        "subject": "PHYS",
-        "number": "407"
-      },
-      {
-        "subject": "PHYS",
-        "number": "419"
-      },
-      {
-        "subject": "PHYS",
-        "number": "420"
-      },
-      {
-        "subject": "PHYS",
-        "number": "427"
-      },
-      {
-        "subject": "PHYS",
-        "number": "435"
-      },
-      {
-        "subject": "PHYS",
-        "number": "436"
-      },
-      {
-        "subject": "PHYS",
-        "number": "446"
-      },
-      {
-        "subject": "PHYS",
-        "number": "450"
-      },
-      {
-        "subject": "PHYS",
-        "number": "460"
-      },
-      {
-        "subject": "PHYS",
-        "number": "470"
-      },
-      {
-        "subject": "PHYS",
-        "number": "486"
-      },
-      {
-        "subject": "PHYS",
-        "number": "487"
-      },
-      {
-        "subject": "PHYS",
-        "number": "495"
-      },
-      {
-        "subject": "PHYS",
-        "number": "496"
-      },
-      {
-        "subject": "PHYS",
-        "number": "497"
-      },
-      {
-        "subject": "PHYS",
-        "number": "504"
-      },
-      {
-        "subject": "PHYS",
-        "number": "509"
-      },
-      {
-        "subject": "PHYS",
-        "number": "514"
-      },
-      {
-        "subject": "PHYS",
-        "number": "516"
-      },
-      {
-        "subject": "PHYS",
-        "number": "523"
-      },
-      {
-        "subject": "PHYS",
-        "number": "525"
-      },
-      {
-        "subject": "PHYS",
-        "number": "560"
-      },
-      {
-        "subject": "PHYS",
-        "number": "581"
-      },
-      {
-        "subject": "PHYS",
-        "number": "583"
-      },
-      {
-        "subject": "PHYS",
-        "number": "591"
-      },
-      {
-        "subject": "PHYS",
-        "number": "594"
-      },
-      {
-        "subject": "PHYS",
-        "number": "595"
-      },
-      {
-        "subject": "PHYS",
-        "number": "597"
-      },
-      {
-        "subject": "PHYS",
-        "number": "598"
-      },
-      {
-        "subject": "PHYS",
-        "number": "599"
-      }
-    ],
-    "PLPA": [
-      {
-        "subject": "PLPA",
-        "number": "200"
-      },
-      {
-        "subject": "PLPA",
-        "number": "395"
-      },
-      {
-        "subject": "PLPA",
-        "number": "403"
-      }
-    ],
-    "POL": [
-      {
-        "subject": "POL",
-        "number": "102"
-      },
-      {
-        "subject": "POL",
-        "number": "199"
-      },
-      {
-        "subject": "POL",
-        "number": "202"
-      }
-    ],
-    "PS": [
-      {
-        "subject": "PS",
-        "number": "100"
-      },
-      {
-        "subject": "PS",
-        "number": "101"
-      },
-      {
-        "subject": "PS",
-        "number": "125"
-      },
-      {
-        "subject": "PS",
-        "number": "201"
-      },
-      {
-        "subject": "PS",
-        "number": "224"
-      },
-      {
-        "subject": "PS",
-        "number": "229"
-      },
-      {
-        "subject": "PS",
-        "number": "242"
-      },
-      {
-        "subject": "PS",
-        "number": "243"
-      },
-      {
-        "subject": "PS",
-        "number": "248"
-      },
-      {
-        "subject": "PS",
-        "number": "272"
-      },
-      {
-        "subject": "PS",
-        "number": "273"
-      },
-      {
-        "subject": "PS",
-        "number": "280"
-      },
-      {
-        "subject": "PS",
-        "number": "282"
-      },
-      {
-        "subject": "PS",
-        "number": "300"
-      },
-      {
-        "subject": "PS",
-        "number": "302"
-      },
-      {
-        "subject": "PS",
-        "number": "305"
-      },
-      {
-        "subject": "PS",
-        "number": "314"
-      },
-      {
-        "subject": "PS",
-        "number": "316"
-      },
-      {
-        "subject": "PS",
-        "number": "321"
-      },
-      {
-        "subject": "PS",
-        "number": "325"
-      },
-      {
-        "subject": "PS",
-        "number": "343"
-      },
-      {
-        "subject": "PS",
-        "number": "345"
-      },
-      {
-        "subject": "PS",
-        "number": "359"
-      },
-      {
-        "subject": "PS",
-        "number": "362"
-      },
-      {
-        "subject": "PS",
-        "number": "372"
-      },
-      {
-        "subject": "PS",
-        "number": "373"
-      },
-      {
-        "subject": "PS",
-        "number": "377"
-      },
-      {
-        "subject": "PS",
-        "number": "382"
-      },
-      {
-        "subject": "PS",
-        "number": "389"
-      },
-      {
-        "subject": "PS",
-        "number": "398"
-      },
-      {
-        "subject": "PS",
-        "number": "399"
-      },
-      {
-        "subject": "PS",
-        "number": "418"
-      },
-      {
-        "subject": "PS",
-        "number": "458"
-      },
-      {
-        "subject": "PS",
-        "number": "480"
-      },
-      {
-        "subject": "PS",
-        "number": "485"
-      },
-      {
-        "subject": "PS",
-        "number": "488"
-      },
-      {
-        "subject": "PS",
-        "number": "490"
-      },
-      {
-        "subject": "PS",
-        "number": "491"
-      },
-      {
-        "subject": "PS",
-        "number": "494"
-      },
-      {
-        "subject": "PS",
-        "number": "496"
-      },
-      {
-        "subject": "PS",
-        "number": "512"
-      },
-      {
-        "subject": "PS",
-        "number": "514"
-      },
-      {
-        "subject": "PS",
-        "number": "522"
-      },
-      {
-        "subject": "PS",
-        "number": "526"
-      },
-      {
-        "subject": "PS",
-        "number": "528"
-      },
-      {
-        "subject": "PS",
-        "number": "531"
-      },
-      {
-        "subject": "PS",
-        "number": "534"
-      },
-      {
-        "subject": "PS",
-        "number": "549"
-      },
-      {
-        "subject": "PS",
-        "number": "581"
-      },
-      {
-        "subject": "PS",
-        "number": "590"
-      },
-      {
-        "subject": "PS",
-        "number": "596"
-      },
-      {
-        "subject": "PS",
-        "number": "597"
-      },
-      {
-        "subject": "PS",
-        "number": "598"
-      }
-    ],
-    "PORT": [
-      {
-        "subject": "PORT",
-        "number": "150"
-      },
-      {
-        "subject": "PORT",
-        "number": "199"
-      },
-      {
-        "subject": "PORT",
-        "number": "400"
-      },
-      {
-        "subject": "PORT",
-        "number": "401"
-      },
-      {
-        "subject": "PORT",
-        "number": "402"
-      },
-      {
-        "subject": "PORT",
-        "number": "460"
-      },
-      {
-        "subject": "PORT",
-        "number": "489"
-      },
-      {
-        "subject": "PORT",
-        "number": "588"
-      },
-      {
-        "subject": "PORT",
-        "number": "595"
-      }
-    ],
-    "PSM": [
-      {
-        "subject": "PSM",
-        "number": "501"
-      },
-      {
-        "subject": "PSM",
-        "number": "502"
-      },
-      {
-        "subject": "PSM",
-        "number": "503"
-      },
-      {
-        "subject": "PSM",
-        "number": "520"
-      },
-      {
-        "subject": "PSM",
-        "number": "555"
-      }
-    ],
-    "PSYC": [
-      {
-        "subject": "PSYC",
-        "number": "100"
-      },
-      {
-        "subject": "PSYC",
-        "number": "144"
-      },
-      {
-        "subject": "PSYC",
-        "number": "201"
-      },
-      {
-        "subject": "PSYC",
-        "number": "210"
-      },
-      {
-        "subject": "PSYC",
-        "number": "214"
-      },
-      {
-        "subject": "PSYC",
-        "number": "216"
-      },
-      {
-        "subject": "PSYC",
-        "number": "220"
-      },
-      {
-        "subject": "PSYC",
-        "number": "225"
-      },
-      {
-        "subject": "PSYC",
-        "number": "230"
-      },
-      {
-        "subject": "PSYC",
-        "number": "235"
-      },
-      {
-        "subject": "PSYC",
-        "number": "238"
-      },
-      {
-        "subject": "PSYC",
-        "number": "239"
-      },
-      {
-        "subject": "PSYC",
-        "number": "245"
-      },
-      {
-        "subject": "PSYC",
-        "number": "250"
-      },
-      {
-        "subject": "PSYC",
-        "number": "255"
-      },
-      {
-        "subject": "PSYC",
-        "number": "290"
-      },
-      {
-        "subject": "PSYC",
-        "number": "296"
-      },
-      {
-        "subject": "PSYC",
-        "number": "302"
-      },
-      {
-        "subject": "PSYC",
-        "number": "306"
-      },
-      {
-        "subject": "PSYC",
-        "number": "311"
-      },
-      {
-        "subject": "PSYC",
-        "number": "318"
-      },
-      {
-        "subject": "PSYC",
-        "number": "320"
-      },
-      {
-        "subject": "PSYC",
-        "number": "322"
-      },
-      {
-        "subject": "PSYC",
-        "number": "324"
-      },
-      {
-        "subject": "PSYC",
-        "number": "329"
-      },
-      {
-        "subject": "PSYC",
-        "number": "331"
-      },
-      {
-        "subject": "PSYC",
-        "number": "333"
-      },
-      {
-        "subject": "PSYC",
-        "number": "334"
-      },
-      {
-        "subject": "PSYC",
-        "number": "336"
-      },
-      {
-        "subject": "PSYC",
-        "number": "338"
-      },
-      {
-        "subject": "PSYC",
-        "number": "339"
-      },
-      {
-        "subject": "PSYC",
-        "number": "341"
-      },
-      {
-        "subject": "PSYC",
-        "number": "350"
-      },
-      {
-        "subject": "PSYC",
-        "number": "358"
-      },
-      {
-        "subject": "PSYC",
-        "number": "361"
-      },
-      {
-        "subject": "PSYC",
-        "number": "363"
-      },
-      {
-        "subject": "PSYC",
-        "number": "365"
-      },
-      {
-        "subject": "PSYC",
-        "number": "398"
-      },
-      {
-        "subject": "PSYC",
-        "number": "402"
-      },
-      {
-        "subject": "PSYC",
-        "number": "404"
-      },
-      {
-        "subject": "PSYC",
-        "number": "414"
-      },
-      {
-        "subject": "PSYC",
-        "number": "420"
-      },
-      {
-        "subject": "PSYC",
-        "number": "427"
-      },
-      {
-        "subject": "PSYC",
-        "number": "432"
-      },
-      {
-        "subject": "PSYC",
-        "number": "443"
-      },
-      {
-        "subject": "PSYC",
-        "number": "445"
-      },
-      {
-        "subject": "PSYC",
-        "number": "450"
-      },
-      {
-        "subject": "PSYC",
-        "number": "455"
-      },
-      {
-        "subject": "PSYC",
-        "number": "462"
-      },
-      {
-        "subject": "PSYC",
-        "number": "465"
-      },
-      {
-        "subject": "PSYC",
-        "number": "468"
-      },
-      {
-        "subject": "PSYC",
-        "number": "489"
-      },
-      {
-        "subject": "PSYC",
-        "number": "490"
-      },
-      {
-        "subject": "PSYC",
-        "number": "492"
-      },
-      {
-        "subject": "PSYC",
-        "number": "494"
-      },
-      {
-        "subject": "PSYC",
-        "number": "496"
-      },
-      {
-        "subject": "PSYC",
-        "number": "499"
-      },
-      {
-        "subject": "PSYC",
-        "number": "500"
-      },
-      {
-        "subject": "PSYC",
-        "number": "507"
-      },
-      {
-        "subject": "PSYC",
-        "number": "534"
-      },
-      {
-        "subject": "PSYC",
-        "number": "543"
-      },
-      {
-        "subject": "PSYC",
-        "number": "546"
-      },
-      {
-        "subject": "PSYC",
-        "number": "548"
-      },
-      {
-        "subject": "PSYC",
-        "number": "553"
-      },
-      {
-        "subject": "PSYC",
-        "number": "563"
-      },
-      {
-        "subject": "PSYC",
-        "number": "567"
-      },
-      {
-        "subject": "PSYC",
-        "number": "570"
-      },
-      {
-        "subject": "PSYC",
-        "number": "573"
-      },
-      {
-        "subject": "PSYC",
-        "number": "576"
-      },
-      {
-        "subject": "PSYC",
-        "number": "577"
-      },
-      {
-        "subject": "PSYC",
-        "number": "578"
-      },
-      {
-        "subject": "PSYC",
-        "number": "579"
-      },
-      {
-        "subject": "PSYC",
-        "number": "581"
-      },
-      {
-        "subject": "PSYC",
-        "number": "587"
-      },
-      {
-        "subject": "PSYC",
-        "number": "590"
-      },
-      {
-        "subject": "PSYC",
-        "number": "593"
-      },
-      {
-        "subject": "PSYC",
-        "number": "596"
-      },
-      {
-        "subject": "PSYC",
-        "number": "598"
-      },
-      {
-        "subject": "PSYC",
-        "number": "599"
-      },
-      {
-        "subject": "PSYC",
-        "number": "512"
-      }
-    ],
-    "QUEC": [
-      {
-        "subject": "QUEC",
-        "number": "411"
-      },
-      {
-        "subject": "QUEC",
-        "number": "421"
-      }
-    ],
-    "RST": [],
-    "MBA": [],
-    "REL": [],
-    "RHET": [],
-    "RMLG": [],
-    "RUSS": [],
-    "REES": [],
-    "SCAN": [],
-    "SLAV": [],
-    "SOCW": [],
-    "SOC": [],
-    "SAME": [],
-    "SPAN": [],
-    "SPED": [],
-    "SHS": [],
-    "STAT": [],
-    "SBC": [],
-    "SWAH": [],
-    "SE": [],
-    "TE": [],
-    "TMGT": [],
-    "THEA": [],
-    "TAM": [],
-    "TRST": [],
-    "TURK": [],
-    "UKR": [],
-    "UP": [],
-    "VCM": [],
-    "VM": [],
-    "WLOF": [],
-    "WLTE": [],
-    "WRIT": [],
-    "YDSH": []
+    ]
   },
-  "completedSubjects": [
-    "ACCY",
-    "ASRM",
-    "ADV",
-    "AE",
-    "AFRO",
-    "AFST",
-    "AGCM",
-    "AGED",
-    "ALEC",
-    "ABE",
-    "ACE",
-    "ACES",
-    "AFAS",
-    "AIS",
-    "ANSC",
-    "ANTH",
-    "AHS",
-    "ARAB",
-    "ARCH",
-    "ART",
-    "ARTD",
-    "ARTE",
-    "ARTF",
-    "ARTH",
-    "ARTS",
-    "AAS",
-    "ASST",
-    "ASTR",
-    "ATMS",
-    "BASQ",
-    "BIOC",
-    "BIOE",
-    "BSE",
-    "BIOP",
-    "BCS",
-    "BCOG",
-    "BULG",
-    "BUS",
-    "BADM",
-    "BDI",
-    "BTW",
-    "CHP",
-    "CDB",
-    "CGGE",
-    "CHBE",
-    "CHEM",
-    "CHIN",
-    "CEE",
-    "CLCV",
-    "CLE",
-    "CIC",
-    "CMN",
-    "CB",
-    "CWL",
-    "CSE",
-    "CS",
-    "CW",
-    "CPSC",
-    "CI",
-    "DANC",
-    "ESE",
-    "EALC",
-    "ECON",
-    "EDUC",
-    "EPOL",
-    "ERAM",
-    "EDPR",
-    "EPSY",
-    "ECE",
-    "ES",
-    "ENG",
-    "ETMA",
-    "ENGL",
-    "ESL",
-    "EIL",
-    "ENT",
-    "ENVS",
-    "ENSU",
-    "EURO",
-    "EXP",
-    "FIN",
-    "FAA",
-    "FSHN",
-    "FR",
-    "GSD",
-    "GWS",
-    "GGIS",
-    "GEOL",
-    "GER",
-    "GMC",
-    "GLBL",
-    "GC",
-    "GRK",
-    "HT",
-    "HK",
-    "HBSE",
-    "HNDI",
-    "HIST",
-    "HORT",
-    "HDFS",
-    "DTX",
-    "HUM",
-    "IE",
-    "INFO",
-    "IS",
-    "IB",
-    "ITAL",
-    "JAPN",
-    "ARTJ",
-    "JS",
-    "JOUR",
-    "KOR",
-    "LER",
-    "LA",
-    "LAT",
-    "LAST",
-    "LLS",
-    "LAW",
-    "LCTL",
-    "LAS",
-    "LING",
-    "SLCL",
-    "MSE",
-    "MATH",
-    "ME",
-    "MDIA",
-    "MACS",
-    "MDVL",
-    "MICR",
-    "MILS",
-    "GRKM",
-    "MCB",
-    "MIP",
-    "MUSE",
-    "MUS",
-    "MUSC",
-    "NRES",
-    "NS",
-    "NE",
-    "NEUR",
-    "NPRE",
-    "NUTR",
-    "LEAD",
-    "PATH",
-    "PERS",
-    "PHIL",
-    "PHYS",
-    "PLPA",
-    "POL",
-    "PS",
-    "PORT",
-    "PSM",
-    "PSYC",
-    "QUEC",
-    "RST",
-    "MBA",
-    "REL",
-    "RHET",
-    "RMLG",
-    "RUSS",
-    "REES",
-    "SCAN",
-    "SLAV",
-    "SOCW",
-    "SOC",
-    "SAME",
-    "SPAN",
-    "SPED",
-    "SHS",
-    "STAT",
-    "SBC",
-    "SWAH",
-    "SE",
-    "TE",
-    "TMGT",
-    "THEA",
-    "TAM",
-    "TRST",
-    "TURK",
-    "UKR",
-    "UP",
-    "VCM",
-    "VM",
-    "WLOF",
-    "WLTE",
-    "WRIT",
-    "YDSH"
-  ],
+  "completedSubjects": [],
   "partialSubjects": {},
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 3838,
+    "successfulCourses": 0,
     "failedCourses": 0,
     "rateLimitCount": 0
   }
