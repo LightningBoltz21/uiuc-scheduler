@@ -4,7 +4,7 @@
   "year": "2027",
   "term": "spring",
   "startedAt": 1794502755201,
-  "lastUpdated": 1794504290558,
+  "lastUpdated": 1794504350548,
   "totalSubjects": 188,
   "totalCourses": 4527,
   "subjects": [
@@ -18824,19 +18824,25 @@
     "NRES",
     "NS",
     "NE",
-    "NEUR"
+    "NEUR",
+    "NPRE",
+    "NUTR",
+    "LEAD",
+    "PATH",
+    "PERS",
+    "PHIL"
   ],
   "partialSubjects": {
-    "NPRE": {
-      "completed": 0,
-      "total": 29,
+    "PHYS": {
+      "completed": 41,
+      "total": 49,
       "lastCourse": "ABORTED"
     }
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 3539,
-    "failedCourses": 20,
+    "successfulCourses": 3704,
+    "failedCourses": 21,
     "rateLimitCount": 0
   }
 }

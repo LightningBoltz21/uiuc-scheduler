@@ -1,284 +1,2254 @@
 {
   "subject": "PHIL",
-  "scrapedAt": 1791782784848,
-  "courseCount": 38,
+  "scrapedAt": 1794504342140,
+  "courseCount": 36,
   "courses": {
     "PHIL 102": [
-      "PHIL 102",
-      {},
+      "Logic and Reasoning",
+      {
+        "B": [
+          "39129",
+          [
+            [
+              23,
+              "MWF",
+              "313 Davenport Hall",
+              19,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Practical study of logical reasoning; techniques for analyzing and criticizing arguments, with emphasis on assessing the logical coherence of what we read and write.",
       []
     ],
     "PHIL 100": [
-      "PHIL 100",
-      {},
+      "Intro to Philosophy-ACP",
+      {
+        "AD0": [
+          "67849",
+          [
+            [
+              1,
+              "F",
+              "315 Gregory Hall",
+              20,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "AD1": [
+          "49928",
+          [
+            [
+              1,
+              "F",
+              "313 Gregory Hall",
+              20,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "AD2": [
+          "49929",
+          [
+            [
+              4,
+              "F",
+              "205 Gregory Hall",
+              20,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "AD3": [
+          "49930",
+          [
+            [
+              23,
+              "F",
+              "242 Armory",
+              21,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "AD4": [
+          "49931",
+          [
+            [
+              6,
+              "F",
+              "1051 Lincoln Hall",
+              18,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "49927",
+          [
+            [
+              4,
+              "TR",
+              "217 Noyes Laboratory",
+              0,
+              [
+                "Livengood, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Consideration of some main problems of philosophy concerning, for example, knowledge, God, mind and body, and human freedom. Course is identical to PHIL 101 except for the additional writing component.",
       []
     ],
     "PHIL 101": [
-      "PHIL 101",
-      {},
+      "Introduction to Philosophy",
+      {
+        "AD1": [
+          "35404",
+          [
+            [
+              1,
+              "F",
+              "1062 Lincoln Hall",
+              18,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "AD3": [
+          "35406",
+          [
+            [
+              4,
+              "F",
+              "1062 Lincoln Hall",
+              18,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "AD4": [
+          "35407",
+          [
+            [
+              23,
+              "F",
+              "113 Davenport Hall",
+              19,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "AD5": [
+          "39120",
+          [
+            [
+              6,
+              "F",
+              "326 David Kinley Hall",
+              15,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "35410",
+          [
+            [
+              4,
+              "MW",
+              "32 Psychology Building",
+              22,
+              [
+                "Pelayo, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "E": [
+          "35429",
+          [
+            [
+              6,
+              "MWF",
+              "310 David Kinley Hall",
+              15,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "PHIL 104": [
-      "PHIL 104",
-      {},
-      [],
-      null,
+      "[IAI Code: H4900] Consideration of some main problems of philosophy concerning, for example, knowledge, God, mind and body, and human freedom.",
       []
     ],
     "PHIL 103": [
-      "PHIL 103",
-      {},
+      "Logic and Reasoning QR II",
+      {
+        "D": [
+          "49960",
+          [
+            [
+              31,
+              "TR",
+              "161 Noyes Laboratory",
+              0,
+              [
+                "Kerr, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "DA1": [
+          "35442",
+          [
+            [
+              1,
+              "F",
+              "309 English Building",
+              23,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "DA2": [
+          "66745",
+          [
+            [
+              4,
+              "F",
+              "156 English Building",
+              23,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "DA3": [
+          "35441",
+          [
+            [
+              23,
+              "F",
+              "149 English Building",
+              23,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "DA4": [
+          "58018",
+          [
+            [
+              6,
+              "F",
+              "1062 Lincoln Hall",
+              18,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Practical study of logical reasoning; techniques for analyzing and criticizing arguments, with emphasis on assessing the logical coherence of what we read and write.",
+      []
+    ],
+    "PHIL 104": [
+      "Intro to Ethics-ACP",
+      {
+        "1": [
+          "51450",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              3,
+              [
+                "Aishe, D",
+                "Bojanowski, J",
+                "Bu, X",
+                "Carlson, A",
+                "Lloyd, K",
+                "Louzon, N",
+                "McCleskey, C",
+                "Schmidt, A",
+                "Smith, M",
+                "Thapar, T",
+                "Vanderbeek, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Some basic questions of ethics, discussed in the light of influential ethical theories and with reference to specific moral problems, such as: What makes an action morally right? Are moral standards absolute or relative? What is relation between personal morality and social morality, and between social morality and law? Course is identical to PHIL 105 except for the additional writing component.",
       []
     ],
     "PHIL 105": [
-      "PHIL 105",
-      {},
+      "Introduction to Ethics",
+      {
+        "S1": [
+          "35449",
+          [
+            [
+              12,
+              "MWF",
+              "219 Gregory Hall",
+              20,
+              [
+                "Gupte, F"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Some basic questions of ethics, discussed in the light of influential ethical theories and with reference to specific moral problems, such as: what makes an action morally right? are moral standards absolute or relative? what is the relation between personal morality and social morality, and between social morality and law?",
+      []
+    ],
+    "PHIL 110": [
+      "World Religions",
+      {
+        "ADA": [
+          "37947",
+          [
+            [
+              1,
+              "F",
+              "300 Noyes Laboratory",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "ADB": [
+          "37951",
+          [
+            [
+              4,
+              "F",
+              "132 Davenport Hall",
+              19,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "ADC": [
+          "37955",
+          [
+            [
+              2,
+              "F",
+              "212 Davenport Hall",
+              19,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "ADD": [
+          "37959",
+          [
+            [
+              23,
+              "F",
+              "162 Noyes Laboratory",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "ADE": [
+          "37964",
+          [
+            [
+              12,
+              "F",
+              "162 Noyes Laboratory",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "ADF": [
+          "37969",
+          [
+            [
+              1,
+              "F",
+              "162 Noyes Laboratory",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "ADH": [
+          "37977",
+          [
+            [
+              2,
+              "F",
+              "162 Noyes Laboratory",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "ADI": [
+          "37982",
+          [
+            [
+              23,
+              "F",
+              "G46 Literatures, Cultures, & Ling",
+              17,
+              [
+                "Werkheiser, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "ADJ": [
+          "37992",
+          [
+            [
+              1,
+              "R",
+              "214 Davenport Hall",
+              19,
+              [
+                "Fischer, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "ADK": [
+          "37987",
+          [
+            [
+              23,
+              "R",
+              "110 Speech & Hearing Science Bldg",
+              24,
+              [
+                "Watson, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "ADL": [
+          "39147",
+          [
+            [
+              2,
+              "R",
+              "1030 Literatures, Cultures, & Ling",
+              17,
+              [
+                "Saathoff, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "ADM": [
+          "39149",
+          [
+            [
+              23,
+              "R",
+              "166 Education Building",
+              25,
+              [
+                "Werkheiser, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "ADN": [
+          "51722",
+          [
+            [
+              6,
+              "R",
+              "204 Noyes Laboratory",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "ADP": [
+          "53443",
+          [
+            [
+              2,
+              "R",
+              "1022 Literatures, Cultures, & Ling",
+              17,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "ADQ": [
+          "53445",
+          [
+            [
+              4,
+              "R",
+              "307 David Kinley Hall",
+              15,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "ADR": [
+          "53447",
+          [
+            [
+              6,
+              "F",
+              "G46 Literatures, Cultures, & Ling",
+              17,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "ADS": [
+          "68878",
+          [
+            [
+              0,
+              "R",
+              "300 Noyes Laboratory",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "ADU": [
+          "73674",
+          [
+            [
+              6,
+              "R",
+              "300 Noyes Laboratory",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "37998",
+          [
+            [
+              12,
+              "MW",
+              "THEAT Lincoln Hall",
+              18,
+              [
+                "Layton, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
       null,
       []
     ],
     "PHIL 107": [
-      "PHIL 107",
-      {},
+      "Intro to Political Philosophy",
+      {
+        "A1": [
+          "35458",
+          [
+            [
+              32,
+              "MW",
+              "1090 Lincoln Hall",
+              18,
+              [
+                "Pelayo, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Introduction to core ideas in political and legal philosophy, for example, rights, equality, political obligations, legitimacy of states, nationalism, and oppression.",
       []
     ],
     "PHIL 111": [
-      "PHIL 111",
-      {},
+      "Living Well in a Digital Age",
+      {
+        "A": [
+          "78137",
+          [
+            [
+              23,
+              "MWF",
+              "132 Davenport Hall",
+              19,
+              [
+                "Biondi, Z"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "PHIL 110": [
-      "PHIL 110",
-      {},
-      [],
-      null,
-      []
-    ],
-    "PHIL 202": [
-      "PHIL 202",
-      {},
-      [],
-      null,
-      []
-    ],
-    "PHIL 201": [
-      "PHIL 201",
-      {},
-      [],
-      null,
+      "Philosophical reflection on human happiness, flourishing, and virtue, with a focus on the challenge of living well in a digital age. Along with classic philosophical texts by Plato, Aristotle, and others, we will read and discuss a number of contemporary authors who have reflected on the ways that our lives are changed by the pervasive presence of digital technology.",
       []
     ],
     "PHIL 203": [
-      "PHIL 203",
-      {},
+      "Ancient Philosophy",
+      {
+        "N": [
+          "35463",
+          [
+            [
+              4,
+              "MWF",
+              "2055 Sidney Lu Mech Engr Bldg",
+              6,
+              [
+                "Biondi, Z"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "[IAI Code: H4901] Introduction to ancient philosophy, concentrating on Plato and Aristotle, dealing with such topics as metaphysics, ethics, and the theory of knowledge.",
+      []
+    ],
+    "PHIL 202": [
+      "Symbolic Logic",
+      {
+        "D": [
+          "35462",
+          [
+            [
+              7,
+              "TR",
+              "161 Noyes Laboratory",
+              0,
+              [
+                "Tran-Hoang, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to the techniques of formal logic, dealing primarily with truth-functional logic and quantification theory.",
+      []
+    ],
+    "PHIL 201": [
+      "Philosophy in Literature",
+      {
+        "A": [
+          "39134",
+          [
+            [
+              5,
+              "TR",
+              "149 Henry Administration Bldg",
+              7,
+              [
+                "Ben Moshe, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Consideration of the philosophical themes implicit in a variety of important literary works, both classical and modern; may include such authors as Sophocles, Shakespeare, Goethe, Dostoevsky, and Sartre.",
       []
     ],
     "PHIL 206": [
-      "PHIL 206",
-      {},
+      "Early Modern Philosophy",
+      {
+        "X": [
+          "35464",
+          [
+            [
+              33,
+              "MW",
+              "3025 Campus Instructional Facility",
+              2,
+              [
+                "Biondi, Z"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "PHIL 210": [
-      "PHIL 210",
-      {},
-      [],
-      null,
-      []
-    ],
-    "PHIL 223": [
-      "PHIL 223",
-      {},
-      [],
-      null,
-      []
-    ],
-    "PHIL 231": [
-      "PHIL 231",
-      {},
-      [],
-      null,
+      "[IAI Code: H4902] The history of philosophy from Descartes to Kant, concentrating on such topics as metaphysics, ethics, and the theory of knowledge.",
       []
     ],
     "PHIL 222": [
-      "PHIL 222",
-      {},
+      "Philosophical Foundations of Computer Science",
+      {
+        "E": [
+          "75785",
+          [
+            [
+              7,
+              "TR",
+              "W109 Turner Hall",
+              3,
+              [
+                "Kishida, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to certain ideas and issues at the intersection of computer science and philosophy. Students will focus on foundational questions related to the birth of computer science as a discipline, philosophical issues regarding knowledge and reality that researchers face in the frontiers of contemporary computer science, and current ethical issues related to the uses of machines and computers in society.",
+      []
+    ],
+    "PHIL 210": [
+      "Ethics",
+      {
+        "A": [
+          "44103",
+          [
+            [
+              6,
+              "MWF",
+              "136 Armory",
+              21,
+              [
+                "Smith, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "[IAI Code: H4904] Problems in ethical theory; the nature of right and wrong, justice, conscience, moral feelings, etc.",
+      []
+    ],
+    "PHIL 223": [
+      "Minds & Machines",
+      {
+        "MM": [
+          "71927",
+          [
+            [
+              23,
+              "MWF",
+              "312 David Kinley Hall",
+              15,
+              [
+                "Gupte, F"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to certain ideas and issues at the intersection of computer science and philosophy. Students will focus on the nature of human minds and brains in light of what we know about machine “minds” and “hardware” (and vice versa), as well as on philosophical considerations of the societal effects and implications of the rise of intelligent machines.",
+      []
+    ],
+    "PHIL 231": [
+      "Happiness and the Good Life",
+      {
+        "A": [
+          "74984",
+          [
+            [
+              33,
+              "MW",
+              "217 Gregory Hall",
+              20,
+              [
+                "Thurston, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
       null,
       []
     ],
     "PHIL 270": [
-      "PHIL 270",
-      {},
+      "Philosophy of Science",
+      {
+        "A": [
+          "50876",
+          [
+            [
+              33,
+              "MW",
+              "104 English Building",
+              23,
+              [
+                "Pelayo, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "PHIL 307": [
-      "PHIL 307",
-      {},
-      [],
-      null,
-      []
-    ],
-    "PHIL 316": [
-      "PHIL 316",
-      {},
-      [],
-      null,
-      []
-    ],
-    "PHIL 419": [
-      "PHIL 419",
-      {},
-      [],
-      null,
+      "Investigation of the nature of scientific knowledge by examining archetypal examples from physical science (e.g., Ptolemaic and Copernican astronomy); nature of scientific truth, validation of theories, nature of scientific theories, evolution of theories, experimental procedure, role of presuppositions, scientific revolutions, etc.",
       []
     ],
     "PHIL 390": [
-      "PHIL 390",
-      {},
+      "Individual Study",
+      {
+        "54329": [
+          "54329",
+          [
+            [
+              3,
+              "",
+              "TBA",
+              3,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Readings in selected philosophical topics. Course may be taken by honors students in partial fulfillment of department honors requirements.",
+      []
+    ],
+    "PHIL 307": [
+      "Elmnts Semantics & Pragmatics",
+      {
+        "A": [
+          "63408",
+          [
+            [
+              4,
+              "MW",
+              "386 Armory",
+              21,
+              [
+                "Martins, M",
+                "Newkirk, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AB1": [
+          "68153",
+          [
+            [
+              4,
+              "F",
+              "302 Architecture Building",
+              12,
+              [
+                "Martins, M",
+                "Newkirk, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as LING 307. See LING 307.",
+      []
+    ],
+    "PHIL 316": [
+      "Ethics and Engineering",
+      {
+        "E1": [
+          "32663",
+          [
+            [
+              7,
+              "TR",
+              "329 Gregory Hall",
+              20,
+              [
+                "Hillmer, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "E2": [
+          "32664",
+          [
+            [
+              17,
+              "TR",
+              "329 Gregory Hall",
+              20,
+              [
+                "Hillmer, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
       null,
       []
     ],
     "PHIL 421": [
-      "PHIL 421",
-      {},
+      "Ethical Theories",
+      {
+        "G4": [
+          "39164",
+          [
+            [
+              15,
+              "TR",
+              "161 Noyes Laboratory",
+              0,
+              [
+                "Varden, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "U3": [
+          "39163",
+          [
+            [
+              15,
+              "TR",
+              "161 Noyes Laboratory",
+              0,
+              [
+                "Varden, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "PHIL 420": [
-      "PHIL 420",
-      {},
-      [],
-      null,
+      "Systematic study of selected classics in moral philosophy by such philosophers as Aristotle, Hume, Mill, Kant, and Nietzsche.",
       []
     ],
     "PHIL 424": [
-      "PHIL 424",
-      {},
+      "Philosophy of Religion",
+      {
+        "G4": [
+          "39167",
+          [
+            [
+              34,
+              "MW",
+              "317 Gregory Hall",
+              20,
+              [
+                "Weaver, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "U3": [
+          "39166",
+          [
+            [
+              34,
+              "MW",
+              "317 Gregory Hall",
+              20,
+              [
+                "Weaver, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Considers central issues in the philosophy of religion, e.g., the justification of religious belief, the nature of God, religious experience, etc.",
       []
     ],
     "PHIL 425": [
-      "PHIL 425",
-      {},
+      "Philosophy of Mind",
+      {
+        "G1": [
+          "35515",
+          [
+            [
+              33,
+              "MW",
+              "140 Henry Administration Bldg",
+              7,
+              [
+                "Gupte, F"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "U1": [
+          "35512",
+          [
+            [
+              33,
+              "MW",
+              "140 Henry Administration Bldg",
+              7,
+              [
+                "Gupte, F"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "PHIL 426": [
-      "PHIL 426",
-      {},
-      [],
-      null,
+      "Philosophical problems arising in connection with mental phenomena; the relation of mind and body; free will and determinism; our knowledge of other minds; and the self and personal identity.",
       []
     ],
     "PHIL 442": [
-      "PHIL 442",
-      {},
+      "The AI Revolution",
+      {
+        "E": [
+          "77001",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              3,
+              [
+                "Scharp, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "We are in the midst of what many have called an “Artificial Intelligence (AI) Revolution.” This revolution is comparable in scope and impact to other major transformations in human history, such as the industrial revolution. The purpose of this course is to help students understand how and why recent developments in AI have begun to challenge traditional ways of thinking, while presenting novel and pressing ethical, social, interpretive, conceptual, technological, and existential questions.",
       []
     ],
-    "PHIL 460": [
-      "PHIL 460",
-      {},
+    "PHIL 426": [
+      "Metaphysics",
+      {
+        "G1": [
+          "45792",
+          [
+            [
+              5,
+              "TR",
+              "219 Gregory Hall",
+              20,
+              [
+                "Saenz, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "U1": [
+          "45791",
+          [
+            [
+              5,
+              "TR",
+              "219 Gregory Hall",
+              20,
+              [
+                "Saenz, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "PHIL 492": [
-      "PHIL 492",
-      {},
-      [],
-      null,
+      "Investigation of various metaphysical issues concerning, for example, existence, particulars and universals, causation, laws of nature, time, personal identity, material objects, and modality.",
       []
     ],
     "PHIL 454": [
-      "PHIL 454",
-      {},
+      "Advanced Symbolic Logic",
+      {
+        "G2": [
+          "71949",
+          [
+            [
+              9,
+              "TR",
+              "108 English Building",
+              23,
+              [
+                "Tran-Hoang, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "U2": [
+          "71948",
+          [
+            [
+              9,
+              "TR",
+              "108 English Building",
+              23,
+              [
+                "Tran-Hoang, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Completeness, compactness, and Lowenheim-Skolem theorems for first-order logic; incompleteness and undecidability of formal systems; and additional material on proof theory, model theory, or axiomatic set theory as time permits.",
+      []
+    ],
+    "PHIL 460": [
+      "Philosophy of Statistics",
+      {
+        "G1": [
+          "77382",
+          [
+            [
+              5,
+              "TR",
+              "1027 Lincoln Hall",
+              18,
+              [
+                "Livengood, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "UG": [
+          "77298",
+          [
+            [
+              5,
+              "TR",
+              "1027 Lincoln Hall",
+              18,
+              [
+                "Livengood, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to philosophical issues related to statistics. Topics include the interpretation of probability, the difference between description and inference, the notion of evidential support, the relationship between statistics and inductive logic, the use and abuse of mathematical models, the nature of randomness and chance, the role of values in statistical modeling and decision, and the ethical practice of statistics.",
+      []
+    ],
+    "PHIL 492": [
+      "Thesis",
+      {
+        "10125": [
+          "10125",
+          [
+            [
+              3,
+              "",
+              "TBA",
+              3,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Special training in philosophical investigation. Course may be taken by students pursuing graduation with distinction in partial fulfillment of those requirements.",
       []
     ],
     "PHIL 499": [
-      "PHIL 499",
-      {},
+      "Capstone Seminar",
+      {
+        "A": [
+          "71968",
+          [
+            [
+              5,
+              "TR",
+              "313 Gregory Hall",
+              20,
+              [
+                "Varden, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "71969",
+          [
+            [
+              17,
+              "TR",
+              "301 Architecture Building",
+              12,
+              [
+                "Ben Moshe, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Capstone course required for all philosophy majors. Students will explore in depth a specific topic either in the history of philosophy or in contemporary practical or theoretical philosophy and will write a substantial original essay appropriate for a senior thesis. Topics will differ by section and semester.",
       []
     ],
     "PHIL 501": [
-      "PHIL 501",
-      {},
+      "Seminar on the History of Philosophy",
+      {
+        "G2": [
+          "51988",
+          [
+            [
+              35,
+              "M",
+              "402 Gregory Hall",
+              20,
+              [
+                "Bojanowski, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "G4": [
+          "52267",
+          [
+            [
+              35,
+              "M",
+              "402 Gregory Hall",
+              20,
+              [
+                "Bojanowski, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "PHIL 513": [
-      "PHIL 513",
-      {},
-      [],
-      null,
-      []
-    ],
-    "PHIL 547": [
-      "PHIL 547",
-      {},
-      [],
-      null,
+      "Study of selected major philosophers, movements, problems, or topics in the history of philosophy.",
       []
     ],
     "PHIL 521": [
-      "PHIL 521",
-      {},
+      "Seminar Contemporary Problems",
+      {
+        "G2": [
+          "51971",
+          [
+            [
+              35,
+              "T",
+              "402 Gregory Hall",
+              20,
+              [
+                "Scharp, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "G4": [
+          "51548",
+          [
+            [
+              35,
+              "T",
+              "402 Gregory Hall",
+              20,
+              [
+                "Scharp, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Intensive study of selected problems or topics in contemporary philosophy.",
+      []
+    ],
+    "PHIL 513": [
+      "Seminar Philosophy of Logic",
+      {
+        "G2": [
+          "63771",
+          [
+            [
+              35,
+              "R",
+              "402 Gregory Hall",
+              20,
+              [
+                "Kishida, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "G4": [
+          "63772",
+          [
+            [
+              35,
+              "R",
+              "402 Gregory Hall",
+              20,
+              [
+                "Kishida, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Selected topics in contemporary logical theory.",
+      []
+    ],
+    "PHIL 547": [
+      "Formal Semantics II",
+      {
+        "A": [
+          "60355",
+          [
+            [
+              5,
+              "MW",
+              "241 Armory",
+              21,
+              [
+                "Tsilia, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as LING 547. See LING 547.",
       []
     ],
     "PHIL 583": [
-      "PHIL 583",
-      {},
+      "Individual Topics",
+      {
+        "10128": [
+          "10128",
+          [
+            [
+              3,
+              "",
+              "TBA",
+              3,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "NS": [
+          "71121",
+          [
+            [
+              3,
+              "",
+              "TBA",
+              3,
+              [
+                "Saenz, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Individual study and oral and written reports on topics not covered in other courses. Topics and plan of study must be approved by the candidate's adviser and by the staff member who directs the work.",
       []
     ],
     "PHIL 590": [
-      "PHIL 590",
-      {},
+      "Directed Research",
+      {
+        "KK": [
+          "10131",
+          [
+            [
+              3,
+              "",
+              "TBA",
+              3,
+              [
+                "Kishida, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          12,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Restricted to students satisfying requirements for the master's degree by writing a substantial essay.",
       []
     ]
   },
   "caches": {
-    "periods": [],
+    "periods": [
+      "1500 - 1550",
+      "1000 - 1050",
+      "1200 - 1250",
+      "ARRANGED",
+      "1100 - 1150",
+      "0930 - 1050",
+      "1400 - 1450",
+      "1100 - 1220",
+      "1200 - 1350",
+      "1530 - 1650",
+      "1700 - 2050",
+      "1300 - 1650",
+      "0900 - 0950",
+      "1330 - 1520",
+      "1500 - 1650",
+      "1230 - 1350",
+      "1600 - 1650",
+      "1400 - 1520",
+      "1300 - 1450",
+      "1830 - 1950",
+      "0900 - 1020",
+      "1730 - 1900",
+      "0900 - 1050",
+      "1300 - 1350",
+      "1100 - 1200",
+      "1400 - 1600",
+      "1430 - 1530",
+      "0900 - 1150",
+      "1000 - 1250",
+      "0800 - 0850",
+      "0900 - 1030",
+      "0930 - 1020",
+      "1800 - 1920",
+      "1500 - 1620",
+      "1200 - 1320",
+      "1500 - 1750"
+    ],
     "dateRanges": [],
-    "scheduleTypes": [],
+    "scheduleTypes": [
+      "Lecture",
+      "Lecture-Discussion",
+      "Independent Study",
+      "Online",
+      "Laboratory",
+      "Seminar",
+      "Discussion/Recitation",
+      "Laboratory-Discussion",
+      "Online Lecture",
+      "Online Discussion",
+      "Conference"
+    ],
     "campuses": [],
     "attributes": [],
     "restrictions": [],
     "gradeBases": [],
-    "locations": [],
+    "locations": [
+      {
+        "lat": 40.108419421661715,
+        "long": -88.2261156301609
+      },
+      {
+        "lat": 40.103587,
+        "long": -88.230606
+      },
+      {
+        "lat": 40.11246109008789,
+        "long": -88.22831726074219
+      },
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.1108856,
+        "long": -88.2269806
+      },
+      {
+        "lat": 40.1109722,
+        "long": -88.2282631
+      },
+      {
+        "lat": 40.110811306674734,
+        "long": -88.2248467072371
+      },
+      {
+        "lat": 40.1083446,
+        "long": -88.2282555
+      },
+      {
+        "lat": 40.11380515934119,
+        "long": -88.22490788390387
+      },
+      {
+        "lat": 40.104794,
+        "long": -88.224264
+      },
+      {
+        "lat": 40.0995003,
+        "long": -88.223104
+      },
+      {
+        "lat": 40.103627234541904,
+        "long": -88.22601765311099
+      },
+      {
+        "lat": 40.1033599,
+        "long": -88.2292111
+      },
+      {
+        "lat": 40.1149521,
+        "long": -88.2267561
+      },
+      {
+        "lat": 40.092875494224195,
+        "long": -88.22082220247309
+      },
+      {
+        "lat": 40.1035833,
+        "long": -88.228405
+      },
+      {
+        "lat": 40.1034533,
+        "long": -88.2327596
+      },
+      {
+        "lat": 40.10628,
+        "long": -88.22621
+      },
+      {
+        "lat": 40.1065684,
+        "long": -88.2281746
+      },
+      {
+        "lat": 40.1072225,
+        "long": -88.2262016
+      },
+      {
+        "lat": 40.105732,
+        "long": -88.2281018
+      },
+      {
+        "lat": 40.1047599,
+        "long": -88.2319514
+      },
+      {
+        "lat": 40.10755766472843,
+        "long": -88.22995430218522
+      },
+      {
+        "lat": 40.107534,
+        "long": -88.2281548
+      },
+      {
+        "lat": 40.10764262805109,
+        "long": -88.23074052515514
+      },
+      {
+        "lat": 40.1020773,
+        "long": -88.2296394
+      }
+    ],
     "finalDates": [],
     "finalTimes": []
   }

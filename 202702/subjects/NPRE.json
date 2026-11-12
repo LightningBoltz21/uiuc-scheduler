@@ -1,127 +1,1219 @@
 {
   "subject": "NPRE",
-  "scrapedAt": 1794504290556,
-  "courseCount": 0,
-  "courses": {},
+  "scrapedAt": 1794504322943,
+  "courseCount": 29,
+  "courses": {
+    "NPRE 101": [
+      "Introduction to Energy Sources",
+      {
+        "A": [
+          "34624",
+          [
+            [
+              0,
+              "MWF",
+              "165 Noyes Laboratory",
+              0,
+              [
+                "Elg, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Explanation of energy technologies using an elementary approach presupposing no prior scientific or technical background. Coverage of all energy sources including fossil fueled, solar, hydro, and nuclear power. Integral demonstrations and a tour of the University's power plant. Discussion of energy related incidents with emphasis on environmental, economic, and social impact.",
+      []
+    ],
+    "NPRE 247": [
+      "Modeling Nuclear Energy System",
+      {
+        "C": [
+          "34695",
+          [
+            [
+              1,
+              "MWF",
+              "140 Burrill Hall",
+              1,
+              [
+                "Alam, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Applications of elementary nuclear physics in nuclear engineering. Nuclear reactor materials and components. Steady-state and transient operation of nuclear reactors. Nuclear energy removal and conversion. Radiation shielding.",
+      []
+    ],
+    "NPRE 199": [
+      "Undergraduate Open Seminar",
+      {
+        "A": [
+          "34684",
+          [
+            [
+              2,
+              "T",
+              "4039 Campus Instructional Facility",
+              2,
+              [
+                "Meline, B",
+                "Uddin, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "May be repeated in separate terms to a maximum of 2 times.",
+      []
+    ],
+    "NPRE 349": [
+      "Introduction to NPRE Heat Transfer",
+      {
+        "A": [
+          "74670",
+          [
+            [
+              1,
+              "MW",
+              "4039 Campus Instructional Facility",
+              2,
+              [
+                "Brooks, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Engineering principles in heat and mass transfer with emphasis on applications in NPRE will be covered. Specifically, the focus in this course will be on heat conduction, convection, radiation, and boiling.",
+      []
+    ],
+    "NPRE 297": [
+      "Independent Study",
+      {
+        "78217": [
+          "78217",
+          [
+            [
+              3,
+              "",
+              "TBA",
+              3,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Individual investigations or studies of freshman and sophomore phase of nuclear, plasma, or radiological engineering selected by the student and approved by the department.",
+      []
+    ],
+    "NPRE 402": [
+      "Nuclear Power Engineering",
+      {
+        "D3": [
+          "34697",
+          [
+            [
+              4,
+              "MWF",
+              "2035 Campus Instructional Facility",
+              2,
+              [
+                "Ragheb, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "D4": [
+          "34702",
+          [
+            [
+              4,
+              "MWF",
+              "2035 Campus Instructional Facility",
+              2,
+              [
+                "Ragheb, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "72560",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              3,
+              [
+                "Ragheb, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Principles of utilization of fission energy in nuclear power engineering; includes such topics as fission processes and controlled chain reactions; nuclear reactor types, design principles, and operational characteristics; power reactor design criteria; radiation hazards and radioactive waste treatment; economics; other applications such as propulsion and research reactors.",
+      []
+    ],
+    "NPRE 397": [
+      "Independent Study",
+      {
+        "10071": [
+          "10071",
+          [
+            [
+              3,
+              "",
+              "TBA",
+              3,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Individual investigations or studies of any phase of nuclear engineering selected by the student and approved by the department.",
+      []
+    ],
+    "NPRE 412": [
+      "Nuclear Power Econ & Fuel Mgmt",
+      {
+        "A": [
+          "70363",
+          [
+            [
+              5,
+              "TR",
+              "3018 Campus Instructional Facility",
+              2,
+              [
+                "Kozlowski, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "D4": [
+          "70365",
+          [
+            [
+              5,
+              "TR",
+              "3018 Campus Instructional Facility",
+              2,
+              [
+                "Kozlowski, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Quantitative analysis of the impact of the nuclear power industry; nuclear fuel cycle and capital costs for thermal and fast reactors; optimization of the use of nuclear fuels to provide the lowest energy costs and highest system performance; comparison between fossil fuel systems, fission systems, and controlled thermonuclear fusion systems.",
+      []
+    ],
+    "NPRE 429": [
+      "Plasma Engineering",
+      {
+        "D1": [
+          "68869",
+          [
+            [
+              6,
+              "MWF",
+              "3018 Campus Instructional Facility",
+              2,
+              [
+                "Sankaran, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Basic principles and examples for adapting and applying the plasma state to solve a number of modern engineering problems. Plasma processing of materials for microelectronics and other uses, lighting, plasma displays, and other technologies.",
+      []
+    ],
+    "NPRE 421": [
+      "Plasma and Fusion Science",
+      {
+        "L": [
+          "34715",
+          [
+            [
+              5,
+              "TR",
+              "2036 Campus Instructional Facility",
+              2,
+              [
+                "Curreli, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Physics of plasmas, including particle and fluid descriptions, waves, collisions, stability, and confinement, with applications to controlled thermonuclear fusion reactors, problems in fusion engineering, and astrophysics.",
+      []
+    ],
+    "NPRE 430": [
+      "Advanced Materials in Nuclear Engineering",
+      {
+        "A": [
+          "78888",
+          [
+            [
+              7,
+              "TR",
+              "2036 Campus Instructional Facility",
+              2,
+              [
+                "Vergari, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Development of advanced materials concepts in light water reactor nuclear engineering systems. This includes foundational concepts such as radiation damage, corrosion, and the materials systems found in light water reactors. Advanced concepts include kinetic rate theory, evolution of irradiated microstructures, water chemistry control, stress corrosion cracking, radiation induced segregation, and other phenomenon associated with radiation damage are introduced. Advanced microanalytical analysis techniques will be presented, as will computational approaches applicable to the study of radiation damage in metals. Materials for use in advanced reactor concepts will be presented.",
+      []
+    ],
+    "NPRE 441": [
+      "Radiation Protection",
+      {
+        "E": [
+          "34725",
+          [
+            [
+              8,
+              "MW",
+              "4039 Campus Instructional Facility",
+              2,
+              [
+                "Meng, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Sources of nuclear radiation; ionization and energy deposition in matter with an emphasis on biological systems; principles of dosimetry; determination of exposure and limits for internal and external emitters; basic shielding calculations.",
+      []
+    ],
+    "NPRE 442": [
+      "Radioactive Waste Management",
+      {
+        "A": [
+          "48424",
+          [
+            [
+              9,
+              "TR",
+              "3018 Campus Instructional Facility",
+              2,
+              [
+                "Roy, W"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Radiation and radiological concepts and measurement, the fuel cycle and waste classification, Part 61, state and federal regulations and regulatory agencies, radiochemistry and the environmental fate of radionuclides, uranium-related wastes, low-level wastes, high-level wastes, used fuel reprocessing, private fuel storage, waste package stability, risk assessment, geologic repositories, transporting radioactive wastes, decommissioning wastes, transmutation, an international perspective on radioactive waste management, and the global nuclear energy partnership.",
+      []
+    ],
+    "NPRE 451": [
+      "NPRE Laboratory",
+      {
+        "AB5": [
+          "57428",
+          [
+            [
+              10,
+              "R",
+              "101B Talbot Laboratory",
+              3,
+              [
+                "Di Fulvio, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "AB6": [
+          "57429",
+          [
+            [
+              11,
+              "F",
+              "101B Talbot Laboratory",
+              3,
+              [
+                "Di Fulvio, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "AE1": [
+          "34751",
+          [
+            [
+              12,
+              "MW",
+              "4039 Campus Instructional Facility",
+              2,
+              [
+                "Di Fulvio, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Radiation detection and instrumentation; radiation dosimetry and shielding; basic measurements in nuclear engineering; engineering applications; micro computer data acquisition and experimental control.",
+      []
+    ],
+    "NPRE 455": [
+      "Neutron Diffusion & Transport",
+      {
+        "N": [
+          "34761",
+          [
+            [
+              13,
+              "TR",
+              "106B1 Engineering Hall",
+              4,
+              [
+                "Novak, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "78009",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              3,
+              [
+                "Novak, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Neutron migration, neutron slowing down and thermalization; neutron continuity equation, multigroup diffusion theory, homogeneous and heterogeneous medium, thermal and fast assemblies; numerical methods for multigroup diffusion equations; reactor dynamics perturbation theory; reactivity coefficients; introductory transport theory.",
+      []
+    ],
+    "NPRE 457": [
+      "Safety Anlys Nucl Reactor Syst",
+      {
+        "D": [
+          "78050",
+          [
+            [
+              1,
+              "MWF",
+              "3018 Campus Instructional Facility",
+              2,
+              [
+                "Ragheb, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "D4": [
+          "78051",
+          [
+            [
+              1,
+              "MWF",
+              "3018 Campus Instructional Facility",
+              2,
+              [
+                "Ragheb, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "78052",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              3,
+              [
+                "Ragheb, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Basic safety philosophy in nuclear reactor systems; brief review of nuclear reactor systems; regulatory processes; siting considerations; safety problems related to reactor dynamics; evaluation of postulated accidents; risks associated with nuclear fuel cycle; methods of systems safety analysis.",
+      []
+    ],
+    "NPRE 458": [
+      "Design in NPRE",
+      {
+        "A": [
+          "34764",
+          [
+            [
+              14,
+              "W",
+              "4039 Campus Instructional Facility",
+              2,
+              [
+                "Stubbins, J Stubbins, J"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              0,
+              "MF",
+              "3018 Campus Instructional Facility",
+              2,
+              [
+                "Stubbins, J Stubbins, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Design in nuclear, plasma, and radiological engineering systems; basic principles of definition, organization, constraints, modeling and optimization of system design; case studies; class design projects applying these basic principles.",
+      []
+    ],
+    "NPRE 480": [
+      "Energy and Security",
+      {
+        "AE1": [
+          "34770",
+          [
+            [
+              15,
+              "TR",
+              "1302 Everitt Laboratory",
+              5,
+              [
+                "Liebenberg, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "72563",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              3,
+              [
+                "Liebenberg, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Energy security underpins modern life, yet it is increasingly threatened by supply disruptions, rising costs, political conflict, climate change, and unequal access. Examine how energy systems—fossil, nuclear, and renewable—are produced, managed, and contested across technical, political, economic, and social dimensions. Students build fluency in energy & security concepts and real-world tradeoffs. Assignments emphasize problem solving and practical communication tools used by energy professionals and policymakers, preparing students to engage with today’s energy challenges.",
+      []
+    ],
+    "NPRE 483": [
+      "Seminar on Security",
+      {
+        "A": [
+          "34783",
+          [
+            [
+              16,
+              "M",
+              "4036 Campus Instructional Facility",
+              2,
+              [
+                "Stubbins, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Preparation of reports on a set of introductory lectures and student choices from various on-campus seminar series relevant to technology of domestic and international security and the regional and international contexts that influence the nature of security problems.",
+      []
+    ],
+    "NPRE 497": [
+      "Independent Study",
+      {
+        "78218": [
+          "78218",
+          [
+            [
+              3,
+              "",
+              "TBA",
+              3,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Independent learning of topics relevant to nuclear, plasma, and radiological engineering. Generic learning outcomes include demonstration of independent learning, literature search, and technical writing.",
+      []
+    ],
+    "NPRE 521": [
+      "Interact of Radiation w/Matter",
+      {
+        "A": [
+          "34799",
+          [
+            [
+              14,
+              "MW",
+              "1047 Sidney Lu Mech Engr Bldg",
+              6,
+              [
+                "Xi, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Topics in the interaction of radiation with matter of interest to the nuclear engineering field: the kinematics, kinetics, and cross sections involved in the interaction of charged particles, electromagnetic radiation, and neutrons.",
+      []
+    ],
+    "NPRE 498": [
+      "Special Topics",
+      {
+        "AI": [
+          "79171",
+          [
+            [
+              17,
+              "TR",
+              "3101 Sidney Lu Mech Engr Bldg",
+              6,
+              [
+                "Kozlowski, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "G4": [
+          "74750",
+          [
+            [
+              7,
+              "TR",
+              "138 Henry Administration Bldg",
+              7,
+              [
+                "Kim, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "UG3": [
+          "74749",
+          [
+            [
+              7,
+              "TR",
+              "138 Henry Administration Bldg",
+              7,
+              [
+                "Kim, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Subject offerings of new and developing areas of knowledge in nuclear, plasma, and radiological engineering intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites.",
+      []
+    ],
+    "NPRE 526": [
+      "Plasma-Material Interactions",
+      {
+        "PMI": [
+          "72305",
+          [
+            [
+              17,
+              "TR",
+              "1302 Siebel Center for Comp Sci",
+              8,
+              [
+                "Andruczyk, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "The course will introduce the student to fundamental concepts in plasma-materials interactions (PMI) and extend these concepts into practical methods for PMI. The course connects the concepts of surface science to irradiation-driven modification used in plasma nanosynthesis of advanced materials and PMI phenomena encountered in extreme environments (e.g. nuclear fusion, star and planetary formation, among others). The course is designed to lay the foundation of mastering selected techniques and methods for PMI. The organization of this course will: 1) prepare the student with the fundamentals aspects of plasma-surface interaction and surface science, 2) apply these fundamental concepts and expand into PMI of nanosynthesis and extreme plasma-based environments and 3) master methods and characterization techniques used in plasma-material interactions including: techniques for in-situ analysis and simulated plasma experiments.",
+      []
+    ],
+    "NPRE 531": [
+      "Nuclear Materials",
+      {
+        "D": [
+          "39059",
+          [
+            [
+              7,
+              "TR",
+              "2036 Campus Instructional Facility",
+              2,
+              [
+                "Vergari, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Metallurgical principles applied to materials problems in nuclear engineering; topics in production of uranium, corrosion, radiation damage, fuel element fabrication, and fuel reprocessing.",
+      []
+    ],
+    "NPRE 554": [
+      "Independent Lab Investigations",
+      {
+        "10072": [
+          "10072",
+          [
+            [
+              3,
+              "",
+              "TBA",
+              3,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Individual experimental investigation in areas of nuclear, plasma, and radiological engineering.",
+      []
+    ],
+    "NPRE 558": [
+      "Advanced Design in NPRE",
+      {
+        "A": [
+          "34932",
+          [
+            [
+              14,
+              "W",
+              "4039 Campus Instructional Facility",
+              2,
+              [
+                "Stubbins, J Stubbins, J"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              0,
+              "MF",
+              "3018 Campus Instructional Facility",
+              2,
+              [
+                "Stubbins, J Stubbins, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Classroom exercise in the conceptual design of a nuclear engineering system involving a synthesis of previous learning in the field of nuclear engineering and related disciplines. The design includes all necessary ingredients for the system, such as core, thermal-hydraulics, shielding, material selection, and control.",
+      []
+    ],
+    "NPRE 561": [
+      "Advanced Risk Analysis for Technological Systems",
+      {
+        "A": [
+          "70368",
+          [
+            [
+              18,
+              "MW",
+              "106B6 Engineering Hall",
+              4,
+              [
+                "Mohaghegh, Z"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ONG": [
+          "73760",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              3,
+              [
+                "Mohaghegh, Z"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "This course covers advanced modeling techniques for Probabilistic Risk Assessment (PRA), which provides input for risk-informed decision-making in design, operation, and regulatory oversight of complex technological systems such as nuclear power, space, chemical processes, oil and gas. Main topics: risk scenario modeling, common cause failure analysis, Bayesian updating, uncertainty analysis, Bayesian Belief Network, simulation-based PRA, probabilistic physics of failure, human reliability analysis, and expert elicitation & aggregation. PRA and Bayesian analysis software codes are utilized for assignments.",
+      []
+    ],
+    "NPRE 597": [
+      "Independent Study",
+      {
+        "10076": [
+          "10076",
+          [
+            [
+              3,
+              "",
+              "TBA",
+              3,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Individual study in areas of nuclear engineering and closely related fields not covered by regular course offerings. The work is carried out under the supervision of a member of the faculty.",
+      []
+    ],
+    "NPRE 596": [
+      "Seminar in Nuclear Sci & Engrg",
+      {
+        "A": [
+          "34941",
+          [
+            [
+              16,
+              "T",
+              "4025 Campus Instructional Facility",
+              2,
+              [
+                "Uddin, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "73600",
+          [
+            [
+              16,
+              "T",
+              "ONLINE",
+              3,
+              [
+                "Uddin, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Lectures and discussions on current work in research and development in nuclear engineering and related fields by staff, advanced students, and visiting lecturers.",
+      []
+    ]
+  },
   "caches": {
     "periods": [
-      "ARRANGED",
-      "1300 - 1350",
-      "1400 - 1450",
       "1500 - 1550",
-      "1600 - 1650",
-      "1400 - 1550",
-      "1100 - 1220",
-      "0900 - 0950",
-      "1400 - 1650",
-      "1530 - 1650",
-      "0930 - 1050",
-      "1700 - 1830",
-      "0800 - 1050",
-      "1300 - 1450",
-      "1100 - 1250",
-      "1500 - 1650",
-      "1600 - 1750",
-      "1100 - 1150",
       "1000 - 1050",
-      "1230 - 1350",
-      "1900 - 2050",
       "1200 - 1250",
-      "1600 - 1720",
-      "1100 - 1240",
-      "0900 - 1050",
-      "0800 - 0850",
-      "1230 - 1345",
-      "1400 - 1520",
-      "1100 - 1215",
-      "1700 - 1750",
-      "1000 - 1150",
+      "ARRANGED",
+      "1100 - 1150",
+      "0930 - 1050",
+      "1400 - 1450",
+      "1100 - 1220",
       "1200 - 1350",
-      "1800 - 1950",
-      "1700 - 1850",
-      "0800 - 0950",
-      "0800 - 0920",
-      "1700 - 1820",
-      "1200 - 1450",
-      "1100 - 1350",
-      "0900 - 1150",
-      "1530 - 1720",
-      "1200 - 1320",
-      "1500 - 1750",
-      "1500 - 1620",
-      "1430 - 1700",
-      "1200 - 1430",
-      "1100 - 1330",
-      "0930 - 1045",
-      "1630 - 1720",
-      "1030 - 1150",
-      "1530 - 1645",
-      "1300 - 1420",
-      "0900 - 1020",
-      "1300 - 1550",
-      "1000 - 1250",
-      "1230 - 1430",
-      "1430 - 1550",
-      "1500 - 1730",
-      "0600 - 0720",
-      "1700 - 1900",
-      "1000 - 1120",
-      "1400 - 1750",
-      "0900 - 1250",
-      "1300 - 1650",
-      "1000 - 1350",
-      "0930 - 1220",
-      "1630 - 1730",
-      "1600 - 1715",
-      "1330 - 1450",
-      "1430 - 1520",
-      "0830 - 0920",
-      "1430 - 1620",
-      "0830 - 0950",
-      "1630 - 1750",
-      "1730 - 1845",
-      "1730 - 1850",
-      "1800 - 2050",
-      "1830 - 1920",
-      "1830 - 1950",
-      "1800 - 2020",
-      "1930 - 2130",
-      "1700 - 1950",
-      "1900 - 2150",
-      "1800 - 1920",
-      "1730 - 1820",
-      "1600 - 1730",
-      "1200 - 1550",
-      "1530 - 1820",
+      "1530 - 1650",
       "1700 - 2050",
-      "1800 - 1900",
-      "1800 - 2100",
-      "1900 - 2100",
-      "1830 - 2130",
-      "1900 - 2030",
-      "1800 - 2115",
-      "0600 - 0750",
-      "1200 - 1300"
+      "1300 - 1650",
+      "0900 - 0950",
+      "1330 - 1520",
+      "1500 - 1650",
+      "1230 - 1350",
+      "1600 - 1650",
+      "1400 - 1520",
+      "1300 - 1450"
     ],
     "dateRanges": [],
     "scheduleTypes": [
-      "Laboratory-Discussion",
-      "Discussion/Recitation",
       "Lecture",
-      "Independent Study",
       "Lecture-Discussion",
-      "Laboratory",
-      "Lecture 01/19/27-01/23/27",
-      "Conference",
-      "Internship",
-      "Online Lab",
-      "Online Lecture",
+      "Independent Study",
       "Online",
-      "Study Abroad",
-      "Online Discussion",
-      "Seminar",
-      "Practice",
-      "Packaged Section"
+      "Laboratory"
     ],
     "campuses": [],
     "attributes": [],
@@ -129,40 +1221,20 @@
     "gradeBases": [],
     "locations": [
       {
-        "lat": null,
-        "long": null
+        "lat": 40.108419421661715,
+        "long": -88.2261156301609
+      },
+      {
+        "lat": 40.103587,
+        "long": -88.230606
       },
       {
         "lat": 40.11246109008789,
         "long": -88.22831726074219
       },
       {
-        "lat": 40.11380515934119,
-        "long": -88.22490788390387
-      },
-      {
-        "lat": 40.110811306674734,
-        "long": -88.2248467072371
-      },
-      {
-        "lat": 40.1116416,
-        "long": -88.2248868
-      },
-      {
-        "lat": 40.11085653938169,
-        "long": -88.22609810215927
-      },
-      {
-        "lat": 40.11171215875622,
-        "long": -88.22530849701589
-      },
-      {
-        "lat": 40.107811,
-        "long": -88.2260761
-      },
-      {
-        "lat": 40.111691,
-        "long": -88.2242511
+        "lat": null,
+        "long": null
       },
       {
         "lat": 40.1108856,
@@ -173,140 +1245,16 @@
         "long": -88.2282631
       },
       {
-        "lat": 40.107534,
-        "long": -88.2281548
-      },
-      {
-        "lat": 40.10628,
-        "long": -88.22621
-      },
-      {
-        "lat": 40.10755766472843,
-        "long": -88.22995430218522
-      },
-      {
-        "lat": 40.1110937,
-        "long": -88.2232348
-      },
-      {
-        "lat": 40.1020773,
-        "long": -88.2296394
-      },
-      {
-        "lat": 40.0995003,
-        "long": -88.223104
-      },
-      {
-        "lat": 40.1065684,
-        "long": -88.2281746
-      },
-      {
-        "lat": 40.108419421661715,
-        "long": -88.2261156301609
-      },
-      {
-        "lat": 40.1028373,
-        "long": -88.2251326
+        "lat": 40.110811306674734,
+        "long": -88.2248467072371
       },
       {
         "lat": 40.1083446,
         "long": -88.2282555
       },
       {
-        "lat": 40.1072225,
-        "long": -88.2262016
-      },
-      {
-        "lat": 40.1033599,
-        "long": -88.2292111
-      },
-      {
-        "lat": 40.1047599,
-        "long": -88.2319514
-      },
-      {
-        "lat": 40.105732,
-        "long": -88.2281018
-      },
-      {
-        "lat": 40.103620555545135,
-        "long": -88.22982720445013
-      },
-      {
-        "lat": 40.1035833,
-        "long": -88.228405
-      },
-      {
-        "lat": 40.10944320239664,
-        "long": -88.22602522743233
-      },
-      {
-        "lat": 40.104794,
-        "long": -88.224264
-      },
-      {
-        "lat": 40.1022093629303,
-        "long": -88.22800864058527
-      },
-      {
-        "lat": 40.103627234541904,
-        "long": -88.22601765311099
-      },
-      {
-        "lat": 40.1149296,
-        "long": -88.2280589
-      },
-      {
-        "lat": 40.103587,
-        "long": -88.230606
-      },
-      {
-        "lat": 40.1131317,
-        "long": -88.2264552
-      },
-      {
-        "lat": 40.11180304465921,
-        "long": -88.22613003543475
-      },
-      {
-        "lat": 40.10099,
-        "long": -88.23159
-      },
-      {
-        "lat": 40.1034533,
-        "long": -88.2327596
-      },
-      {
-        "lat": 40.10593795776367,
-        "long": -88.2270736694336
-      },
-      {
-        "lat": 40.10783362157985,
-        "long": -88.22476189569741
-      },
-      {
-        "lat": 40.092875494224195,
-        "long": -88.22082220247309
-      },
-      {
-        "lat": 40.101862,
-        "long": -88.231737
-      },
-      {
-        "lat": 40.105587640130146,
-        "long": -88.22025111416733
-      },
-      {
-        "lat": 40.10623714823253,
-        "long": -88.2232659093846
-      },
-      {
-        "lat": 40.10802885201532,
-        "long": -88.22239700364068
-      },
-      {
-        "lat": 40.106778040727896,
-        "long": -88.2194617156191
+        "lat": 40.11380515934119,
+        "long": -88.22490788390387
       }
     ],
     "finalDates": [],
