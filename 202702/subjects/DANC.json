@@ -1,319 +1,3260 @@
 {
   "subject": "DANC",
-  "scrapedAt": 1791782377030,
-  "courseCount": 43,
+  "scrapedAt": 1794503367221,
+  "courseCount": 41,
   "courses": {
-    "DANC 131": [
-      "DANC 131",
-      {},
-      [],
-      null,
-      []
-    ],
     "DANC 116": [
-      "DANC 116",
-      {},
+      "Dance I",
+      {
+        "B": [
+          "74246",
+          [
+            [
+              12,
+              "TR",
+              "2500 Krannert Center for Perf Arts",
+              46,
+              [
+                "Henss, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "C": [
+          "74248",
+          [
+            [
+              27,
+              "MW",
+              "2127 Krannert Center for Perf Arts",
+              46,
+              [
+                "Wahrendorf, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "E": [
+          "74254",
+          [
+            [
+              42,
+              "TR",
+              "110 907 1/2 W Nevada",
+              45,
+              [
+                "Doniff, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "F": [
+          "74658",
+          [
+            [
+              12,
+              "TR",
+              "2127 Krannert Center for Perf Arts",
+              46,
+              [
+                "Tecza, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "G": [
+          "74253",
+          [
+            [
+              42,
+              "MW",
+              "SuiteG Storefront Studio",
+              0,
+              [
+                "Knouse, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "H": [
+          "74655",
+          [
+            [
+              19,
+              "F",
+              "TBA",
+              0,
+              [
+                "Amiri, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "I": [
+          "74652",
+          [
+            [
+              12,
+              "MW",
+              "SuiteG Storefront Studio",
+              0,
+              [
+                "Bofilios, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "K": [
+          "78106",
+          [
+            [
+              42,
+              "MW",
+              "2500 Krannert Center for Perf Arts",
+              46,
+              [
+                "Ebersole, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "L": [
+          "78107",
+          [
+            [
+              91,
+              "TR",
+              "2500 Krannert Center for Perf Arts",
+              46,
+              [
+                "Marini, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "O": [
+          "79100",
+          [
+            [
+              42,
+              "TR",
+              "2500 Krannert Center for Perf Arts",
+              46,
+              [
+                "Verdone, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "P": [
+          "74237",
+          [
+            [
+              42,
+              "TR",
+              "111 Dance Studio",
+              0,
+              [
+                "Trogdon, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "Q": [
+          "79101",
+          [
+            [
+              42,
+              "TR",
+              "SuiteG Storefront Studio",
+              0,
+              [
+                "Bartlett, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "R": [
+          "79102",
+          [
+            [
+              0,
+              "MW",
+              "111 Dance Studio",
+              0,
+              [
+                "Wahrendorf, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "S": [
+          "74252",
+          [
+            [
+              91,
+              "TR",
+              "2127 Krannert Center for Perf Arts",
+              46,
+              [
+                "Lewis, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "An umbrella course for non-majors to explore all beginning dancing technique courses offered in the Department. Courses are offered from a range of cultural origins and traditions, which may include techniques such as Ballet, Capoeira, Contemporary Modern, Hip Hop, House, Improvisation, Jazz, Tap, Umfundalai, West African, etc. Specific dance forms for each semester will be listed in the class schedule. These introductory courses provide students with the physical study of various dance techniques, and an introduction to the cultural contest of their creation and practice.",
       []
     ],
     "DANC 100": [
-      "DANC 100",
-      {},
+      "Intro to Contemporary Dance",
+      {
+        "A": [
+          "72285",
+          [
+            [
+              27,
+              "W",
+              "111 Dance Studio",
+              0,
+              [
+                "Chiaramonte, L Chiaramonte, L"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              27,
+              "M",
+              "109 907 1/2 W Nevada",
+              45,
+              [
+                "Chiaramonte, L Chiaramonte, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "AAP": [
+          "40270",
+          [
+            [
+              27,
+              "R",
+              "2127 Krannert Center for Perf Arts",
+              46,
+              [
+                "Allen, B Allen, B"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              27,
+              "T",
+              "109 907 1/2 W Nevada",
+              45,
+              [
+                "Allen, B Allen, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "31787",
+          [
+            [
+              89,
+              "TR",
+              "ARR FAR Meeting Space",
+              0,
+              [
+                "Hanson, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "C": [
+          "31804",
+          [
+            [
+              42,
+              "W",
+              "109 907 1/2 W Nevada",
+              45,
+              [
+                "Hanson, A Hanson, A"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              42,
+              "M",
+              "111 Dance Studio",
+              0,
+              [
+                "Hanson, A Hanson, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "D": [
+          "40255",
+          [
+            [
+              42,
+              "M",
+              "109 907 1/2 W Nevada",
+              45,
+              [
+                "Vangelatos, S Vangelatos, S"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              42,
+              "W",
+              "111 Dance Studio",
+              0,
+              [
+                "Vangelatos, S Vangelatos, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "OL1": [
+          "63422",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Brandt, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "OL3": [
+          "62058",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Rizzuto, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "OL4": [
+          "63899",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Amiri, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "[IAI Code: F1906] Overview of major works, figures, and trends responsible for shaping dance as an evolving contemporary art form. The course will have lecture, viewing, discussion and experiential (studio participation) components.",
       []
     ],
-    "DANC 150": [
-      "DANC 150",
-      {},
+    "DANC 131": [
+      "Production Practicum I",
+      {
+        "DP": [
+          "31826",
+          [
+            [
+              4,
+              "",
+              "TBA",
+              0,
+              [
+                "Allen, M",
+                "Ciofalo, T",
+                "Eggers, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "DANC 160": [
-      "DANC 160",
-      {},
-      [],
-      null,
+      "Practical experience in the production of dance concerts mounted in the Krannert Center for the Performing Arts.",
       []
     ],
     "DANC 162": [
-      "DANC 162",
-      {},
+      "Viewing Dance",
+      {
+        "A": [
+          "74238",
+          [
+            [
+              114,
+              "MW",
+              "109 907 1/2 W Nevada",
+              45,
+              [
+                "Brandt, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Overview of contemporary dance from around the globe, focusing on the current works of significant emerging and established choreographers working in the field today.",
       []
     ],
-    "DANC 200": [
-      "DANC 200",
-      {},
+    "DANC 150": [
+      "The Green Room",
+      {
+        "A": [
+          "63411",
+          [
+            [
+              114,
+              "F",
+              "103 Dance Studio",
+              0,
+              [
+                "Nettl-Fiol, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Offers students an orientation in the aesthetics, epistemologies, and histories that source the Department of Dance. It serves as a 'green room', a holding space, for students' emergent movement, research, and movement research interests. The Green Room also helps students navigate the Department of Dance and the larger university system with a particular focus on writing for college. First-year students will do a significant amount of journaling while Sophomores focus on the acquisition of technical writing skills.",
       []
     ],
-    "DANC 209": [
-      "DANC 209",
-      {},
+    "DANC 160": [
+      "Dancing Techniques I",
+      {
+        "A": [
+          "31828",
+          [
+            [
+              126,
+              "MTWR",
+              "2500 Krannert Center for Perf Arts",
+              46,
+              [
+                "D' Orléans Juste, R",
+                "Henss, J",
+                "Sapozhnikov, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "31829",
+          [
+            [
+              126,
+              "MTWR",
+              "TBA",
+              0,
+              [
+                "D' Orléans Juste, R",
+                "Henss, J",
+                "Sapozhnikov, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "An introductory exploration of varied movement practices designed to support and ACTIVATE the dance major's technical and creative evolution. This daily practice of technique teaches the student to perform with clarity, versatility, and personal style, preparing students for the physical rigor associated with a performing career in dance. To provide a balance of training from a range of cultural origins and traditions, this course will include 2-3 contemporary movement approaches per semester, which may include techniques such as Ballet, Capoeira, Contemporary Modern, Hip Hop, House, Improvisation, Jazz, Tap, Umfundalai, West African, etc. Specific dance forms for each semester will be listed in the class schedule.",
       []
     ],
     "DANC 201": [
-      "DANC 201",
-      {},
+      "Yoga Practicum",
+      {
+        "A": [
+          "68595",
+          [
+            [
+              91,
+              "MW",
+              "2500 Krannert Center for Perf Arts",
+              46,
+              [
+                "Marini, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "79103",
+          [
+            [
+              12,
+              "TR",
+              "111 Dance Studio",
+              0,
+              [
+                "Lewis, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Introduces basic yoga asanas (postures) and overview of the 8-limb system of yoga. Focus will be on physical understanding, correct alignment and inner awareness in the major basic poses. Weekly home practice, ongoing journal, and a research paper about an area of yoga philosophy are required.",
+      []
+    ],
+    "DANC 200": [
+      "Explore Music through Dance",
+      {
+        "OL1": [
+          "74250",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Henss, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "OL2": [
+          "78108",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Jensen, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "In-depth study of musical form, history, culture, and styles, taught from a physical learning, i.e., dance, perspective. Musical and dance forms will be studied across cultures and time periods, from both a technical and a cross-cultural perspective. Content will be delivered as a series of video lectures and performances, and online readings. Students will create movement studies that mirror the musical forms being analyzed, produce video documentation of these works, engage in peer review of other students' performance work, and complete exams that cover the cultural and historical aspects of the examples studied.",
+      []
+    ],
+    "DANC 209": [
+      "Lyric Theatre Dance",
+      {
+        "A": [
+          "78109",
+          [
+            [
+              12,
+              "MW",
+              "2127 Krannert Center for Perf Arts",
+              46,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Designed for Lyric Theatre Students, this course will introduce a broad variety of movement techniques used in the collaborative singing-acting industry. Through integrative cognitive and physical instruction, students will learn to optimize kinesthetic awareness, expressiveness, breath control, and governance of the singing actors' physical instrument. Classes will include: physical exercises and improvisations, group collaborations, and analysis of movement choices in theatrical performances. Dance styles ranging from Baroque opera and ballroom dance forms to contemporary musical theatre will be covered within this course.",
       []
     ],
     "DANC 216": [
-      "DANC 216",
-      {},
+      "Dance II",
+      {
+        "J": [
+          "78110",
+          [
+            [
+              42,
+              "TR",
+              "103 Dance Studio",
+              0,
+              [
+                "Rome, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "M": [
+          "74244",
+          [
+            [
+              42,
+              "MW",
+              "103 Dance Studio",
+              0,
+              [
+                "De Oliveira E Sousa, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "N": [
+          "74247",
+          [
+            [
+              12,
+              "MW",
+              "103 Dance Studio",
+              0,
+              [
+                "Doniff, M",
+                "O'Connor, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "An umbrella course for non-dance majors to explore all intermediate dancing technique courses offered in the department. Courses are offered from a range of cultural origins and traditions, which may include techniques such as Ballet, Capoeira, Contemporary Modern, Hip Hop, House, Improvisation, Jazz, Tap, Umfundalai, West African, etc. Specific dance forms for each semester will be listed in the class schedule. These courses provide students with prior study in the techniques, a physical experience of various dance techniques and an intermediate study of the cultural context of their creation and practice.",
       []
     ],
     "DANC 220": [
-      "DANC 220",
-      {},
+      "Undergraduate Performance Practice",
+      {
+        "CW": [
+          "69807",
+          [
+            [
+              7,
+              "MTWR",
+              "2127 Krannert Center for Perf Arts",
+              46,
+              [
+                "Wahrendorf, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "ER": [
+          "69808",
+          [
+            [
+              7,
+              "MTWR",
+              "103 Dance Studio",
+              0,
+              [
+                "Rome, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "FC": [
+          "74361",
+          [
+            [
+              7,
+              "MTWR",
+              "SuiteG Storefront Studio",
+              0,
+              [
+                "Monson, J",
+                "O'Connor, T",
+                "Rizzuto, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "MD": [
+          "74260",
+          [
+            [
+              7,
+              "MTWR",
+              "111 Dance Studio",
+              0,
+              [
+                "Doniff, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Performance laboratory involving the rehearsal and performance of student works under faculty supervision.",
       []
     ],
     "DANC 231": [
-      "DANC 231",
-      {},
+      "Production Practicum II",
+      {
+        "DP": [
+          "40784",
+          [
+            [
+              4,
+              "",
+              "TBA",
+              0,
+              [
+                "Allen, M",
+                "Ciofalo, T",
+                "Eggers, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Practical experience in the production of dance concerts mounted in the Krannert Center for the Performing Arts.",
       []
     ],
     "DANC 232": [
-      "DANC 232",
-      {},
+      "Repertory Company",
+      {
+        "A": [
+          "31838",
+          [
+            [
+              127,
+              "MWF",
+              "2127 Krannert Center for Perf Arts",
+              46,
+              [
+                "Allen, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Provides first year dance majors with diverse performing experiences, on the stage (fall semester) and in the community (spring semester). Students will participate in the creation of new works which may include improvisation and choreography. Participation in all performances is a requirement.",
       []
     ],
     "DANC 256": [
-      "DANC 256",
-      {},
+      "Choreographic Laboratory I",
+      {
+        "LC": [
+          "72295",
+          [
+            [
+              128,
+              "MW",
+              "2500 Krannert Center for Perf Arts",
+              46,
+              [
+                "Chiaramonte, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "PCC": [
+          "72290",
+          [
+            [
+              114,
+              "MW",
+              "111 Dance Studio",
+              0,
+              [
+                "Caldarella, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Using project-based learning, students will work in depth within each professor's choreographic process to hone their physical and artistic skills. Throughout the semester students will engage in a physical practice while learning creative tools for generating dance material, directing performance, and crafting choreographic ideas.",
       []
     ],
     "DANC 260": [
-      "DANC 260",
-      {},
+      "Dancing Techniques II",
+      {
+        "A": [
+          "63390",
+          [
+            [
+              126,
+              "MTWR",
+              "103 Dance Studio",
+              0,
+              [
+                "Aprahamian, S",
+                "Hook, S",
+                "Oliver, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "67619",
+          [
+            [
+              126,
+              "MTWR",
+              "103 Dance Studio",
+              0,
+              [
+                "Aprahamian, S",
+                "Hook, S",
+                "Oliver, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "A progressive exploration from DANC 160 of varied movement practices designed to support the dance major's ability to DELVE into technical and creative evolution. This daily practice of technique teaches the student to perform with clarity, versatility, and personal style, preparing students for the physical rigor associated with a performing career in dance. To provide a balance of training from a range of cultural origins and traditions, this course will include 2-3 contemporary movement approaches per semester, which may include techniques such as Ballet, Capoeira, Contemporary Modern, Hip Hop, House, Improvisation, Jazz, Tap, Umfundalai, West African, etc. Specific dance forms for each semester will be listed in the class schedule.",
       []
     ],
     "DANC 301": [
-      "DANC 301",
-      {},
+      "Yoga Fundamentals",
+      {
+        "A": [
+          "61856",
+          [
+            [
+              91,
+              "MW",
+              "2500 Krannert Center for Perf Arts",
+              46,
+              [
+                "Marini, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "DANC 270": [
-      "DANC 270",
-      {},
-      [],
-      null,
+      "Introduces basic yoga asanas (postures) and brief overview of the 8-limb system of yoga. Focus will be on understanding correct alignment and developing inner awareness. Weekly home practice, journal, and discussions about yoga philosophy are required.",
       []
     ],
     "DANC 316": [
-      "DANC 316",
-      {},
+      "Dancing Techniques Elective",
+      {
+        "B": [
+          "74286",
+          [
+            [
+              12,
+              "TR",
+              "2500 Krannert Center for Perf Arts",
+              46,
+              [
+                "Henss, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "C": [
+          "74288",
+          [
+            [
+              27,
+              "MW",
+              "2127 Krannert Center for Perf Arts",
+              46,
+              [
+                "Wahrendorf, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "E": [
+          "74656",
+          [
+            [
+              42,
+              "TR",
+              "110 907 1/2 W Nevada",
+              45,
+              [
+                "Doniff, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "F": [
+          "74659",
+          [
+            [
+              12,
+              "TR",
+              "2127 Krannert Center for Perf Arts",
+              46,
+              [
+                "Tecza, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "G": [
+          "74662",
+          [
+            [
+              42,
+              "MW",
+              "SuiteG Storefront Studio",
+              0,
+              [
+                "Knouse, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "H": [
+          "74282",
+          [
+            [
+              19,
+              "F",
+              "TBA",
+              0,
+              [
+                "Amiri, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "J": [
+          "78114",
+          [
+            [
+              42,
+              "TR",
+              "103 Dance Studio",
+              0,
+              [
+                "Rome, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "K": [
+          "78115",
+          [
+            [
+              42,
+              "MW",
+              "2500 Krannert Center for Perf Arts",
+              46,
+              [
+                "Ebersole, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "L": [
+          "74276",
+          [
+            [
+              91,
+              "TR",
+              "2500 Krannert Center for Perf Arts",
+              46,
+              [
+                "Marini, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "M": [
+          "74284",
+          [
+            [
+              42,
+              "MW",
+              "103 Dance Studio",
+              0,
+              [
+                "De Oliveira E Sousa, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "N": [
+          "74290",
+          [
+            [
+              12,
+              "MW",
+              "103 Dance Studio",
+              0,
+              [
+                "Doniff, M",
+                "O'Connor, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "O": [
+          "74292",
+          [
+            [
+              42,
+              "TR",
+              "2500 Krannert Center for Perf Arts",
+              46,
+              [
+                "Verdone, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "P": [
+          "74294",
+          [
+            [
+              42,
+              "TR",
+              "111 Dance Studio",
+              0,
+              [
+                "Trogdon, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "Q": [
+          "78116",
+          [
+            [
+              42,
+              "TR",
+              "SuiteG Storefront Studio",
+              0,
+              [
+                "Bartlett, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "R": [
+          "78117",
+          [
+            [
+              0,
+              "MW",
+              "111 Dance Studio",
+              0,
+              [
+                "Wahrendorf, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "S": [
+          "74653",
+          [
+            [
+              91,
+              "TR",
+              "2127 Krannert Center for Perf Arts",
+              46,
+              [
+                "Lewis, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "DANC 340": [
-      "DANC 340",
-      {},
-      [],
-      null,
+      "An umbrella course for elective dancing techniques offered for dance majors. Courses are offered from a range of cultural origins and traditions, which may include techniques such as Ballet, Capoeira, Contemporary Modern, Hip Hop, House, Improvisation, Jazz, Tap, Umfundalai, West African, etc. Specific dance forms for each semester will be listed in the class schedule. These courses provide dance majors with a physical experience of various dance techniques and the cultural context of their creation and practice.",
       []
     ],
     "DANC 330": [
-      "DANC 330",
-      {},
+      "Dance Documentation",
+      {
+        "A": [
+          "61017",
+          [
+            [
+              129,
+              "F",
+              "111 Dance Studio",
+              0,
+              [
+                "Chiaramonte, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "This is a hands-on course for students interested in exploring the relationship between dance and camera and the fundamentals of dance documentation. Using critical and experiential approach, we will explore the technical and artistic capabilities of mini-DV cameras and film-editing software to create dance performance documentation. Students will learn to execute clear and effective camerawork in relationship to dance performance, and to utilize editing software to most clearly display the artistic intent of the choreographers and directors.",
       []
     ],
     "DANC 331": [
-      "DANC 331",
-      {},
+      "Production Practicum III",
+      {
+        "DP": [
+          "31874",
+          [
+            [
+              4,
+              "",
+              "TBA",
+              0,
+              [
+                "Allen, M",
+                "Ciofalo, T",
+                "Eggers, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Practical experience in all aspects of the production of dance concerts mounted in the Krannert Center for the Performing Arts and within the Department of Dance.",
       []
     ],
-    "DANC 360": [
-      "DANC 360",
-      {},
+    "DANC 340": [
+      "Dancing Black Popular Culture",
+      {
+        "OL1": [
+          "51229",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Crocker, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "OL2": [
+          "65069",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Rizzuto, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "OL3": [
+          "70304",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Bofilios, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "OL4": [
+          "31839",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Verdone, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "OL5": [
+          "77464",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Knouse, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "OL6": [
+          "79106",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Ebersole, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "OL7": [
+          "79129",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "DANC 362": [
-      "DANC 362",
-      {},
-      [],
-      null,
+      "Introduction to black dance aesthetics and its interconnectedness with American popular culture. By exploring its cultural, political and historical roots, coupled with theoretical concepts of \"the popular\" and ties to the vernacular, the course will be organized around significant markers that have shaped black dance's development.",
       []
     ],
     "DANC 350": [
-      "DANC 350",
-      {},
+      "Teaching Dance",
+      {
+        "A": [
+          "74251",
+          [
+            [
+              19,
+              "TR",
+              "103 Dance Studio",
+              0,
+              [
+                "Allen, B",
+                "Caldarella, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Offers both theoretical insights and practical experiences in teaching dance to children and adult populations. Through readings and discussions, students will engage with various pedagogical methodologies to effectively prepare for teaching dance courses. Students will learn to develop and present culturally relevant movement assignments and lesson plans, establish safe learning environments grounded in anatomical and kinesiology principles, and conduct research and write about diverse dance styles and pedagogical methods in relation to their cultural and aesthetic histories.",
+      []
+    ],
+    "DANC 360": [
+      "Dancing Techniques III",
+      {
+        "A": [
+          "63392",
+          [
+            [
+              126,
+              "MTWR",
+              "103 Dance Studio",
+              0,
+              [
+                "Aprahamian, S",
+                "Hook, S",
+                "Oliver, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "31883",
+          [
+            [
+              126,
+              "MTWR",
+              "103 Dance Studio",
+              0,
+              [
+                "Aprahamian, S",
+                "Hook, S",
+                "Oliver, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "A progressive exploration from DANC 260 of varied movement practices designed to support the dance major's ability to ARTICULATE their creative evolution. This daily practice of technique teaches the student to perform with clarity, versatility, and personal style, preparing students for the physical rigor associated with a performing career in dance. To provide a balance of training from a range of Africanist and Europeanist cultural origins, this course will include 2-3 contemporary movement approaches per semester, which may include techniques such as Ballet, Contemporary Modern, Improvisation, West African, Umfundalai, Hip-hop, House, Jazz, Capoeira, Tap. Specific dance forms for each semester will be listed in the class schedule.",
+      []
+    ],
+    "DANC 362": [
+      "Choreographic Process II",
+      {
+        "A": [
+          "72293",
+          [
+            [
+              130,
+              "MW",
+              "TBA",
+              0,
+              [
+                "Barbier, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Choreography for the experienced student; focus of the class will be on using technology, production elements, and/or structural compositional forms in the creation of original dance solo or group works.",
       []
     ],
     "DANC 375": [
-      "DANC 375",
-      {},
+      "Thesis Think Tank",
+      {
+        "OL": [
+          "61953",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Nance, C",
+                "Rizzuto, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          15,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Prepares dance majors for designing a feasible senior thesis project. Students will engage in weekly assignments that help them navigate a project plan that will result in an \"approved\" thesis proposal. The Undergraduate Faculty reviews each of the Senior Thesis Proposals through a 'blind read' assessment. Successful course completion is dependent on a faculty approved senior thesis proposal.",
       []
     ],
     "DANC 420": [
-      "DANC 420",
-      {},
+      "Graduate Performance Practice",
+      {
+        "CW": [
+          "69809",
+          [
+            [
+              7,
+              "MTWR",
+              "2127 Krannert Center for Perf Arts",
+              46,
+              [
+                "Hook, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "ER": [
+          "74259",
+          [
+            [
+              7,
+              "MTWR",
+              "103 Dance Studio",
+              0,
+              [
+                "Hook, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "FC": [
+          "74263",
+          [
+            [
+              7,
+              "MTWR",
+              "SuiteG Storefront Studio",
+              0,
+              [
+                "Monson, J",
+                "O'Connor, T",
+                "Rizzuto, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "MD": [
+          "74261",
+          [
+            [
+              7,
+              "MTWR",
+              "111 Dance Studio",
+              0,
+              [
+                "Hook, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Performance laboratory involving the rehearsal and performance of student works under faculty supervision.",
       []
     ],
     "DANC 402": [
-      "DANC 402",
-      {},
+      "Alexander Technique Practicum",
+      {
+        "A": [
+          "57148",
+          [
+            [
+              27,
+              "F",
+              "103 Dance Studio",
+              0,
+              [
+                "Nettl-Fiol, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "DANC 456": [
-      "DANC 456",
-      {},
-      [],
-      null,
+      "Facilitates conscious and reasoned control of the human organism as a psychophysical whole. Helps students recognize habits that constitute their daily activities and discard, through conscious control, those that impede open-minded enquiry and self-reliance. Through one-on-one work with certified teachers and trainees, students will learn to change habitual patterns of coordination.",
       []
     ],
     "DANC 431": [
-      "DANC 431",
-      {},
+      "Production Practicum IV",
+      {
+        "DP": [
+          "40827",
+          [
+            [
+              4,
+              "",
+              "TBA",
+              0,
+              [
+                "Allen, M",
+                "Ciofalo, T",
+                "Eggers, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Practical experience in all aspects of the production of dance concerts mounted in the Krannert Center for the Performing Arts and within the Department of Dance.",
+      []
+    ],
+    "DANC 456": [
+      "Choreographic Laboratory II",
+      {
+        "LC": [
+          "72297",
+          [
+            [
+              128,
+              "MW",
+              "2500 Krannert Center for Perf Arts",
+              46,
+              [
+                "Chiaramonte, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "PCC": [
+          "72291",
+          [
+            [
+              114,
+              "MW",
+              "111 Dance Studio",
+              0,
+              [
+                "Caldarella, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Using project-based learning, students will work in depth within each professor's choreographic process to hone their physical and artistic skills. Throughout the semester students will engage in a physical practice while learning creative tools for generating dance material, directing performance, and crafting choreographic ideas.",
       []
     ],
     "DANC 455": [
-      "DANC 455",
-      {},
+      "Supervised Teaching",
+      {
+        "A": [
+          "53710",
+          [
+            [
+              91,
+              "MWF",
+              "2500 Krannert Center for Perf Arts",
+              46,
+              [
+                "Marini, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "DANC 465": [
-      "DANC 465",
-      {},
-      [],
-      null,
+      "Practical teaching experience under the supervision of a faculty member; weekly conference devoted to evaluation and planning. Teaching areas include major and non-major university courses and classes for community adults and children.",
       []
     ],
     "DANC 460": [
-      "DANC 460",
-      {},
+      "Dancing Techniques IV",
+      {
+        "A": [
+          "63410",
+          [
+            [
+              126,
+              "MTWR",
+              "103 Dance Studio",
+              0,
+              [
+                "Hook, S",
+                "Monson, J",
+                "Oliver, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "79128",
+          [
+            [
+              126,
+              "MTWR",
+              "103 Dance Studio",
+              0,
+              [
+                "Aprahamian, S",
+                "Hook, S",
+                "Oliver, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "A progressive exploration from DANC 360 of varied movement practices designed to support the dance major's ability to LAUNCH their technical and creative evolution into the professional field. This course can also support grad students in their ongoing physical practice. This daily practice of technique teaches the student to perform with clarity, versatility, and personal style, preparing students for the physical rigor associated with a performing career in dance. To provide a balance of training from a range of cultural origins and traditions, this course will include 2-3 contemporary movement approaches per semester, which may include techniques such as Ballet, Capoeira, Contemporary Modern, Hip Hop, House, Improvisation, Jazz, Tap, Umfundalai, West African, etc. Specific dance forms for each semester will be listed in the class schedule.",
       []
     ],
-    "DANC 470": [
-      "DANC 470",
-      {},
+    "DANC 465": [
+      "Screendance",
+      {
+        "A": [
+          "40822",
+          [
+            [
+              19,
+              "MW",
+              "2500 Krannert Center for Perf Arts",
+              46,
+              [
+                "Chiaramonte, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "DANC 495": [
-      "DANC 495",
-      {},
-      [],
-      null,
+      "This course is an introduction to Screendance and provides a comprehensive approach, from the camera use to editing techniques, leading to a practical ability to develop and produce a Screendance project. The course will also address issues of aesthetics, history, theory and technology as a foundation for the approaches to Screendance composition. Specific population encouraged to take the course are Cinema and Media studies, Theater Design and Technology and Art and Design.",
       []
     ],
     "DANC 498": [
-      "DANC 498",
-      {},
+      "BFA Thesis Production",
+      {
+        "A": [
+          "62045",
+          [
+            [
+              127,
+              "MW",
+              "120 907 1/2 W Nevada",
+              45,
+              [
+                "Henss, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "The planning, design, and production of the Senior Capstone Project (DANC 499) for public performance. Students will work as a team to plan the Senior Concerts including designing and producing promotional materials and managing technical rehearsals and performances.",
       []
     ],
-    "DANC 499": [
-      "DANC 499",
-      {},
+    "DANC 495": [
+      "Senior Career Seminar",
+      {
+        "A": [
+          "74258",
+          [
+            [
+              12,
+              "F",
+              "109 907 1/2 W Nevada",
+              45,
+              [
+                "Rizzuto, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "DANC 530": [
-      "DANC 530",
-      {},
-      [],
-      null,
+      "Addresses survival strategies and the transition from academe to the profession. Course content includes research and discussion of career possibilities in performance, choreography, teaching, community dance work, therapy, and the dance-related fields of health/fitness/recreation. Students will research individualized projects in an area of interest.",
       []
     ],
     "DANC 516": [
-      "DANC 516",
-      {},
+      "Dancing Techniques Graduate Elective",
+      {
+        "B": [
+          "74279",
+          [
+            [
+              12,
+              "TR",
+              "2500 Krannert Center for Perf Arts",
+              46,
+              [
+                "Henss, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "C": [
+          "74285",
+          [
+            [
+              27,
+              "MW",
+              "2127 Krannert Center for Perf Arts",
+              46,
+              [
+                "Wahrendorf, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "E": [
+          "74289",
+          [
+            [
+              42,
+              "TR",
+              "110 907 1/2 W Nevada",
+              45,
+              [
+                "Doniff, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "F": [
+          "74293",
+          [
+            [
+              12,
+              "TR",
+              "2127 Krannert Center for Perf Arts",
+              46,
+              [
+                "Tecza, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "G": [
+          "74295",
+          [
+            [
+              42,
+              "MW",
+              "SuiteG Storefront Studio",
+              0,
+              [
+                "Knouse, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "H": [
+          "74657",
+          [
+            [
+              19,
+              "F",
+              "TBA",
+              0,
+              [
+                "Amiri, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "J": [
+          "78120",
+          [
+            [
+              42,
+              "TR",
+              "103 Dance Studio",
+              0,
+              [
+                "Rome, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "K": [
+          "78121",
+          [
+            [
+              42,
+              "MW",
+              "2500 Krannert Center for Perf Arts",
+              46,
+              [
+                "Ebersole, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "L": [
+          "78122",
+          [
+            [
+              91,
+              "TR",
+              "2500 Krannert Center for Perf Arts",
+              46,
+              [
+                "Marini, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "M": [
+          "74663",
+          [
+            [
+              42,
+              "MW",
+              "103 Dance Studio",
+              0,
+              [
+                "De Oliveira E Sousa, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "N": [
+          "74291",
+          [
+            [
+              12,
+              "MW",
+              "103 Dance Studio",
+              0,
+              [
+                "Doniff, M",
+                "O'Connor, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "O": [
+          "74654",
+          [
+            [
+              42,
+              "TR",
+              "2500 Krannert Center for Perf Arts",
+              46,
+              [
+                "Verdone, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "P": [
+          "74660",
+          [
+            [
+              42,
+              "TR",
+              "111 Dance Studio",
+              0,
+              [
+                "Trogdon, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "Q": [
+          "78123",
+          [
+            [
+              42,
+              "TR",
+              "SuiteG Storefront Studio",
+              0,
+              [
+                "Bartlett, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "R": [
+          "74283",
+          [
+            [
+              0,
+              "MW",
+              "111 Dance Studio",
+              0,
+              [
+                "Wahrendorf, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "S": [
+          "74287",
+          [
+            [
+              91,
+              "TR",
+              "2127 Krannert Center for Perf Arts",
+              46,
+              [
+                "Lewis, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "An elective for graduate students and an umbrella course for dancing technique courses offered in the department. Courses are offered from a range of Africanist and Europeanist cultural origins, which may include techniques such as Ballet, Contemporary Modern, Improvisation, West African, Umfundalai, Hip-hop, House, Jazz, Capoeira, Tap. Specific dance forms for each semester will be listed in the class schedule. These provide graduate students with a physical study of various dance techniques and the cultural context of their creation and practice.",
+      []
+    ],
+    "DANC 530": [
+      "Somatics in Dance Training",
+      {
+        "A": [
+          "40834",
+          [
+            [
+              27,
+              "TR",
+              "111 Dance Studio",
+              0,
+              [
+                "Nettl-Fiol, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Addresses current issues and trends in the teaching of dance technique, with a focus on the incorporation of dance science and somatics into dance training. Course includes reading, writing, discussion, teaching observation, and experiential work.",
+      []
+    ],
+    "DANC 499": [
+      "BFA Thesis Project",
+      {
+        "A": [
+          "31861",
+          [
+            [
+              127,
+              "MW",
+              "120 907 1/2 W Nevada",
+              45,
+              [
+                "Henss, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Creation of a culminating choreographic/performance project.",
       []
     ],
     "DANC 531": [
-      "DANC 531",
-      {},
+      "MFA Prof Practice Seminar",
+      {
+        "A": [
+          "72399",
+          [
+            [
+              12,
+              "F",
+              "120 907 1/2 W Nevada",
+              45,
+              [
+                "Hanson, S",
+                "Monson, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "DANC 550": [
-      "DANC 550",
-      {},
-      [],
-      null,
-      []
-    ],
-    "DANC 562": [
-      "DANC 562",
-      {},
-      [],
-      null,
+      "Examines current field practices and trends including curatorial practices, and interdisciplinary practices. Includes preparation of practical materials for career presentation and examination of resources.",
       []
     ],
     "DANC 542": [
-      "DANC 542",
-      {},
+      "Contemporary Directions II",
+      {
+        "A": [
+          "62038",
+          [
+            [
+              19,
+              "TR",
+              "109 907 1/2 W Nevada",
+              45,
+              [
+                "Barbier, A",
+                "Hook, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Continuation of DANC 541 Contemporary Directions I emphasizing viewing, discussing, analyzing, and writing about the work of current significant contemporary choreographers worldwide with special attention toward contextualizing student research.",
+      []
+    ],
+    "DANC 550": [
+      "Advanced Research in Dance",
+      {
+        "A": [
+          "41108",
+          [
+            [
+              0,
+              "MW",
+              "SuiteG Storefront Studio",
+              0,
+              [
+                "Monson, J",
+                "Novoa Echaurren, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Advanced Independent Research in an opportunity for exceptional returning level professional MFA candidates in Dance to design and implement an in-depth examination of a creative, historical, contemporary, philosophical, technological, or educational facet of dance under the guidance of a faculty advisor.",
+      []
+    ],
+    "DANC 562": [
+      "Graduate Composition II",
+      {
+        "A": [
+          "57146",
+          [
+            [
+              131,
+              "TR",
+              "103 Dance Studio",
+              0,
+              [
+                "O'Connor, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Includes reading, writing, and discussion. Students will examine the creative process, the conventions that form choreographers' works, and the historical situations from which specific dance works spring. Students will produce works in specific contexts outside the standard theatre setting. They will be responsible for all promotional and production aspects of a project that will be presented to the public.",
       []
     ],
     "DANC 598": [
-      "DANC 598",
-      {},
+      "Creative Thesis Project",
+      {
+        "A": [
+          "48991",
+          [
+            [
+              19,
+              "T",
+              "120 907 1/2 W Nevada",
+              45,
+              [
+                "D' Orléans Juste, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "The design, implementation, and completion of a culminating creative project in choreography and/or performance.",
       []
     ]
   },
   "caches": {
-    "periods": [],
+    "periods": [
+      "1100 - 1220",
+      "1230 - 1350",
+      "1500 - 1620",
+      "1700 - 1950",
+      "ARRANGED",
+      "1300 - 1550",
+      "0800 - 0950",
+      "1500 - 1650",
+      "1100 - 1150",
+      "0900 - 0950",
+      "1000 - 1050",
+      "1300 - 1350",
+      "1300 - 1420",
+      "1530 - 1650",
+      "1400 - 1520",
+      "1530 - 1620",
+      "1500 - 1550",
+      "0730 - 0920",
+      "1100 - 1250",
+      "1300 - 1450",
+      "0900 - 1050",
+      "1630 - 1720",
+      "1400 - 1450",
+      "1200 - 1250",
+      "0930 - 1050",
+      "1830 - 1950",
+      "1600 - 1730",
+      "0900 - 1020",
+      "1600 - 1650",
+      "1400 - 1550",
+      "1230 - 1320",
+      "1100 - 1350",
+      "1200 - 1320",
+      "1200 - 1450",
+      "1500 - 1750",
+      "0930 - 1220",
+      "1400 - 1650",
+      "1100 - 1320",
+      "1000 - 1150",
+      "0900 - 1150",
+      "1300 - 1750",
+      "1800 - 2050",
+      "1700 - 1820",
+      "1530 - 1820",
+      "1430 - 1520",
+      "1030 - 1120",
+      "1130 - 1220",
+      "0800 - 0920",
+      "1300 - 1650",
+      "1330 - 1750",
+      "1300 - 1620",
+      "1300 - 1520",
+      "1800 - 1950",
+      "1600 - 1750",
+      "1300 - 1540",
+      "1400 - 1640",
+      "0900 - 1140",
+      "0930 - 1210",
+      "1600 - 1840",
+      "1700 - 1940",
+      "1000 - 1120",
+      "1700 - 1850",
+      "1600 - 1720",
+      "1130 - 1250",
+      "1000 - 1240",
+      "1900 - 2240",
+      "1230 - 1345",
+      "1600 - 1715",
+      "1530 - 1720",
+      "1400 - 1530",
+      "1200 - 1350",
+      "1930 - 2050",
+      "1400 - 1720",
+      "1700 - 1750",
+      "1100 - 1450",
+      "1500 - 1850",
+      "1600 - 1850",
+      "0800 - 1150",
+      "1730 - 1900",
+      "1000 - 1130",
+      "0930 - 1020",
+      "1830 - 2030",
+      "1830 - 2020",
+      "1630 - 1750",
+      "1530 - 1645",
+      "1100 - 1215",
+      "1400 - 1515",
+      "1700 - 1815",
+      "1830 - 1945",
+      "0930 - 1045",
+      "1800 - 2100",
+      "0800 - 0850",
+      "1400 - 1750",
+      "1900 - 2050",
+      "1330 - 1450",
+      "1000 - 2000",
+      "1600 - 1740",
+      "1230 - 1420",
+      "1500 - 1730",
+      "1500 - 1720",
+      "1530 - 1800",
+      "1630 - 1745",
+      "1630 - 1730",
+      "1900 - 2020",
+      "1900 - 2000",
+      "1700 - 1800",
+      "1000 - 1250",
+      "0830 - 1050",
+      "1400 - 1600",
+      "1300 - 1415",
+      "1600 - 1700",
+      "1300 - 1600",
+      "1400 - 1630",
+      "1000 - 1220",
+      "1300 - 1430",
+      "1200 - 1550",
+      "1830 - 2130",
+      "1830 - 2100",
+      "0930 - 1120",
+      "1230 - 1520",
+      "0800 - 1050",
+      "0900 - 1120",
+      "1630 - 1920",
+      "1800 - 1920",
+      "1200 - 1650",
+      "1300 - 1530",
+      "0900 - 1030",
+      "1035 - 1150",
+      "1500 - 1630",
+      "1430 - 1630",
+      "1035 - 1200",
+      "1035 - 1230"
+    ],
     "dateRanges": [],
-    "scheduleTypes": [],
+    "scheduleTypes": [
+      "Lecture-Discussion",
+      "Online",
+      "Independent Study",
+      "Seminar",
+      "Laboratory",
+      "Lecture",
+      "Discussion/Recitation",
+      "Online Lecture",
+      "Research",
+      "Internship",
+      "Travel",
+      "Packaged Section",
+      "Online Discussion",
+      "Conference",
+      "Study Abroad",
+      "Online Lab",
+      "Studio",
+      "Laboratory-Discussion",
+      "Practice",
+      "Quiz",
+      "Online Lecture-Discussion"
+    ],
     "campuses": [],
     "attributes": [],
     "restrictions": [],
     "gradeBases": [],
-    "locations": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.1035833,
+        "long": -88.228405
+      },
+      {
+        "lat": 40.0995003,
+        "long": -88.223104
+      },
+      {
+        "lat": 40.10628,
+        "long": -88.22621
+      },
+      {
+        "lat": 40.1072225,
+        "long": -88.2262016
+      },
+      {
+        "lat": 40.106778040727896,
+        "long": -88.2194617156191
+      },
+      {
+        "lat": 40.104794,
+        "long": -88.224264
+      },
+      {
+        "lat": 40.103627234541904,
+        "long": -88.22601765311099
+      },
+      {
+        "lat": 40.103620555545135,
+        "long": -88.22982720445013
+      },
+      {
+        "lat": 40.1028373,
+        "long": -88.2251326
+      },
+      {
+        "lat": 40.1109722,
+        "long": -88.2282631
+      },
+      {
+        "lat": 40.1034533,
+        "long": -88.2327596
+      },
+      {
+        "lat": 40.10944320239664,
+        "long": -88.22602522743233
+      },
+      {
+        "lat": 40.108419421661715,
+        "long": -88.2261156301609
+      },
+      {
+        "lat": 40.1033599,
+        "long": -88.2292111
+      },
+      {
+        "lat": 40.1110937,
+        "long": -88.2232348
+      },
+      {
+        "lat": 40.1149521,
+        "long": -88.2267561
+      },
+      {
+        "lat": 40.092875494224195,
+        "long": -88.22082220247309
+      },
+      {
+        "lat": 40.105732,
+        "long": -88.2281018
+      },
+      {
+        "lat": 40.1065684,
+        "long": -88.2281746
+      },
+      {
+        "lat": 40.107534,
+        "long": -88.2281548
+      },
+      {
+        "lat": 40.103587,
+        "long": -88.230606
+      },
+      {
+        "lat": 40.11171215875622,
+        "long": -88.22530849701589
+      },
+      {
+        "lat": 40.1047599,
+        "long": -88.2319514
+      },
+      {
+        "lat": 40.111691,
+        "long": -88.2242511
+      },
+      {
+        "lat": 40.1022093629303,
+        "long": -88.22800864058527
+      },
+      {
+        "lat": 40.1020773,
+        "long": -88.2296394
+      },
+      {
+        "lat": 40.11246109008789,
+        "long": -88.22831726074219
+      },
+      {
+        "lat": 40.101862,
+        "long": -88.231737
+      },
+      {
+        "lat": 40.1083446,
+        "long": -88.2282555
+      },
+      {
+        "lat": 40.10783362157985,
+        "long": -88.22476189569741
+      },
+      {
+        "lat": 40.10755766472843,
+        "long": -88.22995430218522
+      },
+      {
+        "lat": 40.110811306674734,
+        "long": -88.2248467072371
+      },
+      {
+        "lat": 40.1131317,
+        "long": -88.2264552
+      },
+      {
+        "lat": 40.1149296,
+        "long": -88.2280589
+      },
+      {
+        "lat": 40.108570819242026,
+        "long": -88.22518453938676
+      },
+      {
+        "lat": 40.1035872,
+        "long": -88.2306061
+      },
+      {
+        "lat": 40.102726858556835,
+        "long": -88.23259991223857
+      },
+      {
+        "lat": 40.1108856,
+        "long": -88.2269806
+      },
+      {
+        "lat": 40.107811,
+        "long": -88.2260761
+      },
+      {
+        "lat": 40.11085653938169,
+        "long": -88.22609810215927
+      },
+      {
+        "lat": 40.11397164321797,
+        "long": -88.2265192685827
+      },
+      {
+        "lat": 40.10593795776367,
+        "long": -88.2270736694336
+      },
+      {
+        "lat": 40.10127390836906,
+        "long": -88.2226073524728
+      },
+      {
+        "lat": 40.11380515934119,
+        "long": -88.22490788390387
+      },
+      {
+        "lat": 40.105587640130146,
+        "long": -88.22025111416733
+      },
+      {
+        "lat": 40.10802885201532,
+        "long": -88.22239700364068
+      }
+    ],
     "finalDates": [],
     "finalTimes": []
   }

@@ -1,200 +1,1501 @@
 {
   "subject": "ESE",
-  "scrapedAt": 1791782381958,
+  "scrapedAt": 1794503372233,
   "courseCount": 26,
   "courses": {
-    "ESE 106": [
-      "ESE 106",
-      {},
+    "ESE 111": [
+      "Emergence of Life",
+      {
+        "A": [
+          "61955",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Cole, T",
+                "Li, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Same as GEOL 111. See GEOL 111.",
       []
     ],
     "ESE 117": [
-      "ESE 117",
-      {},
+      "The Oceans",
+      {
+        "ONL": [
+          "59022",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Buckley, E",
+                "Malanga, R",
+                "Wallin, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Same as GEOL 117. See GEOL 117.",
       []
     ],
-    "ESE 111": [
-      "ESE 111",
-      {},
+    "ESE 106": [
+      "Geographies of Globalization",
+      {
+        "A": [
+          "58856",
+          [
+            [
+              23,
+              "MWF",
+              "319 Gregory Hall",
+              18,
+              [
+                "Cummings, L",
+                "McAlister, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Same as GGIS 106. See GGIS 106.",
       []
     ],
     "ESE 118": [
-      "ESE 118",
-      {},
+      "Natural Disasters",
+      {
+        "ONL": [
+          "58496",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Hinz, S",
+                "Maguire, R",
+                "Moore, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "ESE 140": [
-      "ESE 140",
-      {},
-      [],
-      null,
+      "Same as GEOL 118 and GLBL 118. See GEOL 118.",
       []
     ],
     "ESE 120": [
-      "ESE 120",
-      {},
+      "Severe and Hazardous Weather",
+      {
+        "A": [
+          "54843",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Choate, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "HA": [
+          "54870",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Choate, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Same as ATMS 120. See ATMS 120.",
+      []
+    ],
+    "ESE 140": [
+      "Climate and Global Change",
+      {
+        "A": [
+          "54862",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Proistosescu, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as ATMS 140. See ATMS 140.",
       []
     ],
     "ESE 208": [
-      "ESE 208",
-      {},
+      "History of the Earth System",
+      {
+        "AB2": [
+          "54833",
+          [
+            [
+              38,
+              "T",
+              "1022 Natural History Building",
+              12,
+              [
+                "Austin, S",
+                "Rank, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "54831",
+          [
+            [
+              11,
+              "MWF",
+              "TBA",
+              0,
+              [
+                "Austin, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "ESE 210": [
-      "ESE 210",
-      {},
-      [],
-      null,
+      "Same as GEOL 208. See GEOL 208.",
       []
     ],
     "ESE 199": [
-      "ESE 199",
-      {},
+      "Undergraduate Open Seminar",
+      {
+        "A": [
+          "78864",
+          [
+            [
+              13,
+              "T",
+              "2078 Natural History Building",
+              12,
+              [
+                "Malanga, R",
+                "Meghani, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Special topics in Earth, Society, and the Environment; content is variable.",
       []
     ],
-    "ESE 254": [
-      "ESE 254",
-      {},
+    "ESE 210": [
+      "Social & Environmental Issues",
+      {
+        "ONL": [
+          "54796",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Alvarado, N",
+                "Brown Varela, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "ESE 222": [
-      "ESE 222",
-      {},
-      [],
-      null,
+      "Same as GGIS 210. See GGIS 210.",
       []
     ],
     "ESE 287": [
-      "ESE 287",
-      {},
+      "Environment and Society",
+      {
+        "AD1": [
+          "54847",
+          [
+            [
+              22,
+              "F",
+              "217 Gregory Hall",
+              18,
+              [
+                "Salas, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "AD2": [
+          "54848",
+          [
+            [
+              11,
+              "F",
+              "217 Gregory Hall",
+              18,
+              [
+                "Salas, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "AD3": [
+          "54849",
+          [
+            [
+              11,
+              "F",
+              "212 David Kinley Hall",
+              1,
+              [
+                "Johnson, Z"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "AD4": [
+          "54850",
+          [
+            [
+              23,
+              "F",
+              "212 David Kinley Hall",
+              1,
+              [
+                "Johnson, Z"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "AD5": [
+          "54851",
+          [
+            [
+              8,
+              "F",
+              "212 David Kinley Hall",
+              1,
+              [
+                "Afzal, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "AD7": [
+          "68927",
+          [
+            [
+              10,
+              "F",
+              "212 David Kinley Hall",
+              1,
+              [
+                "Afzal, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "54846",
+          [
+            [
+              11,
+              "MW",
+              "213 Gregory Hall",
+              18,
+              [
+                "Garcia Otero, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Same as GGIS 287, NRES 287 and PS 273. See NRES 287.",
       []
     ],
-    "ESE 360": [
-      "ESE 360",
-      {},
+    "ESE 254": [
+      "People, Places, and Environments of the US",
+      {
+        "A": [
+          "69951",
+          [
+            [
+              1,
+              "TR",
+              "1090 Lincoln Hall",
+              19,
+              [
+                "McAlister, J",
+                "Wu, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Same as GGIS 254. See GGIS 254.",
       []
     ],
-    "ESE 320": [
-      "ESE 320",
-      {},
+    "ESE 222": [
+      "Big Rivers of the World",
+      {
+        "A": [
+          "54797",
+          [
+            [
+              22,
+              "MWF",
+              "2020A Natural History Building",
+              12,
+              [
+                "Best, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Same as GGIS 222. See GGIS 222.",
       []
     ],
     "ESE 379": [
-      "ESE 379",
-      {},
+      "Introduction to Geographic Information Systems",
+      {
+        "AE1": [
+          "54798",
+          [
+            [
+              29,
+              "W",
+              "1090 Lincoln Hall",
+              19,
+              [
+                "Minn, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "62098",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Minn, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Same as GGIS 379. See GGIS 379.",
       []
     ],
-    "ESE 389": [
-      "ESE 389",
-      {},
+    "ESE 360": [
+      "Environmental Writing",
+      {
+        "A": [
+          "66865",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Tomkin, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "67476",
+          [
+            [
+              24,
+              "TR",
+              "313 Gregory Hall",
+              18,
+              [
+                "Gaffney, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Equips students to write about the environment for various audiences, with a focus on specific current efforts to promote sustainability on the Urbana-Champaign campus. We will practice effective techniques for each stage of the writing process-from defining topics, to gathering information, to crafting active, engaging prose. Readings will include models of effective environmental writing and \"how to\" pieces by experts. Research will include visits to campus sites and student-conducted interviews with subjects.",
+      []
+    ],
+    "ESE 320": [
+      "Water Planet, Water Crisis",
+      {
+        "AL1": [
+          "58559",
+          [
+            [
+              0,
+              "TR",
+              "2020A Natural History Building",
+              12,
+              [
+                "Sivapalan, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Study of the science of water on planet earth, the developing water crisis, and some possible solutions to it. Topics include water's unique physical and chemical properties; how it profoundly shapes the earth/ocean/atmosphere system; dynamics of oceans, atmosphere, lakes, rivers, groundwater, and ice masses; current fresh water supplies and their distribution on earth relative to population; current and future water crises and the compounding effects of droughts, floods, and global change; and prospects for some technological and economic approaches to easing the crisis.",
       []
     ],
     "ESE 380": [
-      "ESE 380",
-      {},
+      "Geographic Information Systems II",
+      {
+        "A": [
+          "61528",
+          [
+            [
+              14,
+              "TR",
+              "1020 Natural History Building",
+              12,
+              [
+                "Minn, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          17,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Same as GGIS 380. See GGIS 380.",
+      []
+    ],
+    "ESE 389": [
+      "Environment and Sustainability Field Expedition",
+      {
+        "A": [
+          "62068",
+          [
+            [
+              62,
+              "W",
+              "2020A Natural History Building",
+              12,
+              [
+                "Meghani, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Group expedition to study environment and sustainability issues at a field site. Includes in-class meetings, student-led presentation, and field trip; expeditions run during spring break, winter break, in mid-May or in intercession; dates depend on location. Field Trip and field trip fee required.",
       []
     ],
     "ESE 401": [
-      "ESE 401",
-      {},
+      "ESE Capstone",
+      {
+        "54841": [
+          "54841",
+          [
+            [
+              4,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "A": [
+          "75713",
+          [
+            [
+              24,
+              "TR",
+              "222 David Kinley Hall",
+              1,
+              [
+                "Brown, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Capstone experience for majors in Earth, Society, and Environment Sustainability.",
       []
     ],
     "ESE 421": [
-      "ESE 421",
-      {},
+      "Earth Systems Modeling",
+      {
+        "B": [
+          "74432",
+          [
+            [
+              10,
+              "MWF",
+              "1020 Natural History Building",
+              12,
+              [
+                "Anders, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "ESE 465": [
-      "ESE 465",
-      {},
-      [],
-      null,
+      "Same as ATMS 421, GEOL 481, GGIS 421 and NRES 422. See ATMS 421.",
       []
     ],
     "ESE 445": [
-      "ESE 445",
-      {},
+      "Earth Resources Sustainability",
+      {
+        "A": [
+          "61711",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Cole, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Introduces the physical (energy, mineral, and soil) resources of the Earth, the environmental consequences of producing and using resources, the controls on resource supplies, and the alternatives to traditional supplies. Focuses on the geological origin and context of resources, the means of exploration and production, the history of production, and sustainability issues related to consumption and depletion. Provides an understanding of why resources can be scarce and expensive, why many are not renewable, and why their use impacts the Earth System. May include field trips.",
+      []
+    ],
+    "ESE 465": [
+      "Transportation &Sustainability",
+      {
+        "G1": [
+          "65614",
+          [
+            [
+              9,
+              "MWF",
+              "2020A Natural History Building",
+              12,
+              [
+                "Cidell, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "U1": [
+          "65575",
+          [
+            [
+              9,
+              "MWF",
+              "2020A Natural History Building",
+              12,
+              [
+                "Cidell, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as GGIS 465. See GGIS 465.",
       []
     ],
     "ESE 467": [
-      "ESE 467",
-      {},
+      "Multimedia Environmental Communications",
+      {
+        "A": [
+          "70523",
+          [
+            [
+              132,
+              "TR",
+              "315 Gregory Hall",
+              18,
+              [
+                "Becker, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Develops capacities to communicate about sustainability and other environmental topics. Storytelling and clear exposition across multiple types of media will be emphasized. Students will be exposed to the application of blogs, audio podcasts, short videos, infographics and social media applications to communicate effectively about environmental science and allied fields. Skills in photography, videography, audio capture, developing scripts, interviewing, and social media best practices will be learned.",
       []
     ],
     "ESE 482": [
-      "ESE 482",
-      {},
+      "Challenges of Sustainability",
+      {
+        "A": [
+          "63386",
+          [
+            [
+              0,
+              "T",
+              "322 David Kinley Hall",
+              1,
+              [
+                "Brown, C Brown, C"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              0,
+              "R",
+              "ONLINE",
+              0,
+              [
+                "Brown, C Brown, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "61598",
+          [
+            [
+              0,
+              "R",
+              "ONLINE",
+              0,
+              [
+                "Brown, C Brown, C"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Brown, C Brown, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "An interdisciplinary approach to investigating the meaning and practice of sustainability in the contemporary Earth system. As a consequence, students explore the sustainability of crucial resources - water, soil, energy, mineral and the biota - in the context of the social and environmental systems in which these resources are used, including the moral, physical, ecological, political and economic.",
       []
     ],
     "ESE 486": [
-      "ESE 486",
-      {},
+      "Environmental Consulting",
+      {
+        "A": [
+          "79005",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Pettijohn, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "79006",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Pettijohn, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "ESE 498": [
-      "ESE 498",
-      {},
-      [],
-      null,
+      "Same as GEOL 486. See GEOL 486.",
       []
     ],
     "ESE 497": [
-      "ESE 497",
-      {},
+      "Special Topics in ESE",
+      {
+        "M": [
+          "77884",
+          [
+            [
+              11,
+              "MWF",
+              "122 Davenport Hall",
+              4,
+              [
+                "Christie, M",
+                "Meghani, N Christie, M",
+                "Meghani, N"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              29,
+              "M",
+              "122 Davenport Hall",
+              4,
+              [
+                "Christie, M",
+                "Meghani, N Christie, M",
+                "Meghani, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Advanced topics course, consisting of seminar or lectures in subjects not covered by regular course offerings; for advanced undergraduates and graduate students. Possible field study in a prominent geological locality; includes in-class meetings, student-led presentations, and field trip; trips run during spring break, winter break, in mid-end May; dates depend on location.",
+      []
+    ],
+    "ESE 498": [
+      "Environmental Writing for Publication",
+      {
+        "A": [
+          "67478",
+          [
+            [
+              1,
+              "TR",
+              "G48 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Cole, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Provides students with both the experience of the real-world editorial process and with a research product (the published essay) that showcases their professional development as well-informed and persuasive writers on environmental issues.",
       []
     ]
   },
   "caches": {
-    "periods": [],
+    "periods": [
+      "1100 - 1220",
+      "1230 - 1350",
+      "1500 - 1620",
+      "1700 - 1950",
+      "ARRANGED",
+      "1300 - 1550",
+      "0800 - 0950",
+      "1500 - 1650",
+      "1100 - 1150",
+      "0900 - 0950",
+      "1000 - 1050",
+      "1300 - 1350",
+      "1300 - 1420",
+      "1530 - 1650",
+      "1400 - 1520",
+      "1530 - 1620",
+      "1500 - 1550",
+      "0730 - 0920",
+      "1100 - 1250",
+      "1300 - 1450",
+      "0900 - 1050",
+      "1630 - 1720",
+      "1400 - 1450",
+      "1200 - 1250",
+      "0930 - 1050",
+      "1830 - 1950",
+      "1600 - 1730",
+      "0900 - 1020",
+      "1600 - 1650",
+      "1400 - 1550",
+      "1230 - 1320",
+      "1100 - 1350",
+      "1200 - 1320",
+      "1200 - 1450",
+      "1500 - 1750",
+      "0930 - 1220",
+      "1400 - 1650",
+      "1100 - 1320",
+      "1000 - 1150",
+      "0900 - 1150",
+      "1300 - 1750",
+      "1800 - 2050",
+      "1700 - 1820",
+      "1530 - 1820",
+      "1430 - 1520",
+      "1030 - 1120",
+      "1130 - 1220",
+      "0800 - 0920",
+      "1300 - 1650",
+      "1330 - 1750",
+      "1300 - 1620",
+      "1300 - 1520",
+      "1800 - 1950",
+      "1600 - 1750",
+      "1300 - 1540",
+      "1400 - 1640",
+      "0900 - 1140",
+      "0930 - 1210",
+      "1600 - 1840",
+      "1700 - 1940",
+      "1000 - 1120",
+      "1700 - 1850",
+      "1600 - 1720",
+      "1130 - 1250",
+      "1000 - 1240",
+      "1900 - 2240",
+      "1230 - 1345",
+      "1600 - 1715",
+      "1530 - 1720",
+      "1400 - 1530",
+      "1200 - 1350",
+      "1930 - 2050",
+      "1400 - 1720",
+      "1700 - 1750",
+      "1100 - 1450",
+      "1500 - 1850",
+      "1600 - 1850",
+      "0800 - 1150",
+      "1730 - 1900",
+      "1000 - 1130",
+      "0930 - 1020",
+      "1830 - 2030",
+      "1830 - 2020",
+      "1630 - 1750",
+      "1530 - 1645",
+      "1100 - 1215",
+      "1400 - 1515",
+      "1700 - 1815",
+      "1830 - 1945",
+      "0930 - 1045",
+      "1800 - 2100",
+      "0800 - 0850",
+      "1400 - 1750",
+      "1900 - 2050",
+      "1330 - 1450",
+      "1000 - 2000",
+      "1600 - 1740",
+      "1230 - 1420",
+      "1500 - 1730",
+      "1500 - 1720",
+      "1530 - 1800",
+      "1630 - 1745",
+      "1630 - 1730",
+      "1900 - 2020",
+      "1900 - 2000",
+      "1700 - 1800",
+      "1000 - 1250",
+      "0830 - 1050",
+      "1400 - 1600",
+      "1300 - 1415",
+      "1600 - 1700",
+      "1300 - 1600",
+      "1400 - 1630",
+      "1000 - 1220",
+      "1300 - 1430",
+      "1200 - 1550",
+      "1830 - 2130",
+      "1830 - 2100",
+      "0930 - 1120",
+      "1230 - 1520",
+      "0800 - 1050",
+      "0900 - 1120",
+      "1630 - 1920",
+      "1800 - 1920",
+      "1200 - 1650",
+      "1300 - 1530",
+      "0900 - 1030",
+      "1035 - 1150",
+      "1500 - 1630",
+      "1430 - 1630",
+      "1035 - 1200",
+      "1035 - 1230",
+      "0920 - 1050"
+    ],
     "dateRanges": [],
-    "scheduleTypes": [],
+    "scheduleTypes": [
+      "Lecture-Discussion",
+      "Online",
+      "Independent Study",
+      "Seminar",
+      "Laboratory",
+      "Lecture",
+      "Discussion/Recitation",
+      "Online Lecture",
+      "Research",
+      "Internship",
+      "Travel",
+      "Packaged Section",
+      "Online Discussion",
+      "Conference",
+      "Study Abroad",
+      "Online Lab",
+      "Studio",
+      "Laboratory-Discussion",
+      "Practice",
+      "Quiz",
+      "Online Lecture-Discussion"
+    ],
     "campuses": [],
     "attributes": [],
     "restrictions": [],
     "gradeBases": [],
-    "locations": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.1035833,
+        "long": -88.228405
+      },
+      {
+        "lat": 40.0995003,
+        "long": -88.223104
+      },
+      {
+        "lat": 40.10628,
+        "long": -88.22621
+      },
+      {
+        "lat": 40.1072225,
+        "long": -88.2262016
+      },
+      {
+        "lat": 40.106778040727896,
+        "long": -88.2194617156191
+      },
+      {
+        "lat": 40.104794,
+        "long": -88.224264
+      },
+      {
+        "lat": 40.103627234541904,
+        "long": -88.22601765311099
+      },
+      {
+        "lat": 40.103620555545135,
+        "long": -88.22982720445013
+      },
+      {
+        "lat": 40.1028373,
+        "long": -88.2251326
+      },
+      {
+        "lat": 40.1109722,
+        "long": -88.2282631
+      },
+      {
+        "lat": 40.1034533,
+        "long": -88.2327596
+      },
+      {
+        "lat": 40.10944320239664,
+        "long": -88.22602522743233
+      },
+      {
+        "lat": 40.108419421661715,
+        "long": -88.2261156301609
+      },
+      {
+        "lat": 40.1033599,
+        "long": -88.2292111
+      },
+      {
+        "lat": 40.1110937,
+        "long": -88.2232348
+      },
+      {
+        "lat": 40.1149521,
+        "long": -88.2267561
+      },
+      {
+        "lat": 40.092875494224195,
+        "long": -88.22082220247309
+      },
+      {
+        "lat": 40.105732,
+        "long": -88.2281018
+      },
+      {
+        "lat": 40.1065684,
+        "long": -88.2281746
+      },
+      {
+        "lat": 40.107534,
+        "long": -88.2281548
+      },
+      {
+        "lat": 40.103587,
+        "long": -88.230606
+      },
+      {
+        "lat": 40.11171215875622,
+        "long": -88.22530849701589
+      },
+      {
+        "lat": 40.1047599,
+        "long": -88.2319514
+      },
+      {
+        "lat": 40.111691,
+        "long": -88.2242511
+      },
+      {
+        "lat": 40.1022093629303,
+        "long": -88.22800864058527
+      },
+      {
+        "lat": 40.1020773,
+        "long": -88.2296394
+      },
+      {
+        "lat": 40.11246109008789,
+        "long": -88.22831726074219
+      },
+      {
+        "lat": 40.101862,
+        "long": -88.231737
+      },
+      {
+        "lat": 40.1083446,
+        "long": -88.2282555
+      },
+      {
+        "lat": 40.10783362157985,
+        "long": -88.22476189569741
+      },
+      {
+        "lat": 40.10755766472843,
+        "long": -88.22995430218522
+      },
+      {
+        "lat": 40.110811306674734,
+        "long": -88.2248467072371
+      },
+      {
+        "lat": 40.1131317,
+        "long": -88.2264552
+      },
+      {
+        "lat": 40.1149296,
+        "long": -88.2280589
+      },
+      {
+        "lat": 40.108570819242026,
+        "long": -88.22518453938676
+      },
+      {
+        "lat": 40.1035872,
+        "long": -88.2306061
+      },
+      {
+        "lat": 40.102726858556835,
+        "long": -88.23259991223857
+      },
+      {
+        "lat": 40.1108856,
+        "long": -88.2269806
+      },
+      {
+        "lat": 40.107811,
+        "long": -88.2260761
+      },
+      {
+        "lat": 40.11085653938169,
+        "long": -88.22609810215927
+      },
+      {
+        "lat": 40.11397164321797,
+        "long": -88.2265192685827
+      },
+      {
+        "lat": 40.10593795776367,
+        "long": -88.2270736694336
+      },
+      {
+        "lat": 40.10127390836906,
+        "long": -88.2226073524728
+      },
+      {
+        "lat": 40.11380515934119,
+        "long": -88.22490788390387
+      },
+      {
+        "lat": 40.105587640130146,
+        "long": -88.22025111416733
+      },
+      {
+        "lat": 40.10802885201532,
+        "long": -88.22239700364068
+      }
+    ],
     "finalDates": [],
     "finalTimes": []
   }

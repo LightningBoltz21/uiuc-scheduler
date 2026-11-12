@@ -1,186 +1,1894 @@
 {
   "subject": "EALC",
-  "scrapedAt": 1791782386574,
-  "courseCount": 24,
+  "scrapedAt": 1794503377343,
+  "courseCount": 26,
   "courses": {
     "EALC 122": [
-      "EALC 122",
-      {},
+      "History East Asian Religions",
+      {
+        "F": [
+          "39187",
+          [
+            [
+              14,
+              "TR",
+              "170 Wohlers Hall",
+              8,
+              [
+                "Callahan, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "EALC 199": [
-      "EALC 199",
-      {},
-      [],
-      null,
+      "Introduction to East Asian religious traditions; emphasizes the ideas of Confucianism, Taoism, and Buddhism in China and their historical interactions.",
       []
     ],
     "EALC 120": [
-      "EALC 120",
-      {},
+      "East Asian Civilizations",
+      {
+        "B": [
+          "73218",
+          [
+            [
+              10,
+              "MWF",
+              "169 Davenport Hall",
+              4,
+              [
+                "Li, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as HIST 120. See HIST 120.",
+      []
+    ],
+    "EALC 199": [
+      "Undergraduate Open Seminar",
+      {
+        "10596": [
+          "10596",
+          [
+            [
+              4,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
       null,
       []
     ],
     "EALC 230": [
-      "EALC 230",
-      {},
+      "Popular Cultures of Contemporary East Asia",
+      {
+        "AD7": [
+          "74598",
+          [
+            [
+              8,
+              "R",
+              "242 Armory",
+              23,
+              [
+                "Chen, J",
+                "Jiang, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "ADB": [
+          "74594",
+          [
+            [
+              11,
+              "R",
+              "243 Armory",
+              23,
+              [
+                "Chen, J",
+                "Jiang, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "ADC": [
+          "74595",
+          [
+            [
+              28,
+              "F",
+              "G30 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Bian, R",
+                "Chen, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "ADD": [
+          "74596",
+          [
+            [
+              16,
+              "F",
+              "G30 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Bian, R",
+                "Chen, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "ADE": [
+          "74597",
+          [
+            [
+              10,
+              "F",
+              "214 Davenport Hall",
+              4,
+              [
+                "Chen, J",
+                "Li, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "ADF": [
+          "75807",
+          [
+            [
+              10,
+              "R",
+              "242 Armory",
+              23,
+              [
+                "Chen, J",
+                "Jiang, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "ADG": [
+          "74599",
+          [
+            [
+              8,
+              "F",
+              "113 Davenport Hall",
+              4,
+              [
+                "Chen, J",
+                "Li, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "ADH": [
+          "75808",
+          [
+            [
+              11,
+              "F",
+              "1024 Lincoln Hall",
+              19,
+              [
+                "Chen, J",
+                "Li, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "ADI": [
+          "75809",
+          [
+            [
+              11,
+              "F",
+              "G20 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Bian, R",
+                "Chen, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "GP": [
+          "70581",
+          [
+            [
+              22,
+              "MW",
+              "149 National Soybean Res Ctr",
+              43,
+              [
+                "Arkenstone, Q"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "EALC 240": [
-      "EALC 240",
-      {},
-      [],
-      null,
+      "An introduction to the popular cultures and subcultures of China, Korea, and Japan through exposure to popular films, music, anime, games, and everyday practices. Already hugely popular in its home countries, East Asian popular culture has become familiar to American audiences through films, video games, food, toys, and comic books. The course explores the historical, social, cultural, and economic roots of this global appeal, while gauging popular culture's impact on national identity, gender, and lifestyle. No knowledge of East Asian languages is required.",
       []
     ],
     "EALC 250": [
-      "EALC 250",
-      {},
+      "Intro to Japanese Culture",
+      {
+        "AD3": [
+          "46155",
+          [
+            [
+              8,
+              "F",
+              "217 Gregory Hall",
+              18,
+              [
+                "Gunji, N",
+                "Ren, X"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "AD4": [
+          "46156",
+          [
+            [
+              22,
+              "F",
+              "113 Davenport Hall",
+              4,
+              [
+                "Gunji, N",
+                "Ren, X"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "AD6": [
+          "46161",
+          [
+            [
+              11,
+              "F",
+              "309 English Building",
+              20,
+              [
+                "Gunji, N",
+                "Ren, X"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "AD7": [
+          "46162",
+          [
+            [
+              8,
+              "F",
+              "315 Gregory Hall",
+              18,
+              [
+                "Gunji, N",
+                "Lu, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "AD8": [
+          "46163",
+          [
+            [
+              11,
+              "R",
+              "327 Gregory Hall",
+              18,
+              [
+                "Gunji, N",
+                "Lu, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "AD9": [
+          "46164",
+          [
+            [
+              10,
+              "R",
+              "243 Armory",
+              23,
+              [
+                "Gunji, N",
+                "Lu, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "46121",
+          [
+            [
+              8,
+              "MW",
+              "1090 Lincoln Hall",
+              19,
+              [
+                "Gunji, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Topical introduction to Japanese cultural and aesthetic life with attention to cultural and aesthetic patterns as they are reflected in literature, language, and the arts.",
       []
     ],
-    "EALC 275": [
-      "EALC 275",
-      {},
+    "EALC 240": [
+      "Chinese Civilization",
+      {
+        "A": [
+          "46117",
+          [
+            [
+              8,
+              "MW",
+              "112 Transportation Building",
+              22,
+              [
+                "Li, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "78806",
+          [
+            [
+              10,
+              "F",
+              "241 Armory",
+              23,
+              [
+                "Li, Y",
+                "Wu, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "C": [
+          "78843",
+          [
+            [
+              8,
+              "F",
+              "243 Armory",
+              23,
+              [
+                "Li, Y",
+                "Wu, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "D": [
+          "78844",
+          [
+            [
+              11,
+              "F",
+              "243 Armory",
+              23,
+              [
+                "Li, Y",
+                "Wu, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Introduction to the historical development of Chinese civilization. Emphasis will be on broad themes and the connections among cultural values, women and gender, social institutions, political structures, and contacts with outsiders. Visual and literary evidence will be stressed.",
+      []
+    ],
+    "EALC 276": [
+      "Asian Film Genres",
+      {
+        "J": [
+          "65127",
+          [
+            [
+              70,
+              "TR",
+              "147 Armory",
+              23,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as CWL 276 and ENGL 276. See ENGL 276.",
       []
     ],
     "EALC 288": [
-      "EALC 288",
-      {},
+      "Contemporary East Asia",
+      {
+        "A": [
+          "62020",
+          [
+            [
+              0,
+              "MW",
+              "321 Gregory Hall",
+              18,
+              [
+                "He, B",
+                "Huo, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Introduction to aspects of daily life in East Asia in relation to local and extra-local political and economic structures and transformations.",
+      []
+    ],
+    "EALC 275": [
+      "Masterpieces of East Asian Lit",
+      {
+        "AD2": [
+          "46131",
+          [
+            [
+              10,
+              "F",
+              "1051 Lincoln Hall",
+              19,
+              [
+                "Arkenstone, Q",
+                "Zhang, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "AD4": [
+          "46135",
+          [
+            [
+              8,
+              "F",
+              "1024 Lincoln Hall",
+              19,
+              [
+                "Arkenstone, Q",
+                "Zhang, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "AD6": [
+          "46139",
+          [
+            [
+              11,
+              "F",
+              "36 English Building",
+              20,
+              [
+                "Arkenstone, Q",
+                "Zhang, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "AL": [
+          "33152",
+          [
+            [
+              28,
+              "MW",
+              "1010 Wymer Hall",
+              0,
+              [
+                "Arkenstone, Q"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "[IAI Code: H3908N] A wide-ranging introduction to the literatures of traditional China, Korea, and Japan. Selections from novels, plays, and poems are studied to gain insight into the cultures that produced them and to hone skills in textual analyses. Explores how influential texts have been repackaged and reinterpreted for modern audiences in media such as film and manga.",
       []
     ],
     "EALC 305": [
-      "EALC 305",
-      {},
+      "Japan Lit in Translation I",
+      {
+        "C": [
+          "57245",
+          [
+            [
+              32,
+              "TR",
+              "386 Armory",
+              23,
+              [
+                "Arkenstone, Q"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Survey of Japanese literature from earliest times to 1600; readings in prose, poetry, and drama in English translation.",
       []
     ],
     "EALC 320": [
-      "EALC 320",
-      {},
+      "Sacred Sites in Japan",
+      {
+        "NG": [
+          "74604",
+          [
+            [
+              14,
+              "MW",
+              "G46 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Gunji, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "An interdisciplinary study of major sites in Japan that are deemed sacred, and of their visual culture. The art and architecture of sacred sites are examined and positioned within a variety of contexts, such as their cultural, religious, and socio-political significance. It will be explored how these art and architecture have been received and used, and how they and perceptions of the sites have shaped each other.",
       []
     ],
     "EALC 343": [
-      "EALC 343",
-      {},
+      "Gov & Pol of China",
+      {
+        "A": [
+          "48801",
+          [
+            [
+              94,
+              "MW",
+              "223 Gregory Hall",
+              18,
+              [
+                "Yang, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Registration is restricted to Political Science majors.",
       []
     ],
     "EALC 360": [
-      "EALC 360",
-      {},
+      "Seminar in Korean Studies",
+      {
+        "BTA": [
+          "77328",
+          [
+            [
+              66,
+              "TR",
+              "ONLINE",
+              0,
+              [
+                "Blazek, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Survey of Korean history, philosophy, religion, economy, art, literature, and culture across per-modern, modern and contemporary periods.",
       []
     ],
     "EALC 359": [
-      "EALC 359",
-      {},
+      "Government and Politics of East Asia",
+      {
+        "A": [
+          "78131",
+          [
+            [
+              24,
+              "TR",
+              "115 David Kinley Hall",
+              1,
+              [
+                "Nagashima, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
       null,
       []
     ],
     "EALC 361": [
-      "EALC 361",
-      {},
+      "Gender and Women in East Asia",
+      {
+        "A": [
+          "70706",
+          [
+            [
+              63,
+              "TR",
+              "1051 Lincoln Hall",
+              19,
+              [
+                "Shao, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "EALC 403": [
-      "EALC 403",
-      {},
-      [],
-      null,
-      []
-    ],
-    "EALC 398": [
-      "EALC 398",
-      {},
-      [],
-      null,
+      "Interdisciplinary inquiry into the cultural and social patterns that have shaped women's lives in China, Japan, and Korea.",
       []
     ],
     "EALC 390": [
-      "EALC 390",
-      {},
+      "Individual Study",
+      {
+        "10597": [
+          "10597",
+          [
+            [
+              4,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Directed readings in the languages and literatures of East Asia. The area selected depends on the student's interest.",
+      []
+    ],
+    "EALC 398": [
+      "Colloquium in EALC",
+      {
+        "BH": [
+          "69304",
+          [
+            [
+              133,
+              "T",
+              "G58 Literatures, Cultures, & Ling",
+              3,
+              [
+                "He, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "See online schedule for current topics.",
+      []
+    ],
+    "EALC 403": [
+      "Word and Image in Chinese Art",
+      {
+        "A3": [
+          "40432",
+          [
+            [
+              63,
+              "MW",
+              "316 Art and Design Building",
+              0,
+              [
+                "Burkus-Chasson, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "G": [
+          "40772",
+          [
+            [
+              63,
+              "MW",
+              "316 Art and Design Building",
+              0,
+              [
+                "Burkus-Chasson, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as ARTH 403. See ARTH 403.",
       []
     ],
     "EALC 490": [
-      "EALC 490",
-      {},
+      "Individual Study",
+      {
+        "10599": [
+          "10599",
+          [
+            [
+              4,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          12,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "BTA": [
+          "17634",
+          [
+            [
+              134,
+              "WF",
+              "TBA",
+              0,
+              [
+                "Blazek, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          12,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Supervised individualized study of a topic not covered by regular course offerings. The topic must be approved by the instructor.",
+      []
+    ],
+    "EALC 495": [
+      "Topics in Asian Religions",
+      {
+        "AN": [
+          "40483",
+          [
+            [
+              32,
+              "MW",
+              "429 Armory",
+              23,
+              [
+                "Tosato, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "AN3": [
+          "79195",
+          [
+            [
+              14,
+              "TR",
+              "336 Davenport Hall",
+              4,
+              [
+                "Newman, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "AN4": [
+          "79196",
+          [
+            [
+              14,
+              "TR",
+              "336 Davenport Hall",
+              4,
+              [
+                "Newman, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "AT": [
+          "40482",
+          [
+            [
+              32,
+              "MW",
+              "429 Armory",
+              23,
+              [
+                "Tosato, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "AT1": [
+          "38620",
+          [
+            [
+              1,
+              "TR",
+              "163 Noyes Laboratory",
+              13,
+              [
+                "Tosato, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "AT2": [
+          "38621",
+          [
+            [
+              1,
+              "TR",
+              "163 Noyes Laboratory",
+              13,
+              [
+                "Tosato, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "CC": [
+          "65595",
+          [
+            [
+              5,
+              "F",
+              "1118 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Callahan, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "CC1": [
+          "65596",
+          [
+            [
+              5,
+              "F",
+              "1118 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Callahan, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
       null,
       []
     ],
     "EALC 512": [
-      "EALC 512",
-      {},
+      "Applied LiteraryTranslation II",
+      {
+        "A": [
+          "72205",
+          [
+            [
+              99,
+              "M",
+              "G96 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Phillips, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "EALC 495": [
-      "EALC 495",
-      {},
-      [],
-      null,
+      "Same as CWL 512, GER 512, SLAV 502, and TRST 502. See TRST 502.",
       []
     ],
     "EALC 520": [
-      "EALC 520",
-      {},
+      "Problems in Chinese History",
+      {
+        "A": [
+          "32416",
+          [
+            [
+              51,
+              "T",
+              "1134 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Li, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Same as HIST 520. See HIST 520.",
       []
     ],
     "EALC 550": [
-      "EALC 550",
-      {},
+      "Seminar in EALC",
+      {
+        "BH": [
+          "33174",
+          [
+            [
+              133,
+              "T",
+              "G58 Literatures, Cultures, & Ling",
+              3,
+              [
+                "He, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Seminar on selected topics. Topic varies with instructor.",
       []
     ],
-    "EALC 588": [
-      "EALC 588",
-      {},
+    "EALC 584": [
+      "Theories in Second Language Acquisition",
+      {
+        "G": [
+          "35648",
+          [
+            [
+              36,
+              "W",
+              "1032 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Jegerski, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Same as CI 584, EPSY 563, FR 584, GER 584, ITAL 584, LING 584, PORT 584, and SPAN 584. See SPAN 584.",
       []
     ],
     "EALC 590": [
-      "EALC 590",
-      {},
+      "Individual Study and Research",
+      {
+        "10003": [
+          "10003",
+          [
+            [
+              4,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          12,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "BT": [
+          "49487",
+          [
+            [
+              135,
+              "W",
+              "ONLINE",
+              0,
+              [
+                "Blazek, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          12,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Supervised individual investigation or study of a topic not covered by regular course offerings. The topic selected by the student and the proposed plan of study must be approved by the adviser and the instructor.",
+      []
+    ],
+    "EALC 588": [
+      "Sem Second Lang Learn",
+      {
+        "SM": [
+          "35692",
+          [
+            [
+              1,
+              "TR",
+              "TBA",
+              0,
+              [
+                "Montrul, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "WM": [
+          "35687",
+          [
+            [
+              0,
+              "TR",
+              "G8A Literatures, Cultures, & Ling",
+              3,
+              [
+                "Sadler, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "XY": [
+          "57510",
+          [
+            [
+              1,
+              "TR",
+              "G3 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Yan, X"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as FR 588, GER 588, ITAL 588, LING 588, PORT 588, and SPAN 588. See SPAN 588.",
       []
     ]
   },
   "caches": {
-    "periods": [],
+    "periods": [
+      "1100 - 1220",
+      "1230 - 1350",
+      "1500 - 1620",
+      "1700 - 1950",
+      "ARRANGED",
+      "1300 - 1550",
+      "0800 - 0950",
+      "1500 - 1650",
+      "1100 - 1150",
+      "0900 - 0950",
+      "1000 - 1050",
+      "1300 - 1350",
+      "1300 - 1420",
+      "1530 - 1650",
+      "1400 - 1520",
+      "1530 - 1620",
+      "1500 - 1550",
+      "0730 - 0920",
+      "1100 - 1250",
+      "1300 - 1450",
+      "0900 - 1050",
+      "1630 - 1720",
+      "1400 - 1450",
+      "1200 - 1250",
+      "0930 - 1050",
+      "1830 - 1950",
+      "1600 - 1730",
+      "0900 - 1020",
+      "1600 - 1650",
+      "1400 - 1550",
+      "1230 - 1320",
+      "1100 - 1350",
+      "1200 - 1320",
+      "1200 - 1450",
+      "1500 - 1750",
+      "0930 - 1220",
+      "1400 - 1650",
+      "1100 - 1320",
+      "1000 - 1150",
+      "0900 - 1150",
+      "1300 - 1750",
+      "1800 - 2050",
+      "1700 - 1820",
+      "1530 - 1820",
+      "1430 - 1520",
+      "1030 - 1120",
+      "1130 - 1220",
+      "0800 - 0920",
+      "1300 - 1650",
+      "1330 - 1750",
+      "1300 - 1620",
+      "1300 - 1520",
+      "1800 - 1950",
+      "1600 - 1750",
+      "1300 - 1540",
+      "1400 - 1640",
+      "0900 - 1140",
+      "0930 - 1210",
+      "1600 - 1840",
+      "1700 - 1940",
+      "1000 - 1120",
+      "1700 - 1850",
+      "1600 - 1720",
+      "1130 - 1250",
+      "1000 - 1240",
+      "1900 - 2240",
+      "1230 - 1345",
+      "1600 - 1715",
+      "1530 - 1720",
+      "1400 - 1530",
+      "1200 - 1350",
+      "1930 - 2050",
+      "1400 - 1720",
+      "1700 - 1750",
+      "1100 - 1450",
+      "1500 - 1850",
+      "1600 - 1850",
+      "0800 - 1150",
+      "1730 - 1900",
+      "1000 - 1130",
+      "0930 - 1020",
+      "1830 - 2030",
+      "1830 - 2020",
+      "1630 - 1750",
+      "1530 - 1645",
+      "1100 - 1215",
+      "1400 - 1515",
+      "1700 - 1815",
+      "1830 - 1945",
+      "0930 - 1045",
+      "1800 - 2100",
+      "0800 - 0850",
+      "1400 - 1750",
+      "1900 - 2050",
+      "1330 - 1450",
+      "1000 - 2000",
+      "1600 - 1740",
+      "1230 - 1420",
+      "1500 - 1730",
+      "1500 - 1720",
+      "1530 - 1800",
+      "1630 - 1745",
+      "1630 - 1730",
+      "1900 - 2020",
+      "1900 - 2000",
+      "1700 - 1800",
+      "1000 - 1250",
+      "0830 - 1050",
+      "1400 - 1600",
+      "1300 - 1415",
+      "1600 - 1700",
+      "1300 - 1600",
+      "1400 - 1630",
+      "1000 - 1220",
+      "1300 - 1430",
+      "1200 - 1550",
+      "1830 - 2130",
+      "1830 - 2100",
+      "0930 - 1120",
+      "1230 - 1520",
+      "0800 - 1050",
+      "0900 - 1120",
+      "1630 - 1920",
+      "1800 - 1920",
+      "1200 - 1650",
+      "1300 - 1530",
+      "0900 - 1030",
+      "1035 - 1150",
+      "1500 - 1630",
+      "1430 - 1630",
+      "1035 - 1200",
+      "1035 - 1230",
+      "0920 - 1050",
+      "1400 - 1620",
+      "1145 - 1305",
+      "1700 - 2000"
+    ],
     "dateRanges": [],
-    "scheduleTypes": [],
+    "scheduleTypes": [
+      "Lecture-Discussion",
+      "Online",
+      "Independent Study",
+      "Seminar",
+      "Laboratory",
+      "Lecture",
+      "Discussion/Recitation",
+      "Online Lecture",
+      "Research",
+      "Internship",
+      "Travel",
+      "Packaged Section",
+      "Online Discussion",
+      "Conference",
+      "Study Abroad",
+      "Online Lab",
+      "Studio",
+      "Laboratory-Discussion",
+      "Practice",
+      "Quiz",
+      "Online Lecture-Discussion"
+    ],
     "campuses": [],
     "attributes": [],
     "restrictions": [],
     "gradeBases": [],
-    "locations": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.1035833,
+        "long": -88.228405
+      },
+      {
+        "lat": 40.0995003,
+        "long": -88.223104
+      },
+      {
+        "lat": 40.10628,
+        "long": -88.22621
+      },
+      {
+        "lat": 40.1072225,
+        "long": -88.2262016
+      },
+      {
+        "lat": 40.106778040727896,
+        "long": -88.2194617156191
+      },
+      {
+        "lat": 40.104794,
+        "long": -88.224264
+      },
+      {
+        "lat": 40.103627234541904,
+        "long": -88.22601765311099
+      },
+      {
+        "lat": 40.103620555545135,
+        "long": -88.22982720445013
+      },
+      {
+        "lat": 40.1028373,
+        "long": -88.2251326
+      },
+      {
+        "lat": 40.1109722,
+        "long": -88.2282631
+      },
+      {
+        "lat": 40.1034533,
+        "long": -88.2327596
+      },
+      {
+        "lat": 40.10944320239664,
+        "long": -88.22602522743233
+      },
+      {
+        "lat": 40.108419421661715,
+        "long": -88.2261156301609
+      },
+      {
+        "lat": 40.1033599,
+        "long": -88.2292111
+      },
+      {
+        "lat": 40.1110937,
+        "long": -88.2232348
+      },
+      {
+        "lat": 40.1149521,
+        "long": -88.2267561
+      },
+      {
+        "lat": 40.092875494224195,
+        "long": -88.22082220247309
+      },
+      {
+        "lat": 40.105732,
+        "long": -88.2281018
+      },
+      {
+        "lat": 40.1065684,
+        "long": -88.2281746
+      },
+      {
+        "lat": 40.107534,
+        "long": -88.2281548
+      },
+      {
+        "lat": 40.103587,
+        "long": -88.230606
+      },
+      {
+        "lat": 40.11171215875622,
+        "long": -88.22530849701589
+      },
+      {
+        "lat": 40.1047599,
+        "long": -88.2319514
+      },
+      {
+        "lat": 40.111691,
+        "long": -88.2242511
+      },
+      {
+        "lat": 40.1022093629303,
+        "long": -88.22800864058527
+      },
+      {
+        "lat": 40.1020773,
+        "long": -88.2296394
+      },
+      {
+        "lat": 40.11246109008789,
+        "long": -88.22831726074219
+      },
+      {
+        "lat": 40.101862,
+        "long": -88.231737
+      },
+      {
+        "lat": 40.1083446,
+        "long": -88.2282555
+      },
+      {
+        "lat": 40.10783362157985,
+        "long": -88.22476189569741
+      },
+      {
+        "lat": 40.10755766472843,
+        "long": -88.22995430218522
+      },
+      {
+        "lat": 40.110811306674734,
+        "long": -88.2248467072371
+      },
+      {
+        "lat": 40.1131317,
+        "long": -88.2264552
+      },
+      {
+        "lat": 40.1149296,
+        "long": -88.2280589
+      },
+      {
+        "lat": 40.108570819242026,
+        "long": -88.22518453938676
+      },
+      {
+        "lat": 40.1035872,
+        "long": -88.2306061
+      },
+      {
+        "lat": 40.102726858556835,
+        "long": -88.23259991223857
+      },
+      {
+        "lat": 40.1108856,
+        "long": -88.2269806
+      },
+      {
+        "lat": 40.107811,
+        "long": -88.2260761
+      },
+      {
+        "lat": 40.11085653938169,
+        "long": -88.22609810215927
+      },
+      {
+        "lat": 40.11397164321797,
+        "long": -88.2265192685827
+      },
+      {
+        "lat": 40.10593795776367,
+        "long": -88.2270736694336
+      },
+      {
+        "lat": 40.10127390836906,
+        "long": -88.2226073524728
+      },
+      {
+        "lat": 40.11380515934119,
+        "long": -88.22490788390387
+      },
+      {
+        "lat": 40.105587640130146,
+        "long": -88.22025111416733
+      },
+      {
+        "lat": 40.10802885201532,
+        "long": -88.22239700364068
+      }
+    ],
     "finalDates": [],
     "finalTimes": []
   }

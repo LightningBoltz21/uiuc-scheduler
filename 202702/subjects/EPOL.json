@@ -1,347 +1,1166 @@
 {
   "subject": "EPOL",
-  "scrapedAt": 1791782403418,
-  "courseCount": 47,
+  "scrapedAt": 1794503390572,
+  "courseCount": 14,
   "courses": {
-    "EPOL 215": [
-      "EPOL 215",
-      {},
-      [],
-      null,
-      []
-    ],
     "EPOL 270": [
-      "EPOL 270",
-      {},
+      "Leading Organizations Inclusively: The Study and Practice of Critical Human Resource Development",
+      {
+        "A": [
+          "78989",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Khan, S",
+                "Kwon, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Organizational leaders and human resource professionals of today are confronted with the challenge of effectively managing an increasingly diverse workforce and creating an inclusive workplace for all. This necessitates critical approaches to diagnosing and developing organizational policies, procedures, and practices. This course introduces students to the fundamentals of the study and practice of critical human resource development (HRD) and the learning, change, and organizing strategies necessary in actualizing social justice aims in the workplace.",
       []
     ],
     "EPOL 280": [
-      "EPOL 280",
-      {},
+      "Education & Climate Hope",
+      {
+        "A": [
+          "78162",
+          [
+            [
+              24,
+              "MW",
+              "382 Education Building",
+              26,
+              [
+                "Lindgren, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Students learning about mass extinction, dying oceans, and climate injustice often struggle with feelings of anxiety, guilt, or despair. Few teachers know how to teach about climate change while supporting their students’ well-being and hopes for the future. As terms like \"eco-anxiety\" become common, sustainability education is beginning to acknowledge the role of emotions. Students will explore regenerative paradigms and actively co-create just futures where humans learn and all species thrive on a warming planet.",
       []
     ],
-    "EPOL 310": [
-      "EPOL 310",
-      {},
+    "EPOL 215": [
+      "Introduction to Diversity, Equity, and Inclusion in Educational and Workplace Environments",
+      {
+        "B": [
+          "78834",
+          [
+            [
+              0,
+              "MW",
+              "323 Education Building",
+              26,
+              [
+                "Huang, W",
+                "Kang, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Exploring concepts and issues related to diversity, equity, and inclusion within educational and workplace environments. Of particular importance will be examining racialized constructs in these settings. Additional course emphases include helping students understand historical contexts and emerging trends in the field while also recognizing and applying these ideas within professional situations.",
       []
     ],
     "EPOL 402": [
-      "EPOL 402",
-      {},
+      "Asian American Education",
+      {
+        "A": [
+          "78828",
+          [
+            [
+              5,
+              "W",
+              "323 Education Building",
+              26,
+              [
+                "Pak, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "78827",
+          [
+            [
+              5,
+              "W",
+              "323 Education Building",
+              26,
+              [
+                "Pak, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Examination and analysis of Asian American education from the late 1800's to the present.",
+      []
+    ],
+    "EPOL 390": [
+      "Undergraduate Advanced Seminar",
+      {
+        "EJP": [
+          "78132",
+          [
+            [
+              19,
+              "F",
+              "TBA",
+              0,
+              [
+                "Ginsburg, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          9,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Advanced undergraduate seminar that includes historical, philosophical, legal, and social science perspectives on education.",
+      []
+    ],
+    "EPOL 310": [
+      "Race and Cultural Diversity",
+      {
+        "D1": [
+          "72223",
+          [
+            [
+              29,
+              "R",
+              "320 Mumford Hall",
+              7,
+              [
+                "Moton, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "D2": [
+          "72224",
+          [
+            [
+              29,
+              "R",
+              "42A Education Building",
+              26,
+              [
+                "Moton, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "D3": [
+          "75193",
+          [
+            [
+              29,
+              "R",
+              "313 Mumford Hall",
+              7,
+              [
+                "Moton, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "D4": [
+          "76828",
+          [
+            [
+              29,
+              "R",
+              "136 Davenport Hall",
+              4,
+              [
+                "Moton, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "D5": [
+          "76832",
+          [
+            [
+              29,
+              "R",
+              "243 Armory",
+              23,
+              [
+                "Moton, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "L": [
+          "72225",
+          [
+            [
+              29,
+              "T",
+              "2 Education Building",
+              26,
+              [
+                "Moton, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Study of race and cultural diversity from Colonial era to present; the evolution of racial ideology in an ethnically heterogeneous society; the impact of race on the structures and operations of fundamental social institutions; the role of race in contemporary politics and popular culture.",
+      []
+    ],
+    "EPOL 404": [
+      "History of American Indian Education",
+      {
+        "A": [
+          "76913",
+          [
+            [
+              3,
+              "T",
+              "ONLINE",
+              0,
+              [
+                "Johnson, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "76914",
+          [
+            [
+              3,
+              "T",
+              "ONLINE",
+              0,
+              [
+                "Johnson, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
       null,
       []
     ],
     "EPOL 403": [
-      "EPOL 403",
-      {},
+      "Historical and Social Barriers",
+      {
+        "A": [
+          "72481",
+          [
+            [
+              41,
+              "W",
+              "ONLINE",
+              0,
+              [
+                "Ransom, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "73375",
+          [
+            [
+              41,
+              "W",
+              "ONLINE",
+              0,
+              [
+                "Ransom, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "72482",
+          [
+            [
+              41,
+              "W",
+              "ONLINE",
+              0,
+              [
+                "Ransom, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "EPOL 404": [
-      "EPOL 404",
-      {},
-      [],
-      null,
-      []
-    ],
-    "EPOL 410": [
-      "EPOL 410",
-      {},
-      [],
-      null,
+      "Examines the relationship between ability, race, class, and gender to citizenship and schooling. Particular emphasis is placed on how the construction of \"citizenship\" has been used as a tool to further deny equal participation in the public sphere such as schools. To that end, an application of historical understanding of social barriers to educational access is analyzed from the Colonial period to the present.",
       []
     ],
     "EPOL 409": [
-      "EPOL 409",
-      {},
+      "Sociology of Education",
+      {
+        "A": [
+          "74890",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Barnett, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "74892",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Barnett, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "74891",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Barnett, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Education as a social process in various cultures and historical periods, emphasizing current systems in Westernized countries.",
+      []
+    ],
+    "EPOL 410": [
+      "Racial and Ethnic Families",
+      {
+        "A": [
+          "72485",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Barnett, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "72486",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Barnett, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "74827",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Barnett, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Sociological examination of how gender, race, ethnicity, cultural diversity and class function in the development of diverse American families, which are important foundations of education. Primary attention will be given to African American and Hispanic families. Secondary attention will be given to Asian American, Native American and other racial and ethnic family groups.",
       []
     ],
     "EPOL 412": [
-      "EPOL 412",
-      {},
+      "Politics of Education",
+      {
+        "A": [
+          "73754",
+          [
+            [
+              41,
+              "W",
+              "ONLINE",
+              0,
+              [
+                "Adeyemo, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "73617",
+          [
+            [
+              41,
+              "W",
+              "ONLINE",
+              0,
+              [
+                "Adeyemo, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Overview of the political structure and processes through which many of the major issues in education are treated; analyzes nature of the policymaking process in education and discusses the roles of principal participants in the process of educational decision making, but focuses on fundamental recurring issues in education and the ways these issues have been resolved or not resolved by the overall system. Particular attention to the role that both the federal and state judiciary as well as legislative authority have had in shaping educational policy.",
       []
     ],
     "EPOL 413": [
-      "EPOL 413",
-      {},
+      "Economics of Education",
+      {
+        "A": [
+          "74301",
+          [
+            [
+              76,
+              "M",
+              "37 Education Building",
+              26,
+              [
+                "Hinze-Pifer, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "78830",
+          [
+            [
+              76,
+              "M",
+              "37 Education Building",
+              26,
+              [
+                "Hinze-Pifer, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Introduction to economic concepts and their application to education, including investment and consumption theories of education and the role of human capital in economic growth and development; cost-benefit analyses in education, education and the distribution of income, and manpower and educational planning.",
       []
     ],
     "EPOL 420": [
-      "EPOL 420",
-      {},
+      "Global Migration and Education",
+      {
+        "B": [
+          "74302",
+          [
+            [
+              135,
+              "R",
+              "ONLINE",
+              0,
+              [
+                "Davila, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "77759",
+          [
+            [
+              76,
+              "T",
+              "ONLINE",
+              0,
+              [
+                "Davila, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "This course will integrate contemporary global and comparative perspectives on the study of migration and formal education at the preschool, primary and secondary (P-12) levels. Students will critically examine how institutions of education around the world are shaped by migration, as well as how migrant students and their families interface with educational institutions in resettlement contexts. Specific topics will include: policy responses, curricular approaches, language(s) of instruction, teacher and learner identities, and community-school dynamics.",
       []
     ],
     "EPOL 421": [
-      "EPOL 421",
-      {},
+      "Education for Global Environmental Sustainability",
+      {
+        "A": [
+          "74939",
+          [
+            [
+              76,
+              "M",
+              "ONLINE",
+              0,
+              [
+                "Lindgren, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "74940",
+          [
+            [
+              76,
+              "M",
+              "ONLINE",
+              0,
+              [
+                "Lindgren, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "EPOL 472": [
-      "EPOL 472",
-      {},
-      [],
-      null,
-      []
-    ],
-    "EPOL 474": [
-      "EPOL 474",
-      {},
-      [],
-      null,
-      []
-    ],
-    "EPOL 471": [
-      "EPOL 471",
-      {},
-      [],
-      null,
-      []
-    ],
-    "EPOL 490": [
-      "EPOL 490",
-      {},
-      [],
-      null,
-      []
-    ],
-    "EPOL 483": [
-      "EPOL 483",
-      {},
-      [],
-      null,
-      []
-    ],
-    "EPOL 512": [
-      "EPOL 512",
-      {},
-      [],
-      null,
-      []
-    ],
-    "EPOL 517": [
-      "EPOL 517",
-      {},
-      [],
-      null,
-      []
-    ],
-    "EPOL 522": [
-      "EPOL 522",
-      {},
-      [],
-      null,
-      []
-    ],
-    "EPOL 519": [
-      "EPOL 519",
-      {},
-      [],
-      null,
-      []
-    ],
-    "EPOL 536": [
-      "EPOL 536",
-      {},
-      [],
-      null,
-      []
-    ],
-    "EPOL 528": [
-      "EPOL 528",
-      {},
-      [],
-      null,
-      []
-    ],
-    "EPOL 540": [
-      "EPOL 540",
-      {},
-      [],
-      null,
-      []
-    ],
-    "EPOL 541": [
-      "EPOL 541",
-      {},
-      [],
-      null,
-      []
-    ],
-    "EPOL 542": [
-      "EPOL 542",
-      {},
-      [],
-      null,
-      []
-    ],
-    "EPOL 548": [
-      "EPOL 548",
-      {},
-      [],
-      null,
-      []
-    ],
-    "EPOL 554": [
-      "EPOL 554",
-      {},
-      [],
-      null,
-      []
-    ],
-    "EPOL 552": [
-      "EPOL 552",
-      {},
-      [],
-      null,
-      []
-    ],
-    "EPOL 557": [
-      "EPOL 557",
-      {},
-      [],
-      null,
-      []
-    ],
-    "EPOL 559": [
-      "EPOL 559",
-      {},
-      [],
-      null,
-      []
-    ],
-    "EPOL 560": [
-      "EPOL 560",
-      {},
-      [],
-      null,
-      []
-    ],
-    "EPOL 562": [
-      "EPOL 562",
-      {},
-      [],
-      null,
-      []
-    ],
-    "EPOL 564": [
-      "EPOL 564",
-      {},
-      [],
-      null,
-      []
-    ],
-    "EPOL 570": [
-      "EPOL 570",
-      {},
-      [],
-      null,
-      []
-    ],
-    "EPOL 577": [
-      "EPOL 577",
-      {},
-      [],
-      null,
-      []
-    ],
-    "EPOL 579": [
-      "EPOL 579",
-      {},
-      [],
-      null,
-      []
-    ],
-    "EPOL 581": [
-      "EPOL 581",
-      {},
-      [],
-      null,
-      []
-    ],
-    "EPOL 586": [
-      "EPOL 586",
-      {},
-      [],
-      null,
-      []
-    ],
-    "EPOL 583": [
-      "EPOL 583",
-      {},
-      [],
-      null,
-      []
-    ],
-    "EPOL 587": [
-      "EPOL 587",
-      {},
-      [],
-      null,
-      []
-    ],
-    "EPOL 591": [
-      "EPOL 591",
-      {},
-      [],
-      null,
-      []
-    ],
-    "EPOL 590": [
-      "EPOL 590",
-      {},
-      [],
-      null,
-      []
-    ],
-    "EPOL 595": [
-      "EPOL 595",
-      {},
-      [],
-      null,
-      []
-    ],
-    "EPOL 597": [
-      "EPOL 597",
-      {},
-      [],
-      null,
-      []
-    ],
-    "EPOL 598": [
-      "EPOL 598",
-      {},
-      [],
-      null,
+      "Serves as an introduction to the field of Sustainability Education as an opportunity to promote social and environmental justice and \"sustainability\" in a globalized world. The course will cover a foundational understanding of the history, theoretical underpinnings, pedagogical approaches, and the practice of sustainability education, and related fields such as Education for Sustainable Development (ESD) and Environmental Education (EE), in terms of how they are conceptualized and implemented around the world. State and federal documents will be examined, as will global policy documents including UNESCO’s Education for Sustainable Development: A Roadmap, to better understand the purpose, design, and content of these fields and their impact on people, place, and planet. Meant to prompt curiosity and critical questioning about learning and instruction in formal and informal spaces. We will explore current definitions of sustainability, the role education plays in advancing a sustainable future, and how connections to place can promote stronger systems of education and justice. The course is organized thematically around topics such as the Rationale for Sustainability Education, Theories and Practices of Sustainability Education, Current Global and Local Policy Frameworks, and issues in Sustainability Education and Climate and Social Justice.",
       []
     ]
   },
   "caches": {
-    "periods": [],
+    "periods": [
+      "1100 - 1220",
+      "1230 - 1350",
+      "1500 - 1620",
+      "1700 - 1950",
+      "ARRANGED",
+      "1300 - 1550",
+      "0800 - 0950",
+      "1500 - 1650",
+      "1100 - 1150",
+      "0900 - 0950",
+      "1000 - 1050",
+      "1300 - 1350",
+      "1300 - 1420",
+      "1530 - 1650",
+      "1400 - 1520",
+      "1530 - 1620",
+      "1500 - 1550",
+      "0730 - 0920",
+      "1100 - 1250",
+      "1300 - 1450",
+      "0900 - 1050",
+      "1630 - 1720",
+      "1400 - 1450",
+      "1200 - 1250",
+      "0930 - 1050",
+      "1830 - 1950",
+      "1600 - 1730",
+      "0900 - 1020",
+      "1600 - 1650",
+      "1400 - 1550",
+      "1230 - 1320",
+      "1100 - 1350",
+      "1200 - 1320",
+      "1200 - 1450",
+      "1500 - 1750",
+      "0930 - 1220",
+      "1400 - 1650",
+      "1100 - 1320",
+      "1000 - 1150",
+      "0900 - 1150",
+      "1300 - 1750",
+      "1800 - 2050",
+      "1700 - 1820",
+      "1530 - 1820",
+      "1430 - 1520",
+      "1030 - 1120",
+      "1130 - 1220",
+      "0800 - 0920",
+      "1300 - 1650",
+      "1330 - 1750",
+      "1300 - 1620",
+      "1300 - 1520",
+      "1800 - 1950",
+      "1600 - 1750",
+      "1300 - 1540",
+      "1400 - 1640",
+      "0900 - 1140",
+      "0930 - 1210",
+      "1600 - 1840",
+      "1700 - 1940",
+      "1000 - 1120",
+      "1700 - 1850",
+      "1600 - 1720",
+      "1130 - 1250",
+      "1000 - 1240",
+      "1900 - 2240",
+      "1230 - 1345",
+      "1600 - 1715",
+      "1530 - 1720",
+      "1400 - 1530",
+      "1200 - 1350",
+      "1930 - 2050",
+      "1400 - 1720",
+      "1700 - 1750",
+      "1100 - 1450",
+      "1500 - 1850",
+      "1600 - 1850",
+      "0800 - 1150",
+      "1730 - 1900",
+      "1000 - 1130",
+      "0930 - 1020",
+      "1830 - 2030",
+      "1830 - 2020",
+      "1630 - 1750",
+      "1530 - 1645",
+      "1100 - 1215",
+      "1400 - 1515",
+      "1700 - 1815",
+      "1830 - 1945",
+      "0930 - 1045",
+      "1800 - 2100",
+      "0800 - 0850",
+      "1400 - 1750",
+      "1900 - 2050",
+      "1330 - 1450",
+      "1000 - 2000",
+      "1600 - 1740",
+      "1230 - 1420",
+      "1500 - 1730",
+      "1500 - 1720",
+      "1530 - 1800",
+      "1630 - 1745",
+      "1630 - 1730",
+      "1900 - 2020",
+      "1900 - 2000",
+      "1700 - 1800",
+      "1000 - 1250",
+      "0830 - 1050",
+      "1400 - 1600",
+      "1300 - 1415",
+      "1600 - 1700",
+      "1300 - 1600",
+      "1400 - 1630",
+      "1000 - 1220",
+      "1300 - 1430",
+      "1200 - 1550",
+      "1830 - 2130",
+      "1830 - 2100",
+      "0930 - 1120",
+      "1230 - 1520",
+      "0800 - 1050",
+      "0900 - 1120",
+      "1630 - 1920",
+      "1800 - 1920",
+      "1200 - 1650",
+      "1300 - 1530",
+      "0900 - 1030",
+      "1035 - 1150",
+      "1500 - 1630",
+      "1430 - 1630",
+      "1035 - 1200",
+      "1035 - 1230",
+      "0920 - 1050",
+      "1400 - 1620",
+      "1145 - 1305",
+      "1700 - 2000",
+      "1800 - 2000",
+      "1000 - 1700",
+      "1730 - 1850"
+    ],
     "dateRanges": [],
-    "scheduleTypes": [],
+    "scheduleTypes": [
+      "Lecture-Discussion",
+      "Online",
+      "Independent Study",
+      "Seminar",
+      "Laboratory",
+      "Lecture",
+      "Discussion/Recitation",
+      "Online Lecture",
+      "Research",
+      "Internship",
+      "Travel",
+      "Packaged Section",
+      "Online Discussion",
+      "Conference",
+      "Study Abroad",
+      "Online Lab",
+      "Studio",
+      "Laboratory-Discussion",
+      "Practice",
+      "Quiz",
+      "Online Lecture-Discussion",
+      "Lecture-Discussion 02/06/27"
+    ],
     "campuses": [],
     "attributes": [],
     "restrictions": [],
     "gradeBases": [],
-    "locations": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.1035833,
+        "long": -88.228405
+      },
+      {
+        "lat": 40.0995003,
+        "long": -88.223104
+      },
+      {
+        "lat": 40.10628,
+        "long": -88.22621
+      },
+      {
+        "lat": 40.1072225,
+        "long": -88.2262016
+      },
+      {
+        "lat": 40.106778040727896,
+        "long": -88.2194617156191
+      },
+      {
+        "lat": 40.104794,
+        "long": -88.224264
+      },
+      {
+        "lat": 40.103627234541904,
+        "long": -88.22601765311099
+      },
+      {
+        "lat": 40.103620555545135,
+        "long": -88.22982720445013
+      },
+      {
+        "lat": 40.1028373,
+        "long": -88.2251326
+      },
+      {
+        "lat": 40.1109722,
+        "long": -88.2282631
+      },
+      {
+        "lat": 40.1034533,
+        "long": -88.2327596
+      },
+      {
+        "lat": 40.10944320239664,
+        "long": -88.22602522743233
+      },
+      {
+        "lat": 40.108419421661715,
+        "long": -88.2261156301609
+      },
+      {
+        "lat": 40.1033599,
+        "long": -88.2292111
+      },
+      {
+        "lat": 40.1110937,
+        "long": -88.2232348
+      },
+      {
+        "lat": 40.1149521,
+        "long": -88.2267561
+      },
+      {
+        "lat": 40.092875494224195,
+        "long": -88.22082220247309
+      },
+      {
+        "lat": 40.105732,
+        "long": -88.2281018
+      },
+      {
+        "lat": 40.1065684,
+        "long": -88.2281746
+      },
+      {
+        "lat": 40.107534,
+        "long": -88.2281548
+      },
+      {
+        "lat": 40.103587,
+        "long": -88.230606
+      },
+      {
+        "lat": 40.11171215875622,
+        "long": -88.22530849701589
+      },
+      {
+        "lat": 40.1047599,
+        "long": -88.2319514
+      },
+      {
+        "lat": 40.111691,
+        "long": -88.2242511
+      },
+      {
+        "lat": 40.1022093629303,
+        "long": -88.22800864058527
+      },
+      {
+        "lat": 40.1020773,
+        "long": -88.2296394
+      },
+      {
+        "lat": 40.11246109008789,
+        "long": -88.22831726074219
+      },
+      {
+        "lat": 40.101862,
+        "long": -88.231737
+      },
+      {
+        "lat": 40.1083446,
+        "long": -88.2282555
+      },
+      {
+        "lat": 40.10783362157985,
+        "long": -88.22476189569741
+      },
+      {
+        "lat": 40.10755766472843,
+        "long": -88.22995430218522
+      },
+      {
+        "lat": 40.110811306674734,
+        "long": -88.2248467072371
+      },
+      {
+        "lat": 40.1131317,
+        "long": -88.2264552
+      },
+      {
+        "lat": 40.1149296,
+        "long": -88.2280589
+      },
+      {
+        "lat": 40.108570819242026,
+        "long": -88.22518453938676
+      },
+      {
+        "lat": 40.1035872,
+        "long": -88.2306061
+      },
+      {
+        "lat": 40.102726858556835,
+        "long": -88.23259991223857
+      },
+      {
+        "lat": 40.1108856,
+        "long": -88.2269806
+      },
+      {
+        "lat": 40.107811,
+        "long": -88.2260761
+      },
+      {
+        "lat": 40.11085653938169,
+        "long": -88.22609810215927
+      },
+      {
+        "lat": 40.11397164321797,
+        "long": -88.2265192685827
+      },
+      {
+        "lat": 40.10593795776367,
+        "long": -88.2270736694336
+      },
+      {
+        "lat": 40.10127390836906,
+        "long": -88.2226073524728
+      },
+      {
+        "lat": 40.11380515934119,
+        "long": -88.22490788390387
+      },
+      {
+        "lat": 40.105587640130146,
+        "long": -88.22025111416733
+      },
+      {
+        "lat": 40.10802885201532,
+        "long": -88.22239700364068
+      }
+    ],
     "finalDates": [],
     "finalTimes": []
   }
