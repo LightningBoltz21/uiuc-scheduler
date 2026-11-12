@@ -1,718 +1,3823 @@
 {
   "subject": "BADM",
-  "scrapedAt": 1791782267604,
-  "courseCount": 100,
+  "scrapedAt": 1794503145595,
+  "courseCount": 66,
   "courses": {
-    "BADM 210": [
-      "BADM 210",
-      {},
-      [],
-      null,
-      []
-    ],
     "BADM 199": [
-      "BADM 199",
-      {},
+      "Undergraduate Open Seminar",
+      {
+        "10398": [
+          "10398",
+          [
+            [
+              4,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
       null,
       []
     ],
     "BADM 211": [
-      "BADM 211",
-      {},
+      "Business Analytics II",
+      {
+        "A": [
+          "68638",
+          [
+            [
+              24,
+              "MW",
+              "152 Wohlers Hall",
+              8,
+              [
+                "Allu Rakesh, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "68639",
+          [
+            [
+              14,
+              "TR",
+              "152 Wohlers Hall",
+              8,
+              [
+                "Han, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "C": [
+          "70075",
+          [
+            [
+              47,
+              "MW",
+              "152 Wohlers Hall",
+              8,
+              [
+                "Allu Rakesh, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "D": [
+          "70076",
+          [
+            [
+              24,
+              "TR",
+              "152 Wohlers Hall",
+              8,
+              [
+                "Bahrini, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "E": [
+          "70077",
+          [
+            [
+              0,
+              "TR",
+              "152 Wohlers Hall",
+              8,
+              [
+                "Bahrini, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "F": [
+          "70078",
+          [
+            [
+              1,
+              "TR",
+              "152 Wohlers Hall",
+              8,
+              [
+                "Gao, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "G": [
+          "70079",
+          [
+            [
+              13,
+              "MW",
+              "152 Wohlers Hall",
+              8,
+              [
+                "Liu, Z"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "H": [
+          "70080",
+          [
+            [
+              0,
+              "MW",
+              "152 Wohlers Hall",
+              8,
+              [
+                "Allu Rakesh, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "J": [
+          "70082",
+          [
+            [
+              14,
+              "MW",
+              "152 Wohlers Hall",
+              8,
+              [
+                "Liu, Z"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "K": [
+          "70083",
+          [
+            [
+              1,
+              "MW",
+              "152 Wohlers Hall",
+              8,
+              [
+                "Liu, Z"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Builds on the foundation from the Business Analytics I (BADM 210), synthesizes concepts through hands-on application and project-based learning. Focuses on data acquisition, organization, analysis and visualization in a business setting. Expanding on the use of statistics in generating basic inferences to predictive modeling Identify opportunities for improving business decisions using data, conduct relevant analysis of the gathered and cleaned data, and finally, interpret and present analysis outcomes to decision makers. Using statistical tools and software applications to identify business problems, acquire relevant data, and generate analytic solutions using advanced analytics techniques and tools for generating insights. Introduces the students to analyzing, learning, and prediction using advanced analytics techniques and tools for generating business insights. This course will provide a practical introduction to various techniques regarding clustering, text mining, classification and decision trees, and time series analysis. Finally, the course will introduce advanced and emerging topics in predictive analytics.",
+      []
+    ],
+    "BADM 210": [
+      "Business Analytics I",
+      {
+        "AD2": [
+          "71694",
+          [
+            [
+              9,
+              "F",
+              "152 Wohlers Hall",
+              8,
+              [
+                "Pant, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "AD3": [
+          "71695",
+          [
+            [
+              10,
+              "F",
+              "152 Wohlers Hall",
+              8,
+              [
+                "Pant, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "AD4": [
+          "71696",
+          [
+            [
+              8,
+              "F",
+              "152 Wohlers Hall",
+              8,
+              [
+                "Pant, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "AD5": [
+          "71697",
+          [
+            [
+              23,
+              "F",
+              "152 Wohlers Hall",
+              8,
+              [
+                "Pant, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "AD6": [
+          "71698",
+          [
+            [
+              11,
+              "F",
+              "152 Wohlers Hall",
+              8,
+              [
+                "Pant, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "AL": [
+          "71034",
+          [
+            [
+              8,
+              "TR",
+              "1100 Wymer Hall",
+              0,
+              [
+                "Pant, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "DD2": [
+          "71700",
+          [
+            [
+              9,
+              "F",
+              "240 Wohlers Hall",
+              8,
+              [
+                "Pant, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "DD3": [
+          "71701",
+          [
+            [
+              10,
+              "F",
+              "240 Wohlers Hall",
+              8,
+              [
+                "Pant, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "DD4": [
+          "71703",
+          [
+            [
+              8,
+              "F",
+              "240 Wohlers Hall",
+              8,
+              [
+                "Pant, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "DD5": [
+          "71704",
+          [
+            [
+              23,
+              "F",
+              "240 Wohlers Hall",
+              8,
+              [
+                "Pant, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "DD6": [
+          "71707",
+          [
+            [
+              11,
+              "F",
+              "240 Wohlers Hall",
+              8,
+              [
+                "Pant, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "DL": [
+          "68637",
+          [
+            [
+              80,
+              "TR",
+              "1100 Wymer Hall",
+              0,
+              [
+                "Pant, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "ED2": [
+          "71693",
+          [
+            [
+              9,
+              "F",
+              "241 Wohlers Hall",
+              8,
+              [
+                "Pant, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "ED3": [
+          "71699",
+          [
+            [
+              10,
+              "F",
+              "241 Wohlers Hall",
+              8,
+              [
+                "Pant, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "ED4": [
+          "78672",
+          [
+            [
+              8,
+              "F",
+              "241 Wohlers Hall",
+              8,
+              [
+                "Pant, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "ED5": [
+          "78673",
+          [
+            [
+              23,
+              "F",
+              "241 Wohlers Hall",
+              8,
+              [
+                "Pant, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "ED6": [
+          "78674",
+          [
+            [
+              11,
+              "F",
+              "241 Wohlers Hall",
+              8,
+              [
+                "Pant, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "EL": [
+          "78675",
+          [
+            [
+              30,
+              "TR",
+              "1100 Wymer Hall",
+              0,
+              [
+                "Pant, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "An introduction to basic knowledge of statistics, distributions, and linear regressions in a business setting Students will be able to perform and understand the use of basic statistical methods in generating inferences and modeling including hypothesis testing and multivariate regression. The course will introduce the concepts of a data life cycle, data visualization, and data summarization. Students will learn how to identify, describe and frame business opportunities through evidence-based storytelling and hands-on learning using spreadsheets and data visualization tools.",
       []
     ],
     "BADM 261": [
-      "BADM 261",
-      {},
+      "Technology & Mgmt Seminar",
+      {
+        "TM": [
+          "77971",
+          [
+            [
+              8,
+              "F",
+              "1100 Wymer Hall",
+              0,
+              [
+                "Love, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "BADM 300": [
-      "BADM 300",
-      {},
-      [],
-      null,
+      "Current topics in technology and management presented by senior executives from a wide range of industries. Executives discuss challenges they confront and approaches taken in execution of their respective businesses. Format encourages dialogue and discussions between executives and students.",
       []
     ],
     "BADM 275": [
-      "BADM 275",
-      {},
+      "Introduction to Operations and Supply Chain Management",
+      {
+        "A": [
+          "71710",
+          [
+            [
+              0,
+              "TR",
+              "240 Wohlers Hall",
+              8,
+              [
+                "Ye, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "70088",
+          [
+            [
+              14,
+              "MW",
+              "2011 Business Instructional Fac",
+              36,
+              [
+                "Liang, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "C": [
+          "71711",
+          [
+            [
+              24,
+              "MW",
+              "243 Wohlers Hall",
+              8,
+              [
+                "Liang, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "D": [
+          "71712",
+          [
+            [
+              0,
+              "MW",
+              "243 Wohlers Hall",
+              8,
+              [
+                "Liang, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "E": [
+          "71713",
+          [
+            [
+              47,
+              "TR",
+              "240 Wohlers Hall",
+              8,
+              [
+                "Tyagi, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "F": [
+          "71714",
+          [
+            [
+              24,
+              "TR",
+              "240 Wohlers Hall",
+              8,
+              [
+                "Tyagi, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "G": [
+          "71715",
+          [
+            [
+              14,
+              "TR",
+              "2043 Business Instructional Fac",
+              36,
+              [
+                "Baddam, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "H": [
+          "71716",
+          [
+            [
+              13,
+              "TR",
+              "2043 Business Instructional Fac",
+              36,
+              [
+                "Baddam, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "OL": [
+          "78695",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Scott, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Operations and Supply Chain Management is about sourcing, producing, and delivering goods and services that meet and exceed customer expectations. In this course, students will be introduced to decision-making frameworks and techniques for effectively and efficiently managing processes through coordinated efforts across different organizations in a supply chain and across multiple areas within an organization, such as: consumer analytics, research and development, finance, engineering, marketing, human resource management, sourcing, information systems, logistics, and accounting.",
+      []
+    ],
+    "BADM 300": [
+      "The Legal Environment of Bus",
+      {
+        "1": [
+          "30956",
+          [
+            [
+              1,
+              "MW",
+              "1100 Wymer Hall",
+              0,
+              [
+                "Warnick, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "2": [
+          "40037",
+          [
+            [
+              14,
+              "TR",
+              "1100 Wymer Hall",
+              0,
+              [
+                "Winter, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to law and the legal system, litigation, contracts, business organizations, intellectual property, employment law and governmental regulation of business.",
       []
     ],
     "BADM 303": [
-      "BADM 303",
-      {},
+      "Principles of Public Policy",
+      {
+        "A": [
+          "40416",
+          [
+            [
+              24,
+              "TR",
+              "1090 Lincoln Hall",
+              19,
+              [
+                "Hinchliffe, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "WA": [
+          "58332",
+          [
+            [
+              81,
+              "T",
+              "ARR Washington DC",
+              0,
+              [
+                "Hines, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "BADM 311": [
-      "BADM 311",
-      {},
-      [],
-      null,
+      "Same as ACCY 321, ACE 321, and PS 321. See PS 321.",
       []
     ],
     "BADM 310": [
-      "BADM 310",
-      {},
+      "Mgmt and Organizational Beh",
+      {
+        "1": [
+          "30963",
+          [
+            [
+              24,
+              "TR",
+              "THEAT Lincoln Hall",
+              19,
+              [
+                "Swenddal, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "OL": [
+          "57199",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Charles, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "General analysis of management and organizational behavior from a systems point of view, including classical organizational theory and management, organizational behavior, and management science; environmental forces; planning, organizing, and control processes; motivation, incentives, leadership, communication, and interpersonal relations; and discussion of production and decision-making and mathematical models.",
+      []
+    ],
+    "BADM 311": [
+      "Leading Individuals and Teams",
+      {
+        "A": [
+          "31044",
+          [
+            [
+              0,
+              "TR",
+              "1049 Business Instructional Fac",
+              36,
+              [
+                "Kim, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "31042",
+          [
+            [
+              1,
+              "TR",
+              "1049 Business Instructional Fac",
+              36,
+              [
+                "Kim, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Understanding the behavior of employees in work organizations; particular attention to the motivation of individuals to join and perform in organizations and to employee satisfaction with elements of the work environment; and emphasis on various management strategies to modify employee motivation and satisfaction.",
       []
     ],
     "BADM 312": [
-      "BADM 312",
-      {},
+      "Designing and Managing Orgs",
+      {
+        "A": [
+          "31046",
+          [
+            [
+              47,
+              "MW",
+              "3007 Business Instructional Fac",
+              36,
+              [
+                "Tank, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "31048",
+          [
+            [
+              24,
+              "MW",
+              "3007 Business Instructional Fac",
+              36,
+              [
+                "Tank, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Understanding of complex organizations; particular attention to ways of dividing work, achieving coordination, and issues connected with change and adaptation.",
       []
     ],
     "BADM 313": [
-      "BADM 313",
-      {},
+      "Strategic Human Resource Management",
+      {
+        "A": [
+          "31071",
+          [
+            [
+              14,
+              "MW",
+              "243 Wohlers Hall",
+              8,
+              [
+                "Nelson, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Studies concepts and methods used by the staff personnel unit in building and maintaining an effective work force in an industrial organization; development of ability to design the personnel subsystem within the firm and to deal effectively with problems encountered in such areas as recruitment, selection, training, and wage and salary administration; and considerable emphasis on case analysis, role playing, and research.",
       []
     ],
     "BADM 314": [
-      "BADM 314",
-      {},
+      "Leading Negotiations",
+      {
+        "A": [
+          "63687",
+          [
+            [
+              13,
+              "MW",
+              "3063 Business Instructional Fac",
+              36,
+              [
+                "Ji, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "66499",
+          [
+            [
+              0,
+              "MW",
+              "2007 Business Instructional Fac",
+              36,
+              [
+                "Ji, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Aims to advance students' ability to negotiate formal and informal business agreements and resolve conflicts effectively. Because leaders depend on others to accomplish goals, leaders need to be skilled negotiators to generate solution that are acceptable, valuable, and able to be implemented. Students will engage in a series of negotiations that provide practice and impart a framework for planning for, conducting, and analyzing negotiations.",
       []
     ],
     "BADM 320": [
-      "BADM 320",
-      {},
+      "Principles of Marketing",
+      {
+        "1": [
+          "30958",
+          [
+            [
+              47,
+              "TR",
+              "112 Gregory Hall",
+              18,
+              [
+                "Wolters, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "OL": [
+          "55843",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Torelli, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Emphasizes the concepts of planning, organization, control, and decision making as they are applied in the management of the marketing function. Provides an overview of aspects of the marketing discipline.",
       []
     ],
     "BADM 322": [
-      "BADM 322",
-      {},
+      "Marketing Research",
+      {
+        "D": [
+          "31038",
+          [
+            [
+              13,
+              "TR",
+              "3009 Business Instructional Fac",
+              36,
+              [
+                "Bao, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "E": [
+          "31040",
+          [
+            [
+              1,
+              "MW",
+              "2041 Business Instructional Fac",
+              36,
+              [
+                "Kim, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "F": [
+          "40724",
+          [
+            [
+              42,
+              "MW",
+              "241 Wohlers Hall",
+              8,
+              [
+                "Liu, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Focuses on the techniques and methods of marketing research; emphasizes primarily survey research and experimental design; and offers students the opportunity to apply techniques to real-world situations.",
       []
     ],
     "BADM 323": [
-      "BADM 323",
-      {},
+      "Marketing Communications",
+      {
+        "A": [
+          "31053",
+          [
+            [
+              0,
+              "MW",
+              "3001 Business Instructional Fac",
+              36,
+              [
+                "Raquel, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "31055",
+          [
+            [
+              14,
+              "MW",
+              "241 Wohlers Hall",
+              8,
+              [
+                "Raquel, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "BADM 325": [
-      "BADM 325",
-      {},
-      [],
-      null,
+      "Introduces the student to the topic of marketing communications and promotion management. Topics covered include: advertising, sales promotion, point-of-purchase communications, interactive marketing, and event sponsorships.",
       []
     ],
     "BADM 324": [
-      "BADM 324",
-      {},
+      "Purchasing and Supply Mgmnt",
+      {
+        "B": [
+          "75573",
+          [
+            [
+              0,
+              "MW",
+              "2057 Business Instructional Fac",
+              36,
+              [
+                "Scott, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "C": [
+          "31057",
+          [
+            [
+              1,
+              "MW",
+              "2057 Business Instructional Fac",
+              36,
+              [
+                "Scott, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Examines the analysis, planning, and forms of organization that are associated with the buying functions in business. Major focus on the principal issues involved in the procurement of raw materials, components, equipment, operating supplies, and services. Also treats the unique aspects of institutional and government purchasing. Case problems constitute a major vehicle of instruction.",
+      []
+    ],
+    "BADM 325": [
+      "Consumer Behavior",
+      {
+        "A": [
+          "31059",
+          [
+            [
+              47,
+              "MW",
+              "2011 Business Instructional Fac",
+              36,
+              [
+                "Lim, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "31060",
+          [
+            [
+              24,
+              "MW",
+              "2011 Business Instructional Fac",
+              36,
+              [
+                "Lim, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Studies the factors affecting customer behavior in household and organizational markets and their relevance for marketing management planning and analysis; provides an overview of explanations of consumption differences anchored in socioeconomic, demographic, cultural, and psychological processes; and surveys buyer decision-making processes and their implications for marketing strategy.",
       []
     ],
     "BADM 326": [
-      "BADM 326",
-      {},
+      "Pricing Analytics",
+      {
+        "A": [
+          "61562",
+          [
+            [
+              13,
+              "MW",
+              "241 Wohlers Hall",
+              8,
+              [
+                "Liu, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Develops the students understanding on the strategic development of pricing analytics, pricing models, and pricing strategies within organizations. Students use analytics and financial models as well as pricing theory in order to develop pricing models for organizations. The course will give students a firm theoretical and practical background in setting prices, pricing new products, initiating pricing changes, responding to competitive pricing, using analytics to understand, predict, and develop pricing policies, and understanding the impact and roll of pricing within an organization.",
       []
     ],
     "BADM 329": [
-      "BADM 329",
-      {},
+      "New Product Development",
+      {
+        "A": [
+          "50310",
+          [
+            [
+              13,
+              "MW",
+              "2011 Business Instructional Fac",
+              36,
+              [
+                "Fazli Salehi, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Exposes student to business and marketing decisions in the context of new product development and marketing. Helps students learn how to use state-of-the-art management techniques to identify markets, develop new product ideas, measure customer benefits, and design profitable new products.",
       []
     ],
     "BADM 330": [
-      "BADM 330",
-      {},
+      "Brand Management",
+      {
+        "A": [
+          "71718",
+          [
+            [
+              24,
+              "TR",
+              "3063 Business Instructional Fac",
+              36,
+              [
+                "Smith, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Brand Management is an advanced Marketing elective that addresses the key issues of brand asset management faced by firms in the 21st century. Class discussions will focus on providing theoretical tools for uncovering and understanding the associations that consumers establish with their brands, for predicting the effects of these associations on brand-related judgments and behaviors, and for devising strategies for building strong brands",
       []
     ],
     "BADM 331": [
-      "BADM 331",
-      {},
+      "Making Things",
+      {
+        "A": [
+          "69053",
+          [
+            [
+              3,
+              "T",
+              "ARR Business Instructional Fac",
+              0,
+              [
+                "Rindfleisch, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "BADM 336": [
-      "BADM 336",
-      {},
-      [],
-      null,
+      "Making Things is a hands-on course in which interdisciplinary teams of business, design and engineering students conceptualize, design, prototype, manufacture and market a new product. To create these products, they use 3D design software and hardware. The course is held in the Illinois MakerLab. By participating in this course, students develop teamwork, design, manufacturing and marketing skills.",
       []
     ],
     "BADM 335": [
-      "BADM 335",
-      {},
+      "Supply Chain Management Basics",
+      {
+        "A": [
+          "47943",
+          [
+            [
+              14,
+              "MW",
+              "2057 Business Instructional Fac",
+              36,
+              [
+                "Scott, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Introduces the principles, analytical foundations, and strategic importance of supply chain management in modern organizations. The course examines how firms design, plan, source, produce, and deliver goods and services in global, interconnected, and uncertain environments. Topics include supply chain strategy, demand management, S&OP, inventory, sourcing, logistics, and risk and disruption management. Students apply data-driven decision making through quantitative analyses, modeling, and real-world cases to coordinate and improve flows across supply chains.",
       []
     ],
     "BADM 337": [
-      "BADM 337",
-      {},
+      "Practicum in Supply Chain Mgt",
+      {
+        "A": [
+          "71719",
+          [
+            [
+              0,
+              "MW",
+              "2041 Business Instructional Fac",
+              36,
+              [
+                "Mehrotra, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "This is the capstone course for the Supply Chain Management major. Students are required to work in teams to solve real-world supply chain management problems using the tools and techniques learned from their other classes. Students are required to present their progress and final reports to both the faculty and company sponsors. Also covers some basic elements of project management and a large case study.",
+      []
+    ],
+    "BADM 336": [
+      "Supply Chain Modeling & Analytics",
+      {
+        "A": [
+          "77729",
+          [
+            [
+              14,
+              "TR",
+              "2001 Business Instructional Fac",
+              36,
+              [
+                "Moshref Javadi, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Focuses on modeling and analysis of decision-making problems in supply chain. The course covers several essential topics in supply chain analytics, including demand planning, optimization, simulation, inventory control, and supply chain contracts. Emphasis is placed on modeling, implementation, and analysis and interpretation of results. Through a mix of theoretical knowledge and practical application, students will learn how to analyze and improve supply chain operations to enhance efficient and effective management of resources.",
       []
     ],
     "BADM 338": [
-      "BADM 338",
-      {},
+      "Global Supply Chain Management",
+      {
+        "C": [
+          "70096",
+          [
+            [
+              13,
+              "MW",
+              "3057 Business Instructional Fac",
+              36,
+              [
+                "Clougherty, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Due to intense global competition, companies increasingly realize the importance of global supply chain management, as they have become more involved with their cross-border suppliers and customers in order to meet customer expectations in a global marketplace. This course in 'global supply chain management' focuses on specialized topics arising in the context of procurement, operations, transportation, finance, and governance of relationships of multiple international buyer and supplier organizations.",
       []
     ],
     "BADM 340": [
-      "BADM 340",
-      {},
+      "Ethical Dilemmas of Business",
+      {
+        "B": [
+          "68609",
+          [
+            [
+              1,
+              "MW",
+              "226 Wohlers Hall",
+              8,
+              [
+                "Ward, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "C": [
+          "73686",
+          [
+            [
+              14,
+              "MW",
+              "226 Wohlers Hall",
+              8,
+              [
+                "Ward, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "D": [
+          "60371",
+          [
+            [
+              13,
+              "MW",
+              "226 Wohlers Hall",
+              8,
+              [
+                "Ward, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Examines business decision making and the role ethics plays in that process. Analysis of how managers behave and whether ethical choices are knowingly made or only realized thereafter. The object is to increase awareness of the moral dimension of business activity.",
       []
     ],
     "BADM 341": [
-      "BADM 341",
-      {},
+      "Foundations of Strategic Management",
+      {
+        "A": [
+          "74219",
+          [
+            [
+              14,
+              "TR",
+              "3007 Business Instructional Fac",
+              36,
+              [
+                "Kim, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Aims to provide the conceptual foundations and analytical tools for strategic decision-making. Drawing from major theories of strategic management, such as game theory, transaction-costs theory, and dynamic resource-based theory, the course covers key issues in corporate strategy and internal organization. Through lectures, case analyses, and simulation games, students learn to apply theoretical frameworks to various strategic issues related to diversification, M&A, strategic alliances, organizational structure, culture, and incentive system.",
       []
     ],
     "BADM 346": [
-      "BADM 346",
-      {},
+      "Introduction to Entrepreneurship",
+      {
+        "A": [
+          "74169",
+          [
+            [
+              1,
+              "MW",
+              "241 Wohlers Hall",
+              8,
+              [
+                "Chattopadhyay, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "BADM 351": [
-      "BADM 351",
-      {},
-      [],
-      null,
+      "Introduces students to the entrepreneurial process and to essential business concepts relevant to entrepreneurship. Students will learn about the key activities of entrepreneurship, including idea generation, resource acquisition, and business model development, and about multiple forms of entrepreneurship, including startups, within-company new businesses and social ventures. The course also addresses the intersection of entrepreneurship and broader societal issues.",
       []
     ],
     "BADM 350": [
-      "BADM 350",
-      {},
+      "IT for Networked Organizations",
+      {
+        "B": [
+          "50065",
+          [
+            [
+              13,
+              "TR",
+              "2011 Business Instructional Fac",
+              36,
+              [
+                "Ghoshal, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "C": [
+          "50233",
+          [
+            [
+              1,
+              "MW",
+              "2001 Business Instructional Fac",
+              36,
+              [
+                "Sumkin, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "E": [
+          "68280",
+          [
+            [
+              14,
+              "TR",
+              "2011 Business Instructional Fac",
+              36,
+              [
+                "Ghoshal, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Examines the information technology and its impact on modern organizations. Topics include: (1) IT, Internet Technologies, E-Commerce and business models, (2) organizing and modeling enterprise data, (3) Network protocol and architecture, (4) development of IT systems, and (5) IT management and organization design.",
+      []
+    ],
+    "BADM 351": [
+      "Social Media Strategy",
+      {
+        "A": [
+          "53412",
+          [
+            [
+              13,
+              "MW",
+              "3009 Business Instructional Fac",
+              36,
+              [
+                "Sumkin, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "71721",
+          [
+            [
+              42,
+              "MW",
+              "3009 Business Instructional Fac",
+              36,
+              [
+                "Sumkin, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Business managers of today must be equipped to deal with the new reality of a highly connected society. In this course, students will learn foundational concepts of Social Media and their applications for generating value for their customers, the society, and the business itself. The course aims to develop analytical skills and understanding of the opportunities and challenges that social media, global collaboration and new ways of engaging customers pose for the firm. An emphasis will be placed on managerial decision making in the context of the social media phenomenon.",
       []
     ],
     "BADM 352": [
-      "BADM 352",
-      {},
+      "Database Design and Management",
+      {
+        "A": [
+          "68614",
+          [
+            [
+              24,
+              "MW",
+              "240 Wohlers Hall",
+              8,
+              [
+                "Garimella, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "31226",
+          [
+            [
+              14,
+              "MW",
+              "1025 Business Instructional Fac",
+              36,
+              [
+                "Garimella, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "C": [
+          "66500",
+          [
+            [
+              13,
+              "MW",
+              "1025 Business Instructional Fac",
+              36,
+              [
+                "Garimella, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "BADM 356": [
-      "BADM 356",
-      {},
-      [],
-      null,
+      "Introduce the modern concepts, techniques and management practices when dealing with data and use of data in organizations. Topics include data modeling, database logical and physical designs, implementation, database administration and web-based database environment. Students will be involved in constructing a database and researching an advanced topic to solidify the learning.",
       []
     ],
     "BADM 353": [
-      "BADM 353",
-      {},
+      "Info Sys Analysis and Design",
+      {
+        "C": [
+          "68611",
+          [
+            [
+              14,
+              "TR",
+              "2063 Business Instructional Fac",
+              36,
+              [
+                "Nelson, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "D": [
+          "31238",
+          [
+            [
+              0,
+              "TR",
+              "2041 Business Instructional Fac",
+              36,
+              [
+                "Nelson, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Methodologies and techniques used and deliverables created in developing large-scale information systems, including preliminary planning, feasibility analysis, design implementation, and post-implementation review of the system; a term-long project which familiarizes students with methodology and techniques is required.",
+      []
+    ],
+    "BADM 356": [
+      "Data Science and Analytics",
+      {
+        "B": [
+          "68625",
+          [
+            [
+              0,
+              "MW",
+              "3007 Business Instructional Fac",
+              36,
+              [
+                "Liu, Z"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "In this course, you will learn not only data analytic techniques but also the managerial implications of competing with analytics. You will understand the managerial challenges of using data analytics to develop a strategic advantage through readings and case studies. You will learn techniques such as statistical inference, linear modeling, sentiment analytics, and data mining through hands-on exercises in R. R is an open source language that has grown in importance and usage in corporations. Finally, you will be able to present and interpret data through an understanding of data visualization techniques.",
       []
     ],
     "BADM 358": [
-      "BADM 358",
-      {},
+      "Big Data Platforms",
+      {
+        "A": [
+          "74155",
+          [
+            [
+              0,
+              "TR",
+              "3007 Business Instructional Fac",
+              36,
+              [
+                "An, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "BADM 364": [
-      "BADM 364",
-      {},
-      [],
-      null,
-      []
-    ],
-    "BADM 362": [
-      "BADM 362",
-      {},
-      [],
-      null,
+      "Provides students a deep understanding of the fundamentals of big data platforms and data engineering, data analytics and algorithms for analytical use cases. Experimenting end to end pipelines on cloud platforms: data collection to deployment",
       []
     ],
     "BADM 359": [
-      "BADM 359",
-      {},
+      "Business Problem Formulation and Solution",
+      {
+        "A": [
+          "68626",
+          [
+            [
+              18,
+              "F",
+              "2041 Business Instructional Fac",
+              36,
+              [
+                "Kim, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "This course prepares students to critically formulate and solve a range of real-world problems faced by business organizations. Addressing business problems is central to the professional services offered by management consultants across many fields (e.g., strategy, technology, market analysis, operations, supply chain, organization). The course employs a unique classroom model that combines faculty expertise with executive experience from the consulting industry, which allows students to benefit from hands-on experiential learning about business problems.",
       []
     ],
-    "BADM 366": [
-      "BADM 366",
-      {},
+    "BADM 362": [
+      "Introduction to Consumer Analytics",
+      {
+        "A": [
+          "76806",
+          [
+            [
+              0,
+              "TR",
+              "2001 Business Instructional Fac",
+              36,
+              [
+                "Bao, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Introduces the science side of marketing by studying multiple models and machine learning algorithms used by companies and consulting firms in the different steps of the marketing process. It includes clustering analysis, predictive analysis using linear regression and logistic regression, classification, and principal component analysis. To enhance the learning experience, the course will be strongly based on software applications such as R, Python as well as online data analytics platform Enginius that offer hands-on exposure to real life corporate applications.",
+      []
+    ],
+    "BADM 364": [
+      "Social Media Marketing and Content Creation",
+      {
+        "A": [
+          "77727",
+          [
+            [
+              24,
+              "TR",
+              "3009 Business Instructional Fac",
+              36,
+              [
+                "Wolters, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Equips students with practical skills in social media marketing and content creation. Through hands-on projects and course work, students learn to develop social media plans, manage social media campaigns, engage digital-first consumers, and create platform-specific content. Topics include influencer marketing, SEO, social media analytics, ethics, and advertising across social media platforms. Students will build a professional social media portfolio and gain insights essential for careers in social media marketing and content creation.",
       []
     ],
     "BADM 365": [
-      "BADM 365",
-      {},
+      "New Product Marketing",
+      {
+        "B": [
+          "78632",
+          [
+            [
+              1,
+              "MW",
+              "243 Wohlers Hall",
+              8,
+              [
+                "Fazli Salehi, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Exposes engineering students to the discipline of marketing and to business decision-making in the unique context of new product marketing decisions.",
       []
     ],
-    "BADM 371": [
-      "BADM 371",
-      {},
+    "BADM 366": [
+      "Product Design and Development",
+      {
+        "TM1": [
+          "30968",
+          [
+            [
+              14,
+              "TR",
+              "1002 Lincoln Hall",
+              19,
+              [
+                "Sethi, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "TM2": [
+          "78696",
+          [
+            [
+              13,
+              "MW",
+              "161 Noyes Laboratory",
+              13,
+              [
+                "Sethi, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Presents an overview of the product development process from concept generation to design manufacturing and project management. There is an emphasis on product definition, early concept development, visual reasoning and engineering graphics. Students work in cross disciplinary teams working through product development projects.",
       []
     ],
     "BADM 370": [
-      "BADM 370",
-      {},
+      "Information Security Management",
+      {
+        "A": [
+          "74166",
+          [
+            [
+              24,
+              "TR",
+              "241 Wohlers Hall",
+              8,
+              [
+                "Ghoshal, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "In the information technology driven world of today, information security and cybersecurity have assumed great importance due to the dangers from hackers, cyber-attacks, viruses, malware, and other threats. In this course, students will be exposed to the key aspects of information security and cybersecurity management with a focus on management and implementation issues in the business world, cost-benefit matters, and discussion of topics pertaining to effectively detecting, managing and mitigating information security/cybersecurity threats.",
+      []
+    ],
+    "BADM 371": [
+      "User Interaction/User Experience Design",
+      {
+        "A": [
+          "75582",
+          [
+            [
+              0,
+              "TR",
+              "1002 Siebel Center for Design",
+              37,
+              [
+                "Haran, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "A project-based introduction to the user-experience design process and is oriented towards teaching practical methods for approaching a design problem. Students will gain an understanding of human-centered design process to enhance the user experience by going through the four important steps of design process- understanding, synthesizing, ideating and prototyping.",
       []
     ],
     "BADM 373": [
-      "BADM 373",
-      {},
+      "Quantitative Foundations for Business Analytics",
+      {
+        "B": [
+          "77051",
+          [
+            [
+              24,
+              "TR",
+              "2011 Business Instructional Fac",
+              36,
+              [
+                "Subramanyam, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Provides students a comprehensive overview of essential mathematical and statistical concepts necessary for effective data-driven business decision-making. The course covers linear algebra, probability theory, statistics foundation, exploratory data analysis, predictive analytics focusing on multivariate models and time series forecasting, and prescriptive analytics including optimization techniques and Monte Carlo Simulation. Through theoretical lectures and practical sessions using widely available software tools, students will develop the analytical skills required to solve real-world business problems.",
       []
     ],
     "BADM 374": [
-      "BADM 374",
-      {},
+      "Management Decision Models",
+      {
+        "C": [
+          "31024",
+          [
+            [
+              14,
+              "MW",
+              "166 Wohlers Hall",
+              8,
+              [
+                "Kwon, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "D": [
+          "31004",
+          [
+            [
+              13,
+              "MW",
+              "166 Wohlers Hall",
+              8,
+              [
+                "Kwon, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Introduction to methods of operations research from an executive or managerial viewpoint, emphasizing formulation of business problems in quantitative terms; industrial applications of linear programming, dynamic programming, game theory, probability theory, queuing theory, and inventory theory.",
       []
     ],
     "BADM 375": [
-      "BADM 375",
-      {},
+      "AI-Integrated Supply Chain & Operations Strategy",
+      {
+        "A": [
+          "46940",
+          [
+            [
+              0,
+              "TR",
+              "2011 Business Instructional Fac",
+              36,
+              [
+                "Moshref Javadi, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "52243",
+          [
+            [
+              13,
+              "TR",
+              "2001 Business Instructional Fac",
+              36,
+              [
+                "Moshref Javadi, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Examines how organizations design and manage operations and supply chains to achieve competitive advantage. Covers operations performance, capacity, purchasing, process technology, improvement, and product and service development strategies. Explores how emerging technologies — including artificial intelligence, digital twins, IoT, and blockchain — are transforming supply chain and operations management. Cases and industry speakers connect frameworks to current practice, with attention to sustainability, resilience, and ethical AI governance.",
       []
     ],
     "BADM 378": [
-      "BADM 378",
-      {},
+      "Logistics Management",
+      {
+        "B": [
+          "68610",
+          [
+            [
+              47,
+              "TR",
+              "2063 Business Instructional Fac",
+              36,
+              [
+                "Bahrini, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "BADM 379": [
-      "BADM 379",
-      {},
-      [],
-      null,
+      "Examines how firms design and manage logistics systems that coordinate the flow of materials, products, and information across supply chains. Students build a foundation in purchasing, warehousing, inventory, order fulfillment, and transportation, and develop analytical skills for smarter logistics decisions. The course emphasizes cost, service, and responsiveness trade-offs, with attention to contemporary topics including last-mile delivery, warehouse automation, and digital tools such as ERP/SAP, TMS, WMS, IoT tracking, and AI-enabled visibility technologies.",
       []
     ],
     "BADM 380": [
-      "BADM 380",
-      {},
+      "International Business",
+      {
+        "E": [
+          "39130",
+          [
+            [
+              14,
+              "MW",
+              "3009 Business Instructional Fac",
+              36,
+              [
+                "Minefee, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Introduces the field of international business and management. Examines the economic, political, and legal environments of international business. Analyzes differences in financial management, marketing, and management practices for firms doing business abroad.",
       []
     ],
-    "BADM 382": [
-      "BADM 382",
-      {},
+    "BADM 379": [
+      "Business Process Improvement",
+      {
+        "A": [
+          "47946",
+          [
+            [
+              1,
+              "TR",
+              "2011 Business Instructional Fac",
+              36,
+              [
+                "Bahrini, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "The survival and growth of any organization requires the continuous improvement of its processes. This course focuses on philosophies and tools for enhancing customer-defined value created through processes. Contemporary process improvement programs are emphasized along with conventional ideas - topics include Statistical Quality Control, Value Stream Mapping, Total Quality Management, and Six Sigma.",
       []
     ],
     "BADM 381": [
-      "BADM 381",
-      {},
+      "Multinational Management",
+      {
+        "B": [
+          "58441",
+          [
+            [
+              14,
+              "TR",
+              "3057 Business Instructional Fac",
+              36,
+              [
+                "Feng, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "BADM 383": [
-      "BADM 383",
-      {},
-      [],
-      null,
+      "Examines critical issues facing managers who work in multinational firms. Designed to develop students' skills for working in a global business environment. Topics include foreign market entry strategies, global management of the functional areas of business, and management and control of multinational firms in the global marketplace.",
       []
     ],
     "BADM 390": [
-      "BADM 390",
-      {},
+      "Business Ethics Academy",
+      {
+        "A": [
+          "77722",
+          [
+            [
+              73,
+              "M",
+              "2001 Business Instructional Fac",
+              36,
+              [
+                "Warnick, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "The Business Ethics Academy is an action-learning course for undergraduates where students learn to analyze and solve ethical problems in business and present those solutions persuasively and professionally by preparing for and participating in a business-ethics case competition. Students are normally invited to participate by the faculty.",
+      []
+    ],
+    "BADM 382": [
+      "International Marketing",
+      {
+        "B": [
+          "51561",
+          [
+            [
+              13,
+              "TR",
+              "2057 Business Instructional Fac",
+              36,
+              [
+                "Euh, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Analyzes marketing strategy across national boundaries, the problems of marketing within foreign countries, and the coordination of global marketing programs. Includes problems faced by the exporter, licensor, joint venture, and multinational firm. The full range of market activities are discussed from a global perspective.",
+      []
+    ],
+    "BADM 383": [
+      "Topics in International Business",
+      {
+        "Y": [
+          "71725",
+          [
+            [
+              1,
+              "TR",
+              "2001 Business Instructional Fac",
+              36,
+              [
+                "Feng, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Examines topics related to international business that are not covered in BADM 380, BADM 381, BADM 382, BADM 338. Possible topics include cross-cultural management issues, cross-border merger and acquisition activities, the historical context of global capitalism, doing business in emerging economies, global research and development efforts, and global strategic human resource management.",
       []
     ],
     "BADM 394": [
-      "BADM 394",
-      {},
+      "Senior Research I",
+      {
+        "10400": [
+          "10400",
+          [
+            [
+              4,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Research and readings course for students majoring in business administration. May be taken by students in the college honors program in partial fulfillment of the honors requirements.",
       []
     ],
     "BADM 403": [
-      "BADM 403",
-      {},
+      "Corporate & Commercial Law",
+      {
+        "A": [
+          "58743",
+          [
+            [
+              24,
+              "MW",
+              "2041 Business Instructional Fac",
+              36,
+              [
+                "Warnick, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "BADM 446": [
-      "BADM 446",
-      {},
-      [],
-      null,
+      "Advanced discussion of corporate and commercial law, including topics tested on the CPA exam: agency, contracts, debtor-creditor relationships, governmental regulation of business and business organizations.",
       []
     ],
     "BADM 420": [
-      "BADM 420",
-      {},
+      "Advanced Marketing Management",
+      {
+        "C": [
+          "50059",
+          [
+            [
+              1,
+              "TR",
+              "243 Wohlers Hall",
+              8,
+              [
+                "Rindfleisch, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "D": [
+          "50058",
+          [
+            [
+              14,
+              "TR",
+              "243 Wohlers Hall",
+              8,
+              [
+                "Rindfleisch, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Integrative study of methods and models for marketing decision-making; emphasizes the application of analytical tools and behavioral and quantitative models to marketing decision-making. Uses lectures, case studies and simulation exercises.",
       []
     ],
     "BADM 449": [
-      "BADM 449",
-      {},
+      "Business Policy and Strategy",
+      {
+        "A": [
+          "31082",
+          [
+            [
+              1,
+              "MW",
+              "2043 Business Instructional Fac",
+              36,
+              [
+                "Martinez, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "31084",
+          [
+            [
+              0,
+              "MW",
+              "2043 Business Instructional Fac",
+              36,
+              [
+                "Chattopadhyay, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "E": [
+          "31181",
+          [
+            [
+              13,
+              "TR",
+              "2041 Business Instructional Fac",
+              36,
+              [
+                "Inoue, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "G": [
+          "31185",
+          [
+            [
+              13,
+              "MW",
+              "2041 Business Instructional Fac",
+              36,
+              [
+                "Schijven, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "I": [
+          "31188",
+          [
+            [
+              24,
+              "MW",
+              "2043 Business Instructional Fac",
+              36,
+              [
+                "Shin, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "M": [
+          "31198",
+          [
+            [
+              14,
+              "MW",
+              "2043 Business Instructional Fac",
+              36,
+              [
+                "Chattopadhyay, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "O": [
+          "31203",
+          [
+            [
+              1,
+              "TR",
+              "2041 Business Instructional Fac",
+              36,
+              [
+                "Inoue, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "P": [
+          "31212",
+          [
+            [
+              24,
+              "TR",
+              "2043 Business Instructional Fac",
+              36,
+              [
+                "Martinez, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "R": [
+          "31215",
+          [
+            [
+              0,
+              "TR",
+              "2043 Business Instructional Fac",
+              36,
+              [
+                "Martinez, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "S": [
+          "31217",
+          [
+            [
+              13,
+              "MW",
+              "2043 Business Instructional Fac",
+              36,
+              [
+                "Chattopadhyay, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "T": [
+          "31220",
+          [
+            [
+              14,
+              "TR",
+              "2041 Business Instructional Fac",
+              36,
+              [
+                "Inoue, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Analysis of policy formulation and implementation from a company-wide standpoint; emphasis on integration of knowledge and approaches across functional areas; both endogeneous and exogeneous factors which affect company policies; and the role of the firm in society.",
       []
     ],
-    "BADM 461": [
-      "BADM 461",
-      {},
+    "BADM 446": [
+      "Entrepreneurship: New Venture Creation",
+      {
+        "A": [
+          "31067",
+          [
+            [
+              13,
+              "MW",
+              "2005 Business Instructional Fac",
+              36,
+              [
+                "Roach, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Focuses on the opportunities, risks, and management problems involved in establishing and operating new ventures. Covers the steps included in starting a new venture, such as evaluating the opportunity, determining financial and operational requirements and resources, and deciding on the structure of the organization. Includes management issues faced by individual entrepreneurs.",
       []
     ],
     "BADM 453": [
-      "BADM 453",
-      {},
+      "Business Intelligence",
+      {
+        "A": [
+          "31247",
+          [
+            [
+              1,
+              "MW",
+              "3007 Business Instructional Fac",
+              36,
+              [
+                "Ahsen, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Provides a conceptual and practical overview of analytical tools, techniques, and practices used to support data-driven decision making in organizations. Topics include data visualization, data mining, machine learning techniques and business intelligence programming languages.",
+      []
+    ],
+    "BADM 461": [
+      "Tech, Eng, & Mgt Final Project",
+      {
+        "TM": [
+          "30976",
+          [
+            [
+              13,
+              "TR",
+              "161 Noyes Laboratory",
+              13,
+              [
+                "Krishnan, G",
+                "Sakhartov, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          17,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "A hands-on technology management course that will transform you into an efficient and effective manager who can solve problems, meet deadlines, overcome obstacles, communicate effectively, and produce high-quality results. This course will prepare you for the rigors of a full-time position by pairing you with other T&M students to work as a team to solve a modern business problem drawn from one of the industry leaders we partner with for the course.",
       []
     ],
     "BADM 463": [
-      "BADM 463",
-      {},
+      "iVenture Accelerator Seminar I: Topics in Entrepreneurship",
+      {
+        "A": [
+          "76800",
+          [
+            [
+              3,
+              "T",
+              "2007 Business Instructional Fac",
+              36,
+              [
+                "Kourpas, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Designed for students actively engaged in learning through venturing, primarily students in the iVenture Accelerator, the educational accelerator for top student startups at Illinois. This highly collaborative course provides theory, context, and skills to enhance experiential learning-by-venturing. Topics include: feasibility analysis, business modeling, industry analysis, competitor analysis, ethical and legal foundations, corporate forms, building venture teams, growth financing, marketing for startups, intellectual property protection and commercialization, and planning for growth.",
       []
     ],
     "BADM 507": [
-      "BADM 507",
-      {},
+      "Emp. Res. Methods in Bus. Adm.",
+      {
+        "A": [
+          "61585",
+          [
+            [
+              5,
+              "W",
+              "104 Irwin Doctoral Hall",
+              0,
+              [
+                "Smith, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "BADM 508": [
-      "BADM 508",
-      {},
-      [],
-      null,
-      []
-    ],
-    "BADM 510": [
-      "BADM 510",
-      {},
-      [],
-      null,
+      "Research methodology for the study of administrative, industrial, and consumer behavior and organizations; Foundations of measurement - Construct definition, Domain delineation, Reliability, Dimensionality, and Validity, Reliability analysis, Exploratory and Confirmatory factor analysis; Alternative methods of data collection - laboratory experimentation, survey research design, and qualitative research. A completed individual research project involving the development of an entire method is formally presented in class and submitted as a paper.",
       []
     ],
     "BADM 509": [
-      "BADM 509",
-      {},
+      "Managing Organizations",
+      {
+        "IMB": [
+          "69034",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Bednar, M",
+                "Love, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "69035",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Bednar, M",
+                "Love, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Examines and analyzes the organization as a social system and the impact of its various components on work attitudes and behavior; topics include the development of organizational structures, organizational effectiveness, decision making and policy formulation, leadership, and change.",
       []
     ],
-    "BADM 512": [
-      "BADM 512",
-      {},
+    "BADM 508": [
+      "Leadership and Teams",
+      {
+        "IMB": [
+          "69032",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Keating, K",
+                "Luckman, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "69033",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Keating, K",
+                "Luckman, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Develops and integrates fundamental behavioral concepts and theory having administrative applications; initially focuses on the individual decision maker and ultimately includes interpersonal, organizational, and social structures and influences; and develops strategies and methods of research on behavioral applications in business.",
+      []
+    ],
+    "BADM 510": [
+      "Founds of Organizational Behav",
+      {
+        "A": [
+          "40027",
+          [
+            [
+              5,
+              "T",
+              "104 Irwin Doctoral Hall",
+              0,
+              [
+                "Ocasio, W"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to the principal theories and important empirical research in various disciplines that study organizations; in addition to examination of the subject matter content of various disciplines, students critically examine the capacities and limitations of the various fields to make contributions to the study of organizations.",
       []
     ],
     "BADM 519": [
-      "BADM 519",
-      {},
+      "Seminar in Organizational Behavior and Theory",
+      {
+        "B": [
+          "31286",
+          [
+            [
+              5,
+              "M",
+              "TBA",
+              0,
+              [
+                "Sanchez, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "BADM 520": [
-      "BADM 520",
-      {},
-      [],
-      null,
+      "Seminar in topics of organizational behavior and organizational theory. Topics include: Seminar in Organizational Behavior (explores current and classic research in the field of organizational behavior); and Seminar in Organizational Theory (explores current and classic research in the field of Organizational Theory).",
       []
     ],
     "BADM 516": [
-      "BADM 516",
-      {},
+      "Negotiation",
+      {
+        "A": [
+          "77721",
+          [
+            [
+              14,
+              "MW",
+              "2020 Wymer Hall",
+              0,
+              [
+                "Warnick, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
+      "Teaches students the fundamentals of assessing a negotiation situation and developing negotiation strategies. Every business student will encounter situations during their career that require, or could be improved by, effective negotiation, so they need to know how to reach resolutions that are acceptable, practical, and valuable. Students will learn a framework for planning for, conducting, and analyzing negotiations and will engage in a series of negotiations to practice and advance these new skills.",
       []
     ],
-    "BADM 523": [
-      "BADM 523",
-      {},
+    "BADM 520": [
+      "Marketing Management",
+      {
+        "IMB": [
+          "69051",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Noel, H",
+                "Rodas, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "70207",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Noel, H",
+                "Rodas, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
       [],
-      null,
-      []
-    ],
-    "BADM 526": [
-      "BADM 526",
-      {},
-      [],
-      null,
-      []
-    ],
-    "BADM 525": [
-      "BADM 525",
-      {},
-      [],
-      null,
-      []
-    ],
-    "BADM 534": [
-      "BADM 534",
-      {},
-      [],
-      null,
-      []
-    ],
-    "BADM 528": [
-      "BADM 528",
-      {},
-      [],
-      null,
-      []
-    ],
-    "BADM 527": [
-      "BADM 527",
-      {},
-      [],
-      null,
-      []
-    ],
-    "BADM 538": [
-      "BADM 538",
-      {},
-      [],
-      null,
-      []
-    ],
-    "BADM 541": [
-      "BADM 541",
-      {},
-      [],
-      null,
-      []
-    ],
-    "BADM 543": [
-      "BADM 543",
-      {},
-      [],
-      null,
-      []
-    ],
-    "BADM 544": [
-      "BADM 544",
-      {},
-      [],
-      null,
-      []
-    ],
-    "BADM 550": [
-      "BADM 550",
-      {},
-      [],
-      null,
-      []
-    ],
-    "BADM 549": [
-      "BADM 549",
-      {},
-      [],
-      null,
-      []
-    ],
-    "BADM 554": [
-      "BADM 554",
-      {},
-      [],
-      null,
-      []
-    ],
-    "BADM 555": [
-      "BADM 555",
-      {},
-      [],
-      null,
-      []
-    ],
-    "BADM 557": [
-      "BADM 557",
-      {},
-      [],
-      null,
-      []
-    ],
-    "BADM 558": [
-      "BADM 558",
-      {},
-      [],
-      null,
-      []
-    ],
-    "BADM 561": [
-      "BADM 561",
-      {},
-      [],
-      null,
-      []
-    ],
-    "BADM 566": [
-      "BADM 566",
-      {},
-      [],
-      null,
-      []
-    ],
-    "BADM 567": [
-      "BADM 567",
-      {},
-      [],
-      null,
-      []
-    ],
-    "BADM 572": [
-      "BADM 572",
-      {},
-      [],
-      null,
-      []
-    ],
-    "BADM 569": [
-      "BADM 569",
-      {},
-      [],
-      null,
-      []
-    ],
-    "BADM 573": [
-      "BADM 573",
-      {},
-      [],
-      null,
-      []
-    ],
-    "BADM 575": [
-      "BADM 575",
-      {},
-      [],
-      null,
-      []
-    ],
-    "BADM 576": [
-      "BADM 576",
-      {},
-      [],
-      null,
-      []
-    ],
-    "BADM 578": [
-      "BADM 578",
-      {},
-      [],
-      null,
-      []
-    ],
-    "BADM 582": [
-      "BADM 582",
-      {},
-      [],
-      null,
-      []
-    ],
-    "BADM 584": [
-      "BADM 584",
-      {},
-      [],
-      null,
-      []
-    ],
-    "BADM 588": [
-      "BADM 588",
-      {},
-      [],
-      null,
-      []
-    ],
-    "BADM 589": [
-      "BADM 589",
-      {},
-      [],
-      null,
-      []
-    ],
-    "BADM 590": [
-      "BADM 590",
-      {},
-      [],
-      null,
-      []
-    ],
-    "BADM 591": [
-      "BADM 591",
-      {},
-      [],
-      null,
-      []
-    ],
-    "BADM 594": [
-      "BADM 594",
-      {},
-      [],
-      null,
-      []
-    ],
-    "BADM 593": [
-      "BADM 593",
-      {},
-      [],
-      null,
+      "Introduces concepts useful in understanding marketing systems and buyer behavior in addition to developing skills in making marketing decisions; the orientation is primarily managerial and uses examples from both business and non-business contexts.",
       []
     ]
   },
   "caches": {
-    "periods": [],
+    "periods": [
+      "1100 - 1220",
+      "1230 - 1350",
+      "1500 - 1620",
+      "1700 - 1950",
+      "ARRANGED",
+      "1300 - 1550",
+      "0800 - 0950",
+      "1500 - 1650",
+      "1100 - 1150",
+      "0900 - 0950",
+      "1000 - 1050",
+      "1300 - 1350",
+      "1300 - 1420",
+      "1530 - 1650",
+      "1400 - 1520",
+      "1530 - 1620",
+      "1500 - 1550",
+      "0730 - 0920",
+      "1100 - 1250",
+      "1300 - 1450",
+      "0900 - 1050",
+      "1630 - 1720",
+      "1400 - 1450",
+      "1200 - 1250",
+      "0930 - 1050",
+      "1830 - 1950",
+      "1600 - 1730",
+      "0900 - 1020",
+      "1600 - 1650",
+      "1400 - 1550",
+      "1230 - 1320",
+      "1100 - 1350",
+      "1200 - 1320",
+      "1200 - 1450",
+      "1500 - 1750",
+      "0930 - 1220",
+      "1400 - 1650",
+      "1100 - 1320",
+      "1000 - 1150",
+      "0900 - 1150",
+      "1300 - 1750",
+      "1800 - 2050",
+      "1700 - 1820",
+      "1530 - 1820",
+      "1430 - 1520",
+      "1030 - 1120",
+      "1130 - 1220",
+      "0800 - 0920",
+      "1300 - 1650",
+      "1330 - 1750",
+      "1300 - 1620",
+      "1300 - 1520",
+      "1800 - 1950",
+      "1600 - 1750",
+      "1300 - 1540",
+      "1400 - 1640",
+      "0900 - 1140",
+      "0930 - 1210",
+      "1600 - 1840",
+      "1700 - 1940",
+      "1000 - 1120",
+      "1700 - 1850",
+      "1600 - 1720",
+      "1130 - 1250",
+      "1000 - 1240",
+      "1900 - 2240",
+      "1230 - 1345",
+      "1600 - 1715",
+      "1530 - 1720",
+      "1400 - 1530",
+      "1200 - 1350",
+      "1930 - 2050",
+      "1400 - 1720",
+      "1700 - 1750",
+      "1100 - 1450",
+      "1500 - 1850",
+      "1600 - 1850",
+      "0800 - 1150",
+      "1730 - 1900",
+      "1000 - 1130",
+      "0930 - 1020",
+      "1830 - 2030"
+    ],
     "dateRanges": [],
-    "scheduleTypes": [],
+    "scheduleTypes": [
+      "Lecture-Discussion",
+      "Online",
+      "Independent Study",
+      "Seminar",
+      "Laboratory",
+      "Lecture",
+      "Discussion/Recitation",
+      "Online Lecture",
+      "Research",
+      "Internship",
+      "Travel",
+      "Packaged Section",
+      "Online Discussion",
+      "Conference",
+      "Study Abroad",
+      "Online Lab",
+      "Studio",
+      "Laboratory-Discussion",
+      "Practice"
+    ],
     "campuses": [],
     "attributes": [],
     "restrictions": [],
     "gradeBases": [],
-    "locations": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.1035833,
+        "long": -88.228405
+      },
+      {
+        "lat": 40.0995003,
+        "long": -88.223104
+      },
+      {
+        "lat": 40.10628,
+        "long": -88.22621
+      },
+      {
+        "lat": 40.1072225,
+        "long": -88.2262016
+      },
+      {
+        "lat": 40.106778040727896,
+        "long": -88.2194617156191
+      },
+      {
+        "lat": 40.104794,
+        "long": -88.224264
+      },
+      {
+        "lat": 40.103627234541904,
+        "long": -88.22601765311099
+      },
+      {
+        "lat": 40.103620555545135,
+        "long": -88.22982720445013
+      },
+      {
+        "lat": 40.1028373,
+        "long": -88.2251326
+      },
+      {
+        "lat": 40.1109722,
+        "long": -88.2282631
+      },
+      {
+        "lat": 40.1034533,
+        "long": -88.2327596
+      },
+      {
+        "lat": 40.10944320239664,
+        "long": -88.22602522743233
+      },
+      {
+        "lat": 40.108419421661715,
+        "long": -88.2261156301609
+      },
+      {
+        "lat": 40.1033599,
+        "long": -88.2292111
+      },
+      {
+        "lat": 40.1110937,
+        "long": -88.2232348
+      },
+      {
+        "lat": 40.1149521,
+        "long": -88.2267561
+      },
+      {
+        "lat": 40.092875494224195,
+        "long": -88.22082220247309
+      },
+      {
+        "lat": 40.105732,
+        "long": -88.2281018
+      },
+      {
+        "lat": 40.1065684,
+        "long": -88.2281746
+      },
+      {
+        "lat": 40.107534,
+        "long": -88.2281548
+      },
+      {
+        "lat": 40.103587,
+        "long": -88.230606
+      },
+      {
+        "lat": 40.11171215875622,
+        "long": -88.22530849701589
+      },
+      {
+        "lat": 40.1047599,
+        "long": -88.2319514
+      },
+      {
+        "lat": 40.111691,
+        "long": -88.2242511
+      },
+      {
+        "lat": 40.1022093629303,
+        "long": -88.22800864058527
+      },
+      {
+        "lat": 40.1020773,
+        "long": -88.2296394
+      },
+      {
+        "lat": 40.11246109008789,
+        "long": -88.22831726074219
+      },
+      {
+        "lat": 40.101862,
+        "long": -88.231737
+      },
+      {
+        "lat": 40.1083446,
+        "long": -88.2282555
+      },
+      {
+        "lat": 40.10783362157985,
+        "long": -88.22476189569741
+      },
+      {
+        "lat": 40.10755766472843,
+        "long": -88.22995430218522
+      },
+      {
+        "lat": 40.110811306674734,
+        "long": -88.2248467072371
+      },
+      {
+        "lat": 40.1131317,
+        "long": -88.2264552
+      },
+      {
+        "lat": 40.1149296,
+        "long": -88.2280589
+      },
+      {
+        "lat": 40.108570819242026,
+        "long": -88.22518453938676
+      },
+      {
+        "lat": 40.1035872,
+        "long": -88.2306061
+      },
+      {
+        "lat": 40.102726858556835,
+        "long": -88.23259991223857
+      }
+    ],
     "finalDates": [],
     "finalTimes": []
   }

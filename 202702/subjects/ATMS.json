@@ -1,7 +1,7 @@
 {
   "subject": "ATMS",
-  "scrapedAt": 1794503085582,
-  "courseCount": 26,
+  "scrapedAt": 1794503110260,
+  "courseCount": 27,
   "courses": {
     "ATMS 100": [
       "Introduction to Meteorology",
@@ -1287,6 +1287,36 @@
       },
       [],
       "Non-thesis research in the Atmospheric Sciences.",
+      []
+    ],
+    "ATMS 599": [
+      "Thesis Research",
+      {
+        "SN": [
+          "51667",
+          [
+            [
+              4,
+              "",
+              "TBA",
+              0,
+              [
+                "Nesbitt, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Check with the department to identify which CRN is needed for your advisor and any related registration questions.",
       []
     ]
   },
