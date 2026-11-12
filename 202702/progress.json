@@ -4,7 +4,7 @@
   "year": "2027",
   "term": "spring",
   "startedAt": 1794502755201,
-  "lastUpdated": 1794504230580,
+  "lastUpdated": 1794504290558,
   "totalSubjects": 188,
   "totalCourses": 4527,
   "subjects": [
@@ -18819,19 +18819,24 @@
     "MCB",
     "MIP",
     "MUSE",
-    "MUS"
+    "MUS",
+    "MUSC",
+    "NRES",
+    "NS",
+    "NE",
+    "NEUR"
   ],
   "partialSubjects": {
-    "MUSC": {
-      "completed": 7,
-      "total": 121,
+    "NPRE": {
+      "completed": 0,
+      "total": 29,
       "lastCourse": "ABORTED"
     }
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 3357,
-    "failedCourses": 19,
+    "successfulCourses": 3539,
+    "failedCourses": 20,
     "rateLimitCount": 0
   }
 }
