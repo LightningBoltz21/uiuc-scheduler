@@ -4,7 +4,7 @@
   "year": "2027",
   "term": "spring",
   "startedAt": 1794502755201,
-  "lastUpdated": 1794504045937,
+  "lastUpdated": 1794504105759,
   "totalSubjects": 188,
   "totalCourses": 4527,
   "subjects": [
@@ -18797,19 +18797,28 @@
     "JS",
     "JOUR",
     "KOR",
-    "LER"
+    "LER",
+    "LA",
+    "LAT",
+    "LAST",
+    "LLS",
+    "LAW",
+    "LCTL",
+    "LAS",
+    "LING",
+    "SLCL"
   ],
   "partialSubjects": {
-    "LA": {
-      "completed": 14,
-      "total": 27,
+    "MSE": {
+      "completed": 0,
+      "total": 37,
       "lastCourse": "ABORTED"
     }
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 2810,
-    "failedCourses": 16,
+    "successfulCourses": 2975,
+    "failedCourses": 17,
     "rateLimitCount": 0
   }
 }
