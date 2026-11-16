@@ -1,7 +1,7 @@
 {
   "subject": "BIOE",
-  "scrapedAt": 1794806995711,
-  "courseCount": 16,
+  "scrapedAt": 1794807030108,
+  "courseCount": 34,
   "courses": {
     "BIOE 205": [
       "Signals & Systems in Bioengrg",
@@ -1012,6 +1012,978 @@
       [],
       "Students will explore the field of immunoengineering, including basic and translational research for disease intervention and management, with rigorous investigation of the design principles underlying immunologically-based therapies and diagnostics. Students will learn to critically analyze scientific findings and develop effective written and oral communication skills through lectures, literature discussions, in-class activities, and a project requiring students to develop and present novel solutions to address limitations in existing technology in the field.",
       []
+    ],
+    "BIOE 460": [
+      "Gene Editing Lab",
+      {
+        "AL1": [
+          "69310",
+          [
+            [
+              11,
+              "TR",
+              "3109 Everitt Laboratory",
+              18,
+              [
+                "Gaj, T Gaj, T"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              24,
+              "M",
+              "3109 Everitt Laboratory",
+              18,
+              [
+                "Gaj, T Gaj, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "The objective of this course is to provide the knowledge and hands-on experience required for both designing and building tools that are necessary to engineer biological systems at the molecular and cellular levels. This particular course will highlight diverse examples of applications in synthetic biology. It will deal with such topics as gene editing, epigenome engineering, regulation of gene expression and synthetic life. Projects will be assigned for small teams. Students will submit a report after completion of each project. Students will have the opportunity to independently design and execute a genetic engineering project and present their project to the class.",
+      []
+    ],
+    "BIOE 481": [
+      "Whole-Body Musculoskel Biomech",
+      {
+        "WMG": [
+          "66065",
+          [
+            [
+              17,
+              "MWF",
+              "3100 Sidney Lu Mech Engr Bldg",
+              22,
+              [
+                "Kersh, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "WMU": [
+          "63299",
+          [
+            [
+              17,
+              "MWF",
+              "3100 Sidney Lu Mech Engr Bldg",
+              22,
+              [
+                "Kersh, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      null,
+      []
+    ],
+    "BIOE 470": [
+      "Regulatory, Quality, and Safety Issues in Bioengineering",
+      {
+        "RI1": [
+          "78692",
+          [
+            [
+              13,
+              "TR",
+              "1302 Everitt Laboratory",
+              18,
+              [
+                "Amos, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "RI2": [
+          "78693",
+          [
+            [
+              13,
+              "TR",
+              "1302 Everitt Laboratory",
+              18,
+              [
+                "Amos, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "RIO": [
+          "78694",
+          [
+            [
+              7,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Amos, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Overview of regulatory agencies involved in approval of medical products. Approaches to quality engineering including safety and risk analysis for medical products. Students will learn from case studies of medical product approvals and perform risk analysis for medical products.",
+      []
+    ],
+    "BIOE 486": [
+      "Applied Deep Learning for Biomedical Imaging",
+      {
+        "DL1": [
+          "72055",
+          [
+            [
+              27,
+              "TR",
+              "2233 Everitt Laboratory",
+              18,
+              [
+                "Lam, F"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "DL2": [
+          "75060",
+          [
+            [
+              27,
+              "TR",
+              "2233 Everitt Laboratory",
+              18,
+              [
+                "Lam, F"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "DLO": [
+          "76031",
+          [
+            [
+              7,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Lam, F"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Covers basic concepts, methodology and algorithms in deep learning and their applications to solve various biomedical imaging problems. Introduction to neural networks and their application to supervised and unsupervised learning problems formulated for biomedical imaging will be provided. Connections between general learning methodologies and specific challenges in the field of biomedical imaging, and design, implementation and evaluation of deep neural network-based solutions to imaging problems will be emphasized. Problems covered will include imaging system design and optimization, image recovery and reconstruction (built on the imaging physics and system course – BIOE 483), image processing (e.g., denoising, super-resolution and enhancement) and image analysis (e.g., same-contrast, multi-contrast and multimodal image registration, segmentation, classification and quality assessment). Biomedical application specific problems and solutions will be covered via hands-on problems and team-based projects.",
+      []
+    ],
+    "BIOE 484": [
+      "Statistical Analysis of Biomedical Images",
+      {
+        "AL1": [
+          "72054",
+          [
+            [
+              6,
+              "TR",
+              "3117 Everitt Laboratory",
+              18,
+              [
+                "Li, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "AL2": [
+          "75059",
+          [
+            [
+              6,
+              "TR",
+              "3117 Everitt Laboratory",
+              18,
+              [
+                "Li, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "ALO": [
+          "76030",
+          [
+            [
+              7,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Li, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Biomedical image data often come in extreme numbers: there is either so many of them that humans can't analyze them in reasonable time (e.g., three-dimensional light sheet microscopy data) or they are few, highly varied and of limited spatial and intensity resolutions (e.g., positron emission tomography scans). Furthermore, the extraction of image features and the characterization of modality-dependent background noise can be particularly challenging in typical biomedical scenarios. In this course, several applications of statistical learning to biomedical image data will be covered in depth from first principles. Analyses will be done in Python using the Scikit-learn package and all homework assignments comprise statistical analyses of biomedical image data in real decision scenarios. Histogram transforms and the fundamental properties of image texture will be introduced and revisited throughout the course. The extraction of both low- and high-order spatial features at multiple scales will be demonstrated and employed throughout the course. Support vector machines will be introduced and applied to image classification and interpretation tasks. The random forest algorithm will be introduced and used on a number of large- and small-data tasks. Multiple linear regression will be applied to neuroimaging data and some common methods of assessing model robustness shown. Cross-validation of image-derived decisions and some common methods of assessing model robustness will be shown. Feature selection and dimensionality will be discussed in terms of diagnostic task performance. The effects of inter-feature correlation upon prediction confidence will be discussed. Principal component analysis will be described and applied to various image processing tasks. Unsupervised clustering and cluster analysis of extracted image features will be introduced. Stochastic object models will be introduced and applied in various validation tasks.",
+      []
+    ],
+    "BIOE 487": [
+      "Stem Cell Bioengineering",
+      {
+        "SC1": [
+          "68802",
+          [
+            [
+              31,
+              "TR",
+              "101 Transportation Building",
+              24,
+              [
+                "Underhill, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "SC2": [
+          "76881",
+          [
+            [
+              31,
+              "TR",
+              "101 Transportation Building",
+              24,
+              [
+                "Underhill, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "SCO": [
+          "76882",
+          [
+            [
+              7,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Underhill, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Stem Cell Bioengineering will provide a foundation in the application of engineering approaches for the quantitative analysis of stem cell biology and the translation of stem cells into therapies. There will be 4 main sections of the course; (i) Stem Cell Basics, (ii) Stem Cell Genetics, (iii) Stem Cell Microenvironments, and (iv) Stem Cell Applications. The course will be targeted for first year graduate students and senior-level undergraduate students. The course will use a lecture and discussion format to effectively present relevant information.",
+      []
+    ],
+    "BIOE 497": [
+      "Individual Study",
+      {
+        "45449": [
+          "45449",
+          [
+            [
+              7,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Special project or reading activity.",
+      []
+    ],
+    "BIOE 498": [
+      "Special Topics",
+      {
+        "MPM": [
+          "60233",
+          [
+            [
+              6,
+              "TR",
+              "2233 Everitt Laboratory",
+              18,
+              [
+                "Leggett, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "NM1": [
+          "68833",
+          [
+            [
+              20,
+              "MW",
+              "2018 Campus Instructional Facility",
+              26,
+              [
+                "Jang, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Subject offerings of new and developing areas of knowledge in bioengineering intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites.",
+      []
+    ],
+    "BIOE 499": [
+      "Senior Thesis",
+      {
+        "64753": [
+          "64753",
+          [
+            [
+              7,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Limited in general to seniors in the curriculum in bioengineering. Any others must have the consent of the department chief advisor. Each student taking the course must register in a minimum of 5 hours either in one term or divided over two terms.",
+      []
+    ],
+    "BIOE 570": [
+      "Professional Practice Seminar",
+      {
+        "SSC": [
+          "63432",
+          [
+            [
+              15,
+              "F",
+              "3117 Everitt Laboratory",
+              18,
+              [
+                "Bradley, J",
+                "Talbott, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "SSO": [
+          "67341",
+          [
+            [
+              7,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Bradley, J",
+                "Talbott, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          8,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Explores innovation, translation, and professional development in bioengineering through guest seminars, industry engagement, and career-focused activities. Students examine real-world challenges in the biomedical sector while developing critical professional communication, networking, and career readiness skills.",
+      []
+    ],
+    "BIOE 500": [
+      "Graduate Seminar",
+      {
+        "A": [
+          "45301",
+          [
+            [
+              10,
+              "W",
+              "1306 Everitt Laboratory",
+              18,
+              [
+                "Dobrucki, W"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Lecture surveying a broad range of Bioengineering topics.",
+      []
+    ],
+    "BIOE 572": [
+      "Biological Measurement II",
+      {
+        "BM2": [
+          "63435",
+          [
+            [
+              6,
+              "MW",
+              "3217 Everitt Laboratory",
+              18,
+              [
+                "Wang, X"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "BMO": [
+          "71999",
+          [
+            [
+              7,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Wang, X"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "With special focus on medical imaging, learn about advanced techniques relating to state-of-the-art bioinstrumentation technologies. Topics will broadly include fluorescence, genomic and proteomic diagnostics, biosensors, ultrasound imaging, microscopy and their uses relevant to physiological changes related to major human diseases.",
+      []
+    ],
+    "BIOE 574": [
+      "Innovation and Introduction to Financial Decision Making",
+      {
+        "LEC": [
+          "63437",
+          [
+            [
+              19,
+              "TR",
+              "3117 Everitt Laboratory",
+              18,
+              [
+                "Bradley, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "LEO": [
+          "72000",
+          [
+            [
+              7,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Bradley, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Tools, concepts, and analytical frameworks that enhance the ability to define and analyze strategic problems stemming from innovation and technological change, and to identify sources of competitive advantage from both an industry and firm-level perspective. Introduction to financial decision making, including topics in valuation, project analysis and risk-return relationships.",
+      []
+    ],
+    "BIOE 575": [
+      "Capstone Project",
+      {
+        "CPC": [
+          "66788",
+          [
+            [
+              47,
+              "F",
+              "2101 Everitt Laboratory",
+              18,
+              [
+                "Amos, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "CPO": [
+          "72001",
+          [
+            [
+              7,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Amos, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          8,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Students in the Master of Engineering (M.Eng.) in Bioengineering program will demonstrate their proficiency through a capstone project, where students will work on a translational project to develop solutions for real world problems utilizing principles of design, engineering analysis, and functional operation of engineering systems. Depending on the student's flexibility and availability, capstone projects may include collaboration with other online M.Eng. students on a team-based project, analysis of case studies, or even a self-directed project that directly relates to a specific area of interest or on behalf of their employer. Project presentations and demonstrations may be required at the end of the program.",
+      []
+    ],
+    "BIOE 580": [
+      "Foundations of Imaging Science",
+      {
+        "FIO": [
+          "77093",
+          [
+            [
+              7,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Newman, W"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "FIS": [
+          "74158",
+          [
+            [
+              50,
+              "MW",
+              "3117 Everitt Laboratory",
+              18,
+              [
+                "Newman, W"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Exposes students to a broad treatment of the mathematical and statistical principles of biomedical imaging. In addition to providing a foundation for understanding general principles of image formation and objective image quality assessment that are widely applicable, this material will be essential for the principled and successful application of artificial intelligence methods in biomedical imaging. This course will cover the mathematical concepts needed for the deterministic analysis of imaging systems. Linear operator theory will be employed to describe continuous-to-continuous, continuous-to-discrete, and discrete-to-discrete mappings from objects to images. In addition, imaging systems will be analyzed in a statistical framework where stochastic models for objects and images will be introduced. Methodologies for objective assessment of image quality (OAIQ) will be introduced, which will address classification tasks, receiver operator characteristic (ROC) analysis, and salient aspects estimation theory. An introduction to numerical observers for quantification of OAIQ will be provided.",
+      []
+    ],
+    "BIOE 588": [
+      "Biomedical Image Computing Capstone Project Literature Review",
+      {
+        "CLO": [
+          "77261",
+          [
+            [
+              7,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Newman, W"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "CLR": [
+          "74085",
+          [
+            [
+              15,
+              "F",
+              "3217 Everitt Laboratory",
+              18,
+              [
+                "Newman, W"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "This journal-club style course will expose students to the modern literature on biomedical imaging and machine learning. Students will be exposed to cutting edge topics in the rapidly evolving field of biomedical image computing. Additionally, the course will prepare students for the capstone project in the Biomedical Image Computing MS degree program that will take place in the third semester of the program. During this course, students will interact with potential project mentors and engage in detailed literature reviews related to potential projects.",
+      []
+    ],
+    "BIOE 597": [
+      "Individual Study",
+      {
+        "10413": [
+          "10413",
+          [
+            [
+              7,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Special project or reading activity.",
+      []
+    ],
+    "BIOE 598": [
+      "Special Topics",
+      {
+        "B1": [
+          "46922",
+          [
+            [
+              7,
+              "",
+              "TBA",
+              0,
+              [
+                "Irudayaraj, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "MPM": [
+          "60234",
+          [
+            [
+              6,
+              "TR",
+              "2233 Everitt Laboratory",
+              18,
+              [
+                "Leggett, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "NM1": [
+          "68834",
+          [
+            [
+              20,
+              "MW",
+              "2018 Campus Instructional Facility",
+              26,
+              [
+                "Jang, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "RXB": [
+          "64989",
+          [
+            [
+              27,
+              "TR",
+              "3117 Everitt Laboratory",
+              18,
+              [
+                "Liu, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Subject offerings of new and developing areas of knowledge in bioengineering intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites.",
+      []
     ]
   },
   "caches": {
@@ -1065,7 +2037,8 @@
       "1500 - 1850",
       "1200 - 1450",
       "1500 - 1750",
-      "1600 - 1850"
+      "1600 - 1850",
+      "1500 - 1650"
     ],
     "dateRanges": [],
     "scheduleTypes": [
