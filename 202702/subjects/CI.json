@@ -1,7 +1,7 @@
 {
   "subject": "CI",
-  "scrapedAt": 1794807255640,
-  "courseCount": 38,
+  "scrapedAt": 1794807283938,
+  "courseCount": 48,
   "courses": {
     "CI 211": [
       "Introduction to Learning",
@@ -2144,6 +2144,350 @@
       [],
       "Examines trauma-informed approaches that educators can view and support student behavior. The course will focus on understanding the influences on student behavior, differing perspectives on behavior, and the underlying causes of student behavior. Additionally, this course will emphasize understanding and implementing both proactive and reactive strategies to support student behavior, along with the role of education professionals in supporting student behavior.",
       []
+    ],
+    "CI 527": [
+      "Restorative Justice in Education",
+      {
+        "A": [
+          "78281",
+          [
+            [
+              60,
+              "T",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Examines classroom community-building as well as restorative responses to conflicts and violations of school norms and rules through theoretical, empirical, and experiential writings and videos focusing on the K-12 context. Opportunities to develop and practice applied \"facilitation\" skills may also be available. To the extent possible within the structure of the university system, the course itself will be guided by restorative principles, including power sharing.",
+      []
+    ],
+    "CI 552": [
+      "Qualitative Writing",
+      {
+        "A": [
+          "57745",
+          [
+            [
+              116,
+              "W",
+              "ONLINE",
+              0,
+              [
+                "Goodnight, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Focuses on analysis of data and writing of qualitative/ethnographic research in educational contexts. Topics include the history of qualitative research practices; approaches to the analysis and interpretation of multiple forms of data, including coding, discourse analysis, text analysis, and structural/post-structural analysis; different styles of qualitative writing; social theory as a framing device; and writing for publication. Provides a theoretically informed but very practical, hands-on approach to qualitative writing for graduate researchers across the broad range of educational and social science contexts. One part of the course focuses on methods of analysis through application, while a second part is designed as a writer's workshop in which students \"write up\" the data from a study in three narrative styles. Assignments include weekly readings, three short writing assignments, and a more substantial writing project. Advanced graduate standing is useful but not required.",
+      []
+    ],
+    "CI 539": [
+      "Introduction to Educational Data Mining",
+      {
+        "A": [
+          "76846",
+          [
+            [
+              34,
+              "T",
+              "385 Education Building",
+              5,
+              [
+                "Kang, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Throughout the semester, students will learn how data mining and machine learning approaches can be applied to educational data. Students will learn about the different types of data mining and machine learning techniques, reading about examples of how those techniques have applied to educational data and learning how to use tools to apply those techniques.",
+      []
+    ],
+    "CI 566": [
+      "Topics Writ Pedagogy & Design",
+      {
+        "T": [
+          "32286",
+          [
+            [
+              89,
+              "R",
+              "107A English Building",
+              11,
+              [
+                "McKinney, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as ENGL 583. See ENGL 583.",
+      []
+    ],
+    "CI 553": [
+      "Critiques of Educational Technology",
+      {
+        "A": [
+          "77453",
+          [
+            [
+              60,
+              "T",
+              "ONLINE",
+              0,
+              [
+                "Castillo, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Students will critically examine the social, pedagogical, cognitive, and political impact of implementing technology in educational contexts. We will survey various perspectives critical of educational technology in an effort to clarify its actual and potential value. The course will review papers and other works skeptical of educational technology as a whole, as well as research questioning specific initiatives such as mass distribution of computers in schools, data analytics, MOOCs, intelligent tutors, virtual reality, generative AI, etc.",
+      []
+    ],
+    "CI 565": [
+      "Topics Research and Writing",
+      {
+        "T": [
+          "43361",
+          [
+            [
+              117,
+              "T",
+              "107A English Building",
+              11,
+              [
+                "Littlefield, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as ENGL 582. See ENGL 582.",
+      []
+    ],
+    "CI 569": [
+      "Topics Discourse and Writing",
+      {
+        "E": [
+          "32288",
+          [
+            [
+              49,
+              "R",
+              "376 Education Building",
+              5,
+              [
+                "Hines, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as ENGL 584. See ENGL 584.",
+      []
+    ],
+    "CI 590": [
+      "Seminar for Advanced Study of Education",
+      {
+        "10448": [
+          "10448",
+          [
+            [
+              7,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "FG": [
+          "48824",
+          [
+            [
+              34,
+              "M",
+              "376 Education Building",
+              5,
+              [
+                "Toliver, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "ISS": [
+          "14899",
+          [
+            [
+              7,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Wilson, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          8,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Seminar for graduate students on specific topics.",
+      []
+    ],
+    "CI 591": [
+      "Field Study & Thesis Seminar",
+      {
+        "10450": [
+          "10450",
+          [
+            [
+              7,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Assists doctoral candidates in planning field studies and thesis problems. Students are expected to present their studies at each of four stages: (1) the inception, delimitation, tentative design stage; (2) the proposed design stage; (3) the revised design stage; and (4) the final design stage. Students are expected to analyze critically all presentations.",
+      []
+    ],
+    "CI 595": [
+      "Independent Study",
+      {
+        "10443": [
+          "10443",
+          [
+            [
+              7,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Offers opportunity and challenge of self-directive, independent study; develops the individual's ability as an independent student, and enables the student to pursue needed study in a field in which appropriate courses are not being offered during a given term.",
+      []
     ]
   },
   "caches": {
@@ -2263,7 +2607,9 @@
       "0800 - 1050",
       "0900 - 1120",
       "1630 - 1920",
-      "1800 - 1920"
+      "1800 - 1920",
+      "1200 - 1650",
+      "1300 - 1530"
     ],
     "dateRanges": [],
     "scheduleTypes": [
