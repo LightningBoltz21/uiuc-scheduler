@@ -4,7 +4,7 @@
   "year": "2027",
   "term": "spring",
   "startedAt": 1794806655181,
-  "lastUpdated": 1794807560601,
+  "lastUpdated": 1794807615542,
   "totalSubjects": 188,
   "totalCourses": 4532,
   "subjects": [
@@ -18797,19 +18797,23 @@
     "GLBL",
     "GC",
     "GRK",
-    "HT"
+    "HT",
+    "HK",
+    "HBSE",
+    "HEBR",
+    "HNDI"
   ],
   "partialSubjects": {
-    "HK": {
-      "completed": 6,
-      "total": 122,
+    "HIST": {
+      "completed": 52,
+      "total": 55,
       "lastCourse": "ABORTED"
     }
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 2254,
-    "failedCourses": 13,
+    "successfulCourses": 2429,
+    "failedCourses": 14,
     "rateLimitCount": 0
   }
 }
