@@ -1,7 +1,7 @@
 {
   "subject": "LER",
-  "scrapedAt": 1794807745561,
-  "courseCount": 21,
+  "scrapedAt": 1794807819493,
+  "courseCount": 31,
   "courses": {
     "LER 110": [
       "Labor and Social Movements",
@@ -679,6 +679,438 @@
       },
       [],
       "Training and experience for Ph.D. students in the application of social science and industrial relations theory and research methodology to contemporary industrial relations problems through presentation and discussion of faculty and student research. Ph.D. students are required to make presentations and to participate in workshop discussions during the entire period of their campus residency.",
+      []
+    ],
+    "LER 561": [
+      "Compensation Systems",
+      {
+        "A": [
+          "53168",
+          [
+            [
+              35,
+              "R",
+              "TBA",
+              0,
+              [
+                "Zhang, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "O": [
+          "75877",
+          [
+            [
+              129,
+              "W",
+              "ONLINE",
+              0,
+              [
+                "Schiller, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Compensation theory and practice. Course addresses the theoretical and practical issues associated with the design of effective compensation systems. The design phases include establishing internal equity, external equity, and individual equity. Budgeting and administration are also addressed. Case analyses and computer simulations may be used to supplement course materials.",
+      []
+    ],
+    "LER 562": [
+      "HR Planning and Staffing",
+      {
+        "A": [
+          "53166",
+          [
+            [
+              9,
+              "T",
+              "TBA",
+              0,
+              [
+                "Neighbors, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Examines conceptual issues, policies, and practices relating to the attraction, selection, development, and planning for the most effective utilization of human resources.",
+      []
+    ],
+    "LER 565": [
+      "HR Management and Strategy",
+      {
+        "01": [
+          "52770",
+          [
+            [
+              112,
+              "W",
+              "53 Inst Labor & Industrial Rel",
+              0,
+              [
+                "Benton, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Designed to provide integration across the specific functional areas of the human resources management (HRM) field, while at the same time demonstrating the linkages horizontally within HRM and vertically with strategic management of the firm. This case-focused course places emphasis on human resources issues of strategic importance to the organization.",
+      []
+    ],
+    "LER 571": [
+      "Executive Compensation",
+      {
+        "A": [
+          "79032",
+          [
+            [
+              35,
+              "M",
+              "TBA",
+              0,
+              [
+                "Jung, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduces theories and practices of executive compensation to MHRIR students. Through short lectures, case studies, and team projects, students will learn about diverse theories of executive compensation and contemporary practices through which firms design and implement compensation plans for executives. By examining actual compensation contracts from public corporations, students will also compare different compensation designs and acquire skills to evaluate their effectiveness in terms of enhancing the performance of executives and their firms.",
+      []
+    ],
+    "LER 580": [
+      "Internship",
+      {
+        "A": [
+          "58055",
+          [
+            [
+              7,
+              "",
+              "TBA",
+              0,
+              [
+                "Barker, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          12,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Full or part-time practice of human resources or employment relations in an off-campus government, corporate or not-for-profit environment.",
+      []
+    ],
+    "LER 568": [
+      "Firm Performance and HR",
+      {
+        "A": [
+          "53171",
+          [
+            [
+              112,
+              "W",
+              "TBA",
+              0,
+              [
+                "Weaver, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "The purpose of this course is to enable students to understand some basic ideas about and measures of firm performance with heavy emphasis on the role of human resource managers. Students will gain an understanding of how human resource professionals fit into the organization, structure, and function of business firms. Many basic ideas from the field of finance will be studied. The course covers theoretical ideas and has many empirical, policy, and practitioner-relevant applications, all with the goal of providing human resource managers fundamental financial analysis tools to enable them to function effectively in their post-graduate corporate workplaces.",
+      []
+    ],
+    "LER 593": [
+      "Quantitative Methods in LER",
+      {
+        "AE1": [
+          "53174",
+          [
+            [
+              9,
+              "R",
+              "TBA",
+              0,
+              [
+                "Zhang, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "AQ1": [
+          "53175",
+          [
+            [
+              24,
+              "F",
+              "51 Inst Labor & Industrial Rel",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          19,
+          0,
+          [],
+          -1
+        ],
+        "AQ2": [
+          "53176",
+          [
+            [
+              15,
+              "F",
+              "51 Inst Labor & Industrial Rel",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          19,
+          0,
+          [],
+          -1
+        ],
+        "O": [
+          "75878",
+          [
+            [
+              129,
+              "M",
+              "ONLINE",
+              0,
+              [
+                "Ogolsky, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Application of statistical methods to problems in human resources and industrial relations. Analysis and presentation of results using computer software. Covers statistical techniques through analysis of variance and multiple regression.",
+      []
+    ],
+    "LER 590": [
+      "Individual Topics",
+      {
+        "53819": [
+          "53819",
+          [
+            [
+              7,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "CT": [
+          "75927",
+          [
+            [
+              9,
+              "T",
+              "TBA",
+              0,
+              [
+                "Kallas, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "EMC": [
+          "75926",
+          [
+            [
+              35,
+              "T",
+              "TBA",
+              0,
+              [
+                "Palmer, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Students in labor and industrial relations may register for this unit with the consent of the curriculum adviser and the adviser under whom the student will perform individual study or research. Such individual work may include special study in a subject matter for which no course is available or an individual research project, including on-the-job research in industry, which is not being undertaken for a thesis.",
+      []
+    ],
+    "LER 595": [
+      "Managing Diversity Globally",
+      {
+        "O": [
+          "77068",
+          [
+            [
+              129,
+              "T",
+              "ONLINE",
+              0,
+              [
+                "Neighbors, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "In a global economy workplace diversity is not a trend; it is a reality faced by corporate leaders, human resource professionals and management consultants. Within the US, immigration, migration, and gender and racial differences have been major trends shaping workplace composition. Globalization places additional pressures on managing workplace diversity effectively. In this setting, training managers and human resource professionals to manage differences and adapt to multiple national and cultural contexts is an imperative. Course provides an in-depth understanding of how managers and HR professionals can be effective in not only managing diversity in a global context, but also in leveraging global diversity as a competitive advantage. By the end of this course students will have a holistic appreciation of the tools necessary to implement effective diversity management practices for a globally inclusive workplace.",
+      []
+    ],
+    "LER 597": [
+      "Employee Motivation & Perfmnce",
+      {
+        "O": [
+          "75876",
+          [
+            [
+              59,
+              "R",
+              "ONLINE",
+              0,
+              [
+                "Franz, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Managing and motivating employees effectively is one of the most complex and challenging issues facing companies today. While business leaders acknowledge the need for implementing effective performance management systems, recent studies indicate that an overwhelming majority of performance management systems are unsuccessful. Takes a strategic approach to employee motivation and performance starting with a firm level view to reviewing current approaches to employee motivation and performance management. Aims at providing students with practical and conceptual tools that will aid them in future endeavors to design and implement employee development and performance management systems. Format includes in-class discussions, case studies and individual assignments and papers.",
       []
     ]
   },
