@@ -1,7 +1,7 @@
 {
   "subject": "ACES",
-  "scrapedAt": 1794806870616,
-  "courseCount": 3,
+  "scrapedAt": 1794806896316,
+  "courseCount": 5,
   "courses": {
     "ACES 298": [
       "International Experience",
@@ -92,6 +92,66 @@
       },
       [],
       "Introduction to College of ACES and campus resources for students new to the College of ACES. Required of all off campus transfer students and optional for Inter College Transfer students. First eight weeks course.",
+      []
+    ],
+    "ACES 299": [
+      "ACES Study Abroad",
+      {
+        "A": [
+          "30675",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Freter, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          18,
+          15,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Provides campus credit in the College of Agricultural, Consumer and Environmental Sciences for study at accredited foreign institutions. Final determination of credit granted is made upon the student's successful completion of work.",
+      []
+    ],
+    "ACES 398": [
+      "Experiential Learning",
+      {
+        "JM": [
+          "78440",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "McCoy, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          8,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Supervised experience in a field directly pertaining to a subject matter related to Sustainability in Food and Envrionmental Systems. Students are required to complete a Memorandum of Agreement prior to enrolling in this course.",
       []
     ]
   },
@@ -184,7 +244,8 @@
       "Online Lecture",
       "Research",
       "Seminar",
-      "Packaged Section"
+      "Packaged Section",
+      "Study Abroad"
     ],
     "campuses": [],
     "attributes": [],
