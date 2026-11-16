@@ -1,7 +1,7 @@
 {
   "subject": "BADM",
-  "scrapedAt": 1794807060496,
-  "courseCount": 98,
+  "scrapedAt": 1794807089550,
+  "courseCount": 99,
   "courses": {
     "BADM 199": [
       "Undergraduate Open Seminar",
@@ -5094,6 +5094,36 @@
       },
       [],
       "Approved for both letter and S/U grading.",
+      []
+    ],
+    "BADM 594": [
+      "Independent Study and Research",
+      {
+        "10405": [
+          "10405",
+          [
+            [
+              7,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Directed reading and research.",
       []
     ]
   },
