@@ -1,0 +1,1212 @@
+{
+  "subject": "BIOE",
+  "scrapedAt": 1794806995711,
+  "courseCount": 16,
+  "courses": {
+    "BIOE 205": [
+      "Signals & Systems in Bioengrg",
+      {
+        "AD1": [
+          "51650",
+          [
+            [
+              24,
+              "F",
+              "3038 Campus Instructional Facility",
+              26,
+              [
+                "Ansari, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "AD2": [
+          "51651",
+          [
+            [
+              24,
+              "F",
+              "0018 Campus Instructional Facility",
+              26,
+              [
+                "Ansari, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "AD3": [
+          "77741",
+          [
+            [
+              15,
+              "F",
+              "3038 Campus Instructional Facility",
+              26,
+              [
+                "Ansari, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "AD4": [
+          "77742",
+          [
+            [
+              15,
+              "F",
+              "2036 Campus Instructional Facility",
+              26,
+              [
+                "Ansari, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "AD5": [
+          "77743",
+          [
+            [
+              36,
+              "F",
+              "3117 Everitt Laboratory",
+              18,
+              [
+                "Ansari, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "AD6": [
+          "77744",
+          [
+            [
+              36,
+              "F",
+              "3217 Everitt Laboratory",
+              18,
+              [
+                "Ansari, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "60964",
+          [
+            [
+              15,
+              "MW",
+              "1320 Digital Computer Laboratory",
+              27,
+              [
+                "Ansari, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to signals and linear systems with examples from biology and medicine. Linear systems and mathematical models of systems, including differential equations, convolution, Laplace transforms, Fourier series and transforms, and discrete representations. Class examples and coursework apply general techniques to problems in biological signal analysis, including circuits, enzyme kinematics, and physiological system analysis. Use of Matlab and Simulink software to understand more complex systems.",
+      []
+    ],
+    "BIOE 120": [
+      "Introduction to Bioengineering",
+      {
+        "1": [
+          "31790",
+          [
+            [
+              16,
+              "MW",
+              "3031 Campus Instructional Facility",
+              26,
+              [
+                "Ansari, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Lectures and discussions of recent trends in bioengineering; topics typically include biological interaction with ultrasound and microwave radiation, modeling, instrumentation, biomaterials, biomechanics, biological heat and mass transfer, and medical imaging techniques.",
+      []
+    ],
+    "BIOE 202": [
+      "Cell & Tissue Engineering Lab",
+      {
+        "AB1": [
+          "46392",
+          [
+            [
+              45,
+              "M",
+              "3109 Everitt Laboratory",
+              18,
+              [
+                "Perez Pinera, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AB2": [
+          "46394",
+          [
+            [
+              46,
+              "M",
+              "3109 Everitt Laboratory",
+              18,
+              [
+                "Perez Pinera, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AB4": [
+          "58436",
+          [
+            [
+              46,
+              "T",
+              "3109 Everitt Laboratory",
+              18,
+              [
+                "Perez Pinera, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AB5": [
+          "64020",
+          [
+            [
+              45,
+              "W",
+              "3109 Everitt Laboratory",
+              18,
+              [
+                "Perez Pinera, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AB6": [
+          "74413",
+          [
+            [
+              46,
+              "W",
+              "3109 Everitt Laboratory",
+              18,
+              [
+                "Perez Pinera, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "46396",
+          [
+            [
+              10,
+              "F",
+              "2310 Everitt Laboratory",
+              18,
+              [
+                "Perez Pinera, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Principles of cell biology inherent in tissue engineering design. Lab experience in safely and skillfully manipulating cells of the four tissue types and performing various quantitative analyses on products produced by cells that have differentiated.",
+      []
+    ],
+    "BIOE 210": [
+      "Linear Algebra for Biomedical Data Science",
+      {
+        "LEC": [
+          "69415",
+          [
+            [
+              13,
+              "TR",
+              "2310 Everitt Laboratory",
+              18,
+              [
+                "Webb, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Using analytical and computational tools from linear algebra, students will Solve large systems of linear equations, systems of linear ODEs, and linear PDEs; Analyze large, multivariable datasets to quantify relationships between variables; Decompose complex datasets into simpler representations; Introduce and solve common problems in classification, image processing, and machine learning; Develop a geometric understanding of high-dimensional spaces.",
+      []
+    ],
+    "BIOE 297": [
+      "Individual Study",
+      {
+        "45391": [
+          "45391",
+          [
+            [
+              7,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Special project or reading activity.",
+      []
+    ],
+    "BIOE 303": [
+      "Quantitative Physiology Lab",
+      {
+        "AB1": [
+          "59648",
+          [
+            [
+              47,
+              "T",
+              "0215 Everitt Laboratory",
+              18,
+              [
+                "Griebel, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AB2": [
+          "59651",
+          [
+            [
+              48,
+              "T",
+              "0215 Everitt Laboratory",
+              18,
+              [
+                "Griebel, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AB3": [
+          "60230",
+          [
+            [
+              47,
+              "R",
+              "0215 Everitt Laboratory",
+              18,
+              [
+                "Griebel, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AB4": [
+          "78689",
+          [
+            [
+              48,
+              "R",
+              "0215 Everitt Laboratory",
+              18,
+              [
+                "Griebel, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "59647",
+          [
+            [
+              17,
+              "M",
+              "4025 Campus Instructional Facility",
+              26,
+              [
+                "Griebel, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Experiments involving the modeling and measurement of animal and human physiology systems. Use of computer simulations to provide mathematical descriptions of physiology behavior. Calibration and validation of models through hands-on experiments. Focus on quantitative measurement of neural, cardiovascular, respiratory, muscular, and endocrine system functions.",
+      []
+    ],
+    "BIOE 360": [
+      "Transport & Flow in Bioengrg",
+      {
+        "LEC": [
+          "60966",
+          [
+            [
+              24,
+              "MWF",
+              "3031 Campus Instructional Facility",
+              26,
+              [
+                "Cvetkovic, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Fundamentals of fluid dynamics and mass transport applied to analysis of biological systems. Quantitative understanding of microscopic to macroscopic phenomena in biological systems related to their sensing by imaging techniques. Molecular phenomena in both healthy tissue and disease using examples from cardiovascular problems and cancer using ultrasound, optical and MRI techniques.",
+      []
+    ],
+    "BIOE 310": [
+      "Computational Tools for Biological Data",
+      {
+        "LEC": [
+          "60965",
+          [
+            [
+              13,
+              "TR",
+              "1310 Digital Computer Laboratory",
+              27,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Fundamental and applied statistics, including probability distributions, parameter estimation, descriptive statistics, hypothesis testing, and linear regression. Statistical methods in genomics including sequence analysis, gene expression data analysis, human genomic variation, regulatory genomics, and cancer genomics.",
+      []
+    ],
+    "BIOE 397": [
+      "Individual Study",
+      {
+        "10412": [
+          "10412",
+          [
+            [
+              7,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Special project or reading activity.",
+      []
+    ],
+    "BIOE 400": [
+      "Bioengineering Senior Design",
+      {
+        "SD": [
+          "75524",
+          [
+            [
+              47,
+              "F",
+              "2101 Everitt Laboratory",
+              18,
+              [
+                "Golecki, H",
+                "Kuyel, D",
+                "Pham, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Students perform market research and explore entrepreneurship in bioengineering resulting in the design of a device or process; practice problem identification and analyze solutions for real-world problems from the perspective of value added for end-users; use principles of design, engineering analysis, and customer discovery. This course emphasizes effective teamwork and technical communication; integrates intellectual property, United States Food and Drug Administration Quality System Regulation and Design Controls, human-centered design, FDA regulation, professionalism, and ethics.",
+      []
+    ],
+    "BIOE 414": [
+      "Biomedical Instrumentation",
+      {
+        "B": [
+          "33725",
+          [
+            [
+              16,
+              "MWF",
+              "4025 Campus Instructional Facility",
+              26,
+              [
+                "Irudayaraj, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          9,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Engineering aspects of the detection, acquisition, processing, and display of signals from living systems; biomedical sensors for measurements of biopotentials, ions and gases in aqueous solution, force, displacement, blood pressure, blood flow, heart sounds, respiration, and temperature; therapeutic and prosthetic devices; medical imaging instrumentation.",
+      []
+    ],
+    "BIOE 415": [
+      "Biomedical Instrumentation Lab",
+      {
+        "AB1": [
+          "33731",
+          [
+            [
+              34,
+              "M",
+              "0201 Everitt Laboratory",
+              18,
+              [
+                "Reck, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AB2": [
+          "33733",
+          [
+            [
+              49,
+              "M",
+              "0201 Everitt Laboratory",
+              18,
+              [
+                "Reck, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AB3": [
+          "33734",
+          [
+            [
+              47,
+              "W",
+              "0201 Everitt Laboratory",
+              18,
+              [
+                "Reck, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AB4": [
+          "33735",
+          [
+            [
+              48,
+              "W",
+              "0201 Everitt Laboratory",
+              18,
+              [
+                "Reck, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AB5": [
+          "78732",
+          [
+            [
+              48,
+              "T",
+              "0201 Everitt Laboratory",
+              18,
+              [
+                "Reck, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "33736",
+          [
+            [
+              10,
+              "M",
+              "1306 Everitt Laboratory",
+              18,
+              [
+                "Reck, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Laboratory to accompany BIOE 414. Use of sensors and medical instrumentation for static and dynamic biological inputs. Measurement of biomedical signals.",
+      []
+    ],
+    "BIOE 416": [
+      "Biosensors",
+      {
+        "A": [
+          "53605",
+          [
+            [
+              15,
+              "MWF",
+              "3013 Electrical & Computer Eng Bldg",
+              28,
+              [
+                "Valera Cano, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      null,
+      []
+    ],
+    "BIOE 432": [
+      "Systems Biology: Uncovering Design Principles of Biological Networks",
+      {
+        "SB1": [
+          "76519",
+          [
+            [
+              8,
+              "TR",
+              "2233 Everitt Laboratory",
+              18,
+              [
+                "Lu, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "SB2": [
+          "76520",
+          [
+            [
+              8,
+              "TR",
+              "2233 Everitt Laboratory",
+              18,
+              [
+                "Lu, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "SBO": [
+          "77246",
+          [
+            [
+              7,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Lu, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Systems biology is the study of systems of biological components that may be molecules, cells, organisms or entire species. The behaviors of such systems often requires holistic, quantitative measurements and modeling of the entire groups of interacting components. This course offers an introduction to the fundamental concepts and quantitative methodologies underlying systems biology through the examination of a series of examples. It outlines basic design principles ubiquitous in biological networks.",
+      []
+    ],
+    "BIOE 450": [
+      "Introduction to Quantitative Pharmacology",
+      {
+        "QP1": [
+          "78690",
+          [
+            [
+              19,
+              "TR",
+              "3025 Campus Instructional Facility",
+              26,
+              [
+                "Smith, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "QP2": [
+          "78691",
+          [
+            [
+              19,
+              "TR",
+              "3025 Campus Instructional Facility",
+              26,
+              [
+                "Smith, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "The interaction between living organisms and substances (drugs) that impact physiology and disease are the focus areas of this course. Concepts are integrated across equilibrium thermodynamics, kinetics, mass transfer, organic chemistry, biochemistry, and structural biology to understand drug design and function. Students will develop skills in quantitative aspects of medicinal chemistry, pharmacodynamics, and pharmacokinetics through mathematical models and computer simulations.",
+      []
+    ],
+    "BIOE 434": [
+      "Immunoengineering",
+      {
+        "IM1": [
+          "76521",
+          [
+            [
+              27,
+              "TR",
+              "1306 Everitt Laboratory",
+              18,
+              [
+                "Sirk, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "IM2": [
+          "76522",
+          [
+            [
+              27,
+              "TR",
+              "1306 Everitt Laboratory",
+              18,
+              [
+                "Sirk, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Students will explore the field of immunoengineering, including basic and translational research for disease intervention and management, with rigorous investigation of the design principles underlying immunologically-based therapies and diagnostics. Students will learn to critically analyze scientific findings and develop effective written and oral communication skills through lectures, literature discussions, in-class activities, and a project requiring students to develop and present novel solutions to address limitations in existing technology in the field.",
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "0900 - 1140",
+      "1300 - 1540",
+      "0930 - 1210",
+      "1400 - 1640",
+      "1600 - 1840",
+      "1700 - 1940",
+      "1400 - 1520",
+      "ARRANGED",
+      "1700 - 1820",
+      "1100 - 1350",
+      "1200 - 1250",
+      "0900 - 1050",
+      "1700 - 1850",
+      "0930 - 1050",
+      "1600 - 1720",
+      "1000 - 1050",
+      "1100 - 1150",
+      "1300 - 1350",
+      "1230 - 1320",
+      "1100 - 1220",
+      "1130 - 1250",
+      "1000 - 1240",
+      "1900 - 2240",
+      "0900 - 1150",
+      "0900 - 0950",
+      "1500 - 1550",
+      "1600 - 1650",
+      "1230 - 1350",
+      "1230 - 1345",
+      "1300 - 1420",
+      "1500 - 1620",
+      "1530 - 1650",
+      "1600 - 1715",
+      "1400 - 1550",
+      "1300 - 1550",
+      "1400 - 1650",
+      "1400 - 1450",
+      "1530 - 1720",
+      "1400 - 1530",
+      "1200 - 1350",
+      "1930 - 2050",
+      "1400 - 1720",
+      "1300 - 1620",
+      "1700 - 1750",
+      "1600 - 1750",
+      "1100 - 1450",
+      "1500 - 1850",
+      "1200 - 1450",
+      "1500 - 1750",
+      "1600 - 1850"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Studio",
+      "Laboratory",
+      "Lecture",
+      "Independent Study",
+      "Seminar",
+      "Laboratory-Discussion",
+      "Lecture-Discussion",
+      "Conference",
+      "Online",
+      "Discussion/Recitation",
+      "Online Discussion",
+      "Online Lecture",
+      "Internship",
+      "Online Lab"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.1022093629303,
+        "long": -88.22800864058527
+      },
+      {
+        "lat": 40.1033599,
+        "long": -88.2292111
+      },
+      {
+        "lat": 40.10628,
+        "long": -88.22621
+      },
+      {
+        "lat": 40.1083446,
+        "long": -88.2282555
+      },
+      {
+        "lat": 40.1020773,
+        "long": -88.2296394
+      },
+      {
+        "lat": 40.105732,
+        "long": -88.2281018
+      },
+      {
+        "lat": 40.1072225,
+        "long": -88.2262016
+      },
+      {
+        "lat": 40.10944320239664,
+        "long": -88.22602522743233
+      },
+      {
+        "lat": 40.1047599,
+        "long": -88.2319514
+      },
+      {
+        "lat": 40.1035833,
+        "long": -88.228405
+      },
+      {
+        "lat": 40.107534,
+        "long": -88.2281548
+      },
+      {
+        "lat": 40.104794,
+        "long": -88.224264
+      },
+      {
+        "lat": 40.103627234541904,
+        "long": -88.22601765311099
+      },
+      {
+        "lat": 40.106778040727896,
+        "long": -88.2194617156191
+      },
+      {
+        "lat": 40.111691,
+        "long": -88.2242511
+      },
+      {
+        "lat": 40.10755766472843,
+        "long": -88.22995430218522
+      },
+      {
+        "lat": 40.10783362157985,
+        "long": -88.22476189569741
+      },
+      {
+        "lat": 40.1109722,
+        "long": -88.2282631
+      },
+      {
+        "lat": 40.1110937,
+        "long": -88.2232348
+      },
+      {
+        "lat": 40.108419421661715,
+        "long": -88.2261156301609
+      },
+      {
+        "lat": 40.1065684,
+        "long": -88.2281746
+      },
+      {
+        "lat": 40.110811306674734,
+        "long": -88.2248467072371
+      },
+      {
+        "lat": 40.103587,
+        "long": -88.230606
+      },
+      {
+        "lat": 40.11171215875622,
+        "long": -88.22530849701589
+      },
+      {
+        "lat": 40.101862,
+        "long": -88.231737
+      },
+      {
+        "lat": 40.11246109008789,
+        "long": -88.22831726074219
+      },
+      {
+        "lat": 40.1131317,
+        "long": -88.2264552
+      },
+      {
+        "lat": 40.1149296,
+        "long": -88.2280589
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}
