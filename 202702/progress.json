@@ -4,7 +4,7 @@
   "year": "2027",
   "term": "spring",
   "startedAt": 1794806655181,
-  "lastUpdated": 1794807500405,
+  "lastUpdated": 1794807560601,
   "totalSubjects": 188,
   "totalCourses": 4532,
   "subjects": [
@@ -18788,19 +18788,28 @@
     "FAA",
     "FSHN",
     "FR",
-    "GSD"
+    "GSD",
+    "GWS",
+    "GGIS",
+    "GEOL",
+    "GER",
+    "GMC",
+    "GLBL",
+    "GC",
+    "GRK",
+    "HT"
   ],
   "partialSubjects": {
-    "GWS": {
-      "completed": 19,
-      "total": 38,
+    "HK": {
+      "completed": 6,
+      "total": 122,
       "lastCourse": "ABORTED"
     }
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 2091,
-    "failedCourses": 12,
+    "successfulCourses": 2254,
+    "failedCourses": 13,
     "rateLimitCount": 0
   }
 }
