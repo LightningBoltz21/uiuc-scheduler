@@ -1,7 +1,7 @@
 {
   "subject": "ENG",
-  "scrapedAt": 1794807380481,
-  "courseCount": 12,
+  "scrapedAt": 1794807410114,
+  "courseCount": 21,
   "courses": {
     "ENG 101": [
       "Engineering at Illinois",
@@ -1512,6 +1512,721 @@
       [],
       "Designed to support new Engineering Learning Assistants (ELAs). The purpose of the course is to provide pedagogical and mentorship training for ELAs to successfully teach.",
       []
+    ],
+    "ENG 498": [
+      "Special Topics",
+      {
+        "CYB": [
+          "51889",
+          [
+            [
+              143,
+              "TR",
+              "4070 Electrical & Computer Eng Bldg",
+              28,
+              [
+                "O'Brien, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "ELA": [
+          "61323",
+          [
+            [
+              26,
+              "T",
+              "TBA",
+              0,
+              [
+                "Abney, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "GLC": [
+          "71183",
+          [
+            [
+              144,
+              "T",
+              "TBA",
+              0,
+              [
+                "Ignacio, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Subject offerings of new and developing areas of knowledge in engineering intended to augment the existing curriculum. See Class Schedule or college course information for topics and prerequisites.",
+      []
+    ],
+    "ENG 411": [
+      "Engineering Ambassadors Leadership Training",
+      {
+        "EA": [
+          "73388",
+          [
+            [
+              43,
+              "W",
+              "3117 Everitt Laboratory",
+              18,
+              [
+                "Amos, J",
+                "Brown, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Serves as a weekly meeting and professional development for current Engineering Ambassadors members. The course provides instruction in preparing for and managing classroom visits as well as practice for presentation skills. In addition, guest speakers are brought in from campus to help with professional development of the members. Graduate members have additional responsibility to be team leaders and complete a project for the society.",
+      []
+    ],
+    "ENG 491": [
+      "Interdisciplinary Design Proj",
+      {
+        "CU1": [
+          "55653",
+          [
+            [
+              145,
+              "TR",
+              "2233 Everitt Laboratory",
+              18,
+              [
+                "Stratton, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Disciplined, multi-department, team-structured project design experience with an overall (or major phase) end-of-term completion date. Projects involve design specification through a proposal, analyses of cost and other tradeoffs among alternative designs, design review, fabrication and assembly, functional and environmental testing, and demonstrations (as applicable). Reports and presentations at the end of each term. Individual engineering activities as well as team responsibilities.",
+      []
+    ],
+    "ENG 510": [
+      "Engineering Practice",
+      {
+        "A": [
+          "34517",
+          [
+            [
+              7,
+              "",
+              "TBA",
+              0,
+              [
+                "McCullough, A",
+                "Reiter, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          15,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Engineering Practice is for engineering graduate students who are completing curricular practical training, either full-time or part-time, that is related to their major field of study and an integral or important part of their program of study.",
+      []
+    ],
+    "ENG 572": [
+      "Professional Practicum",
+      {
+        "AR": [
+          "74614",
+          [
+            [
+              7,
+              "",
+              "TBA",
+              0,
+              [
+                "Grenda, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "ASE": [
+          "73118",
+          [
+            [
+              7,
+              "",
+              "TBA",
+              0,
+              [
+                "Merret, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "CEL": [
+          "77498",
+          [
+            [
+              7,
+              "",
+              "TBA",
+              0,
+              [
+                "Morris, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "DA": [
+          "78314",
+          [
+            [
+              7,
+              "",
+              "TBA",
+              0,
+              [
+                "Reid, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "ECE": [
+          "69306",
+          [
+            [
+              7,
+              "",
+              "TBA",
+              0,
+              [
+                "He, W"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "ES": [
+          "62629",
+          [
+            [
+              7,
+              "",
+              "TBA",
+              0,
+              [
+                "Uddin, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "ME": [
+          "75467",
+          [
+            [
+              7,
+              "",
+              "TBA",
+              0,
+              [
+                "Bradshaw, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "PE": [
+          "70572",
+          [
+            [
+              7,
+              "",
+              "TBA",
+              0,
+              [
+                "Andruczyk, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          9,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Internship or equivalent experience as it relates to the student's field of study. Student will complete a comprehensive written report, develop a website, and/or give an oral presentation that relates to his/her internship experience.",
+      []
+    ],
+    "ENG 573": [
+      "Capstone Project",
+      {
+        "ES": [
+          "62630",
+          [
+            [
+              7,
+              "",
+              "TBA",
+              0,
+              [
+                "Uddin, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "AR": [
+          "70497",
+          [
+            [
+              7,
+              "",
+              "TBA",
+              0,
+              [
+                "Grenda, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "ASE": [
+          "73119",
+          [
+            [
+              7,
+              "",
+              "TBA",
+              0,
+              [
+                "Merret, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "CEL": [
+          "77499",
+          [
+            [
+              7,
+              "",
+              "TBA",
+              0,
+              [
+                "Morris, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "DA": [
+          "78313",
+          [
+            [
+              7,
+              "",
+              "TBA",
+              0,
+              [
+                "Reid, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "ECE": [
+          "70500",
+          [
+            [
+              7,
+              "",
+              "TBA",
+              0,
+              [
+                "He, W"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "ME": [
+          "70468",
+          [
+            [
+              7,
+              "",
+              "TBA",
+              0,
+              [
+                "Bradshaw, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "PE": [
+          "70573",
+          [
+            [
+              7,
+              "",
+              "TBA",
+              0,
+              [
+                "Andruczyk, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          9,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Design project pertinent to student's field of study. Student will complete a comprehensive written report, develop a website, and/or give an oral presentation that relates to his/her project.",
+      []
+    ],
+    "ENG 580": [
+      "Teaching and Leadership skills for Graduate Engineering Students and Teaching Assistants",
+      {
+        "TL": [
+          "75937",
+          [
+            [
+              16,
+              "F",
+              "3031 Campus Instructional Facility",
+              26,
+              [
+                "Beckman, M",
+                "Chen, Y",
+                "Johnson, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Develop professional skills through practical training in classroom management and leadership; review pedagogy and theory of learning. Create communities of practice through discussions and classroom observations; become familiar with campus resources for teaching improvement; discover cutting-edge teaching methods, including active learning and project-based learning through exposure to educational research topics. Develop leadership skills that will be useful in academia, industry, or government careers.",
+      []
+    ],
+    "ENG 591": [
+      "Engineering Advanced Seminar",
+      {
+        "GSS": [
+          "69993",
+          [
+            [
+              7,
+              "",
+              "ARR Siebel Center for Comp Sci",
+              32,
+              [
+                "Lewis, C",
+                "Wright, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "MF3": [
+          "66868",
+          [
+            [
+              10,
+              "F",
+              "2039 Campus Instructional Facility",
+              26,
+              [
+                "Gonzalez, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "PRD": [
+          "69984",
+          [
+            [
+              26,
+              "T",
+              "2101 Everitt Laboratory",
+              18,
+              [
+                "Stites, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Seminar on topics of current interest as announced in the Class Schedule.",
+      []
+    ],
+    "ENG 598": [
+      "Special Topics",
+      {
+        "RME": [
+          "55569",
+          [
+            [
+              34,
+              "T",
+              "162 Noyes Laboratory",
+              20,
+              [
+                "Mann, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "WTC": [
+          "60507",
+          [
+            [
+              76,
+              "F",
+              "1140 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Geiger, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "WTG": [
+          "73117",
+          [
+            [
+              76,
+              "F",
+              "206 Transportation Building",
+              24,
+              [
+                "Geiger, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Subject offerings of new and developing areas of knowledge in engineering intended to augment the existing curriculum. See Class Schedule or college course information for topics and prerequisites.",
+      []
     ]
   },
   "caches": {
@@ -1658,7 +2373,10 @@
       "1700 - 1730",
       "1900 - 1930",
       "1430 - 1550",
-      "1700 - 1930"
+      "1700 - 1930",
+      "1600 - 1730",
+      "1630 - 1800",
+      "0830 - 0950"
     ],
     "dateRanges": [],
     "scheduleTypes": [
