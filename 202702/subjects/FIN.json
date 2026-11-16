@@ -1,7 +1,7 @@
 {
   "subject": "FIN",
-  "scrapedAt": 1794807445558,
-  "courseCount": 35,
+  "scrapedAt": 1794807475433,
+  "courseCount": 69,
   "courses": {
     "FIN 221": [
       "Corporate Finance",
@@ -2003,6 +2003,1354 @@
       [],
       "A firm's long-run value ultimately depends on its business fundamentals. This course covers micro- and macro-economic drivers of such fundamentals, such as consumer demand, market competitiveness, government regulation, interest rates, business cycles, and monetary policy. Also includes topics in risk and intertemporal decision-making.",
       []
+    ],
+    "FIN 512": [
+      "Financial Derivatives",
+      {
+        "SF": [
+          "40794",
+          [
+            [
+              13,
+              "TR",
+              "2005 Business Instructional Fac",
+              30,
+              [
+                "Kargar, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to options, futures, swaps and other derivative securities; examination of institutional aspects of the markets; theories of pricing; discussion of simple as well as complicated trading strategies (arbitrage, hedging, and spread); applications for asset and risk management.",
+      []
+    ],
+    "FIN 503": [
+      "Quantitative Finance II",
+      {
+        "Q2": [
+          "71631",
+          [
+            [
+              19,
+              "MW",
+              "1029C Business Instructional Fac",
+              0,
+              [
+                "Pae, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "This course covers topics in time series analysis with an emphasis on applications. It is intended to prepare MSF students for more advanced courses in finance. This course provides some basic knowledge of financial time series data. It also introduces models and methods widely used by academics and practitioners. The purpose of this course is to understand proper use and limitations of econometric methods in applied time series analysis.",
+      []
+    ],
+    "FIN 511": [
+      "Investments",
+      {
+        "S1": [
+          "40486",
+          [
+            [
+              54,
+              "TR",
+              "2041 Business Instructional Fac",
+              30,
+              [
+                "Spencer, X"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to investment analysis, including the theory and implementation of portfolio theory; empirical evidence on the performance of financial assets; evaluation of portfolio investment strategies; and the extension of diversification to international markets.",
+      []
+    ],
+    "FIN 513": [
+      "Advanced Financial Derivatives",
+      {
+        "FFE": [
+          "40796",
+          [
+            [
+              27,
+              "MW",
+              "1025 Business Instructional Fac",
+              30,
+              [
+                "Widdicks, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Provides an introduction to modern techniques for pricing options, swaps, and related financial instruments; the use of such instruments in managing financial risk; and the measurement and management of their risks.",
+      []
+    ],
+    "FIN 518": [
+      "Financial Modeling",
+      {
+        "FM2": [
+          "62374",
+          [
+            [
+              13,
+              "MW",
+              "1049 Business Instructional Fac",
+              30,
+              [
+                "Kennemore, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "FM4": [
+          "75506",
+          [
+            [
+              27,
+              "MW",
+              "3039 Business Instructional Fac",
+              30,
+              [
+                "Kennemore, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "The objective is to learn the fundamentals and practice building financial models using Microsoft Excel. By the end of the term, each student should be able to develop an understanding of any financial relationship and build that financial relationship into a model using the built-in function of Excel. Financial modeling, by definition, requires significant work outside of the classroom. Models are introduced, demonstrated, and reviewed in class, but each student is expected to research and collect data, and to construct the models, prior to each week's class meeting.",
+      []
+    ],
+    "FIN 515": [
+      "Fixed Income Portfolios",
+      {
+        "GR1": [
+          "43777",
+          [
+            [
+              13,
+              "MW",
+              "3041 Business Instructional Fac",
+              30,
+              [
+                "Widdicks, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Conceptual foundations and implementation of strategies for the selection, evaluation, and revision of portfolios of fixed-income financial assets (bonds); examination of related research.",
+      []
+    ],
+    "FIN 526": [
+      "Investment Banking",
+      {
+        "B2": [
+          "74064",
+          [
+            [
+              6,
+              "TR",
+              "2057 Business Instructional Fac",
+              30,
+              [
+                "Bertram, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Provides key building blocks necessary for a career in investment banking, valuation and other related fields. It is designed to provide a practical application of financial statement analysis, modeling, valuation, and presentation skills commonly performed by industry professionals.",
+      []
+    ],
+    "FIN 521": [
+      "Advanced Corporate Finance",
+      {
+        "G": [
+          "65426",
+          [
+            [
+              6,
+              "MW",
+              "240 Wohlers Hall",
+              31,
+              [
+                "Xu, Q"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Addresses both the theoretical and applied aspects of firms' financing decisions; topics include capital structure and cost of capital theories; mergers, acquisitions and leveraged buyouts; options, warrants, and convertibles; venture capital and initial public offerings; and pensions.",
+      []
+    ],
+    "FIN 529": [
+      "Applied Financial Analysis",
+      {
+        "G1": [
+          "74074",
+          [
+            [
+              54,
+              "TR",
+              "2007 Business Instructional Fac",
+              30,
+              [
+                "Vitek, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "G2": [
+          "74075",
+          [
+            [
+              13,
+              "TR",
+              "2007 Business Instructional Fac",
+              30,
+              [
+                "Vitek, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Provides key building blocks necessary for many careers in finance. Designed to provide a practical approach to analyzing and interpreting complex financial statements to make decisions from a range of user perspectives, including investment banks, equity investors and commercial banks. Advanced financial analysis and forecasting will be applied through assignments and casework. There will be an emphasis on business writing skills commonly applied by finance professionals.",
+      []
+    ],
+    "FIN 535": [
+      "Wealth Management",
+      {
+        "WM2": [
+          "77683",
+          [
+            [
+              19,
+              "MW",
+              "2001 Business Instructional Fac",
+              30,
+              [
+                "Fonseca, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "This course studies personal wealth management techniques with an emphasis on life insurance products; covers life insurance policies, annuities, trusts, buy-sell arrangements, investing in stocks, bonds and mutual funds, banking and borrowing, purchasing residential and commercial real estate, income and estate taxation and management of personal financial portfolio. The course also allows students to build a wealth management plan based on a case scenario.",
+      []
+    ],
+    "FIN 536": [
+      "Banking and Financial Regulation",
+      {
+        "A": [
+          "62363",
+          [
+            [
+              19,
+              "TR",
+              "241 Wohlers Hall",
+              31,
+              [
+                "Manouchehri Irani, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Survey of the structure, functions, regulation, and risk management activities of banks and nonbank financial institutions; central banking and monetary policy effects on financial institutions.",
+      []
+    ],
+    "FIN 537": [
+      "Financial Risk Management",
+      {
+        "C": [
+          "74070",
+          [
+            [
+              19,
+              "MW",
+              "241 Wohlers Hall",
+              31,
+              [
+                "Pearson, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "D": [
+          "74071",
+          [
+            [
+              13,
+              "MW",
+              "241 Wohlers Hall",
+              31,
+              [
+                "Pearson, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Covers selected topics in financial risk management. The focus is on statistical techniques used in financial risk management rather than risk management practice, cases, or valuation issues. The course will cover the value-at-risk (VaR) measure and expected shortfall, statistical techniques useful to model financial market returns, and techniques used to model the joint distribution of defaults on fixed income instruments. The course will also cover additional topics such as retail credit risk, risk budgeting, and economic capital modelling.",
+      []
+    ],
+    "FIN 538": [
+      "Enterprise Risk Management",
+      {
+        "TQ1": [
+          "78634",
+          [
+            [
+              6,
+              "MW",
+              "2041 Business Instructional Fac",
+              30,
+              [
+                "Quane, B",
+                "Thomas, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "The application of basic risk management principles to all risks facing the organization. Integrates hazard, financial, strategic and operational risks under a single framework. Provides a conceptual framework for making risk management decisions to increase business value. The course includes a review of the legal and regulatory environment that sets the stage for Enterprise Risk Management, cover the tools used for risk analysis, examine data integration processes and show how risk measurement relates to strategic and tactical business decisions.",
+      []
+    ],
+    "FIN 543": [
+      "Legal Issues in Real Estate",
+      {
+        "P4": [
+          "70715",
+          [
+            [
+              19,
+              "TR",
+              "3039 Business Instructional Fac",
+              30,
+              [
+                "Perkins, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "This course examines the fundamentals of real estate from a legal perspective. Students develop skills in using legal concepts in a real estate transactional setting that incorporates traditional course materials, case studies, real life transactions, and guest lectures designed to provide a practical \"hands-on\" approach to real estate law. We explore a broad range of current sophisticated real estate transactions relating to residential and commercial purchases, sales, leasehold interests, common interest communities, ownership, financing, brokerage, land use and development. We discuss the legal implications that contractual private and legislative public restrictions have on individuals' real property rights and discuss public policy arguments related to private owners’ legal rights.",
+      []
+    ],
+    "FIN 550": [
+      "Big Data Analytics in Finance for Predictive and Causal Analysis",
+      {
+        "BA1": [
+          "74065",
+          [
+            [
+              19,
+              "MW",
+              "1025 Business Instructional Fac",
+              30,
+              [
+                "Reif, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "BD1": [
+          "74069",
+          [
+            [
+              13,
+              "MW",
+              "1025 Business Instructional Fac",
+              30,
+              [
+                "Reif, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Examines methods in big data analytics for financial and economic analysis. Students design and conduct independent empirical research using tools such as machine learning, regression, randomized trials, and quasi-experiments. Emphasis is on distinguishing correlation from causation, developing reproducible workflows, and critically evaluating analytic strategies. Prepares students for advanced professional and research roles requiring independent judgment and defense of methodological choices in data-rich environments.",
+      []
+    ],
+    "FIN 551": [
+      "International Finance",
+      {
+        "C": [
+          "40802",
+          [
+            [
+              27,
+              "TR",
+              "2007 Business Instructional Fac",
+              30,
+              [
+                "Chan, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Explores the characteristics of the international financial market and examines various aspects of corporate financial management. Topics may include international parity conditions, exchange rate risk management, country risk, cross-border investment analysis, multi national firm budgeting, hedging in foreign currency markets, accessing international financial markets for financing, and competitive strategy in a global marketplace.",
+      []
+    ],
+    "FIN 558": [
+      "Data Science and Python for Finance",
+      {
+        "P1": [
+          "75520",
+          [
+            [
+              83,
+              "F",
+              "3007 Business Instructional Fac",
+              30,
+              [
+                "Pae, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Focuses on introducing Python for financial analysis. It provides a detailed understanding of Python basics. Students will apply Python in solving problems in corporate finance and performing investment analysis. Topics include capital budgeting decisions, equity valuation, risk and return, portfolio optimization, and technical trading strategies.",
+      []
+    ],
+    "FIN 557": [
+      "Financial Data Management and Analysis",
+      {
+        "FD1": [
+          "74140",
+          [
+            [
+              27,
+              "TR",
+              "2020 Wymer Hall",
+              0,
+              [
+                "Gao, X"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Proper data handling and management is essential to the success of data analysis. The primary goal of this course is to learn principles and practices of data management with an emphasis on working with financial databases. Students will gain practical skills in data storage, data preparation, and data extractions that eventually lead to data analysis. Data management procedures including SQL queries, and data analysis techniques using large-scale statistical software are presented.",
+      []
+    ],
+    "FIN 559": [
+      "Advanced Data Science and Python for Finance",
+      {
+        "P2": [
+          "75521",
+          [
+            [
+              6,
+              "TR",
+              "2020 Wymer Hall",
+              0,
+              [
+                "Gao, X"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Provides an advanced understanding of Python and data analytics tools to solve problems in finance. Students will analyze data and solve real-world problems such as investigating market responses to earnings announcements, comparing value and growth investing, forecasting stock prices, predicting bankruptcy, and estimating house prices.",
+      []
+    ],
+    "FIN 570": [
+      "Corporate Finance",
+      {
+        "IMB": [
+          "74062",
+          [
+            [
+              7,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Almeida, H",
+                "Spencer, X",
+                "Zeume, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "74063",
+          [
+            [
+              7,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Almeida, H",
+                "Spencer, X",
+                "Zeume, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "You will learn how to use key finance principles to understand and measure business success as well as identify and promote true value creation. You will also learn financial management tools that allow us to determine the optimal financing and risk management strategies for corporations. In the first part of the course, you will learn how to use accounting information to form key financial ratios to measure a company’s financial health and to manage a company's short-term and long-term liquidity needs. You will also learn how to use valuation techniques to make sound business investment and acquisition decisions. Finally, you will learn how to incorporate risk and uncertainty into investment decisions and evaluate the performance of existing investments. In the second part of the course, you will learn how companies choose how much debt to have and which type of debt to issue. You will also learn how payout decisions (dividends and share repurchases) affect firm value and how to determine a company’s optimal payout policy. Finally, you will learn how to use risk management tools, such as derivatives, and liquidity to mitigate specific risks, such as currency risk. You will apply these tools to develop a financial management framework for M&A decisions, and R&D investments.",
+      []
+    ],
+    "FIN 565": [
+      "Artificial Intelligence in Finance",
+      {
+        "AF1": [
+          "78932",
+          [
+            [
+              19,
+              "TR",
+              "2057 Business Instructional Fac",
+              30,
+              [
+                "Kargar, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Artificial Intelligence (AI) is rapidly proliferating across many areas in finance. Students develop intuition for how AI systems work and apply that knowledge to practical questions: extracting information from SEC filings, measuring sentiment, estimating discount rates, and quantifying risk. The structure is designed for students with no prior coding experience. Exercises use open-source languages like Python and leverage AI tools (Claude, OpenAI, or equivalent) to lower the barrier to entry while building technical competency.",
+      []
+    ],
+    "FIN 573": [
+      "Applications of Investment Banking Concepts",
+      {
+        "IMB": [
+          "74408",
+          [
+            [
+              7,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Bertram, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "74409",
+          [
+            [
+              7,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Bertram, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Will build off the core topics explored in FIN 572, The Finance of Mergers and Acquisitions and ACCY 532, Accounting for Mergers and Acquisitions and Other Complex Transactions. It is designed to provide a practical application of financial statement analysis, modeling, and valuation. The course covers the mechanics of financial statement analysis, ratio analysis, and financial model building. The course will also focus on applying the financial statements and forecasts within the context of company valuation, utilizing common industry techniques. Prerequisite: It is recommended that students have a grasp of core accounting principles and have a basic knowledge of concepts in finance (time value of money, etc.). It is also recommended that students complete ACCY 532 and FIN 572 (or equivalents) before enrolling in this course.",
+      []
+    ],
+    "FIN 571": [
+      "Money and Banking",
+      {
+        "IMB": [
+          "73008",
+          [
+            [
+              7,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Dolgopolov, V",
+                "Manouchehri Irani, R",
+                "Meisenzahl, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "73009",
+          [
+            [
+              7,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Dolgopolov, V",
+                "Manouchehri Irani, R",
+                "Meisenzahl, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "This online course will provide you with a framework that can be used to understand the connections between money, banking, and financial markets, as well as the implementation and impacts of modern monetary policy. Upon completion of this course, you will be able to apply this framework to assess how new developments in finance and public policy may influence the macroeconomic and business environment.",
+      []
+    ],
+    "FIN 574": [
+      "Microeconomics for Business",
+      {
+        "IMB": [
+          "74807",
+          [
+            [
+              7,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Brown, J",
+                "Dolgopolov, V",
+                "Miller, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "74808",
+          [
+            [
+              7,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Brown, J",
+                "Dolgopolov, V",
+                "Miller, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Microeconomics for professional business students. Shows relevance of value and distribution theories for business managers. Includes demand and supply theory, consumer choice, production and cost theory, industrial structure, and wage and capital theory. Intended for students in the Master of Business Administration program.",
+      []
+    ],
+    "FIN 575": [
+      "Investments & Performance Evaluation",
+      {
+        "IMB": [
+          "78032",
+          [
+            [
+              7,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Gao, X",
+                "Pollet, J",
+                "Spencer, X"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "78033",
+          [
+            [
+              7,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Gao, X",
+                "Pollet, J",
+                "Spencer, X"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "We analyze the trade-off between risk and expected return along with portfolio choice, performance evaluation, and security pricing. We use the Capital Asset Pricing Model (CAPM) and multi-factor models to evaluate the performance of various securities and portfolios. We establish benchmark returns for securities and apply firm valuation techniques. We discuss market efficiency and its implications. We apply these techniques to the performance of mutual funds, hedge funds, and strategies designed to earn risk-adjusted returns.",
+      []
+    ],
+    "FIN 580": [
+      "Special Topics in Finance",
+      {
+        "ETA": [
+          "69358",
+          [
+            [
+              115,
+              "MW",
+              "2043 Business Instructional Fac",
+              30,
+              [
+                "Smith, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "INT": [
+          "66148",
+          [
+            [
+              7,
+              "",
+              "TBA",
+              0,
+              [
+                "Lucht, K",
+                "Widdicks, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          15,
+          0,
+          [],
+          -1
+        ],
+        "MCF": [
+          "62533",
+          [
+            [
+              19,
+              "TR",
+              "138 Wohlers Hall",
+              31,
+              [
+                "Sholem, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "PHD": [
+          "47517",
+          [
+            [
+              61,
+              "F",
+              "243 Wohlers Hall",
+              31,
+              [
+                "Huang, J",
+                "Lucht, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "QI2": [
+          "69623",
+          [
+            [
+              35,
+              "F",
+              "240 Wohlers Hall",
+              31,
+              [
+                "Zhang, Q"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Lectures and discussions relating to new areas of interest. See class schedule for topics and prerequisites.",
+      []
+    ],
+    "FIN 586": [
+      "MSF Academy II",
+      {
+        "P": [
+          "77699",
+          [
+            [
+              27,
+              "TR",
+              "1029C Business Instructional Fac",
+              0,
+              [
+                "Morris, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "MSF Academy II builds upon the skills learned in MSF Academy I by focusing within a specific area of the finance industry.",
+      []
+    ],
+    "FIN 589": [
+      "Applied Portfolio Management",
+      {
+        "P2": [
+          "74144",
+          [
+            [
+              13,
+              "TR",
+              "2041 Business Instructional Fac",
+              30,
+              [
+                "Excell, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Applies academic topics on financial markets, security analysis/valuation and portfolio management to hands-on investment management. Students will form and review objectives, constraints, and investment policy as it relates to the client's money under management. They will purchase securities, monitor performance of the portfolio, and make recommendations for any adjustments to the holdings. They will be fully educated and responsible for the fiduciary and ethical standards of professional money management as guided by the CFA Institute.",
+      []
+    ],
+    "FIN 590": [
+      "Individual Study and Research",
+      {
+        "10127": [
+          "10127",
+          [
+            [
+              7,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "SEM": [
+          "40359",
+          [
+            [
+              6,
+              "TR",
+              "3039 Business Instructional Fac",
+              30,
+              [
+                "Alston, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Directed reading and research.",
+      []
+    ],
+    "FIN 593": [
+      "Seminar in Investments",
+      {
+        "E": [
+          "40348",
+          [
+            [
+              155,
+              "W",
+              "TBA",
+              0,
+              [
+                "Mollner, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Investigates portfolio theory, CAPM, OPM, and arbitrage pricing theory theoretically and empirically; uses both mathematical statistics and modern econometric models to empirically analyze investment decisions and portfolio management.",
+      []
+    ],
+    "FIN 595": [
+      "Empirical Corporate Finance",
+      {
+        "L1": [
+          "76376",
+          [
+            [
+              63,
+              "T",
+              "ARR Business Instructional Fac",
+              0,
+              [
+                "Lagaras, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "This seminar will study recent research in corporate finance that uses modern empirical methods to focus on causal inference. Students will be required to write a research proposal. The objective is to sharpen students' skills as consumers and producers of empirical corporate finance. This seminar is also beneficial for researchers in related fields such as credit markets and banking, asset pricing, financial accounting and applied microeconomics.",
+      []
+    ],
+    "FIN 599": [
+      "Thesis Research",
+      {
+        "1": [
+          "10129",
+          [
+            [
+              7,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Required for those writing master's and doctoral theses in finance.",
+      []
+    ],
+    "FIN 396": [
+      "Orange & Blue Ventures Academy",
+      {
+        "VA1": [
+          "78794",
+          [
+            [
+              31,
+              "TR",
+              "241 Wohlers Hall",
+              31,
+              [
+                "Brokemond, S",
+                "Metzger, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "A selective, student-led, faculty-guided program where students manage a real venture capital fund.",
+      []
+    ],
+    "FIN 442": [
+      "Introduction to Commercial Real Estate Investment",
+      {
+        "G2": [
+          "78963",
+          [
+            [
+              19,
+              "MW",
+              "2063 Business Instructional Fac",
+              30,
+              [
+                "Grimsley, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Analyze investments in commercial real estate assets by evaluating applicable market forces, calculate key industry investment metrics, develop asset-specific modeling techniques, and analyze different data sources as well as AI results.",
+      []
     ]
   },
   "caches": {
@@ -2161,7 +3509,8 @@
       "1030 - 1150",
       "1000 - 1200",
       "1500 - 1615",
-      "0900 - 1100"
+      "0900 - 1100",
+      "1330 - 1620"
     ],
     "dateRanges": [],
     "scheduleTypes": [

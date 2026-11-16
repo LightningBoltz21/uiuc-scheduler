@@ -4,7 +4,7 @@
   "year": "2027",
   "term": "spring",
   "startedAt": 1794806655181,
-  "lastUpdated": 1794807445563,
+  "lastUpdated": 1794807500405,
   "totalSubjects": 188,
   "totalCourses": 4532,
   "subjects": [
@@ -18783,19 +18783,24 @@
     "ENVS",
     "ENSU",
     "EURO",
-    "EXP"
+    "EXP",
+    "FIN",
+    "FAA",
+    "FSHN",
+    "FR",
+    "GSD"
   ],
   "partialSubjects": {
-    "FIN": {
-      "completed": 35,
-      "total": 69,
+    "GWS": {
+      "completed": 19,
+      "total": 38,
       "lastCourse": "ABORTED"
     }
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 1922,
-    "failedCourses": 11,
+    "successfulCourses": 2091,
+    "failedCourses": 12,
     "rateLimitCount": 0
   }
 }
