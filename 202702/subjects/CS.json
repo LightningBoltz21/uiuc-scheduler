@@ -1,0 +1,2539 @@
+{
+  "subject": "CS",
+  "scrapedAt": 1794807190790,
+  "courseCount": 6,
+  "courses": {
+    "CS 102": [
+      "Little Bits to Big Ideas",
+      {
+        "AB1": [
+          "63230",
+          [
+            [
+              68,
+              "T",
+              "101 901 W Oregon",
+              14,
+              [
+                "Kashinath, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AB2": [
+          "63231",
+          [
+            [
+              32,
+              "W",
+              "101 901 W Oregon",
+              14,
+              [
+                "Kashinath, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AB3": [
+          "63232",
+          [
+            [
+              69,
+              "R",
+              "122 1203 1/2 W Nevada",
+              41,
+              [
+                "Kamtikar, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "63225",
+          [
+            [
+              24,
+              "MWF",
+              "2055 Sidney Lu Mech Engr Bldg",
+              22,
+              [
+                "Cunningham, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as INFO 102. See INFO 102.",
+      []
+    ],
+    "CS 101": [
+      "Intro Computing: Engrg & Sci",
+      {
+        "AL1": [
+          "31018",
+          [
+            [
+              25,
+              "MW",
+              "AUD Foellinger Auditorium",
+              37,
+              [
+                "Fowler, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "AYA": [
+          "31115",
+          [
+            [
+              44,
+              "M",
+              "432 Armory",
+              9,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AYB": [
+          "31116",
+          [
+            [
+              11,
+              "T",
+              "2406 Siebel Center for Comp Sci",
+              40,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AYC": [
+          "31117",
+          [
+            [
+              61,
+              "T",
+              "2406 Siebel Center for Comp Sci",
+              40,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AYD": [
+          "31118",
+          [
+            [
+              76,
+              "T",
+              "2406 Siebel Center for Comp Sci",
+              40,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AYE": [
+          "58967",
+          [
+            [
+              50,
+              "T",
+              "2406 Siebel Center for Comp Sci",
+              40,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AYF": [
+          "31119",
+          [
+            [
+              11,
+              "W",
+              "432 Armory",
+              9,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AYG": [
+          "31120",
+          [
+            [
+              11,
+              "W",
+              "2406 Siebel Center for Comp Sci",
+              40,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AYH": [
+          "31122",
+          [
+            [
+              61,
+              "W",
+              "2406 Siebel Center for Comp Sci",
+              40,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AYI": [
+          "31123",
+          [
+            [
+              44,
+              "W",
+              "131 Animal Sciences Laboratory",
+              42,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AYJ": [
+          "31121",
+          [
+            [
+              11,
+              "R",
+              "2406 Siebel Center for Comp Sci",
+              40,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AYK": [
+          "31124",
+          [
+            [
+              61,
+              "R",
+              "2406 Siebel Center for Comp Sci",
+              40,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AYL": [
+          "31125",
+          [
+            [
+              76,
+              "R",
+              "2406 Siebel Center for Comp Sci",
+              40,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AYM": [
+          "58968",
+          [
+            [
+              50,
+              "R",
+              "2406 Siebel Center for Comp Sci",
+              40,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AYN": [
+          "31126",
+          [
+            [
+              33,
+              "F",
+              "1035 Campus Instructional Facility",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AYO": [
+          "62100",
+          [
+            [
+              61,
+              "F",
+              "432 Armory",
+              9,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AYQ": [
+          "62102",
+          [
+            [
+              76,
+              "F",
+              "432 Armory",
+              9,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AYR": [
+          "62103",
+          [
+            [
+              50,
+              "F",
+              "432 Armory",
+              9,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AYS": [
+          "31020",
+          [
+            [
+              53,
+              "F",
+              "1043 Sidney Lu Mech Engr Bldg",
+              22,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AYT": [
+          "72066",
+          [
+            [
+              39,
+              "F",
+              "1043 Sidney Lu Mech Engr Bldg",
+              22,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Fundamental principles, concepts, and methods of computing, with emphasis on applications in the physical sciences and engineering. Basic problem solving and programming techniques; fundamental algorithms and data structures; use of computers in solving engineering and scientific problems. Intended for engineering and science majors.",
+      []
+    ],
+    "CS 105": [
+      "Intro Computing: Non-Tech",
+      {
+        "AL1": [
+          "31127",
+          [
+            [
+              36,
+              "MF",
+              "0027/1025 Campus Instructional Facility",
+              26,
+              [
+                "Zilles, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "AYA": [
+          "31131",
+          [
+            [
+              13,
+              "T",
+              "70B Wohlers Hall",
+              31,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AYB": [
+          "31132",
+          [
+            [
+              19,
+              "T",
+              "70B Wohlers Hall",
+              31,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AYC": [
+          "31136",
+          [
+            [
+              27,
+              "TW",
+              "70B Wohlers Hall",
+              31,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AYD": [
+          "31135",
+          [
+            [
+              6,
+              "T",
+              "70B Wohlers Hall",
+              31,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AYE": [
+          "31134",
+          [
+            [
+              31,
+              "T",
+              "70B Wohlers Hall",
+              31,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AYF": [
+          "31137",
+          [
+            [
+              6,
+              "W",
+              "70B Wohlers Hall",
+              31,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AYG": [
+          "31138",
+          [
+            [
+              31,
+              "W",
+              "70B Wohlers Hall",
+              31,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AYH": [
+          "31139",
+          [
+            [
+              19,
+              "F",
+              "101 901 W Oregon",
+              14,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AYJ": [
+          "31141",
+          [
+            [
+              31,
+              "R",
+              "70B Wohlers Hall",
+              31,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Computing as an essential tool of academic and professional activities. Functions and interrelationships of computer system components: hardware, systems and applications software, and networks. Widely used application packages such as spreadsheets and databases. Concepts and practice of programming for the solution of simple problems in different application areas. Intended for non-science and non-engineering majors.",
+      []
+    ],
+    "CS 124": [
+      "Introduction to Computer Science I",
+      {
+        "AL1": [
+          "71571",
+          [
+            [
+              7,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Lewis, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          11,
+          0,
+          [],
+          -1
+        ],
+        "AL2": [
+          "71572",
+          [
+            [
+              7,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Lewis, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          11,
+          0,
+          [],
+          -1
+        ],
+        "AYF": [
+          "71578",
+          [
+            [
+              16,
+              "T",
+              "4029 Campus Instructional Facility",
+              26,
+              [
+                "Lewis, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "AYG": [
+          "71579",
+          [
+            [
+              16,
+              "T",
+              "4025 Campus Instructional Facility",
+              26,
+              [
+                "Lewis, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "AYH": [
+          "71580",
+          [
+            [
+              17,
+              "T",
+              "4029 Campus Instructional Facility",
+              26,
+              [
+                "Lewis, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "AYI": [
+          "71581",
+          [
+            [
+              17,
+              "T",
+              "4025 Campus Instructional Facility",
+              26,
+              [
+                "Lewis, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "AYJ": [
+          "71582",
+          [
+            [
+              36,
+              "T",
+              "4029 Campus Instructional Facility",
+              26,
+              [
+                "Lewis, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "AYK": [
+          "71583",
+          [
+            [
+              36,
+              "T",
+              "4025 Campus Instructional Facility",
+              26,
+              [
+                "Lewis, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "AYL": [
+          "71584",
+          [
+            [
+              25,
+              "T",
+              "4029 Campus Instructional Facility",
+              26,
+              [
+                "Lewis, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "WWC": [
+          "78397",
+          [
+            [
+              93,
+              "M",
+              "TBA",
+              0,
+              [
+                "Lewis, C Lewis, C Lewis, C"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              94,
+              "R",
+              "TBA",
+              0,
+              [
+                "Lewis, C Lewis, C Lewis, C"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              7,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Lewis, C Lewis, C Lewis, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          9,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Basic concepts in computing and fundamental techniques for solving computational problems. Intended as a first course for computer science majors and others with a deep interest in computing.",
+      []
+    ],
+    "CS 128": [
+      "Introduction to Computer Science II",
+      {
+        "ADA": [
+          "73640",
+          [
+            [
+              13,
+              "F",
+              "1302 Siebel Center for Comp Sci",
+              40,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "ADB": [
+          "73641",
+          [
+            [
+              19,
+              "F",
+              "1302 Siebel Center for Comp Sci",
+              40,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "ADC": [
+          "73643",
+          [
+            [
+              27,
+              "F",
+              "1302 Siebel Center for Comp Sci",
+              40,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "ADD": [
+          "73644",
+          [
+            [
+              6,
+              "F",
+              "1302 Siebel Center for Comp Sci",
+              40,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "ADE": [
+          "73680",
+          [
+            [
+              31,
+              "F",
+              "1302 Siebel Center for Comp Sci",
+              40,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "ADF": [
+          "73683",
+          [
+            [
+              8,
+              "F",
+              "1214 Siebel Center for Comp Sci",
+              40,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "ADG": [
+          "73719",
+          [
+            [
+              13,
+              "F",
+              "2406 Siebel Center for Comp Sci",
+              40,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "ADH": [
+          "71597",
+          [
+            [
+              19,
+              "F",
+              "2406 Siebel Center for Comp Sci",
+              40,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "ADI": [
+          "71598",
+          [
+            [
+              27,
+              "F",
+              "2406 Siebel Center for Comp Sci",
+              40,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "ADJ": [
+          "71599",
+          [
+            [
+              6,
+              "F",
+              "2406 Siebel Center for Comp Sci",
+              40,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "ADK": [
+          "71600",
+          [
+            [
+              31,
+              "F",
+              "2406 Siebel Center for Comp Sci",
+              40,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "ADL": [
+          "71601",
+          [
+            [
+              8,
+              "F",
+              "2406 Siebel Center for Comp Sci",
+              40,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "ADO": [
+          "73720",
+          [
+            [
+              13,
+              "F",
+              "0218 Siebel Center for Comp Sci",
+              40,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "ADP": [
+          "74349",
+          [
+            [
+              19,
+              "F",
+              "0218 Siebel Center for Comp Sci",
+              40,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "ADR": [
+          "74353",
+          [
+            [
+              6,
+              "F",
+              "1043 Sidney Lu Mech Engr Bldg",
+              22,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "ADS": [
+          "74354",
+          [
+            [
+              31,
+              "F",
+              "1043 Sidney Lu Mech Engr Bldg",
+              22,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "ADT": [
+          "74355",
+          [
+            [
+              95,
+              "R",
+              "2406 Siebel Center for Comp Sci",
+              40,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "71594",
+          [
+            [
+              7,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Nowak, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          11,
+          0,
+          [],
+          -1
+        ],
+        "AL2": [
+          "71595",
+          [
+            [
+              7,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Nowak, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          11,
+          0,
+          [],
+          -1
+        ],
+        "BDA": [
+          "71596",
+          [
+            [
+              28,
+              "F",
+              "0218 Siebel Center for Comp Sci",
+              40,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "BDB": [
+          "71606",
+          [
+            [
+              6,
+              "F",
+              "0218 Siebel Center for Comp Sci",
+              40,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "BDC": [
+          "71604",
+          [
+            [
+              68,
+              "F",
+              "0218 Siebel Center for Comp Sci",
+              40,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "BDD": [
+          "71605",
+          [
+            [
+              69,
+              "F",
+              "0218 Siebel Center for Comp Sci",
+              40,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "BL1": [
+          "74356",
+          [
+            [
+              15,
+              "MWF",
+              "100 Gregory Hall",
+              6,
+              [
+                "Schatz, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "BL2": [
+          "71603",
+          [
+            [
+              15,
+              "MWF",
+              "100 Gregory Hall",
+              6,
+              [
+                "Schatz, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Continuation of CS 124. More advanced concepts in computing and techniques and approaches for solving computational problems.",
+      []
+    ],
+    "CS 107": [
+      "Data Science Discovery",
+      {
+        "L1": [
+          "70340",
+          [
+            [
+              15,
+              "MWF",
+              "THEAT Lincoln Hall",
+              21,
+              [
+                "Findley, K",
+                "McPherson, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "L2": [
+          "75731",
+          [
+            [
+              16,
+              "MWF",
+              "THEAT Lincoln Hall",
+              21,
+              [
+                "Findley, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "Y01": [
+          "70341",
+          [
+            [
+              19,
+              "R",
+              "2018 Campus Instructional Facility",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "Y02": [
+          "70344",
+          [
+            [
+              27,
+              "R",
+              "2018 Campus Instructional Facility",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "Y03": [
+          "70345",
+          [
+            [
+              6,
+              "W",
+              "2036 Campus Instructional Facility",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "Y04": [
+          "70346",
+          [
+            [
+              31,
+              "W",
+              "2018 Campus Instructional Facility",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "Y05": [
+          "70347",
+          [
+            [
+              19,
+              "R",
+              "1047 Sidney Lu Mech Engr Bldg",
+              22,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "Y06": [
+          "70348",
+          [
+            [
+              27,
+              "R",
+              "3018 Campus Instructional Facility",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "Y07": [
+          "70349",
+          [
+            [
+              6,
+              "W",
+              "2018 Campus Instructional Facility",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "Y08": [
+          "70350",
+          [
+            [
+              31,
+              "W",
+              "3018 Campus Instructional Facility",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "Y09": [
+          "70352",
+          [
+            [
+              13,
+              "R",
+              "1047 Sidney Lu Mech Engr Bldg",
+              22,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "Y10": [
+          "70342",
+          [
+            [
+              19,
+              "R",
+              "106B6 Engineering Hall",
+              33,
+              [
+                "Littlefield, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "Y11": [
+          "70343",
+          [
+            [
+              27,
+              "R",
+              "2036 Campus Instructional Facility",
+              26,
+              [
+                "Khirwadkar, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "Y12": [
+          "70351",
+          [
+            [
+              6,
+              "R",
+              "2036 Campus Instructional Facility",
+              26,
+              [
+                "Korkmaz, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "Y13": [
+          "74100",
+          [
+            [
+              19,
+              "R",
+              "164 Noyes Laboratory",
+              20,
+              [
+                "Zhang, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "Y14": [
+          "74101",
+          [
+            [
+              27,
+              "R",
+              "69 English Building",
+              11,
+              [
+                "Zhang, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "Y15": [
+          "74102",
+          [
+            [
+              19,
+              "R",
+              "11 Psychology Building",
+              16,
+              [
+                "Tsiamalos, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "Y16": [
+          "74103",
+          [
+            [
+              27,
+              "R",
+              "11 Psychology Building",
+              16,
+              [
+                "Chen, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "Y17": [
+          "74104",
+          [
+            [
+              6,
+              "W",
+              "304 Noyes Laboratory",
+              20,
+              [
+                "Jarrold, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "Y18": [
+          "74105",
+          [
+            [
+              31,
+              "W",
+              "301 Noyes Laboratory",
+              20,
+              [
+                "Jarrold, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "Y19": [
+          "74106",
+          [
+            [
+              13,
+              "R",
+              "300 Noyes Laboratory",
+              20,
+              [
+                "Bao, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "Y20": [
+          "74107",
+          [
+            [
+              19,
+              "R",
+              "1035 Campus Instructional Facility",
+              26,
+              [
+                "Zhou, X"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "Y21": [
+          "76950",
+          [
+            [
+              6,
+              "W",
+              "11 Psychology Building",
+              16,
+              [
+                "Korkmaz, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "Y22": [
+          "76953",
+          [
+            [
+              54,
+              "R",
+              "2078 Natural History Building",
+              8,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "Y23": [
+          "76956",
+          [
+            [
+              31,
+              "F",
+              "G32 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Adeline, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "Y24": [
+          "76959",
+          [
+            [
+              54,
+              "R",
+              "69 English Building",
+              11,
+              [
+                "Littlefield, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "Y25": [
+          "76962",
+          [
+            [
+              54,
+              "R",
+              "2036 Campus Instructional Facility",
+              26,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "Y26": [
+          "76965",
+          [
+            [
+              6,
+              "F",
+              "0018 Campus Instructional Facility",
+              26,
+              [
+                "Shimgekar, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "Y27": [
+          "76968",
+          [
+            [
+              31,
+              "F",
+              "G36 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Zhou, X"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as IS 107 and STAT 107. See STAT 107.",
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "0900 - 1140",
+      "1300 - 1540",
+      "0930 - 1210",
+      "1400 - 1640",
+      "1600 - 1840",
+      "1700 - 1940",
+      "1400 - 1520",
+      "ARRANGED",
+      "1700 - 1820",
+      "1100 - 1350",
+      "1200 - 1250",
+      "0900 - 1050",
+      "1700 - 1850",
+      "0930 - 1050",
+      "1600 - 1720",
+      "1000 - 1050",
+      "1100 - 1150",
+      "1300 - 1350",
+      "1230 - 1320",
+      "1100 - 1220",
+      "1130 - 1250",
+      "1000 - 1240",
+      "1900 - 2240",
+      "0900 - 1150",
+      "0900 - 0950",
+      "1500 - 1550",
+      "1600 - 1650",
+      "1230 - 1350",
+      "1230 - 1345",
+      "1300 - 1420",
+      "1500 - 1620",
+      "1530 - 1650",
+      "1600 - 1715",
+      "1400 - 1550",
+      "1300 - 1550",
+      "1400 - 1650",
+      "1400 - 1450",
+      "1530 - 1720",
+      "1400 - 1530",
+      "1200 - 1350",
+      "1930 - 2050",
+      "1400 - 1720",
+      "1300 - 1620",
+      "1700 - 1750",
+      "1600 - 1750",
+      "1100 - 1450",
+      "1500 - 1850",
+      "1200 - 1450",
+      "1500 - 1750",
+      "1600 - 1850",
+      "1500 - 1650",
+      "0800 - 1150",
+      "1730 - 1900",
+      "1000 - 1150",
+      "0800 - 0920",
+      "1000 - 1130",
+      "1530 - 1620",
+      "1630 - 1720",
+      "0930 - 1020",
+      "1830 - 2030",
+      "1700 - 1950",
+      "1100 - 1250",
+      "1530 - 1820",
+      "0930 - 1220",
+      "1830 - 2020",
+      "1630 - 1750",
+      "1100 - 1215",
+      "1400 - 1515",
+      "1530 - 1645",
+      "1700 - 1815",
+      "1830 - 1945",
+      "0930 - 1045",
+      "1800 - 2100",
+      "1300 - 1750",
+      "0800 - 0950",
+      "1800 - 1950",
+      "1300 - 1450",
+      "0800 - 0850",
+      "1300 - 1650",
+      "1400 - 1750",
+      "1900 - 2050",
+      "1200 - 1320",
+      "1000 - 1120",
+      "0900 - 1020",
+      "1330 - 1450",
+      "1830 - 1950",
+      "1000 - 2000",
+      "1800 - 2050",
+      "1600 - 1740",
+      "1500 - 1730",
+      "1230 - 1420",
+      "1500 - 1720",
+      "1530 - 1800",
+      "1630 - 1745",
+      "1630 - 1730",
+      "1900 - 2020"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Studio",
+      "Laboratory",
+      "Lecture",
+      "Independent Study",
+      "Seminar",
+      "Laboratory-Discussion",
+      "Lecture-Discussion",
+      "Conference",
+      "Online",
+      "Discussion/Recitation",
+      "Online Discussion",
+      "Online Lecture",
+      "Internship",
+      "Online Lab",
+      "Packaged Section",
+      "Practice",
+      "Research",
+      "Travel",
+      "Study Abroad",
+      "Quiz"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.1022093629303,
+        "long": -88.22800864058527
+      },
+      {
+        "lat": 40.1033599,
+        "long": -88.2292111
+      },
+      {
+        "lat": 40.10628,
+        "long": -88.22621
+      },
+      {
+        "lat": 40.1083446,
+        "long": -88.2282555
+      },
+      {
+        "lat": 40.1020773,
+        "long": -88.2296394
+      },
+      {
+        "lat": 40.105732,
+        "long": -88.2281018
+      },
+      {
+        "lat": 40.1072225,
+        "long": -88.2262016
+      },
+      {
+        "lat": 40.10944320239664,
+        "long": -88.22602522743233
+      },
+      {
+        "lat": 40.1047599,
+        "long": -88.2319514
+      },
+      {
+        "lat": 40.1035833,
+        "long": -88.228405
+      },
+      {
+        "lat": 40.107534,
+        "long": -88.2281548
+      },
+      {
+        "lat": 40.104794,
+        "long": -88.224264
+      },
+      {
+        "lat": 40.103627234541904,
+        "long": -88.22601765311099
+      },
+      {
+        "lat": 40.106778040727896,
+        "long": -88.2194617156191
+      },
+      {
+        "lat": 40.111691,
+        "long": -88.2242511
+      },
+      {
+        "lat": 40.10755766472843,
+        "long": -88.22995430218522
+      },
+      {
+        "lat": 40.10783362157985,
+        "long": -88.22476189569741
+      },
+      {
+        "lat": 40.1109722,
+        "long": -88.2282631
+      },
+      {
+        "lat": 40.1110937,
+        "long": -88.2232348
+      },
+      {
+        "lat": 40.108419421661715,
+        "long": -88.2261156301609
+      },
+      {
+        "lat": 40.1065684,
+        "long": -88.2281746
+      },
+      {
+        "lat": 40.110811306674734,
+        "long": -88.2248467072371
+      },
+      {
+        "lat": 40.103587,
+        "long": -88.230606
+      },
+      {
+        "lat": 40.11171215875622,
+        "long": -88.22530849701589
+      },
+      {
+        "lat": 40.101862,
+        "long": -88.231737
+      },
+      {
+        "lat": 40.11246109008789,
+        "long": -88.22831726074219
+      },
+      {
+        "lat": 40.1131317,
+        "long": -88.2264552
+      },
+      {
+        "lat": 40.1149296,
+        "long": -88.2280589
+      },
+      {
+        "lat": 40.108570819242026,
+        "long": -88.22518453938676
+      },
+      {
+        "lat": 40.1035872,
+        "long": -88.2306061
+      },
+      {
+        "lat": 40.103620555545135,
+        "long": -88.22982720445013
+      },
+      {
+        "lat": 40.102726858556835,
+        "long": -88.23259991223857
+      },
+      {
+        "lat": 40.1108856,
+        "long": -88.2269806
+      },
+      {
+        "lat": 40.107811,
+        "long": -88.2260761
+      },
+      {
+        "lat": 40.11085653938169,
+        "long": -88.22609810215927
+      },
+      {
+        "lat": 40.11397164321797,
+        "long": -88.2265192685827
+      },
+      {
+        "lat": 40.10593795776367,
+        "long": -88.2270736694336
+      },
+      {
+        "lat": 40.092875494224195,
+        "long": -88.22082220247309
+      },
+      {
+        "lat": 40.10127390836906,
+        "long": -88.2226073524728
+      },
+      {
+        "lat": 40.11380515934119,
+        "long": -88.22490788390387
+      },
+      {
+        "lat": 40.105587640130146,
+        "long": -88.22025111416733
+      },
+      {
+        "lat": 40.0995003,
+        "long": -88.223104
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}
