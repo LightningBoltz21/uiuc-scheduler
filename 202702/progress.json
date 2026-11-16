@@ -4,7 +4,7 @@
   "year": "2027",
   "term": "spring",
   "startedAt": 1794806655181,
-  "lastUpdated": 1794807190792,
+  "lastUpdated": 1794807255647,
   "totalSubjects": 188,
   "totalCourses": 4532,
   "subjects": [
@@ -18758,19 +18758,22 @@
     "CMN",
     "CB",
     "CWL",
-    "CSE"
+    "CSE",
+    "CS",
+    "CW",
+    "CPSC"
   ],
   "partialSubjects": {
-    "CS": {
-      "completed": 6,
-      "total": 92,
+    "CI": {
+      "completed": 38,
+      "total": 48,
       "lastCourse": "ABORTED"
     }
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 1203,
-    "failedCourses": 7,
+    "successfulCourses": 1379,
+    "failedCourses": 8,
     "rateLimitCount": 0
   }
 }
