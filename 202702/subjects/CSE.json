@@ -1,7 +1,7 @@
 {
   "subject": "CSE",
-  "scrapedAt": 1795415585709,
-  "courseCount": 6,
+  "scrapedAt": 1795415611545,
+  "courseCount": 20,
   "courses": {
     "CSE 412": [
       "Numerical Thermo-Fluid Mechs",
@@ -422,6 +422,674 @@
               "TR",
               "1310 Digital Computer Laboratory",
               23,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      null,
+      []
+    ],
+    "CSE 440": [
+      "Statistical Data Management",
+      {
+        "1GR": [
+          "63957",
+          [
+            [
+              33,
+              "MWF",
+              "1090 Lincoln Hall",
+              3,
+              [
+                "Kinson, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "1UG": [
+          "63958",
+          [
+            [
+              33,
+              "MWF",
+              "1090 Lincoln Hall",
+              3,
+              [
+                "Kinson, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as STAT 440. See STAT 440.",
+      []
+    ],
+    "CSE 426": [
+      "Software Engineering I",
+      {
+        "SE3": [
+          "78287",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Lou, Y",
+                "Marinov, D Lou, Y",
+                "Marinov, D"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Lou, Y",
+                "Marinov, D Lou, Y",
+                "Marinov, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "SE4": [
+          "74280",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Lou, Y",
+                "Marinov, D Lou, Y",
+                "Marinov, D"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Lou, Y",
+                "Marinov, D Lou, Y",
+                "Marinov, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "SEU": [
+          "74278",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Lou, Y",
+                "Marinov, D Lou, Y",
+                "Marinov, D"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Lou, Y",
+                "Marinov, D Lou, Y",
+                "Marinov, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      null,
+      []
+    ],
+    "CSE 428": [
+      "Statistical Computing",
+      {
+        "1GR": [
+          "63948",
+          [
+            [
+              13,
+              "TR",
+              "218 Ceramics Building",
+              40,
+              [
+                "Wang, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "1UG": [
+          "63949",
+          [
+            [
+              13,
+              "TR",
+              "218 Ceramics Building",
+              40,
+              [
+                "Wang, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as STAT 428. See STAT 428.",
+      []
+    ],
+    "CSE 448": [
+      "Advanced Data Analysis",
+      {
+        "1GR": [
+          "63959",
+          [
+            [
+              29,
+              "MWF",
+              "2039 Campus Instructional Facility",
+              15,
+              [
+                "Bravo De Guenni, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "1UG": [
+          "67123",
+          [
+            [
+              29,
+              "MWF",
+              "2039 Campus Instructional Facility",
+              15,
+              [
+                "Bravo De Guenni, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as STAT 448. See STAT 448.",
+      []
+    ],
+    "CSE 441": [
+      "Introduction to Optimization",
+      {
+        "OP3": [
+          "33980",
+          [
+            [
+              12,
+              "TR",
+              "3013 Electrical & Computer Eng Bldg",
+              26,
+              [
+                "Veeravalli, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "OP4": [
+          "54361",
+          [
+            [
+              12,
+              "TR",
+              "3013 Electrical & Computer Eng Bldg",
+              26,
+              [
+                "Veeravalli, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      null,
+      []
+    ],
+    "CSE 451": [
+      "Finite Element Analysis",
+      {
+        "B3": [
+          "37474",
+          [
+            [
+              28,
+              "MW",
+              "114 Transportation Building",
+              5,
+              [
+                "Raj, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "B4": [
+          "59678",
+          [
+            [
+              28,
+              "MW",
+              "114 Transportation Building",
+              5,
+              [
+                "Raj, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as AE 420 and ME 471. See ME 471.",
+      []
+    ],
+    "CSE 461": [
+      "Computational Aerodynamics",
+      {
+        "A": [
+          "29957",
+          [
+            [
+              10,
+              "MW",
+              "136 Loomis Laboratory",
+              14,
+              [
+                "Vollmer, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "62529",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Vollmer, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      null,
+      []
+    ],
+    "CSE 498": [
+      "Special Topics",
+      {
+        "DM": [
+          "70543",
+          [
+            [
+              10,
+              "TR",
+              "2051 Sidney Lu Mech Engr Bldg",
+              10,
+              [
+                "Stinville, j"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Subject offerings of new and developing areas of knowledge in computational science and engineering intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites.",
+      []
+    ],
+    "CSE 510": [
+      "Numerical Methods for PDEs",
+      {
+        "N": [
+          "50118",
+          [
+            [
+              44,
+              "MW",
+              "1035 Campus Instructional Facility",
+              15,
+              [
+                "Kloeckner, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as CS 555 and MATH 552. See CS 555.",
+      []
+    ],
+    "CSE 522": [
+      "Parallel Computer Architecture",
+      {
+        "S": [
+          "57171",
+          [
+            [
+              113,
+              "TR",
+              "1214 Siebel Center for Comp Sci",
+              25,
+              [
+                "Torrellas, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      null,
+      []
+    ],
+    "CSE 525": [
+      "Topics in Computational Statistics",
+      {
+        "A1": [
+          "63832",
+          [
+            [
+              12,
+              "TR",
+              "2101 Everitt Laboratory",
+              11,
+              [
+                "Zhou, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as STAT 525. See STAT 525.",
+      []
+    ],
+    "CSE 542": [
+      "Statistical Learning",
+      {
+        "A1": [
+          "63828",
+          [
+            [
+              10,
+              "TR",
+              "2055 Sidney Lu Mech Engr Bldg",
+              10,
+              [
+                "Zheng, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as STAT 542. See STAT 542.",
+      []
+    ],
+    "CSE 551": [
+      "Finite Element Methods",
+      {
+        "D": [
+          "31750",
+          [
+            [
+              10,
+              "MW",
+              "2311 Newmark Civil Engineering Bldg",
+              44,
+              [
+                "Duarte, C",
+                "Kamarei, F"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "60866",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Duarte, C",
+                "Kamarei, F"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      null,
+      []
+    ],
+    "CSE 553": [
+      "Computational Inelasticity",
+      {
+        "F": [
+          "57838",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
               [
                 "Unassigned Instructor"
               ],
