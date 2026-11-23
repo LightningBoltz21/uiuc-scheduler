@@ -4,7 +4,7 @@
   "year": "2027",
   "term": "spring",
   "startedAt": 1795415072558,
-  "lastUpdated": 1795415380557,
+  "lastUpdated": 1795415460884,
   "totalSubjects": 188,
   "totalCourses": 4539,
   "subjects": [
@@ -18759,19 +18759,29 @@
     "ARTS",
     "AAS",
     "ASST",
-    "ASTR"
+    "ASTR",
+    "ATMS",
+    "BASQ",
+    "BIOC",
+    "BIOE",
+    "BSE",
+    "BIOP",
+    "BCS",
+    "BCOG",
+    "BULG",
+    "BUS"
   ],
   "partialSubjects": {
-    "ATMS": {
-      "completed": 22,
-      "total": 28,
+    "BADM": {
+      "completed": 70,
+      "total": 99,
       "lastCourse": "ABORTED"
     }
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 629,
-    "failedCourses": 4,
+    "successfulCourses": 807,
+    "failedCourses": 5,
     "rateLimitCount": 0
   }
 }

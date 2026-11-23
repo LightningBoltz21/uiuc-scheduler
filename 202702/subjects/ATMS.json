@@ -1,7 +1,7 @@
 {
   "subject": "ATMS",
-  "scrapedAt": 1795415380554,
-  "courseCount": 22,
+  "scrapedAt": 1795415428151,
+  "courseCount": 28,
   "courses": {
     "ATMS 100": [
       "Introduction to Meteorology",
@@ -1079,6 +1079,318 @@
       },
       [],
       "A graduate-level treatment of the analysis and prediction of the Earth's climate over subseasonal, seasonal, and decadal time scales. Following the preliminaries on how these scales are realized in climate observations, we will describe the drivers of the climate system across these scales. Modes of natural climate variability, which include El Nino/Southern Oscillation (ENSO), the North Atlantic Oscillation (NAO), and the Madden-Julian Oscillation (MJO), will then be described, as will the statistical techniques used to reveal them. Statistical prediction models based on multivariate regressions often incorporate index-representations of ENSO and other relevant variables. Accordingly, we will devote some time and exercises on methods in which these models are developed as well as tested. Dynamical models are also used for climate prediction, but require computational capability and relatively more thought in design and application. Thus, we will complete the course with a significant treatment of global models as well as regional models. Both models are based on the same basic set of equations, but typically have different applications. Model setup and implementation will be illustrated through practical exercises with open-source community global and regional models.",
+      []
+    ],
+    "ATMS 526": [
+      "Risk Analysis in the Geosciences",
+      {
+        "AL1": [
+          "74530",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Sriver, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          11,
+          0,
+          [],
+          -1
+        ],
+        "BL1": [
+          "72042",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Sriver, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          11,
+          0,
+          [],
+          -1
+        ],
+        "OA1": [
+          "74531",
+          [
+            [
+              100,
+              "T",
+              "ONLINE",
+              0,
+              [
+                "Sriver, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "OA2": [
+          "74532",
+          [
+            [
+              11,
+              "T",
+              "ONLINE",
+              0,
+              [
+                "Sriver, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "OB1": [
+          "72043",
+          [
+            [
+              100,
+              "T",
+              "ONLINE",
+              0,
+              [
+                "Sriver, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "OB2": [
+          "73128",
+          [
+            [
+              11,
+              "T",
+              "ONLINE",
+              0,
+              [
+                "Sriver, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          17,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduces concepts and methods in quantitative risk analysis in the Earth, atmospheric, and environmental sciences. Key concepts will include probability, impacts, risk, uncertainty, statistical estimation, and decision making. Students will use simple risk analysis methods to apply these concepts to example problems related to drought, flooding, weather extremes, and anthropogenic climate change. The students will learn the R programming language for statistical computing, which will be used to integrate concepts and methods using observational data and model output, and we will focus on real-world multi-disciplinary applications.",
+      []
+    ],
+    "ATMS 590": [
+      "Individual Study",
+      {
+        "SWN": [
+          "14045",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Nesbitt, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Individual study or reading in a subject not covered in normal course offerings.",
+      []
+    ],
+    "ATMS 591": [
+      "Atmospheric Sciences Seminar",
+      {
+        "A": [
+          "30900",
+          [
+            [
+              10,
+              "T",
+              "124 Burrill Hall",
+              6,
+              [
+                "Trapp, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Seminar on topics of current interest.",
+      []
+    ],
+    "ATMS 596": [
+      "Non-Thesis Research",
+      {
+        "AK": [
+          "51674",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Klees, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Non-thesis research in the Atmospheric Sciences.",
+      []
+    ],
+    "ATMS 599": [
+      "Thesis Research",
+      {
+        "SN": [
+          "51667",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Nesbitt, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Check with the department to identify which CRN is needed for your advisor and any related registration questions.",
+      []
+    ],
+    "ATMS 597": [
+      "Special Topics in Atmospheric Sciences",
+      {
+        "C": [
+          "51964",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Proistosescu, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "CP": [
+          "74387",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Proistosescu, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Lecture course in topics of current interest; subjects such as tropical meteorology, aerosol physics, and geophysical fluid dynamics will be covered in term offerings on a regular basis.",
       []
     ]
   },
