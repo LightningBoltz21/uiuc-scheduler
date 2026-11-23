@@ -4,7 +4,7 @@
   "year": "2027",
   "term": "spring",
   "startedAt": 1795415072558,
-  "lastUpdated": 1795415460884,
+  "lastUpdated": 1795415525699,
   "totalSubjects": 188,
   "totalCourses": 4539,
   "subjects": [
@@ -18769,19 +18769,28 @@
     "BCS",
     "BCOG",
     "BULG",
-    "BUS"
+    "BUS",
+    "BADM",
+    "BDI",
+    "BTW",
+    "CHP",
+    "CDB",
+    "CGGE",
+    "CHBE",
+    "CHEM",
+    "CHIN"
   ],
   "partialSubjects": {
-    "BADM": {
-      "completed": 70,
-      "total": 99,
+    "CEE": {
+      "completed": 45,
+      "total": 49,
       "lastCourse": "ABORTED"
     }
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 807,
-    "failedCourses": 5,
+    "successfulCourses": 1000,
+    "failedCourses": 6,
     "rateLimitCount": 0
   }
 }
