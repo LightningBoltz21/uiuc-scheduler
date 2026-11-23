@@ -1,0 +1,1550 @@
+{
+  "subject": "UP",
+  "scrapedAt": 1795416670642,
+  "courseCount": 33,
+  "courses": {
+    "UP 136": [
+      "Urban Sustainability",
+      {
+        "DA": [
+          "60627",
+          [
+            [
+              32,
+              "TR",
+              "331 Armory",
+              12,
+              [
+                "Allred, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Provides students with a basic understanding of how to make cities more sustainable by connecting how and where we live to environmental issues. Emphasis on green infrastructure and urban systems, vulnerability and resilience, green design and construction methods, energy production and consumption, and water conservation.",
+      []
+    ],
+    "UP 116": [
+      "Urban Informatics I",
+      {
+        "IF": [
+          "57242",
+          [
+            [
+              31,
+              "R",
+              "70B Wohlers Hall",
+              9,
+              [
+                "Farah Rivadeneyra, I Farah Rivadeneyra, I"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              31,
+              "T",
+              "223 Temple Hoyne Buell Hall",
+              46,
+              [
+                "Farah Rivadeneyra, I Farah Rivadeneyra, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduces students to basic analytical techniques used to better understand how cities work. Topics include the foundational statistical concepts of data, variation, and inference. Students formulate a research question about an urban studies or planning issue, collect data, use statistical software to analyze data, and communicate the findings.",
+      []
+    ],
+    "UP 201": [
+      "Planning in Action",
+      {
+        "ME": [
+          "67678",
+          [
+            [
+              32,
+              "MW",
+              "227 Temple Hoyne Buell Hall",
+              46,
+              [
+                "Edwards, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduces students to different career paths open to urban studies and planning majors. Students interact with professionals and take part in hands-on activities related to different concentration areas: sustainability, policy & planning, social justice and global cities.",
+      []
+    ],
+    "UP 210": [
+      "Environmental Economics & Policy",
+      {
+        "AD2": [
+          "30561",
+          [
+            [
+              9,
+              "F",
+              "325 David Kinley Hall",
+              23,
+              [
+                "Loduca, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "AD3": [
+          "30563",
+          [
+            [
+              10,
+              "F",
+              "325 David Kinley Hall",
+              23,
+              [
+                "Loduca, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "AD4": [
+          "30566",
+          [
+            [
+              11,
+              "F",
+              "325 David Kinley Hall",
+              23,
+              [
+                "Loduca, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "30571",
+          [
+            [
+              12,
+              "MW",
+              "1002 Lincoln Hall",
+              6,
+              [
+                "Loduca, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as ACE 210, ECON 210, ENVS 210, and NRES 210. See ACE 210.",
+      []
+    ],
+    "UP 211": [
+      "Local Planning, Gov't and Law",
+      {
+        "DA": [
+          "72248",
+          [
+            [
+              21,
+              "TR",
+              "227 Temple Hoyne Buell Hall",
+              46,
+              [
+                "Allred, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Provides students with a basic understanding of the governmental structure, legal aspects, and practice of local municipal planning, with special emphasis on case law, constitutional principles, zoning, subdivision regulations and comprehensive planning. Gives an introduction for students interested in pursuing more advanced studies in land use law and local government planning.",
+      []
+    ],
+    "UP 312": [
+      "Communication for Planners",
+      {
+        "CCS": [
+          "78798",
+          [
+            [
+              18,
+              "F",
+              "227 Temple Hoyne Buell Hall",
+              46,
+              [
+                "Chiu-Shee, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Integrates written, verbal, and graphic communication techniques into planning and analysis. Activities simulate professional situations where students develop skills and pieces of broader arguments and synthesize them into final products.",
+      []
+    ],
+    "UP 316": [
+      "Urban Informatics II",
+      {
+        "AG": [
+          "48781",
+          [
+            [
+              31,
+              "TR",
+              "227 Temple Hoyne Buell Hall",
+              46,
+              [
+                "Greenlee, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Provides an introduction to formal methods for collecting and analyzing data required in various planning processes. Methods include survey research, regional demographic and economic analysis, forecasting techniques, and descriptive spatial statistics.",
+      []
+    ],
+    "UP 317": [
+      "Introduction to Urban Data Science",
+      {
+        "IF": [
+          "77958",
+          [
+            [
+              28,
+              "R",
+              "70B Wohlers Hall",
+              9,
+              [
+                "Farah Rivadeneyra, I Farah Rivadeneyra, I"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              28,
+              "T",
+              "227 Temple Hoyne Buell Hall",
+              46,
+              [
+                "Farah Rivadeneyra, I Farah Rivadeneyra, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Entry-level data science course which introduces basic scientific methods, processes, and algorithms to extract and further understand knowledge or insights from all kinds of data in the urban environment. Students will learn a set of fundamental concepts in data science during lectures. The weekly hands-on lab will cover methods and tools of effective data analysis and visualization. This course builds a common foundation for quantitative analysis among undergraduates for a wide application in their capstone/projects.",
+      []
+    ],
+    "UP 320": [
+      "Digital Storytelling",
+      {
+        "FM": [
+          "78778",
+          [
+            [
+              2,
+              "",
+              "ONLINE",
+              2,
+              [
+                "Miraftab, F"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          8,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Explores how storytelling can play a central role in planning education and practice by democratizing knowledge, sharpening critical judgement, and expanding our practical tools. This course, by exploring other mediums of communication, seeks to move beyond the hegemony of textual communication and introduce means that might further democratize both production and dissemination of knowledge. In this course we offer a range of digital communication tools (eg by podcast, video, info graph and story map) that are critical to inclusive planning and education.",
+      []
+    ],
+    "UP 347": [
+      "Junior Planning Workshop",
+      {
+        "EVB": [
+          "37261",
+          [
+            [
+              1,
+              "W",
+              "122 1203 1/2 W Nevada",
+              20,
+              [
+                "Van Buskirk, E Van Buskirk, E"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              1,
+              "M",
+              "227 Temple Hoyne Buell Hall",
+              46,
+              [
+                "Van Buskirk, E Van Buskirk, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Provides students with an opportunity to further develop planning skills and knowledge to prepare for an advanced level urban planning workshop. Students will work in small groups to define and solve planning problems as they improve skills in data collection and analysis, mapping and spatial analysis, design, oral and written communication and presentation, public engagement, teamwork, and consensus building.",
+      []
+    ],
+    "UP 390": [
+      "Planning Internship",
+      {
+        "A": [
+          "37262",
+          [
+            [
+              2,
+              "",
+              "TBA",
+              2,
+              [
+                "Edwards, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          9,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduces students to professional employment and actual planning practice. Students work in an organization of their own choice, subject to departmental approval, either during the summer session or part-time during a regular term. Typical places of employment include municipal and county governments, private planning consulting firms, non-profit agencies, regional planning councils, park districts, and state agencies such as the Department of Transportation.",
+      []
+    ],
+    "UP 397": [
+      "Undergraduate Project",
+      {
+        "10261": [
+          "10261",
+          [
+            [
+              2,
+              "",
+              "TBA",
+              2,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Students work with an instructor on a special project or applied research related to real world urban problems and professional practice.",
+      []
+    ],
+    "UP 401": [
+      "Professional Development Seminar",
+      {
+        "ME": [
+          "67680",
+          [
+            [
+              12,
+              "W",
+              "225 Temple Hoyne Buell Hall",
+              46,
+              [
+                "Edwards, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Discussion and activities related to professional development and networking for career success. Students will attend professional development activities such as lectures, conferences and networking events. The class meetings will be an opportunity for peer learning through activities, as well as to reflect on professional development activities. The final project is a professional portfolio that is representative of your major work over the course of your academic career.",
+      []
+    ],
+    "UP 409": [
+      "Economics for Planners",
+      {
+        "BL": [
+          "77932",
+          [
+            [
+              32,
+              "MW",
+              "223 Temple Hoyne Buell Hall",
+              46,
+              [
+                "Lee, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Exploration of how economics can contribute to understanding and solving urban problems. Application of economic analysis and reasoning to the important issues that planners confront, including economic development, land use, sprawl, pollution, housing, and transportation. Strengths and weaknesses of economic and planning approaches are also explored in this course including how the two approaches can complement each other.",
+      []
+    ],
+    "UP 425": [
+      "Equitable Land Use",
+      {
+        "ZG": [
+          "78966",
+          [
+            [
+              37,
+              "TR",
+              "225 Temple Hoyne Buell Hall",
+              46,
+              [
+                "Guo, Z"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Planners have recognized for decades that the tools, policies, and practices of land-use planning perpetuate and reinforce spatial inequity by race, ethnicity, class, ability, and family status. In this course, students will learn to identify patterns of spatial inequity within cities; distinguish features of land use plans and regulations that obstruct or advance equity; and offer recommendations to make city plans and zoning ordinances more equitable.",
+      []
+    ],
+    "UP 418": [
+      "Intermediate GIS and Spatial Analysis",
+      {
+        "LAB": [
+          "53059",
+          [
+            [
+              32,
+              "R",
+              "146 Armory",
+              12,
+              [
+                "Su, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "RS": [
+          "53058",
+          [
+            [
+              32,
+              "T",
+              "227 Temple Hoyne Buell Hall",
+              46,
+              [
+                "Su, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Detailed inquiry to the design and use of computerized geographic information systems, focusing on their significance for planning. Emphasizes GIS within an institutional setting, covering not only fundamental technical concepts, but also organizational, management, and legal issues. Students will examine GIS applications and products through readings, videos, demonstrations, and exercises. Computer laboratory work is included.",
+      []
+    ],
+    "UP 430": [
+      "Urban Transportation Planning",
+      {
+        "AL": [
+          "37267",
+          [
+            [
+              32,
+              "MW",
+              "225 Temple Hoyne Buell Hall",
+              46,
+              [
+                "Braun, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Role of transportation in urban development and planning; characteristics of urban-person transportation systems and methods of analysis and forecasting of urban-person transportation demand; transportation systems management and capital improvement programming; and emphasis on the needs and activities of metropolitan planning organizations.",
+      []
+    ],
+    "UP 426": [
+      "Urban Design and Planning",
+      {
+        "CCS": [
+          "57267",
+          [
+            [
+              34,
+              "F",
+              "227 Temple Hoyne Buell Hall",
+              46,
+              [
+                "Chiu-Shee, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Concepts and techniques of urban analysis, plan making, and implementation essential for effective interdisciplinary work in urban design.",
+      []
+    ],
+    "UP 431": [
+      "Urban Transportation Modeling",
+      {
+        "BL": [
+          "70404",
+          [
+            [
+              32,
+              "TR",
+              "225 Temple Hoyne Buell Hall",
+              46,
+              [
+                "Lee, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Provides the basic skills needed to understand how planners and decision makers use information about travel behavior to plan transportation investments. Students will gain applied experience with travel demand modeling software. Additional course topics include an introduction to travel behavior theory, travel model evaluation, and emerging modeling applications.",
+      []
+    ],
+    "UP 438": [
+      "Disasters and Urban Planning",
+      {
+        "ZG": [
+          "70407",
+          [
+            [
+              31,
+              "MW",
+              "225 Temple Hoyne Buell Hall",
+              46,
+              [
+                "Guo, Z"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to the role of urban planners in preparing for and rebuilding after disasters. Emphasizes U.S. planning practice, with particular attention to the role of local government. Includes basic U.S. emergency management laws and framework, local mitigation planning, and post-disaster recovery planning.",
+      []
+    ],
+    "UP 434": [
+      "Pedestrian and Bicycle Planning",
+      {
+        "LB": [
+          "74561",
+          [
+            [
+              21,
+              "MW",
+              "227 Temple Hoyne Buell Hall",
+              46,
+              [
+                "Braun, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduces the fundamentals of planning for pedestrian and bicycle transportation. Students will learn about the benefits and challenges of planning for walking and cycling; the roles of plans, policies, and infrastructure in supporting active travel; key elements of infrastructure design; methods to assess safety and access; and processes to create, implement, and evaluate plans and programs. Activities will include interactive discussions, hands-on exercises such as safety audits and site analyses, and a client-based project addressing real-world community needs.",
+      []
+    ],
+    "UP 443": [
+      "Scenarios, Plans & Future Cities",
+      {
+        "ZG": [
+          "74562",
+          [
+            [
+              28,
+              "TR",
+              "225 Temple Hoyne Buell Hall",
+              46,
+              [
+                "Guo, Z"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduces theories and tools of scenario analysis for planning more sustainable urban futures. Students learn how scenario approaches can help planners and policymakers consider multiple dimensions of complex problems, navigate uncertainty, and overcome limits in individual and organizational decision-making. The course examines applications ranging from evaluating alternative highway investments to developing robust strategies where formal regulatory mechanisms are limited.",
+      []
+    ],
+    "UP 475": [
+      "Real Estate Development Fundamentals",
+      {
+        "DA": [
+          "65170",
+          [
+            [
+              21,
+              "MW",
+              "225 Temple Hoyne Buell Hall",
+              46,
+              [
+                "Allred, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduce fundamental concepts and techniques applied in the real estate development process while examining the broader economic and social context in which real estate development is situated and how various professions interact within this context. Provide students with a useful framework for understanding the real estate development process, identifying viable development opportunities, and analyzing real estate development projects while weighing the economic, social, and environmental costs and benefits for a community.",
+      []
+    ],
+    "UP 480": [
+      "Sustainable Design Principles",
+      {
+        "BD": [
+          "55762",
+          [
+            [
+              2,
+              "",
+              "ONLINE",
+              2,
+              [
+                "Deal, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          8,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      null,
+      []
+    ],
+    "UP 478": [
+      "Community Development Workshop",
+      {
+        "JG": [
+          "51173",
+          [
+            [
+              18,
+              "F",
+              "223 Temple Hoyne Buell Hall",
+              46,
+              [
+                "Gomez, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Application of community development principles and techniques to the solution of environmental, economic and social problems facing low income urban communities. Involves small group projects and off-campus field work in collaboration with community leaders.",
+      []
+    ],
+    "UP 510": [
+      "Plan Making",
+      {
+        "EG": [
+          "55421",
+          [
+            [
+              18,
+              "F",
+              "225 Temple Hoyne Buell Hall",
+              46,
+              [
+                "Guske, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Provides skills to develop a wide range of plans and an understanding of the processes to implement them. Topics covered include planning analysis, political constraints of planning and planning ethics, techniques of negotiation, facilitation, mediation, and presentation to the public. Uses a general framework for plan making that includes plan review, problem framing, information gathering, alternative modeling, scenarios development, impact assessment, and alternatives evaluation. Students will work on applied tasks individually and in groups.",
+      []
+    ],
+    "UP 494": [
+      "Special Topics in Planning",
+      {
+        "DA": [
+          "67711",
+          [
+            [
+              2,
+              "",
+              "ONLINE",
+              2,
+              [
+                "Allred, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          6,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "LON": [
+          "40363",
+          [
+            [
+              2,
+              "",
+              "TBA",
+              2,
+              [
+                "LeRoy, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          6,
+          21,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Seminar on topics of current interest, as announced in the Schedule.",
+      []
+    ],
+    "UP 511": [
+      "Law and Planning",
+      {
+        "BL": [
+          "55420",
+          [
+            [
+              31,
+              "TR",
+              "225 Temple Hoyne Buell Hall",
+              46,
+              [
+                "LeRoy, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Examines the legal framework within which planning takes place in urban areas of this country. Emphasizes the role of law in structuring local government responses to social, economic and physical planning issues and in allocating power among local governments, between local governments and state and federal governments, and between governments and the private sectors of society.",
+      []
+    ],
+    "UP 519": [
+      "Advanced Applications of GIS",
+      {
+        "1": [
+          "53096",
+          [
+            [
+              21,
+              "R",
+              "70B Wohlers Hall",
+              9,
+              [
+                "Su, R Su, R"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              21,
+              "T",
+              "225 Temple Hoyne Buell Hall",
+              46,
+              [
+                "Su, R Su, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Advanced course in geographic information systems emphasizing application of GIS to problems involving spatial analysis. Building upon fundamental concepts, students learn to use GIS software frequently found in planning practice. Also prepares students to use GIS in research requiring management and analysis of geographic data. Extensive use of computing workstations.",
+      []
+    ],
+    "UP 590": [
+      "Professional Internship",
+      {
+        "A": [
+          "63886",
+          [
+            [
+              2,
+              "",
+              "TBA",
+              2,
+              [
+                "Greenlee, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Summer, part-time, or other professional-level employment in the field of planning, usually in an area of concentration; exposure to the social, political, and institutional setting in which planning operates; and full documentation of internship activities required.",
+      []
+    ],
+    "UP 591": [
+      "Capstone Seminar",
+      {
+        "E": [
+          "53145",
+          [
+            [
+              11,
+              "F",
+              "225 Temple Hoyne Buell Hall",
+              46,
+              [
+                "Greenlee, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Provides capstone guidance and advising to MUP students (non-thesis and thesis track).",
+      []
+    ],
+    "UP 592": [
+      "Doctoral Urban Planning Seminar",
+      {
+        "PHD": [
+          "69080",
+          [
+            [
+              28,
+              "T",
+              "223 Temple Hoyne Buell Hall",
+              46,
+              [
+                "Greenlee, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "The Doctoral Students in Urban Planning (DSUP) seminar is an invaluable platform of intellectual development for PhD students in the Department of Urban & Regional Planning (DURP) and an effective medium in building a community of scholars. The seminars facilitate exchange of ideas and perspectives among DSUP members as well as the faculty. It serves as a support system for all members of DSUP, who are at different stages in their research and doctoral studies, and provides a shared space for students to present their research and to solicit critical, yet constructive, peer reviews and advice.",
+      []
+    ],
+    "UP 596": [
+      "Independent Study",
+      {
+        "60378": [
+          "60378",
+          [
+            [
+              2,
+              "",
+              "TBA",
+              2,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Independent study in selected urban and regional planning topics under the supervision of an appropriate member of the faculty. Can be used by doctoral students for synthesis paper requirement.",
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "1400 - 1450",
+      "0900 - 1050",
+      "ARRANGED",
+      "1100 - 1250",
+      "1500 - 1650",
+      "1000 - 1150",
+      "1300 - 1450",
+      "1700 - 1850",
+      "0900 - 0950",
+      "1000 - 1050",
+      "1100 - 1150",
+      "1200 - 1250",
+      "1300 - 1350",
+      "1500 - 1550",
+      "1600 - 1650",
+      "1700 - 1750",
+      "1100 - 1350",
+      "1500 - 1750",
+      "0900 - 1150",
+      "1200 - 1450",
+      "1600 - 1750",
+      "1400 - 1520",
+      "1200 - 1350",
+      "1400 - 1550",
+      "0800 - 0950",
+      "1400 - 1750",
+      "0900 - 1250",
+      "1300 - 1650",
+      "1230 - 1350",
+      "1000 - 1350",
+      "0900 - 1020",
+      "0930 - 1050",
+      "1100 - 1220",
+      "1400 - 1650",
+      "1300 - 1550",
+      "0930 - 1220",
+      "1000 - 1250",
+      "1530 - 1650",
+      "1200 - 1320",
+      "1630 - 1730",
+      "1600 - 1715",
+      "1330 - 1450",
+      "1600 - 1720",
+      "1430 - 1520",
+      "0800 - 0920",
+      "0800 - 0850",
+      "0830 - 0920",
+      "1500 - 1620",
+      "1430 - 1640",
+      "0830 - 0950",
+      "1300 - 1420",
+      "1630 - 1750",
+      "1700 - 1820",
+      "1730 - 1845",
+      "1900 - 2050",
+      "1730 - 1850",
+      "1830 - 1920",
+      "1830 - 1950",
+      "1800 - 2050",
+      "1800 - 2020",
+      "1930 - 2130",
+      "1700 - 1950",
+      "1900 - 2150",
+      "1800 - 1920",
+      "1730 - 1820",
+      "1600 - 1730",
+      "1530 - 1820",
+      "1200 - 1550",
+      "1700 - 2050",
+      "0800 - 1050",
+      "1800 - 1900",
+      "1800 - 2100",
+      "1901 - 2100",
+      "1830 - 2130",
+      "1900 - 2030",
+      "1800 - 2115",
+      "0600 - 0750",
+      "1000 - 1120",
+      "1430 - 1550",
+      "1200 - 1300",
+      "1330 - 1520",
+      "1730 - 1900",
+      "1100 - 1200",
+      "1400 - 1600",
+      "1430 - 1530",
+      "0900 - 1030",
+      "0930 - 1020",
+      "1600 - 1850",
+      "1800 - 1950",
+      "1130 - 1250",
+      "1800 - 1850",
+      "1900 - 1950",
+      "2000 - 2050",
+      "1630 - 1720",
+      "1530 - 1620",
+      "0800 - 1150",
+      "1930 - 2050",
+      "1400 - 1630",
+      "1030 - 1150",
+      "1830 - 2030",
+      "1100 - 1230",
+      "1300 - 1520",
+      "1530 - 1750",
+      "0930 - 1150",
+      "1400 - 1620",
+      "1500 - 1720",
+      "1530 - 1720",
+      "1100 - 1215",
+      "1530 - 1800",
+      "0930 - 1130",
+      "1230 - 1520",
+      "1230 - 1420",
+      "1230 - 1510",
+      "1800 - 2030",
+      "1400 - 1540",
+      "1530 - 1710",
+      "1100 - 1240",
+      "1200 - 1315",
+      "0930 - 1045",
+      "1400 - 1515",
+      "1230 - 1345",
+      "1530 - 1645",
+      "1700 - 1815",
+      "0800 - 0915",
+      "1530 - 1715",
+      "1500 - 1615",
+      "2000 - 2100",
+      "0900 - 1015",
+      "1800 - 1930",
+      "1800 - 2000",
+      "1500 - 1700",
+      "1500 - 1645",
+      "1300 - 1500",
+      "1300 - 1445",
+      "1800 - 1945",
+      "0900 - 1000",
+      "2000 - 2130",
+      "1300 - 1430",
+      "1530 - 1850",
+      "1500 - 1800",
+      "1700 - 1900",
+      "1230 - 1320",
+      "0830 - 1020",
+      "1600 - 1820",
+      "1030 - 1215",
+      "1000 - 1220",
+      "1115 - 1235",
+      "0900 - 0930",
+      "1110 - 1230",
+      "0940 - 1100",
+      "1000 - 1230",
+      "0900 - 1120",
+      "1030 - 1220",
+      "1520 - 1650",
+      "1330 - 1630",
+      "1730 - 2020",
+      "1000 - 1300",
+      "1330 - 1420",
+      "1430 - 1650",
+      "1330 - 1620",
+      "1130 - 1420",
+      "1200 - 1420"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Lecture",
+      "Laboratory",
+      "Discussion/Recitation",
+      "Independent Study",
+      "Conference",
+      "Lecture-Discussion",
+      "Laboratory-Discussion",
+      "Seminar",
+      "Online",
+      "Practice",
+      "Internship",
+      "Online Lab",
+      "Packaged Section",
+      "Online Lecture",
+      "Online Discussion",
+      "Packaged Section 03/29/27",
+      "Online 02/15/27",
+      "Study Abroad",
+      "Lecture-Discussion 04/07/27",
+      "Research",
+      "Online Lecture-Discussion",
+      "Travel"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": 40.10944320239664,
+        "long": -88.22602522743233
+      },
+      {
+        "lat": 40.103587,
+        "long": -88.230606
+      },
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.10593795776367,
+        "long": -88.2270736694336
+      },
+      {
+        "lat": 40.11085653938169,
+        "long": -88.22609810215927
+      },
+      {
+        "lat": 40.105732,
+        "long": -88.2281018
+      },
+      {
+        "lat": 40.1065684,
+        "long": -88.2281746
+      },
+      {
+        "lat": 40.110811306674734,
+        "long": -88.2248467072371
+      },
+      {
+        "lat": 40.10783362157985,
+        "long": -88.22476189569741
+      },
+      {
+        "lat": 40.103620555545135,
+        "long": -88.22982720445013
+      },
+      {
+        "lat": 40.11171215875622,
+        "long": -88.22530849701589
+      },
+      {
+        "lat": 40.092875494224195,
+        "long": -88.22082220247309
+      },
+      {
+        "lat": 40.1047599,
+        "long": -88.2319514
+      },
+      {
+        "lat": 40.101862,
+        "long": -88.231737
+      },
+      {
+        "lat": 40.11246109008789,
+        "long": -88.22831726074219
+      },
+      {
+        "lat": 40.1109722,
+        "long": -88.2282631
+      },
+      {
+        "lat": 40.108419421661715,
+        "long": -88.2261156301609
+      },
+      {
+        "lat": 40.1110937,
+        "long": -88.2232348
+      },
+      {
+        "lat": 40.1083446,
+        "long": -88.2282555
+      },
+      {
+        "lat": 40.11380515934119,
+        "long": -88.22490788390387
+      },
+      {
+        "lat": 40.105587640130146,
+        "long": -88.22025111416733
+      },
+      {
+        "lat": 40.10623714823253,
+        "long": -88.2232659093846
+      },
+      {
+        "lat": 40.10802885201532,
+        "long": -88.22239700364068
+      },
+      {
+        "lat": 40.1035833,
+        "long": -88.228405
+      },
+      {
+        "lat": 40.103627234541904,
+        "long": -88.22601765311099
+      },
+      {
+        "lat": 40.106778040727896,
+        "long": -88.2194617156191
+      },
+      {
+        "lat": 40.1020773,
+        "long": -88.2296394
+      },
+      {
+        "lat": 40.1034533,
+        "long": -88.2327596
+      },
+      {
+        "lat": 40.1149296,
+        "long": -88.2280589
+      },
+      {
+        "lat": 40.1108856,
+        "long": -88.2269806
+      },
+      {
+        "lat": 40.10755766472843,
+        "long": -88.22995430218522
+      },
+      {
+        "lat": 40.108570819242026,
+        "long": -88.22518453938676
+      },
+      {
+        "lat": 40.104794,
+        "long": -88.224264
+      },
+      {
+        "lat": 40.0995003,
+        "long": -88.223104
+      },
+      {
+        "lat": 40.1033599,
+        "long": -88.2292111
+      },
+      {
+        "lat": 40.1149521,
+        "long": -88.2267561
+      },
+      {
+        "lat": 40.10628,
+        "long": -88.22621
+      },
+      {
+        "lat": 40.1072225,
+        "long": -88.2262016
+      },
+      {
+        "lat": 40.107534,
+        "long": -88.2281548
+      },
+      {
+        "lat": 40.10764262805109,
+        "long": -88.23074052515514
+      },
+      {
+        "lat": 40.111691,
+        "long": -88.2242511
+      },
+      {
+        "lat": 40.102726858556835,
+        "long": -88.23259991223857
+      },
+      {
+        "lat": 40.107811,
+        "long": -88.2260761
+      },
+      {
+        "lat": 40.1028373,
+        "long": -88.2251326
+      },
+      {
+        "lat": 40.1048704,
+        "long": -88.2229036
+      },
+      {
+        "lat": 40.1131317,
+        "long": -88.2264552
+      },
+      {
+        "lat": 40.1022093629303,
+        "long": -88.22800864058527
+      },
+      {
+        "lat": 40.10039170750639,
+        "long": -88.21813070187608
+      },
+      {
+        "lat": 40.11397164321797,
+        "long": -88.2265192685827
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}

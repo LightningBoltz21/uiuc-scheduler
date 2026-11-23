@@ -4,7 +4,7 @@
   "year": "2027",
   "term": "spring",
   "startedAt": 1795415072558,
-  "lastUpdated": 1795416615520,
+  "lastUpdated": 1795416670645,
   "totalSubjects": 188,
   "totalCourses": 4539,
   "subjects": [
@@ -18905,19 +18905,26 @@
     "STAT",
     "SBC",
     "SWAH",
-    "SE"
+    "SE",
+    "TE",
+    "TMGT",
+    "THEA",
+    "TAM",
+    "TRST",
+    "TURK",
+    "UKR"
   ],
   "partialSubjects": {
-    "TE": {
-      "completed": 17,
-      "total": 19,
+    "UP": {
+      "completed": 33,
+      "total": 35,
       "lastCourse": "ABORTED"
     }
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 4313,
-    "failedCourses": 24,
+    "successfulCourses": 4478,
+    "failedCourses": 25,
     "rateLimitCount": 0
   }
 }

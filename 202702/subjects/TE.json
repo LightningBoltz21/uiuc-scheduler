@@ -1,7 +1,7 @@
 {
   "subject": "TE",
-  "scrapedAt": 1795416615517,
-  "courseCount": 17,
+  "scrapedAt": 1795416639637,
+  "courseCount": 19,
   "courses": {
     "TE 198": [
       "Special Topics",
@@ -711,6 +711,88 @@
       },
       [],
       "Concepts and frameworks for analyzing how firms can create, commercialize and capture value from technology-based products and services. Business, commercialization, and management aspects of technology. Emphasis on reasons that existing firms or startups which have successfully commercialized products or services fail to sustain their success as technology changes and evolves.",
+      []
+    ],
+    "TE 598": [
+      "Special Topics IV",
+      {
+        "LCH": [
+          "64548",
+          [
+            [
+              5,
+              "MW",
+              "1038 Campus Instructional Facility",
+              14,
+              [
+                "Thode, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Subject offerings of innovation, creativity, technology and entrepreneurship intended to augment the existing curriculum. See class schedule or departmental course information for topics and prerequisites.",
+      []
+    ],
+    "TE 567": [
+      "Venture Funded Startups",
+      {
+        "ONC": [
+          "68018",
+          [
+            [
+              2,
+              "",
+              "ONLINE",
+              2,
+              [
+                "Chopra, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "57712",
+          [
+            [
+              2,
+              "",
+              "ONLINE",
+              2,
+              [
+                "Chopra, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          8,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Concepts, tools, and language used by venture capitalists (VCs). Venture-scale opportunity assessment and articulation; venture capital financing and valuation; deal structure; term sheets; financial plans for startups; customer development and marketing; product iterations; sales execution.",
       []
     ]
   },
