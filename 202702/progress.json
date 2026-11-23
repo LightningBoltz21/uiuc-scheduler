@@ -4,7 +4,7 @@
   "year": "2027",
   "term": "spring",
   "startedAt": 1795415072558,
-  "lastUpdated": 1795416555572,
+  "lastUpdated": 1795416615520,
   "totalSubjects": 188,
   "totalCourses": 4539,
   "subjects": [
@@ -18898,19 +18898,26 @@
     "SLAV",
     "SOCW",
     "SOC",
-    "SAME"
+    "SAME",
+    "SPAN",
+    "SPED",
+    "SHS",
+    "STAT",
+    "SBC",
+    "SWAH",
+    "SE"
   ],
   "partialSubjects": {
-    "SPAN": {
-      "completed": 18,
-      "total": 46,
+    "TE": {
+      "completed": 17,
+      "total": 19,
       "lastCourse": "ABORTED"
     }
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 4123,
-    "failedCourses": 23,
+    "successfulCourses": 4313,
+    "failedCourses": 24,
     "rateLimitCount": 0
   }
 }
