@@ -4,7 +4,7 @@
   "year": "2027",
   "term": "spring",
   "startedAt": 1795415072558,
-  "lastUpdated": 1795416070745,
+  "lastUpdated": 1795416130712,
   "totalSubjects": 188,
   "totalCourses": 4539,
   "subjects": [
@@ -18837,19 +18837,30 @@
     "HUM",
     "IE",
     "INFO",
-    "IS"
+    "IS",
+    "IB",
+    "ITAL",
+    "JAPN",
+    "ARTJ",
+    "JS",
+    "JOUR",
+    "KOR",
+    "LER",
+    "LA",
+    "LAT",
+    "LAST"
   ],
   "partialSubjects": {
-    "IB": {
-      "completed": 26,
-      "total": 39,
+    "LLS": {
+      "completed": 8,
+      "total": 30,
       "lastCourse": "ABORTED"
     }
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 2699,
-    "failedCourses": 15,
+    "successfulCourses": 2867,
+    "failedCourses": 16,
     "rateLimitCount": 0
   }
 }

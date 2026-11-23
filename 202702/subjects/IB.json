@@ -1,7 +1,7 @@
 {
   "subject": "IB",
-  "scrapedAt": 1795416070742,
-  "courseCount": 26,
+  "scrapedAt": 1795416098995,
+  "courseCount": 39,
   "courses": {
     "IB 150": [
       "Organismal & Evolutionary Biol",
@@ -2691,6 +2691,410 @@
       },
       [],
       "Trains emerging scientists to communicate beyond academia. Explores the various avenues that can be used to communicate science with different audiences. Through weekly lectures, practical assignments and invited guest lecture presentations, this course builds critical skills in written and oral communication relevant to all careers as well as the art of writing and pitching opinion pieces to various media outlets for public engagement.",
+      []
+    ],
+    "IB 505": [
+      "Bioinformatics & Systems Biol",
+      {
+        "A": [
+          "51368",
+          [
+            [
+              43,
+              "MW",
+              "ONLINE",
+              0,
+              [
+                "Caetano-Anolles, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          9,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as CPSC 567. See CPSC 567.",
+      []
+    ],
+    "IB 504": [
+      "Genomic Analysis of Insects",
+      {
+        "1": [
+          "39526",
+          [
+            [
+              98,
+              "TR",
+              "4004 Natural History Building",
+              37,
+              [
+                "Zhou, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Comprehensive and integrated presentation of insect genomic analysis from the molecular level to that of the population; concepts are applied to certain aspects of insect population regulation. Offered in alternate years.",
+      []
+    ],
+    "IB 506": [
+      "Applied Bioinformatics",
+      {
+        "A": [
+          "78291",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Caetano-Anolles, G",
+                "Rodriguez Zas, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as ANSC 542 and CPSC 569. See ANSC 542.",
+      []
+    ],
+    "IB 513": [
+      "Plant Science Seminar",
+      {
+        "G1": [
+          "34683",
+          [
+            [
+              7,
+              "W",
+              "W109 Turner Hall",
+              0,
+              [
+                "Marks, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          13,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Exposes students to current research topics and scientists working in diverse areas of Plant Science research.",
+      []
+    ],
+    "IB 526": [
+      "Seminar in Entomology",
+      {
+        "A1": [
+          "34688",
+          [
+            [
+              6,
+              "T",
+              "B102 Chemical and Life Sci Lab",
+              0,
+              [
+                "Suarez, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Discussions, reviews, and appraisals of special topics in the field of entomology.",
+      []
+    ],
+    "IB 533": [
+      "Human Genome & Bioinformatics",
+      {
+        "A": [
+          "77213",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Manaster, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Highlights advances in understanding the human genome, utilizing the latest techniques in bioinformatics, i.e. acquiring, analyzing, storing, and displaying the information from the entire genome and protein sequences. Explores the latest laboratory techniques, as well as the use of extensive online databases and software. Students explore the significance of sequencing the human genome, applying bioinformatics to the genome, and realizing its potential to understand human health, disease, and the place of humans in the large ecosystem.",
+      []
+    ],
+    "IB 542": [
+      "Environmental Plant Physiology",
+      {
+        "1": [
+          "39428",
+          [
+            [
+              137,
+              "TR",
+              "2090 Natural History Building",
+              37,
+              [
+                "Lawson, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "The interaction of plants and environment at the level of the whole organism, extending to the cell and the community; emphasis on heat and mass transfer, plant and soil potentials, and effects of light on growth.",
+      []
+    ],
+    "IB 546": [
+      "Topics in Ecology & Evolution",
+      {
+        "EEB": [
+          "61535",
+          [
+            [
+              3,
+              "F",
+              "2004 Natural History Building",
+              37,
+              [
+                "Fuller, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Speaker seminar series featuring discussion, review and critical analysis of general concepts and specific problems in ecology and evolution.",
+      []
+    ],
+    "IB 590": [
+      "Individual Topics",
+      {
+        "10455": [
+          "10455",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          12,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Individual topics in research conducted under the supervision of faculty members in the School of Integrative Biology. Designed for graduate students who would like to become more familiar with specialized fields of study prior to committing themselves to a specific area for their doctorate degree.",
+      []
+    ],
+    "IB 550": [
+      "Topics in Ecology, Evolution, and Conservation Biology",
+      {
+        "PS1": [
+          "78974",
+          [
+            [
+              33,
+              "W",
+              "B102 Chemical and Life Sci Lab",
+              0,
+              [
+                "Yannarell, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Weekly seminar featuring presentations by scholars in ecology, evolution, conservation biology, organismal biology, and related disciplines. Students engage with current research, broaden their understanding of contemporary questions in the biological sciences, and participate in scholarly discussions. The seminar also provides opportunities for professional development through scientific communication, networking, and interactions with visiting speakers, fostering professional connections and a deeper understanding of research careers. Intended for graduate students in ecology, evolution, conservation biology, and related fields.",
+      []
+    ],
+    "IB 456": [
+      "Advanced Tropical Marine Biology",
+      {
+        "A": [
+          "79099",
+          [
+            [
+              127,
+              "F",
+              "4074 Natural History Building",
+              37,
+              [
+                "Hofmann, T Hofmann, T"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              10,
+              "TR",
+              "4074 Natural History Building",
+              37,
+              [
+                "Hofmann, T Hofmann, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          14,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Offers a comprehensive exploration of tropical marine ecosystems, focusing on the biogeography, evolution, and ecology of coral reefs, mangroves, and seagrass beds. Students will investigate the function, physiology, behavior, and ecological roles of tropical marine organisms, as well as the evolutionary dynamics of reef systems and their inhabitants.",
+      []
+    ],
+    "IB 412": [
+      "Natural History of Coral Reefs",
+      {
+        "A": [
+          "79257",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Taylor, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "An introduction to the taxonomic groups, identification, and natural history of both vertebrates and invertebrates that inhabit and form coral reefs. Ecosystem processes and conservation of coral reefs will also be discussed. Course includes a Spring Break study abroad trip.",
+      []
+    ],
+    "IB 414": [
+      "Tropical Marine Field Biology",
+      {
+        "A": [
+          "79258",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Hofmann, T",
+                "Lawson, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Examines the ecology and conservation of tropical marine ecosystems, including coral reefs, seagrass beds, and mangrove forests. Campus instruction is followed by a required field study on Utila, Honduras, emphasizing marine organism identification, underwater survey methods, experimental design, data collection and analysis, and research presentation. The program places a strong emphasis on scuba diving and offers an opportunity to earn Open Water Diver certification.",
       []
     ]
   },
