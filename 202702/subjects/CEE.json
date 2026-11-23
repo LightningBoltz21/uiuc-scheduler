@@ -1,7 +1,7 @@
 {
   "subject": "CEE",
-  "scrapedAt": 1795415525697,
-  "courseCount": 45,
+  "scrapedAt": 1795415549495,
+  "courseCount": 49,
   "courses": {
     "CEE 300": [
       "Behavior of Materials",
@@ -3174,6 +3174,809 @@
       },
       [],
       "Theoretical foundations of inelasticity and advanced nonlinear material modeling techniques; constitutive models for inelastic response of metals, polymers, granular materials, biomaterials. Phenomenological models of viscoelasticity, viscoplasticity, elastoplasticity, porous plasticity and cyclic plasticity. Small-strain and finite-strain numerical implementation and code development.",
+      []
+    ],
+    "CEE 597": [
+      "Independent Study",
+      {
+        "10476": [
+          "10476",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Individual investigations or studies of any phase of civil engineering selected by the student and approved by the adviser and the staff member who will supervise the investigation.",
+      []
+    ],
+    "CEE 595": [
+      "Seminar",
+      {
+        "AG": [
+          "31753",
+          [
+            [
+              5,
+              "F",
+              "2311 Newmark Civil Engineering Bldg",
+              44,
+              [
+                "Koloutsou-Vakakis, S",
+                "Verma, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          13,
+          0,
+          [],
+          -1
+        ],
+        "F": [
+          "31755",
+          [
+            [
+              6,
+              "F",
+              "3310 Newmark Civil Engineering Bldg",
+              44,
+              [
+                "Olson, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          13,
+          0,
+          [],
+          -1
+        ],
+        "MA": [
+          "55645",
+          [
+            [
+              6,
+              "F",
+              "1311 Newmark Civil Engineering Bldg",
+              44,
+              [
+                "Popovics, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          13,
+          0,
+          [],
+          -1
+        ],
+        "MAO": [
+          "78295",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Popovics, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "S": [
+          "31757",
+          [
+            [
+              18,
+              "M",
+              "1310 Newmark Civil Engineering Bldg",
+              44,
+              [
+                "Lopez-Pamies, O"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          13,
+          0,
+          [],
+          -1
+        ],
+        "SO": [
+          "62386",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Lopez-Pamies, O"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "SRM": [
+          "60516",
+          [
+            [
+              7,
+              "M",
+              "1310 Newmark Civil Engineering Bldg",
+              44,
+              [
+                "Lombardo, F"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          13,
+          0,
+          [],
+          -1
+        ],
+        "SRO": [
+          "59920",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Lombardo, F"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "SRS": [
+          "58379",
+          [
+            [
+              7,
+              "M",
+              "1310 Newmark Civil Engineering Bldg",
+              44,
+              [
+                "Sychterz, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          13,
+          0,
+          [],
+          -1
+        ],
+        "SUO": [
+          "60515",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Sychterz, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "T": [
+          "31754",
+          [
+            [
+              9,
+              "R",
+              "TBA",
+              0,
+              [
+                "Al-Qadi, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          13,
+          0,
+          [],
+          -1
+        ],
+        "TO": [
+          "78296",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Al-Qadi, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "W": [
+          "31758",
+          [
+            [
+              7,
+              "F",
+              "1017 Civil & Envir Eng Bldg",
+              0,
+              [
+                "Cai, X"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          13,
+          0,
+          [],
+          -1
+        ],
+        "WO": [
+          "78297",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Cai, X"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Discussion of current topics in civil and environmental engineering and related fields by staff, students, and visiting lecturers.",
+      []
+    ],
+    "CEE 587": [
+      "Applied Rock Mechanics",
+      {
+        "LM": [
+          "31752",
+          [
+            [
+              13,
+              "TR",
+              "2310 Newmark Civil Engineering Bldg",
+              44,
+              [
+                "Olson, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "79131",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Olson, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Application of rock mechanics to engineering problems; shear strength of rock masses; dynamic and static stability of rock slopes; deformability of rock masses; design of pressure tunnel linings and dam foundations; controlled blasting and blasting vibrations; tunnel support; machine tunneling; design and construction of large underground openings; field instrumentation.",
+      []
+    ],
+    "CEE 598": [
+      "Special Topics",
+      {
+        "ATF": [
+          "48320",
+          [
+            [
+              99,
+              "MWF",
+              "1311 Newmark Civil Engineering Bldg",
+              44,
+              [
+                "Talebpour, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ATO": [
+          "47548",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Talebpour, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "CFM": [
+          "45020",
+          [
+            [
+              10,
+              "TR",
+              "2312 Newmark Civil Engineering Bldg",
+              44,
+              [
+                "Lopez-Pamies, O"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "CFO": [
+          "50392",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Lopez-Pamies, O"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "CR": [
+          "39737",
+          [
+            [
+              56,
+              "W",
+              "3019 Civil & Envir Eng Bldg",
+              0,
+              [
+                "Jebelli, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "CRC": [
+          "58138",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Jebelli, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "CRO": [
+          "44458",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Jebelli, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "ET": [
+          "31761",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Edwards, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ETO": [
+          "57673",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Edwards, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "HC": [
+          "42069",
+          [
+            [
+              20,
+              "M",
+              "2312 Newmark Civil Engineering Bldg",
+              44,
+              [
+                "Barros, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "HCO": [
+          "57672",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Barros, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "PIM": [
+          "31759",
+          [
+            [
+              50,
+              "MW",
+              "2015 Civil & Envir Eng Bldg",
+              0,
+              [
+                "Tartakovsky, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "PIO": [
+          "57676",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Tartakovsky, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "RVD": [
+          "59655",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Edwards, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "RVO": [
+          "41685",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Edwards, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "TB": [
+          "46695",
+          [
+            [
+              76,
+              "TR",
+              "TBA",
+              0,
+              [
+                "Pawlikowski, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "TBC": [
+          "50278",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Pawlikowski, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "TBO": [
+          "50283",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Pawlikowski, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Subject offerings of new and developing areas of knowledge in civil and environmental engineering intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites.",
       []
     ]
   },
