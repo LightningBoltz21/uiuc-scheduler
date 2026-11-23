@@ -1,7 +1,7 @@
 {
   "subject": "NPRE",
-  "scrapedAt": 1795416370647,
-  "courseCount": 28,
+  "scrapedAt": 1795416397416,
+  "courseCount": 29,
   "courses": {
     "NPRE 247": [
       "Modeling Nuclear Energy System",
@@ -1152,6 +1152,36 @@
       },
       [],
       "Lectures and discussions on current work in research and development in nuclear engineering and related fields by staff, advanced students, and visiting lecturers.",
+      []
+    ],
+    "NPRE 597": [
+      "Independent Study",
+      {
+        "10076": [
+          "10076",
+          [
+            [
+              2,
+              "",
+              "TBA",
+              2,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Individual study in areas of nuclear engineering and closely related fields not covered by regular course offerings. The work is carried out under the supervision of a member of the faculty.",
       []
     ]
   },
