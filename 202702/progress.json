@@ -4,7 +4,7 @@
   "year": "2027",
   "term": "spring",
   "startedAt": 1795415072558,
-  "lastUpdated": 1795416185581,
+  "lastUpdated": 1795416245961,
   "totalSubjects": 188,
   "totalCourses": 4539,
   "subjects": [
@@ -18855,19 +18855,27 @@
     "LAS",
     "LING",
     "SLCL",
-    "MSE"
+    "MSE",
+    "MATH",
+    "ME",
+    "MDIA",
+    "MACS",
+    "MDVL",
+    "MICR",
+    "MILS",
+    "GRKM"
   ],
   "partialSubjects": {
-    "MATH": {
-      "completed": 9,
-      "total": 69,
+    "MCB": {
+      "completed": 0,
+      "total": 54,
       "lastCourse": "ABORTED"
     }
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 3036,
-    "failedCourses": 17,
+    "successfulCourses": 3202,
+    "failedCourses": 18,
     "rateLimitCount": 0
   }
 }
