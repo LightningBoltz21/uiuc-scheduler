@@ -4,7 +4,7 @@
   "year": "2027",
   "term": "spring",
   "startedAt": 1795415072558,
-  "lastUpdated": 1795415260633,
+  "lastUpdated": 1795415320607,
   "totalSubjects": 188,
   "totalCourses": 4539,
   "subjects": [
@@ -18741,19 +18741,27 @@
     "AGCM",
     "AGED",
     "ALEC",
-    "ABE"
+    "ABE",
+    "ACE",
+    "ACES",
+    "AFAS",
+    "AIS",
+    "ANSC",
+    "ANTH",
+    "AHS",
+    "ARAB"
   ],
   "partialSubjects": {
-    "ACE": {
+    "ARCH": {
       "completed": 40,
-      "total": 61,
+      "total": 43,
       "lastCourse": "ABORTED"
     }
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 270,
-    "failedCourses": 2,
+    "successfulCourses": 462,
+    "failedCourses": 3,
     "rateLimitCount": 0
   }
 }

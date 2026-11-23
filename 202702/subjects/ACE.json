@@ -1,7 +1,7 @@
 {
   "subject": "ACE",
-  "scrapedAt": 1795415260631,
-  "courseCount": 40,
+  "scrapedAt": 1795415289604,
+  "courseCount": 61,
   "courses": {
     "ACE 161": [
       "Computer Concepts & Applications",
@@ -2142,6 +2142,960 @@
       [],
       "Designed to prepare students to sit for the Series 65 Exam, SIE Exam, and begin the journey towards sitting for the CFP® Exam. This course will help students prepare for careers in financial planning, investment management, insurance, brokerage, banking, and credit unions. ACE 441 also serves as a review of content learned in the financial planning concentration. Students are responsible for registering and paying for the certification exam separately. The exam fee ranges from $80-$190.",
       []
+    ],
+    "ACE 446": [
+      "Modeling App's Finan Plan",
+      {
+        "GR": [
+          "49906",
+          [
+            [
+              42,
+              "MW",
+              "30 ACES Lib, Info & Alum Ctr",
+              0,
+              [
+                "Elmore, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "UG": [
+          "49907",
+          [
+            [
+              42,
+              "MW",
+              "30 ACES Lib, Info & Alum Ctr",
+              0,
+              [
+                "Elmore, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Improves ability to make effective financial plans and decisions. Involves development of decision tools that are applied to \"real world\" financial data sets and planning/decision-making circumstances. Topics include applied data management techniques (designing queries/storable forms), financial statement analysis, numeric optimization tools, leverage assessment, incorporating risk in decisions, capital budgeting and time value of money, term structure of interest rates, and currency exchange.",
+      []
+    ],
+    "ACE 444": [
+      "Financial Services & Investing Planning",
+      {
+        "P": [
+          "55323",
+          [
+            [
+              11,
+              "TR",
+              "62 Krannert Art Museum",
+              33,
+              [
+                "Elmore, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Advanced skills in and understanding of asset pricing, equity and debt investment, portfolio theory and diversification, asset allocation, financial risk management, and financial intermediation and regulation emphasizing applications in financial planning and agricultural finance.",
+      []
+    ],
+    "ACE 447": [
+      "Capstone in Applied Economics",
+      {
+        "UG": [
+          "79220",
+          [
+            [
+              10,
+              "TR",
+              "426 Mumford Hall",
+              19,
+              [
+                "Staples, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Capstone course that examines how firms across agricultural, food, and beverage supply chains navigate disruptions and adapt to contemporary challenges, such as regulatory reform, macroeconomic uncertainty, and shifts in consumer demand. Students will engage in case studies and class projects, discuss current events, and learn from industry leaders to see leadership and management strategies in action. The course promotes essential soft skills that employers value in today’s job market, including critical thinking, problem-solving, and communication.",
+      []
+    ],
+    "ACE 451": [
+      "Agriculture in Intl Dev",
+      {
+        "GR": [
+          "49908",
+          [
+            [
+              13,
+              "TR",
+              "313 Mumford Hall",
+              19,
+              [
+                "McNamara, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "UG": [
+          "49909",
+          [
+            [
+              13,
+              "TR",
+              "313 Mumford Hall",
+              19,
+              [
+                "McNamara, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Economics of agricultural development and the relationships between agriculture and other sectors of the economy in developing nations; agricultural productivity and levels of living in the less developed areas of the world; and studies of agricultural development in different world regions including Africa, Asia, and Latin America.",
+      []
+    ],
+    "ACE 449": [
+      "Retirement & Benefit Planning",
+      {
+        "UG": [
+          "52915",
+          [
+            [
+              11,
+              "MW",
+              "108 Bevier Hall",
+              30,
+              [
+                "Sanchez, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Employee benefit and retirement planning, including employer-sponsored or individually managed options, with particular attention to determining benefit and retirement needs and managing risks in specific planning situations.",
+      []
+    ],
+    "ACE 456": [
+      "Agricultural and Food Policies",
+      {
+        "GR": [
+          "45927",
+          [
+            [
+              12,
+              "TR",
+              "313 Mumford Hall",
+              19,
+              [
+                "Hutchins, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "UG": [
+          "45928",
+          [
+            [
+              12,
+              "TR",
+              "313 Mumford Hall",
+              19,
+              [
+                "Hutchins, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Analysis of agricultural and food policies and programs and their effects on producers and consumers of agricultural products. Formulation of agricultural and food policies are examined with an emphasis on historical and current economic problems affecting agriculture and rural America.",
+      []
+    ],
+    "ACE 476": [
+      "Behavioral Economics and Financial Decision Making",
+      {
+        "GR": [
+          "62224",
+          [
+            [
+              10,
+              "TR",
+              "166 Bevier Hall",
+              30,
+              [
+                "Herrera Almanza, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "UG": [
+          "62223",
+          [
+            [
+              10,
+              "TR",
+              "166 Bevier Hall",
+              30,
+              [
+                "Herrera Almanza, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Uses applied economics and finance coupled with insights from psychology to better understand human behavior and decision making. Application of core behavioral economic concepts and interventions to address pressing economic and financial challenges.",
+      []
+    ],
+    "ACE 474": [
+      "Intermediate Consumer Economics",
+      {
+        "GR": [
+          "40476",
+          [
+            [
+              11,
+              "MW",
+              "432 Armory",
+              13,
+              [
+                "Xu, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "UG": [
+          "30604",
+          [
+            [
+              11,
+              "MW",
+              "432 Armory",
+              13,
+              [
+                "Xu, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Concepts, theories, and methods for analysis of the micro and macro aspects of consumption; includes standards and content of consumption and description of consumption patterns and trends in the USA and selected other countries.",
+      []
+    ],
+    "ACE 499": [
+      "Contemporary Topics in ACE",
+      {
+        "10078": [
+          "10078",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "GR1": [
+          "51823",
+          [
+            [
+              13,
+              "TR",
+              "426 Mumford Hall",
+              19,
+              [
+                "Dickwella Vidanage, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          13,
+          0,
+          [],
+          -1
+        ],
+        "GR2": [
+          "48576",
+          [
+            [
+              13,
+              "TR",
+              "426 Mumford Hall",
+              19,
+              [
+                "Dickwella Vidanage, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          13,
+          0,
+          [],
+          -1
+        ],
+        "UG1": [
+          "44914",
+          [
+            [
+              13,
+              "TR",
+              "426 Mumford Hall",
+              19,
+              [
+                "Dickwella Vidanage, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          13,
+          0,
+          [],
+          -1
+        ],
+        "UG2": [
+          "48577",
+          [
+            [
+              13,
+              "TR",
+              "426 Mumford Hall",
+              19,
+              [
+                "Dickwella Vidanage, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          13,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Group discussion or an experimental course on a special topic in agricultural and consumer economics.",
+      []
+    ],
+    "ACE 503": [
+      "Equilibrium and Welfare Econ",
+      {
+        "M": [
+          "30653",
+          [
+            [
+              53,
+              "MW",
+              "316N Mumford Hall",
+              19,
+              [
+                "Atallah, S Bullock, D"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              15,
+              "TRF",
+              "316S Mumford Hall",
+              19,
+              [
+                "Atallah, S Bullock, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Provides a theoretical and applied treatment of economic equilibrium and the consequences of displacement of equilibrium for the welfare levels of economic agents. Displacement of equilibrium will be shown to be brought about by changes in government policy, technology, and consumer preferences. Welfare measures under partial equilibrium, general equilibrium, and multi-market models will be presented. Includes various applications of welfare economics in the analysis of policy and technological change.",
+      []
+    ],
+    "ACE 505": [
+      "Empirical Methods in Applied Economics",
+      {
+        "EM": [
+          "76826",
+          [
+            [
+              43,
+              "TR",
+              "389 Education Building",
+              28,
+              [
+                "Taylor, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Covers techniques in modern applied econometrics, with an emphasis on reduced-form causal inference. These methods form an important foundation for engagement with much of the literature in agricultural and applied economics. The course surveys research designs, with an emphasis on their identifying assumptions for causal inference. To prepare for future research, students will use software with data to apply these methods in problem sets.",
+      []
+    ],
+    "ACE 510": [
+      "Adv Natural Resource Economics",
+      {
+        "B": [
+          "56381",
+          [
+            [
+              66,
+              "MW",
+              "219 David Kinley Hall",
+              16,
+              [
+                "Hultgren, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Economic theory is used to examine the allocation of renewable and efficiency issues that arise from natural resource policy and management issues.",
+      []
+    ],
+    "ACE 531": [
+      "Impact Evaluation",
+      {
+        "IE": [
+          "63795",
+          [
+            [
+              13,
+              "MW",
+              "174 Wohlers Hall",
+              2,
+              [
+                "Arends-Kuenning, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "The problem of identification. Methods for impact evaluation, including randomized field experiments, propensity score matching, differences in differences, instrumental variables, and regression discontinuity. Includes exercises using the econometric software program STATA.",
+      []
+    ],
+    "ACE 535": [
+      "Data Science for Applied Economics",
+      {
+        "SAE": [
+          "78845",
+          [
+            [
+              67,
+              "TR",
+              "316N Mumford Hall",
+              19,
+              [
+                "Hutchins, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Students in this course will learn data science skills for questions in applied economics. Using the python programming language and git version control, we will cover obtaining data via scraping and APIs, processing and cleaning data using python, and analyzing data via data visualization and basic machine learning techniques. We will broadly cover the basics of text, spatial, and numeric data with an emphasis on their uses in analyzing economic questions and conducting research.",
+      []
+    ],
+    "ACE 546": [
+      "Agriculture as an Asset Class",
+      {
+        "ONL": [
+          "77345",
+          [
+            [
+              62,
+              "W",
+              "ONLINE",
+              0,
+              [
+                "Sherrick, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Modern agriculture relies heavily on capital, assets, and financing. Students will examine scale and structure of the US agricultural sector, capital structure and financing of the asset class, rise of investment activities, and ag-specific institutions which serve the industry. Topics include financial performance, asset exposure mechanisms, and emerging investment opportunities. This course is exclusively offered online. It has been designed for and is restricted to students pursuing a graduate certificate and specific degree programs.",
+      []
+    ],
+    "ACE 547": [
+      "Modern Issues in Food & Agriculture",
+      {
+        "ONL": [
+          "77346",
+          [
+            [
+              62,
+              "W",
+              "ONLINE",
+              0,
+              [
+                "Paulson, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "With a projected global population of 9.7 billion by 2050, students in this course will discuss current food, agriculture, and sustainability challenges through a point/counterpoint framework to voice opinions and ask questions. Students will gain comprehensive knowledge of contemporary, ever-changing issues across the agriculture sector, from production to consumption. This course is exclusively offered online. It has been designed for and is restricted to students pursuing a graduate certificate and specific degree programs.",
+      []
+    ],
+    "ACE 561": [
+      "Adv Res and Scholarly Comm",
+      {
+        "PD": [
+          "30663",
+          [
+            [
+              53,
+              "W",
+              "305 Mumford Hall",
+              19,
+              [
+                "Serra Devesa, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Seminar intended for Ph.D. students who have completed written preliminary examinations. Develops a comprehensive understanding of the research process. Discussions include identification of research topics, structure of research proposals, review of literature, effective communication, management of research activities, and contributions to scholarly debate.",
+      []
+    ],
+    "ACE 563": [
+      "Math Program App Econ I",
+      {
+        "A": [
+          "46171",
+          [
+            [
+              53,
+              "MW",
+              "138 Wohlers Hall",
+              2,
+              [
+                "Atallah, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Application of mathematical programming methods to discrete models in agricultural economics; Kuhn-Tucker theorem, Lagrange multipliers, duality, simplex method as applied to linear and quadratic programming, and input-output analysis models in agriculture.",
+      []
+    ],
+    "ACE 592": [
+      "Special Topics",
+      {
+        "EM": [
+          "30666",
+          [
+            [
+              68,
+              "TR",
+              "305 Mumford Hall",
+              19,
+              [
+                "Cardoso, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "GIE": [
+          "58352",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "March, L",
+                "Paulson, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "PDP": [
+          "49563",
+          [
+            [
+              13,
+              "TR",
+              "TBA",
+              0,
+              [
+                "Dickwella Vidanage, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          13,
+          0,
+          [],
+          -1
+        ],
+        "PED": [
+          "59863",
+          [
+            [
+              13,
+              "TR",
+              "TBA",
+              0,
+              [
+                "Dickwella Vidanage, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          13,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Group instruction on a special topic under the direction of one or more members of the faculty.",
+      []
+    ],
+    "ACE 591": [
+      "Independent Study",
+      {
+        "10085": [
+          "10085",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Individual research work under the supervision of an appropriate member of the faculty.",
+      []
+    ],
+    "ACE 594": [
+      "Seminars and Workshops",
+      {
+        "CAS": [
+          "75376",
+          [
+            [
+              28,
+              "W",
+              "426 Mumford Hall",
+              19,
+              [
+                "Hutchins, J",
+                "Kalaitzandonakes, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          13,
+          0,
+          [],
+          -1
+        ],
+        "P": [
+          "47455",
+          [
+            [
+              69,
+              "R",
+              "426 Mumford Hall",
+              19,
+              [
+                "Herrera Almanza, C",
+                "Ridley, W"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "R": [
+          "30672",
+          [
+            [
+              28,
+              "M",
+              "426 Mumford Hall",
+              19,
+              [
+                "Cardoso, D",
+                "Xu, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Participation in a seminar or workshop with other graduate students and faculty members.",
+      []
     ]
   },
   "caches": {
@@ -2211,7 +3165,11 @@
       "1600 - 1730",
       "0800 - 0950",
       "1400 - 1630",
-      "1700 - 1850"
+      "1700 - 1850",
+      "1330 - 1450",
+      "1530 - 1710",
+      "1330 - 1520",
+      "1230 - 1320"
     ],
     "dateRanges": [],
     "scheduleTypes": [
