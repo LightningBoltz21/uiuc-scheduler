@@ -1,0 +1,1973 @@
+{
+  "subject": "INFO",
+  "scrapedAt": 1795416045143,
+  "courseCount": 20,
+  "courses": {
+    "INFO 202": [
+      "Social Aspects Info Tech",
+      {
+        "AD1": [
+          "53421",
+          [
+            [
+              3,
+              "F",
+              "46 Sch of Info Sciences Bldg",
+              0,
+              [
+                "Hussein Moustafa, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "AD2": [
+          "53422",
+          [
+            [
+              5,
+              "F",
+              "46 Sch of Info Sciences Bldg",
+              0,
+              [
+                "Hussein Moustafa, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "AD3": [
+          "53424",
+          [
+            [
+              6,
+              "F",
+              "46 Sch of Info Sciences Bldg",
+              0,
+              [
+                "Hussein Moustafa, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "AD4": [
+          "53425",
+          [
+            [
+              7,
+              "F",
+              "46 Sch of Info Sciences Bldg",
+              0,
+              [
+                "Hussein Moustafa, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "49273",
+          [
+            [
+              5,
+              "MW",
+              "1024 Chemistry Annex",
+              34,
+              [
+                "Hussein Moustafa, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "CD1": [
+          "53419",
+          [
+            [
+              8,
+              "F",
+              "46 Sch of Info Sciences Bldg",
+              0,
+              [
+                "Levinson, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "CD2": [
+          "53423",
+          [
+            [
+              9,
+              "F",
+              "46 Sch of Info Sciences Bldg",
+              0,
+              [
+                "Levinson, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "CD3": [
+          "72346",
+          [
+            [
+              29,
+              "F",
+              "46 Sch of Info Sciences Bldg",
+              0,
+              [
+                "Levinson, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "CL1": [
+          "78193",
+          [
+            [
+              33,
+              "MW",
+              "126 Sch of Info Sciences Bldg",
+              0,
+              [
+                "Levinson, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as IS 202 and MACS 202. See IS 202.",
+      []
+    ],
+    "INFO 102": [
+      "Little Bits to Big Ideas",
+      {
+        "AB1": [
+          "63226",
+          [
+            [
+              109,
+              "T",
+              "101 901 W Oregon",
+              35,
+              [
+                "Kashinath, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          10,
+          0,
+          [],
+          -1
+        ],
+        "AB2": [
+          "63227",
+          [
+            [
+              96,
+              "W",
+              "101 901 W Oregon",
+              35,
+              [
+                "Kashinath, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          10,
+          0,
+          [],
+          -1
+        ],
+        "AB3": [
+          "63228",
+          [
+            [
+              111,
+              "R",
+              "122 1203 1/2 W Nevada",
+              46,
+              [
+                "Kamtikar, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          10,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "63224",
+          [
+            [
+              3,
+              "MWF",
+              "2055 Sidney Lu Mech Engr Bldg",
+              10,
+              [
+                "Cunningham, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Broad introduction to the nature, capabilities, and limitations of computing. Topics range from the way data is represented and stored, to the way today's computers work, to the general ideas of algorithms and computational efficiency, to the future of computing. Covers \"Great Ideas\" across various areas of the field, including, for example, cryptography and internet security, problem solving, modeling and simulation, and artificial intelligence.",
+      []
+    ],
+    "INFO 199": [
+      "Undergraduate Open Seminar",
+      {
+        "53622": [
+          "53622",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "May be repeated in separate terms to a maximum of 6 hours. Prerequisite: Consent of instructor.",
+      []
+    ],
+    "INFO 303": [
+      "Writing Across Media",
+      {
+        "A": [
+          "53375",
+          [
+            [
+              113,
+              "TR",
+              "11 Psychology Building",
+              4,
+              [
+                "Mier, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "53374",
+          [
+            [
+              44,
+              "TR",
+              "ONLINE",
+              0,
+              [
+                "Bishop, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "C": [
+          "61179",
+          [
+            [
+              110,
+              "TR",
+              "29 Psychology Building",
+              4,
+              [
+                "McMahon, F"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "D": [
+          "55726",
+          [
+            [
+              95,
+              "TR",
+              "428 Armory",
+              13,
+              [
+                "Mendoza, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "E": [
+          "53376",
+          [
+            [
+              109,
+              "TR",
+              "303 Noyes Laboratory",
+              17,
+              [
+                "McGowan, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "F": [
+          "78319",
+          [
+            [
+              10,
+              "TR",
+              "170 Wohlers Hall",
+              2,
+              [
+                "Mendoza, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "G": [
+          "79160",
+          [
+            [
+              44,
+              "TR",
+              "13 Sch of Info Sciences Bldg",
+              0,
+              [
+                "Mier, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "H": [
+          "79161",
+          [
+            [
+              44,
+              "MW",
+              "428 Armory",
+              13,
+              [
+                "McGowan, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "I": [
+          "79164",
+          [
+            [
+              196,
+              "MW",
+              "13 Sch of Info Sciences Bldg",
+              0,
+              [
+                "Keener, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "The ability to communicate effectively in multiple types of media is a crucial part of literacy in our society. In this course, students will explore the intersections of various media: print, film, images, sound, etc. Students will consider the ways in which writing--as an object and as a practice--is shaped by multimodal interactions. Also integrates practical activities with broader theoretical issues in order to provide effective strategies for designing multimedia presentations, projects, and texts that integrate photography, video, and sound.",
+      []
+    ],
+    "INFO 310": [
+      "Computing in the Humanities",
+      {
+        "A": [
+          "53864",
+          [
+            [
+              11,
+              "TR",
+              "131 Sch of Info Sciences Bldg",
+              0,
+              [
+                "Underwood, W"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "75711",
+          [
+            [
+              8,
+              "MWF",
+              "1027 Lincoln Hall",
+              3,
+              [
+                "Roland, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      null,
+      []
+    ],
+    "INFO 326": [
+      "New Media, Culture & Society",
+      {
+        "A": [
+          "61762",
+          [
+            [
+              15,
+              "TR",
+              "317 Gregory Hall",
+              8,
+              [
+                "Hay, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as MACS 326. See MACS 326.",
+      []
+    ],
+    "INFO 333": [
+      "User Experience Design In Action",
+      {
+        "AB2": [
+          "75721",
+          [
+            [
+              11,
+              "R",
+              "1035 Campus Instructional Facility",
+              15,
+              [
+                "Hussain, H",
+                "Wu, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "AB3": [
+          "75722",
+          [
+            [
+              15,
+              "R",
+              "3025 Campus Instructional Facility",
+              15,
+              [
+                "Hussain, H",
+                "Wu, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "75719",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Hussain, H",
+                "Wu, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to principles and techniques of user experience design. Explore UX from different angles, including visual and sensory components, infrastructure and data, and social science evaluation and research methods. Hands-on assignments relate to tried-and-true methods like rapid prototyping, usability or multimodal communication, and emergent areas such as AI-based generation or interactive data visualization.",
+      []
+    ],
+    "INFO 399": [
+      "Individual Study",
+      {
+        "51391": [
+          "51391",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Individual study in a subject related to informatics not covered in normal course offerings.",
+      []
+    ],
+    "INFO 390": [
+      "Special Topics",
+      {
+        "CGB": [
+          "51602",
+          [
+            [
+              15,
+              "MW",
+              "1057 Lincoln Hall",
+              3,
+              [
+                "Grisales Bohorquez, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "DF1": [
+          "66043",
+          [
+            [
+              13,
+              "TR",
+              "ONLINE",
+              0,
+              [
+                "Bambenek, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "MG": [
+          "54042",
+          [
+            [
+              66,
+              "MW",
+              "1302 Everitt Laboratory",
+              11,
+              [
+                "Gupta, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Explores a variety of informatics topics. Topics and prerequisites vary by section; see current Class Schedule for details.",
+      []
+    ],
+    "INFO 407": [
+      "Introduction to Programming Python for Data Science",
+      {
+        "A": [
+          "71758",
+          [
+            [
+              0,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Gong, Z",
+                "Shao, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "For students who want to learn about solving problems common in data sciences but have little or no programming experience. The class is asynchronous (students can access material on-line but within specified timeframes) and taught online. Data Science lies at the intersection of statistics and computer science and focuses on extracting information from data. This class will immerse students on topics of software construction, design, programming paradigms and the semantic and syntax of the Python language and then focus on some of the necessary workflows to move raw data into information. The class will explore common Python modules (libraries) used in data science, natural language processing, statistics, mathematics, data management (acquiring, cleaning, reshaping, organizing, persisting) and visualizations.",
+      []
+    ],
+    "INFO 416": [
+      "Makerspace: Game Studies",
+      {
+        "A": [
+          "71857",
+          [
+            [
+              11,
+              "R",
+              "FAB LAB Art-East Annex, Studio 2",
+              0,
+              [
+                "Baird, D",
+                "Butt, E Baird, D",
+                "Butt, E"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              11,
+              "T",
+              "ARR Sch of Info Sciences Bldg",
+              0,
+              [
+                "Baird, D",
+                "Butt, E Baird, D",
+                "Butt, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "AG": [
+          "71858",
+          [
+            [
+              11,
+              "R",
+              "FAB LAB Art-East Annex, Studio 2",
+              0,
+              [
+                "Baird, D",
+                "Butt, E Baird, D",
+                "Butt, E"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              11,
+              "T",
+              "ARR Sch of Info Sciences Bldg",
+              0,
+              [
+                "Baird, D",
+                "Butt, E Baird, D",
+                "Butt, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "A foray into game studies via makerspace production mediums. Students will study the role of play, tinkering and gaming in design, research and innovation and be challenged to learn a variety of makerspace production tools and techniques to create games. This course will include three major components (1) physical board game design, (2) introductory computer game design and (3) investigation into the narrative themes, artistic production, interaction mechanics and culture that make games engaging. During the course, students will prototype both playable board and video games, followed by iterating through to a final version of a game of their choice. Class will meet in the CU Community Fab Lab in Art Annex II. Students who have taken a different makerspace class before are encouraged to enroll.",
+      []
+    ],
+    "INFO 418": [
+      "Makerspace: Escape Rooms",
+      {
+        "A": [
+          "71821",
+          [
+            [
+              10,
+              "R",
+              "FAB LAB Art-East Annex, Studio 2",
+              0,
+              [
+                "Baird, D",
+                "Ballenger, S Baird, D",
+                "Ballenger, S"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              10,
+              "T",
+              "FAB LAB Art-East Annex, Studio 2",
+              0,
+              [
+                "Baird, D",
+                "Ballenger, S Baird, D",
+                "Ballenger, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "AG": [
+          "71822",
+          [
+            [
+              10,
+              "R",
+              "FAB LAB Art-East Annex, Studio 2",
+              0,
+              [
+                "Baird, D",
+                "Ballenger, S Baird, D",
+                "Ballenger, S"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              10,
+              "T",
+              "FAB LAB Art-East Annex, Studio 2",
+              0,
+              [
+                "Baird, D",
+                "Ballenger, S Baird, D",
+                "Ballenger, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "This course will explore the intersection of storytelling, interaction design, and user experience through the design of escape rooms. In the past couple years escape rooms have been on the rise, changing from simple locked boxes in an open room to complex adventures spanning multiple rooms involving electronics, sound design, storytelling, and even live actors. This class will be primarily focusing on the manufacturing and electronics work that goes into making an immersive escape room experience. Over the span of the course, students will become familiar with the basics of several advanced small-scale manufacturing tools, such as laser engravers, electronic cutters, and 3D printers/scanners. They will also learn how to program small-board electronics (Arduinos and IoT boards, servos, electronic locks, and/or lights), and incorporate them meaningfully into puzzles in order to achieve client’s goals. Students will design, prototype, playtest, and iterate collaboratively on the puzzles and interactive elements.",
+      []
+    ],
+    "INFO 424": [
+      "Musical Informatics",
+      {
+        "A": [
+          "75702",
+          [
+            [
+              12,
+              "TR",
+              "0060 Siebel Center for Design",
+              21,
+              [
+                "Tipei, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "AG": [
+          "75703",
+          [
+            [
+              12,
+              "TR",
+              "0060 Siebel Center for Design",
+              21,
+              [
+                "Tipei, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "A 21st century approach to music theory: fundamental elements of music illustrated through logical and mathematical concepts, unencumbered by stylistic considerations. Defines the internal structure of sounds and presents a few general methods of organizing them into complex compositions. Intended for musicians having limited familiarity with mathematics, as well as scientifically inclined students with little musical background.",
+      []
+    ],
+    "INFO 419": [
+      "Makerspace: Learning in Community",
+      {
+        "A": [
+          "75957",
+          [
+            [
+              15,
+              "TR",
+              "TBA",
+              0,
+              [
+                "Ballenger, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "AG": [
+          "75958",
+          [
+            [
+              15,
+              "TR",
+              "TBA",
+              0,
+              [
+                "Ballenger, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Explores the history and function of community and education-oriented makerspaces. Students will evaluate emergent makerspace curricula for learning in formal environments (e.g., schools), and informal settings (e.g., libraries). Includes community site visits to observe informal STEAM programs. A final project will involve the development of a makerspace workshop activity to be used at a community event. Students will be familiarized with several methods of teaching and learning rapid prototyping and iterative design techniques.",
+      []
+    ],
+    "INFO 490": [
+      "Special Topics",
+      {
+        "3DM": [
+          "78141",
+          [
+            [
+              13,
+              "TR",
+              "1000 Siebel Center for Design",
+              21,
+              [
+                "Boyce, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "AIS": [
+          "64015",
+          [
+            [
+              5,
+              "W",
+              "1035 Campus Instructional Facility",
+              15,
+              [
+                "Gupta, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "DHG": [
+          "65145",
+          [
+            [
+              15,
+              "TR",
+              "0060 Siebel Center for Design",
+              21,
+              [
+                "Fuoss, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          10,
+          0,
+          [],
+          -1
+        ],
+        "DHU": [
+          "65143",
+          [
+            [
+              15,
+              "TR",
+              "0060 Siebel Center for Design",
+              21,
+              [
+                "Fuoss, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          10,
+          0,
+          [],
+          -1
+        ],
+        "FAI": [
+          "65142",
+          [
+            [
+              11,
+              "MW",
+              "428 Armory",
+              13,
+              [
+                "Muzei, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          14,
+          0,
+          [],
+          -1
+        ],
+        "FGR": [
+          "65144",
+          [
+            [
+              11,
+              "MW",
+              "428 Armory",
+              13,
+              [
+                "Muzei, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          14,
+          0,
+          [],
+          -1
+        ],
+        "JGG": [
+          "69282",
+          [
+            [
+              15,
+              "TR",
+              "ONLINE",
+              0,
+              [
+                "Ginger, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "JGU": [
+          "68730",
+          [
+            [
+              15,
+              "TR",
+              "ONLINE",
+              0,
+              [
+                "Ginger, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "1 to 4 undergraduate hours. 1 to 4 graduate hours. May be repeated if topics vary. Prerequisite: Consent of instructor. Other prerequisites as specified for each topic offering. See Class Schedule.",
+      []
+    ],
+    "INFO 491": [
+      "Ugrad Bioinformatics Seminar",
+      {
+        "A": [
+          "55548",
+          [
+            [
+              7,
+              "R",
+              "ONLINE",
+              0,
+              [
+                "Rodriguez Zas, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "66288",
+          [
+            [
+              7,
+              "R",
+              "ONLINE",
+              0,
+              [
+                "Rodriguez Zas, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "C": [
+          "71685",
+          [
+            [
+              7,
+              "R",
+              "ONLINE",
+              0,
+              [
+                "Rodriguez Zas, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduces the field of bioinformatics and computational biology.",
+      []
+    ],
+    "INFO 500": [
+      "Orientation Seminar",
+      {
+        "A": [
+          "59667",
+          [
+            [
+              33,
+              "M",
+              "0036 Campus Instructional Facility",
+              15,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "A broad introduction to faculty research in each Informatics Area. Consists of weekly presentations by Informatics faculty highlighting their recent research, practice, and related concepts.",
+      []
+    ],
+    "INFO 590": [
+      "Advanced Special Topics",
+      {
+        "I": [
+          "62700",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Pincus, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Subject offerings of new and developing areas of knowledge in Informatics, intended to augment existing curriculum. See Class Schedule for specific topics and prerequisites.",
+      []
+    ],
+    "INFO 591": [
+      "Grad Bioinformatics Seminar",
+      {
+        "A": [
+          "55549",
+          [
+            [
+              7,
+              "R",
+              "ONLINE",
+              0,
+              [
+                "Rodriguez Zas, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "68684",
+          [
+            [
+              7,
+              "R",
+              "ONLINE",
+              0,
+              [
+                "Rodriguez Zas, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "C": [
+          "71688",
+          [
+            [
+              7,
+              "R",
+              "ONLINE",
+              0,
+              [
+                "Rodriguez Zas, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "This seminar series focuses on research in the field of bioinformatics and computational biology.",
+      []
+    ],
+    "INFO 597": [
+      "Individual Study",
+      {
+        "60304": [
+          "60304",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Individual study in a subject related to informatics not covered in normal course offerings.",
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "ARRANGED",
+      "0800 - 0920",
+      "1700 - 1820",
+      "0900 - 0950",
+      "0800 - 0850",
+      "1000 - 1050",
+      "1100 - 1150",
+      "1200 - 1250",
+      "1300 - 1350",
+      "1400 - 1450",
+      "1100 - 1220",
+      "1400 - 1520",
+      "1230 - 1350",
+      "0930 - 1050",
+      "1700 - 1750",
+      "1530 - 1650",
+      "1830 - 2030",
+      "1530 - 1620",
+      "1600 - 1720",
+      "2000 - 2050",
+      "1530 - 1820",
+      "1200 - 1550",
+      "1300 - 1500",
+      "0830 - 0920",
+      "1300 - 1650",
+      "0800 - 1150",
+      "1500 - 1620",
+      "0900 - 1020",
+      "1200 - 1320",
+      "1500 - 1550",
+      "1030 - 1150",
+      "1630 - 1750",
+      "1000 - 1120",
+      "1600 - 1650",
+      "1130 - 1250",
+      "1430 - 1550",
+      "1300 - 1420",
+      "1400 - 1550",
+      "1730 - 1920",
+      "1300 - 1450",
+      "1800 - 2050",
+      "0900 - 1050",
+      "1100 - 1250",
+      "1000 - 1150",
+      "1100 - 1215",
+      "0800 - 0959",
+      "1530 - 1730",
+      "1500 - 1700",
+      "1700 - 1900",
+      "1730 - 1930",
+      "1600 - 1750",
+      "1530 - 1700",
+      "0830 - 0950",
+      "1500 - 1650",
+      "1230 - 1420",
+      "1400 - 1650",
+      "0900 - 1150",
+      "1200 - 1450",
+      "1100 - 1320",
+      "1400 - 1700",
+      "1730 - 2030",
+      "0930 - 1020",
+      "1600 - 1730",
+      "0800 - 0950",
+      "1400 - 1630",
+      "1700 - 1850",
+      "1330 - 1450",
+      "1530 - 1710",
+      "1330 - 1520",
+      "1230 - 1320",
+      "0600 - 0730",
+      "1700 - 1950",
+      "0730 - 0850",
+      "1300 - 1550",
+      "0730 - 0920",
+      "1630 - 1720",
+      "1830 - 1950",
+      "1100 - 1350",
+      "1500 - 1750",
+      "0930 - 1220",
+      "1300 - 1750",
+      "1430 - 1520",
+      "1030 - 1120",
+      "1130 - 1220",
+      "1330 - 1750",
+      "1300 - 1620",
+      "1300 - 1520",
+      "1800 - 1950",
+      "1300 - 1540",
+      "0900 - 1140",
+      "0930 - 1210",
+      "1400 - 1640",
+      "1600 - 1840",
+      "1700 - 1940",
+      "1900 - 2240",
+      "1230 - 1345",
+      "1600 - 1715",
+      "1530 - 1720",
+      "1400 - 1530",
+      "1200 - 1350",
+      "1930 - 2050",
+      "1400 - 1720",
+      "1100 - 1450",
+      "1500 - 1850",
+      "1600 - 1850",
+      "1730 - 1900",
+      "1200 - 1400",
+      "1000 - 1130",
+      "1830 - 2020",
+      "1530 - 1645",
+      "1400 - 1515",
+      "1700 - 1815",
+      "1830 - 1945",
+      "0930 - 1045",
+      "1800 - 2100",
+      "1400 - 1750",
+      "1900 - 2050",
+      "1000 - 2000",
+      "1600 - 1740",
+      "1500 - 1730",
+      "1500 - 1720",
+      "1530 - 1800",
+      "1900 - 2020",
+      "1630 - 1745",
+      "1630 - 1730",
+      "1900 - 2000",
+      "1700 - 1800",
+      "1000 - 1250",
+      "0830 - 1050",
+      "1400 - 1600",
+      "1300 - 1415",
+      "1600 - 1700",
+      "1300 - 1600",
+      "1000 - 1220",
+      "1300 - 1430",
+      "1830 - 2130",
+      "1830 - 2100",
+      "0930 - 1120",
+      "1230 - 1520",
+      "0800 - 1050",
+      "0900 - 1120",
+      "1630 - 1920",
+      "1800 - 1920",
+      "1200 - 1650",
+      "1300 - 1530",
+      "0900 - 1030",
+      "1035 - 1150",
+      "1500 - 1630",
+      "1430 - 1630",
+      "1035 - 1200",
+      "1035 - 1230",
+      "0920 - 1050",
+      "1400 - 1620",
+      "1145 - 1305",
+      "1700 - 2000",
+      "1800 - 2000",
+      "1000 - 1700",
+      "1730 - 1850",
+      "0900 - 1200",
+      "1730 - 2130",
+      "1730 - 2020",
+      "1900 - 2150",
+      "0730 - 1530",
+      "1700 - 1730",
+      "1900 - 1930",
+      "1700 - 1930",
+      "1630 - 1800",
+      "1900 - 1950",
+      "1400 - 1540",
+      "1230 - 1430",
+      "0900 - 1130",
+      "1200 - 1430",
+      "1000 - 1200",
+      "1500 - 1615",
+      "0900 - 1100",
+      "1330 - 1620",
+      "0800 - 1220",
+      "1600 - 2050",
+      "0830 - 1350",
+      "1830 - 1920",
+      "1100 - 1245",
+      "0900 - 1145",
+      "1300 - 1545",
+      "1530 - 1750",
+      "1500 - 1600",
+      "1600 - 1900",
+      "1600 - 1820",
+      "1800 - 2020",
+      "0830 - 1120",
+      "1130 - 1245",
+      "1900 - 2030",
+      "1430 - 1620",
+      "1100 - 1240",
+      "1300 - 1440",
+      "0900 - 1040",
+      "1200 - 1340",
+      "1200 - 1315"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Independent Study",
+      "Lecture-Discussion",
+      "Online",
+      "Online Discussion",
+      "Discussion/Recitation",
+      "Lecture",
+      "Conference",
+      "Laboratory-Discussion",
+      "Internship",
+      "Online Lecture-Discussion",
+      "Laboratory",
+      "Online Lecture",
+      "Research",
+      "Seminar",
+      "Packaged Section",
+      "Study Abroad",
+      "Travel",
+      "Online Lab",
+      "Studio",
+      "Practice",
+      "Quiz",
+      "Lecture-Discussion 02/06/27",
+      "Lecture-Discussion 01/23/27",
+      "Conference 01/19/27-05/05/27"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.1035872,
+        "long": -88.2306061
+      },
+      {
+        "lat": 40.103620555545135,
+        "long": -88.22982720445013
+      },
+      {
+        "lat": 40.1065684,
+        "long": -88.2281746
+      },
+      {
+        "lat": 40.10755766472843,
+        "long": -88.22995430218522
+      },
+      {
+        "lat": 40.11171215875622,
+        "long": -88.22530849701589
+      },
+      {
+        "lat": 40.103587,
+        "long": -88.230606
+      },
+      {
+        "lat": 40.1083446,
+        "long": -88.2282555
+      },
+      {
+        "lat": 40.105732,
+        "long": -88.2281018
+      },
+      {
+        "lat": 40.11085653938169,
+        "long": -88.22609810215927
+      },
+      {
+        "lat": 40.110811306674734,
+        "long": -88.2248467072371
+      },
+      {
+        "lat": 40.1109722,
+        "long": -88.2282631
+      },
+      {
+        "lat": 40.1072225,
+        "long": -88.2262016
+      },
+      {
+        "lat": 40.1047599,
+        "long": -88.2319514
+      },
+      {
+        "lat": 40.1110937,
+        "long": -88.2232348
+      },
+      {
+        "lat": 40.11246109008789,
+        "long": -88.22831726074219
+      },
+      {
+        "lat": 40.1035833,
+        "long": -88.228405
+      },
+      {
+        "lat": 40.108419421661715,
+        "long": -88.2261156301609
+      },
+      {
+        "lat": 40.0995003,
+        "long": -88.223104
+      },
+      {
+        "lat": 40.103627234541904,
+        "long": -88.22601765311099
+      },
+      {
+        "lat": 40.1034533,
+        "long": -88.2327596
+      },
+      {
+        "lat": 40.102726858556835,
+        "long": -88.23259991223857
+      },
+      {
+        "lat": 40.10764262805109,
+        "long": -88.23074052515514
+      },
+      {
+        "lat": 40.1131317,
+        "long": -88.2264552
+      },
+      {
+        "lat": 40.107534,
+        "long": -88.2281548
+      },
+      {
+        "lat": 40.11380515934119,
+        "long": -88.22490788390387
+      },
+      {
+        "lat": 40.1149296,
+        "long": -88.2280589
+      },
+      {
+        "lat": 40.1108856,
+        "long": -88.2269806
+      },
+      {
+        "lat": 40.1020773,
+        "long": -88.2296394
+      },
+      {
+        "lat": 40.10628,
+        "long": -88.22621
+      },
+      {
+        "lat": 40.104794,
+        "long": -88.224264
+      },
+      {
+        "lat": 40.1033599,
+        "long": -88.2292111
+      },
+      {
+        "lat": 40.10127390836906,
+        "long": -88.2226073524728
+      },
+      {
+        "lat": 40.101862,
+        "long": -88.231737
+      },
+      {
+        "lat": 40.107811,
+        "long": -88.2260761
+      },
+      {
+        "lat": 40.106778040727896,
+        "long": -88.2194617156191
+      },
+      {
+        "lat": 40.1028373,
+        "long": -88.2251326
+      },
+      {
+        "lat": 40.10944320239664,
+        "long": -88.22602522743233
+      },
+      {
+        "lat": 40.1149521,
+        "long": -88.2267561
+      },
+      {
+        "lat": 40.092875494224195,
+        "long": -88.22082220247309
+      },
+      {
+        "lat": 40.111691,
+        "long": -88.2242511
+      },
+      {
+        "lat": 40.1022093629303,
+        "long": -88.22800864058527
+      },
+      {
+        "lat": 40.10783362157985,
+        "long": -88.22476189569741
+      },
+      {
+        "lat": 40.108570819242026,
+        "long": -88.22518453938676
+      },
+      {
+        "lat": 40.11397164321797,
+        "long": -88.2265192685827
+      },
+      {
+        "lat": 40.10593795776367,
+        "long": -88.2270736694336
+      },
+      {
+        "lat": 40.105587640130146,
+        "long": -88.22025111416733
+      },
+      {
+        "lat": 40.10802885201532,
+        "long": -88.22239700364068
+      },
+      {
+        "lat": 40.11180304465921,
+        "long": -88.22613003543475
+      },
+      {
+        "lat": 40.10623714823253,
+        "long": -88.2232659093846
+      },
+      {
+        "lat": 40.1048704,
+        "long": -88.2229036
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}

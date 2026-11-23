@@ -4,7 +4,7 @@
   "year": "2027",
   "term": "spring",
   "startedAt": 1795415072558,
-  "lastUpdated": 1795416010577,
+  "lastUpdated": 1795416070745,
   "totalSubjects": 188,
   "totalCourses": 4539,
   "subjects": [
@@ -18834,19 +18834,22 @@
     "HORT",
     "HDFS",
     "DTX",
-    "HUM"
+    "HUM",
+    "IE",
+    "INFO",
+    "IS"
   ],
   "partialSubjects": {
-    "IE": {
-      "completed": 1,
-      "total": 28,
+    "IB": {
+      "completed": 26,
+      "total": 39,
       "lastCourse": "ABORTED"
     }
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 2512,
-    "failedCourses": 14,
+    "successfulCourses": 2699,
+    "failedCourses": 15,
     "rateLimitCount": 0
   }
 }
