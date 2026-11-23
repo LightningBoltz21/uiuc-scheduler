@@ -4,7 +4,7 @@
   "year": "2027",
   "term": "spring",
   "startedAt": 1795415072558,
-  "lastUpdated": 1795416245961,
+  "lastUpdated": 1795416305565,
   "totalSubjects": 188,
   "totalCourses": 4539,
   "subjects": [
@@ -18863,19 +18863,23 @@
     "MDVL",
     "MICR",
     "MILS",
-    "GRKM"
+    "GRKM",
+    "MCB",
+    "MIP",
+    "MUSE",
+    "MUS"
   ],
   "partialSubjects": {
-    "MCB": {
-      "completed": 0,
-      "total": 54,
+    "MUSC": {
+      "completed": 30,
+      "total": 120,
       "lastCourse": "ABORTED"
     }
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 3202,
-    "failedCourses": 18,
+    "successfulCourses": 3393,
+    "failedCourses": 19,
     "rateLimitCount": 0
   }
 }
