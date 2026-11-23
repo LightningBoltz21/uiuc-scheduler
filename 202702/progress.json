@@ -4,7 +4,7 @@
   "year": "2027",
   "term": "spring",
   "startedAt": 1795415072558,
-  "lastUpdated": 1795416130712,
+  "lastUpdated": 1795416185581,
   "totalSubjects": 188,
   "totalCourses": 4539,
   "subjects": [
@@ -18848,19 +18848,26 @@
     "LER",
     "LA",
     "LAT",
-    "LAST"
+    "LAST",
+    "LLS",
+    "LAW",
+    "LCTL",
+    "LAS",
+    "LING",
+    "SLCL",
+    "MSE"
   ],
   "partialSubjects": {
-    "LLS": {
-      "completed": 8,
-      "total": 30,
+    "MATH": {
+      "completed": 9,
+      "total": 69,
       "lastCourse": "ABORTED"
     }
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 2867,
-    "failedCourses": 16,
+    "successfulCourses": 3036,
+    "failedCourses": 17,
     "rateLimitCount": 0
   }
 }
