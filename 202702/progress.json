@@ -4,7 +4,7 @@
   "year": "2027",
   "term": "spring",
   "startedAt": 1795415072558,
-  "lastUpdated": 1795415200562,
+  "lastUpdated": 1795415260633,
   "totalSubjects": 188,
   "totalCourses": 4539,
   "subjects": [
@@ -18733,19 +18733,27 @@
   },
   "completedSubjects": [
     "ACCY",
-    "ASRM"
+    "ASRM",
+    "ADV",
+    "AE",
+    "AFRO",
+    "AFST",
+    "AGCM",
+    "AGED",
+    "ALEC",
+    "ABE"
   ],
   "partialSubjects": {
-    "ADV": {
-      "completed": 24,
-      "total": 50,
+    "ACE": {
+      "completed": 40,
+      "total": 61,
       "lastCourse": "ABORTED"
     }
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 91,
-    "failedCourses": 1,
+    "successfulCourses": 270,
+    "failedCourses": 2,
     "rateLimitCount": 0
   }
 }
