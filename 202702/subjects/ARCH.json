@@ -1,7 +1,7 @@
 {
   "subject": "ARCH",
-  "scrapedAt": 1795415320604,
-  "courseCount": 40,
+  "scrapedAt": 1795415348191,
+  "courseCount": 43,
   "courses": {
     "ARCH 232": [
       "Structural Fundamentals",
@@ -2507,6 +2507,272 @@
       [],
       "Individual investigation of building types and systems, aesthetic theories, programming and other problems in architectural design.",
       []
+    ],
+    "ARCH 599": [
+      "Thesis Research",
+      {
+        "10349": [
+          "10349",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "DFR": [
+          "54174",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Ruggles, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          12,
+          0,
+          [],
+          -1
+        ],
+        "KEH": [
+          "69918",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Holliday, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "WS": [
+          "12253",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Sullivan, W"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          12,
+          0,
+          [],
+          -1
+        ],
+        "YKY": [
+          "73738",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Yi, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          12,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "For doctoral students in Architecture who have completed their required coursework and are working on their dissertations or who are completing their dissertation proposals prior to their preliminary examinations. Consists of focused writing of the dissertation or proposal as directed by Dissertation Advisor. Arranged sessions provide time devoted to meeting writing goals; discussion of the writing process; advisor feedback on students' writing, and guidance on how to make progress on the writing. Reserved for use by Ph.D. students in the writing phase of their dissertation work or in the semester leading to their preliminary examinations. In extraordinary cases it may be approved for use by M.S. students submitting a written thesis.",
+      []
+    ],
+    "ARCH 598": [
+      "Specialized Architectural Practice",
+      {
+        "TJ": [
+          "78410",
+          [
+            [
+              0,
+              "",
+              "TBA",
+              0,
+              [
+                "Johnson, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Academic dimension to professionally supervised field experiences in which problems in architectural design and technology are defined, researched, and solved. Advanced doctoral students are introduced to applied research processes in any of architecture's sub-disciplines. Sites of applied research may include commercial firms, not-for-profit organizations, and government agencies. Students work in school-approved firms or agencies of their choice. Written accounts of work, documentation of research questions, and reflective experiential learning reports must be submitted.",
+      []
+    ],
+    "ARCH 596": [
+      "Special Problems in Health and Wellbeing",
+      {
+        "AAA": [
+          "76193",
+          [
+            [
+              77,
+              "T",
+              "108 David Kinley Hall",
+              16,
+              [
+                "Ekici, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          13,
+          0,
+          [],
+          -1
+        ],
+        "AB": [
+          "30343",
+          [
+            [
+              86,
+              "T",
+              "174 Wohlers Hall",
+              2,
+              [
+                "Brackeen, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          13,
+          0,
+          [],
+          -1
+        ],
+        "DN": [
+          "30344",
+          [
+            [
+              86,
+              "T",
+              "111 David Kinley Hall",
+              16,
+              [
+                "Nduom, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          13,
+          0,
+          [],
+          -1
+        ],
+        "EMS": [
+          "49688",
+          [
+            [
+              86,
+              "F",
+              "ONLINE",
+              0,
+              [
+                "Natke, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "LD": [
+          "79278",
+          [
+            [
+              7,
+              "MW",
+              "TBA",
+              0,
+              [
+                "Dearborn, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          13,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "In-depth investigation of emerging issues and specific areas of research interest by individuals or groups. Topics are those beyond what is covered in graduate courses regularly offered in the area of health and wellbeing, including theories and knowledge of specific buildings or projects in diverse global contexts; comparative studies; and theoretical, conceptual, and health-focused problems.",
+      []
     ]
   },
   "caches": {
@@ -2596,7 +2862,8 @@
       "1030 - 1120",
       "1130 - 1220",
       "1330 - 1750",
-      "1300 - 1620"
+      "1300 - 1620",
+      "1300 - 1520"
     ],
     "dateRanges": [],
     "scheduleTypes": [
