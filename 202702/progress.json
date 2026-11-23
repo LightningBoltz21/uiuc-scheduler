@@ -4,7 +4,7 @@
   "year": "2027",
   "term": "spring",
   "startedAt": 1795415072558,
-  "lastUpdated": 1795415700772,
+  "lastUpdated": 1795415765500,
   "totalSubjects": 188,
   "totalCourses": 4539,
   "subjects": [
@@ -18795,19 +18795,25 @@
     "ESE",
     "EALC",
     "ECON",
-    "EDUC"
+    "EDUC",
+    "EPOL",
+    "ERAM",
+    "EDPR",
+    "EPSY",
+    "ECE",
+    "ES"
   ],
   "partialSubjects": {
-    "EPOL": {
-      "completed": 18,
-      "total": 49,
+    "ENG": {
+      "completed": 9,
+      "total": 21,
       "lastCourse": "ABORTED"
     }
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 1563,
-    "failedCourses": 9,
+    "successfulCourses": 1752,
+    "failedCourses": 10,
     "rateLimitCount": 0
   }
 }
