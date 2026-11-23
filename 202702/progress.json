@@ -4,7 +4,7 @@
   "year": "2027",
   "term": "spring",
   "startedAt": 1795415072558,
-  "lastUpdated": 1795416495595,
+  "lastUpdated": 1795416555572,
   "totalSubjects": 188,
   "totalCourses": 4539,
   "subjects": [
@@ -18888,19 +18888,29 @@
     "PSYC",
     "QUEC",
     "RST",
-    "MBA"
+    "MBA",
+    "REL",
+    "RHET",
+    "RMLG",
+    "RUSS",
+    "REES",
+    "SCAN",
+    "SLAV",
+    "SOCW",
+    "SOC",
+    "SAME"
   ],
   "partialSubjects": {
-    "REL": {
-      "completed": 3,
-      "total": 20,
+    "SPAN": {
+      "completed": 18,
+      "total": 46,
       "lastCourse": "ABORTED"
     }
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 3948,
-    "failedCourses": 22,
+    "successfulCourses": 4123,
+    "failedCourses": 23,
     "rateLimitCount": 0
   }
 }
