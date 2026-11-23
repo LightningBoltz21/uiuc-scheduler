@@ -4,7 +4,7 @@
   "year": "2027",
   "term": "spring",
   "startedAt": 1795415072558,
-  "lastUpdated": 1795415640682,
+  "lastUpdated": 1795415700772,
   "totalSubjects": 188,
   "totalCourses": 4539,
   "subjects": [
@@ -18789,19 +18789,25 @@
     "CSE",
     "CS",
     "CW",
-    "CPSC"
+    "CPSC",
+    "CI",
+    "DANC",
+    "ESE",
+    "EALC",
+    "ECON",
+    "EDUC"
   ],
   "partialSubjects": {
-    "CI": {
-      "completed": 14,
-      "total": 48,
+    "EPOL": {
+      "completed": 18,
+      "total": 49,
       "lastCourse": "ABORTED"
     }
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 1370,
-    "failedCourses": 8,
+    "successfulCourses": 1563,
+    "failedCourses": 9,
     "rateLimitCount": 0
   }
 }
